@@ -1,6 +1,7 @@
 bulgarian
 croatian
 czech
+dine_bizaad_navajo
 english
 french
 french_prosodylab
