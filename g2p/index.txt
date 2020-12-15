@@ -9,8 +9,9 @@ french_prosodylab_g2p
 german_g2p
 german_prosodylab_g2p
 hausa_g2p
-japanese_g2p
-korean_g2p
+japanese_character_g2p
+korean_hangul_g2p
+korean_jamo_g2p
 mandarin_character_g2p
 mandarin_pinyin_g2p
 polish_g2p
@@ -23,5 +24,4 @@ thai_g2p
 turkish_g2p
 ukrainian_g2p
 vietnamese_g2p
-vietnamese_vphon_south_g2p
 wu_g2p

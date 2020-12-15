@@ -17,7 +17,6 @@ czech
 * Schultz, T., Vu, N. T., & Schlippe, T. (2013). Globalphone: A multilingual text & speech database in 20 languages. In 2013 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8126-8130). IEEE.
 
 dine_bizaad_navjo
-
 * Palakurthy, K. (2019). Variation in Diné bizaad. Archived collection at the Alaska Native Language Archive (ANLA). Available online at https://www.uaf.edu/anla/collections/search/result.xml/index.xml?collection=64.
 
 english
@@ -106,10 +105,13 @@ german_prosodylab_g2p
 hausa_g2p
 * Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
 
-japanese_g2p
+japanese_character_g2p
 * Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
 
-korean_g2p
+korean_hangul_g2p
+* Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
+
+korean_jamo_g2p
 * Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
 
 mandarin_character_g2p
@@ -144,9 +146,6 @@ ukrainian_g2p
 
 vietnamese_g2p
 * Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
-
-vietnamese_vphon_south_g2p
-* https://github.com/kirbyj/vPhon
 
 wu_g2p
 * 
