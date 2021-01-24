@@ -7,6 +7,9 @@ See also https://montreal-forced-aligner.readthedocs.io/en/latest/pretrained_mod
 
 ### Acoustic models
 
+arabic
+* Schultz, T., Vu, N. T., & Schlippe, T. (2013). Globalphone: A multilingual text & speech database in 20 languages. In 2013 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8126-8130). IEEE.
+
 bulgarian
 * Schultz, T., Vu, N. T., & Schlippe, T. (2013). Globalphone: A multilingual text & speech database in 20 languages. In 2013 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8126-8130). IEEE.
 
