@@ -3,6 +3,7 @@ bulgarian_g2p
 croatian_g2p
 czech_g2p
 english_g2p
+english_us_ipa_g2p
 french_g2p
 french_lexique_g2p
 french_prosodylab_g2p
