@@ -4,6 +4,7 @@ croatian
 czech
 dine_bizaad_navajo
 english
+english_ipa
 french
 french_prosodylab
 french_qc

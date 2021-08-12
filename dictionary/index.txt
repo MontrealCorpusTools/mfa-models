@@ -1,4 +1,5 @@
 german_prosodylab
 english
 english_us_ipa
+english_uk_ipa
 french_prosodylab
