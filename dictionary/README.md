@@ -30,7 +30,7 @@ The basics are as follows:
       * /ï/ &rarr; /ɨ/ in Hanoi Vietnamese
       * etc
 
-I am not familiar with most of the languages in this set, so if you have any corrections to the analysis present in them, please do let me know, or submit a PR. Most are also currently in an unfinished state and quite small, so expect them to be updated with some more entries from G2P models in the near future.
+I am not familiar with most of the languages in this set, so if you have any corrections to the analysis present in them, please do let me know ([michael.e.mcauliffe@gmail.com](mailto:michael.e.mcauliffe@gmail.com)) or submit a [GitHub issue](https://github.com/MontrealCorpusTools/mfa-models/issues/new) or[PR](https://github.com/MontrealCorpusTools/mfa-models/compare). Most are also currently in an unfinished state and quite small, so expect them to be updated with some more entries from G2P models in the near future.
 
 References
 ----------
