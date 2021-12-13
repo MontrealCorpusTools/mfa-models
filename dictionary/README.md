@@ -16,13 +16,15 @@ The basics are as follows:
       * /ɫ/ &rarr; /l/, /ʍ/ &rarr; /w/ in English
       * /r/ &rarr; /ʁ/ in French
       * /ʁ ɹ ɻ χ ɦ h r/ &rarr; /x/ in Brazilian Portuguese
-    * Standardizing phones
+    * Standardizing diphthongs, afficates, etc
       * Merging sequences of /a ʊ/ into a single /aʊ/ phone
+      * Merging sequences of vowels in Mandarin to single nucleus
     * Standardizing tones
       * Transforming all tones to Chao system (i.e. Mandarin /k w a˨˩˦ n/ goes to /k w a˨˩˦ n/)
+      * Placing tone diacritics on the vowel nucleus rather than on the final segment in the syllable
     * Fixing up character glyphs
       * /õ ẽ ũ ĩ ã/ &rarr; /õ ẽ ũ ĩ ɐ̃/ in Portuguese (single character to compound with nasality diacritic)
-    * Correcting many mistranscriptions (NB: This may be because I'm unfamiliar with the language or dialectal variation or it wasn't noted in the sources below.  Either way, feel free to let me know of any reversions I should do.)
+    * Correcting many mistranscriptions (**NB**: This may be because I'm unfamiliar with the language or dialectal variation or it wasn't noted in the sources below.  Either way, feel free to let me know of any reversions I should do.)
       * /r/ &rarr; /ɹ/ in US English
       * /cʰ/ &rarr; /tɕʰ/ in Thai
       * /tʃ/ &rarr; /tɕ/ in Tamil
@@ -30,7 +32,7 @@ The basics are as follows:
       * /ï/ &rarr; /ɨ/ in Hanoi Vietnamese
       * etc
 
-I am not familiar with most of the languages in this set, so if you have any corrections to the analysis present in them, please do let me know ([michael.e.mcauliffe@gmail.com](mailto:michael.e.mcauliffe@gmail.com)) or submit a [GitHub issue](https://github.com/MontrealCorpusTools/mfa-models/issues/new) or[PR](https://github.com/MontrealCorpusTools/mfa-models/compare). Most are also currently in an unfinished state and quite small, so expect them to be updated with some more entries from G2P models in the near future.
+I am not familiar with most of the languages in this set, so if you have any corrections to the analysis present in them, please do let me know ([michael.e.mcauliffe@gmail.com](mailto:michael.e.mcauliffe@gmail.com)) or submit a [GitHub issue](https://github.com/MontrealCorpusTools/mfa-models/issues/new) or [PR](https://github.com/MontrealCorpusTools/mfa-models/compare). Most are also currently in an unfinished state and quite small, so expect them to be updated with some more entries from G2P models in the near future.
 
 References
 ----------
