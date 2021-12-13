@@ -1,0 +1,9 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1  # Use the ref you want to point at
+    hooks:
+      - id: file-contents-sorter
+        files: ^(dictionary/.*.txt|dictionary/.*.dict|acoustic/index.txt|g2p/index.txt|ivector/index.txt)$
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: mixed-line-ending

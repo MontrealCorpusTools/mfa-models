@@ -29,7 +29,7 @@ french
 * Schultz, T., Vu, N. T., & Schlippe, T. (2013). Globalphone: A multilingual text & speech database in 20 languages. In 2013 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8126-8130). IEEE.
 
 french_qc
-* 
+*
 
 german
 * Schultz, T., Vu, N. T., & Schlippe, T. (2013). Globalphone: A multilingual text & speech database in 20 languages. In 2013 IEEE International Conference on Acoustics, Speech and Signal Processing (pp. 8126-8130). IEEE.
@@ -151,5 +151,4 @@ vietnamese_g2p
 * Schultz, T., & Schlippe, T. (2014). GlobalPhone: Pronunciation Dictionaries in 20 Languages. In LREC (pp. 337-341).
 
 wu_g2p
-* 
-
+*
