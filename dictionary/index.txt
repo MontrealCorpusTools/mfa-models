@@ -13,6 +13,7 @@ japanese_ipa
 korean_hangul_ipa
 korean_jamo_ipa
 mandarin_ipa
+mandarin_pinyin
 polish_ipa
 portuguese_brazil_ipa
 portuguese_portugal_ipa
