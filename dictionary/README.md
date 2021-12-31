@@ -38,10 +38,12 @@ References
 ----------
 
 * Bulgarian
+ * [XPF Corpus - Bulgarian](https://cohenpr-xpf.github.io/XPF/conv_resources/info/bg.html)
   * [Bulgarian Phonology Wikipedia](https://en.wikipedia.org/wiki/Bulgarian_phonology)
 * Croatian
   * [Serbo-Croatian Phonology Wikipedia](https://en.wikipedia.org/wiki/Serbo-Croatian_phonology)
 * Czech
+  * [XPF Corpus - Czech](https://cohenpr-xpf.github.io/XPF/conv_resources/info/cs.html)
   * [Czech Phonology Wikipedia](https://en.wikipedia.org/wiki/Czech_phonology)
 * French
   * [Standard French Phonology Wikipedia](https://en.wikipedia.org/wiki/French_phonology)
@@ -57,6 +59,8 @@ References
   * [jamo package for converting Hangul to Jamo](https://pypi.org/project/jamo/)
 * Mandarin
   * [Standard Chinese Phonology Wikipedia](https://en.wikipedia.org/wiki/Standard_Chinese_phonology)
+* Mandarin_pinyin
+  * [MTTS lexicon](https://github.com/Jackiexiao/MTTS/tree/master/misc)
 * Polish
   * [Polish Phonology Wikipedia](https://en.wikipedia.org/wiki/Polish_phonology)
 * Portuguese
@@ -68,6 +72,8 @@ References
   * [Spanish Phonology Wikipedia](https://en.wikipedia.org/wiki/Spanish_phonology)
 * Swedish
   * [Swedish Phonology Wikipedia](https://en.wikipedia.org/wiki/Swedish_phonology)
+* Swahili
+  * [XPF Corpus - Swahili](https://cohenpr-xpf.github.io/XPF/conv_resources/info/sw.html)
 * Tamil
   * [Tamil Phonology Wikipedia](https://en.wikipedia.org/wiki/Tamil_phonology)
 * Thai
