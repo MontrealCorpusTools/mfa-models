@@ -2,3 +2,9 @@
 .idea/
 
 g2p_models_backup/
+
+docs/build/
+
+dictionary/temp/
+
+dictionary/filter_lists/
