@@ -1649,8 +1649,6 @@ börsnoterade	b øː r s n ʊ t ɛ r ɑː d ɛ
 börsvärdet	b øː r s ʋ æː ɖ ɛ t
 böta	b øː t a˥˩
 böter	b œ t ɛ r
-c	k
-c	s
 c	s eː
 cabezas	k a b ɛ˧˩ t s a˥˩ s
 cacem	k a s ɛ m
@@ -3229,6 +3227,7 @@ fyrahundratusen	f yː r a h ɵ n d r a t ʉː s ɛ n
 fyraprocentsspärren	f yː r a p r ʊ s ɛ n t s p ɛ˥˩ r ɛ n
 fyratusen	f yː r a t ʉː s ɛ n
 fyratusenfemhundra	f yː r a t ʉː s ɛ n f ɛ m h ɵ n d r a
+fyraårige	f yː r a oː r j ɛ˩
 fyrhjulingar	f yː r j ʉː l ɪ ŋ a r
 fyrklöver	f yː r k l øː ʋ ɛ r
 fyrmänning	f yː˧˩ r m ɛ˥˩ n ɪ ŋ
@@ -3687,10 +3686,7 @@ förändringen	f œ r ɛ n d r ɪ ŋ eː n
 förödelsen	f œ r øː d ɛ l s ɛ n
 fötterna	f œ t æː ɳ a
 fötts	f œ t s
-g	j
-g	ɡ
 g	ɡ eː
-g	ɧ
 gabbe	ɡ a˧˩ b ɛ˥˩
 gabriel	ɡ ɑː b r ɪ ɛ l
 gabrielsson	ɡ ɑː b r ɪ ɛ l s uː n
@@ -4669,7 +4665,6 @@ höstens	h œ s t eː n s
 höyre	h œ yː r ɛ
 höyres	h œ yː r ɛ s
 i	iː
-i	ɪ
 iakttagare	iː˧˩ a˥˩ k t t ɑː ɡ a r ɛ
 ibland	ɪ b l a n d
 ici	ɪ s iː
@@ -5039,9 +5034,6 @@ ivar	iː ʋ a r
 ivarsson	iː ʋ a r s uː n
 iväg	iː ʋ eː ɡ
 iwarson	j w a ʂ uː n
-j	j
-j	j iː
-j	ɧ
 ja	j a
 ja	j aː
 ja	j ɑː
@@ -5243,9 +5235,7 @@ jävig	j ɛː ʋ ɪ ɡ
 jönköping	j œ n ɕ øː p ɪ ŋ
 jörgen	j œ r j ɛ n
 jörn	j øː r n
-k	k
 k	k oː
-k	ɕ
 kabila	k a b ɪ l a
 kabilas	k a b ɪ l a˥˩ s
 kabinettssekreterare	k a b ɪ n ɛ t s ɛ k r ɛ t ɛ r a r ɛ
@@ -7825,8 +7815,6 @@ nötkråka	n øː t k r oː k a
 nött	n œ t
 o	oː
 o	uː
-o	ɔ
-o	ʊ
 oacceptabelt	uː˧˩ a k s ɛ p t a b ɛ l t
 oavbrutet	uː˧˩ ɑː ʋ b r ʉː t eː t
 oavsett	uː˧˩ ɑː˧˩ ʋ s ɛ t
@@ -8599,6 +8587,7 @@ procent	p r ʊ s ɛ n t
 procenten	p r ʊ s ɛ n t ɛ˩ n
 procentenhet	p r ʊ s ɛ n t eː n h eː t
 procentenheter	p r ʊ s ɛ n t eː n h eː t ɛ r
+procentig	p r ʊ s ɛ n t ɪ ɡ
 procentiga	p r ʊ s ɛ n t ɪ ɡ a˥˩
 procents	p r ʊ s ɛ n t s
 process	p r ʊ s ɛ s
@@ -9571,6 +9560,7 @@ sextusen	s ɛ k s t ʉː s ɛ n
 sexualitet	s ɛ k s ɵ a l ɪ t eː t
 sexualkunskap	s ɛ k s ɵ ɑː l k ɵ n s k ɑː p
 sexuella	s ɛ k s ɵ ɛ l a
+sexårige	s ɛ k s ɔ r j ɛ˩
 shabaprovinsen	ɧ a b a p r uː ʋ ɪ n s ɛ n
 shankar	ɧ a ŋ k a r
 sharansky	ɧ a˥˩ r a˧˩ n ɧ yː
@@ -10030,10 +10020,12 @@ slopas	s l uː p a s
 slovenien	s l uː ʋ eː n ɪ ɛ n
 slump	s l ɵ m p
 slussa	s l ɵ˧˩ s a˥˩
+slut	s l ʉː t
 sluta	s l ʉː˧˩ t a˥˩
 slutade	s l ʉː˧˩ t ɑː d ɛ
 slutar	s l ʉː t a r
 slutat	s l ʉː˧˩ t ɑː t
+sluten	s l ʉː˧˩ t eː n
 slutet	s l ʉː˧˩ t eː t
 slutföra	s l ʉː˧˩ t f œː r a
 slutförhandlingarna	s l ʉː˧˩ t f øː r h a˧˩ n d l ɪ˧˩ ŋ a˥˩ ɳ a
@@ -11603,6 +11595,7 @@ tretusen	t r ɛ˧˩ t ʉː s ɛ n
 tretusenetthundra	t r ɛ˧˩ t ʉː s ɛ n ɛ t h ɵ n d r a
 tretusenniohundra	t r ɛ˧˩ t ʉː s ɛ n ɪ ʊ h ɵ n d r a
 trevlig	t r eː ʋ l ɪ ɡ
+treåringen	t r ɛ˧˩ oː r ɪ ŋ eː n
 tribunalen	t r ɪ b ʉː n ɑː l ɛ n
 tricab	t r ɪ s a b
 triljard	t r ɪ l j ɑː r d
@@ -11869,7 +11862,6 @@ törling	t øː r l ɪ ŋ
 törnberg	t øː r n b ɛ r j
 törnqvist	t øː r n k ʋ ɪ˥˩ s t
 törnskata	t øː r n s k ɑː t a
-u	ɵ
 u	ʉː
 ubåtar	ɵ b oː t ɑː r
 uddevalla	ɵ d d ɛ ʋ a l a
@@ -12876,8 +12868,6 @@ vårting	ʋ oː˧˩ r ʈ ɪ˥˩ ŋ
 vårtsvin	ʋ oː ʈ s ʋ iː n
 våt	ʋ oː t
 w	d ɵ b ɛ l ʋ eː
-w	w
-w	ʋ
 waigel	ʋ a˧˩ iː ɡ ɛ l
 wal	w ɑː l
 walleniusrederiernas	ʋ a˧˩ l ɛ˥˩ n ɪ ɵ r ɛ d eː r ɪ ɛ r n a s
@@ -12961,7 +12951,6 @@ yttrande	ʏ t r a n d ɛ
 yttrium	ʏ t r ɪ ɵ m
 yusuf	ʏ ɵ˧˩ s ʉː f
 yvas	yː˧˩ ʋ a˥˩ s
-z	s
 z	s ɛː t a
 zabdalen	s a b d ɑː l ɛ n
 zaire	s a j r ɛ
@@ -12986,7 +12975,6 @@ zombie	s ɔ m b ɪ
 zon	s uː n
 zoran	s uː r ɑː n
 à	aː
-ä	ɛ
 ä	ɛː
 äckelgubbe	ɛ k ɛ l ɡ ɵ b ɛ
 äcklig	ɛ˧˩ k l ɪ˥˩ ɡ
@@ -13079,7 +13067,6 @@ zoran	s uː r ɑː n
 även	ɛː ʋ ɛ n
 äventyra	ɛː ʋ ɛ n t yː r a
 å	oː
-å	ɔ
 åberopade	oː b ɛ r ʊ p ɑː d ɛ
 åboensisk	oː b ʊ ɛ n s ɪ s k
 åda	oː˧˩ d a˥˩
@@ -13118,6 +13105,7 @@ zoran	s uː r ɑː n
 årets	oː r ɛ t s
 åriga	oː r ɪ ɡ a˥˩
 årige	oː r j ɛ˩
+åring	oː r ɪ˥˩ ŋ
 årlig	oː˧˩ ɭ ɪ˥˩ ɡ
 årliga	oː˧˩ ɭ ɪ˥˩ ɡ a˥˩
 årligen	oː˧˩ ɭ ɪ ɡ ɛ n
@@ -13174,6 +13162,7 @@ zoran	s uː r ɑː n
 åttahundra	ɔ t a˥˩ h ɵ n d r a
 åttahundrafemtio	ɔ t a˥˩ h ɵ n d r a f ɛ m t ɪ˥˩
 åttatusen	ɔ t a t ʉː s ɛ n
+åttaårige	ɔ t a oː r j ɛ˩
 åttio	ɔ˧˩ t ɪ˥˩
 åttio	ɔ˧˩ t ɪ˥˩ ʊ
 åttioen	ɔ˧˩ t ɪ˥˩ ʊ ɛ n
@@ -13187,7 +13176,6 @@ zoran	s uː r ɑː n
 åttonde	ɔ t ɔ n d ɛ
 é	eː
 ö	øː
-ö	œ
 öar	øː a r
 öarna	øː a ɳ a
 öb	øː b
@@ -13359,7 +13347,5 @@ zoran	s uː r ɑː n
 övrig	øː ʋ r ɪ˥˩ ɡ
 övriga	øː ʋ r ɪ ɡ a˥˩
 övrigt	øː ʋ r j t
-ā	ɛ
 ā	ɛː
 ō	øː
-ō	œ
