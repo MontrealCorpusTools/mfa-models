@@ -9,7 +9,7 @@
 :phoneset: IPA
 :architecture: pynini
 
-   ```{include} ../../../g2p/Ukrainian/IPA/v2.0.0/README.md
+   ```{include} ../../../g2p/ukrainian/ipa/v2.0.0/README.md
     :start-line: 17
     :end-line: 29
    ```
@@ -20,6 +20,6 @@
    ```
 ``````
 
-```{include} ../../../g2p/Ukrainian/IPA/v2.0.0/README.md
+```{include} ../../../g2p/ukrainian/ipa/v2.0.0/README.md
 :start-line: 29
 ```

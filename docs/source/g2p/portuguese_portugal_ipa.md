@@ -9,7 +9,7 @@
 :phoneset: IPA
 :architecture: pynini
 
-   ```{include} ../../../g2p/Portuguese_Portugal/IPA/v2.0.0/README.md
+   ```{include} ../../../g2p/portuguese_portugal/ipa/v2.0.0/README.md
     :start-line: 17
     :end-line: 29
    ```
@@ -20,6 +20,6 @@
    ```
 ``````
 
-```{include} ../../../g2p/Portuguese_Portugal/IPA/v2.0.0/README.md
+```{include} ../../../g2p/portuguese_portugal/ipa/v2.0.0/README.md
 :start-line: 29
 ```

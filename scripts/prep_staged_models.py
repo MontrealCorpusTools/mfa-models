@@ -571,15 +571,15 @@ If you are using this dictionary in production, you should acknowledge this as a
 """
 
 acoustic_docs_md_template = """
-# {language_name} {phone_set} acoustic model
+# {language_name} {phone_set_name} acoustic model
 
-``````{{acoustic}} {language_name} {phone_set} acoustic model
+``````{{acoustic}} {language_name} {phone_set_name} acoustic model
 :id: {model_name}_acoustic
 :layout: {model_type}
 :template: {model_type}_template
 :tags: {tags}
 :language: {language_name}
-:phoneset: {phone_set}
+:phoneset: {phone_set_name}
 :architecture: {architecture}
 
    ```{{include}} ../../../{model_type}/{language}/{phone_set}/v{version}/README.md
@@ -595,14 +595,14 @@ acoustic_docs_md_template = """
 ```"""
 
 g2p_docs_md_template = """
-# {language_name} {phone_set} G2P model
+# {language_name} {phone_set_name} G2P model
 
-``````{{g2p}} {language_name} {phone_set} G2P model
+``````{{g2p}} {language_name} {phone_set_name} G2P model
 :id: {model_name}_g2p
 :tags: {tags}
 :layout: {model_type}
 :language: {language_name}
-:phoneset: {phone_set}
+:phoneset: {phone_set_name}
 :architecture: {architecture}
 
    ```{{include}} ../../../g2p/{language}/{phone_set}/v{version}/README.md
@@ -641,15 +641,15 @@ lm_docs_md_template = """
 ```"""
 
 dictionary_docs_md_template = """
-# {language_name} {phone_set} dictionary
+# {language_name} {phone_set_name} dictionary
 
-``````{{dictionary}} {language_name} {phone_set} dictionary
+``````{{dictionary}} {language_name} {phone_set_name} dictionary
 :id: {model_name}_dictionary
 :tags: {tags}
 :language: {language_name}
 :layout: {model_type}
 :template: dictionary_template
-:phoneset: {phone_set}
+:phoneset: {phone_set_name}
 
    ```{{include}} ../../../dictionary/{language}/{phone_set}/v{version}/README.md
     :start-line: {start_line}
@@ -943,15 +943,16 @@ def extract_doc_card_fields(meta_data, model_type):
         return {
             'model_name': generate_id(meta_data),
             'model_type': model_type,
-            'language': meta_data['language'],
             'architecture': meta_data['architecture'],
-            'language_name': meta_data['language'].title(),
             'version': meta_data['version'],
             'start_line': start_line,
             'end_line': end_line,
             'see_also': see_also,
             'tags': '; '.join(tags),
-            'phone_set': meta_data['phone_set'].upper(),
+            'language': meta_data['language'].lower(),
+            'language_name': meta_data['language'].title(),
+            'phone_set': meta_data['phone_set'].lower(),
+            'phone_set_name': meta_data['phone_set'].upper(),
         }
     if model_type == 'dictionary':
         start_line = 11
@@ -966,14 +967,15 @@ def extract_doc_card_fields(meta_data, model_type):
         return {
             'model_name': generate_id(meta_data),
             'model_type': model_type,
-            'language': meta_data['language'],
-            'language_name': meta_data['language'].title(),
             'version': meta_data['version'],
             'start_line': start_line,
             'end_line': end_line,
             'see_also': see_also,
             'tags': '; '.join(tags),
-            'phone_set': meta_data['phone_set'].upper(),
+            'language': meta_data['language'].lower(),
+            'language_name': meta_data['language'].title(),
+            'phone_set': meta_data['phone_set'].lower(),
+            'phone_set_name': meta_data['phone_set'].upper(),
         }
     if model_type == 'g2p':
         start_line = 17
@@ -982,15 +984,16 @@ def extract_doc_card_fields(meta_data, model_type):
         return {
             'model_name': generate_id(meta_data),
             'model_type': model_type,
-            'language': meta_data['language'],
             'architecture': meta_data['architecture'],
-            'language_name': meta_data['language'].title(),
             'version': meta_data['version'],
             'start_line': start_line,
             'end_line': end_line,
             'see_also': see_also,
             'tags': '; '.join(tags),
-            'phone_set': meta_data['phone_set'].upper(),
+            'language': meta_data['language'].lower(),
+            'language_name': meta_data['language'].title(),
+            'phone_set': meta_data['phone_set'].lower(),
+            'phone_set_name': meta_data['phone_set'].upper(),
         }
     if model_type == 'language_model':
         start_line = 16
@@ -999,7 +1002,7 @@ def extract_doc_card_fields(meta_data, model_type):
         return {
             'model_name': generate_id(meta_data),
             'model_type': model_type,
-            'language': meta_data['language'],
+            'language': meta_data['language'].lower(),
             'architecture': meta_data['architecture'],
             'language_name': meta_data['language'].title(),
             'version': meta_data['version'],

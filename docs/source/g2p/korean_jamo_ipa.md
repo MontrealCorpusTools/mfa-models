@@ -9,7 +9,7 @@
 :phoneset: IPA
 :architecture: pynini
 
-   ```{include} ../../../g2p/Korean_Jamo/IPA/v2.0.0/README.md
+   ```{include} ../../../g2p/korean_jamo/ipa/v2.0.0/README.md
     :start-line: 17
     :end-line: 29
    ```
@@ -20,6 +20,6 @@
    ```
 ``````
 
-```{include} ../../../g2p/Korean_Jamo/IPA/v2.0.0/README.md
+```{include} ../../../g2p/korean_jamo/ipa/v2.0.0/README.md
 :start-line: 29
 ```

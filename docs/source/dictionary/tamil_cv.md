@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: CV
 
-   ```{include} ../../../dictionary/Tamil/CV/v2.0.0/README.md
+   ```{include} ../../../dictionary/tamil/cv/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -21,6 +21,6 @@
 
 ``````
 
-```{include} ../../../dictionary/Tamil/CV/v2.0.0/README.md
+```{include} ../../../dictionary/tamil/cv/v2.0.0/README.md
 :start-line: 21
 ```

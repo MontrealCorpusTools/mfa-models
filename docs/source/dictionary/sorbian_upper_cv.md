@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: CV
 
-   ```{include} ../../../dictionary/Sorbian_Upper/CV/v2.0.0/README.md
+   ```{include} ../../../dictionary/sorbian_upper/cv/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -21,6 +21,6 @@
 
 ``````
 
-```{include} ../../../dictionary/Sorbian_Upper/CV/v2.0.0/README.md
+```{include} ../../../dictionary/sorbian_upper/cv/v2.0.0/README.md
 :start-line: 21
 ```

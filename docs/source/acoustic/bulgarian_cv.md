@@ -10,7 +10,7 @@
 :phoneset: CV
 :architecture: gmm-hmm
 
-   ```{include} ../../../acoustic/Bulgarian/CV/v2.0.0/README.md
+   ```{include} ../../../acoustic/bulgarian/cv/v2.0.0/README.md
     :start-line: 15
     :end-line: 28
    ```
@@ -21,6 +21,6 @@
    ```
 ``````
 
-```{include} ../../../acoustic/Bulgarian/CV/v2.0.0/README.md
+```{include} ../../../acoustic/bulgarian/cv/v2.0.0/README.md
 :start-line: 28
 ```

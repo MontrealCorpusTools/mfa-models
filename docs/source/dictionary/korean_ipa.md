@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: IPA
 
-   ```{include} ../../../dictionary/Korean/IPA/v2.0.0/README.md
+   ```{include} ../../../dictionary/korean/ipa/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -22,6 +22,6 @@
 
 ``````
 
-```{include} ../../../dictionary/Korean/IPA/v2.0.0/README.md
+```{include} ../../../dictionary/korean/ipa/v2.0.0/README.md
 :start-line: 21
 ```

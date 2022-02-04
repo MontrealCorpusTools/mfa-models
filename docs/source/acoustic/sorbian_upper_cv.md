@@ -10,7 +10,7 @@
 :phoneset: CV
 :architecture: gmm-hmm
 
-   ```{include} ../../../acoustic/Sorbian_Upper/CV/v2.0.0/README.md
+   ```{include} ../../../acoustic/sorbian_upper/cv/v2.0.0/README.md
     :start-line: 15
     :end-line: 28
    ```
@@ -21,6 +21,6 @@
    ```
 ``````
 
-```{include} ../../../acoustic/Sorbian_Upper/CV/v2.0.0/README.md
+```{include} ../../../acoustic/sorbian_upper/cv/v2.0.0/README.md
 :start-line: 28
 ```

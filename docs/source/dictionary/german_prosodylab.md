@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: PROSODYLAB
 
-   ```{include} ../../../dictionary/German/PROSODYLAB/v2.0.0/README.md
+   ```{include} ../../../dictionary/german/prosodylab/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -21,6 +21,6 @@
 
 ``````
 
-```{include} ../../../dictionary/German/PROSODYLAB/v2.0.0/README.md
+```{include} ../../../dictionary/german/prosodylab/v2.0.0/README.md
 :start-line: 21
 ```

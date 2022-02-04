@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: IPA
 
-   ```{include} ../../../dictionary/English_Uk/IPA/v2.0.0/README.md
+   ```{include} ../../../dictionary/english_uk/ipa/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -21,6 +21,6 @@
 
 ``````
 
-```{include} ../../../dictionary/English_Uk/IPA/v2.0.0/README.md
+```{include} ../../../dictionary/english_uk/ipa/v2.0.0/README.md
 :start-line: 21
 ```

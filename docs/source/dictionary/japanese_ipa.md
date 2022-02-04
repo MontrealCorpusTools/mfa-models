@@ -9,7 +9,7 @@
 :template: dictionary_template
 :phoneset: IPA
 
-   ```{include} ../../../dictionary/Japanese/IPA/v2.0.0/README.md
+   ```{include} ../../../dictionary/japanese/ipa/v2.0.0/README.md
     :start-line: 11
     :end-line: 21
    ```
@@ -22,6 +22,6 @@
 
 ``````
 
-```{include} ../../../dictionary/Japanese/IPA/v2.0.0/README.md
+```{include} ../../../dictionary/japanese/ipa/v2.0.0/README.md
 :start-line: 21
 ```
