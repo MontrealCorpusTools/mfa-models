@@ -1,0 +1,13 @@
+{
+    "name": "sorbian_upper_cv",
+    "language": "Sorbian_Upper",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "a b b\u02b2 d d\u0292 e f h i j k l m m\u02b2 n n\u02b2 o p p\u02b2 s t ts t\u0283 u v w w\u02b2 x z \u0261 \u0268 \u026a \u0280 \u0280\u02b2 \u0283 \u028a \u0292",
+    "word_count": 5684,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

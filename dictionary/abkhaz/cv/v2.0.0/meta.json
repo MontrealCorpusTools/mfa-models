@@ -1,0 +1,13 @@
+{
+    "name": "abkhaz_cv",
+    "language": "Abkhaz",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "@ a b d dz d\u0292\u02b2 d\u02b7 f j k k\u02b2 k\u02b2\u02bc k\u02b7 k\u02b7\u02bc k\u02bc l m n p p\u02bc q\u02b2\u02bc q\u02b7\u02bc q\u02bc r s t ts ts\u02bc t\u0283 t\u0283\u02b2 t\u0283\u02b2\u02bc t\u0283\u02b7 t\u0283\u02bc t\u02b7 t\u02b7\u02bc t\u02bc v w z \u0127 \u0127\u02b7 \u0259 \u0261 \u0261\u02b2 \u0261\u02b7 \u0281 \u0281\u02b2 \u0281\u02b7 \u0283 \u0283\u02b2 \u0283\u02b7 \u0292 \u0292\u02b2 \u0292\u02b7 \u02a1 \u03c7 \u03c7\u02b2 \u03c7\u02b7",
+    "word_count": 3670,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

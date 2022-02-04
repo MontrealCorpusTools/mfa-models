@@ -1,0 +1,13 @@
+{
+    "name": "kurmanji_cv",
+    "language": "Kurmanji",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "a\u02d0 b d d\u0361\u0292 e\u02d0 f h i\u02d0 j k l m n o p q s t t\u0361\u0283 u u\u02d0 v w x z \u014b \u016b \u025b \u0261 \u0263 \u026a \u026b \u027e \u0283 \u028f \u0292 \u02d0",
+    "word_count": 10770,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

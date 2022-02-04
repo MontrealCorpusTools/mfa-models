@@ -1,0 +1,13 @@
+{
+    "name": "spanish_castilian_ipa",
+    "language": "Spanish_Castilian",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/spanish_castilian/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a b d\u032a e f i j k l m n o p r s t\u0283 t\u032a u w x \u00f0 \u014b \u025f\u029d \u0261 \u0263 \u0272 \u027e \u0283 \u028e \u03b2 \u03b8",
+    "word_count": 65323,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_spanish_castilian_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={spanish_castilian ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={spanish_castilian-ipa-2.0.0}"
+}

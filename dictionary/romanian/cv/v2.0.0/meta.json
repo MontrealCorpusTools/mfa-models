@@ -1,0 +1,13 @@
+{
+    "name": "romanian_cv",
+    "language": "Romanian",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "@ a b d\u0292 d\u032a e f h i k l\u032a m n\u032a o p r\u032a s s\u032a t\u0283 t\u032a u v z\u032a \u025c \u0261 \u0268 \u0283 \u0292",
+    "word_count": 10167,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "spanish_latin_america_ipa",
+    "language": "Spanish_Latin America",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/spanish_latin america/ipa/v2.0.0/LICENSE)",
+    "architecture": "pynini",
+    "training": {
+        "num_words": 48785,
+        "num_graphemes": 33,
+        "num_phones": 27
+    },
+    "evaluation": {
+        "num_words": 5420,
+        "word_error_rate": 1.1439114391143912,
+        "phone_error_rate": 0.1769307838246893
+    },
+    "phone_set": "ipa",
+    "phones": [
+        "a",
+        "b",
+        "d",
+        "e",
+        "f",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "r",
+        "s",
+        "t",
+        "t\u0283",
+        "u",
+        "w",
+        "x",
+        "\u014b",
+        "\u025f\u029d",
+        "\u0261",
+        "\u0272",
+        "\u027e",
+        "\u0283",
+        "\u03b2"
+    ],
+    "version": "2.0.0",
+    "train_date": "2022-02-02",
+    "citation": "@techreport{MFA_spanish_latin_america_ipa_G2P model_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={spanish_latin america ipa MFA G2P model v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={spanish_latin america-ipa-2.0.0}"
+}

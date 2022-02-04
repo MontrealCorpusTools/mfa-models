@@ -1,0 +1,13 @@
+{
+    "name": "tamil_ipa",
+    "language": "Tamil",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/tamil/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a a\u026a a\u028a a\u02d0 b d\u0291 d\u032a e e\u02d0 i i\u02d0 j j\u02d0 k k\u02d0 l l\u02d0 m m\u02d0 n n\u02d0 n\u032a n\u032a\u02d0 o o\u02d0 p p\u02d0 r s t\u0255 t\u0255\u02d0 t\u02d0 t\u032a t\u032a\u02d0 u u\u02d0 \u014b \u014b\u02d0 \u0256 \u0261 \u0266 \u026d \u026d\u02d0 \u0272 \u0272\u02d0 \u0273 \u0273\u02d0 \u027b \u027e \u0282 \u0288 \u0288\u02d0 \u028b \u028b\u02d0 \u0294",
+    "word_count": 2481,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_tamil_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={tamil ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={tamil-ipa-2.0.0}"
+}

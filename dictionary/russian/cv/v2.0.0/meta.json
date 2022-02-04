@@ -1,0 +1,13 @@
+{
+    "name": "russian_cv",
+    "language": "Russian",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "a b b\u02b2 c d d\u02b2 d\u0361\u0292 e f f\u02b2 g h i j k k\u02b2 l l\u02b2 m m\u02b2 n n\u02b2 o p p\u02b2 r r\u02b2 s s\u02b2 t t\u02b2 t\u0361s t\u0361s\u02b2 t\u0361\u0255\u02b2 u v v\u02b2 x x\u02b2 z z\u02b2 \u0255\u02d0 \u0255\u02d0\u02b2 \u0261 \u0268 \u0282 \u0282\u02b2\u02d0 \u0292",
+    "word_count": 52769,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

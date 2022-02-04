@@ -1,0 +1,13 @@
+{
+    "name": "armenian_cv",
+    "language": "Armenian",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "b d f h i j k k\u02b0 l m n p p\u02b0 r s s\u02b0 t t\u02b0 u v z \u0251 \u0254 \u0259 \u025b \u0261 \u027e \u0281 \u0283 \u0283\u02b0 \u0292 \u03c7",
+    "word_count": 3281,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

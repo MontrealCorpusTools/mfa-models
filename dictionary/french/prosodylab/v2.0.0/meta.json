@@ -1,0 +1,13 @@
+{
+    "name": "french_prosodylab",
+    "language": "French",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/french/prosodylab/v2.0.0/LICENSE)",
+    "phone_set": "PROSODYLAB",
+    "phones": "@ E G N O R S Z ^ a b cinq d deux e f g huit i j k l m n neuf o p s t to u un v w x y z",
+    "word_count": 125372,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@article{gorman2011prosodylab, author={Gorman, Kyle and Howell, Jonathan and Wagner, Michael}, title={Prosodylab-aligner: A tool for forced alignment of laboratory speech}, journal={Canadian Acoustics}, volume={39}, number={3}, pages={192--193}, year={2011}}"
+}

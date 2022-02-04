@@ -1,0 +1,13 @@
+{
+    "name": "portuguese_portugal_ipa",
+    "language": "Portuguese_Portugal",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/portuguese_portugal/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a aj aw b d e ej ew e\u0303 e\u0303j\u0303 f i iw i\u0303 j k l m n o oj o\u0303 o\u0303j\u0303 p s t t\u0283 u uj u\u0303 u\u0303j\u0303 v w z \u00f0 \u0250 \u0250j \u0250w \u0250\u0303 \u0250\u0303j\u0303 \u0250\u0303w\u0303 \u0254 \u0254j \u025b \u025bj \u025bw \u0261 \u0263 \u0268 \u0272 \u027e \u0281 \u0283 \u028e \u0292 \u03b2",
+    "word_count": 13520,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_portuguese_portugal_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={portuguese_portugal ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={portuguese_portugal-ipa-2.0.0}"
+}

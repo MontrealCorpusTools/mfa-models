@@ -1,0 +1,13 @@
+{
+    "name": "georgian_cv",
+    "language": "Georgian",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "b d dz d\u0292 h i k\u02b0 k\u02bc l m n p\u02b0 p\u02bc q\u02bc s ts ts\u02bc t\u0283 t\u0283\u02bc t\u02b0 t\u02bc u v x z \u0251 \u0254 \u025b \u0261 \u0263 \u027e \u0283 \u0292",
+    "word_count": 12722,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

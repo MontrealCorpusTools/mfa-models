@@ -1,0 +1,13 @@
+{
+    "name": "chuvash_cv",
+    "language": "Chuvash",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "b d e f g i j j\u02d0 k k\u02d0 l l\u02d0 m m\u02d0 n n\u02d0 o p p\u02d0 r r\u02d0 s s\u02d0 t ts ts\u02d0 t\u0283 t\u02d0 u v v\u02d0 y \u0251 \u0255 \u0255\u02d0 \u025b \u026f \u0283 \u0283\u02d0 \u028c \u0292 \u03c7 \u03c7\u02d0",
+    "word_count": 7301,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "czech_ipa",
+    "language": "Czech",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/czech/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a a\u028a a\u02d0 b c d dz d\u0292 e\u028a f i i\u02d0 j k l l\u0329 m m\u0329 n n\u0329 o o\u028a o\u02d0 p r r\u031d r\u0329 s t ts t\u0283 u u\u02d0 v x z \u014b \u025b \u025b\u02d0 \u025f \u0261 \u0266 \u026a \u0271 \u0272 \u0283 \u0292",
+    "word_count": 53585,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_czech_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={czech ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={czech-ipa-2.0.0}"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "arabic_cv",
+    "language": "Arabic",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "_ a a\u02d0 b c d d\u02e4 d\u0361\u0292 e f g h i i\u02d0 j k l m n o p q r s s\u02e4 t t\u02e4 u u\u02d0 v w x y z \u00f0 \u00f0\u02e4 \u0127 \u0263 \u0283 \u0294 \u0295 \u03b8 \u0621 \u0629 \u0640 \u0649 \u0686 \u06a8 \u06a9 \u06be \u06cc \ufe83 \ufefb",
+    "word_count": 74670,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

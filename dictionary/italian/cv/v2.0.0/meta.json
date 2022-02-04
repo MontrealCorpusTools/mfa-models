@@ -1,0 +1,13 @@
+{
+    "name": "italian_cv",
+    "language": "Italian",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "_ a a\u02d0 b b\u02d0 d d\u02d0 d\u0361\u0292 d\u0361\u0292\u02d0 e e\u02d0 f f\u02d0 g h\u02d0 i j k k\u02d0 l l\u02d0 m m\u02d0 n n\u02d0 o o\u02d0 p p\u02d0 r r\u02d0 s s\u02d0 t t\u02d0 t\u0361s t\u0361\u0283 t\u0361\u0283\u02d0 u v v\u02d0 w x y z \u00b5 \u00ba \u00df \u00e1 \u00e3 \u00e5 \u00e6 \u00eb \u00ef \u00f0 \u00f1 \u00f6 \u00f8 \u00fc \u00fe \u00ff \u0105 \u0111 \u0117 \u0119 \u011b \u0127 \u012b \u0131 \u013e \u0142 \u0144 \u0148 \u014d \u0151 \u0153 \u0159 \u015b \u015f \u0161 \u016b \u016d \u01e9 \u0219 \u021b \u0254 \u0259 \u025b \u0261 \u0261\u02d0 \u0272 \u0283 \u028e \u02b9 \u02bb \u02bc \u02be \u02bf \u0430 \u0431 \u0434 \u0435 \u043b \u043d \u043e \u0441 \u0443 \u0446 \u044a \u0451 \u0459 \u04a3 \u05d3 \u05d4 \u05d5 \u0629 \u0631 \u0633 \u0635 \u063a \u0644 \u064a \u1e31 \u1e5b \u1e61 \u1e63 \u1e6d \u1ea1 \u1ebd \u1ee5 \u5bb6 \ua78c",
+    "word_count": 143766,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

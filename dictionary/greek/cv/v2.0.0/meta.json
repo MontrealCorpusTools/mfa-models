@@ -1,0 +1,13 @@
+{
+    "name": "greek_cv",
+    "language": "Greek",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "b d\u032a f i k l m n\u032a o p s t\u032a u v x z \u00f0 \u0250 \u025b \u0261 \u0263 \u027e \u03b8",
+    "word_count": 6010,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "japanese_ipa",
+    "language": "Japanese",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/japanese/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a a\u02d0 b b\u02b2 b\u02d0 c c\u02d0 d dz dz\u02d0 d\u0291 d\u0291\u02d0 d\u02b2 d\u02d0 e e\u02d0 h h\u02d0 i i\u02d0 i\u0325 j k k\u02d0 m m\u02b2 m\u02b2\u02d0 m\u02d0 n n\u02d0 o o\u02d0 p p\u02b2 p\u02b2\u02d0 p\u02d0 r s s\u02d0 t ts ts\u02d0 t\u0255 t\u0255\u02d0 t\u02b2 t\u02d0 u v v\u02b2 w z \u00e7 \u00e7\u02d0 \u014b \u0255 \u0255\u02d0 \u025f \u0261 \u0261\u02d0 \u0268 \u0268\u02d0 \u0268\u0325 \u026f \u026f\u02d0 \u026f\u0325 \u0270\u0303 \u0272 \u0272\u02d0 \u0274 \u0278 \u0278\u02b2 \u0278\u02d0 \u027e \u027e\u02b2 \u027e\u02d0 \u0291",
+    "word_count": 76006,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_japanese_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={japanese ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={japanese-ipa-2.0.0}"
+}

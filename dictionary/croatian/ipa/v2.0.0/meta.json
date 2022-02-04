@@ -1,0 +1,13 @@
+{
+    "name": "croatian_ipa",
+    "language": "Croatian",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/croatian/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a a\u02d0 a\u02d0\u02e6\u02e8 a\u02d0\u02e8\u02e6 a\u02e6\u02e8 a\u02e8\u02e6 b d\u0290 d\u0291 d\u032a e e\u02d0 e\u02d0\u02e6\u02e8 e\u02d0\u02e8\u02e6 e\u02e6\u02e8 e\u02e8\u02e6 f i i\u02d0 i\u02d0\u02e6\u02e8 i\u02d0\u02e8\u02e6 i\u02e6\u02e8 i\u02e8\u02e6 j k l m n o o\u02d0 o\u02d0\u02e6\u02e8 o\u02d0\u02e8\u02e6 o\u02e6\u02e8 o\u02e8\u02e6 p r r\u02d0 r\u0329 r\u0329\u02d0\u02e6\u02e8 r\u0329\u02d0\u02e8\u02e6 r\u0329\u02e6\u02e8 r\u0329\u02e8\u02e6 s\u032a t\u0255 t\u0282 t\u032a t\u032as\u032a u u\u02d0 u\u02d0\u02e6\u02e8 u\u02d0\u02e8\u02e6 u\u02e6\u02e8 u\u02e8\u02e6 v x z\u032a \u0255 \u0261 \u0272 \u0282 \u028e \u0290 \u0291",
+    "word_count": 39656,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_croatian_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={croatian ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={croatian-ipa-2.0.0}"
+}

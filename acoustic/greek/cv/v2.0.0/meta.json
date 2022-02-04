@@ -1,0 +1,42 @@
+{
+    "name": "greek_cv",
+    "language": "Greek",
+    "phone_set": "cv",
+    "version": "2.0.0",
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "architecture": "gmm-hmm",
+    "training": {
+        "num_oovs": 0,
+        "average_log_likelihood": 0,
+        "corpora": [
+            {
+                "name": "[Common Voice 7.0](https://voice.mozilla.org/en/datasets) Greek",
+                "num_hours": 13,
+                "num_speakers": 178,
+                "num_utterances": 11609
+            }
+        ]
+    },
+    "features": {
+        "allow_downsample": true,
+        "allow_upsample": true,
+        "frame_shift": 10,
+        "high_frequency": 7800,
+        "low_frequency": 20,
+        "pitch": false,
+        "sample_frequency": 16000,
+        "snip_edges": true,
+        "use_energy": false,
+        "uses_cmvn": true,
+        "uses_deltas": false,
+        "uses_speaker_adaptation": false,
+        "uses_splices": true,
+        "uses_voiced": false,
+        "feature_type": "mfcc"
+    },
+    "evaluation": {},
+    "decode": {},
+    "train_date": "2021-12-16"
+}

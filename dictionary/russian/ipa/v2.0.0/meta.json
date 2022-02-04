@@ -1,0 +1,13 @@
+{
+    "name": "russian_ipa",
+    "language": "Russian",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/russian/ipa/v2.0.0/LICENSE)",
+    "phone_set": "IPA",
+    "phones": "a b b\u02b2 b\u02b2\u02d0 b\u02d0 c c\u02d0 dz\u02b2 d\u0290 d\u02b2 d\u02b2\u02d0 d\u032a d\u032az\u032a d\u032a\u02d0 e f f\u02b2 f\u02b2\u02d0 i j j\u02d0 k k\u02d0 m m\u02b2 m\u02b2\u02d0 m\u02d0 n\u032a n\u032a\u02d0 o p p\u02b2 p\u02b2\u02d0 p\u02d0 r r\u02b2 r\u02b2\u02d0 r\u02d0 s\u02b2 s\u02b2\u02d0 s\u032a s\u032a\u02d0 ts\u02b2 t\u0255 t\u0255\u02d0 t\u0282 t\u02b2 t\u02b2\u02d0 t\u032a t\u032as\u032a t\u032as\u032a\u02d0 t\u032a\u02d0 u v v\u02b2 v\u02b2\u02d0 v\u02d0 x z\u02b2 z\u02b2\u02d0 z\u032a z\u032a\u02d0 \u00e6 \u00e7 \u0250 \u0255 \u0255\u02d0 \u0259 \u025b \u025f \u0261 \u0261\u02d0 \u0263 \u0268 \u026a \u026b \u026b\u02d0 \u0272 \u0272\u02d0 \u0275 \u0282 \u0282\u02d0 \u0289 \u028a \u028e \u028e\u02d0 \u0290 \u0290\u02d0 \u0291\u02d0",
+    "word_count": 396300,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@techreport{MFA_russian_ipa_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={russian ipa MFA pronunciation dictionary v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={russian-ipa-2.0.0}"
+}

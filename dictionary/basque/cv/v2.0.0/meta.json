@@ -1,0 +1,13 @@
+{
+    "name": "basque_cv",
+    "language": "Basque",
+    "dialect": null,
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "phone_set": "CV",
+    "phones": "a b c d\u032a e f i j k l m n o p r s\u033a s\u033b t\u032a u x \u025f \u0261 \u0272 \u027e \u0283 \u028e",
+    "word_count": 27301,
+    "train_date": "2022-02-03",
+    "version": "2.0.0",
+    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}"
+}

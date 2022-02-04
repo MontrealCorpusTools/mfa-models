@@ -1,0 +1,20 @@
+{
+    "name": "bulgarian_lm",
+    "language": "Bulgarian",
+    "dialect": null,
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/mfa/v2.0.0/LICENSE)",
+    "architecture": "ngram",
+    "version": "2.0.0",
+    "train_date": "2022-01-28",
+    "training": {
+        "num_words": 300475,
+        "num_oovs": 0
+    },
+    "evaluation": {
+        "large_perplexity": 15.3593,
+        "medium_perplexity": 18.8193,
+        "small_perplexity": 24.6932
+    },
+    "citation": "@techreport{MFA_bulgarian_lm_language model_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={bulgarian mfa MFA language model v2.0.0}, address={\\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Jan}, number={bulgarian-mfa-2.0.0}"
+}
