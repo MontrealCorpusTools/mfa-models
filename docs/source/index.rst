@@ -9,12 +9,12 @@ Montreal Forced Aligner Models
     ---
     .. raw:: html
 
-       <i class="fas fa-running fa-4x i-navigation"></i>
+       <i class="fas fa-spell-check fa-4x i-navigation"></i>
 
     Dictionaries
     ^^^^^^^^^^^^
 
-    Install the Montreal Forced Aligner and get started with examples and tutorials.
+    DICTIONARY
 
     +++
 
@@ -26,14 +26,12 @@ Montreal Forced Aligner Models
     ---
     .. raw:: html
 
-       <i class="fas fa-language fa-4x i-navigation"></i>
+       <i class="fas fa-broadcast-tower fa-4x i-navigation"></i>
 
     Grapheme-to-phoneme models
     ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-    Have a particular use case for MFA?
-
-    Check out the first steps tutorials.
+    G2P
 
     +++
 
@@ -62,7 +60,7 @@ Montreal Forced Aligner Models
     ---
     .. raw:: html
 
-       <i class="fas fa-comment-dots fa-4x i-navigation"></i>
+       <i class="fas fa-language fa-4x i-navigation"></i>
 
     Language models
     ^^^^^^^^^^^^^^^
