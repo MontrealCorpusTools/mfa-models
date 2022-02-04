@@ -7,6 +7,7 @@ dependencies:
       - sphinxemoji
       - pydata-sphinx-theme
       - sphinx-panels
+      - sphinxcontrib-needs
       - sphinx
       - myst-parser
       - numpydoc
