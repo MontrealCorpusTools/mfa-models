@@ -2,8 +2,8 @@
 
 .. _acoustic:
 
-Acoustic models models
-======================
+Acoustic models
+===============
 
 .. needtable:: Acoustic models
    :types: acoustic

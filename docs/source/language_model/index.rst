@@ -2,8 +2,8 @@
 
 .. _language_model:
 
-Language models models
-======================
+Language models
+===============
 
 .. needtable:: Language models
    :types: language_model

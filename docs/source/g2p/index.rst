@@ -2,8 +2,8 @@
 
 .. _g2p:
 
-G2P models models
-=================
+G2P models
+==========
 
 .. needtable:: G2P models
    :types: g2p

@@ -1136,8 +1136,8 @@ for model_type, data in meta_datas.items():
 
 .. _{model_type}:
 
-{model_type_name} models
-{'='* len(model_type_name)}=======
+{model_type_name}
+{'='* len(model_type_name)}
 
 .. needtable:: {model_type_name}
    :types: {model_type}

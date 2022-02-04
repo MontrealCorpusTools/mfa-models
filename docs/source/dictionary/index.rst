@@ -2,8 +2,8 @@
 
 .. _dictionary:
 
-Pronunciation dictionaries models
-=================================
+Pronunciation dictionaries
+==========================
 
 .. needtable:: Pronunciation dictionaries
    :types: dictionary
