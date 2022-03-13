@@ -51,17 +51,17 @@
       * m
         * Occurances: 48331
         * Examples
-          * madou: [m a d u]
-          * moro: [m ɔ ʁ o]
-          * ahmed: [a m d]
-          * nzima: [n z i m a]
+          * mino: [m i n o]
+          * mönch: [m œ ɛ̃ ʃ]
+          * marq: [m a ʁ k y]
+          * jamis: [ʒ a m i]
       * mʲ
         * Occurances: 693
         * Examples
-          * miels: [mʲ ɛ l]
-          * miura: [mʲ y ʁ a]
-          * mamia: [m a mʲ a]
-          * myon: [mʲ ɔ̃]
+          * myope: [mʲ ɔ p]
+          * umiaq: [y mʲ a k]
+          * gamyo: [ɡ a mʲ o]
+          * mieke: [mʲ ɛ k]
     ```
   - ```{ipa_cell}
     ```
@@ -70,10 +70,10 @@
       * n
         * Occurances: 41857
         * Examples
-          * roena: [ʁ ɔ n a]
-          * nzima: [n z i m a]
-          * nains: [n ɛ̃]
-          * konan: [k ɔ n ɑ̃]
+          * mino: [m i n o]
+          * gagno: [ɡ a ɡ n o]
+          * allen: [a l ɛ ɛ n]
+          * nanar: [n a n a ʁ]
     ```
   - ```{ipa_cell}
     ```
@@ -82,20 +82,20 @@
       * ɲ
         * Occurances: 13314
         * Examples
-          * henny: [ɛ ɲ i]
-          * aunis: [o ɲ i]
-          * tanit: [t a ɲ i]
-          * lagny: [l a ɲ i]
+          * muñoz: [m œ ɲ z e]
+          * nigra: [ɲ i ɡ ʁ a]
+          * bunny: [b u ŋ ɲ i]
+          * n'y: [ɲ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1647
         * Examples
-          * jiang: [ʒ i a ŋ]
-          * meng: [m ə n s ɛ ŋ]
-          * mungo: [m œ ŋ ɡ o]
-          * leung: [l œ ŋ ɡ]
+          * bunny: [b u ŋ ɲ i]
+          * thung: [t y n s ɛ ŋ]
+          * tsing: [ts i ŋ]
+          * bingu: [b i ŋ ɡ y]
     ```
   - ```{ipa_cell}
     ```
@@ -105,18 +105,18 @@
       * p
         * Occurances: 39017
         * Examples
-          * piple: [p i p l]
-          * piève: [p j ɛ v]
-          * sopel: [s ɔ p ɛ l]
-          * pigue: [p i ɡ]
+          * prele: [p ʁ ɛ z ɛ l]
+          * compa: [k ɔ̃ p a]
+          * chapí: [ʃ a p i]
+          * placé: [p l a s e]
     * voiced
       * b
         * Occurances: 36484
         * Examples
-          * beyts: [b ɛ]
-          * bumba: [b ɛ̃ b a]
-          * botka: [b ɔ k a]
-          * balbo: [b a l b o]
+          * grèbe: [ɡ ʁ ɛ b]
+          * bodot: [b ɔ d o]
+          * dubaï: [d u b a j]
+          * vrbas: [v ʁ b ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -125,18 +125,18 @@
       * t
         * Occurances: 80908
         * Examples
-          * astor: [a s t ɔ ʁ]
-          * trada: [t ʁ ɛ d a]
-          * trotz: [t ʁ o z e]
-          * tua: [t ɥ a]
+          * drust: [d ʁ œ s t]
+          * torah: [t ɔ ʁ a]
+          * ates: [a t]
+          * tudeh: [t y d ɛ e]
     * voiced
       * d
         * Occurances: 44394
         * Examples
-          * madou: [m a d u]
-          * alade: [a l a d]
-          * trada: [t ʁ ɛ d a]
-          * ida: [i d a]
+          * déo: [d e o]
+          * drust: [d ʁ œ s t]
+          * duke: [d y s ɛ k]
+          * bodot: [b ɔ d o]
     ```
   - ```{ipa_cell}
     ```
@@ -145,36 +145,36 @@
       * c
         * Occurances: 8296
         * Examples
-          * kéfir: [c e f i ʁ]
-          * ceské: [s ɛ s c e]
-          * kifai: [c i f e]
-          * kyon: [c ɔ̃]
+          * caire: [c ɛ ʁ]
+          * rukia: [ʁ y c a]
+          * skid: [s c i d]
+          * occhi: [ɔ c i]
     * voiced
       * ɟ
         * Occurances: 2330
         * Examples
-          * guzik: [ɟ y z i k]
-          * brogi: [b ʁ ɔ ɟ i]
-          * tigak: [t i ɟ ɛ k]
-          * pugey: [p ɔ ɟ ɛ]
+          * yogis: [j o ɟ i s]
+          * ghez: [ɟ e]
+          * leagi: [ʎ i ɟ i]
+          * peggy: [p ɛ ɟ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 58582
         * Examples
-          * guzik: [ɟ y z i k]
-          * botka: [b ɔ k a]
-          * vexin: [v ɛ k s ɛ̃]
-          * karow: [k a ʁ o]
+          * marq: [m a ʁ k y]
+          * furic: [f y ʁ i k]
+          * ghak: [ɡ a k]
+          * compa: [k ɔ̃ p a]
     * voiced
       * ɡ
         * Occurances: 20991
         * Examples
-          * goyle: [ɡ ɔ i l]
-          * gök: [ɡ œ k]
-          * pigue: [p i ɡ]
-          * bergh: [b ɛ ʁ ɡ]
+          * grèbe: [ɡ ʁ ɛ b]
+          * gavis: [ɡ a v i]
+          * ghak: [ɡ a k]
+          * gagno: [ɡ a ɡ n o]
     ```
   - ```{ipa_cell}
     ```
@@ -188,28 +188,28 @@
       * ts
         * Occurances: 1200
         * Examples
-          * waitz: [w e ts]
-          * gortz: [ɡ ɔ ʁ ts]
-          * bentz: [b ɛ̃ ts]
-          * opitz: [ɔ p i ts]
+          * loitz: [l w a ts]
+          * hatsu: [a ts y]
+          * tzur: [ts œ ʁ]
+          * betsi: [b ɛ ts i]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1169
         * Examples
-          * tchat: [tʃ a t]
-          * roth: [ʁ o tʃ]
-          * winch: [w i n tʃ]
-          * dutch: [d u tʃ]
+          * ketch: [c ɛ tʃ]
+          * choc: [tʃ ɔ k]
+          * leech: [ʎ i tʃ]
+          * tché: [tʃ e]
     * voiced
       * dʒ
         * Occurances: 660
         * Examples
-          * lajas: [l a dʒ ɑ]
-          * vodja: [v ɔ dʒ a]
-          * emji: [e m o dʒ i]
-          * hodge: [ɔ dʒ]
+          * anjos: [ɑ̃ dʒ o]
+          * judge: [ʒ y dʒ]
+          * hodja: [o dʒ a]
+          * adji: [a dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -227,36 +227,36 @@
       * s
         * Occurances: 76149
         * Examples
-          * astor: [a s t ɔ ʁ]
-          * cirse: [s i ʁ s]
-          * ceské: [s ɛ s c e]
-          * vexin: [v ɛ k s ɛ̃]
+          * drust: [d ʁ œ s t]
+          * duke: [d y s ɛ k]
+          * séhir: [s e i ʁ]
+          * céré: [s e ʁ e]
     * voiced
       * z
         * Occurances: 24929
         * Examples
-          * guzik: [ɟ y z i k]
-          * trotz: [t ʁ o z e]
-          * wrazy: [v ʁ a z i]
-          * nzima: [n z i m a]
+          * prele: [p ʁ ɛ z ɛ l]
+          * haza: [a z a]
+          * chase: [ʃ a z]
+          * zeca: [z ɛ k a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 14143
         * Examples
-          * cach: [k a ʃ]
-          * okcho: [ɔ c ʃ o]
-          * puch: [p y ʃ]
-          * chay: [ʃ ɛ]
+          * mönch: [m œ ɛ̃ ʃ]
+          * chaud: [ʃ o]
+          * chase: [ʃ a z]
+          * chapí: [ʃ a p i]
     * voiced
       * ʒ
         * Occurances: 17912
         * Examples
-          * ouges: [u ʒ]
-          * barge: [b a ʁ ʒ]
-          * jurat: [ʒ y ʁ a]
-          * rages: [ʁ a ʒ]
+          * roger: [ʁ ɔ ʒ e]
+          * jamis: [ʒ a m i]
+          * jokl: [ʒ o k l]
+          * jerse: [ʒ ɛ ʁ s]
     ```
   - ```{ipa_cell}
     ```
@@ -272,18 +272,18 @@
       * f
         * Occurances: 23971
         * Examples
-          * kéfir: [c e f i ʁ]
-          * selyf: [s ɛ l i f]
-          * dufau: [d y f o]
-          * sopha: [s ɔ f a]
+          * furic: [f y ʁ i k]
+          * elfi: [ɛ l f i]
+          * fou: [f u]
+          * ferré: [f ɛ ʁ e]
     * voiced
       * v
         * Occurances: 25040
         * Examples
-          * vexin: [v ɛ k s ɛ̃]
-          * elwyn: [ɛ l v ɛ̃]
-          * viez: [v j e]
-          * wrazy: [v ʁ a z i]
+          * gavis: [ɡ a v i]
+          * voray: [v ɔ ʁ ɛ]
+          * vomm: [v ɔ m]
+          * vrbas: [v ʁ b ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -298,10 +298,10 @@
       * ʁ
         * Occurances: 138950
         * Examples
-          * astor: [a s t ɔ ʁ]
-          * kéfir: [c e f i ʁ]
-          * moro: [m ɔ ʁ o]
-          * cirse: [s i ʁ s]
+          * caire: [c ɛ ʁ]
+          * arps: [a ʁ]
+          * prele: [p ʁ ɛ z ɛ l]
+          * marq: [m a ʁ k y]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -317,17 +317,17 @@
       * j
         * Occurances: 34136
         * Examples
-          * iowa: [j ɔ w a]
-          * viez: [v j e]
-          * piève: [p j ɛ v]
-          * diot: [d j o]
+          * loyat: [l w a j a]
+          * yeddo: [j ɛ d o]
+          * dubaï: [d u b a j]
+          * choyé: [ʃ w a j e]
       * ɥ
         * Occurances: 3824
         * Examples
-          * cuiré: [k ɥ i ʁ e]
-          * tua: [t ɥ a]
+          * muang: [m ɥ ɑ̃]
+          * suivi: [s ɥ i v i]
+          * tuai: [t ɥ e]
           * nuyts: [n ɥ i]
-          * luise: [l ɥ i z]
     ```
   - ```{ipa_cell}
     ```
@@ -343,10 +343,10 @@
       * l
         * Occurances: 60404
         * Examples
-          * piple: [p i p l]
-          * alade: [a l a d]
-          * lont: [l ɔ̃]
-          * balbo: [b a l b o]
+          * loyat: [l w a j a]
+          * prele: [p ʁ ɛ z ɛ l]
+          * chrél: [k ʁ e l]
+          * elfi: [ɛ l f i]
     ```
   - ```{ipa_cell}
     ```
@@ -355,10 +355,10 @@
       * ʎ
         * Occurances: 14136
         * Examples
-          * aly: [a ʎ i]
-          * ili: [i ʎ i]
-          * ouali: [w a ʎ i]
-          * lycra: [ʎ i k ʁ a]
+          * limer: [ʎ i m e]
+          * oblig: [ɔ b ʎ i ɡ]
+          * lysak: [ʎ i z a k]
+          * liku: [ʎ i k u]
     ```
   - ```{ipa_cell}
     ```
@@ -386,18 +386,18 @@
       * i
         * Occurances: 109189
         * Examples
-          * guzik: [ɟ y z i k]
-          * piple: [p i p l]
-          * kéfir: [c e f i ʁ]
-          * cirse: [s i ʁ s]
+          * mino: [m i n o]
+          * furic: [f y ʁ i k]
+          * jamis: [ʒ a m i]
+          * gavis: [ɡ a v i]
     * rounded
       * y
         * Occurances: 29259
         * Examples
-          * guzik: [ɟ y z i k]
-          * dufau: [d y f o]
-          * vulve: [v y l v]
-          * grues: [ɡ ʁ y]
+          * marq: [m a ʁ k y]
+          * furic: [f y ʁ i k]
+          * duke: [d y s ɛ k]
+          * rukia: [ʁ y c a]
     ```
   - ```{ipa_cell}
     ```
@@ -410,10 +410,10 @@
       * u
         * Occurances: 17661
         * Examples
-          * madou: [m a d u]
-          * cloux: [k l u]
-          * ouges: [u ʒ]
-          * oulx: [u]
+          * dubaï: [d u b a j]
+          * fou: [f u]
+          * voeux: [v u s ø]
+          * sabuk: [s a b u k]
     ```
 * -
   - ```{ipa_cell}
@@ -432,18 +432,18 @@
       * e
         * Occurances: 73010
         * Examples
-          * kéfir: [c e f i ʁ]
-          * waitz: [w e ts]
-          * ceské: [s ɛ s c e]
-          * trotz: [t ʁ o z e]
+          * déo: [d e o]
+          * roger: [ʁ ɔ ʒ e]
+          * chrél: [k ʁ e l]
+          * séhir: [s e i ʁ]
     * rounded
       * ø
         * Occurances: 3667
         * Examples
+          * voeux: [v u s ø]
+          * bleu: [b l ø]
           * queue: [k ø]
-          * treux: [t ʁ ø]
-          * poets: [p ø]
-          * meuse: [m ø z]
+          * œdipe: [ø d i p]
     ```
   - ```{ipa_cell}
     ```
@@ -456,10 +456,10 @@
       * o
         * Occurances: 21859
         * Examples
-          * moro: [m ɔ ʁ o]
-          * balbo: [b a l b o]
-          * trotz: [t ʁ o z e]
-          * karow: [k a ʁ o]
+          * mino: [m i n o]
+          * déo: [d e o]
+          * bodot: [b ɔ d o]
+          * chaud: [ʃ o]
     ```
 * -
   - ```{ipa_cell}
@@ -471,10 +471,10 @@
       * ə
         * Occurances: 17260
         * Examples
-          * leda: [l ə d a]
-          * devez: [d ə v e]
-          * leroi: [l ə ʁ w a]
-          * lecat: [l ə k a]
+          * dedza: [d ə d z a]
+          * eléga: [ə l e ɡ a]
+          * venac: [v ə n a k]
+          * depot: [d ə p o]
     ```
   - ```{ipa_cell}
     ```
@@ -486,18 +486,18 @@
       * ɛ
         * Occurances: 69908
         * Examples
-          * beyts: [b ɛ]
-          * trada: [t ʁ ɛ d a]
-          * ceské: [s ɛ s c e]
-          * vexin: [v ɛ k s ɛ̃]
+          * caire: [c ɛ ʁ]
+          * prele: [p ʁ ɛ z ɛ l]
+          * grèbe: [ɡ ʁ ɛ b]
+          * voray: [v ɔ ʁ ɛ]
     * rounded
       * œ
         * Occurances: 6111
         * Examples
-          * gök: [ɡ œ k]
-          * runö: [ʁ y n œ]
-          * feuje: [f œ ʒ]
-          * örn: [œ ʁ]
+          * mönch: [m œ ɛ̃ ʃ]
+          * drust: [d ʁ œ s t]
+          * muñoz: [m œ ɲ z e]
+          * mukai: [m œ c e]
     ```
   - ```{ipa_cell}
     ```
@@ -510,10 +510,10 @@
       * ɔ
         * Occurances: 61899
         * Examples
-          * iowa: [j ɔ w a]
-          * botka: [b ɔ k a]
-          * astor: [a s t ɔ ʁ]
-          * moro: [m ɔ ʁ o]
+          * roger: [ʁ ɔ ʒ e]
+          * voray: [v ɔ ʁ ɛ]
+          * bodot: [b ɔ d o]
+          * vomm: [v ɔ m]
     ```
 * -
   - ```{ipa_cell}
@@ -536,10 +536,10 @@
       * a
         * Occurances: 138777
         * Examples
-          * iowa: [j ɔ w a]
-          * bumba: [b ɛ̃ b a]
-          * botka: [b ɔ k a]
-          * astor: [a s t ɔ ʁ]
+          * loyat: [l w a j a]
+          * arps: [a ʁ]
+          * marq: [m a ʁ k y]
+          * jamis: [ʒ a m i]
     ```
   - ```{ipa_cell}
     ```
@@ -548,10 +548,10 @@
       * ɑ
         * Occurances: 6687
         * Examples
-          * allât: [a l ɑ]
-          * las: [l ɑ]
-          * navas: [n a v ɑ]
-          * arias: [a ʁ j ɑ]
+          * vrbas: [v ʁ b ɑ]
+          * lâché: [l ɑ ʃ e]
+          * misât: [m i z ɑ]
+          * heras: [ɛ ʁ ɑ]
     ```
 ``````
 
@@ -619,10 +619,10 @@
       * ɛ̃
         * Occurances: 15844
         * Examples
-          * bumba: [b ɛ̃ b a]
-          * vexin: [v ɛ k s ɛ̃]
-          * elwyn: [ɛ l v ɛ̃]
-          * irun: [i ʁ ɛ̃]
+          * mönch: [m œ ɛ̃ ʃ]
+          * tonin: [t ɔ n ɛ̃]
+          * carin: [k a ʁ ɛ̃]
+          * morin: [m ɔ ʁ ɛ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -635,10 +635,10 @@
       * ɔ̃
         * Occurances: 23619
         * Examples
-          * lont: [l ɔ̃]
-          * vacon: [v a k ɔ̃]
-          * monty: [m ɔ̃ t i]
-          * fundy: [f ɔ̃ d i]
+          * compa: [k ɔ̃ p a]
+          * honma: [ɔ̃ m a]
+          * heon: [ɔ̃]
+          * macon: [m a k ɔ̃]
     ```
 * -
   - ```{ipa_cell}
@@ -665,9 +665,9 @@
       * ɑ̃
         * Occurances: 36466
         * Examples
-          * konan: [k ɔ n ɑ̃]
-          * ereng: [e ʁ ɑ̃]
-          * teng: [t ɑ̃]
-          * mamba: [m ɑ̃ b a]
+          * mahan: [m a ɑ̃]
+          * ji'an: [ʒ i ɑ̃]
+          * oulan: [u l ɑ̃]
+          * quan: [k w ɑ̃]
     ```
 ``````

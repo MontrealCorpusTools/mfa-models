@@ -51,10 +51,10 @@
       * m
         * Occurances: 2129
         * Examples
-          * मंदी:: [m ə n d iː]
-          * लम्बा: [l ə m b aː]
-          * कुंभ: [k u m b̤ ə]
-          * मौत,: [m ɔː t]
+          * घूम: [ɡ̤ uː m]
+          * रूमः: [r uː m ə h]
+          * जिओमी: [d͡ʒ i o m iː]
+          * सैंपल: [s æː m p ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@
       * n
         * Occurances: 4023
         * Examples
-          * मंदी:: [m ə n d iː]
-          * भूना: [b̤ uː n aː]
-          * बोलनी: [b o l n iː]
-          * रोकने: [r o k n e]
+          * बना: [b ə n aː]
+          * नवाब: [n ə v aː b]
+          * हसीना: [ɦ ə s iː n aː]
+          * जेलों: [d͡ʒ e l o n]
     ```
   - ```{ipa_cell}
     ```
@@ -77,30 +77,30 @@
       * ɳ
         * Occurances: 175
         * Examples
-          * प्राण: [p r aː ɳ]
-          * जागरण: [d͡ʒ aː ɡ r ə ɳ]
-          * करुणा: [k ə r u ɳ aː]
+          * भीषण: [b̤ iː ʂ ə ɳ]
+          * राणे: [r aː ɳ e]
           * चरण: [t͡ʃ ə r ə ɳ]
+          * जागरण: [d͡ʒ aː ɡ r ə ɳ]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 109
         * Examples
-          * गांजे: [ɡ aː ɲ d͡ʒ e]
-          * अंजलि: [ɲ d͡ʒ ə l i]
-          * रंजिश: [r ə ɲ d͡ʒ i ʃ]
-          * कंजूस: [k ə ɲ d͡ʒ uː s]
+          * तंज: [t ə ɲ d͡ʒ ə]
+          * पुंछ: [p u ɲ t͡ʃʰ ə]
+          * भांजे: [b̤ aː ɲ d͡ʒ e]
+          * पोंछा: [p o ɲ t͡ʃʰ aː]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 464
         * Examples
-          * जंगल: [d͡ʒ ə ŋ ɡ ə l]
-          * दूंगी: [d uː ŋ ɡ iː]
-          * ढंग: [ɖ̤ ə ŋ ɡ ə]
-          * दबंग': [d ə b ə ŋ ɡ ə]
+          * देंगी: [d e ŋ ɡ iː]
+          * इंकार: [i ŋ k aː r]
+          * संकेत: [s ə ŋ k e t]
+          * गैंग: [ɡ æː ŋ ɡ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -112,18 +112,18 @@
       * p
         * Occurances: 1546
         * Examples
-          * पार: [p aː r]
-          * पायो': [p aː j o]
-          * लिपटी: [l i p ʈ iː]
-          * पाए: [p aː e]
+          * झड़प: [d͡ʒ̤ ə ɽ ə p]
+          * पाओ।: [p aː o]
+          * पति!: [p ə t i]
+          * पीने: [p iː n e]
     * voiced
       * b
         * Occurances: 1357
         * Examples
-          * बोलनी: [b o l n iː]
-          * बोरा: [b o r aː]
-          * लम्बा: [l ə m b aː]
-          * ख़बर: [x ə b ə r]
+          * बना: [b ə n aː]
+          * नवाब: [n ə v aː b]
+          * बेचे: [b e t͡ʃ e]
+          * box: [b ɑ k s]
     ```
   - ```{ipa_cell}
     ```
@@ -134,18 +134,18 @@
       * t
         * Occurances: 1913
         * Examples
-          * छाता: [t͡ʃʰ aː t aː]
-          * रक्त: [r ə k t ə]
-          * खेती,: [kʰ e t iː]
-          * मौत,: [m ɔː t]
+          * धरती: [d̤ ə r t iː]
+          * पति!: [p ə t i]
+          * गोत्र: [ɡ o t r ə]
+          * छूटते: [t͡ʃʰ uː ʈ t e]
     * voiced
       * d
         * Occurances: 1296
         * Examples
-          * मंदी:: [m ə n d iː]
-          * करदो।: [k ə r d o]
-          * इंदौर: [i n d ɔː r]
-          * रद्द: [r ə d d ə]
+          * वादा: [v aː d aː]
+          * बदबू: [b ə d b uː]
+          * देखें: [d e kʰ e n]
+          * अरशद: [a r ʃ ə d]
     ```
   - ```{ipa_cell}
     ```
@@ -154,18 +154,18 @@
       * ʈ
         * Occurances: 1154
         * Examples
-          * राइट: [r aː i ʈ]
-          * लिपटी: [l i p ʈ iː]
-          * केटी: [k e ʈ iː]
-          * विकेट: [v i k e ʈ]
+          * छूटते: [t͡ʃʰ uː ʈ t e]
+          * छूटता: [t͡ʃʰ uː ʈ t aː]
+          * 'वोट: [v o ʈ]
+          * पिट: [p i ʈ]
     * voiced
       * ɖ
         * Occurances: 612
         * Examples
-          * डबल: [ɖ ə b ə l]
-          * ऑडिट: [ऑ ɖ i ʈ]
-          * डर!: [ɖ ə r]
-          * डरो।: [ɖ ə r o]
+          * ड्रेस: [ɖ r e s]
+          * फूड: [pʰ uː ɖ]
+          * डाल: [ɖ aː l]
+          * अंडे: [n ɖ e]
     ```
   - ```{ipa_cell}
     ```
@@ -174,28 +174,28 @@
       * k
         * Occurances: 2497
         * Examples
-          * कैफ?: [k æː pʰ]
-          * रोकने: [r o k n e]
-          * करदो।: [k ə r d o]
-          * रक्त: [r ə k t ə]
+          * रुकी: [r u k iː]
+          * box: [b ɑ k s]
+          * वक्त: [v ə k t ə]
+          * केस: [k e s]
     * voiced
       * ɡ
         * Occurances: 1367
         * Examples
-          * गांजे: [ɡ aː ɲ d͡ʒ e]
-          * गहरी: [ɡ ə ɦ r iː]
-          * जंगल: [d͡ʒ ə ŋ ɡ ə l]
-          * बनेगा: [b ə n e ɡ aː]
+          * जाएगा: [d͡ʒ aː e ɡ aː]
+          * गोत्र: [ɡ o t r ə]
+          * जगाइए: [d͡ʒ ə ɡ aː i e]
+          * ग्रीक: [ɡ r iː k]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 16
         * Examples
-          * क़ैदी: [q æː d iː]
-          * क़त्ल: [q ə t l ə]
           * ताक़त: [t aː q ə t]
           * क़ब्र: [q ə b r ə]
+          * वक़्त: [v ə q t ə]
+          * क़त्ल: [q ə t l ə]
     ```
   - ```{ipa_cell}
     ```
@@ -205,18 +205,18 @@
       * pʰ
         * Occurances: 458
         * Examples
-          * कैफ?: [k æː pʰ]
-          * आसिफ: [aː s i pʰ]
-          * फेक: [pʰ e k]
-          * हफ्ते: [ɦ ə pʰ t e]
+          * फूड: [pʰ uː ɖ]
+          * फनी: [pʰ ə n iː]
+          * फर्ज:: [pʰ ə r d͡ʒ ə]
+          * फारुख: [pʰ aː r u kʰ]
     * voiced
       * b̤
         * Occurances: 326
         * Examples
-          * भूना: [b̤ uː n aː]
-          * कुंभ: [k u m b̤ ə]
-          * भरने: [b̤ ə r n e]
-          * सभी: [s ə b̤ iː]
+          * भला।: [b̤ ə l aː]
+          * भीषण: [b̤ iː ʂ ə ɳ]
+          * भरोसा: [b̤ ə r o s aː]
+          * 'भाबी: [b̤ aː b iː]
     ```
   - ```{ipa_cell}
     ```
@@ -227,18 +227,18 @@
       * tʰ
         * Occurances: 202
         * Examples
-          * थाने: [tʰ aː n e]
-          * पत्थर: [p ə t tʰ ə r]
-          * स्थित: [s tʰ i t]
-          * साथी: [s aː tʰ iː]
+          * थी।: [tʰ iː]
+          * चौथ: [t͡ʃ ɔː tʰ]
+          * चौथे: [t͡ʃ ɔː tʰ e]
+          * हाथों: [ɦ aː tʰ o n]
     * voiced
       * d̤
         * Occurances: 319
         * Examples
-          * धोनी,: [d̤ o n iː]
-          * सुधार: [s u d̤ aː r]
-          * आयुध: [aː j u d̤]
-          * धमकी!: [d̤ ə m k iː]
+          * धरती: [d̤ ə r t iː]
+          * धांसू: [d̤ aː n s uː]
+          * सीधा: [s iː d̤ aː]
+          * धूम,: [d̤ uː m]
     ```
   - ```{ipa_cell}
     ```
@@ -247,18 +247,18 @@
       * ʈʰ
         * Occurances: 132
         * Examples
-          * उठने: [u ʈʰ n e]
-          * उठकर: [u ʈʰ k ə r]
-          * मराठी: [m ə r aː ʈʰ iː]
-          * ऐंठा: [æː n ʈʰ aː]
+          * उठी।: [u ʈʰ iː]
+          * बैठा।: [b æː ʈʰ aː]
+          * उठते: [u ʈʰ t e]
+          * बैठे।: [b æː ʈʰ e]
     * voiced
       * ɖ̤
         * Occurances: 28
         * Examples
-          * ढंग: [ɖ̤ ə ŋ ɡ ə]
-          * ढेर: [ɖ̤ e r]
+          * बढावा: [b ə ɖ̤ aː v aː]
+          * पंढेर: [p ə n ɖ̤ e r]
+          * गड्ढा: [ɡ ə ɖ ɖ̤ aː]
           * ढिलाई: [ɖ̤ i l aː iː]
-          * पढाई: [p ə ɖ̤ aː iː]
     ```
   - ```{ipa_cell}
     ```
@@ -267,18 +267,18 @@
       * kʰ
         * Occurances: 499
         * Examples
-          * खेती,: [kʰ e t iː]
-          * लिखा?: [l i kʰ aː]
-          * खोद: [kʰ o d]
-          * खोलो।: [kʰ o l o]
+          * खेल,: [kʰ e l]
+          * खाली: [kʰ aː l iː]
+          * देखें: [d e kʰ e n]
+          * खाओ।: [kʰ aː o]
     * voiced
       * ɡ̤
         * Occurances: 94
         * Examples
-          * अघोरी: [a ɡ̤ o r iː]
-          * संघ: [s ə ŋ ɡ̤ ə]
-          * घाव: [ɡ̤ aː v]
-          * घना: [ɡ̤ ə n aː]
+          * घूम: [ɡ̤ uː m]
+          * घुसने: [ɡ̤ u s n e]
+          * घूरा।: [ɡ̤ uː r aː]
+          * घायल: [ɡ̤ aː j ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -298,18 +298,18 @@
       * t͡ʃ
         * Occurances: 687
         * Examples
-          * हलचल,: [ɦ ə l t͡ʃ ə l]
-          * सचिव: [s ə t͡ʃ i v]
-          * चलो.: [t͡ʃ ə l o]
-          * चटाती: [t͡ʃ ə ʈ aː t iː]
+          * चोरों: [t͡ʃ o r o n]
+          * बेचे: [b e t͡ʃ e]
+          * चौक: [t͡ʃ ɔː k]
+          * "चलो: [t͡ʃ ə l o]
     * voiced
       * d͡ʒ
         * Occurances: 1199
         * Examples
-          * जायजा: [d͡ʒ aː j d͡ʒ aː]
-          * कर्ज: [k ə r d͡ʒ ə]
-          * गांजे: [ɡ aː ɲ d͡ʒ e]
-          * जंगल: [d͡ʒ ə ŋ ɡ ə l]
+          * जेलों: [d͡ʒ e l o n]
+          * जाएगा: [d͡ʒ aː e ɡ aː]
+          * जनरल: [d͡ʒ ə n r ə l]
+          * जिओमी: [d͡ʒ i o m iː]
     ```
   - ```{ipa_cell}
     ```
@@ -335,18 +335,18 @@
       * t͡ʃʰ
         * Occurances: 159
         * Examples
-          * छाता: [t͡ʃʰ aː t aː]
-          * छाई: [t͡ʃʰ aː iː]
-          * पूछा: [p uː t͡ʃʰ aː]
-          * पूछती: [p uː t͡ʃʰ t iː]
+          * छूटते: [t͡ʃʰ uː ʈ t e]
+          * छूटता: [t͡ʃʰ uː ʈ t aː]
+          * छोड़।: [t͡ʃʰ o ɽ]
+          * उछाल: [u t͡ʃʰ aː l]
     * voiced
       * d͡ʒ̤
         * Occurances: 91
         * Examples
-          * झांसा: [d͡ʒ̤ aː n s aː]
-          * तुझे: [t u d͡ʒ̤ e]
-          * समझने: [s ə m d͡ʒ̤ ə n e]
-          * समझकर: [s ə m d͡ʒ̤ ə k ə r]
+          * झड़प: [d͡ʒ̤ ə ɽ ə p]
+          * समझती: [s ə m d͡ʒ̤ ə t iː]
+          * झेलम,: [d͡ʒ̤ e l ə m]
+          * साझा: [s aː d͡ʒ̤ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -370,38 +370,38 @@
       * s
         * Occurances: 2421
         * Examples
-          * सनी: [s ə n iː]
-          * हासन: [ɦ aː s ə n]
-          * उसकी: [u s k iː]
-          * आसिफ: [aː s i pʰ]
+          * ड्रेस: [ɖ r e s]
+          * हसीना: [ɦ ə s iː n aː]
+          * box: [b ɑ k s]
+          * असली: [a s l iː]
     * voiced
       * z
         * Occurances: 121
         * Examples
-          * ज़ार: [z aː r]
-          * ज़मीन: [z ə m iː n]
-          * राज़ी: [r aː z iː]
-          * इज़: [i z]
+          * मज़ाक: [m ə z aː k]
+          * ज़बान: [z ə b aː n]
+          * कागज़: [k aː ɡ ə z]
+          * गुज़र: [ɡ u z ə r]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 709
         * Examples
-          * शायर: [ʃ aː j ə r]
-          * शक्कर: [ʃ ə k k ə r]
-          * शिकार: [ʃ i k aː r]
-          * कमीशन: [k ə m iː ʃ ə n]
+          * अशोक: [a ʃ o k]
+          * शरम: [ʃ ə r ə m]
+          * अरशद: [a r ʃ ə d]
+          * कश्यप: [k ə ʃ j ə p]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 202
         * Examples
-          * विषय: [v i ʂ ə j]
-          * कृषि: [k r̩ ʂ i]
-          * कष्ट: [k ə ʂ ʈ ə]
-          * कक्ष: [k ə k ʂ ə]
+          * भीषण: [b̤ iː ʂ ə ɳ]
+          * पुष्प: [p u ʂ p ə]
+          * ईष्ट:: [iː ʂ ʈ ə]
+          * घोषित: [ɡ̤ o ʂ i t]
     ```
   - ```{ipa_cell}
     ```
@@ -419,18 +419,18 @@
       * f
         * Occurances: 89
         * Examples
-          * सफ़ेद: [s ə f e d]
+          * बरफ़: [b ə r ə f]
           * अफ़सर: [a f s ə r]
-          * film: [f ɪ l m]
-          * माफ़: [m aː f]
+          * सफ़ल: [s ə f ə l]
+          * फ़र्क: [f ə r k ə]
     * voiced
       * v
         * Occurances: 1249
         * Examples
-          * विषय: [v i ʂ ə j]
-          * मूव,: [m uː v]
-          * सचिव: [s ə t͡ʃ i v]
-          * विकेट: [v i k e ʈ]
+          * वादा: [v aː d aː]
+          * हाईवे: [ɦ aː iː v e]
+          * नवाब: [n ə v aː b]
+          * विवाह: [v i v aː ɦ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -452,17 +452,17 @@
         * Occurances: 19
         * Examples
           * ख़बर: [x ə b ə r]
-          * ख़ुदा: [x u d aː]
-          * ख़याल: [x ə j aː l]
+          * ख़ूब: [x uː b]
           * ख़ून: [x uː n]
+          * ख़ुदा: [x u d aː]
     * voiced
       * ɣ
         * Occurances: 17
         * Examples
           * ग़लती: [ɣ ə l t iː]
-          * ग़ौर: [ɣ ɔː r]
-          * ग़लत: [ɣ ə l ə t]
+          * ग़ायब: [ɣ aː j ə b]
           * ग़रीब: [ɣ ə r iː b]
+          * ग़ौर: [ɣ ɔː r]
     ```
   - ```{ipa_cell}
     ```
@@ -472,17 +472,17 @@
         * Occurances: 102
         * Examples
           * रूमः: [r uː m ə h]
-          * जिलाः: [d͡ʒ i l aː ə h]
-          * केरलः: [k e r l ə h]
-          * रचनाः: [r ə t͡ʃ n aː ə h]
+          * happy: [h æ p i]
+          * haven: [h e j v ə n]
+          * कांडः: [k aː n ɖ ə h]
     * voiced
       * ɦ
         * Occurances: 1166
         * Examples
-          * हलचल,: [ɦ ə l t͡ʃ ə l]
-          * गहरी: [ɡ ə ɦ r iː]
-          * हासन: [ɦ aː s ə n]
-          * कहाँ?: [k ə ɦ ã ː]
+          * हाईवे: [ɦ aː iː v e]
+          * हसीना: [ɦ ə s iː n aː]
+          * विवाह: [v i v aː ɦ]
+          * होती: [ɦ o t iː]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -496,15 +496,15 @@
       * ɹ
         * Occurances: 34
         * Examples
+          * redmi: [ɹ ɛ d m i]
           * wrap:: [ɹ æ p]
-          * zero: [z ɪ ɹ o w]
-          * trobe: [t ɹ o w b]
           * heart: [h ɑ ɹ t]
+          * zero: [z ɪ ɹ o w]
       * ɹ̩
         * Occurances: 12
         * Examples
-          * first: [f ɹ̩ s t]
           * world: [w ɹ̩ l d]
+          * first: [f ɹ̩ s t]
     ```
   - ```{ipa_cell}
     ```
@@ -515,10 +515,10 @@
       * j
         * Occurances: 1354
         * Examples
-          * जायजा: [d͡ʒ aː j d͡ʒ aː]
-          * शायर: [ʃ aː j ə r]
-          * पायो': [p aː j o]
-          * क्यों: [k j o n]
+          * कयानी: [k ə j aː n iː]
+          * 'ये: [j e]
+          * विजय: [v i d͡ʒ ə j]
+          * रॉयल: [r ɔ j ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -542,17 +542,17 @@
       * ɽ
         * Occurances: 299
         * Examples
-          * लड़ी: [l ə ɽ iː]
-          * उड़ना: [u ɽ n aː]
-          * रोड़ा: [r o ɽ aː]
-          * भड़की: [b̤ ə ɽ k iː]
+          * झड़प: [d͡ʒ̤ ə ɽ ə p]
+          * छोड़।: [t͡ʃʰ o ɽ]
+          * कड़ा: [k ə ɽ aː]
+          * "सड़क: [s ə ɽ ə k]
       * ɽ̥
         * Occurances: 76
         * Examples
-          * चढ़ाव: [t͡ʃ ə ɽ̥ aː v]
           * पढ़ना: [p ə ɽ̥ ə n aː]
+          * चढ़ा।: [t͡ʃ ə ɽ̥ aː]
+          * पढ़ाई: [p ə ɽ̥ aː iː]
           * गढ़: [ɡ ə ɽ̥ ə]
-          * गढ़,: [ɡ ə ɽ̥ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -574,17 +574,17 @@
       * r
         * Occurances: 4086
         * Examples
-          * रोकने: [r o k n e]
-          * करदो।: [k ə r d o]
-          * रक्त: [r ə k t ə]
-          * बोरा: [b o r aː]
+          * धरती: [d̤ ə r t iː]
+          * ड्रेस: [ɖ r e s]
+          * चोरों: [t͡ʃ o r o n]
+          * रुकी: [r u k iː]
       * r̩
         * Occurances: 51
         * Examples
-          * कृपया: [k r̩ p j aː]
           * कृषि: [k r̩ ʂ i]
-          * कृति: [k r̩ t i]
-          * वृद्ध: [v r̩ d d̤ ə]
+          * घृणित: [ɡ̤ r̩ ɳ i t]
+          * ऋतिक: [r̩ t i k]
+          * गृह: [ɡ r̩ ɦ]
     ```
   - ```{ipa_cell}
     ```
@@ -610,10 +610,10 @@
       * l
         * Occurances: 2332
         * Examples
-          * बोलनी: [b o l n iː]
-          * हलचल,: [ɦ ə l t͡ʃ ə l]
-          * लम्बा: [l ə m b aː]
-          * जंगल: [d͡ʒ ə ŋ ɡ ə l]
+          * जेलों: [d͡ʒ e l o n]
+          * डाल: [ɖ aː l]
+          * असली: [a s l iː]
+          * बोली: [b o l iː]
     ```
   - ```{ipa_cell}
     ```
@@ -649,17 +649,17 @@
       * i
         * Occurances: 2732
         * Examples
-          * राइट: [r aː i ʈ]
-          * इंदौर: [i n d ɔː r]
-          * आसिफ: [aː s i pʰ]
-          * किसकी: [k i s k iː]
+          * विवाह: [v i v aː ɦ]
+          * पति!: [p ə t i]
+          * जिओमी: [d͡ʒ i o m iː]
+          * मिल: [m i l]
       * iː
         * Occurances: 2838
         * Examples
-          * मंदी:: [m ə n d iː]
-          * बोलनी: [b o l n iː]
-          * खेती,: [kʰ e t iː]
-          * गहरी: [ɡ ə ɦ r iː]
+          * धरती: [d̤ ə r t iː]
+          * हाईवे: [ɦ aː iː v e]
+          * उठी।: [u ʈʰ iː]
+          * हसीना: [ɦ ə s iː n aː]
     ```
   - ```{ipa_cell}
     ```
@@ -672,17 +672,17 @@
       * u
         * Occurances: 1267
         * Examples
-          * कुंभ: [k u m b̤ ə]
-          * उसकी: [u s k iː]
-          * उठने: [u ʈʰ n e]
-          * सुधार: [s u d̤ aː r]
+          * उठी।: [u ʈʰ iː]
+          * रुकी: [r u k iː]
+          * उपवास: [u p v aː s]
+          * उकसा: [u k s aː]
       * uː
         * Occurances: 633
         * Examples
-          * भूना: [b̤ uː n aː]
-          * दूंगी: [d uː ŋ ɡ iː]
-          * मूव,: [m uː v]
-          * ऊपर': [uː p ə r]
+          * घूम: [ɡ̤ uː m]
+          * फूड: [pʰ uː ɖ]
+          * छूटते: [t͡ʃʰ uː ʈ t e]
+          * रूमः: [r uː m ə h]
     ```
 * -
   - ```{ipa_cell}
@@ -692,10 +692,10 @@
       * ɪ
         * Occurances: 39
         * Examples
-          * film: [f ɪ l m]
-          * iulia: [ɪ u l i ə]
-          * zero: [z ɪ ɹ o w]
           * kiss,: [k ɪ s]
+          * bigg: [b ɪ ɡ]
+          * iulia: [ɪ u l i ə]
+          * india: [ɪ n d i ə]
     ```
   - ```{ipa_cell}
     ```
@@ -714,10 +714,10 @@
       * e
         * Occurances: 2965
         * Examples
-          * रोकने: [r o k n e]
-          * खेती,: [kʰ e t iː]
-          * गांजे: [ɡ aː ɲ d͡ʒ e]
-          * जाने?: [d͡ʒ aː n e]
+          * हाईवे: [ɦ aː iː v e]
+          * ड्रेस: [ɖ r e s]
+          * जेलों: [d͡ʒ e l o n]
+          * बेचे: [b e t͡ʃ e]
     ```
   - ```{ipa_cell}
     ```
@@ -730,10 +730,10 @@
       * o
         * Occurances: 1646
         * Examples
-          * बोलनी: [b o l n iː]
-          * रोकने: [r o k n e]
-          * करदो।: [k ə r d o]
-          * बोरा: [b o r aː]
+          * जेलों: [d͡ʒ e l o n]
+          * चोरों: [t͡ʃ o r o n]
+          * पाओ।: [p aː o]
+          * गोत्र: [ɡ o t r ə]
     ```
 * -
   - ```{ipa_cell}
@@ -745,10 +745,10 @@
       * ə
         * Occurances: 6852
         * Examples
-          * मंदी:: [m ə n d iː]
-          * करदो।: [k ə r d o]
-          * रक्त: [r ə k t ə]
-          * कर्ज: [k ə r d͡ʒ ə]
+          * धरती: [d̤ ə r t iː]
+          * बना: [b ə n aː]
+          * झड़प: [d͡ʒ̤ ə ɽ ə p]
+          * नवाब: [n ə v aː b]
     ```
   - ```{ipa_cell}
     ```
@@ -760,10 +760,10 @@
       * ɛ
         * Occurances: 19
         * Examples
-          * chetu: [t͡ʃ ɛ t u]
+          * redmi: [ɹ ɛ d m i]
           * get: [ɡ ɛ t]
-          * celeb: [s ɛ l ɛ b]
-          * etios: [ɛ t i o w z]
+          * tech: [t ɛ k]
+          * chetu: [t͡ʃ ɛ t u]
     ```
   - ```{ipa_cell}
     ```
@@ -776,23 +776,23 @@
       * ʌ
         * Occurances: 8
         * Examples
-          * love: [l ʌ v]
           * what: [w ʌ t]
+          * love: [l ʌ v]
     * rounded
       * ɔ
         * Occurances: 218
         * Examples
-          * फॉर: [pʰ ɔ r]
-          * जॉली,: [d͡ʒ ɔ l iː]
-          * हॉकी: [ɦ ɔ k iː]
-          * बॉस: [b ɔ s]
+          * रॉयल: [r ɔ j ə l]
+          * कनॉट: [k ə n ɔ ʈ]
+          * स्पॉट: [s p ɔ ʈ]
+          * ब्लॉक: [b l ɔ k]
       * ɔː
         * Occurances: 177
         * Examples
-          * इंदौर: [i n d ɔː r]
-          * मौत,: [m ɔː t]
-          * लाहौर: [l aː ɦ ɔː r]
-          * भौतिक: [b̤ ɔː t i k]
+          * चौक: [t͡ʃ ɔː k]
+          * लौटा: [l ɔː ʈ aː]
+          * सौंपी: [s ɔː m p iː]
+          * कटौती: [k ə ʈ ɔː t iː]
     ```
 * -
   - ```{ipa_cell}
@@ -800,17 +800,17 @@
       * æ
         * Occurances: 23
         * Examples
-          * wrap:: [ɹ æ p]
+          * apple: [æ p ə l]
           * happy: [h æ p i]
-          * app: [æ p]
           * kapil: [k æ p ə l]
+          * wrap:: [ɹ æ p]
       * æː
         * Occurances: 431
         * Examples
-          * कैफ?: [k æː pʰ]
-          * बैन: [b æː n]
-          * है?: [ɦ æː]
-          * ऐसी: [æː s iː]
+          * सैंपल: [s æː m p ə l]
+          * बैठा।: [b æː ʈʰ aː]
+          * बैठे।: [b æː ʈʰ e]
+          * ऐप,: [æː p]
     ```
   - ```{ipa_cell}
     ```
@@ -830,17 +830,17 @@
       * a
         * Occurances: 404
         * Examples
-          * अहमद: [a ɦ m ə d]
-          * अतीक: [a t iː k]
-          * असर: [a s ə r]
-          * अभेद: [a b̤ e d]
+          * असली: [a s l iː]
+          * अशोक: [a ʃ o k]
+          * असर?: [a s ə r]
+          * अरशद: [a r ʃ ə d]
       * aː
         * Occurances: 6371
         * Examples
-          * भूना: [b̤ uː n aː]
-          * जायजा: [d͡ʒ aː j d͡ʒ aː]
-          * छाता: [t͡ʃʰ aː t aː]
-          * बोरा: [b o r aː]
+          * वादा: [v aː d aː]
+          * हाईवे: [ɦ aː iː v e]
+          * बना: [b ə n aː]
+          * नवाब: [n ə v aː b]
     ```
   - ```{ipa_cell}
     ```
@@ -849,10 +849,10 @@
       * ɑ
         * Occurances: 35
         * Examples
-          * stock: [s t ɑ k]
-          * khan: [k ɑ n]
+          * box: [b ɑ k s]
+          * pok: [p ɑ k]
+          * boss: [b ɑ s]
           * boss:: [b ɑ s]
-          * heart: [h ɑ ɹ t]
     ```
 ``````
 
@@ -884,10 +884,10 @@
       * ũ
         * Occurances: 71
         * Examples
-          * दूँ,: [d ũ ː]
-          * जाऊँ।: [d͡ʒ aː ũ ː]
-          * हूँ,: [ɦ ũ ː]
-          * पहुँच: [p ə ɦ ũ t͡ʃ ə]
+          * लाऊँ?: [l aː ũ ː]
+          * करूँ।: [k ə r ũ ː]
+          * दूँ: [d ũ ː]
+          * कहूँ।: [k ə ɦ ũ ː]
     ```
 * -
   - ```{ipa_cell}
@@ -907,8 +907,8 @@
         * Occurances: 14
         * Examples
           * आएँगे: [aː ẽ ɡ e]
-          * आएँ।: [aː ẽ]
           * लाएँ: [l aː ẽ]
+          * आएँ।: [aː ẽ]
     ```
   - ```{ipa_cell}
     ```
@@ -928,8 +928,8 @@
       * ə̃
         * Occurances: 4
         * Examples
-          * जँचता: [d͡ʒ ə̃ t͡ʃ ə t aː]
           * फँस: [pʰ ə̃ s ə]
+          * जँचता: [d͡ʒ ə̃ t͡ʃ ə t aː]
           * हँसे।: [ɦ ə̃ s e]
     ```
   - ```{ipa_cell}
@@ -968,10 +968,10 @@
       * ã
         * Occurances: 75
         * Examples
-          * कहाँ?: [k ə ɦ ã ː]
-          * हाँग: [ɦ ã ː ɡ ə]
-          * डाँट: [ɖ ã ː ʈ ə]
-          * जहाँ: [d͡ʒ ə ɦ ã ː]
+          * यहाँ: [j ə ɦ ã ː]
+          * साँस: [s ã ː s ə]
+          * "हाँ": [ɦ ã ː]
+          * वहाँ: [v ə ɦ ã ː]
     ```
   - ```{ipa_cell}
     ```

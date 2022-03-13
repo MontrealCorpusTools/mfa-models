@@ -49,10 +49,10 @@
       * m
         * Occurances: 3443
         * Examples
-          * item: [ɪ t ɛ m]
-          * numru: [n ʊ m r ʊ]
-          * hemm,: [ɛ m m]
-          * qajmu: [ʔ ɐ j m ʊ]
+          * medja: [m ɛ d j ɐ]
+          * hemm: [ɛ m m]
+          * mers: [m ɛ r s]
+          * jimxi: [j ɪ m ʃ ɪ]
       * mˤː
         * Occurances: 29
         * Examples
@@ -64,10 +64,10 @@
       * n
         * Occurances: 5650
         * Examples
-          * jiena: [j i ɛ n ɐ]
-          * raġun: [r ɐ d͡ʒ ʊ n]
-          * bini: [b ɪ n ɪ]
-          * viċin: [v ɪ t͡ʃ ɪ n]
+          * b'din: [b d ɪ n]
+          * kont: [k ɔ n t]
+          * nadif: [n ɐ d ɪ f]
+          * niġu: [n ɪ d͡ʒ ʊ]
       * nˤː
         * Occurances: 70
         * Examples
@@ -90,18 +90,18 @@
       * p
         * Occurances: 2006
         * Examples
-          * platt: [p l ɐ t t]
-          * skop.: [s k ɔ p]
-          * post.: [p ɔ s t]
-          * spiża: [s p ɪ z ɐ]
+          * park: [p ɐ r k]
+          * gap.: [ɡ ɐ p]
+          * pool.: [p ɔ ɔ l]
+          * post,: [p ɔ s t]
     * voiced
       * b
         * Occurances: 1890
         * Examples
-          * gidba: [ɡ ɪ d b ɐ]
-          * sħabu: [s ħ ɐ b ʊ]
-          * bini: [b ɪ n ɪ]
-          * b'xi: [b ʃ ɪ]
+          * b'din: [b d ɪ n]
+          * bdejt: [b d ɛ j t]
+          * jobs: [j ɔ b s]
+          * sabet: [s ɐ b ɛ t]
       * bˤː
         * Occurances: 15
         * Examples
@@ -113,24 +113,24 @@
       * t
         * Occurances: 7456
         * Examples
-          * platt: [p l ɐ t t]
-          * post.: [p ɔ s t]
-          * tantx: [t ɐ n t ʃ]
-          * item: [ɪ t ɛ m]
+          * kont: [k ɔ n t]
+          * bdejt: [b d ɛ j t]
+          * tiġix: [t ɪ d͡ʒ ɪ ʃ]
+          * altru: [ɐ l t r ʊ]
       * tˤː
         * Occurances: 57
         * Examples
+          * tgħix: [tˤː ɪ ʃ]
           * tgħid: [tˤː ɪ d]
           * tgħin: [tˤː ɪ n]
-          * tgħix: [tˤː ɪ ʃ]
     * voiced
       * d
         * Occurances: 2627
         * Examples
-          * gidba: [ɡ ɪ d b ɐ]
-          * diski: [d ɪ s k ɪ]
-          * idoqq: [ɪ d ɔ ʔ ʔ]
-          * żżidu: [z z ɪ d ʊ]
+          * b'din: [b d ɪ n]
+          * medja: [m ɛ d j ɐ]
+          * nadif: [n ɐ d ɪ f]
+          * bdejt: [b d ɛ j t]
       * dˤː
         * Occurances: 6
         * Examples
@@ -142,28 +142,28 @@
       * c
         * Occurances: 364
         * Examples
-          * clint: [c l ɪ n t]
-          * micro: [m ɪ c r ɔ]
+          * cost: [c ɔ s t]
           * cilia: [c ɪ l ɪ ɐ]
-          * facie: [f ɐ c i ɛ]
+          * marco: [m ɐ r c ɔ]
+          * cup.: [c ʊ p]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 2403
         * Examples
-          * diski: [d ɪ s k ɪ]
-          * skop.: [s k ɔ p]
-          * kbir.: [k b ɪ r]
-          * idejk: [ɪ d ɛ j k]
+          * park: [p ɐ r k]
+          * kont: [k ɔ n t]
+          * eku: [ɛ k ʊ]
+          * flok: [f l ɔ k]
     * voiced
       * ɡ
         * Occurances: 678
         * Examples
-          * gidba: [ɡ ɪ d b ɐ]
-          * togi: [t ɔ ɡ ɪ]
-          * gatt: [ɡ ɐ t t]
-          * night: [n ɪ ɡ t]
+          * borg: [b ɔ r ɡ]
+          * gap.: [ɡ ɐ p]
+          * magro: [m ɐ ɡ r ɔ]
+          * gowl?: [ɡ ɔ w l]
     ```
   - ```{ipa_cell}
     ```
@@ -172,10 +172,10 @@
       * ʔ
         * Occurances: 902
         * Examples
-          * qawwi: [ʔ ɐ w w ɪ]
-          * wisq: [w ɪ s ʔ]
-          * idoqq: [ɪ d ɔ ʔ ʔ]
-          * qajmu: [ʔ ɐ j m ʊ]
+          * qies: [ʔ i ɛ s]
+          * qligħ: [ʔ l ɪ ħː]
+          * aqra: [ɐ ʔ r ɐ]
+          * bqajt: [b ʔ ɐ j t]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -187,10 +187,10 @@
       * t͡s
         * Occurances: 1283
         * Examples
-          * forzi: [f ɔ r t͡s ɪ]
-          * mezz: [m ɛ t͡s t͡s]
-          * tazza: [t ɐ t͡s t͡s ɐ]
-          * zita: [t͡s ɪ t ɐ]
+          * marzu: [m ɐ r t͡s ʊ]
+          * terzi: [t ɛ r t͡s ɪ]
+          * sforz: [s f ɔ r t͡s]
+          * franz: [f r ɐ n t͡s]
       * t͡sˤː
         * Occurances: 1
         * Examples
@@ -200,18 +200,18 @@
       * t͡ʃ
         * Occurances: 668
         * Examples
-          * viċin: [v ɪ t͡ʃ ɪ n]
-          * ċari.: [t͡ʃ ɐ r ɪ]
-          * kowċ: [k ɔ w t͡ʃ]
-          * ċerti: [t͡ʃ ɛ r t ɪ]
+          * ċaħad: [t͡ʃ ɐ ħ ɐ d]
+          * wiċċu: [w ɪ t͡ʃ t͡ʃ ʊ]
+          * ċans: [t͡ʃ ɐ n s]
+          * deċiż: [d ɛ t͡ʃ ɪ z]
     * voiced
       * d͡ʒ
         * Occurances: 876
         * Examples
-          * siġar: [s ɪ d͡ʒ ɐ r]
-          * raġun: [r ɐ d͡ʒ ʊ n]
-          * ġib: [d͡ʒ ɪ b]
-          * ġabet: [d͡ʒ ɐ b ɛ t]
+          * tiġix: [t ɪ d͡ʒ ɪ ʃ]
+          * niġu: [n ɪ d͡ʒ ʊ]
+          * vjaġġ: [v j ɐ d͡ʒ d͡ʒ]
+          * reġa': [r ɛ d͡ʒ ɐ]
       * d͡ʒˤː
         * Occurances: 6
         * Examples
@@ -234,10 +234,10 @@
       * s
         * Occurances: 4081
         * Examples
-          * sħabu: [s ħ ɐ b ʊ]
-          * diski: [d ɪ s k ɪ]
-          * siġar: [s ɪ d͡ʒ ɐ r]
-          * skop.: [s k ɔ p]
+          * serju: [s ɛ r j ʊ]
+          * qies: [ʔ i ɛ s]
+          * x'ser: [ʃ s ɛ r]
+          * mers: [m ɛ r s]
       * sˤː
         * Occurances: 2
         * Examples
@@ -245,10 +245,10 @@
       * z
         * Occurances: 807
         * Examples
+          * vażun: [v ɐ z ʊ n]
           * żżidu: [z z ɪ d ʊ]
-          * żona: [z ɔ n ɐ]
-          * spiża: [s p ɪ z ɐ]
-          * jużaw: [j ʊ z ɐ w]
+          * niżel: [n ɪ z ɛ l]
+          * żidtu: [z ɪ d t ʊ]
       * zˤː
         * Occurances: 24
         * Examples
@@ -259,10 +259,10 @@
       * ʃ
         * Occurances: 832
         * Examples
-          * tantx: [t ɐ n t ʃ]
-          * b'xi: [b ʃ ɪ]
-          * xiex?: [ʃ i ɛ ʃ]
-          * x'ġid: [ʃ d͡ʒ ɪ d]
+          * x'ser: [ʃ s ɛ r]
+          * tiġix: [t ɪ d͡ʒ ɪ ʃ]
+          * jimxi: [j ɪ m ʃ ɪ]
+          * nafx: [n ɐ f ʃ]
       * ʃː
         * Occurances: 86
         * Examples
@@ -284,10 +284,10 @@
       * f
         * Occurances: 1787
         * Examples
-          * f'ħin: [f ħ ɪ n]
-          * fost: [f ɔ s t]
-          * frank: [f r ɐ n k]
-          * naf?: [n ɐ f]
+          * f'air: [f ɐ ɪ r]
+          * nadif: [n ɐ d ɪ f]
+          * nafx: [n ɐ f ʃ]
+          * flok: [f l ɔ k]
       * fˤː
         * Occurances: 5
         * Examples
@@ -295,10 +295,10 @@
       * v
         * Occurances: 694
         * Examples
-          * viċin: [v ɪ t͡ʃ ɪ n]
-          * attiv: [ɐ t t ɪ v]
           * vjaġġ: [v j ɐ d͡ʒ d͡ʒ]
-          * vagi.: [v ɐ ɡ ɪ]
+          * vera: [v ɛ r ɐ]
+          * vażun: [v ɐ z ʊ n]
+          * live: [l ɪ v ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -313,16 +313,16 @@
       * ħ
         * Occurances: 1124
         * Examples
-          * sħabu: [s ħ ɐ b ʊ]
-          * sħiħa: [s ħ ɪ ħ ɐ]
-          * sħun: [s ħ ʊ n]
-          * eħe,: [ɛ ħ ɛ]
+          * ħaġa.: [ħ ɐ d͡ʒ ɐ]
+          * sħab: [s ħ ɐ b]
+          * ħaġa!: [ħ ɐ d͡ʒ ɐ]
+          * bħal: [b ħ ɐ l]
       * ħː
         * Occurances: 17
         * Examples
           * qligħ: [ʔ l ɪ ħː]
-          * jbigħ: [j b ɪ ħː]
           * bejgħ: [b ɛ j ħː]
+          * biegħ: [b i ɛ ħː]
           * dmugħ: [d m ʊ ħː]
     ```
   - ```{ipa_cell}
@@ -330,10 +330,10 @@
       * h
         * Occurances: 70
         * Examples
-          * idejh: [ɪ d ɛ j h]
-          * tah: [t ɐ h]
           * fih: [f ɪ h]
-          * tuh: [t ʊ h]
+          * tarah: [t ɐ r ɐ h]
+          * bih: [b ɪ h]
+          * narah: [n ɐ r ɐ h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -349,16 +349,16 @@
       * j
         * Occurances: 3195
         * Examples
-          * jiena: [j i ɛ n ɐ]
-          * josè: [j ɔ s ɛ]
-          * qajmu: [ʔ ɐ j m ʊ]
-          * idejk: [ɪ d ɛ j k]
+          * medja: [m ɛ d j ɐ]
+          * serju: [s ɛ r j ʊ]
+          * bdejt: [b d ɛ j t]
+          * jimxi: [j ɪ m ʃ ɪ]
       * jˤː
         * Occurances: 50
         * Examples
           * jgħin: [jˤː ɪ n]
-          * jgħid: [jˤː ɪ d]
           * jgħix: [jˤː ɪ ʃ]
+          * jgħid: [jˤː ɪ d]
     ```
   - ```{ipa_cell}
     ```
@@ -376,10 +376,10 @@
       * r
         * Occurances: 5179
         * Examples
-          * siġar: [s ɪ d͡ʒ ɐ r]
-          * raġun: [r ɐ d͡ʒ ʊ n]
-          * numru: [n ʊ m r ʊ]
-          * mater: [m ɐ t ɛ r]
+          * park: [p ɐ r k]
+          * serju: [s ɛ r j ʊ]
+          * f'air: [f ɐ ɪ r]
+          * x'ser: [ʃ s ɛ r]
       * rˤː
         * Occurances: 3
         * Examples
@@ -404,10 +404,10 @@
       * l
         * Occurances: 6751
         * Examples
-          * platt: [p l ɐ t t]
-          * abela: [ɐ b ɛ l ɐ]
-          * kull: [k ʊ l l]
-          * salib: [s ɐ l ɪ b]
+          * altru: [ɐ l t r ʊ]
+          * qligħ: [ʔ l ɪ ħː]
+          * flok: [f l ɔ k]
+          * eluf.: [ɛ l ʊ f]
       * lˤː
         * Occurances: 20
         * Examples
@@ -444,18 +444,18 @@
       * i
         * Occurances: 981
         * Examples
+          * qies: [ʔ i ɛ s]
           * jiena: [j i ɛ n ɐ]
-          * nies: [n i ɛ s]
-          * xiex?: [ʃ i ɛ ʃ]
-          * dwiet: [d w i ɛ t]
+          * ulied: [ʊ l i ɛ d]
+          * ktieb: [k t i ɛ b]
     * rounded
       * y
         * Occurances: 94
         * Examples
-          * ebay,: [ɛ b ɐ y]
-          * grey.: [ɡ r ɛ y]
-          * fifty: [f ɪ f t y]
-          * ray: [r ɐ y]
+          * way.: [w ɐ y]
+          * young: [y ɔ ʊ n ɡ]
+          * ryan: [r y ɐ n]
+          * tony: [t ɔ n y]
     ```
   - ```{ipa_cell}
     ```
@@ -473,10 +473,10 @@
       * ɪ
         * Occurances: 10784
         * Examples
-          * gidba: [ɡ ɪ d b ɐ]
-          * diski: [d ɪ s k ɪ]
-          * siġar: [s ɪ d͡ʒ ɐ r]
-          * bini: [b ɪ n ɪ]
+          * b'din: [b d ɪ n]
+          * f'air: [f ɐ ɪ r]
+          * nadif: [n ɐ d ɪ f]
+          * tiġix: [t ɪ d͡ʒ ɪ ʃ]
       * ɪˤː
         * Occurances: 8
         * Examples
@@ -489,10 +489,10 @@
       * ʊ
         * Occurances: 3150
         * Examples
-          * sħabu: [s ħ ɐ b ʊ]
-          * raġun: [r ɐ d͡ʒ ʊ n]
-          * numru: [n ʊ m r ʊ]
-          * qajmu: [ʔ ɐ j m ʊ]
+          * serju: [s ɛ r j ʊ]
+          * eku: [ɛ k ʊ]
+          * niġu: [n ɪ d͡ʒ ʊ]
+          * altru: [ɐ l t r ʊ]
       * ʊˤː
         * Occurances: 5
         * Examples
@@ -527,10 +527,10 @@
       * ɛ
         * Occurances: 6170
         * Examples
-          * jiena: [j i ɛ n ɐ]
-          * item: [ɪ t ɛ m]
-          * ġabet: [d͡ʒ ɐ b ɛ t]
-          * josè: [j ɔ s ɛ]
+          * medja: [m ɛ d j ɐ]
+          * serju: [s ɛ r j ʊ]
+          * hemm: [ɛ m m]
+          * qies: [ʔ i ɛ s]
       * ɛˤː
         * Occurances: 58
         * Examples
@@ -546,10 +546,10 @@
       * ɔ
         * Occurances: 3592
         * Examples
-          * skop.: [s k ɔ p]
-          * post.: [p ɔ s t]
-          * idoqq: [ɪ d ɔ ʔ ʔ]
-          * josè: [j ɔ s ɛ]
+          * kont: [k ɔ n t]
+          * jobs: [j ɔ b s]
+          * flok: [f l ɔ k]
+          * borg: [b ɔ r ɡ]
       * ɔˤː
         * Occurances: 63
         * Examples
@@ -564,10 +564,10 @@
       * ɐ
         * Occurances: 10726
         * Examples
-          * gidba: [ɡ ɪ d b ɐ]
-          * sħabu: [s ħ ɐ b ʊ]
-          * jiena: [j i ɛ n ɐ]
-          * platt: [p l ɐ t t]
+          * park: [p ɐ r k]
+          * medja: [m ɛ d j ɐ]
+          * f'air: [f ɐ ɪ r]
+          * nadif: [n ɐ d ɪ f]
       * ɐˤː
         * Occurances: 180
         * Examples

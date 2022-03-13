@@ -51,16 +51,16 @@
       * m
         * Occurances: 6131
         * Examples
-          * pembe: [p e m b e]
-          * masa: [m a s a]
-          * acemi: [a dʒ e m i]
-          * tam: [t a m]
+          * damın: [d a m ɯ n]
+          * dökme: [d œ k m e]
+          * tarım: [t a ɾ ɯ m]
+          * kampı: [k a m p ɯ]
       * mː
         * Occurances: 18
         * Examples
+          * mmhmm: [mː h mː]
           * hmm: [h mː]
           * jimmy: [ʒ i mː j]
-          * mmhmm: [mː h mː]
     ```
   - ```{ipa_cell}
     ```
@@ -69,10 +69,10 @@
       * n
         * Occurances: 9197
         * Examples
-          * şen: [ʃ e n]
-          * nokta: [n o k t a]
-          * onay: [o n a j]
-          * oldun: [o l d u n]
+          * rinor: [ɾ i n o ɾ]
+          * 'ülen: [y l e n]
+          * sökün: [s œ k y n]
+          * kalın: [k a l ɯ n]
       * nː
         * Occurances: 39
         * Examples
@@ -93,23 +93,23 @@
       * p
         * Occurances: 1259
         * Examples
-          * pembe: [p e m b e]
-          * ahbap: [a h b a p]
-          * topla: [t o p l a]
-          * kapa: [k a p a]
+          * alıp: [a l ɯ p]
+          * parke: [p a ɾ k e]
+          * paya: [p a j a]
+          * köprü: [k œ p ɾ y]
       * pː
         * Occurances: 3
         * Examples
-          * kappa: [k a pː a]
           * zappa: [z a pː a]
+          * kappa: [k a pː a]
     * voiced
       * b
         * Occurances: 2244
         * Examples
-          * pembe: [p e m b e]
-          * bot: [b o t]
-          * ahbap: [a h b a p]
-          * büyük: [b y j y k]
+          * bekâr: [b e k a ɾ]
+          * bedel: [b e d e l]
+          * büst: [b y s t]
+          * buçuk: [b u tʃ u k]
       * bː
         * Occurances: 4
         * Examples
@@ -121,32 +121,32 @@
       * t
         * Occurances: 4858
         * Examples
-          * bot: [b o t]
-          * topla: [t o p l a]
-          * nokta: [n o k t a]
-          * öteki: [œ t e k i]
+          * iter: [i t e ɾ]
+          * statü: [s t a t y]
+          * büst: [b y s t]
+          * içti: [i tʃ t i]
       * tː
         * Occurances: 210
         * Examples
-          * aitti: [a i tː i]
-          * etten: [e tː e n]
+          * scott: [s dʒ o tː]
           * arttı: [a ɾ tː ɯ]
-          * etti: [e tː i]
+          * hatta: [h a tː a]
+          * yetti: [j e tː i]
     * voiced
       * d
         * Occurances: 6052
         * Examples
-          * dick: [d i dʒ k]
-          * aldi: [a l d i]
-          * oldun: [o l d u n]
-          * dayak: [d a j a k]
+          * oda: [o d a]
+          * bedel: [b e d e l]
+          * damın: [d a m ɯ n]
+          * dökme: [d œ k m e]
       * dː
         * Occurances: 76
         * Examples
-          * redde: [ɾ e dː e]
-          * seddi: [s e dː i]
+          * ciddi: [dʒ i dː i]
+          * madde: [m a dː e]
           * addis: [a dː i s]
-          * zıddı: [z ɯ dː ɯ]
+          * cadde: [dʒ a dː e]
     ```
   - ```{ipa_cell}
     ```
@@ -157,23 +157,23 @@
       * k
         * Occurances: 6160
         * Examples
-          * nokta: [n o k t a]
-          * öteki: [œ t e k i]
-          * dick: [d i dʒ k]
-          * büyük: [b y j y k]
+          * şeker: [ʃ e k e ɾ]
+          * parke: [p a ɾ k e]
+          * bekâr: [b e k a ɾ]
+          * yük: [j y k]
       * kː
         * Occurances: 39
         * Examples
-          * sikke: [s i kː e]
           * hakkı: [h a kː ɯ]
+          * sikke: [s i kː e]
     * voiced
       * ɡ
         * Occurances: 1639
         * Examples
-          * negri: [n e ɡ ɾ i]
-          * azgın: [a z ɡ ɯ n]
-          * gözcü: [ɡ œ z dʒ y]
-          * güle: [ɡ y l e]
+          * özgü: [œ z ɡ y]
+          * günkü: [ɡ y n k y]
+          * güney: [ɡ y n e j]
+          * sago: [s a ɡ o]
       * ɡː
         * Occurances: 1
         * Examples
@@ -192,18 +192,18 @@
       * tʃ
         * Occurances: 1299
         * Examples
-          * üçlü: [y tʃ l y]
-          * elçi: [e l tʃ i]
-          * çoban: [tʃ o b a n]
-          * lukiç: [l u k i tʃ]
+          * açın: [a tʃ ɯ n]
+          * içti: [i tʃ t i]
+          * buçuk: [b u tʃ u k]
+          * açım: [a tʃ ɯ m]
     * voiced
       * dʒ
         * Occurances: 1422
         * Examples
-          * acemi: [a dʒ e m i]
-          * dick: [d i dʒ k]
-          * 'acı: [a dʒ ɯ]
-          * gözcü: [ɡ œ z dʒ y]
+          * iyice: [i j i dʒ e]
+          * ciddi: [dʒ i dː i]
+          * cenup: [dʒ e n u p]
+          * scott: [s dʒ o tː]
       * dʒː
         * Occurances: 2
         * Examples
@@ -224,10 +224,10 @@
       * s
         * Occurances: 4509
         * Examples
-          * masa: [m a s a]
-          * james: [ʒ a m e s]
-          * hepsi: [h e p s i]
-          * skor: [s k o ɾ]
+          * sağır: [s a ɯ ɾ]
+          * 'see: [s e e]
+          * statü: [s t a t y]
+          * sökün: [s œ k y n]
       * sː
         * Occurances: 48
         * Examples
@@ -236,10 +236,10 @@
       * z
         * Occurances: 2054
         * Examples
-          * faiz: [f a i z]
-          * izah: [i z a h]
-          * sezer: [s e z e ɾ]
-          * almaz: [a l m a z]
+          * özgü: [œ z ɡ y]
+          * zebun: [z e b u n]
+          * yazık: [j a z ɯ k]
+          * kuzey: [k u z e j]
       * zː
         * Occurances: 7
         * Examples
@@ -249,10 +249,10 @@
       * ʃ
         * Occurances: 2495
         * Examples
-          * şen: [ʃ e n]
-          * şiir: [ʃ i i ɾ]
-          * başlı: [b a ʃ l ɯ]
-          * uçmuş: [u tʃ m u ʃ]
+          * şeker: [ʃ e k e ɾ]
+          * geniş: [ɡ e n i ʃ]
+          * aşan: [a ʃ a n]
+          * beşte: [b e ʃ t e]
       * ʃː
         * Occurances: 1
         * Examples
@@ -261,10 +261,10 @@
       * ʒ
         * Occurances: 127
         * Examples
+          * john: [ʒ o h n]
           * james: [ʒ a m e s]
-          * jolie: [ʒ o l i e]
-          * japon: [ʒ a p o n]
-          * jokiç: [ʒ o k i tʃ]
+          * jamel: [ʒ a m e l]
+          * garaj: [ɡ a ɾ a ʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -280,10 +280,10 @@
       * f
         * Occurances: 733
         * Examples
-          * faiz: [f a i z]
-          * lafa: [l a f a]
-          * efe: [e f e]
-          * fıçı: [f ɯ tʃ ɯ]
+          * sınıf: [s ɯ n ɯ f]
+          * taraf: [t a ɾ a f]
+          * nefes: [n e f e s]
+          * frig: [f ɾ i ɡ]
       * fː
         * Occurances: 10
         * Examples
@@ -292,10 +292,10 @@
       * v
         * Occurances: 1040
         * Examples
-          * devam: [d e v a m]
-          * tavrı: [t a v ɾ ɯ]
-          * veles: [v e l e s]
-          * var: [v a ɾ]
+          * vekil: [v e k i l]
+          * evet: [e v e t]
+          * oval: [o v a l]
+          * bravo: [b ɾ a v o]
       * vː
         * Occurances: 21
         * Examples
@@ -314,15 +314,15 @@
       * h
         * Occurances: 1313
         * Examples
-          * ahbap: [a h b a p]
-          * izah: [i z a h]
-          * hakem: [h a k e m]
-          * hepsi: [h e p s i]
+          * john: [ʒ o h n]
+          * ilahi: [i l a h i]
+          * ooh: [o o h]
+          * hak: [h a k]
       * hː
         * Occurances: 6
         * Examples
-          * uhhuh: [u hː u h]
           * ohh: [o hː]
+          * uhhuh: [u hː u h]
           * ahh: [a hː]
     ```
 * - {manner}`Approximant`
@@ -339,10 +339,10 @@
       * j
         * Occurances: 4973
         * Examples
-          * onay: [o n a j]
-          * büyük: [b y j y k]
-          * dayak: [d a j a k]
-          * yere: [j e ɾ e]
+          * yük: [j y k]
+          * paya: [p a j a]
+          * güney: [ɡ y n e j]
+          * iyice: [i j i dʒ e]
       * jː
         * Occurances: 4
         * Examples
@@ -361,16 +361,16 @@
       * ɾ
         * Occurances: 10142
         * Examples
-          * arar: [a ɾ a ɾ]
-          * yere: [j e ɾ e]
-          * skor: [s k o ɾ]
-          * kart: [k a ɾ t]
+          * sağır: [s a ɯ ɾ]
+          * iter: [i t e ɾ]
+          * şeker: [ʃ e k e ɾ]
+          * parke: [p a ɾ k e]
       * ɾː
         * Occurances: 22
         * Examples
           * sırrı: [s ɯ ɾː ɯ]
-          * harry: [h a ɾː j]
           * larry: [l a ɾː j]
+          * harry: [h a ɾː j]
     ```
   - ```{ipa_cell}
     ```
@@ -390,17 +390,17 @@
       * l
         * Occurances: 9014
         * Examples
-          * topla: [t o p l a]
-          * üçlü: [y tʃ l y]
-          * aldi: [a l d i]
-          * oldun: [o l d u n]
+          * alıp: [a l ɯ p]
+          * bedel: [b e d e l]
+          * 'ülen: [y l e n]
+          * kalın: [k a l ɯ n]
       * lː
         * Occurances: 276
         * Examples
-          * çallı: [tʃ a lː ɯ]
-          * allak: [a lː a k]
-          * dille: [d i lː e]
-          * elli: [e lː i]
+          * lloyd: [lː o j d]
+          * eller: [e lː e ɾ]
+          * elle: [e lː e]
+          * hall: [h a lː]
     ```
   - ```{ipa_cell}
     ```
@@ -432,18 +432,18 @@
       * i
         * Occurances: 10861
         * Examples
-          * faiz: [f a i z]
-          * acemi: [a dʒ e m i]
-          * izah: [i z a h]
-          * öteki: [œ t e k i]
+          * iter: [i t e ɾ]
+          * rinor: [ɾ i n o ɾ]
+          * iyice: [i j i dʒ e]
+          * içti: [i tʃ t i]
     * rounded
       * y
         * Occurances: 2423
         * Examples
-          * üçlü: [y tʃ l y]
-          * büyük: [b y j y k]
-          * yükü: [j y k y]
-          * kökü: [k œ k y]
+          * özgü: [œ z ɡ y]
+          * 'ülen: [y l e n]
+          * statü: [s t a t y]
+          * yük: [j y k]
     ```
   - ```{ipa_cell}
     ```
@@ -456,18 +456,18 @@
       * ɯ
         * Occurances: 7751
         * Examples
-          * 'acı: [a dʒ ɯ]
-          * haklı: [h a k l ɯ]
-          * yarım: [j a ɾ ɯ m]
-          * tıpkı: [t ɯ p k ɯ]
+          * alıp: [a l ɯ p]
+          * sağır: [s a ɯ ɾ]
+          * kalın: [k a l ɯ n]
+          * açın: [a tʃ ɯ n]
     * rounded
       * u
         * Occurances: 4501
         * Examples
-          * oldun: [o l d u n]
-          * duffy: [d u fː j]
-          * oğlun: [o l u n]
-          * muhit: [m u h i t]
+          * buçuk: [b u tʃ u k]
+          * sükun: [s y k u n]
+          * cenup: [dʒ e n u p]
+          * uslu: [u s l u]
     ```
 * -
   - ```{ipa_cell}
@@ -486,10 +486,10 @@
       * e
         * Occurances: 12057
         * Examples
-          * pembe: [p e m b e]
-          * acemi: [a dʒ e m i]
-          * şen: [ʃ e n]
-          * öteki: [œ t e k i]
+          * iter: [i t e ɾ]
+          * şeker: [ʃ e k e ɾ]
+          * parke: [p a ɾ k e]
+          * 'see: [s e e]
     ```
   - ```{ipa_cell}
     ```
@@ -502,10 +502,10 @@
       * o
         * Occurances: 3644
         * Examples
-          * bot: [b o t]
-          * topla: [t o p l a]
-          * nokta: [n o k t a]
-          * onay: [o n a j]
+          * oda: [o d a]
+          * rinor: [ɾ i n o ɾ]
+          * john: [ʒ o h n]
+          * alkol: [a l k o l]
     ```
 * -
   - ```{ipa_cell}
@@ -524,10 +524,10 @@
       * œ
         * Occurances: 1060
         * Examples
-          * öteki: [œ t e k i]
-          * önemi: [œ n e m i]
-          * kökü: [k œ k y]
-          * gözcü: [ɡ œ z dʒ y]
+          * özgü: [œ z ɡ y]
+          * sökün: [s œ k y n]
+          * dökme: [d œ k m e]
+          * köprü: [k œ p ɾ y]
     ```
   - ```{ipa_cell}
     ```
@@ -558,10 +558,10 @@
       * a
         * Occurances: 16739
         * Examples
-          * faiz: [f a i z]
-          * ahbap: [a h b a p]
-          * masa: [m a s a]
-          * acemi: [a dʒ e m i]
+          * alıp: [a l ɯ p]
+          * sağır: [s a ɯ ɾ]
+          * parke: [p a ɾ k e]
+          * oda: [o d a]
     ```
   - ```{ipa_cell}
     ```

@@ -52,10 +52,10 @@
       * m
         * Occurances: 18845
         * Examples
-          * munir: [m u n i ɾ]
-          * maps: [m ɐ p s]
-          * macaé: [m ɐ c ɛ]
-          * más: [m a ʃ]
+          * gizmo: [ʒ i ʒ m u]
+          * móro: [m ɔ ɾ u]
+          * íamos: [i ɐ m u ʃ]
+          * tumor: [t u m o ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -66,10 +66,10 @@
       * n
         * Occurances: 12761
         * Examples
-          * munir: [m u n i ɾ]
-          * mana: [m ɐ n ɐ]
-          * inimà: [i n i m a]
-          * nodoa: [n ɔ d o ɐ]
+          * venus: [v ɨ n u ʃ]
+          * nervo: [n e ɾ v u]
+          * nante: [n ɐ̃ t ɨ]
+          * nas: [n ɐ ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -78,10 +78,10 @@
       * ɲ
         * Occurances: 2679
         * Examples
-          * tenho: [t e ɲ u]
-          * veho: [v ɐ ɲ u]
-          * conhe: [k u ɲ ɨ]
-          * sonhe: [s u ɲ ɨ]
+          * enho: [ɐ ɲ u]
+          * cunho: [k u ɲ u]
+          * ohl: [ɔ ɲ a w]
+          * penha: [p e j ɲ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -93,18 +93,18 @@
       * p
         * Occurances: 18657
         * Examples
-          * maps: [m ɐ p s]
-          * peita: [p ɐ j t ɐ]
-          * oppôz: [ɔ p o ʃ]
-          * iepê: [i ɛ p e]
+          * prazo: [p ɾ a z u]
+          * orpí: [ɔ ɾ p i]
+          * palha: [p a ʎ ɐ]
+          * perna: [p ɛ ɾ n ɐ]
     * voiced
       * b
         * Occurances: 6412
         * Examples
-          * besta: [b e ʃ t ɐ]
-          * bond: [b õ d]
-          * bobos: [b o b u ʃ]
-          * álibi: [a l i b i]
+          * babe: [b a b i]
+          * brade: [b ɾ a ð ɨ]
+          * ubaia: [u b a j ɐ]
+          * baker: [b a c ɛ ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -115,18 +115,18 @@
       * t
         * Occurances: 35481
         * Examples
-          * besta: [b e ʃ t ɐ]
-          * state: [s t a t ɨ]
-          * site: [s i t ɨ]
-          * dieta: [dʒ i e t ɐ]
+          * furta: [f u ɾ t ɐ]
+          * gate: [ɡ a t ɨ]
+          * torço: [t u ɾ s u]
+          * votou: [v u t o w]
     * voiced
       * d
         * Occurances: 16103
         * Examples
-          * kids: [c i d ʃ]
-          * doses: [d o s ɨ ʃ]
-          * ondas: [õ d ɐ ʃ]
-          * fenda: [f ẽ d ɐ]
+          * dalí: [d ɐ l i]
+          * ndia: [d j ɐ]
+          * doge: [d u ʒ ɨ]
+          * doia: [d ɔ j ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -135,36 +135,36 @@
       * c
         * Occurances: 1426
         * Examples
-          * kids: [c i d ʃ]
-          * macaé: [m ɐ c ɛ]
-          * queu: [c e w]
           * baker: [b a c ɛ ɾ]
+          * muqui: [m u c i]
+          * coque: [k ɔ c i]
+          * laquê: [l a c e]
     * voiced
       * ɟ
         * Occurances: 281
         * Examples
+          * guê: [ɟ e]
           * fulge: [f u l ɟ i]
-          * guido: [ɟ i ð u]
-          * guia: [ɟ i ɐ]
-          * guela: [ɟ ɛ l ɐ]
+          * guiar: [ɟ i a ɾ]
+          * guizo: [ɟ i z u]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 23286
         * Examples
-          * goku: [ɡ k u]
-          * calam: [k ɐ l ɐ̃]
-          * kauam: [k a w ɐ̃ w̃]
-          * conhe: [k u ɲ ɨ]
+          * cavou: [k ɐ v o w]
+          * cuja: [k w ʒ ɐ]
+          * bosco: [b o ʃ k u]
+          * corá: [k u ɾ a]
     * voiced
       * ɡ
         * Occurances: 4240
         * Examples
-          * goku: [ɡ k u]
-          * zango: [z ɐ̃ ɡ u]
-          * gorro: [ɡ o ʁ u]
-          * olga: [o l ɡ a]
+          * gate: [ɡ a t ɨ]
+          * jiang: [ʒ i ɐ̃ ɡ]
+          * pongo: [p õ ɡ u]
+          * gots: [ɡ ɔ t s]
     ```
   - ```{ipa_cell}
     ```
@@ -182,18 +182,18 @@
       * tʃ
         * Occurances: 774
         * Examples
-          * hete: [ɛ tʃ i]
-          * acoty: [ɐ k o tʃ i]
-          * reset: [ʁ e z ɛ tʃ i]
-          * patis: [p a tʃ i ʃ]
+          * print: [p ɾ ĩ tʃ i]
+          * qtiem: [k tʃ ĩ ɐ̃ j̃]
+          * laet: [l ɐ ɛ tʃ i]
+          * cents: [s ẽ tʃ]
     * voiced
       * dʒ
         * Occurances: 489
         * Examples
+          * diaba: [dʒ i a b ɐ]
+          * ondeo: [õ dʒ i u]
           * dieta: [dʒ i e t ɐ]
-          * diedo: [dʒ i e ð u]
-          * vídeo: [v i dʒ i u]
-          * diego: [dʒ i e ɣ u]
+          * bndes: [b dʒ i s]
     ```
   - ```{ipa_cell}
     ```
@@ -213,36 +213,36 @@
       * s
         * Occurances: 25371
         * Examples
-          * cegar: [s ɨ ɣ a ɾ]
-          * voice: [v o j s ɨ]
-          * state: [s t a t ɨ]
-          * site: [s i t ɨ]
+          * sábio: [s a β i u]
+          * torço: [t u ɾ s u]
+          * ciais: [s i a j ʃ]
+          * suez: [s w e ʃ]
     * voiced
       * z
         * Occurances: 9185
         * Examples
-          * ibuza: [i β w z ɐ]
-          * zango: [z ɐ̃ ɡ u]
-          * aziza: [ɐ z i z ɐ]
-          * grisu: [ɡ ɾ i z u]
+          * prazo: [p ɾ a z u]
+          * vazio: [v ɐ z i u]
+          * jazer: [ʒ ɐ z e ɾ]
+          * cases: [k a z ɨ ʃ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 35196
         * Examples
-          * besta: [b e ʃ t ɐ]
-          * kids: [c i d ʃ]
-          * doses: [d o s ɨ ʃ]
-          * elics: [i l ɨ s ʃ]
+          * leôas: [l j o ɐ ʃ]
+          * venus: [v ɨ n u ʃ]
+          * íamos: [i ɐ m u ʃ]
+          * ciais: [s i a j ʃ]
     * voiced
       * ʒ
         * Occurances: 6284
         * Examples
-          * enjoo: [ẽ ʒ o u]
-          * jetaí: [ʒ ɛ t ɐ i]
-          * jency: [ʒ ẽ s i]
-          * ijuís: [i ʒ w i ʃ]
+          * gizmo: [ʒ i ʒ m u]
+          * jungi: [ʒ ũ ʒ i]
+          * cuja: [k w ʒ ɐ]
+          * jiang: [ʒ i ɐ̃ ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -258,28 +258,28 @@
       * f
         * Occurances: 10059
         * Examples
-          * afeta: [ɐ f ɛ t ɐ]
-          * afuá: [ɐ f u a]
-          * fenda: [f ẽ d ɐ]
-          * vifto: [v i f t u]
+          * furta: [f u ɾ t ɐ]
+          * fre: [f ɾ ɨ]
+          * enfaó: [ẽ f ɐ ɔ]
+          * filha: [f i ʎ ɐ]
     * voiced
       * v
         * Occurances: 13446
         * Examples
-          * lavar: [l ɐ v a ɾ]
-          * voice: [v o j s ɨ]
-          * veho: [v ɐ ɲ u]
-          * vifto: [v i f t u]
+          * cavou: [k ɐ v o w]
+          * venus: [v ɨ n u ʃ]
+          * nervo: [n e ɾ v u]
+          * votou: [v u t o w]
     ```
   - ```{ipa_cell}
     * voiced
       * ð
         * Occurances: 16127
         * Examples
-          * lande: [l ɐ̃ ð ɨ]
-          * ardil: [ɐ ɾ ð i l]
-          * eden: [i ð ɛ n]
-          * ardor: [ɐ ɾ ð o ɾ]
+          * brade: [b ɾ a ð ɨ]
+          * edou: [i ð o w]
+          * móda: [m ɔ ð ɐ]
+          * ahmed: [a m ɨ ð]
     ```
   - ```{ipa_cell}
     ```
@@ -292,20 +292,20 @@
       * ɣ
         * Occurances: 4335
         * Examples
-          * cegar: [s ɨ ɣ a ɾ]
-          * afogo: [ɐ f o ɣ u]
-          * vigor: [v i ɣ u ɾ]
-          * magos: [m a ɣ u ʃ]
+          * mágua: [m a ɣ w ɐ]
+          * agoas: [ɐ ɣ o ɐ ʃ]
+          * smith: [ʃ m i t ɣ a]
+          * cegá: [s ɨ ɣ a]
     ```
   - ```{ipa_cell}
     * other
       * ʁ
         * Occurances: 9606
         * Examples
-          * gorro: [ɡ o ʁ u]
-          * réles: [ʁ ɛ l ɨ ʃ]
-          * rango: [ʁ ɐ̃ ɡ u]
-          * berra: [b ɛ ʁ ɐ]
+          * jorro: [ʒ ɔ ʁ u]
+          * rugia: [ʁ u ʒ i a]
+          * ree: [ʁ e e]
+          * repto: [ʁ ɛ p t u]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -323,17 +323,17 @@
       * j
         * Occurances: 17091
         * Examples
-          * voice: [v o j s ɨ]
-          * saiba: [s a j β ɐ]
-          * troya: [t ɾ ɔ j a]
-          * peita: [p ɐ j t ɐ]
+          * ubaia: [u b a j ɐ]
+          * sábio: [s a β j u]
+          * leôas: [l j o ɐ ʃ]
+          * ciais: [s i a j ʃ]
       * j̃
         * Occurances: 3101
         * Examples
-          * luzem: [l u z ɐ̃ j̃]
-          * gemem: [ʒ ɨ m ẽ j̃]
-          * leem: [l j ɐ̃ j̃]
-          * item: [i t ɐ̃ j̃]
+          * ções: [s õ j̃ ʃ]
+          * detem: [d ɨ t ɐ̃ j̃]
+          * qtiem: [k tʃ ĩ ɐ̃ j̃]
+          * peões: [p e õ j̃ ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -351,10 +351,10 @@
       * ɾ
         * Occurances: 47249
         * Examples
-          * cegar: [s ɨ ɣ a ɾ]
-          * lavar: [l ɐ v a ɾ]
-          * soro: [s o ɾ u]
-          * munir: [m u n i ɾ]
+          * prazo: [p ɾ a z u]
+          * furta: [f u ɾ t ɐ]
+          * abro: [ɐ β ɾ u]
+          * brade: [b ɾ a ð ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -376,10 +376,10 @@
       * l
         * Occurances: 22666
         * Examples
-          * lavar: [l ɐ v a ɾ]
-          * lira: [l i ɾ ɐ]
-          * illa: [i l ɐ]
-          * lenta: [l ẽ t ɐ]
+          * leôas: [l j o ɐ ʃ]
+          * ábila: [a b i l ɐ]
+          * áloes: [a l ʃ]
+          * talam: [t ɐ l a m]
     ```
   - ```{ipa_cell}
     ```
@@ -388,10 +388,10 @@
       * ʎ
         * Occurances: 1970
         * Examples
-          * lhana: [ʎ ɐ n ɐ]
-          * vélha: [v ɛ ʎ ɐ]
-          * ilha: [i ʎ ɐ]
-          * pilhá: [p i ʎ a]
+          * palha: [p a ʎ ɐ]
+          * filha: [f i ʎ ɐ]
+          * bulha: [b u ʎ ɐ]
+          * selha: [s ɐ j ʎ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -419,10 +419,10 @@
       * i
         * Occurances: 48767
         * Examples
-          * site: [s i t ɨ]
-          * ibuza: [i β w z ɐ]
-          * munir: [m u n i ɾ]
-          * lira: [l i ɾ ɐ]
+          * babe: [b a b i]
+          * gizmo: [ʒ i ʒ m u]
+          * sábio: [s a β i u]
+          * orpí: [ɔ ɾ p i]
     ```
   - ```{ipa_cell}
     ```
@@ -431,10 +431,10 @@
       * ɨ
         * Occurances: 33406
         * Examples
-          * cegar: [s ɨ ɣ a ɾ]
-          * voice: [v o j s ɨ]
-          * state: [s t a t ɨ]
-          * site: [s i t ɨ]
+          * gate: [ɡ a t ɨ]
+          * brade: [b ɾ a ð ɨ]
+          * fre: [f ɾ ɨ]
+          * venus: [v ɨ n u ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -443,10 +443,10 @@
       * u
         * Occurances: 49846
         * Examples
-          * enjoo: [ẽ ʒ o u]
-          * soro: [s o ɾ u]
-          * goku: [ɡ k u]
-          * munir: [m u n i ɾ]
+          * prazo: [p ɾ a z u]
+          * furta: [f u ɾ t ɐ]
+          * abro: [ɐ β ɾ u]
+          * ubaia: [u b a j ɐ]
     ```
 * -
   - ```{ipa_cell}
@@ -465,10 +465,10 @@
       * e
         * Occurances: 10199
         * Examples
-          * besta: [b e ʃ t ɐ]
-          * dieta: [dʒ i e t ɐ]
-          * sustê: [s u ʃ t e]
-          * tenho: [t e ɲ u]
+          * nervo: [n e ɾ v u]
+          * suez: [s w e ʃ]
+          * jazer: [ʒ ɐ z e ɾ]
+          * guê: [ɟ e]
     ```
   - ```{ipa_cell}
     ```
@@ -481,10 +481,10 @@
       * o
         * Occurances: 10993
         * Examples
-          * enjoo: [ẽ ʒ o u]
-          * voice: [v o j s ɨ]
-          * soro: [s o ɾ u]
-          * doses: [d o s ɨ ʃ]
+          * cavou: [k ɐ v o w]
+          * leôas: [l j o ɐ ʃ]
+          * votou: [v u t o w]
+          * tumor: [t u m o ɾ]
     ```
 * -
   - ```{ipa_cell}
@@ -503,10 +503,10 @@
       * ɛ
         * Occurances: 8807
         * Examples
-          * besta: [b ɛ ʃ t ɐ]
-          * afeta: [ɐ f ɛ t ɐ]
-          * jetaí: [ʒ ɛ t ɐ i]
-          * selas: [s ɛ l ɐ ʃ]
+          * baker: [b a c ɛ ɾ]
+          * perna: [p ɛ ɾ n ɐ]
+          * ssa: [ɛ s ɨ ɛ s ɨ a]
+          * mel: [m ɛ l]
     ```
   - ```{ipa_cell}
     ```
@@ -519,10 +519,10 @@
       * ɔ
         * Occurances: 6898
         * Examples
-          * soro: [s ɔ ɾ u]
-          * troya: [t ɾ ɔ j a]
-          * cós: [k ɔ ʃ]
-          * chora: [ʃ ɔ ɾ ɐ]
+          * móro: [m ɔ ɾ u]
+          * orpí: [ɔ ɾ p i]
+          * orva: [ɔ ɾ v ɐ]
+          * enfaó: [ẽ f ɐ ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -534,10 +534,10 @@
       * ɐ
         * Occurances: 61572
         * Examples
-          * lavar: [l ɐ v a ɾ]
-          * besta: [b e ʃ t ɐ]
-          * ibuza: [i β w z ɐ]
-          * lira: [l i ɾ ɐ]
+          * furta: [f u ɾ t ɐ]
+          * abro: [ɐ β ɾ u]
+          * ubaia: [u b a j ɐ]
+          * cavou: [k ɐ v o w]
     ```
   - ```{ipa_cell}
     ```
@@ -553,10 +553,10 @@
       * a
         * Occurances: 36560
         * Examples
-          * cegar: [s ɨ ɣ a ɾ]
-          * lavar: [l ɐ v a ɾ]
-          * state: [s t a t ɨ]
-          * afuá: [ɐ f u a]
+          * prazo: [p ɾ a z u]
+          * gate: [ɡ a t ɨ]
+          * babe: [b a b i]
+          * brade: [b ɾ a ð ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -584,10 +584,10 @@
       * ĩ
         * Occurances: 5449
         * Examples
-          * inter: [ĩ t e ɾ]
-          * hínon: [ĩ õ]
-          * incra: [ĩ k ɾ ɐ]
-          * imbé: [ĩ b ɛ]
+          * print: [p ɾ ĩ tʃ i]
+          * caim: [k ɐ ĩ]
+          * enaim: [ĩ ĩ]
+          * lying: [l a j ĩ ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -600,10 +600,10 @@
       * ũ
         * Occurances: 1292
         * Examples
-          * num: [n ũ]
-          * mum: [m ũ]
-          * sun: [s ũ]
-          * tunes: [t ũ ʃ]
+          * jungi: [ʒ ũ ʒ i]
+          * unto: [ũ t u]
+          * zumbi: [z ũ b i]
+          * dunga: [d ũ ɡ ɐ]
     ```
 * -
   - ```{ipa_cell}
@@ -622,10 +622,10 @@
       * ẽ
         * Occurances: 10563
         * Examples
-          * enjoo: [ẽ ʒ o u]
-          * lenta: [l ẽ t ɐ]
-          * lem: [l ẽ]
-          * fenda: [f ẽ d ɐ]
+          * enfaó: [ẽ f ɐ ɔ]
+          * jency: [ʒ ẽ s i]
+          * lendo: [l ẽ d u]
+          * jenga: [ʒ ẽ ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -638,10 +638,10 @@
       * õ
         * Occurances: 6095
         * Examples
-          * ondas: [õ d ɐ ʃ]
-          * bond: [b õ d]
-          * ronco: [ʁ õ k u]
-          * hínon: [ĩ õ]
+          * pongo: [p õ ɡ u]
+          * gongo: [ɡ õ ɡ u]
+          * côrte: [k õ ɾ t ɨ]
+          * ções: [s õ j̃ ʃ]
     ```
 * -
   - ```{ipa_cell}
@@ -675,10 +675,10 @@
       * ɐ̃
         * Occurances: 16632
         * Examples
-          * zango: [z ɐ̃ ɡ u]
-          * lande: [l ɐ̃ ð ɨ]
-          * calam: [k ɐ l ɐ̃]
-          * kauam: [k a w ɐ̃ w̃]
+          * jiang: [ʒ i ɐ̃ ɡ]
+          * nante: [n ɐ̃ t ɨ]
+          * seiam: [s ɐ j ɐ̃ w̃]
+          * vedam: [v ɛ ð ɐ̃]
     ```
   - ```{ipa_cell}
     ```

@@ -51,10 +51,10 @@
       * m
         * Occurances: 14016
         * Examples
-          * może.: [m ɔ ʐ ɛ]
-          * min: [m i n]
-          * gram: [ɡ r a m]
-          * lotem: [l ɔ t ɛ m]
+          * samej: [s a m ɛ j]
+          * ideom: [i d ɛ ɔ m]
+          * wotum: [v ɔ t u m]
+          * mycie: [m ɨ t͡ɕ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +63,10 @@
       * n
         * Occurances: 17936
         * Examples
-          * „on: [ɔ n]
-          * zna: [z n a]
-          * min: [m i n]
-          * pana.: [p a n a]
+          * "żona: [ʐ ɔ n a]
+          * nam: [n a m]
+          * win: [v i n]
+          * nogi.: [n ɔ ɡʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -75,20 +75,20 @@
       * ɲ
         * Occurances: 9277
         * Examples
-          * gniew: [ɡ ɲ ɛ f]
-          * nikąd: [ɲ i k ɔ n t]
-          * pnie: [p ɲ ɛ]
-          * śnieg: [ɕ ɲ ɛ k]
+          * oknie: [ɔ k ɲ ɛ]
+          * tytoń: [t ɨ t ɔ ɲ]
+          * tonie: [t ɔ ɲ ɛ]
+          * panią: [p a ɲ ɔ̃]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 650
         * Examples
-          * ręke: [r ɛ ŋ k ɛ]
-          * jęku,: [j ɛ ŋ k u]
-          * lękać: [l ɛ ŋ k a t͡ɕ]
-          * ciąg: [t͡ɕ ɔ ŋ k]
+          * jęk,: [j ɛ ŋ k]
+          * jęk: [j ɛ ŋ k]
+          * ręką,: [r ɛ ŋ k ɔ̃]
+          * jęku: [j ɛ ŋ k u]
     ```
   - ```{ipa_cell}
     ```
@@ -98,18 +98,18 @@
       * p
         * Occurances: 14499
         * Examples
-          * dupą: [d u p ɔ̃]
-          * pana.: [p a n a]
-          * pan?": [p a n]
-          * pal: [p a l]
+          * łopot: [w ɔ p ɔ t]
+          * płód.: [p w u d]
+          * podać: [p ɔ d a t͡ɕ]
+          * opis: [ɔ p i s]
     * voiced
       * b
         * Occurances: 5714
         * Examples
-          * bóbr: [b u b r]
-          * brzeg: [b ʐ ɛ k]
           * ryby?: [r ɨ b ɨ]
-          * obu.": [ɔ b u]
+          * bajka: [b a j k a]
+          * brak.: [b r a k]
+          * arab.: [a r a b]
     ```
   - ```{ipa_cell}
     ```
@@ -118,18 +118,18 @@
       * t
         * Occurances: 19147
         * Examples
-          * gest: [ɡ ɛ s t]
-          * lotem: [l ɔ t ɛ m]
-          * rzutu: [ʐ u t u]
-          * czyta: [t ʂ ɨ t a]
+          * tego: [t ɛ ɡ ɔ]
+          * stają: [s t a j ɔ̃]
+          * łopot: [w ɔ p ɔ t]
+          * litwa: [l i t f a]
     * voiced
       * d
         * Occurances: 8628
         * Examples
-          * dupą: [d u p ɔ̃]
-          * widmo: [v i d m ɔ]
-          * zdały: [z d a w ɨ]
-          * cuda?: [t͡s u d a]
+          * płód.: [p w u d]
+          * ideom: [i d ɛ ɔ m]
+          * podać: [p ɔ d a t͡ɕ]
+          * hardo: [x a r d ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -140,32 +140,32 @@
       * k
         * Occurances: 10737
         * Examples
-          * klasę: [k l a s ɛ]
-          * łaska: [w a s k a]
-          * brzeg: [b ʐ ɛ k]
-          * klaus: [k l a f s]
+          * bajka: [b a j k a]
+          * guzik: [ɡ u ʑ i k]
+          * brak.: [b r a k]
+          * kruk: [k r u k]
       * kʲ
         * Occurances: 2102
         * Examples
-          * jaki.: [j a kʲ i]
-          * kiblu: [kʲ i b l u]
-          * kisło: [kʲ i s w ɔ]
-          * matki: [m a t kʲ i]
+          * walki: [v a l kʲ i]
+          * kim: [kʲ i m]
+          * kim.: [kʲ i m]
+          * kij.: [kʲ i j]
     * voiced
       * ɡ
         * Occurances: 5417
         * Examples
-          * gniew: [ɡ ɲ ɛ f]
-          * grą: [ɡ r ɔ̃]
-          * gest: [ɡ ɛ s t]
-          * gram: [ɡ r a m]
+          * tego: [t ɛ ɡ ɔ]
+          * guzik: [ɡ u ʑ i k]
+          * bieg.: [b j ɛ ɡ]
+          * ugody: [u ɡ ɔ d ɨ]
       * ɡʲ
         * Occurances: 496
         * Examples
+          * nogi.: [n ɔ ɡʲ i]
+          * nogi,: [n ɔ ɡʲ i]
           * ogier: [ɔ ɡʲ ɛ r]
-          * długi: [d w u ɡʲ i]
-          * gięła: [ɡʲ ɛ w a]
-          * gier: [ɡʲ ɛ r]
+          * gilad: [ɡʲ i l a t]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -183,18 +183,18 @@
       * t͡s
         * Occurances: 5110
         * Examples
-          * cuda?: [t͡s u d a]
-          * nocy.: [n ɔ t͡s ɨ]
-          * co,: [t͡s ɔ]
-          * racje: [r a t͡s j ɛ]
+          * pracę: [p r a t͡s ɛ]
+          * „cóż: [t͡s u ʂ]
+          * celi: [t͡s ɛ l i]
+          * cele: [t͡s ɛ l ɛ]
     * voiced
       * d͡z
         * Occurances: 783
         * Examples
+          * sądzę: [s ɔ n d͡z ɛ]
           * jedz.: [j ɛ d͡z]
-          * sadza: [s a d͡z a]
-          * widzą: [v i d͡z ɔ̃]
-          * godzę: [ɡ ɔ d͡z ɛ]
+          * nędzą: [n ɛ n d͡z ɔ̃]
+          * rdzą: [r d͡z ɔ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -203,18 +203,18 @@
       * t͡ɕ
         * Occurances: 6291
         * Examples
-          * pić: [p i t͡ɕ]
-          * "idź: [i t͡ɕ]
-          * tamci: [t a m t͡ɕ i]
-          * choć,: [x ɔ t͡ɕ]
+          * podać: [p ɔ d a t͡ɕ]
+          * mycie: [m ɨ t͡ɕ ɛ]
+          * wybić: [v ɨ b i t͡ɕ]
+          * stać.: [s t a t͡ɕ]
     * voiced
       * d͡ʑ
         * Occurances: 2232
         * Examples
-          * dzika: [d͡ʑ i k a]
+          * pędzi: [p ɛ n d͡ʑ i]
+          * sądzi: [s ɔ n d͡ʑ i]
           * dziką: [d͡ʑ i k ɔ̃]
-          * "dziś: [d͡ʑ i ɕ]
-          * idzie: [i d͡ʑ ɛ]
+          * gdzie: [ɡ d͡ʑ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -230,54 +230,54 @@
       * s
         * Occurances: 11898
         * Examples
-          * klasę: [k l a s ɛ]
-          * łaska: [w a s k a]
-          * gest: [ɡ ɛ s t]
-          * urósł: [u r u s w]
+          * samej: [s a m ɛ j]
+          * stają: [s t a j ɔ̃]
+          * opis: [ɔ p i s]
+          * słupy: [s w u p ɨ]
     * voiced
       * z
         * Occurances: 7808
         * Examples
-          * zna: [z n a]
-          * zdały: [z d a w ɨ]
-          * zerka: [z ɛ r k a]
-          * bez.: [b ɛ z]
+          * zosiu: [z ɔ ɕ u]
+          * zawył: [z a v ɨ w]
+          * "za: [z a]
+          * »złe: [z w ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 12832
         * Examples
-          * czyta: [t ʂ ɨ t a]
-          * twarz: [t f a ʂ]
-          * burz: [b u ʂ]
-          * mysz,: [m ɨ ʂ]
+          * łączą: [w ɔ n t ʂ ɔ̃]
+          * „cóż: [t͡s u ʂ]
+          * krzyk: [k ʂ ɨ k]
+          * włącz: [v w ɔ n t ʂ]
     * voiced
       * ʐ
         * Occurances: 4477
         * Examples
-          * może.: [m ɔ ʐ ɛ]
-          * rzutu: [ʐ u t u]
-          * brzeg: [b ʐ ɛ k]
-          * "każe: [k a ʐ ɛ]
+          * "żona: [ʐ ɔ n a]
+          * łożu,: [w ɔ ʐ u]
+          * rząd,: [ʐ ɔ n d]
+          * ważna: [v a ʐ n a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 4914
         * Examples
-          * sił.: [ɕ i w]
-          * wisi: [v i ɕ i]
-          * śnieg: [ɕ ɲ ɛ k]
-          * silna: [ɕ i l n a]
+          * zosiu: [z ɔ ɕ u]
+          * byłeś: [b ɨ w ɛ ɕ]
+          * kusi: [k u ɕ i]
+          * sie: [ɕ ɛ]
     * voiced
       * ʑ
         * Occurances: 595
         * Examples
+          * guzik: [ɡ u ʑ i k]
+          * zimy,: [ʑ i m ɨ]
           * aziza: [a ʑ i z a]
-          * buzi: [b u ʑ i]
-          * jaźń: [j a ʑ ɲ]
-          * zimą: [ʑ i m ɔ̃]
+          * grozi: [ɡ r ɔ ʑ i]
     ```
   - ```{ipa_cell}
     ```
@@ -291,18 +291,18 @@
       * f
         * Occurances: 4910
         * Examples
-          * gniew: [ɡ ɲ ɛ f]
-          * klaus: [k l a f s]
-          * twarz: [t f a ʂ]
+          * rowów: [r ɔ v u f]
           * litwa: [l i t f a]
+          * larw: [l a r f]
+          * form: [f ɔ r m]
     * voiced
       * v
         * Occurances: 14809
         * Examples
-          * widmo: [v i d m ɔ]
-          * lwy.: [l v ɨ]
-          * was.: [v a s]
-          * uwagą: [u v a ɡ ɔ̃]
+          * rowów: [r ɔ v u f]
+          * zawył: [z a v ɨ w]
+          * wotum: [v ɔ t u m]
+          * prawe: [p r a v ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -315,10 +315,10 @@
       * x
         * Occurances: 4514
         * Examples
-          * ohyda: [ɔ x ɨ d a]
-          * cha!: [x a]
-          * chowu: [x ɔ v u]
-          * hura!: [x u r a]
+          * hardo: [x a r d ɔ]
+          * mech,: [m ɛ x]
+          * hit,: [x i t]
+          * ruch!: [r u x]
     ```
   - ```{ipa_cell}
     ```
@@ -336,10 +336,10 @@
       * j
         * Occurances: 14074
         * Examples
-          * „ja: [j a]
-          * miast: [m j a s t]
-          * dają.: [d a j ɔ̃]
-          * racje: [r a t͡s j ɛ]
+          * samej: [s a m ɛ j]
+          * stają: [s t a j ɔ̃]
+          * bajka: [b a j k a]
+          * jęk,: [j ɛ ŋ k]
     ```
   - ```{ipa_cell}
     ```
@@ -355,10 +355,10 @@
       * r
         * Occurances: 14847
         * Examples
-          * grą: [ɡ r ɔ̃]
-          * gram: [ɡ r a m]
-          * bóbr: [b u b r]
-          * urósł: [u r u s w]
+          * rowów: [r ɔ v u f]
+          * ryby?: [r ɨ b ɨ]
+          * larw: [l a r f]
+          * hardo: [x a r d ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -378,10 +378,10 @@
       * l
         * Occurances: 8944
         * Examples
-          * "ile: [i l ɛ]
-          * klasę: [k l a s ɛ]
-          * lotem: [l ɔ t ɛ m]
-          * klaus: [k l a f s]
+          * litwa: [l i t f a]
+          * larw: [l a r f]
+          * walki: [v a l kʲ i]
+          * nadal: [n a d a l]
     ```
   - ```{ipa_cell}
     ```
@@ -413,10 +413,10 @@
       * i
         * Occurances: 14534
         * Examples
-          * "ile: [i l ɛ]
-          * min: [m i n]
-          * widmo: [v i d m ɔ]
-          * sił.: [ɕ i w]
+          * ideom: [i d ɛ ɔ m]
+          * litwa: [l i t f a]
+          * guzik: [ɡ u ʑ i k]
+          * opis: [ɔ p i s]
     ```
   - ```{ipa_cell}
     ```
@@ -425,10 +425,10 @@
       * ɨ
         * Occurances: 17685
         * Examples
-          * lwy.: [l v ɨ]
-          * zdały: [z d a w ɨ]
-          * nocy.: [n ɔ t͡s ɨ]
           * ryby?: [r ɨ b ɨ]
+          * zawył: [z a v ɨ w]
+          * mycie: [m ɨ t͡ɕ ɛ]
+          * słupy: [s w u p ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -437,10 +437,10 @@
       * u
         * Occurances: 12946
         * Examples
-          * dupą: [d u p ɔ̃]
-          * bóbr: [b u b r]
-          * urósł: [u r u s w]
-          * rzutu: [ʐ u t u]
+          * rowów: [r ɔ v u f]
+          * płód.: [p w u d]
+          * zosiu: [z ɔ ɕ u]
+          * guzik: [ɡ u ʑ i k]
     ```
 * -
   - ```{ipa_cell}
@@ -481,10 +481,10 @@
       * ɛ
         * Occurances: 33504
         * Examples
-          * może.: [m ɔ ʐ ɛ]
-          * "ile: [i l ɛ]
-          * gniew: [ɡ ɲ ɛ f]
-          * klasę: [k l a s ɛ]
+          * tego: [t ɛ ɡ ɔ]
+          * samej: [s a m ɛ j]
+          * ideom: [i d ɛ ɔ m]
+          * mycie: [m ɨ t͡ɕ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -497,10 +497,10 @@
       * ɔ
         * Occurances: 33574
         * Examples
-          * może.: [m ɔ ʐ ɛ]
-          * „on: [ɔ n]
-          * lotem: [l ɔ t ɛ m]
-          * widmo: [v i d m ɔ]
+          * tego: [t ɛ ɡ ɔ]
+          * rowów: [r ɔ v u f]
+          * łopot: [w ɔ p ɔ t]
+          * ideom: [i d ɛ ɔ m]
     ```
 * -
   - ```{ipa_cell}
@@ -523,10 +523,10 @@
       * a
         * Occurances: 38406
         * Examples
-          * zna: [z n a]
-          * klasę: [k l a s ɛ]
-          * łaska: [w a s k a]
-          * gram: [ɡ r a m]
+          * samej: [s a m ɛ j]
+          * stają: [s t a j ɔ̃]
+          * litwa: [l i t f a]
+          * bajka: [b a j k a]
     ```
   - ```{ipa_cell}
     ```
@@ -598,10 +598,10 @@
       * ɛ̃
         * Occurances: 1455
         * Examples
-          * węże: [v ɛ̃ ʐ ɛ]
-          * karę.: [k a r ɛ̃]
-          * siłę,: [ɕ i w ɛ̃]
-          * żonę.: [ʐ ɔ n ɛ̃]
+          * mięso: [m j ɛ̃ s ɔ]
+          * śpię,: [ɕ p j ɛ̃]
+          * picę.: [p i t͡s ɛ̃]
+          * mogę,: [m ɔ ɡ ɛ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -614,10 +614,10 @@
       * ɔ̃
         * Occurances: 2717
         * Examples
-          * grą: [ɡ r ɔ̃]
-          * dupą: [d u p ɔ̃]
-          * uwagą: [u v a ɡ ɔ̃]
-          * nią: [ɲ ɔ̃]
+          * stają: [s t a j ɔ̃]
+          * łączą: [w ɔ n t ʂ ɔ̃]
+          * nową: [n ɔ v ɔ̃]
+          * kąsa?: [k ɔ̃ s a]
     ```
 * -
   - ```{ipa_cell}

@@ -50,10 +50,10 @@
       * p
         * Occurances: 430
         * Examples
-          * epoi: [e p o i]
           * ype: [ɯ p e]
-          * paíno: [p a i ⁿd o]
-          * pende: [p e ⁿd e]
+          * opa: [o p a]
+          * arýpa: [a ɾ ɯ p a]
+          * upéva: [u p e ʋ a]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@
       * t
         * Occurances: 281
         * Examples
-          * avati: [a ʋ a t i]
-          * tetã: [t e t ã]
-          * mateo: [ᵐb a t e o]
-          * tata: [t a t a]
+          * añete: [a dʒ e t e]
+          * térã: [t e ɾ ã]
+          * yvate: [ɯ ʋ a t e]
+          * tuja: [t u dʒ a]
     ```
   - ```{ipa_cell}
     ```
@@ -74,19 +74,19 @@
       * k
         * Occurances: 349
         * Examples
-          * oike: [o i k e]
-          * mokõi: [ᵐb o k õ i]
-          * kóva: [k o ʋ a]
-          * yke: [ɯ k e]
+          * akói: [a k o i]
+          * uruku: [u ɾ u k u]
+          * reko: [ɾ e k o]
+          * ko'ã: [k o ʔ ã]
     ```
   - ```{ipa_cell}
     * other
       * ʔ
         * Occurances: 259
         * Examples
-          * ra'ỹi: [ɾ a ʔ ɯ ̃ i]
           * ha'e: [x a ʔ e]
-          * ra'y: [ɾ a ʔ ɯ]
+          * hi'a: [x i ʔ a]
+          * ko'ã: [k o ʔ ã]
           * ra'a: [ɾ a ʔ a]
     ```
 * - {manner}`Affricate`
@@ -101,10 +101,10 @@
       * dʒ
         * Occurances: 302
         * Examples
-          * ñaña: [dʒ a dʒ a]
-          * ojapo: [o dʒ a p o]
-          * ijyva: [i dʒ ɯ ʋ a]
-          * heñói: [x e dʒ o i]
+          * ajuhu: [a dʒ u x u]
+          * añete: [a dʒ e t e]
+          * ñana: [dʒ a ⁿd a]
+          * jaha: [dʒ a x a]
     ```
   - ```{ipa_cell}
     ```
@@ -120,20 +120,20 @@
       * s
         * Occurances: 120
         * Examples
-          * asẽ: [a s ẽ]
+          * osẽ: [o s ẽ]
+          * ehasa: [e x a s a]
           * isy: [i s ɯ]
-          * asaje: [a s a dʒ e]
-          * guasu: [ɰ u a s u]
+          * vosa: [ʋ o s a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 67
         * Examples
-          * chéve: [ʃ e ʋ e]
           * che: [ʃ e]
-          * chipa: [ʃ i p a]
           * luchi: [l u ʃ i]
+          * michĩ: [ᵐb i ʃ ĩ]
+          * chupe: [ʃ u p e]
     ```
   - ```{ipa_cell}
     ```
@@ -153,9 +153,9 @@
       * x
         * Occurances: 276
         * Examples
-          * heñói: [x e dʒ o i]
-          * hogue: [x o ɰ u e]
-          * hína: [x i ⁿd a]
+          * ehasa: [e x a s a]
+          * ajuhu: [a dʒ u x u]
+          * helen: [x e l e ⁿd]
           * ha'e: [x a ʔ e]
     ```
   - ```{ipa_cell}
@@ -168,10 +168,10 @@
       * ʋ
         * Occurances: 283
         * Examples
-          * oĩva: [o ĩ ʋ a]
-          * vera: [ʋ e ɾ a]
+          * guive: [ɰ u i ʋ e]
           * ndive: [ⁿd i ʋ e]
-          * avati: [a ʋ a t i]
+          * vosa: [ʋ o s a]
+          * ryvy: [ɾ ɯ ʋ ɯ]
     ```
   - ```{ipa_cell}
     ```
@@ -183,9 +183,9 @@
         * Occurances: 128
         * Examples
           * guive: [ɰ u i ʋ e]
-          * hogue: [x o ɰ u e]
-          * róga: [ɾ o ɰ a]
-          * guasu: [ɰ u a s u]
+          * ogami: [o ɰ a ᵐb i]
+          * haguã: [x a ɰ u ã]
+          * gotyo: [ɰ o t ɯ o]
     ```
   - ```{ipa_cell}
     ```
@@ -199,10 +199,10 @@
       * ɾ
         * Occurances: 517
         * Examples
-          * ere: [e ɾ e]
-          * ra'ỹi: [ɾ a ʔ ɯ ̃ i]
-          * vera: [ʋ e ɾ a]
-          * eíra: [e i ɾ a]
+          * ryvy: [ɾ ɯ ʋ ɯ]
+          * arýpa: [a ɾ ɯ p a]
+          * rysýi: [ɾ ɯ s ɯ i]
+          * térã: [t e ɾ ã]
     ```
   - ```{ipa_cell}
     ```
@@ -237,10 +237,10 @@
       * l
         * Occurances: 31
         * Examples
-          * léi: [l e i]
           * helen: [x e l e ⁿd]
-          * pláta: [p l a t a]
           * luchi: [l u ʃ i]
+          * leõ: [l e õ]
+          * kalo: [k a l o]
     ```
   - ```{ipa_cell}
     ```
@@ -270,10 +270,10 @@
       * i
         * Occurances: 578
         * Examples
-          * epoi: [e p o i]
-          * ra'ỹi: [ɾ a ʔ ɯ ̃ i]
-          * paíno: [p a i ⁿd o]
-          * maína: [ᵐb a i ⁿd a]
+          * guive: [ɰ u i ʋ e]
+          * akói: [a k o i]
+          * ndive: [ⁿd i ʋ e]
+          * isy: [i s ɯ]
     ```
   - ```{ipa_cell}
     ```
@@ -286,18 +286,18 @@
       * ɯ
         * Occurances: 311
         * Examples
-          * ra'ỹi: [ɾ a ʔ ɯ ̃ i]
           * ype: [ɯ p e]
-          * ijyva: [i dʒ ɯ ʋ a]
           * isy: [i s ɯ]
+          * ryvy: [ɾ ɯ ʋ ɯ]
+          * arýpa: [a ɾ ɯ p a]
     * rounded
       * u
         * Occurances: 487
         * Examples
           * guive: [ɰ u i ʋ e]
-          * hogue: [x o ɰ u e]
-          * ndoúi: [ⁿd o u i]
-          * upépe: [u p e p e]
+          * ajuhu: [a dʒ u x u]
+          * upéva: [u p e ʋ a]
+          * uruku: [u ɾ u k u]
     ```
 * -
   - ```{ipa_cell}
@@ -316,10 +316,10 @@
       * e
         * Occurances: 1039
         * Examples
-          * ere: [e ɾ e]
-          * epoi: [e p o i]
           * ype: [ɯ p e]
-          * vera: [ʋ e ɾ a]
+          * guive: [ɰ u i ʋ e]
+          * ehasa: [e x a s a]
+          * ndive: [ⁿd i ʋ e]
     ```
   - ```{ipa_cell}
     ```
@@ -332,10 +332,10 @@
       * o
         * Occurances: 738
         * Examples
-          * epoi: [e p o i]
-          * oĩva: [o ĩ ʋ a]
-          * paíno: [p a i ⁿd o]
-          * oike: [o i k e]
+          * osẽ: [o s ẽ]
+          * akói: [a k o i]
+          * vosa: [ʋ o s a]
+          * opa: [o p a]
     ```
 * -
   - ```{ipa_cell}
@@ -380,10 +380,10 @@
       * a
         * Occurances: 1255
         * Examples
-          * oĩva: [o ĩ ʋ a]
-          * ra'ỹi: [ɾ a ʔ ɯ ̃ i]
-          * paíno: [p a i ⁿd o]
-          * asẽ: [a s ẽ]
+          * akói: [a k o i]
+          * ehasa: [e x a s a]
+          * vosa: [ʋ o s a]
+          * ajuhu: [a dʒ u x u]
     ```
   - ```{ipa_cell}
     ```
@@ -411,10 +411,10 @@
       * ĩ
         * Occurances: 16
         * Examples
-          * oĩva: [o ĩ ʋ a]
           * michĩ: [ᵐb i ʃ ĩ]
-          * peteĩ: [p e t e ĩ]
+          * oĩva: [o ĩ ʋ a]
           * omoĩ: [o ᵐb o ĩ]
+          * peteĩ: [p e t e ĩ]
     ```
   - ```{ipa_cell}
     ```
@@ -447,10 +447,10 @@
       * ẽ
         * Occurances: 49
         * Examples
-          * asẽ: [a s ẽ]
           * osẽ: [o s ẽ]
-          * iko'ẽ: [i k o ʔ ẽ]
           * peẽme: [p e ẽ ᵐb e]
+          * osẽva: [o s ẽ ʋ a]
+          * oñe'ẽ: [o dʒ e ʔ ẽ]
     ```
   - ```{ipa_cell}
     ```
@@ -464,9 +464,9 @@
         * Occurances: 43
         * Examples
           * mokõi: [ᵐb o k õ i]
-          * moõpa: [ᵐb o õ p a]
           * pokõi: [p o k õ i]
-          * ñavõ: [dʒ a ʋ õ]
+          * leõ: [l e õ]
+          * moõpa: [ᵐb o õ p a]
     ```
 * -
   - ```{ipa_cell}
@@ -511,10 +511,10 @@
       * ã
         * Occurances: 100
         * Examples
-          * tetã: [t e t ã]
           * térã: [t e ɾ ã]
-          * porã: [p o ɾ ã]
-          * retã: [ɾ e t ã]
+          * ko'ã: [k o ʔ ã]
+          * ru'ã: [ɾ u ʔ ã]
+          * epu'ã: [e p u ʔ ã]
     ```
   - ```{ipa_cell}
     ```

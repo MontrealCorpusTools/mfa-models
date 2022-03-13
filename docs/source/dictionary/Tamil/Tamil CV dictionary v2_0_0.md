@@ -53,10 +53,10 @@
       * m
         * Occurances: 53628
         * Examples
-          * ஆத்ம: [aː t̪ m a]
-          * சமயத்: [t͡ʃ a m a j a t̪]
-          * வண்மை: [ʋ a ɳ m a j]
-          * நலமாக: [n̪ a l a m aː k a]
+          * மேலா?: [m eː l aː]
+          * தரம்: [t̪ a ɾ a m]
+          * வோம்!: [ʋ a m]
+          * நடனம்: [n̪ a ʈ a n a m]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +67,10 @@
       * n
         * Occurances: 44763
         * Examples
-          * வனை: [ʋ a n a j]
-          * தேனே: [t̪ eː n eː]
-          * டின்: [ʈ i n]
-          * ஜோன்: [d͡ʒ a n]
+          * பேஷன்: [p eː ʂ a n]
+          * நடனம்: [n̪ a ʈ a n a m]
+          * தேன்.: [t̪ eː n]
+          * ஏன்: [eː n]
     ```
   - ```{ipa_cell}
     ```
@@ -79,30 +79,30 @@
       * ɳ
         * Occurances: 13875
         * Examples
-          * கண்.: [k a ɳ]
-          * நண்பா: [n̪ a ɳ p aː]
-          * வண்மை: [ʋ a ɳ m a j]
-          * உணின்: [u ɳ i n]
+          * இணைந்: [i ɳ a j n̪]
+          * வண்ண: [ʋ a ɳ ɳ a]
+          * ஆணழகை: [aː ɳ a ɻ a k a j]
+          * உணவக: [u ɳ a ʋ a k a]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 1432
         * Examples
-          * வஞ்சி: [ʋ a ɲ t͡ʃ i]
-          * இஞ்சு: [i ɲ t͡ʃ u]
-          * வதஞ்: [ʋ a t̪ a ɲ]
-          * எஞ்சி: [e ɲ t͡ʃ i]
+          * செஞ்ச: [t͡ʃ e ɲ t͡ʃ a]
+          * லஞ்ச: [l a ɲ t͡ʃ a]
+          * ஞானப்: [ɲ aː n a p]
+          * ஞாய: [ɲ aː j a]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 8005
         * Examples
-          * ஓங்க: [oː ŋ k a]
-          * அங்கி: [a ŋ k i]
-          * கழகங்: [k a ɻ a k a ŋ]
-          * உங்கட: [u ŋ k a ʈ a]
+          * இளங்: [i ɭ a ŋ]
+          * யாங்: [j aː ŋ]
+          * போங்க: [p a ŋ k a]
+          * கங்கா: [k a ŋ k aː]
     ```
   - ```{ipa_cell}
     ```
@@ -112,18 +112,18 @@
       * p
         * Occurances: 64119
         * Examples
-          * பதியை: [p a t̪ i j a j]
-          * நண்பா: [n̪ a ɳ p aː]
-          * பழம்,: [p a ɻ a m]
-          * படிக: [p a ʈ i k a]
+          * பேஷன்: [p eː ʂ a n]
+          * நுட்ப: [n̪ u ʈ p a]
+          * பழகு: [p a ɻ a k u]
+          * போர: [p a ɾ a]
     * voiced
       * b
         * Occurances: 320
         * Examples
-          * bird: [b ɹ̩ d]
-          * brian: [b ɹ a j ə n]
-          * beach: [b i t͡ʃ]
-          * bends: [b ɛ n d z]
+          * burns: [b ɹ̩ n z]
+          * derby: [d ɹ̩ b i]
+          * bey-ஐ: [b e j a j]
+          * edsby: [ɛ d z b i]
     ```
   - ```{ipa_cell}
     ```
@@ -132,28 +132,28 @@
       * t̪
         * Occurances: 89927
         * Examples
-          * சகோதர: [t͡ʃ a k a t̪ a ɾ a]
-          * ஆத்ம: [aː t̪ m a]
-          * தேனே: [t̪ eː n eː]
-          * சதி,: [t͡ʃ a t̪ i]
+          * தரம்: [t̪ a ɾ a m]
+          * ரத்து: [ɾ a t̪ t̪ u]
+          * தோழி: [t̪ a ɻ i]
+          * வஸ்து: [ʋ a s t̪ u]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 546
         * Examples
-          * trap: [t ɹ æ p]
-          * matus: [m æ t ɪ s]
-          * newts: [n u t s]
-          * grant: [ɡ ɹ æ n t]
+          * targa: [t ɑ ɹ ɡ ə]
+          * cityஐ: [s ɪ t i a j]
+          * city: [s ɪ t i]
+          * tan: [t æ n]
     * voiced
       * d
         * Occurances: 363
         * Examples
-          * lahad: [l æ h ə d]
-          * "hard: [h ɑ ɹ d]
-          * bird: [b ɹ̩ d]
-          * video: [v ɪ d i o w]
+          * derby: [d ɹ̩ b i]
+          * edsby: [ɛ d z b i]
+          * dan: [d æ n]
+          * eddie: [ɛ d i]
     ```
   - ```{ipa_cell}
     ```
@@ -162,10 +162,10 @@
       * ʈ
         * Occurances: 56064
         * Examples
-          * கடையா: [k a ʈ a j j aː]
-          * டின்: [ʈ i n]
-          * தேடத்: [t̪ eː ʈ a t̪]
-          * படிக: [p a ʈ i k a]
+          * நுட்ப: [n̪ u ʈ p a]
+          * கேட்க: [k eː ʈ k a]
+          * நடனம்: [n̪ a ʈ a n a m]
+          * போடு.: [p a ʈ u]
     ```
   - ```{ipa_cell}
     ```
@@ -174,18 +174,18 @@
       * k
         * Occurances: 113775
         * Examples
-          * சகோதர: [t͡ʃ a k a t̪ a ɾ a]
-          * கண்.: [k a ɳ]
-          * குழி: [k u ɻ i]
-          * கடையா: [k a ʈ a j j aː]
+          * பழகு: [p a ɻ a k u]
+          * கிரே: [k i ɾ eː]
+          * கேட்க: [k eː ʈ k a]
+          * பழகாத: [p a ɻ a k aː t̪ a]
     * voiced
       * ɡ
         * Occurances: 170
         * Examples
-          * game: [ɡ e j m]
-          * grant: [ɡ ɹ æ n t]
-          * gary: [ɡ ɛ ɹ i]
-          * eagle: [i ɡ ə l]
+          * targa: [t ɑ ɹ ɡ ə]
+          * igg: [ɪ ɡ]
+          * sega: [s i ɡ ə]
+          * bongo: [b ɑ ŋ ɡ o w]
     ```
   - ```{ipa_cell}
     ```
@@ -203,18 +203,18 @@
       * t͡ʃ
         * Occurances: 27617
         * Examples
-          * சகோதர: [t͡ʃ a k a t̪ a ɾ a]
-          * சதி,: [t͡ʃ a t̪ i]
-          * சமயத்: [t͡ʃ a m a j a t̪]
-          * அசைல்: [a t͡ʃ a j l]
+          * சூரழ: [t͡ʃ uː ɾ a ɻ a]
+          * லேசர்: [l eː t͡ʃ a ɾ]
+          * சதா: [t͡ʃ a t̪ aː]
+          * பேச: [p eː t͡ʃ a]
     * voiced
       * d͡ʒ
         * Occurances: 1510
         * Examples
-          * ஜோன்: [d͡ʒ a n]
-          * அஜய்,: [a d͡ʒ a j]
-          * ஜபம்: [d͡ʒ a p a m]
-          * marge: [m ɑ ɹ d͡ʒ]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * ஜட்ஜ்: [d͡ʒ a ʈ d͡ʒ]
+          * ஜக்: [d͡ʒ a k]
+          * ஜனம்: [d͡ʒ a n a m]
     ```
   - ```{ipa_cell}
     ```
@@ -236,28 +236,28 @@
       * s
         * Occurances: 3761
         * Examples
-          * ரஸ்: [ɾ a s]
-          * நைஸாக: [n̪ a j s aː k a]
-          * பஸ்சை: [p a s t͡ʃ a j]
-          * x-இல்: [ɛ k s i l]
+          * வஸ்து: [ʋ a s t̪ u]
+          * cityஐ: [s ɪ t i a j]
+          * city: [s ɪ t i]
+          * ஓட்ஸ்: [oː ʈ s]
     * voiced
       * z
         * Occurances: 196
         * Examples
-          * bends: [b ɛ n d z]
-          * danes: [d e j n z]
-          * czar: [z ɑ ɹ]
-          * jones: [d͡ʒ o w n z]
+          * burns: [b ɹ̩ n z]
+          * edsby: [ɛ d z b i]
+          * quiz: [k w ɪ z]
+          * james: [d͡ʒ e j m z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 96
         * Examples
-          * vichy: [v i ʃ i]
-          * shae: [ʃ æ]
-          * shire: [ʃ a j ɹ]
           * busch: [b ʊ ʃ]
+          * vichy: [v i ʃ i]
+          * shire: [ʃ a j ɹ]
+          * shea: [ʃ e j]
     * voiced
       * ʒ
         * Occurances: 3
@@ -268,10 +268,10 @@
       * ʂ
         * Occurances: 1364
         * Examples
-          * ஷீன்: [ʂ iː n]
-          * தனுஷ்: [t̪ a n u ʂ]
-          * ரஷ்ய: [ɾ a ʂ j a]
-          * ரிஷி.: [ɾ i ʂ i]
+          * பேஷன்: [p eː ʂ a n]
+          * வரஷை.: [ʋ a ɾ a ʂ a j]
+          * கோஷர்: [k a ʂ a ɾ]
+          * கோஷம்: [k a ʂ a m]
     ```
   - ```{ipa_cell}
     ```
@@ -287,36 +287,36 @@
       * f
         * Occurances: 138
         * Examples
-          * fஐப்: [ɛ f a j p]
-          * jeff”: [d͡ʒ ɛ f]
-          * fort: [f ɔ ɹ t]
+          * final: [f a j n ə l]
+          * fayre: [f e j ɹ]
+          * fox: [f ɑ k s]
           * life: [l a j f]
     * voiced
       * v
         * Occurances: 119
         * Examples
-          * video: [v ɪ d i o w]
-          * cove: [k o w v]
-          * ravel: [ɹ ɑ v ə l]
-          * vichy: [v i ʃ i]
+          * haven: [h e j v ə n]
+          * love: [l ʌ v]
+          * laval: [l ə v ɑ l]
+          * jive: [d͡ʒ a j v]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 53
         * Examples
-          * thumb: [θ ʌ m]
+          * athy: [æ θ i]
           * south: [s a w θ]
           * north: [n ɔ ɹ θ]
-          * athy: [æ θ i]
+          * thumb: [θ ʌ m]
     * voiced
       * ð
         * Occurances: 14
         * Examples
-          * the: [ð ə]
-          * "the: [ð ə]
           * 'the: [ð ə]
+          * "the: [ð ə]
           * this: [ð ɪ s]
+          * the: [ð ə]
     ```
   - ```{ipa_cell}
     ```
@@ -333,10 +333,10 @@
       * h
         * Occurances: 973
         * Examples
-          * ஹல்: [h a l]
-          * ஹும்: [h u m]
-          * lahad: [l æ h ə d]
-          * "hard: [h ɑ ɹ d]
+          * haven: [h e j v ə n]
+          * ஹோலி: [h a l i]
+          * ஹெலன்: [h e l a n]
+          * high: [h a j]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -346,10 +346,10 @@
       * ʋ
         * Occurances: 45625
         * Examples
-          * அவரோ: [a ʋ a ɾ a]
-          * இளவல்: [i ɭ a ʋ a l]
-          * வனை: [ʋ a n a j]
-          * துவரை: [t̪ u ʋ a ɾ a j]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * வண்ண: [ʋ a ɳ ɳ a]
+          * வஸ்து: [ʋ a s t̪ u]
+          * வோம்!: [ʋ a m]
     ```
   - ```{ipa_cell}
     ```
@@ -358,17 +358,17 @@
       * ɹ
         * Occurances: 621
         * Examples
-          * "hard: [h ɑ ɹ d]
-          * marge: [m ɑ ɹ d͡ʒ]
-          * brian: [b ɹ a j ə n]
-          * trap: [t ɹ æ p]
+          * targa: [t ɑ ɹ ɡ ə]
+          * area: [ɛ ɹ i ə]
+          * york: [j ɔ ɹ k]
+          * fayre: [f e j ɹ]
       * ɹ̩
         * Occurances: 301
         * Examples
-          * bird: [b ɹ̩ d]
-          * tower: [t a w ɹ̩]
+          * burns: [b ɹ̩ n z]
+          * derby: [d ɹ̩ b i]
+          * lower: [l o w ɹ̩]
           * baker: [b e j k ɹ̩]
-          * turk: [t ɹ̩ k]
     ```
   - ```{ipa_cell}
     ```
@@ -377,20 +377,20 @@
       * ɻ
         * Occurances: 8751
         * Examples
-          * குழி: [k u ɻ i]
-          * பழம்,: [p a ɻ a m]
-          * "ஏழரை: [eː ɻ a ɾ a j]
-          * இழக்க: [i ɻ a k k a]
+          * பழகு: [p a ɻ a k u]
+          * சூரழ: [t͡ʃ uː ɾ a ɻ a]
+          * தோழி: [t̪ a ɻ i]
+          * பழகாத: [p a ɻ a k aː t̪ a]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 75375
         * Examples
-          * வனை: [ʋ a n a j]
-          * கடையா: [k a ʈ a j j aː]
-          * சமயத்: [t͡ʃ a m a j a t̪]
-          * பதியை: [p a t̪ i j a j]
+          * இணைந்: [i ɳ a j n̪]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * யாரு?: [j aː ɾ u]
+          * மாய: [m aː j a]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@
       * ɾ
         * Occurances: 56008
         * Examples
-          * சகோதர: [t͡ʃ a k a t̪ a ɾ a]
-          * அவரோ: [a ʋ a ɾ a]
-          * ஊர்லே: [uː ɾ l eː]
-          * துவரை: [t̪ u ʋ a ɾ a j]
+          * யாரு?: [j aː ɾ u]
+          * தரம்: [t̪ a ɾ a m]
+          * கிரே: [k i ɾ eː]
+          * சூரழ: [t͡ʃ uː ɾ a ɻ a]
     ```
   - ```{ipa_cell}
     ```
@@ -435,10 +435,10 @@
       * r
         * Occurances: 32310
         * Examples
-          * கற்றி: [k a r r i]
-          * சொற்: [t͡ʃ a r]
-          * கடற்: [k a ʈ a r]
-          * புறக்: [p u r a k]
+          * மீறி: [m iː r i]
+          * குறி!: [k u r i]
+          * அறிவு: [a r i ʋ u]
+          * சென்ற: [t͡ʃ e n r a]
     ```
   - ```{ipa_cell}
     ```
@@ -462,10 +462,10 @@
       * l
         * Occurances: 41327
         * Examples
-          * இளவல்: [i ɭ a ʋ a l]
-          * ஹல்: [h a l]
-          * ஊர்லே: [uː ɾ l eː]
-          * அசைல்: [a t͡ʃ a j l]
+          * மேலா?: [m eː l aː]
+          * தோல்: [t̪ a l]
+          * நாலு,: [n̪ aː l u]
+          * லேசர்: [l eː t͡ʃ a ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -493,10 +493,10 @@
       * ɭ
         * Occurances: 30631
         * Examples
-          * இளவல்: [i ɭ a ʋ a l]
-          * வேளா: [ʋ eː ɭ aː]
-          * வேளை,: [ʋ eː ɭ a j]
+          * இளங்: [i ɭ a ŋ]
           * வளமாக: [ʋ a ɭ a m aː k a]
+          * காளிய: [k aː ɭ i j a]
+          * தவளை: [t̪ a ʋ a ɭ a j]
     ```
   - ```{ipa_cell}
     ```
@@ -526,17 +526,17 @@
       * i
         * Occurances: 102175
         * Examples
-          * இளவல்: [i ɭ a ʋ a l]
-          * குழி: [k u ɻ i]
-          * சதி,: [t͡ʃ a t̪ i]
-          * டின்: [ʈ i n]
+          * இணைந்: [i ɳ a j n̪]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * கிரே: [k i ɾ eː]
+          * தோழி: [t̪ a ɻ i]
       * iː
         * Occurances: 5061
         * Examples
-          * ஷீன்: [ʂ iː n]
-          * சீரான: [t͡ʃ iː ɾ aː n a]
-          * நீர்.: [n̪ iː ɾ]
-          * நீ?: [n̪ iː]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * "நீதி: [n̪ iː t̪ i]
+          * மீறி: [m iː r i]
+          * ஃப்ரீ: [ஃ p ɾ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -549,17 +549,17 @@
       * u
         * Occurances: 96143
         * Examples
-          * குழி: [k u ɻ i]
-          * துவரை: [t̪ u ʋ a ɾ a j]
-          * உணின்: [u ɳ i n]
-          * முரசு: [m u ɾ a t͡ʃ u]
+          * யாரு?: [j aː ɾ u]
+          * நுட்ப: [n̪ u ʈ p a]
+          * பழகு: [p a ɻ a k u]
+          * ரத்து: [ɾ a t̪ t̪ u]
       * uː
         * Occurances: 5972
         * Examples
-          * ஊர்லே: [uː ɾ l eː]
-          * ஊர்,: [uː ɾ]
-          * கூலி: [k uː l i]
           * சூரழ: [t͡ʃ uː ɾ a ɻ a]
+          * கூடல்: [k uː ʈ a l]
+          * ஊனம்: [uː n a m]
+          * ஊசல்: [uː t͡ʃ a l]
     ```
 * -
   - ```{ipa_cell}
@@ -569,10 +569,10 @@
       * ɪ
         * Occurances: 467
         * Examples
-          * video: [v ɪ d i o w]
-          * matus: [m æ t ɪ s]
-          * bing: [b ɪ ŋ]
-          * kill: [k ɪ l]
+          * cityஐ: [s ɪ t i a j]
+          * city: [s ɪ t i]
+          * igg: [ɪ ɡ]
+          * inc: [ɪ ŋ k]
     ```
   - ```{ipa_cell}
     ```
@@ -581,10 +581,10 @@
       * ʊ
         * Occurances: 42
         * Examples
-          * bull: [b ʊ l]
           * busch: [b ʊ ʃ]
-          * tour": [t ʊ ɹ]
+          * woman: [w ʊ m ə n]
           * look: [l ʊ k]
+          * bull: [b ʊ l]
     ```
   - ```{ipa_cell}
     ```
@@ -594,17 +594,17 @@
       * e
         * Occurances: 16440
         * Examples
-          * எடி: [e ʈ i]
-          * எழுத,: [e ɻ u t̪ a]
-          * செழு: [t͡ʃ e ɻ u]
-          * எருக்: [e ɾ u k]
+          * haven: [h e j v ə n]
+          * எதும்: [e t̪ u m]
+          * வெல: [ʋ e l a]
+          * சென்ற: [t͡ʃ e n r a]
       * eː
         * Occurances: 17676
         * Examples
-          * ஊர்லே: [uː ɾ l eː]
-          * தேனே: [t̪ eː n eː]
-          * சேதி: [t͡ʃ eː t̪ i]
-          * "ஏழரை: [eː ɻ a ɾ a j]
+          * மேலா?: [m eː l aː]
+          * பேஷன்: [p eː ʂ a n]
+          * கிரே: [k i ɾ eː]
+          * கேட்க: [k eː ʈ k a]
     ```
   - ```{ipa_cell}
     ```
@@ -617,17 +617,17 @@
       * o
         * Occurances: 1987
         * Examples
-          * ஒரடி: [o ɾ a ʈ i]
-          * ஒடச்: [o ʈ a t͡ʃ]
-          * ஒலை: [o l a j]
-          * ஒடும்: [o ʈ u m]
+          * ஒன்னு: [o n n u]
+          * ஒளிர்: [o ɭ i ɾ]
+          * ஒரு: [o ɾ u]
+          * நீஒரு: [n̪ iː o ɾ u]
       * oː
         * Occurances: 572
         * Examples
-          * ஓங்க: [oː ŋ k a]
-          * ஓட்டு: [oː ʈ ʈ u]
-          * ஓட்டி: [oː ʈ ʈ i]
-          * ஓடு!: [oː ʈ u]
+          * ஓடை: [oː ʈ a j]
+          * ஓம்,: [oː m]
+          * ஓரளவு: [oː ɾ a ɭ a ʋ u]
+          * ஓட்ஸ்: [oː ʈ s]
     ```
 * -
   - ```{ipa_cell}
@@ -639,10 +639,10 @@
       * ə
         * Occurances: 780
         * Examples
-          * lahad: [l æ h ə d]
-          * brian: [b ɹ a j ə n]
-          * upon: [ə p ɑ n]
-          * helen: [h ɛ l ə n]
+          * targa: [t ɑ ɹ ɡ ə]
+          * haven: [h e j v ə n]
+          * area: [ɛ ɹ i ə]
+          * final: [f a j n ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -654,10 +654,10 @@
       * ɛ
         * Occurances: 333
         * Examples
-          * x-இல்: [ɛ k s i l]
-          * fஐப்: [ɛ f a j p]
-          * bends: [b ɛ n d z]
-          * helen: [h ɛ l ə n]
+          * area: [ɛ ɹ i ə]
+          * edsby: [ɛ d z b i]
+          * bury: [b ɛ ɹ i]
+          * eddie: [ɛ d i]
     ```
   - ```{ipa_cell}
     ```
@@ -670,18 +670,18 @@
       * ʌ
         * Occurances: 100
         * Examples
+          * love: [l ʌ v]
+          * "w": [d ʌ b ə l j u]
+          * ufc: [ʌ f k]
           * dutch: [d ʌ t͡ʃ]
-          * bunny: [b ʌ n i]
-          * club.: [k l ʌ b]
-          * gulch: [ɡ ʌ l t͡ʃ]
     * rounded
       * ɔ
         * Occurances: 178
         * Examples
+          * "saw": [s ɔ]
+          * york: [j ɔ ɹ k]
           * hawk: [h ɔ k]
-          * fort: [f ɔ ɹ t]
-          * bore: [b ɔ ɹ]
-          * nor: [n ɔ ɹ]
+          * for: [f ɔ ɹ]
     ```
 * -
   - ```{ipa_cell}
@@ -689,10 +689,10 @@
       * æ
         * Occurances: 290
         * Examples
-          * lahad: [l æ h ə d]
-          * trap: [t ɹ æ p]
-          * dam: [d æ m]
-          * matus: [m æ t ɪ s]
+          * knapp: [n æ p]
+          * tan: [t æ n]
+          * cap: [k æ p]
+          * dan: [d æ n]
     ```
   - ```{ipa_cell}
     ```
@@ -712,17 +712,17 @@
       * a
         * Occurances: 245579
         * Examples
-          * சகோதர: [t͡ʃ a k a t̪ a ɾ a]
-          * அவரோ: [a ʋ a ɾ a]
-          * ஆத்ம: [aː t̪ m a]
-          * இளவல்: [i ɭ a ʋ a l]
+          * இணைந்: [i ɳ a j n̪]
+          * ஜீவிய: [d͡ʒ iː ʋ i j a]
+          * வண்ண: [ʋ a ɳ ɳ a]
+          * தரம்: [t̪ a ɾ a m]
       * aː
         * Occurances: 65497
         * Examples
-          * ஆத்ம: [aː t̪ m a]
-          * கடையா: [k a ʈ a j j aː]
-          * நண்பா: [n̪ a ɳ p aː]
-          * நலமாக: [n̪ a l a m aː k a]
+          * மேலா?: [m eː l aː]
+          * யாரு?: [j aː ɾ u]
+          * பழகாத: [p a ɻ a k aː t̪ a]
+          * பார்!: [p aː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -731,10 +731,10 @@
       * ɑ
         * Occurances: 355
         * Examples
-          * "hard: [h ɑ ɹ d]
-          * marge: [m ɑ ɹ d͡ʒ]
+          * targa: [t ɑ ɹ ɡ ə]
+          * loch: [l ɑ k]
           * upon: [ə p ɑ n]
-          * don: [d ɑ n]
+          * spawn: [s p ɑ n]
     ```
 ``````
 

@@ -51,10 +51,10 @@
       * m
         * Occurances: 9333
         * Examples
-          * topom: [t̪ o˨˦ p oː m]
-          * sajma: [s̪ a˨˦ j m a]
-          * monah: [m o˨˦ n a x]
-          * rodom: [r o˦˨ d̪ o m]
+          * muva: [m u˨˦ v a]
+          * moram: [m oː˦˨ r aː m]
+          * prema: [p r e˦˨ m a]
+          * mars: [m a˦˨ r s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@
       * n
         * Occurances: 20674
         * Examples
-          * aneks: [a n e k s̪]
-          * kožun: [k o˨˦ ʐ uː n]
-          * navrh: [n a˨˦ v r x]
-          * opna: [o˨˦ p n a]
+          * orkan: [o˨˦ r k aː n]
+          * fin: [f iː˦˨ n]
+          * nekud: [n e˦˨ k u d̪]
+          * john: [j oː˨˦ x n]
     ```
   - ```{ipa_cell}
     ```
@@ -77,10 +77,10 @@
       * ɲ
         * Occurances: 2371
         * Examples
-          * gnjio: [ɡ ɲ i˦˨ o]
-          * panj: [p aː˦˨ ɲ]
-          * krnja: [k r̩˦˨ ɲ a]
-          * osenj: [o s̪ e ɲ]
+          * banj: [b a˦˨ ɲ]
+          * njim: [ɲ iː˦˨ m]
+          * banju: [b a˦˨ ɲ u]
+          * njena: [ɲ e˨˦ n a]
     ```
   - ```{ipa_cell}
     ```
@@ -90,18 +90,18 @@
       * p
         * Occurances: 10522
         * Examples
-          * pipa: [p i˦˨ p a]
-          * topom: [t̪ o˨˦ p oː m]
-          * pasti: [p aː˦˨ s̪ t̪ i]
-          * opna: [o˨˦ p n a]
+          * ekipa: [e k iː˨˦ p a]
+          * step: [s̪ t̪ e˦˨ p]
+          * grupa: [ɡ r u˦˨ p a]
+          * prema: [p r e˦˨ m a]
     * voiced
       * b
         * Occurances: 5318
         * Examples
-          * obavi: [o b a v iː]
-          * buća: [b u˦˨ tɕ a]
-          * beta: [b e˦˨ t̪ a]
-          * broda: [b r o d̪ a]
+          * slabo: [s̪ l a˦˨ b o]
+          * obale: [o b aː˨˦ l e]
+          * buzet: [b u˨˦ z̪ e t̪]
+          * banj: [b a˦˨ ɲ]
     ```
   - ```{ipa_cell}
     ```
@@ -110,18 +110,18 @@
       * t̪
         * Occurances: 20370
         * Examples
-          * śutra: [ɕ u˦˨ t̪ r a]
-          * topom: [t̪ o˨˦ p oː m]
-          * pasti: [p aː˦˨ s̪ t̪ i]
-          * efekt: [e˨˦ f e k t̪]
+          * šator: [ʂ a˦˨ t̪ o r]
+          * crta: [t̪s̪ r t̪ a]
+          * step: [s̪ t̪ e˦˨ p]
+          * stocu: [s̪ t̪ o˦˨ t̪s̪ u]
     * voiced
       * d̪
         * Occurances: 8678
         * Examples
-          * ideju: [i d̪ eː˨˦ j u]
-          * broda: [b r o d̪ a]
-          * rodom: [r o˦˨ d̪ o m]
-          * dejan: [d̪ e˨˦ j a n]
+          * djela: [d̪ j e˦˨ l a]
+          * deka: [d̪ eː˨˦ k a]
+          * dokaz: [d̪ o k a z̪]
+          * nekud: [n e˦˨ k u d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -134,18 +134,18 @@
       * k
         * Occurances: 12670
         * Examples
-          * aneks: [a n e k s̪]
-          * kožun: [k o˨˦ ʐ uː n]
-          * ručak: [r uː˨˦ tʂ a k]
-          * efekt: [e˨˦ f e k t̪]
+          * ukić: [u˨˦ k i tɕ]
+          * ekipa: [e k iː˨˦ p a]
+          * kijac: [k iː˨˦ j a t̪s̪]
+          * iloku: [i l o˨˦ k u]
     * voiced
       * ɡ
         * Occurances: 4907
         * Examples
-          * općeg: [o p tɕ e ɡ]
-          * gnjio: [ɡ ɲ i˦˨ o]
-          * igra: [i˨˦ ɡ r a]
-          * gorom: [ɡ o˨˦ r oː m]
+          * ovog: [o˦˨ v o ɡ]
+          * grupa: [ɡ r u˦˨ p a]
+          * gram: [ɡ r a˦˨ m]
+          * juga: [j u ɡ a]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -157,10 +157,10 @@
       * t̪s̪
         * Occurances: 4150
         * Examples
-          * tukac: [t̪ uː˨˦ k a t̪s̪]
-          * crnu: [t̪s̪ r n u]
           * carlo: [t̪s̪ a˦˨ r l o]
-          * jecaj: [j e˦˨ t̪s̪ aː j]
+          * šlic: [ʂ l i˦˨ t̪s̪]
+          * crta: [t̪s̪ r t̪ a]
+          * kijac: [k iː˨˦ j a t̪s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -171,18 +171,18 @@
       * tɕ
         * Occurances: 1828
         * Examples
-          * buća: [b u˦˨ tɕ a]
-          * općeg: [o p tɕ e ɡ]
-          * jošić: [j o˨˦ ʂ i tɕ]
-          * većoj: [v e˦˨ tɕ oː j]
+          * ukić: [u˨˦ k i tɕ]
+          * vrkić: [v r k iː tɕ]
+          * ćevap: [tɕ e˨˦ v aː p]
+          * simić: [s̪ i m i tɕ]
     * voiced
       * dʑ
         * Occurances: 687
         * Examples
-          * luđak: [l u˨˦ dʑ aː k]
-          * vođi: [v o˨˦ dʑ iː]
-          * đavao: [dʑ a˦˨ v a o]
-          * uviđa: [u v iː˨˦ dʑ a]
+          * veđa: [v e˦˨ dʑ a]
+          * đogat: [dʑ o˦˨ ɡ a t̪]
+          * đorđa: [dʑ o˦˨ r̩˨˦ dʑ a]
+          * đihad: [dʑ i˨˦ x aː d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -200,35 +200,35 @@
       * ʂ
         * Occurances: 3471
         * Examples
-          * iša: [i ʂ a]
-          * jošić: [j o˨˦ ʂ i tɕ]
-          * kršan: [k r̩˦˨ ʂ a n]
-          * štiti: [ʂ t̪ i t̪ i]
+          * šlic: [ʂ l i˦˨ t̪s̪]
+          * šator: [ʂ a˦˨ t̪ o r]
+          * škaf: [ʂ k a˦˨ f]
+          * škrto: [ʂ k r̩˦˨ t̪ o]
     * voiced
       * ʐ
         * Occurances: 1782
         * Examples
-          * kožun: [k o˨˦ ʐ uː n]
-          * traže: [t̪ r a˦˨ ʐ e]
-          * južni: [j u˦˨ ʐ n iː]
-          * svjež: [s̪ v j e˦˨ ʐ]
+          * riže: [r i˨˦ ʐ eː]
+          * živio: [ʐ i˨˦ v i o]
+          * kažu: [k a˦˨ ʐ uː]
+          * žepče: [ʐ e˨˦ p tʂ e]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 395
         * Examples
-          * śutra: [ɕ u˦˨ t̪ r a]
-          * sijed: [ɕ eː˦˨ d̪]
-          * ušća: [uː˦˨ ɕ tɕ a]
-          * śesti: [ɕ e˦˨ s̪ t̪ i]
+          * sjeta: [ɕ e˦˨ t̪ a]
+          * šćir: [ɕ tɕ iː˦˨ r]
+          * češće: [tʂ e˦˨ ɕ tɕ e]
+          * śeme: [ɕ e m e]
     * voiced
       * ʑ
         * Occurances: 55
         * Examples
           * dežđ: [d̪ e ʑ dʑ]
-          * kozji: [k o˦˨ ʑ iː]
           * zjena: [ʑ e˦˨ n a]
+          * kozji: [k o˦˨ ʑ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -240,18 +240,18 @@
       * f
         * Occurances: 1314
         * Examples
-          * efekt: [e˨˦ f e k t̪]
-          * fanta: [f aː˦˨ n t̪ a]
-          * befel: [b e˨˦ f e l]
-          * film: [f i˨˦ l m]
+          * fin: [f iː˦˨ n]
+          * orfe: [o˨˦ r f eː]
+          * škaf: [ʂ k a˦˨ f]
+          * fazi: [f a˦˨ z̪ iː]
     * voiced
       * v
         * Occurances: 11740
         * Examples
-          * navrh: [n a˨˦ v r x]
-          * obavi: [o b a v iː]
-          * svrhu: [s̪ v r̩˨˦ x u]
-          * vetar: [v e˦˨ t̪ a r]
+          * muva: [m u˨˦ v a]
+          * ove: [oː˨˦ v e]
+          * ovog: [o˦˨ v o ɡ]
+          * veče: [v e˦˨ tʂ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -266,10 +266,10 @@
       * x
         * Occurances: 2219
         * Examples
-          * navrh: [n a˨˦ v r x]
-          * svrhu: [s̪ v r̩˨˦ x u]
-          * monah: [m o˨˦ n a x]
-          * nekih: [n e˦˨ k iː x]
+          * john: [j oː˨˦ x n]
+          * suh: [s̪ uː˦˨ x]
+          * prvih: [p r̩˨˦ v i x]
+          * uspeh: [u˨˦ s̪ p e x]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -287,10 +287,10 @@
       * j
         * Occurances: 8108
         * Examples
-          * sajma: [s̪ a˨˦ j m a]
-          * spoj: [s̪ p oː˦˨ j]
-          * ideju: [i d̪ eː˨˦ j u]
-          * jošić: [j o˨˦ ʂ i tɕ]
+          * djela: [d̪ j e˦˨ l a]
+          * kijac: [k iː˨˦ j a t̪s̪]
+          * john: [j oː˨˦ x n]
+          * vojni: [v oː˦˨ j n iː]
     ```
   - ```{ipa_cell}
     ```
@@ -306,28 +306,28 @@
       * r
         * Occurances: 19425
         * Examples
-          * śutra: [ɕ u˦˨ t̪ r a]
-          * navrh: [n a˨˦ v r x]
-          * ručak: [r uː˨˦ tʂ a k]
-          * rano: [r a˦˨ n o]
+          * carlo: [t̪s̪ a˦˨ r l o]
+          * šator: [ʂ a˦˨ t̪ o r]
+          * crta: [t̪s̪ r t̪ a]
+          * orkan: [o˨˦ r k aː n]
       * rː
         * Occurances: 32
         * Examples
           * ubrzo: [u˦˨ b rː z̪ o]
       * r̩
-        * Occurances: 237
+        * Occurances: 322
         * Examples
-          * škrto: [ʂ k r̩˦˨ t̪ o]
-          * krpa: [k r̩˦˨ p a]
-          * drsko: [d̪ r̩˦˨ s̪ k o]
-          * kršan: [k r̩˦˨ ʂ a n]
+          * pršut: [p r̩˨˦ ʂ u t̪]
+          * prvog: [p r̩˨˦ v o ɡ]
+          * prsni: [p r̩˨˦ s̪ n iː]
+          * prvih: [p r̩˨˦ v i x]
       * r̩ː
         * Occurances: 169
         * Examples
-          * brzo: [b r̩ː˦˨ z̪ o]
-          * vrba: [v r̩ː˨˦ b a]
-          * tvrd: [t̪ v r̩ː˦˨ d̪]
-          * brz: [b r̩ː˦˨ z̪]
+          * krdža: [k r̩ː˨˦ dʐ a]
+          * šmrk: [ʂ m r̩ː˦˨ k]
+          * tvrdi: [t̪ v r̩ː˨˦ d̪ i]
+          * krzno: [k r̩ː˨˦ z̪ n o]
     ```
   - ```{ipa_cell}
     ```
@@ -347,10 +347,10 @@
       * l
         * Occurances: 10376
         * Examples
-          * tlu: [t̪ l u]
-          * bila: [b i˦˨ l a]
-          * jela: [j eː˨˦ l a]
-          * lakom: [l a˦˨ k o m]
+          * carlo: [t̪s̪ a˦˨ r l o]
+          * šlic: [ʂ l i˦˨ t̪s̪]
+          * djela: [d̪ j e˦˨ l a]
+          * iloku: [i l o˨˦ k u]
     ```
   - ```{ipa_cell}
     ```
@@ -359,10 +359,10 @@
       * ʎ
         * Occurances: 2460
         * Examples
-          * ljut: [ʎ uː˦˨ t̪]
-          * ljaga: [ʎ a˦˨ ɡ a]
-          * milja: [m iː˦˨ ʎ a]
-          * šalje: [ʂ a ʎ e]
+          * ključ: [k ʎ uː˦˨ tʂ]
+          * bolja: [b o˦˨ ʎ a]
+          * bolji: [b o˦˨ ʎ iː]
+          * ljeti: [ʎ e˦˨ t̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -386,19 +386,19 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 24305
+        * Occurances: 22690
         * Examples
-          * gnjio: [ɡ ɲ i˦˨ o]
-          * pipa: [p i˦˨ p a]
-          * bila: [b i˦˨ l a]
-          * ideju: [i d̪ eː˨˦ j u]
+          * ukić: [u˨˦ k i tɕ]
+          * iloku: [i l o˨˦ k u]
+          * krize: [k r i z̪ e]
+          * dveri: [d̪ v eː˦˨ r i]
       * iː
-        * Occurances: 7877
+        * Occurances: 5592
         * Examples
-          * niza: [n iː˨˦ z̪ a]
-          * nekih: [n e˦˨ k iː x]
-          * žive: [ʐ iː˨˦ v e]
-          * krizu: [k r iː˨˦ z̪ u]
+          * fazi: [f a˦˨ z̪ iː]
+          * vojni: [v oː˦˨ j n iː]
+          * vrkić: [v r k iː tɕ]
+          * rečni: [r eː˦˨ tʂ n iː]
     ```
   - ```{ipa_cell}
     ```
@@ -409,19 +409,19 @@
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 9282
+        * Occurances: 6235
         * Examples
-          * śutra: [ɕ u˦˨ t̪ r a]
-          * svrhu: [s̪ v r̩˨˦ x u]
-          * husit: [x u˨˦ s̪ iː t̪]
-          * ideju: [i d̪ eː˨˦ j u]
+          * iloku: [i l o˨˦ k u]
+          * stocu: [s̪ t̪ o˦˨ t̪s̪ u]
+          * nekud: [n e˦˨ k u d̪]
+          * juga: [j u ɡ a]
       * uː
-        * Occurances: 728
+        * Occurances: 1825
         * Examples
-          * kožun: [k o˨˦ ʐ uː n]
-          * kotun: [k o˨˦ t̪ uː n]
-          * šimun: [ʂ i˦˨ m uː n]
-          * stopu: [s̪ t̪ o˨˦ p uː]
+          * suh: [s̪ uː˦˨ x]
+          * vujić: [v uː j i tɕ]
+          * uvet: [uː˨˦ v e t̪]
+          * bunda: [b uː˦˨ n d̪ a]
     ```
 * -
   - ```{ipa_cell}
@@ -438,19 +438,19 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 19139
+        * Occurances: 13215
         * Examples
-          * aneks: [a n e k s̪]
-          * dejan: [d̪ e˨˦ j a n]
-          * beta: [b e˦˨ t̪ a]
-          * efekt: [e˨˦ f e k t̪]
+          * ekipa: [e k iː˨˦ p a]
+          * ove: [oː˨˦ v e]
+          * obale: [o b aː˨˦ l e]
+          * buzet: [b u˨˦ z̪ e t̪]
       * eː
         * Occurances: 4098
         * Examples
-          * stiže: [s̪ t̪ i ʐ eː]
-          * naše: [n a˦˨ ʂ eː]
-          * mesec: [m e˦˨ s̪ eː t̪s̪]
-          * greda: [ɡ r eː˨˦ d̪ a]
+          * oktet: [o˨˦ k t̪ eː t̪]
+          * čredo: [tʂ r eː˨˦ d̪ o]
+          * riže: [r i˨˦ ʐ eː]
+          * medij: [m eː˦˨ d̪ iː j]
     ```
   - ```{ipa_cell}
     ```
@@ -463,16 +463,16 @@
       * o
         * Occurances: 22565
         * Examples
-          * rano: [r a˦˨ n o]
-          * broda: [b r o d̪ a]
-          * tot: [t̪ o˦˨ t̪]
-          * kojem: [k o˦˨ j e m]
+          * iloku: [i l o˨˦ k u]
+          * mora: [m o˦˨ r a]
+          * orfe: [o˨˦ r f eː]
+          * stocu: [s̪ t̪ o˦˨ t̪s̪ u]
       * oː
         * Occurances: 2327
         * Examples
-          * topom: [t̪ o˨˦ p oː m]
-          * većoj: [v e˦˨ tɕ oː j]
-          * gorom: [ɡ o˨˦ r oː m]
+          * češko: [tʂ e˦˨ ʂ k oː]
+          * lukom: [l u˦˨ k oː m]
+          * petom: [p e˨˦ t̪ oː m]
           * kdo: [ɡ d̪ oː]
     ```
 * -
@@ -518,17 +518,17 @@
       * a
         * Occurances: 26769
         * Examples
-          * pasti: [p a˦˨ s̪ t̪ i]
-          * rano: [r a˦˨ n o]
-          * śutra: [ɕ u˦˨ t̪ r a]
-          * aneks: [a n e k s̪]
+          * slabo: [s̪ l a˦˨ b o]
+          * crta: [t̪s̪ r t̪ a]
+          * šator: [ʂ a˦˨ t̪ o r]
+          * škaf: [ʂ k a˦˨ f]
       * aː
         * Occurances: 4726
         * Examples
-          * razni: [r aː˦˨ z̪ n iː]
-          * luđak: [l u˨˦ dʑ aː k]
-          * bukač: [b u˨˦ k aː tʂ]
-          * klas: [k l aː˦˨ s̪]
+          * travu: [t̪ r aː˦˨ v u]
+          * sat: [s̪ aː˦˨ t̪]
+          * nas: [n aː˦˨ s̪]
+          * orkan: [o˨˦ r k aː n]
     ```
   - ```{ipa_cell}
     ```

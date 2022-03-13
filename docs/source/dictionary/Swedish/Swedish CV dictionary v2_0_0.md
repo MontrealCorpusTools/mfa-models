@@ -51,10 +51,10 @@
       * m
         * Occurances: 4279
         * Examples
-          * dream: [d r eː ɑː m]
-          * smala: [s m ɑː l ɑː]
-          * games: [ɡ ɑː m eː s]
-          * minne: [m ɪ n eː]
+          * simi: [s iː m iː]
+          * ombud: [ɔ m b ʉː d]
+          * makt: [m ɐ k t]
+          * wurms: [v ɵ r m s]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +63,10 @@
       * n
         * Occurances: 12324
         * Examples
-          * snön.: [s n øː n]
-          * nixon: [n iː k s uː n]
-          * hän: [h ɛː n]
-          * nivå: [n iː v oː]
+          * ekan.: [eː k ɑː n]
+          * ni.: [n iː]
+          * egen?: [eː j eː n]
+          * nere,: [n eː r eː]
     ```
   - ```{ipa_cell}
     ```
@@ -75,10 +75,10 @@
       * ŋ
         * Occurances: 1330
         * Examples
-          * poäng: [p uː ɛ ŋ]
-          * sång: [s ɔ ŋ]
-          * ingår: [ɪ ŋ oː r]
-          * vagn: [v ɐ ŋ n]
+          * angår: [ɐ ŋ oː r]
+          * långa: [l ɔ ŋ ɑː]
+          * ägnat: [ɛ ŋ n ɑː t]
+          * angav: [ɐ ŋ ɑː v]
     ```
   - ```{ipa_cell}
     ```
@@ -90,18 +90,18 @@
       * p
         * Occurances: 2716
         * Examples
-          * piteå: [p iː t eː oː]
-          * harpa: [h ɐ r p ɑː]
-          * plast: [p l ɐ s t]
-          * poäng: [p uː ɛ ŋ]
+          * greps: [ɡ r ɛ p s]
+          * poesi: [p uː eː s iː]
+          * pissa: [p ɪ s ɑː]
+          * paus!: [p ɑː ʉː s]
     * voiced
       * b
         * Occurances: 2734
         * Examples
-          * byta: [b yː t ɑː]
-          * broad: [b r uː ɑː d]
-          * booth: [b uː ɔ t h]
-          * urban: [ɵ r b ɑː n]
+          * ombud: [ɔ m b ʉː d]
+          * bara!: [b ɑː r ɑː]
+          * big: [b iː ɡ]
+          * tuban: [t ʉː b ɑː n]
     ```
   - ```{ipa_cell}
     ```
@@ -110,18 +110,18 @@
       * t
         * Occurances: 11976
         * Examples
-          * dit: [d iː t]
-          * byta: [b yː t ɑː]
-          * hakat: [h ɑː k ɑː t]
-          * snott: [s n ɔ t]
+          * ruter: [r ʉː t eː r]
+          * tuban: [t ʉː b ɑː n]
+          * makt: [m ɐ k t]
+          * rånat: [r oː n ɑː t]
     * voiced
       * d
         * Occurances: 6545
         * Examples
-          * dream: [d r eː ɑː m]
-          * dit: [d iː t]
-          * hud.: [h ʉː d]
-          * sadra: [s ɐ d r ɑː]
+          * öde: [øː d eː]
+          * rörd: [r œ r d]
+          * ombud: [ɔ m b ʉː d]
+          * ward: [v ɐ r d]
     ```
   - ```{ipa_cell}
     ```
@@ -130,18 +130,18 @@
       * k
         * Occurances: 4695
         * Examples
-          * nixon: [n iː k s uː n]
-          * käkar: [ɕ ɛː k ɑː r]
-          * vax?: [v ɑː k s]
-          * hakat: [h ɑː k ɑː t]
+          * ekan.: [eː k ɑː n]
+          * makt: [m ɐ k t]
+          * kaka": [k ɑː k ɑː]
+          * sak?: [s ɑː k]
     * voiced
       * ɡ
         * Occurances: 3223
         * Examples
-          * games: [ɡ ɑː m eː s]
-          * golf.: [ɡ ɔ l f]
-          * gryt.: [ɡ r yː t]
-          * säga.: [s ɛː ɡ ɑː]
+          * greps: [ɡ r ɛ p s]
+          * skog.: [ɧ uː ɡ]
+          * big: [b iː ɡ]
+          * dig,: [d iː ɡ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -164,26 +164,26 @@
       * s
         * Occurances: 9987
         * Examples
-          * snön.: [s n øː n]
-          * nixon: [n iː k s uː n]
-          * vax?: [v ɑː k s]
-          * smala: [s m ɑː l ɑː]
+          * simi: [s iː m iː]
+          * greps: [ɡ r ɛ p s]
+          * poesi: [p uː eː s iː]
+          * ske: [s ɕ eː]
     * voiced
       * z
         * Occurances: 4
         * Examples
-          * buzz: [b ɵ z]
           * jazz: [j ɐ z]
+          * buzz: [b ɵ z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 1482
         * Examples
-          * käkar: [ɕ ɛː k ɑː r]
-          * kär: [ɕ ɛː r]
-          * rike,: [r iː ɕ eː]
-          * tjöt: [ɕ øː t]
+          * ske: [s ɕ eː]
+          * sjuke: [ɧ ʉː ɕ eː]
+          * köpa: [ɕ øː p ɑː]
+          * tjej.: [ɕ eː j]
     ```
   - ```{ipa_cell}
     ```
@@ -199,18 +199,18 @@
       * f
         * Occurances: 3131
         * Examples
-          * fru,: [f r ʉː]
-          * faran: [f ɑː r ɑː n]
-          * golf.: [ɡ ɔ l f]
-          * fru?: [f r ʉː]
+          * fira: [f iː r ɑː]
+          * föra.: [f øː r ɑː]
+          * fåra.: [f oː r ɑː]
+          * ifall: [iː f ɐ l]
     * voiced
       * v
         * Occurances: 3646
         * Examples
-          * nivå: [n iː v oː]
-          * vax?: [v ɑː k s]
-          * vilse: [v ɪ l s eː]
-          * rovor: [r uː v uː r]
+          * huva,: [h ʉː v ɑː]
+          * välja: [v ɛ j ɑː]
+          * ward: [v ɐ r d]
+          * wurms: [v ɵ r m s]
     ```
   - ```{ipa_cell}
     ```
@@ -225,10 +225,10 @@
       * h
         * Occurances: 1914
         * Examples
-          * hän: [h ɛː n]
-          * hud.: [h ʉː d]
-          * hakat: [h ɑː k ɑː t]
-          * hus?: [h ʉː s]
+          * huva,: [h ʉː v ɑː]
+          * hull,: [h ɵ l]
+          * hakan: [h ɑː k ɑː n]
+          * hand: [h ɐ n d]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -242,10 +242,10 @@
       * j
         * Occurances: 2571
         * Examples
-          * älgen: [ɛ j eː n]
-          * nagel: [n ɑː j eː l]
-          * jens: [j ɛ n s]
-          * igen!: [iː j eː n]
+          * äger: [ɛː j eː r]
+          * välja: [v ɛ j ɑː]
+          * egen?: [eː j eː n]
+          * sörja: [s œ r j ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -263,10 +263,10 @@
       * r
         * Occurances: 14568
         * Examples
-          * käkar: [ɕ ɛː k ɑː r]
-          * dream: [d r eː ɑː m]
-          * sadra: [s ɐ d r ɑː]
-          * mörk: [m œ r k]
+          * greps: [ɡ r ɛ p s]
+          * rörd: [r œ r d]
+          * fira: [f iː r ɑː]
+          * äger: [ɛː j eː r]
     ```
   - ```{ipa_cell}
     ```
@@ -286,10 +286,10 @@
       * l
         * Occurances: 7685
         * Examples
-          * smala: [s m ɑː l ɑː]
-          * illa.: [ɪ l ɑː]
-          * ladda: [l ɐ d ɑː]
-          * vilse: [v ɪ l s eː]
+          * allas: [ɐ l ɑː s]
+          * lista: [l ɪ s t ɑː]
+          * rejäl: [r eː j ɛː l]
+          * hull,: [h ɵ l]
     ```
   - ```{ipa_cell}
     ```
@@ -321,18 +321,18 @@
       * iː
         * Occurances: 4059
         * Examples
-          * nixon: [n iː k s uː n]
-          * nivå: [n iː v oː]
-          * dit: [d iː t]
-          * piteå: [p iː t eː oː]
+          * simi: [s iː m iː]
+          * poesi: [p uː eː s iː]
+          * fira: [f iː r ɑː]
+          * ni.: [n iː]
     * rounded
       * yː
         * Occurances: 642
         * Examples
-          * byta: [b yː t ɑː]
-          * city: [s iː t yː]
-          * nyår: [n yː oː r]
-          * gryt.: [ɡ r yː t]
+          * styra: [s t yː r ɑː]
+          * dry: [d r yː]
+          * syner: [s yː n eː r]
+          * baby.: [b ɑː b yː]
     ```
   - ```{ipa_cell}
     ```
@@ -341,10 +341,10 @@
       * ʉː
         * Occurances: 1372
         * Examples
-          * hud.: [h ʉː d]
-          * hus?: [h ʉː s]
-          * fru,: [f r ʉː]
-          * sjuk,: [ɧ ʉː k]
+          * huva,: [h ʉː v ɑː]
+          * ombud: [ɔ m b ʉː d]
+          * ruter: [r ʉː t eː r]
+          * union: [ʉː n iː uː n]
     ```
   - ```{ipa_cell}
     ```
@@ -353,10 +353,10 @@
       * uː
         * Occurances: 3206
         * Examples
-          * nixon: [n iː k s uː n]
-          * rovor: [r uː v uː r]
-          * broad: [b r uː ɑː d]
-          * hot.: [h uː t]
+          * poesi: [p uː eː s iː]
+          * skog.: [ɧ uː ɡ]
+          * union: [ʉː n iː uː n]
+          * ro,: [r uː]
     ```
 * -
   - ```{ipa_cell}
@@ -366,18 +366,18 @@
       * ɪ
         * Occurances: 4352
         * Examples
-          * illa.: [ɪ l ɑː]
-          * minne: [m ɪ n eː]
-          * vilse: [v ɪ l s eː]
-          * olikt: [uː l ɪ k t]
+          * pissa: [p ɪ s ɑː]
+          * lista: [l ɪ s t ɑː]
+          * mitt.: [m ɪ t]
+          * visst: [v ɪ s t]
     * rounded
       * ʏ
         * Occurances: 777
         * Examples
-          * snygg: [s n ʏ g]
-          * rygg.: [r ʏ g]
-          * synd: [s ʏ n d]
-          * tyska: [t ʏ ɧ ɑː]
+          * yngre: [ʏ ŋ r eː]
+          * tyst: [t ʏ s t]
+          * skygg: [s ɕ ʏ g]
+          * rymt: [r ʏ m t]
     ```
   - ```{ipa_cell}
     ```
@@ -391,18 +391,18 @@
       * eː
         * Occurances: 11056
         * Examples
-          * dream: [d r eː ɑː m]
-          * games: [ɡ ɑː m eː s]
-          * minne: [m ɪ n eː]
-          * vilse: [v ɪ l s eː]
+          * öde: [øː d eː]
+          * poesi: [p uː eː s iː]
+          * ekan.: [eː k ɑː n]
+          * ske: [s ɕ eː]
     * rounded
       * øː
         * Occurances: 1197
         * Examples
-          * snön.: [s n øː n]
-          * ökat.: [øː k ɑː t]
-          * tjöt: [ɕ øː t]
+          * öde: [øː d eː]
+          * föra.: [f øː r ɑː]
           * göran: [j øː r ɑː n]
+          * röt: [r øː t]
     ```
   - ```{ipa_cell}
     ```
@@ -411,10 +411,10 @@
       * ɵ
         * Occurances: 2078
         * Examples
-          * urban: [ɵ r b ɑː n]
-          * punkt: [p ɵ n k t]
-          * grund: [ɡ r ɵ n d]
-          * kurs.: [k ɵ r s]
+          * wurms: [v ɵ r m s]
+          * hull,: [h ɵ l]
+          * putte: [p ɵ t eː]
+          * tuff.: [t ɵ f]
     ```
   - ```{ipa_cell}
     ```
@@ -423,10 +423,10 @@
       * oː
         * Occurances: 1097
         * Examples
-          * nivå: [n iː v oː]
-          * piteå: [p iː t eː oː]
-          * neråt: [n eː r oː t]
-          * skål!: [ɧ oː l]
+          * fåra.: [f oː r ɑː]
+          * rånat: [r oː n ɑː t]
+          * dån,: [d oː n]
+          * angår: [ɐ ŋ oː r]
     ```
 * -
   - ```{ipa_cell}
@@ -445,25 +445,25 @@
       * ɛ
         * Occurances: 6891
         * Examples
-          * älgen: [ɛ j eː n]
-          * värme: [v ɛ r m eː]
-          * jens: [j ɛ n s]
-          * poäng: [p uː ɛ ŋ]
+          * greps: [ɡ r ɛ p s]
+          * välja: [v ɛ j ɑː]
+          * berg.: [b ɛ r ɡ]
+          * verna: [v ɛ r n ɑː]
       * ɛː
         * Occurances: 819
         * Examples
-          * hän: [h ɛː n]
-          * käkar: [ɕ ɛː k ɑː r]
-          * kär: [ɕ ɛː r]
-          * näsor: [n ɛː s uː r]
+          * äger: [ɛː j eː r]
+          * rejäl: [r eː j ɛː l]
+          * där,: [d ɛː r]
+          * väta: [v ɛː t ɑː]
     * rounded
       * œ
         * Occurances: 1458
         * Examples
-          * mörk: [m œ r k]
           * rörd: [r œ r d]
-          * nöjd,: [n œ j d]
-          * röst.: [r œ s t]
+          * sörja: [s œ r j ɑː]
+          * följ: [f œ j]
+          * mössa: [m œ s ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -476,10 +476,10 @@
       * ɔ
         * Occurances: 3496
         * Examples
-          * snott: [s n ɔ t]
-          * golf.: [ɡ ɔ l f]
-          * booth: [b uː ɔ t h]
-          * brown: [b r ɔ v n]
+          * ombud: [ɔ m b ʉː d]
+          * stolt: [s t ɔ l t]
+          * åtta?: [ɔ t ɑː]
+          * långa: [l ɔ ŋ ɑː]
     ```
 * -
   - ```{ipa_cell}
@@ -491,10 +491,10 @@
       * ɐ
         * Occurances: 5478
         * Examples
-          * sadra: [s ɐ d r ɑː]
-          * ladda: [l ɐ d ɑː]
-          * sanna: [s ɐ n ɑː]
-          * drack: [d r ɐ k]
+          * ward: [v ɐ r d]
+          * allas: [ɐ l ɑː s]
+          * makt: [m ɐ k t]
+          * skarp: [ɧ ɐ r p]
     ```
   - ```{ipa_cell}
     ```
@@ -514,9 +514,9 @@
       * ɑː
         * Occurances: 10206
         * Examples
-          * käkar: [ɕ ɛː k ɑː r]
-          * dream: [d r eː ɑː m]
-          * vax?: [v ɑː k s]
-          * byta: [b yː t ɑː]
+          * huva,: [h ʉː v ɑː]
+          * ekan.: [eː k ɑː n]
+          * fira: [f iː r ɑː]
+          * välja: [v ɛ j ɑː]
     ```
 ``````

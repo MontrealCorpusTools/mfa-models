@@ -50,10 +50,10 @@
       * m
         * Occurances: 48753
         * Examples
-          * สมัย: [s a m a j]
-          * ลิมา: [l i m aː]
-          * ผู้ชม: [pʰ uː t͡ɕʰ o m]
-          * ทราม: [tʰ r aː m]
+          * ส้มตำ: [s o m t a ำ]
+          * มทิรา: [m a tʰ i r aː]
+          * พิมพ์: [pʰ i m]
+          * เค็ม: [kʰ eː m]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@
       * n
         * Occurances: 100732
         * Examples
-          * มติชน: [m a t i t͡ɕʰ o n]
-          * แรนด์: [r ɛː n]
-          * นีล: [n iː n]
-          * ค้นหา: [kʰ o n h aː]
+          * กรกฎา: [k o n k a d aː]
+          * หนึ่ง: [h a n ɯ ŋ]
+          * ขาล: [kʰ aː n]
+          * โคตร: [kʰ oː t o n]
     ```
   - ```{ipa_cell}
     ```
@@ -74,10 +74,10 @@
       * ŋ
         * Occurances: 48717
         * Examples
-          * ยงไทย: [j o ŋ tʰ a j]
-          * สังคม: [s a ŋ kʰ o m]
-          * ง่ะ: [ŋ a ʔ]
-          * สนอง: [s a n ɔː ŋ]
+          * หนึ่ง: [h a n ɯ ŋ]
+          * สิงหา: [s i ŋ h aː]
+          * น่อง: [n ɔː ŋ]
+          * คงหา: [kʰ o ŋ h aː]
     ```
   - ```{ipa_cell}
     ```
@@ -87,18 +87,18 @@
       * p
         * Occurances: 22416
         * Examples
-          * เปรม: [p eː r o m]
-          * รอไป: [r ɔː p a j]
-          * ไปตำ: [p a j t a ำ]
-          * ปลอม: [p l ɔː m]
+          * ทุกปี: [tʰ u k p iː]
+          * ปรีดี: [p r iː d iː]
+          * ปิดจอ: [p i t t͡ɕ ɔː]
+          * ปะทะ: [p a tʰ a ʔ]
     * voiced
       * b
         * Occurances: 22179
         * Examples
+          * หูลบ: [h uː l o b]
+          * พบว่า: [pʰ o b w aː]
           * สิบหก: [s i b h o k]
-          * บิ๊ก: [b i k]
-          * ชอบ: [t͡ɕʰ ɔː b]
-          * ครับ: [kʰ r a b]
+          * แพบัว: [pʰ ɛː b uː a̯]
     ```
   - ```{ipa_cell}
     ```
@@ -107,18 +107,18 @@
       * t
         * Occurances: 43594
         * Examples
-          * สตาร์: [s a t aː]
-          * เพซ: [pʰ eː t]
-          * ตุลา: [t u l aː]
-          * ตาแก่: [t aː k ɛː]
+          * ส้มตำ: [s o m t a ำ]
+          * ลีส: [l iː t]
+          * โคตร: [kʰ oː t o n]
+          * โหด: [h oː t]
     * voiced
       * d
         * Occurances: 21176
         * Examples
-          * กุฎิ: [k u d i ʔ]
-          * ศักดา: [s a k d aː]
-          * แต่ดี: [t ɛː d iː]
-          * แกะดำ: [k ɛ d a ำ]
+          * กรกฎา: [k o n k a d aː]
+          * ก็ได้: [k a d a j]
+          * ชาดี: [t͡ɕʰ aː d iː]
+          * ภควดี: [pʰ o k w a d iː]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -131,20 +131,20 @@
       * k
         * Occurances: 57449
         * Examples
-          * ชิค: [t͡ɕʰ i k]
-          * ตาแก่: [t aː k ɛː]
-          * เก้า,: [k eː aː]
-          * กล๊าส: [k l aː t]
+          * ทุกปี: [tʰ u k p iː]
+          * กรกฎา: [k o n k a d aː]
+          * สัก: [s a k]
+          * ก็ได้: [k a d a j]
     ```
   - ```{ipa_cell}
     * other
       * ʔ
         * Occurances: 16043
         * Examples
-          * กุฎิ: [k u d i ʔ]
-          * ไหน: [h a j n a ʔ]
-          * โอ้: [ʔ oː]
-          * แพะ: [pʰ ɛ ʔ]
+          * โลหะ: [l oː h a ʔ]
+          * ใช่ฮะ: [t͡ɕʰ a j h a ʔ]
+          * ธีระ: [tʰ iː r a ʔ]
+          * ค่ะ: [kʰ a ʔ]
     ```
 * - {submanner}`Aspirated`
   - ```{ipa_cell}
@@ -152,10 +152,10 @@
       * pʰ
         * Occurances: 19324
         * Examples
-          * เพซ: [pʰ eː t]
-          * ผู้ชม: [pʰ uː t͡ɕʰ o m]
-          * พุธ: [pʰ u t]
-          * พาน: [pʰ aː n]
+          * พิมพ์: [pʰ i m]
+          * ภควดี: [pʰ o k w a d iː]
+          * พบว่า: [pʰ o b w aː]
+          * พฤษภา: [pʰ a ฤ s a pʰ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -164,10 +164,10 @@
       * tʰ
         * Occurances: 35357
         * Examples
-          * ทราม: [tʰ r aː m]
-          * ยงไทย: [j o ŋ tʰ a j]
-          * ท่า: [tʰ aː]
-          * เทวดา: [tʰ eː w d aː]
+          * ทุกปี: [tʰ u k p iː]
+          * มทิรา: [m a tʰ i r aː]
+          * เท็ค: [tʰ eː k]
+          * ธีระ: [tʰ iː r a ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -176,10 +176,10 @@
       * kʰ
         * Occurances: 38722
         * Examples
-          * ครม: [kʰ r o m]
-          * ค้นหา: [kʰ o n h aː]
-          * ควรมี: [kʰ w r a m iː]
-          * คาแนล: [kʰ aː n ɛː n]
+          * ข้อ: [kʰ ɔː]
+          * ขาล: [kʰ aː n]
+          * โคตร: [kʰ oː t o n]
+          * ฉันขอ: [t͡ɕʰ a n kʰ ɔː]
     ```
   - ```{ipa_cell}
     ```
@@ -195,10 +195,10 @@
       * t͡ɕ
         * Occurances: 16776
         * Examples
-          * โจซัว: [t͡ɕ oː s uː a̯]
-          * เจ็ด: [t͡ɕ eː t]
-          * จาก: [t͡ɕ aː k]
-          * น่าจะ: [n aː t͡ɕ a ʔ]
+          * จาวา: [t͡ɕ aː w aː]
+          * สายใจ: [s aː j t͡ɕ a j]
+          * ปิดจอ: [p i t t͡ɕ ɔː]
+          * จำไว้: [t͡ɕ a ำ w a j]
     ```
   - ```{ipa_cell}
     ```
@@ -216,10 +216,10 @@
       * t͡ɕʰ
         * Occurances: 17325
         * Examples
-          * ชู่ว: [t͡ɕʰ uː w]
-          * ชื่อ: [t͡ɕʰ ɯː ɔː]
-          * ชิค: [t͡ɕʰ i k]
-          * ผู้ชม: [pʰ uː t͡ɕʰ o m]
+          * ฉันขอ: [t͡ɕʰ a n kʰ ɔː]
+          * ชาดี: [t͡ɕʰ aː d iː]
+          * ใช่ฮะ: [t͡ɕʰ a j h a ʔ]
+          * โรสชา: [r oː t t͡ɕʰ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -235,10 +235,10 @@
       * s
         * Occurances: 27866
         * Examples
-          * สตาร์: [s a t aː]
-          * สมัย: [s a m a j]
-          * โจซัว: [t͡ɕ oː s uː a̯]
-          * สกาย: [s a k aː j]
+          * ส้มตำ: [s o m t a ำ]
+          * สัก: [s a k]
+          * สิงหา: [s i ŋ h aː]
+          * สายใจ: [s aː j t͡ɕ a j]
     ```
   - ```{ipa_cell}
     ```
@@ -254,10 +254,10 @@
       * f
         * Occurances: 3003
         * Examples
-          * วูฟ?: [w uː f a]
-          * ฟัง: [f a ŋ]
-          * กรู๊ฟ: [k r uː f]
-          * กาฝาก: [k aː f aː k]
+          * หลงไฟ: [h o n ŋ a f a j]
+          * วูฟ: [w uː f]
+          * แฟกซ์: [f ɛː k]
+          * ฟังสิ: [f a ŋ s i ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -274,10 +274,10 @@
       * h
         * Occurances: 26355
         * Examples
-          * ฮูเร่: [h uː r eː]
-          * ค้นหา: [kʰ o n h aː]
-          * ไหน: [h a j n a ʔ]
-          * แหม: [h ɛː m]
+          * หนึ่ง: [h a n ɯ ŋ]
+          * สิงหา: [s i ŋ h aː]
+          * หาญ: [h aː j]
+          * โลหะ: [l oː h a ʔ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -291,10 +291,10 @@
       * j
         * Occurances: 68453
         * Examples
-          * สมัย: [s a m a j]
-          * 'ใช่': [t͡ɕʰ a j]
-          * ยงไทย: [j o ŋ tʰ a j]
-          * ไหน: [h a j n a ʔ]
+          * ก็ได้: [k a d a j]
+          * หาญ: [h aː j]
+          * แมนยู: [m ɛː n j uː]
+          * ใช่ฮะ: [t͡ɕʰ a j h a ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -310,10 +310,10 @@
       * r
         * Occurances: 43894
         * Examples
-          * ตรอก: [t r ɔː k]
-          * ทราม: [tʰ r aː m]
-          * ครม: [kʰ r o m]
-          * เรือ: [r ɯː a̯]
+          * มทิรา: [m a tʰ i r aː]
+          * ธีระ: [tʰ iː r a ʔ]
+          * โรสชา: [r oː t t͡ɕʰ aː]
+          * มลรัฐ: [m o n r a t]
     ```
   - ```{ipa_cell}
     ```
@@ -331,10 +331,10 @@
       * l
         * Occurances: 25824
         * Examples
-          * ลิมา: [l i m aː]
-          * ตุลา: [t u l aː]
-          * กล๊าส: [k l aː t]
-          * มีลาน: [m iː l aː n]
+          * ลีส: [l iː t]
+          * ลูก: [l uː k]
+          * โลหะ: [l oː h a ʔ]
+          * หูลบ: [h uː l o b]
     ```
   - ```{ipa_cell}
     ```
@@ -364,17 +364,17 @@
       * i
         * Occurances: 19817
         * Examples
-          * ชิค: [t͡ɕʰ i k]
-          * ลิมา: [l i m aː]
-          * มติชน: [m a t i t͡ɕʰ o n]
-          * กุฎิ: [k u d i ʔ]
+          * มทิรา: [m a tʰ i r aː]
+          * พิมพ์: [pʰ i m]
+          * สิงหา: [s i ŋ h aː]
+          * วิธี: [w i tʰ iː]
       * iː
         * Occurances: 34080
         * Examples
-          * นีล: [n iː n]
-          * ควรมี: [kʰ w r a m iː]
-          * แต่ดี: [t ɛː d iː]
-          * ตีหก: [t iː h o k]
+          * ทุกปี: [tʰ u k p iː]
+          * ลีส: [l iː t]
+          * ชาดี: [t͡ɕʰ aː d iː]
+          * ภควดี: [pʰ o k w a d iː]
     * rounded
       * y
         * Occurances: 2
@@ -393,32 +393,32 @@
       * ɯ
         * Occurances: 5412
         * Examples
-          * หึหึ: [h ɯ h ɯ ʔ]
           * หนึ่ง: [h a n ɯ ŋ]
-          * อนึ่ง: [ɔː n ɯ ŋ]
-          * อึด: [ʔ ɯ t]
+          * จึ่ง: [t͡ɕ ɯ ŋ]
+          * พิลึก: [pʰ i l ɯ k]
+          * ดึก: [d ɯ k]
       * ɯː
         * Occurances: 13261
         * Examples
-          * ชื่อ: [t͡ɕʰ ɯː ɔː]
           * เรือ: [r ɯː a̯]
-          * ก็คือ: [k a kʰ ɯː ɔː]
-          * หือ: [h ɯː ɔː]
+          * เมื่อ: [m ɯː a̯]
+          * เรือน: [r ɯː a̯ n]
+          * เลือด: [l ɯː a̯ t]
     * rounded
       * u
         * Occurances: 13194
         * Examples
-          * ตุลา: [t u l aː]
-          * พุธ: [pʰ u t]
-          * กุฎิ: [k u d i ʔ]
-          * ทุ่ม: [tʰ u m]
+          * ทุกปี: [tʰ u k p iː]
+          * ขุน: [kʰ u n]
+          * ศุกร์: [s u k]
+          * กุน: [k u n]
       * uː
         * Occurances: 15921
         * Examples
-          * ชู่ว: [t͡ɕʰ uː w]
-          * ผู้ชม: [pʰ uː t͡ɕʰ o m]
-          * โจซัว: [t͡ɕ oː s uː a̯]
-          * ฮูเร่: [h uː r eː]
+          * ลูก: [l uː k]
+          * แมนยู: [m ɛː n j uː]
+          * หูลบ: [h uː l o b]
+          * แพบัว: [pʰ ɛː b uː a̯]
     ```
 * -
   - ```{ipa_cell}
@@ -437,17 +437,17 @@
       * e
         * Occurances: 63
         * Examples
-          * เป๊ะ: [p e ʔ]
           * kenny: [k e n n y]
-          * เอ๊ะ: [ʔ e ʔ]
           * เงะ: [ŋ e ʔ]
+          * เป๊ะ: [p e ʔ]
+          * เละ: [l e ʔ]
       * eː
         * Occurances: 34107
         * Examples
-          * เพซ: [pʰ eː t]
-          * เก้า,: [k eː aː]
-          * ฮูเร่: [h uː r eː]
-          * เปรม: [p eː r o m]
+          * เค็ม: [kʰ eː m]
+          * เท็ค: [tʰ eː k]
+          * เนย: [n eː j]
+          * เวลธ์: [w eː n]
     ```
   - ```{ipa_cell}
     ```
@@ -460,17 +460,17 @@
       * o
         * Occurances: 28713
         * Examples
-          * ผู้ชม: [pʰ uː t͡ɕʰ o m]
-          * ครม: [kʰ r o m]
-          * มติชน: [m a t i t͡ɕʰ o n]
-          * ค้นหา: [kʰ o n h aː]
+          * กรกฎา: [k o n k a d aː]
+          * ส้มตำ: [s o m t a ำ]
+          * โคตร: [kʰ oː t o n]
+          * ภควดี: [pʰ o k w a d iː]
       * oː
         * Occurances: 6505
         * Examples
-          * โจซัว: [t͡ɕ oː s uː a̯]
-          * โอ้: [ʔ oː]
-          * โย่ว: [j oː w]
-          * อะโห: [ʔ a h oː]
+          * โคตร: [kʰ oː t o n]
+          * โลหะ: [l oː h a ʔ]
+          * โหด: [h oː t]
+          * โทษ: [tʰ oː t]
     ```
 * -
   - ```{ipa_cell}
@@ -489,17 +489,17 @@
       * ɛ
         * Occurances: 3249
         * Examples
-          * แพะ: [pʰ ɛ ʔ]
-          * แกะดำ: [k ɛ d a ำ]
-          * แกะ: [k ɛ ʔ]
+          * และ: [l ɛ ʔ]
           * และชา: [l ɛ t͡ɕʰ aː]
+          * และก็: [l ɛ k a]
+          * แกะ: [k ɛ ʔ]
       * ɛː
         * Occurances: 13518
         * Examples
-          * ตาแก่: [t aː k ɛː]
-          * แรนด์: [r ɛː n]
-          * แหม: [h ɛː m]
-          * แต่ดี: [t ɛː d iː]
+          * แมนยู: [m ɛː n j uː]
+          * แลนด์: [l ɛː n]
+          * แต่: [t ɛː]
+          * แพบัว: [pʰ ɛː b uː a̯]
     ```
   - ```{ipa_cell}
     ```
@@ -512,16 +512,16 @@
       * ɔ
         * Occurances: 273
         * Examples
-          * เกาะ: [k ɔ ʔ]
           * เถาะ: [tʰ ɔ ʔ]
           * เงาะ: [ŋ ɔ ʔ]
+          * เกาะ: [k ɔ ʔ]
       * ɔː
         * Occurances: 38666
         * Examples
-          * ชื่อ: [t͡ɕʰ ɯː ɔː]
-          * ตรอก: [t r ɔː k]
-          * รอไป: [r ɔː p a j]
-          * สนอง: [s a n ɔː ŋ]
+          * ข้อ: [kʰ ɔː]
+          * ฉันขอ: [t͡ɕʰ a n kʰ ɔː]
+          * น่อง: [n ɔː ŋ]
+          * ทำต่อ: [tʰ a ำ t ɔː]
     ```
 * -
   - ```{ipa_cell}
@@ -544,24 +544,24 @@
       * a
         * Occurances: 196393
         * Examples
-          * สตาร์: [s a t aː]
-          * สมัย: [s a m a j]
-          * 'ใช่': [t͡ɕʰ a j]
-          * มติชน: [m a t i t͡ɕʰ o n]
+          * กรกฎา: [k o n k a d aː]
+          * ส้มตำ: [s o m t a ำ]
+          * มทิรา: [m a tʰ i r aː]
+          * หนึ่ง: [h a n ɯ ŋ]
       * aː
         * Occurances: 86398
         * Examples
-          * สตาร์: [s a t aː]
-          * ลิมา: [l i m aː]
-          * ตุลา: [t u l aː]
-          * ตาแก่: [t aː k ɛː]
+          * กรกฎา: [k o n k a d aː]
+          * มทิรา: [m a tʰ i r aː]
+          * สิงหา: [s i ŋ h aː]
+          * ขาล: [kʰ aː n]
       * a̯
         * Occurances: 14215
         * Examples
-          * โจซัว: [t͡ɕ oː s uː a̯]
+          * แพบัว: [pʰ ɛː b uː a̯]
           * เรือ: [r ɯː a̯]
-          * เฑียร: [tʰ iː a̯ n]
-          * เฮีย: [h iː a̯]
+          * เมื่อ: [m ɯː a̯]
+          * เรือน: [r ɯː a̯ n]
     ```
   - ```{ipa_cell}
     ```

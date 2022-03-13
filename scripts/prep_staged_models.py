@@ -555,6 +555,7 @@ Jump to section:
 - **Language:** {language_link}
 - **Dialect:** {dialect_link}
 - **Number of words:** `{word_count:,}`
+- **Phone set:** {phone_set_link}
 - **Phones:** {phones}
 - **License:** {license_link}
 - **Compatible MFA version:** `v{mfa_version}`

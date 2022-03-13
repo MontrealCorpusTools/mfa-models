@@ -17,6 +17,7 @@ Jump to section:
 - **Language:** [French](https://en.wikipedia.org/wiki/French_language)
 - **Dialect:** N/A
 - **Number of words:** `234,047`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#french)
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`mʲ`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`y`, {ipa_inline}`z`, {ipa_inline}`ø`, {ipa_inline}`ŋ`, {ipa_inline}`œ`, {ipa_inline}`ɑ`, {ipa_inline}`ɑ̃`, {ipa_inline}`ɔ`, {ipa_inline}`ɔ̃`, {ipa_inline}`ə`, {ipa_inline}`ɛ`, {ipa_inline}`ɛ̃`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɥ`, {ipa_inline}`ɲ`, {ipa_inline}`ʁ`, {ipa_inline}`ʃ`, {ipa_inline}`ʎ`, {ipa_inline}`ʒ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/french/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`

@@ -51,15 +51,15 @@
       * m
         * Occurances: 2168
         * Examples
-          * уҫрӑм: [u ɕ r ʌ m]
-          * пӑхма: [p ʌ χ m ɑ]
-          * манпа: [m ɑ n p ɑ]
-          * утӑма: [u t ʌ m ɑ]
+          * мала: [m ɑ l ɑ]
+          * иҫӗм: [i ɕ ɛ m]
+          * эмел: [e m e l]
+          * юлма: [j u l m ɑ]
       * mː
         * Occurances: 18
         * Examples
-          * иммун: [i mː u n]
           * римма: [r i mː ɑ]
+          * иммун: [i mː u n]
     ```
   - ```{ipa_cell}
     ```
@@ -68,17 +68,17 @@
       * n
         * Occurances: 4167
         * Examples
-          * енчи: [j e n tʃ i]
-          * унсӑр: [u n s ʌ r]
-          * манпа: [m ɑ n p ɑ]
-          * хӗрне: [χ ɛ r n e]
+          * енче: [j e n tʃ e]
+          * юлнӑ: [j u l n ʌ]
+          * утнӑ: [u t n ʌ]
+          * тулнӑ: [t u l n ʌ]
       * nː
         * Occurances: 217
         * Examples
-          * анне: [ɑ nː e]
-          * ҫуннӑ: [ɕ u nː ʌ]
-          * чунне: [tʃ u nː e]
-          * ҫӗнни: [ɕ ɛ nː i]
+          * енне: [j e nː e]
+          * аннен: [ɑ nː e n]
+          * юнне: [j u nː e]
+          * аннӑ: [ɑ nː ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -94,25 +94,25 @@
       * p
         * Occurances: 1994
         * Examples
-          * хупах: [χ u p ɑ χ]
-          * йӗпе: [j ɛ p e]
-          * пӑсса: [p ʌ sː ɑ]
-          * пӑхма: [p ʌ χ m ɑ]
+          * кӗпи: [k ɛ p i]
+          * епле: [j e p l e]
+          * ҫапла: [ɕ ɑ p l ɑ]
+          * хампа: [χ ɑ m p ɑ]
       * pː
         * Occurances: 22
         * Examples
           * ҫиппе: [ɕ i pː e]
-          * чӗппи: [tʃ ɛ pː i]
           * аппа: [ɑ pː ɑ]
           * аппам: [ɑ pː ɑ m]
+          * эппин: [e pː i n]
     * voiced
       * b
         * Occurances: 137
         * Examples
-          * кибеч: [k i b e tʃ]
-          * клуб: [k l u b]
-          * банк: [b ɑ n k]
-          * табло: [t ɑ b l o]
+          * блока: [b l o k ɑ]
+          * биэон: [b i e o n]
+          * балл: [b ɑ lː]
+          * булка: [b u l k ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -121,25 +121,25 @@
       * t
         * Occurances: 3184
         * Examples
-          * тути: [t u t i]
-          * тери: [t e r i]
-          * иртӗ: [i r t ɛ]
-          * утӑма: [u t ʌ m ɑ]
+          * ҫути: [ɕ u t i]
+          * утнӑ: [u t n ʌ]
+          * тӗкӗр: [t ɛ k ɛ r]
+          * тулнӑ: [t u l n ʌ]
       * tː
         * Occurances: 124
         * Examples
-          * улттӑ: [u l tː ʌ]
-          * тетте: [t e tː e]
           * атте: [ɑ tː e]
           * утта: [u tː ɑ]
+          * улттӑ: [u l tː ʌ]
+          * ытти: [ɯ tː i]
     * voiced
       * d
         * Occurances: 250
         * Examples
-          * денис: [d e n i s]
-          * рейда: [r e j d ɑ]
-          * сад: [s ɑ d]
-          * джинс: [d ʒ i n s]
+          * видо: [v i d o]
+          * дима: [d i m ɑ]
+          * суд: [s u d]
+          * судра: [s u d r ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -150,17 +150,17 @@
       * k
         * Occurances: 2031
         * Examples
-          * якур: [j ɑ k u r]
-          * люк: [l j u k]
-          * курсӗ: [k u r s ɛ]
-          * пек: [p e k]
+          * кӗпи: [k ɛ p i]
+          * кирлӗ: [k i r l ɛ]
+          * тӗкӗр: [t ɛ k ɛ r]
+          * касса: [k ɑ sː ɑ]
       * kː
         * Occurances: 65
         * Examples
-          * иккӗ: [i kː ɛ]
           * иккен: [i kː e n]
           * якку: [j ɑ kː u]
           * сакки: [s ɑ kː i]
+          * иккӗ: [i kː ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -174,10 +174,10 @@
       * ts
         * Occurances: 244
         * Examples
-          * наци: [n ɑ ts i]
+          * сутса: [s u ts ɑ]
+          * сцена: [s ts e n ɑ]
+          * иртсе: [i r ts e]
           * хутса: [χ u ts ɑ]
-          * принц: [p r i n ts]
-          * ҫитсе: [ɕ i ts e]
       * tsː
         * Occurances: 1
         * Examples
@@ -187,10 +187,10 @@
       * tʃ
         * Occurances: 1008
         * Examples
-          * енчи: [j e n tʃ i]
-          * енчен: [j e n tʃ e n]
-          * чутах: [tʃ u t ɑ χ]
-          * кибеч: [k i b e tʃ]
+          * енче: [j e n tʃ e]
+          * хучӗ: [χ u tʃ ɛ]
+          * сарчӗ: [s ɑ r tʃ ɛ]
+          * чирӗн: [tʃ i r ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -208,58 +208,58 @@
       * s
         * Occurances: 2518
         * Examples
-          * унсӑр: [u n s ʌ r]
-          * курсӗ: [k u r s ɛ]
-          * сикме: [s i k m e]
-          * тухса: [t u χ s ɑ]
+          * усал: [u s ɑ l]
+          * ҫырас: [ɕ ɯ r ɑ s]
+          * ҫӳрес: [ɕ y r e s]
+          * суя: [s u j ɑ]
       * sː
         * Occurances: 141
         * Examples
+          * касса: [k ɑ sː ɑ]
           * пӑсса: [p ʌ sː ɑ]
           * сасси: [s ɑ sː i]
-          * миасс: [m i ɑ sː]
-          * усси: [u sː i]
+          * сиссе: [s i sː e]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 979
         * Examples
-          * амӑшӗ: [ɑ m ʌ ʃ ɛ]
-          * шутлӑ: [ʃ u t l ʌ]
-          * лаша: [l ɑ ʃ ɑ]
-          * чӑваш: [tʃ ʌ v ɑ ʃ]
+          * шӑрӑх: [ʃ ʌ r ʌ χ]
+          * хушнӑ: [χ u ʃ n ʌ]
+          * лешӗ: [l e ʃ ɛ]
+          * шутра: [ʃ u t r ɑ]
       * ʃː
         * Occurances: 22
         * Examples
           * ашшӗн: [ɑ ʃː ɛ n]
-          * ӑшшӑн: [ʌ ʃː ʌ n]
-          * йышши: [j ɯ ʃː i]
           * ашшӗ: [ɑ ʃː ɛ]
+          * хушши: [χ u ʃː i]
+          * йышши: [j ɯ ʃː i]
     * voiced
       * ʒ
         * Occurances: 69
         * Examples
-          * джинс: [d ʒ i n s]
-          * жюрие: [ʒ j u r i e]
           * жанра: [ʒ ɑ n r ɑ]
+          * жюрие: [ʒ j u r i e]
+          * джинс: [d ʒ i n s]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 1240
         * Examples
-          * уҫрӑм: [u ɕ r ʌ m]
-          * ҫеҫ-и: [ɕ e ɕ i]
-          * ҫӑл: [ɕ ʌ l]
-          * куҫа: [k u ɕ ɑ]
+          * ҫӗре: [ɕ ɛ r e]
+          * ҫути: [ɕ u t i]
+          * хуҫи: [χ u ɕ i]
+          * ҫырас: [ɕ ɯ r ɑ s]
       * ɕː
         * Occurances: 177
         * Examples
-          * ҫӗҫҫе: [ɕ ɛ ɕː e]
           * шыҫҫа: [ʃ ɯ ɕː ɑ]
           * ҫӗҫҫи: [ɕ ɛ ɕː i]
-          * теҫҫӗ: [t e ɕː ɛ]
+          * чӗҫҫӗ: [tʃ ɛ ɕː ɛ]
+          * ҫӗҫҫе: [ɕ ɛ ɕː e]
     ```
   - ```{ipa_cell}
     ```
@@ -273,18 +273,18 @@
       * f
         * Occurances: 105
         * Examples
-          * шарф: [ʃ ɑ r f]
-          * фильм: [f i l m]
           * фенри: [f e n r i]
           * финал: [f i n ɑ l]
+          * афган: [ɑ f g ɑ n]
+          * кофе: [k o f e]
     * voiced
       * v
         * Occurances: 1172
         * Examples
-          * ывӑла: [ɯ v ʌ l ɑ]
-          * вӑйӑ: [v ʌ j ʌ]
-          * вӑлах: [v ʌ l ɑ χ]
-          * вара: [v ɑ r ɑ]
+          * тӑвӗҫ: [t ʌ v ɛ ɕ]
+          * уяв: [u j ɑ v]
+          * йывӑҫ: [j ɯ v ʌ ɕ]
+          * вӗҫме: [v ɛ ɕ m e]
       * vː
         * Occurances: 2
         * Examples
@@ -302,10 +302,10 @@
       * χ
         * Occurances: 1480
         * Examples
-          * хупах: [χ u p ɑ χ]
-          * пӑхма: [p ʌ χ m ɑ]
-          * халах: [χ ɑ l ɑ χ]
-          * хӗрне: [χ ɛ r n e]
+          * хуҫи: [χ u ɕ i]
+          * хучӗ: [χ u tʃ ɛ]
+          * шӑрӑх: [ʃ ʌ r ʌ χ]
+          * хакӗ: [χ ɑ k ɛ]
       * χː
         * Occurances: 6
         * Examples
@@ -324,10 +324,10 @@
       * j
         * Occurances: 1036
         * Examples
-          * якур: [j ɑ k u r]
-          * люк: [l j u k]
-          * енчи: [j e n tʃ i]
-          * йӗпе: [j ɛ p e]
+          * енче: [j e n tʃ e]
+          * юлнӑ: [j u l n ʌ]
+          * суя: [s u j ɑ]
+          * епле: [j e p l e]
       * jː
         * Occurances: 1
         * Examples
@@ -346,17 +346,17 @@
       * r
         * Occurances: 3892
         * Examples
-          * якур: [j ɑ k u r]
-          * унсӑр: [u n s ʌ r]
-          * курсӗ: [k u r s ɛ]
-          * тери: [t e r i]
+          * ҫӗре: [ɕ ɛ r e]
+          * эалра: [e ɑ l r ɑ]
+          * игорь: [i g o r]
+          * ҫырас: [ɕ ɯ r ɑ s]
       * rː
         * Occurances: 48
         * Examples
+          * юрри: [j u rː i]
+          * вӑрри: [v ʌ rː i]
           * тӳрре: [t y rː e]
           * пӗрре: [p ɛ rː e]
-          * юрра: [j u rː ɑ]
-          * хӗрри: [χ ɛ rː i]
     ```
   - ```{ipa_cell}
     ```
@@ -376,17 +376,17 @@
       * l
         * Occurances: 2488
         * Examples
-          * ывӑла: [ɯ v ʌ l ɑ]
-          * люк: [l j u k]
-          * халах: [χ ɑ l ɑ χ]
-          * ялта: [j ɑ l t ɑ]
+          * усал: [u s ɑ l]
+          * эалра: [e ɑ l r ɑ]
+          * мала: [m ɑ l ɑ]
+          * юлнӑ: [j u l n ʌ]
       * lː
         * Occurances: 313
         * Examples
           * палли: [p ɑ lː i]
-          * вилли: [v i lː i]
           * алла: [ɑ lː ɑ]
-          * кӳлле: [k y lː e]
+          * келли: [k e lː i]
+          * балл: [b ɑ lː]
     ```
   - ```{ipa_cell}
     ```
@@ -418,17 +418,17 @@
       * i
         * Occurances: 2515
         * Examples
-          * енчи: [j e n tʃ i]
-          * тути: [t u t i]
-          * тери: [t e r i]
-          * иртӗ: [i r t ɛ]
+          * ҫути: [ɕ u t i]
+          * кӗпи: [k ɛ p i]
+          * хуҫи: [χ u ɕ i]
+          * игорь: [i g o r]
     * rounded
       * y
         * Occurances: 235
         * Examples
-          * ӳкрӗм: [y k r ɛ m]
-          * тӳрре: [t y rː e]
-          * тӳпе: [t y p e]
+          * ҫӳрес: [ɕ y r e s]
+          * ӳте: [y t e]
+          * пӳлӗм: [p y l ɛ m]
           * ӳсӗмӗ: [y s ɛ m ɛ]
     ```
   - ```{ipa_cell}
@@ -442,18 +442,18 @@
       * ɯ
         * Occurances: 470
         * Examples
-          * ывӑла: [ɯ v ʌ l ɑ]
-          * хырӑм: [χ ɯ r ʌ m]
-          * пырса: [p ɯ r s ɑ]
-          * сырпа: [s ɯ r p ɑ]
+          * ҫырас: [ɕ ɯ r ɑ s]
+          * тытӗ: [t ɯ t ɛ]
+          * йывӑҫ: [j ɯ v ʌ ɕ]
+          * арҫын: [ɑ r ɕ ɯ n]
     * rounded
       * u
         * Occurances: 1944
         * Examples
-          * якур: [j ɑ k u r]
-          * люк: [l j u k]
-          * унсӑр: [u n s ʌ r]
-          * курсӗ: [k u r s ɛ]
+          * усал: [u s ɑ l]
+          * ҫути: [ɕ u t i]
+          * хуҫи: [χ u ɕ i]
+          * юлнӑ: [j u l n ʌ]
     ```
 * -
   - ```{ipa_cell}
@@ -472,10 +472,10 @@
       * e
         * Occurances: 4911
         * Examples
-          * енчи: [j e n tʃ i]
-          * йӗпе: [j ɛ p e]
-          * тери: [t e r i]
-          * пек: [p e k]
+          * ҫӗре: [ɕ ɛ r e]
+          * эалра: [e ɑ l r ɑ]
+          * енче: [j e n tʃ e]
+          * ҫӳрес: [ɕ y r e s]
     ```
   - ```{ipa_cell}
     ```
@@ -488,10 +488,10 @@
       * o
         * Occurances: 837
         * Examples
-          * автор: [ɑ v t o r]
+          * игорь: [i g o r]
+          * блока: [b l o k ɑ]
+          * герой: [g e r o j]
           * ионов: [i o n o v]
-          * фончӗ: [f o n tʃ ɛ]
-          * табло: [t ɑ b l o]
     ```
 * -
   - ```{ipa_cell}
@@ -510,10 +510,10 @@
       * ɛ
         * Occurances: 2795
         * Examples
-          * курсӗ: [k u r s ɛ]
-          * йӗпе: [j ɛ p e]
-          * иртӗ: [i r t ɛ]
-          * ӳкрӗм: [y k r ɛ m]
+          * ҫӗре: [ɕ ɛ r e]
+          * кӗпи: [k ɛ p i]
+          * хучӗ: [χ u tʃ ɛ]
+          * кирлӗ: [k i r l ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -526,10 +526,10 @@
       * ʌ
         * Occurances: 3120
         * Examples
-          * ывӑла: [ɯ v ʌ l ɑ]
-          * унсӑр: [u n s ʌ r]
-          * пӑсса: [p ʌ sː ɑ]
-          * уҫрӑм: [u ɕ r ʌ m]
+          * юлнӑ: [j u l n ʌ]
+          * утнӑ: [u t n ʌ]
+          * сӑрӑ: [s ʌ r ʌ]
+          * шӑрӑх: [ʃ ʌ r ʌ χ]
     ```
 * -
   - ```{ipa_cell}
@@ -556,9 +556,9 @@
       * ɑ
         * Occurances: 6363
         * Examples
-          * ывӑла: [ɯ v ʌ l ɑ]
-          * якур: [j ɑ k u r]
-          * хупах: [χ u p ɑ χ]
-          * пӑсса: [p ʌ sː ɑ]
+          * усал: [u s ɑ l]
+          * эалра: [e ɑ l r ɑ]
+          * мала: [m ɑ l ɑ]
+          * ҫырас: [ɕ ɯ r ɑ s]
     ```
 ``````

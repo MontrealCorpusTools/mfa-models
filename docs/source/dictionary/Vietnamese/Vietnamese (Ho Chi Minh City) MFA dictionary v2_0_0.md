@@ -51,10 +51,10 @@
       * m
         * Occurances: 654
         * Examples
-          * mốc: [m ɔ˦˥ kp]
-          * thám: [tʰ aː˦˥ m]
-          * nộm: [n oː˨˩˨ m]
-          * lầm: [l ə˨˩ m]
+          * mây: [m ə˨˨ j]
+          * đem: [ɗ ɛː˨˨ m]
+          * mầu: [m ə˨˩ w]
+          * nhăm: [ɲ a˨˨ m]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +63,10 @@
       * n
         * Occurances: 416
         * Examples
-          * nức: [n ɨ˦˥ k]
-          * năng: [n a˨˨ ŋ]
-          * nộm: [n oː˨˩˨ m]
-          * nán: [n aː˦˥ ŋ]
+          * nhành: [ɲ a˨˩ n]
+          * nói: [n ɔː˦˥ j]
+          * sing: [s ɨ˨˨ n]
+          * nào: [n aː˨˩ w]
     ```
   - ```{ipa_cell}
     ```
@@ -75,20 +75,20 @@
       * ɲ
         * Occurances: 185
         * Examples
-          * nhẩm: [ɲ ə˨˩˦ m]
-          * nhảm: [ɲ aː˨˩˦ m]
-          * nhấc: [ɲ ə˦˥ k]
-          * nhiên: [ɲ iː˨˨ ŋ]
+          * nhành: [ɲ a˨˩ n]
+          * nhéo: [ɲ ɛː˦˥ w]
+          * nhăm: [ɲ a˨˨ m]
+          * nho: [ɲ ɔː˨˨]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1145
         * Examples
-          * ken: [k ɛː˨˨ ŋ]
-          * vắng: [v a˦˥ ŋ]
-          * hạn: [h aː˨˩˨ ŋ]
-          * ngũ: [ŋ u˨˩˦]
+          * phàn: [f aː˨˩ ŋ]
+          * rốn: [r o˦˥ ŋ]
+          * ngà: [ŋ aː˨˩]
+          * ngời: [ŋ əː˨˩ j]
     ```
   - ```{ipa_cell}
     ```
@@ -98,10 +98,10 @@
       * p
         * Occurances: 197
         * Examples
-          * tợp: [t əː˨˩˨ p]
-          * dập: [j ə˨˩˨ p]
-          * búp: [ɓ ɨ˦˥ p]
-          * nộp: [n oː˨˩˨ p]
+          * bẹp: [ɓ ɛː˨˩˨ p]
+          * gấp: [ɡ ə˦˥ p]
+          * phập: [f ə˨˩˨ p]
+          * cạp: [k aː˨˩˨ p]
     ```
   - ```{ipa_cell}
     ```
@@ -110,58 +110,58 @@
       * t
         * Occurances: 415
         * Examples
-          * tợn: [t əː˨˩˨ ŋ]
-          * tẹo: [t ɛː˨˩˨ w]
-          * tợp: [t əː˨˩˨ p]
-          * xuýt: [s w ɨ˦˥ t]
+          * tường: [t ɨː˨˩ ŋ]
+          * tãi: [t aː˨˩˦ j]
+          * tiều: [t iː˨˩ w]
+          * đít: [ɗ ɨ˦˥ t]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈ
         * Occurances: 159
         * Examples
-          * trát: [ʈ aː˦˥ k]
-          * trang: [ʈ aː˨˨ ŋ]
-          * trĩ: [ʈ i˨˩˦]
-          * trườn: [ʈ ɨː˨˩ ŋ]
+          * truất: [ʈ w ə˦˥ k]
+          * trồ: [ʈ oː˨˩]
+          * trệ: [ʈ eː˨˩˨]
+          * trá: [ʈ aː˦˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * c
         * Occurances: 233
         * Examples
-          * chạc: [c aː˨˩˨ k]
-          * chúi: [c u˦˥ j]
-          * chẩn: [c ə˨˩˦ ŋ]
-          * chèn: [c ɛː˨˩ ŋ]
+          * chong: [c ɔ˨˨ ŋm]
+          * chàm: [c aː˨˩ m]
+          * chúc: [c u˦˥ kp]
+          * chạp: [c aː˨˩˨ p]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 765
         * Examples
-          * biếc: [ɓ iː˦˥ k]
-          * bát: [ɓ aː˦˥ k]
-          * chạc: [c aː˨˩˨ k]
-          * ken: [k ɛː˨˨ ŋ]
+          * truất: [ʈ w ə˦˥ k]
+          * lạc: [l aː˨˩˨ k]
+          * còn: [k ɔː˨˩ ŋ]
+          * xét: [s ɛː˦˥ k]
     * voiced
       * ɡ
         * Occurances: 132
         * Examples
-          * gặng: [ɡ a˨˩˨ ŋ]
-          * gồng: [ɡ ɔ˨˩ ŋm]
-          * ghen: [ɡ ɛː˨˨ ŋ]
-          * góc: [ɡ ɔ˦˥ kp]
+          * gấp: [ɡ ə˦˥ p]
+          * gạc: [ɡ aː˨˩˨ k]
+          * gôm: [ɡ oː˨˨ m]
+          * gọn: [ɡ ɔː˨˩˨ ŋ]
     ```
   - ```{ipa_cell}
     * other
       * ʔ
         * Occurances: 189
         * Examples
-          * ước: [ʔ ɨː˦˥ k]
-          * ướp: [ʔ ɨː˦˥ p]
-          * yểm: [ʔ iː˨˩˦ m]
-          * ống: [ʔ ɔ˦˥ ŋm]
+          * yêu: [ʔ iː˨˨ w]
+          * ễnh: [ʔ əː˨˩˦ n]
+          * yên: [ʔ iː˨˨ ŋ]
+          * yến: [ʔ iː˦˥ ŋ]
     ```
 * - {submanner}`Aspirated`
   - ```{ipa_cell}
@@ -173,10 +173,10 @@
       * tʰ
         * Occurances: 227
         * Examples
-          * thám: [tʰ aː˦˥ m]
-          * thùa: [tʰ uə˨˩]
-          * thiến: [tʰ iː˦˥ ŋ]
-          * thịch: [tʰ ɨ˨˩˨ t]
+          * thôn: [tʰ o˨˨ ŋ]
+          * thừ: [tʰ ɨ˨˩]
+          * thủy: [tʰ u˨˩˦ j]
+          * thẳm: [tʰ a˨˩˦ m]
     ```
   - ```{ipa_cell}
     ```
@@ -192,10 +192,10 @@
       * ɓ
         * Occurances: 266
         * Examples
-          * biếc: [ɓ iː˦˥ k]
-          * bát: [ɓ aː˦˥ k]
-          * bão: [ɓ aː˨˩˦ w]
-          * bĩu: [ɓ i˨˩˦ w]
+          * bẹn: [ɓ ɛː˨˩˨ ŋ]
+          * bẹp: [ɓ ɛː˨˩˨ p]
+          * beo: [ɓ ɛː˨˨ w]
+          * biệt: [ɓ iː˨˩˨ k]
     ```
   - ```{ipa_cell}
     ```
@@ -204,10 +204,10 @@
       * ɗ
         * Occurances: 252
         * Examples
-          * đun: [ɗ u˨˨ ŋm]
-          * đây: [ɗ ə˨˨ j]
-          * đơm: [ɗ əː˨˨ m]
-          * đảo: [ɗ aː˨˩˦ w]
+          * đem: [ɗ ɛː˨˨ m]
+          * đào: [ɗ aː˨˩ w]
+          * đít: [ɗ ɨ˦˥ t]
+          * đính: [ɗ ɨ˦˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -227,10 +227,10 @@
       * s
         * Occurances: 337
         * Examples
-          * sáu: [s a˦˥ w]
-          * xốn: [s o˦˥ ŋ]
-          * xòa: [s w aː˨˩]
-          * sởi: [s əː˨˩˦ j]
+          * soài: [s w aː˨˩ j]
+          * sửu: [s ɨ˨˩˦ w]
+          * sing: [s ɨ˨˨ n]
+          * xiên: [s iː˨˨ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -248,18 +248,18 @@
       * f
         * Occurances: 121
         * Examples
-          * phút: [f u˦˥ kp]
-          * phệ: [f eː˨˩˨]
-          * phu: [f u˨˨]
-          * phỉnh: [f ɨ˨˩˦ n]
+          * phàn: [f aː˨˩ ŋ]
+          * phan: [f aː˨˨ ŋ]
+          * phập: [f ə˨˩˨ p]
+          * phao: [f aː˨˨ w]
     * voiced
       * v
         * Occurances: 188
         * Examples
-          * vài: [v aː˨˩ j]
-          * vắng: [v a˦˥ ŋ]
-          * vón: [v ɔː˦˥ ŋ]
-          * vượng: [v ɨː˨˩˨ ŋ]
+          * vui: [v u˨˨ j]
+          * vong: [v ɔ˨˨ ŋm]
+          * vặn: [v a˨˩˨ ŋ]
+          * vồng: [v ɔ˨˩ ŋm]
     ```
   - ```{ipa_cell}
     ```
@@ -272,20 +272,20 @@
       * x
         * Occurances: 158
         * Examples
-          * khuê: [x w eː˨˨]
+          * khoá: [x w aː˦˥]
           * khay: [x a˨˨ j]
-          * khuất: [x w ə˦˥ k]
-          * khóc: [x ɔ˦˥ kp]
+          * khỏ: [x ɔː˨˩˦]
+          * khơi: [x əː˨˨ j]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 256
         * Examples
-          * hột: [h o˨˩˨ k]
-          * hạn: [h aː˨˩˨ ŋ]
-          * hụi: [h u˨˩˨ j]
-          * hẹn: [h ɛː˨˩˨ ŋ]
+          * hước: [h ɨː˦˥ k]
+          * hình: [h ɨ˨˩ n]
+          * hời: [h əː˨˩ j]
+          * hụt: [h u˨˩˨ kp]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -301,10 +301,10 @@
       * j
         * Occurances: 898
         * Examples
-          * chúi: [c u˦˥ j]
-          * vài: [v aː˨˩ j]
-          * dựa: [j ɨə˨˩˨]
-          * lay: [l a˨˨ j]
+          * ngời: [ŋ əː˨˩ j]
+          * rái: [r aː˦˥ j]
+          * lũy: [l u˨˩˦ j]
+          * nói: [n ɔː˦˥ j]
     ```
   - ```{ipa_cell}
     ```
@@ -320,10 +320,10 @@
       * r
         * Occurances: 205
         * Examples
-          * rút: [r u˦˥ kp]
-          * rướn: [r ɨː˦˥ ŋ]
-          * rừng: [r ɨ˨˩ ŋ]
-          * rằng: [r a˨˩ ŋ]
+          * rốn: [r o˦˥ ŋ]
+          * rái: [r aː˦˥ j]
+          * riệu: [r iː˨˩˨ w]
+          * râm: [r ə˨˨ m]
     ```
   - ```{ipa_cell}
     ```
@@ -343,10 +343,10 @@
       * l
         * Occurances: 290
         * Examples
-          * lọc: [l ɔ˨˩˨ kp]
-          * lay: [l a˨˨ j]
-          * lõi: [l ɔː˨˩˦ j]
-          * lòng: [l ɔ˨˩ ŋm]
+          * lũy: [l u˨˩˦ j]
+          * lẩn: [l ə˨˩˦ ŋ]
+          * lẫy: [l ə˨˩˦ j]
+          * lạc: [l aː˨˩˨ k]
     ```
   - ```{ipa_cell}
     ```
@@ -378,17 +378,17 @@
       * i
         * Occurances: 221
         * Examples
-          * nhím: [ɲ i˦˥ m]
-          * trĩ: [ʈ i˨˩˦]
-          * chỉ: [c i˨˩˦]
-          * xíu: [s i˦˥ w]
+          * phị: [f i˨˩˨]
+          * vịm: [v i˨˩˨ m]
+          * chị: [c i˨˩˨]
+          * chí: [c i˦˥]
       * iː
         * Occurances: 278
         * Examples
-          * nhiên: [ɲ iː˨˨ ŋ]
-          * biếng: [ɓ iː˦˥ ŋ]
-          * niêm: [n iː˨˨ m]
-          * yểu: [ʔ iː˨˩˦ w]
+          * tiểng: [t iː˨˩˦ ŋ]
+          * xiên: [s iː˨˨ ŋ]
+          * chiêu: [c iː˨˨ w]
+          * tuyển: [t w iː˨˩˦ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -397,17 +397,17 @@
       * ɨ
         * Occurances: 378
         * Examples
-          * vừng: [v ɨ˨˩ ŋ]
-          * rừng: [r ɨ˨˩ ŋ]
-          * dức: [j ɨ˦˥ k]
-          * suỵt: [s w ɨ˨˩˨ t]
+          * sing: [s ɨ˨˨ n]
+          * từng: [t ɨ˨˩ ŋ]
+          * thư: [tʰ ɨ˨˨]
+          * nhử: [ɲ ɨ˨˩˦]
       * ɨː
         * Occurances: 156
         * Examples
-          * rưỡi: [r ɨː˨˩˦ j]
-          * bươu: [ɓ ɨː˨˨ w]
-          * rưởi: [r ɨː˨˩˦ j]
-          * lưỡi: [l ɨː˨˩˦ j]
+          * bướu: [ɓ ɨː˦˥ w]
+          * ngước: [ŋ ɨː˦˥ k]
+          * bưởi: [ɓ ɨː˨˩˦ j]
+          * vươn: [v ɨː˨˨ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -416,17 +416,17 @@
       * u
         * Occurances: 331
         * Examples
-          * lũng: [l u˨˩˦ ŋm]
-          * vung: [v u˨˨ ŋm]
-          * khủng: [x u˨˩˦ ŋm]
-          * chúi: [c u˦˥ j]
+          * thui: [tʰ u˨˨ j]
+          * hụt: [h u˨˩˨ kp]
+          * chung: [c u˨˨ ŋm]
+          * vui: [v u˨˨ j]
       * uː
         * Occurances: 96
         * Examples
-          * muỗi: [m uː˨˩˦ j]
-          * tuổi: [t uː˨˩˦ j]
-          * chuỗi: [c uː˨˩˦ j]
-          * uôn: [ʔ uː˨˨ ŋ]
+          * đuông: [ɗ uː˨˨ ŋ]
+          * muộn: [m uː˨˩˨ ŋ]
+          * đuôi: [ɗ uː˨˨ j]
+          * chuối: [c uː˦˥ j]
     ```
 * -
   - ```{ipa_cell}
@@ -445,10 +445,10 @@
       * eː
         * Occurances: 127
         * Examples
-          * trề: [ʈ eː˨˩]
-          * nghề: [ŋ eː˨˩]
-          * mếu: [m eː˦˥ w]
-          * phệ: [f eː˨˩˨]
+          * phễu: [f eː˨˩˦ w]
+          * giễu: [j eː˨˩˦ w]
+          * trễ: [ʈ eː˨˩˦]
+          * ghế: [ɡ eː˦˥]
     ```
   - ```{ipa_cell}
     ```
@@ -461,17 +461,17 @@
       * o
         * Occurances: 76
         * Examples
-          * bồn: [ɓ o˨˩ ŋ]
-          * chột: [c o˨˩˨ k]
-          * khôn: [x o˨˨ ŋ]
-          * cồn: [k o˨˩ ŋ]
+          * đồn: [ɗ o˨˩ ŋ]
+          * chồn: [c o˨˩ ŋ]
+          * ngôn: [ŋ o˨˨ ŋ]
+          * tổn: [t o˨˩˦ ŋ]
       * oː
         * Occurances: 191
         * Examples
-          * ngồi: [ŋ oː˨˩ j]
-          * phổ: [f oː˨˩˦]
-          * tội: [t oː˨˩˨ j]
-          * khổ: [x oː˨˩˦]
+          * nhồi: [ɲ oː˨˩ j]
+          * trộm: [ʈ oː˨˩˨ m]
+          * cốp: [k oː˦˥ p]
+          * mồi: [m oː˨˩ j]
     ```
 * -
   - ```{ipa_cell}
@@ -483,17 +483,17 @@
       * ə
         * Occurances: 428
         * Examples
-          * lầm: [l ə˨˩ m]
-          * lẫy: [l ə˨˩˦ j]
-          * bậc: [ɓ ə˨˩˨ k]
-          * tần: [t ə˨˩ ŋ]
+          * vẫy: [v ə˨˩˦ j]
+          * lẫn: [l ə˨˩˦ ŋ]
+          * mây: [m ə˨˨ j]
+          * truất: [ʈ w ə˦˥ k]
       * əː
         * Occurances: 337
         * Examples
-          * chớm: [c əː˦˥ m]
-          * tếch: [t əː˦˥ t]
-          * hờn: [h əː˨˩ ŋ]
-          * giở: [j əː˨˩˦]
+          * ngời: [ŋ əː˨˩ j]
+          * uên: [w əː˨˨ n]
+          * bởi: [ɓ əː˨˩˦ j]
+          * giờ: [j əː˨˩]
     ```
   - ```{ipa_cell}
     ```
@@ -505,10 +505,10 @@
       * ɛː
         * Occurances: 307
         * Examples
-          * nẻo: [n ɛː˨˩˦ w]
-          * kèn: [k ɛː˨˩ ŋ]
-          * loè: [l w ɛː˨˩]
-          * chèn: [c ɛː˨˩ ŋ]
+          * kẽm: [k ɛː˨˩˦ m]
+          * nghén: [ŋ ɛː˦˥ ŋ]
+          * dẹt: [j ɛː˨˩˨ k]
+          * nhéo: [ɲ ɛː˦˥ w]
     ```
   - ```{ipa_cell}
     ```
@@ -521,17 +521,17 @@
       * ɔ
         * Occurances: 212
         * Examples
-          * góc: [ɡ ɔ˦˥ kp]
-          * bọc: [ɓ ɔ˨˩˨ kp]
           * nong: [n ɔ˨˨ ŋm]
-          * kong: [k ɔ˨˨ ŋm]
+          * trốc: [ʈ ɔ˦˥ kp]
+          * cống: [k ɔ˦˥ ŋm]
+          * quốc: [w ɔ˦˥ kp]
       * ɔː
         * Occurances: 271
         * Examples
-          * ngoi: [ŋ ɔː˨˨ j]
-          * bọp: [ɓ ɔː˨˩˨ p]
-          * tọt: [t ɔː˨˩˨ k]
-          * hòn: [h ɔː˨˩ ŋ]
+          * đỏm: [ɗ ɔː˨˩˦ m]
+          * gói: [ɡ ɔː˦˥ j]
+          * dọn: [j ɔː˨˩˨ ŋ]
+          * phọt: [f ɔː˨˩˨ k]
     ```
 * -
   - ```{ipa_cell}
@@ -554,17 +554,17 @@
       * a
         * Occurances: 481
         * Examples
-          * vắng: [v a˦˥ ŋ]
-          * mãu: [m a˨˩˦ w]
-          * gặng: [ɡ a˨˩˨ ŋ]
-          * năng: [n a˨˨ ŋ]
+          * bặt: [ɓ a˨˩˨ k]
+          * hoẵng: [h w a˨˩˦ ŋ]
+          * giảnh: [j a˨˩˦ n]
+          * giành: [j a˨˩ n]
       * aː
         * Occurances: 783
         * Examples
-          * nhảm: [ɲ aː˨˩˦ m]
-          * hãm: [h aː˨˩˦ m]
-          * thám: [tʰ aː˦˥ m]
-          * phạt: [f aː˨˩˨ k]
+          * khoá: [x w aː˦˥]
+          * lạc: [l aː˨˩˨ k]
+          * phàn: [f aː˨˩ ŋ]
+          * tảo: [t aː˨˩˦ w]
     ```
   - ```{ipa_cell}
     ```

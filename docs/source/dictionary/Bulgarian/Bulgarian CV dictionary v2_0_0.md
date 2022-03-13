@@ -50,10 +50,10 @@
       * m
         * Occurances: 1667
         * Examples
-          * мляко: [m ɫ j a k o]
-          * мрат: [m r a t]
-          * тема: [t e m a]
-          * кажем: [k a ʒ e m]
+          * могат: [m o ɡ a t]
+          * метла: [m e t ɫ a]
+          * ума: [u m a]
+          * знам: [z n a m]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@
       * n
         * Occurances: 4262
         * Examples
-          * над: [n a d]
-          * вярно: [v j a r n o]
-          * дни: [d n i]
-          * панко: [p a n k o]
+          * одрин: [o d r i n]
+          * плюна: [p ɫ j u n a]
+          * хасан: [x a s a n]
+          * знам: [z n a m]
       * nː
         * Occurances: 42
         * Examples
@@ -83,18 +83,18 @@
       * p
         * Occurances: 2437
         * Examples
-          * топка: [t o p k a]
-          * пари: [p a r i]
-          * панко: [p a n k o]
-          * спят: [s p j a t]
+          * пръв: [p r ɤ v]
+          * плюна: [p ɫ j u n a]
+          * птица: [p t i ts a]
+          * псето: [p s e t o]
     * voiced
       * b
         * Occurances: 1273
         * Examples
-          * бесът: [b e s ɤ t]
-          * банки: [b a n k i]
-          * бяхме: [b j a x m e]
-          * добри: [d o b r i]
+          * бави: [b a v i]
+          * бае: [b a e]
+          * обзе: [o b z e]
+          * бъде: [b ɤ d e]
     ```
   - ```{ipa_cell}
     ```
@@ -103,23 +103,23 @@
       * t
         * Occurances: 4835
         * Examples
-          * текат: [t e k a t]
-          * фратю: [f r a t j u]
-          * утро: [u t r o]
-          * топка: [t o p k a]
+          * шест: [ʃ e s t]
+          * лют: [ɫ j u t]
+          * могат: [m o ɡ a t]
+          * отде: [o t d e]
       * tː
         * Occurances: 42
         * Examples
-          * оттук: [o tː u k]
           * оттам: [o tː a m]
+          * оттук: [o tː u k]
     * voiced
       * d
         * Occurances: 2036
         * Examples
-          * над: [n a d]
-          * дни: [d n i]
-          * рядко: [r j a d k o]
-          * твърд: [t v ɤ r d]
+          * изяде: [i z j a d e]
+          * одрин: [o d r i n]
+          * владя: [v ɫ a d j a]
+          * отде: [o t d e]
       * dː
         * Occurances: 1
         * Examples
@@ -133,18 +133,18 @@
       * k
         * Occurances: 2350
         * Examples
-          * текат: [t e k a t]
-          * мляко: [m ɫ j a k o]
-          * топка: [t o p k a]
-          * кажем: [k a ʒ e m]
+          * варак: [v a r a k]
+          * кръв: [k r ɤ v]
+          * точка: [t o tʃ k a]
+          * инак: [i n a k]
     * voiced
       * ɡ
         * Occurances: 1114
         * Examples
-          * мога: [m o ɡ a]
-          * герои: [ɡ e r o i]
-          * друго: [d r u ɡ o]
-          * брега: [b r e ɡ a]
+          * могат: [m o ɡ a t]
+          * гъста: [ɡ ɤ s t a]
+          * богат: [b o ɡ a t]
+          * негов: [n e ɡ o v]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -156,10 +156,10 @@
       * ts
         * Occurances: 524
         * Examples
-          * овца: [o v ts a]
-          * буца: [b u ts a]
-          * ценно: [ts e nː o]
-          * г-це: [ɡ ts e]
+          * птица: [p t i ts a]
+          * цели: [ts e ɫ i]
+          * рояци: [r o j a ts i]
+          * враца: [v r a ts a]
       * tsː
         * Occurances: 1
         * Examples
@@ -173,18 +173,18 @@
       * tʃ
         * Occurances: 1347
         * Examples
-          * влачи: [v ɫ a tʃ i]
-          * чаши: [tʃ a ʃ i]
-          * чете: [tʃ e t e]
-          * чел: [tʃ e ɫ]
+          * точка: [t o tʃ k a]
+          * щом: [ʃ tʃ o m]
+          * човек: [tʃ o v e k]
+          * бойчо: [b o j tʃ o]
     * voiced
       * dʒ
         * Occurances: 49
         * Examples
-          * индже: [i n dʒ e]
-          * ходжа: [x o dʒ a]
           * джеба: [dʒ e b a]
           * джоба: [dʒ o b a]
+          * индже: [i n dʒ e]
+          * джубе: [dʒ u b e]
     ```
   - ```{ipa_cell}
     ```
@@ -200,18 +200,18 @@
       * s
         * Occurances: 2833
         * Examples
-          * бесът: [b e s ɤ t]
-          * искам: [i s k a m]
-          * свива: [s v i v a]
-          * спят: [s p j a t]
+          * шест: [ʃ e s t]
+          * хасан: [x a s a n]
+          * сухо: [s u x o]
+          * псето: [p s e t o]
     * voiced
       * z
         * Occurances: 1700
         * Examples
-          * езди: [e z d i]
-          * земи: [z e m i]
-          * сляза: [s ɫ j a z a]
-          * лозя: [ɫ o z j a]
+          * изяде: [i z j a d e]
+          * знам: [z n a m]
+          * заем: [z a e m]
+          * обзе: [o b z e]
       * zː
         * Occurances: 4
         * Examples
@@ -222,18 +222,18 @@
       * ʃ
         * Occurances: 1150
         * Examples
-          * чаши: [tʃ a ʃ i]
-          * пиш: [p i ʃ]
-          * митуш: [m i t u ʃ]
-          * шумът: [ʃ u m ɤ t]
+          * шест: [ʃ e s t]
+          * лош: [ɫ o ʃ]
+          * щом: [ʃ tʃ o m]
+          * идеш: [i d e ʃ]
     * voiced
       * ʒ
         * Occurances: 574
         * Examples
-          * живо: [ʒ i v o]
-          * кажем: [k a ʒ e m]
-          * пожар: [p o ʒ a r]
-          * жеги: [ʒ e ɡ i]
+          * книжа: [k n i ʒ a]
+          * жадно: [ʒ a d n o]
+          * жажда: [ʒ a ʒ d a]
+          * жив: [ʒ i v]
     ```
   - ```{ipa_cell}
     ```
@@ -247,18 +247,18 @@
       * f
         * Occurances: 151
         * Examples
-          * фратю: [f r a t j u]
-          * факт: [f a k t]
-          * фърли: [f ɤ r ɫ i]
-          * пафти: [p a f t i]
+          * фана: [f a n a]
+          * фронт: [f r o n t]
+          * чифта: [tʃ i f t a]
+          * йосиф: [j o s i f]
     * voiced
       * v
         * Occurances: 3013
         * Examples
-          * влачи: [v ɫ a tʃ i]
-          * вярно: [v j a r n o]
-          * живо: [ʒ i v o]
-          * свива: [s v i v a]
+          * пръв: [p r ɤ v]
+          * владя: [v ɫ a d j a]
+          * варак: [v a r a k]
+          * кръв: [k r ɤ v]
     ```
   - ```{ipa_cell}
     ```
@@ -271,10 +271,10 @@
       * x
         * Occurances: 1039
         * Examples
-          * бяхме: [b j a x m e]
-          * ехо: [e x o]
-          * бухам: [b u x a m]
-          * глухо: [ɡ ɫ u x o]
+          * хасан: [x a s a n]
+          * сухо: [s u x o]
+          * ходил: [x o d i ɫ]
+          * дрехи: [d r e x i]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -290,10 +290,10 @@
       * j
         * Occurances: 1913
         * Examples
-          * фратю: [f r a t j u]
-          * мляко: [m ɫ j a k o]
-          * вярно: [v j a r n o]
-          * спят: [s p j a t]
+          * изяде: [i z j a d e]
+          * плюна: [p ɫ j u n a]
+          * лют: [ɫ j u t]
+          * владя: [v ɫ a d j a]
     ```
   - ```{ipa_cell}
     ```
@@ -307,10 +307,10 @@
       * r
         * Occurances: 3850
         * Examples
-          * фратю: [f r a t j u]
-          * утро: [u t r o]
-          * вярно: [v j a r n o]
-          * мрат: [m r a t]
+          * одрин: [o d r i n]
+          * пръв: [p r ɤ v]
+          * варак: [v a r a k]
+          * кръв: [k r ɤ v]
     ```
   - ```{ipa_cell}
     ```
@@ -328,10 +328,10 @@
       * ɫ
         * Occurances: 3081
         * Examples
-          * мляко: [m ɫ j a k o]
-          * алеи: [a ɫ e i]
-          * влачи: [v ɫ a tʃ i]
-          * ракла: [r a k ɫ a]
+          * плюна: [p ɫ j u n a]
+          * лют: [ɫ j u t]
+          * владя: [v ɫ a d j a]
+          * лош: [ɫ o ʃ]
       * ɫː
         * Occurances: 4
         * Examples
@@ -366,10 +366,10 @@
       * i
         * Occurances: 5760
         * Examples
-          * алеи: [a ɫ e i]
-          * влачи: [v ɫ a tʃ i]
-          * пари: [p a r i]
-          * дни: [d n i]
+          * изяде: [i z j a d e]
+          * одрин: [o d r i n]
+          * птица: [p t i ts a]
+          * бави: [b a v i]
       * iː
         * Occurances: 24
         * Examples
@@ -386,10 +386,10 @@
       * u
         * Occurances: 1461
         * Examples
-          * фратю: [f r a t j u]
-          * утро: [u t r o]
-          * нему: [n e m u]
-          * убедя: [u b e d j a]
+          * плюна: [p ɫ j u n a]
+          * лют: [ɫ j u t]
+          * ума: [u m a]
+          * сухо: [s u x o]
       * uː
         * Occurances: 1
         * Examples
@@ -411,16 +411,16 @@
       * e
         * Occurances: 5835
         * Examples
-          * текат: [t e k a t]
-          * алеи: [a ɫ e i]
-          * тема: [t e m a]
-          * кажем: [k a ʒ e m]
+          * изяде: [i z j a d e]
+          * шест: [ʃ e s t]
+          * отде: [o t d e]
+          * метла: [m e t ɫ a]
       * eː
         * Occurances: 30
         * Examples
-          * смее: [s m eː]
-          * пее: [p eː]
           * излее: [i z ɫ eː]
+          * пее: [p eː]
+          * живее: [ʒ i v eː]
           * пееше: [p eː ʃ e]
     ```
   - ```{ipa_cell}
@@ -434,10 +434,10 @@
       * o
         * Occurances: 5451
         * Examples
-          * мляко: [m ɫ j a k o]
-          * утро: [u t r o]
-          * топка: [t o p k a]
-          * вярно: [v j a r n o]
+          * одрин: [o d r i n]
+          * могат: [m o ɡ a t]
+          * отде: [o t d e]
+          * лош: [ɫ o ʃ]
       * oː
         * Occurances: 12
         * Examples
@@ -485,10 +485,10 @@
       * a
         * Occurances: 10283
         * Examples
-          * текат: [t e k a t]
-          * фратю: [f r a t j u]
-          * мляко: [m ɫ j a k o]
-          * алеи: [a ɫ e i]
+          * изяде: [i z j a d e]
+          * плюна: [p ɫ j u n a]
+          * владя: [v ɫ a d j a]
+          * могат: [m o ɡ a t]
       * aː
         * Occurances: 4
         * Examples

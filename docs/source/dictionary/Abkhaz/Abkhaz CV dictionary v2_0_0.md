@@ -53,10 +53,10 @@
       * m
         * Occurances: 639
         * Examples
-          * сумуд: [s w m w d]
-          * роума: [r a w m a]
-          * амзеи: [a m z a j]
-          * рымаз: [r ə m a z]
+          * амш: [a m ʃ]
+          * адам: [a d a m]
+          * шәымч: [ʃʷ ə m tʃʲ]
+          * амал: [a m a l]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@
       * n
         * Occurances: 850
         * Examples
-          * инеит: [j n a j tʼ]
-          * аниба: [a n j b a]
-          * дбаны: [d b a n ə]
-          * анааи: [a n a a j]
+          * дыҟан: [d ə qʼ a n]
+          * динс: [d j n s]
+          * ишаны: [j ʃ a n ə]
+          * инцәа: [j n ts w a]
     ```
   - ```{ipa_cell}
     ```
@@ -88,18 +88,18 @@
       * p
         * Occurances: 405
         * Examples
-          * ԥсы: [p s ə]
-          * иаԥну: [j a p n w]
-          * гәыԥ: [ɡʷ ə p]
-          * ҭыԥк: [t ə p kʼ]
+          * аҭыԥ: [a t ə p]
+          * аԥсы: [a p s ə]
+          * ԥшьба: [p ʃʲ b a]
+          * аԥхьа: [a p χʲ a]
     * voiced
       * b
         * Occurances: 329
         * Examples
-          * аниба: [a n j b a]
-          * дбаны: [d b a n ə]
-          * абар: [a b a r]
-          * абра: [a b r a]
+          * рбеит: [r b a j tʼ]
+          * абри: [a b r j]
+          * раб: [r a b]
+          * фба: [f b a]
     ```
   - ```{ipa_cell}
     ```
@@ -108,18 +108,18 @@
       * t
         * Occurances: 473
         * Examples
-          * ахаҭа: [a χ a t a]
-          * рҭиир: [r t j j r]
-          * еиҭах: [a j t a χ]
-          * иҭаны: [j t a n ə]
+          * аҭыԥ: [a t ə p]
+          * ҳарҭ: [ħ a r t]
+          * ахьҭа: [a χʲ t a]
+          * шәҭыҵ: [ʃʷ t ə tsʼ]
     * voiced
       * d
         * Occurances: 432
         * Examples
-          * сумуд: [s w m w d]
-          * рыдҵа: [r ə d tsʼ a]
-          * дбаны: [d b a n ə]
-          * адҵа: [a d tsʼ a]
+          * идҵа: [j d tsʼ a]
+          * дыҟан: [d ə qʼ a n]
+          * адам: [a d a m]
+          * динс: [d j n s]
     ```
   - ```{ipa_cell}
     ```
@@ -134,24 +134,24 @@
       * kʲ
         * Occurances: 44
         * Examples
-          * нызқь: [n ə z kʲ]
           * зқьы: [z kʲ ə]
           * ацқьа: [a ts kʲ a]
+          * нызқь: [n ə z kʲ]
     * voiced
       * ɡ
         * Occurances: 265
         * Examples
-          * иага: [j a ɡ a]
+          * угыл: [w ɡ ə l]
+          * ижәга: [j ʒʷ ɡ a]
           * грак: [ɡ r a kʼ]
-          * насгы: [n a s ɡ ə]
-          * аҩыга: [a ʡ ə ɡ a]
+          * агра: [a ɡ r a]
       * ɡʲ
         * Occurances: 301
         * Examples
-          * зегьы: [z a ɡʲ ə]
-          * зегь: [z a ɡʲ]
+          * рзгьы: [r z ɡʲ ə]
+          * уигьы: [w j ɡʲ ə]
           * дугьы: [d w ɡʲ ə]
-          * агьи: [a ɡʲ j]
+          * иагьа: [j a ɡʲ a]
     ```
   - ```{ipa_cell}
     ```
@@ -162,9 +162,9 @@
       * ʡ
         * Occurances: 228
         * Examples
-          * снаҩс: [s n a ʡ s]
-          * ҩыџьа: [ʡ ə dʒʲ a]
-          * уаҩы: [w a ʡ ə]
+          * ахшыҩ: [a χ ʃ ə ʡ]
+          * дуаҩ: [d w a ʡ]
+          * ҳҩит: [ħ ʡ j tʼ]
           * ҩба: [ʡ b a]
     ```
 * - {submanner}`Ejective`
@@ -173,10 +173,10 @@
       * pʼ
         * Occurances: 196
         * Examples
-          * имцуп: [j m ts w pʼ]
-          * ҳауп: [ħ a w pʼ]
-          * азоуп: [a z a w pʼ]
-          * ауп-: [a w pʼ]
+          * ауп: [a w pʼ]
+          * ҳнапы: [ħ n a pʼ ə]
+          * иоуп: [j a w pʼ]
+          * иоуп-: [j a w pʼ]
     ```
   - ```{ipa_cell}
     ```
@@ -185,9 +185,9 @@
       * tʼ
         * Occurances: 440
         * Examples
-          * инеит: [j n a j tʼ]
+          * рбеит: [r b a j tʼ]
+          * ҵаашт: [tsʼ a a ʃ tʼ]
           * ҳҩит: [ħ ʡ j tʼ]
-          * ҳауит: [ħ a w j tʼ]
           * поетк: [pʼ a a tʼ kʼ]
     ```
   - ```{ipa_cell}
@@ -203,10 +203,10 @@
       * kʼ
         * Occurances: 317
         * Examples
-          * ҵеик: [tsʼ a j kʼ]
-          * шәкы: [ʃʷ kʼ ə]
-          * ҭыԥк: [t ə p kʼ]
-          * аҭак: [a t a kʼ]
+          * ӡиаск: [dz j a s kʼ]
+          * акреи: [a kʼ r a j]
+          * динк: [d j n kʼ]
+          * кыбле: [kʼ ə b l a]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -217,10 +217,10 @@
       * qʼ
         * Occurances: 204
         * Examples
-          * уаҟа: [w a qʼ a]
-          * иҟоу: [j qʼ a w]
           * дыҟан: [d ə qʼ a n]
-          * баҟак: [b a qʼ a kʼ]
+          * уаҟа: [w a qʼ a]
+          * ҟазҵо: [qʼ a z tsʼ a]
+          * ҟалом: [qʼ a l a m]
     ```
   - ```{ipa_cell}
     ```
@@ -236,18 +236,18 @@
       * ts
         * Occurances: 410
         * Examples
-          * ацәа: [a ts w a]
-          * ицҟьа: [j ts qʲʼ a]
-          * имцуп: [j m ts w pʼ]
-          * мцуп: [m ts w pʼ]
+          * инцәа: [j n ts w a]
+          * ацара: [a ts a r a]
+          * иацҵа: [j a ts tsʼ a]
+          * мцала: [m ts a l a]
     * voiced
       * dz
         * Occurances: 285
         * Examples
           * ӡиаск: [dz j a s kʼ]
-          * аӡиас: [a dz j a s]
-          * иӡу: [j dz w]
-          * ӡатәк: [dz a tʷʼ kʼ]
+          * аӡы: [a dz ə]
+          * ауӡом: [a w dz a m]
+          * дуӡӡа: [d w dz dz a]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -256,23 +256,23 @@
         * Examples
           * аҽны: [a tʃ n ə]
           * иҽхәо: [j tʃ χʷ a]
-          * амахҽ: [a m a χ tʃ]
           * даҽа: [d a tʃ a]
+          * амахҽ: [a m a χ tʃ]
       * tʃʲ
         * Occurances: 61
         * Examples
-          * чҳаны: [tʃʲ ħ a n ə]
+          * шәымч: [ʃʷ ə m tʃʲ]
           * амчра: [a m tʃʲ r a]
+          * чҳа: [tʃʲ ħ a]
           * умчра: [w m tʃʲ r a]
-          * сымч: [s ə m tʃʲ]
     * voiced
       * dʒʲ
         * Occurances: 41
         * Examples
-          * ҳиџьр: [ħ j dʒʲ r]
+          * ҵеџьк: [tsʼ a dʒʲ kʼ]
           * џьара: [dʒʲ a r a]
           * ҩыџьа: [ʡ ə dʒʲ a]
-          * ҵеџьк: [tsʼ a dʒʲ kʼ]
+          * ҳиџьр: [ħ j dʒʲ r]
     ```
   - ```{ipa_cell}
     ```
@@ -294,26 +294,26 @@
       * tsʼ
         * Occurances: 348
         * Examples
-          * рыдҵа: [r ə d tsʼ a]
-          * адҵа: [a d tsʼ a]
-          * ҵеик: [tsʼ a j kʼ]
           * идҵа: [j d tsʼ a]
+          * адҵа: [a d tsʼ a]
+          * ҵаашт: [tsʼ a a ʃ tʼ]
+          * иацҵа: [j a ts tsʼ a]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃʲʼ
         * Occurances: 15
         * Examples
-          * ахәҷы: [a χʷ tʃʲʼ ə]
-          * амаҷ: [a m a tʃʲʼ]
           * маҷк: [m a tʃʲʼ kʼ]
+          * амаҷ: [a m a tʃʲʼ]
+          * ахәҷы: [a χʷ tʃʲʼ ə]
       * tʃʼ
         * Occurances: 93
         * Examples
+          * шәҿы: [ʃʷ tʃʼ ə]
+          * аҿы: [a tʃʼ ə]
           * шәҿи: [ʃʷ tʃʼ j]
-          * ахаҿы: [a χ a tʃʼ ə]
-          * иҿы: [j tʃʼ ə]
-          * зҿу: [z tʃʼ w]
+          * иҿыцу: [j tʃʼ ə ts w]
     ```
   - ```{ipa_cell}
     ```
@@ -335,42 +335,42 @@
       * s
         * Occurances: 373
         * Examples
-          * сумуд: [s w m w d]
-          * ԥсы: [p s ə]
-          * снаҩс: [s n a ʡ s]
-          * иусуф: [j w s w f]
+          * аҳәса: [a ħʷ s a]
+          * сзура: [s z w r a]
+          * ӡиаск: [dz j a s kʼ]
+          * динс: [d j n s]
     * voiced
       * z
         * Occurances: 1016
         * Examples
-          * рзы: [r z ə]
-          * хазы: [χ a z ə]
-          * иааиз: [j a a j z]
-          * зуаз: [z w a z]
+          * сзура: [s z w r a]
+          * ируз: [j r w z]
+          * зхо: [z χ a]
+          * зхы: [z χ ə]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 384
         * Examples
-          * ишаха: [j ʃ a χ a]
-          * ашаха: [a ʃ a χ a]
-          * реиԥш: [r a j p ʃ]
-          * лашоу: [l a ʃ a w]
+          * амш: [a m ʃ]
+          * зшо: [z ʃ a]
+          * имш: [j m ʃ]
+          * ахшыҩ: [a χ ʃ ə ʡ]
       * ʃʲ
         * Occurances: 168
         * Examples
-          * иашьа: [j a ʃʲ a]
-          * шьаиб: [ʃʲ a j b]
           * ԥшьба: [p ʃʲ b a]
-          * ишьҭа: [j ʃʲ t a]
+          * шәшьы: [ʃʷ ʃʲ ə]
+          * ршьит: [r ʃʲ j tʼ]
+          * шьаиб: [ʃʲ a j b]
       * ʃʷ
         * Occurances: 537
         * Examples
-          * шәҳәа: [ʃʷ ħʷ a]
+          * шәымч: [ʃʷ ə m tʃʲ]
+          * шәҿы: [ʃʷ tʃʼ ə]
+          * шәҭыҵ: [ʃʷ t ə tsʼ]
           * шәкы: [ʃʷ kʼ ə]
-          * шәҿи: [ʃʷ tʃʼ j]
-          * ишәфа: [j ʃʷ f a]
     * voiced
       * ʒ
         * Occurances: 7
@@ -379,15 +379,15 @@
       * ʒʲ
         * Occurances: 64
         * Examples
-          * бжьык: [b ʒʲ ə kʼ]
           * абжьы: [a b ʒʲ ə]
+          * бжьык: [b ʒʲ ə kʼ]
       * ʒʷ
         * Occurances: 108
         * Examples
-          * зажәа: [z a ʒʷ a]
-          * ижәуа: [j ʒʷ w a]
+          * ижәга: [j ʒʷ ɡ a]
           * ажә: [a ʒʷ]
-          * уажәы: [w a ʒʷ ə]
+          * ражәа: [r a ʒʷ a]
+          * жәбар: [ʒʷ b a r]
     ```
   - ```{ipa_cell}
     ```
@@ -407,9 +407,9 @@
       * f
         * Occurances: 17
         * Examples
+          * фба: [f b a]
           * иусуф: [j w s w f]
           * ишәфа: [j ʃʷ f a]
-          * фба: [f b a]
     * voiced
       * v
         * Occurances: 8
@@ -428,32 +428,32 @@
       * χ
         * Occurances: 607
         * Examples
-          * ахаҭа: [a χ a t a]
-          * ишаха: [j ʃ a χ a]
-          * хаҳә: [χ a ħʷ]
-          * ахаан: [a χ a a n]
+          * ахаҳә: [a χ a ħʷ]
+          * ауха: [a w χ a]
+          * зхо: [z χ a]
+          * лхы: [l χ ə]
       * χʲ
         * Occurances: 207
         * Examples
-          * иахьа: [j a χʲ a]
-          * ахьы: [a χʲ ə]
-          * сахь: [s a χʲ]
+          * уахь: [w a χʲ]
           * ахь: [a χʲ]
+          * улахь: [w l a χʲ]
+          * ахьҭа: [a χʲ t a]
       * χʷ
         * Occurances: 146
         * Examples
-          * иҽхәо: [j tʃ χʷ a]
-          * арахә: [a r a χʷ]
           * хәба: [χʷ b a]
+          * ахә: [a χʷ]
           * сыхә: [s ə χʷ]
+          * иҽхәо: [j tʃ χʷ a]
     * other
       * ʁ
         * Occurances: 36
         * Examples
-          * аӷба: [a ʁ b a]
-          * аӷари: [a ʁ a r j]
           * ргәаӷ: [r ɡʷ a ʁ]
-          * аӷра: [a ʁ r a]
+          * ҳаӷоу: [ħ a ʁ a w]
+          * иӷрам: [j ʁ r a m]
+          * аӷба: [a ʁ b a]
       * ʁʲ
         * Occurances: 22
         * Examples
@@ -466,17 +466,17 @@
       * ħ
         * Occurances: 392
         * Examples
-          * ҳиџьр: [ħ j dʒʲ r]
-          * ҳзы: [ħ z ə]
-          * чҳаны: [tʃʲ ħ a n ə]
-          * ҳауп: [ħ a w pʼ]
+          * ҳарҭ: [ħ a r t]
+          * раҳра: [r a ħ r a]
+          * ҳабла: [ħ a b l a]
+          * ҳнапы: [ħ n a pʼ ə]
       * ħʷ
         * Occurances: 180
         * Examples
-          * шәҳәа: [ʃʷ ħʷ a]
-          * хаҳә: [χ a ħʷ]
-          * аҳәыс: [a ħʷ ə s]
-          * ҳәа: [ħʷ a]
+          * аҳәса: [a ħʷ s a]
+          * ахаҳә: [a χ a ħʷ]
+          * зҳәо: [z ħʷ a]
+          * иаҳәа: [j a ħʷ a]
     ```
   - ```{ipa_cell}
     ```
@@ -494,10 +494,10 @@
       * j
         * Occurances: 2388
         * Examples
-          * инеит: [j n a j tʼ]
-          * ишаха: [j ʃ a χ a]
-          * аниба: [a n j b a]
-          * рҭиир: [r t j j r]
+          * идҵа: [j d tsʼ a]
+          * итәоу: [j tʷʼ a w]
+          * ӡиаск: [dz j a s kʼ]
+          * рбеит: [r b a j tʼ]
     ```
   - ```{ipa_cell}
     ```
@@ -517,10 +517,10 @@
       * r
         * Occurances: 1749
         * Examples
-          * рзы: [r z ə]
-          * рыдҵа: [r ə d tsʼ a]
-          * рҭиир: [r t j j r]
-          * абар: [a b a r]
+          * сзура: [s z w r a]
+          * рбеит: [r b a j tʼ]
+          * ируз: [j r w z]
+          * абри: [a b r j]
     ```
   - ```{ipa_cell}
     ```
@@ -544,10 +544,10 @@
       * l
         * Occurances: 584
         * Examples
-          * иалху: [j a l χ w]
-          * еилых: [a j l ə χ]
+          * угыл: [w ɡ ə l]
+          * лхы: [l χ ə]
           * амал: [a m a l]
-          * иблис: [j b l j s]
+          * улахь: [w l a χʲ]
     ```
   - ```{ipa_cell}
     ```
@@ -620,10 +620,10 @@
       * ə
         * Occurances: 2392
         * Examples
-          * ԥсы: [p s ə]
-          * рзы: [r z ə]
-          * рыдҵа: [r ə d tsʼ a]
-          * дбаны: [d b a n ə]
+          * агәы: [a ɡʷ ə]
+          * угыл: [w ɡ ə l]
+          * дыҟан: [d ə qʼ a n]
+          * шәымч: [ʃʷ ə m tʃʲ]
     ```
   - ```{ipa_cell}
     ```
@@ -661,10 +661,10 @@
       * a
         * Occurances: 7387
         * Examples
-          * ахаҭа: [a χ a t a]
-          * инеит: [j n a j tʼ]
-          * ишаха: [j ʃ a χ a]
-          * аниба: [a n j b a]
+          * агәы: [a ɡʷ ə]
+          * аҳәса: [a ħʷ s a]
+          * сзура: [s z w r a]
+          * идҵа: [j d tsʼ a]
     ```
   - ```{ipa_cell}
     ```

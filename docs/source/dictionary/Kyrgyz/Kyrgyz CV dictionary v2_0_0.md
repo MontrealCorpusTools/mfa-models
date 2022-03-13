@@ -50,10 +50,10 @@
       * m
         * Occurances: 2582
         * Examples
-          * жем,: [d͡ʒ j e m]
-          * өзүмө: [ø z y m ø]
-          * места: [m j e s t ɑ]
-          * месте: [m j e s t j e]
+          * сом: [s o m]
+          * коём,: [k o j o m]
+          * чачым: [t͡ʃ ɑ t͡ʃ ɯ m]
+          * мунай: [m u n ɑ j]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@
       * n
         * Occurances: 6255
         * Examples
-          * очень: [o t͡ʃ j e n ь]
-          * элдин: [e l d i n]
-          * ансыз: [ɑ n s ɯ z]
-          * өлгөн: [ø l ɡ ø n]
+          * оюнчу: [o j u n t͡ʃ u]
+          * ошон: [o ʃ o n]
+          * үндүк: [y n d y k]
+          * нан: [n ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -76,10 +76,10 @@
       * ŋ
         * Occurances: 303
         * Examples
-          * өңдүү: [ø ŋ d y y]
-          * оңой: [o ŋ o j]
-          * кеңсе: [k j e ŋ s j e]
-          * жеңиш: [d͡ʒ j e ŋ i ʃ]
+          * миң: [m i ŋ]
+          * жеңил: [d͡ʒ j e ŋ i l]
+          * соңку: [s o ŋ k u]
+          * оңдоп: [o ŋ d o p]
     ```
 * - {manner}`Stop`
   - ```{ipa_cell}
@@ -87,18 +87,18 @@
       * p
         * Occurances: 1476
         * Examples
-          * төлөп: [t ø l ø p]
-          * өтүп,: [ø t y p]
-          * угуп: [u ɡ u p]
-          * апасы: [ɑ p ɑ s ɯ]
+          * коюп,: [k o j u p]
+          * сапат: [s ɑ p ɑ t]
+          * качып: [k ɑ t͡ʃ ɯ p]
+          * эстеп: [e s t j e p]
     * voiced
       * b
         * Occurances: 2344
         * Examples
-          * бар.: [b ɑ r]
-          * абак: [ɑ b ɑ k]
-          * аборт: [ɑ b o r t]
-          * берсе: [b j e r s j e]
+          * бош: [b o ʃ]
+          * батыл: [b ɑ t ɯ l]
+          * бат: [b ɑ t]
+          * буза: [b u z ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -107,18 +107,18 @@
       * t
         * Occurances: 5981
         * Examples
-          * утту.: [u t t u]
-          * төлөп: [t ø l ø p]
-          * өтүп,: [ø t y p]
-          * тай: [t ɑ j]
+          * жейт.: [d͡ʒ j e j t]
+          * алты: [ɑ l t ɯ]
+          * кетүү: [k j e t y y]
+          * атады: [ɑ t ɑ d ɯ]
     * voiced
       * d
         * Occurances: 3785
         * Examples
-          * элдин: [e l d i n]
-          * дейт,: [d j e j t]
-          * болду: [b o l d u]
-          * көлдө: [k ø l d ø]
+          * даже: [d ɑ d͡ʒ j e]
+          * атады: [ɑ t ɑ d ɯ]
+          * тоодо: [t o o d o]
+          * үндүк: [y n d y k]
     ```
   - ```{ipa_cell}
     ```
@@ -129,18 +129,18 @@
       * k
         * Occurances: 5725
         * Examples
-          * кылыш: [k ɯ l ɯ ʃ]
-          * абак: [ɑ b ɑ k]
-          * качуу: [k ɑ t͡ʃ u u]
-          * калы: [k ɑ l ɯ]
+          * коём,: [k o j o m]
+          * караш: [k ɑ r ɑ ʃ]
+          * кетүү: [k j e t y y]
+          * кош: [k o ʃ]
     * voiced
       * ɡ
         * Occurances: 2540
         * Examples
-          * угуп: [u ɡ u p]
-          * аялга: [ɑ j ɑ l ɡ ɑ]
-          * өлгөн: [ø l ɡ ø n]
-          * урган: [u r ɡ ɑ n]
+          * тигил: [t i ɡ i l]
+          * дагы.: [d ɑ ɡ ɯ]
+          * чыга: [t͡ʃ ɯ ɡ ɑ]
+          * солго: [s o l ɡ o]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -152,28 +152,28 @@
       * t͡s
         * Occurances: 187
         * Examples
-          * лицей: [l i t͡s j e j]
-          * хенце: [k j e n t͡s j e]
-          * цой.: [t͡s o j]
-          * яцков: [j ɑ t͡s k o v]
+          * цехти: [t͡s j e k t i]
+          * конца: [k o n t͡s ɑ]
+          * перцы: [p j e r t͡s ɯ]
+          * акциз: [ɑ k t͡s i z]
     ```
   - ```{ipa_cell}
     * voiceless
       * t͡ʃ
         * Occurances: 1253
         * Examples
-          * очень: [o t͡ʃ j e n ь]
-          * качуу: [k ɑ t͡ʃ u u]
-          * чөптү: [t͡ʃ ø p t y]
-          * чөбү.: [t͡ʃ ø b y]
+          * оюнчу: [o j u n t͡ʃ u]
+          * чачым: [t͡ʃ ɑ t͡ʃ ɯ m]
+          * чыга: [t͡ʃ ɯ ɡ ɑ]
+          * качып: [k ɑ t͡ʃ ɯ p]
     * voiced
       * d͡ʒ
         * Occurances: 1246
         * Examples
-          * жай: [d͡ʒ ɑ j]
-          * жем,: [d͡ʒ j e m]
-          * жаш: [d͡ʒ ɑ ʃ]
-          * ажал: [ɑ d͡ʒ ɑ l]
+          * жейт.: [d͡ʒ j e j t]
+          * даже: [d ɑ d͡ʒ j e]
+          * жери,: [d͡ʒ j e r i]
+          * жолго: [d͡ʒ o l ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -189,28 +189,28 @@
       * s
         * Occurances: 2437
         * Examples
-          * берсе: [b j e r s j e]
-          * сөз: [s ø z]
-          * апасы: [ɑ p ɑ s ɯ]
-          * ансыз: [ɑ n s ɯ z]
+          * сом: [s o m]
+          * сөзү: [s ø z y]
+          * сапат: [s ɑ p ɑ t]
+          * солго: [s o l ɡ o]
     * voiced
       * z
         * Occurances: 1321
         * Examples
-          * зер: [z j e r]
-          * сөз: [s ø z]
-          * ансыз: [ɑ n s ɯ z]
-          * өзүмө: [ø z y m ø]
+          * сөзү: [s ø z y]
+          * кызык: [k ɯ z ɯ k]
+          * арзан: [ɑ r z ɑ n]
+          * буза: [b u z ɑ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1777
         * Examples
-          * кылыш: [k ɯ l ɯ ʃ]
-          * ушу: [u ʃ u]
-          * жаш: [d͡ʒ ɑ ʃ]
-          * шек: [ʃ j e k]
+          * караш: [k ɑ r ɑ ʃ]
+          * ошон: [o ʃ o n]
+          * кош: [k o ʃ]
+          * бош: [b o ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -224,18 +224,18 @@
       * f
         * Occurances: 176
         * Examples
-          * фото: [f o t o]
-          * штраф: [ʃ t r ɑ f]
-          * эфир: [e f i r]
-          * факты: [f ɑ k t ɯ]
+          * филат: [f i l ɑ t]
+          * финал: [f i n ɑ l]
+          * фолго: [f o l ɡ o]
+          * фейк: [f j e j k]
     * voiced
       * v
         * Occurances: 539
         * Examples
-          * исаев: [i s ɑ j e v]
-          * сквер: [s k v j e r]
-          * квота: [k v o t ɑ]
-          * взнос: [v z n o s]
+          * ванна: [v ɑ n n ɑ]
+          * кулов: [k u l o v]
+          * новак: [n o v ɑ k]
+          * павел: [p ɑ v j e l]
     ```
   - ```{ipa_cell}
     ```
@@ -259,10 +259,10 @@
       * j
         * Occurances: 6519
         * Examples
-          * зер: [z j e r]
-          * очень: [o t͡ʃ j e n ь]
-          * жай: [d͡ʒ ɑ j]
-          * тай: [t ɑ j]
+          * жейт.: [d͡ʒ j e j t]
+          * коём,: [k o j o m]
+          * даже: [d ɑ d͡ʒ j e]
+          * оюнчу: [o j u n t͡ʃ u]
     ```
   - ```{ipa_cell}
     ```
@@ -276,10 +276,10 @@
       * r
         * Occurances: 5260
         * Examples
-          * зер: [z j e r]
-          * бар.: [b ɑ r]
-          * аборт: [ɑ b o r t]
-          * берсе: [b j e r s j e]
+          * караш: [k ɑ r ɑ ʃ]
+          * жери,: [d͡ʒ j e r i]
+          * орой: [o r o j]
+          * арзан: [ɑ r z ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -297,10 +297,10 @@
       * l
         * Occurances: 4178
         * Examples
-          * кылыш: [k ɯ l ɯ ʃ]
-          * төлөп: [t ø l ø p]
-          * өлүп: [ø l y p]
-          * калы: [k ɑ l ɯ]
+          * алты: [ɑ l t ɯ]
+          * тигил: [t i ɡ i l]
+          * кол,: [k o l]
+          * солго: [s o l ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -330,18 +330,18 @@
       * i
         * Occurances: 4228
         * Examples
-          * элдин: [e l d i n]
-          * берки: [b j e r k i]
-          * борис: [b o r i s]
-          * исаев: [i s ɑ j e v]
+          * тигил: [t i ɡ i l]
+          * жери,: [d͡ʒ j e r i]
+          * дили: [d i l i]
+          * тил: [t i l]
     * rounded
       * y
         * Occurances: 2563
         * Examples
-          * өтүп,: [ø t y p]
-          * өлүп: [ø l y p]
-          * өзүмө: [ø z y m ø]
-          * чөптү: [t͡ʃ ø p t y]
+          * сөзү: [s ø z y]
+          * кетүү: [k j e t y y]
+          * үндүк: [y n d y k]
+          * мүлк: [m y l k]
     ```
   - ```{ipa_cell}
     ```
@@ -354,18 +354,18 @@
       * ɯ
         * Occurances: 4954
         * Examples
-          * кылыш: [k ɯ l ɯ ʃ]
-          * ырайы: [ɯ r ɑ j ɯ]
-          * апасы: [ɑ p ɑ s ɯ]
-          * калы: [k ɑ l ɯ]
+          * алты: [ɑ l t ɯ]
+          * атады: [ɑ t ɑ d ɯ]
+          * чачым: [t͡ʃ ɑ t͡ʃ ɯ m]
+          * дагы.: [d ɑ ɡ ɯ]
     * rounded
       * u
         * Occurances: 4104
         * Examples
-          * утту.: [u t t u]
-          * качуу: [k ɑ t͡ʃ u u]
-          * угуп: [u ɡ u p]
-          * ушу: [u ʃ u]
+          * оюнчу: [o j u n t͡ʃ u]
+          * коюп,: [k o j u p]
+          * мунай: [m u n ɑ j]
+          * буза: [b u z ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -384,18 +384,18 @@
       * e
         * Occurances: 4775
         * Examples
-          * зер: [z j e r]
-          * очень: [o t͡ʃ j e n ь]
-          * берсе: [b j e r s j e]
-          * элдин: [e l d i n]
+          * жейт.: [d͡ʒ j e j t]
+          * даже: [d ɑ d͡ʒ j e]
+          * кетүү: [k j e t y y]
+          * жери,: [d͡ʒ j e r i]
     * rounded
       * ø
         * Occurances: 2265
         * Examples
-          * төлөп: [t ø l ø p]
-          * өтүп,: [ø t y p]
-          * сөз: [s ø z]
-          * өлүп: [ø l y p]
+          * сөзү: [s ø z y]
+          * өткөк: [ø t k ø k]
+          * күнгө: [k y n ɡ ø]
+          * көк: [k ø k]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@
       * o
         * Occurances: 3622
         * Examples
-          * очень: [o t͡ʃ j e n ь]
-          * аборт: [ɑ b o r t]
-          * оор.: [o o r]
-          * ой,: [o j]
+          * сом: [s o m]
+          * коём,: [k o j o m]
+          * оюнчу: [o j u n t͡ʃ u]
+          * ошон: [o ʃ o n]
     ```
 * -
   - ```{ipa_cell}
@@ -460,10 +460,10 @@
       * ɑ
         * Occurances: 11831
         * Examples
-          * бар.: [b ɑ r]
-          * абак: [ɑ b ɑ k]
-          * качуу: [k ɑ t͡ʃ u u]
-          * жай: [d͡ʒ ɑ j]
+          * алты: [ɑ l t ɯ]
+          * даже: [d ɑ d͡ʒ j e]
+          * караш: [k ɑ r ɑ ʃ]
+          * атады: [ɑ t ɑ d ɯ]
     ```
 ``````
 

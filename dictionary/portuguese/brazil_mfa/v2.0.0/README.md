@@ -17,6 +17,7 @@ Jump to section:
 - **Language:** [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)
 - **Dialect:** [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
 - **Number of words:** `32,862`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#portuguese)
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`e`, {ipa_inline}`ẽ`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`ĩ`, {ipa_inline}`j`, {ipa_inline}`j̃`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`õ`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`ũ`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`w̃`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`ɐ`, {ipa_inline}`ɐ̃`, {ipa_inline}`ɔ`, {ipa_inline}`ɛ`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɲ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʎ`, {ipa_inline}`ʒ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/portuguese/brazil_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`

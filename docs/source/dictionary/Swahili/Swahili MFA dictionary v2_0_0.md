@@ -52,20 +52,20 @@
       * m
         * Occurances: 11729
         * Examples
+          * amina: [ɑ m i n ɑ]
           * krume: [k r u m ɛ]
-          * trump: [t r u m p]
-          * mkeo: [m k ɛ ɔ]
-          * mangi: [m ɑ ŋ ɡ i]
+          * mtori: [m t ɔ r i]
+          * homa: [h ɔ m ɑ]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 204
         * Examples
-          * jamvi: [dʒ ɑ ɱ v i]
           * mvumi: [ɱ v u m i]
-          * mvivu: [ɱ v i v u]
-          * mfupi: [ɱ f u p i]
+          * mfugo: [ɱ f u ɡ ɔ]
+          * mfumo: [ɱ f u m ɔ]
+          * mvuto: [ɱ v u t ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -74,10 +74,10 @@
       * n
         * Occurances: 13074
         * Examples
-          * treni: [t r ɛ n i]
-          * unayo: [u n ɑ j ɔ]
-          * vyenu: [v j ɛ n u]
-          * arndt: [ɑ r n ɑ n d t]
+          * amina: [ɑ m i n ɑ]
+          * wanne: [w ɑ n ɛ]
+          * ganze: [ɡ ɑ n z ɛ]
+          * uone: [u ɔ n ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -86,20 +86,20 @@
       * ɲ
         * Occurances: 1358
         * Examples
-          * nyama: [ɲ ɑ m ɑ]
-          * nyoka: [ɲ ɔ k ɑ]
-          * kenye: [k ɛ ɲ ɛ]
-          * nyla: [ɲ l ɑ]
+          * nyuzi: [ɲ u z i]
+          * lenye: [l ɛ ɲ ɛ]
+          * sony: [s ɔ ɲ i]
+          * anywe: [ɑ ɲ w ɛ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 3269
         * Examples
-          * mangi: [m ɑ ŋ ɡ i]
-          * tangu: [t ɑ ŋ ɡ u]
-          * nguvu: [ŋ ɡ u v u]
-          * ngumu: [ŋ ɡ u m u]
+          * mingi: [m i ŋ ɡ i]
+          * ngiri: [ŋ ɡ i r i]
+          * bango: [b ɑ ŋ ɡ ɔ]
+          * hinga: [h i ŋ ɡ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -109,18 +109,18 @@
       * p
         * Occurances: 4048
         * Examples
-          * trump: [t r u m p]
-          * uwapo: [u w ɑ p ɔ]
-          * mpeta: [m p ɛ t ɑ]
-          * umpe: [u m p ɛ]
+          * rupia: [r u p i ɑ]
+          * papua: [p ɑ p u ɑ]
+          * pia: [p i ɑ]
+          * jupp: [dʒ u p]
     * voiced
       * b
         * Occurances: 4657
         * Examples
-          * beira: [b ɛ i r ɑ]
-          * tumbo: [t u m b ɔ]
-          * bagbo: [b ɑ ɡ b ɔ]
-          * sabau: [s ɑ b ɑ u]
+          * jazba: [dʒ ɑ z b ɑ]
+          * bwana: [b w ɑ n ɑ]
+          * tiba: [t i b ɑ]
+          * mbegu: [m b ɛ ɡ u]
     ```
   - ```{ipa_cell}
     ```
@@ -131,18 +131,18 @@
       * t
         * Occurances: 9440
         * Examples
-          * trump: [t r u m p]
-          * uzito: [u z i t ɔ]
-          * tuko: [t u k ɔ]
-          * tumbo: [t u m b ɔ]
+          * mtori: [m t ɔ r i]
+          * ateri: [ɑ t ɛ r i]
+          * msoto: [m s ɔ t ɔ]
+          * senti: [s ɛ n t i]
     * voiced
       * d
         * Occurances: 4041
         * Examples
-          * kada: [k ɑ d ɑ]
-          * arndt: [ɑ r n ɑ n d t]
-          * ndewe: [n d ɛ w ɛ]
-          * dest: [d ɛ s t]
+          * udigo: [u d i ɡ ɔ]
+          * del: [d ɛ l]
+          * uda: [u d ɑ]
+          * baada: [b ɑ ɑ d ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -154,17 +154,17 @@
         * Occurances: 16637
         * Examples
           * krume: [k r u m ɛ]
-          * tuko: [t u k ɔ]
-          * mkeo: [m k ɛ ɔ]
-          * kada: [k ɑ d ɑ]
+          * click: [k l i k]
+          * kim: [k i m]
+          * ikaja: [i k ɑ dʒ ɑ]
     * voiced
       * ɡ
         * Occurances: 5248
         * Examples
-          * mangi: [m ɑ ŋ ɡ i]
-          * bagbo: [b ɑ ɡ b ɔ]
-          * rege: [r ɛ ɡ ɛ]
-          * sergi: [s ɛ r ɡ i]
+          * glov: [ɡ l ɔ v]
+          * ganze: [ɡ ɑ n z ɛ]
+          * udigo: [u d i ɡ ɔ]
+          * green: [ɡ r ɛ ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -182,18 +182,18 @@
       * tʃ
         * Occurances: 1647
         * Examples
-          * macho: [m ɑ tʃ ɔ]
-          * miche: [m i tʃ ɛ]
-          * wacha: [w ɑ tʃ ɑ]
-          * hicho: [h i tʃ ɔ]
+          * ncni: [n tʃ n i]
+          * ncha: [n tʃ ɑ]
+          * isaac: [i s ɑ ɑ tʃ]
+          * alec: [ɑ l ɛ tʃ]
     * voiced
       * dʒ
         * Occurances: 3239
         * Examples
-          * ikoje: [i k ɔ dʒ ɛ]
-          * haji: [h ɑ dʒ i]
-          * joe: [dʒ ɔ ɛ]
-          * jinsi: [dʒ i n s i]
+          * zije: [z i dʒ ɛ]
+          * jazba: [dʒ ɑ z b ɑ]
+          * ikaja: [i k ɑ dʒ ɑ]
+          * sanje: [s n dʒ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -213,28 +213,28 @@
       * s
         * Occurances: 4936
         * Examples
-          * swai: [s w ɑ i]
-          * self: [s ɛ l f]
-          * sabau: [s ɑ b ɑ u]
-          * dest: [d ɛ s t]
+          * hoses: [h ɔ s ɛ s]
+          * rossi: [r ɔ s i]
+          * msoto: [m s ɔ t ɔ]
+          * sanje: [s n dʒ ɛ]
     * voiced
       * z
         * Occurances: 5805
         * Examples
-          * uzito: [u z i t ɔ]
-          * wenza: [w ɛ n z ɑ]
-          * zigi: [z i ɡ i]
-          * mazur: [m ɑ z u r]
+          * zije: [z i dʒ ɛ]
+          * ganze: [ɡ ɑ n z ɛ]
+          * jazba: [dʒ ɑ z b ɑ]
+          * nyuzi: [ɲ u z i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 3850
         * Examples
-          * shoga: [ʃ ɔ ɡ ɑ]
-          * mushi: [m u ʃ i]
-          * kasha: [k ɑ ʃ ɑ]
-          * shule: [ʃ u l ɛ]
+          * josho: [dʒ ɔ ʃ ɔ]
+          * osha: [ɔ ʃ ɑ]
+          * shaha: [ʃ ɑ h ɑ]
+          * kisha: [k i ʃ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -250,36 +250,36 @@
       * f
         * Occurances: 3100
         * Examples
-          * self: [s ɛ l f]
-          * faru: [f ɑ r u]
-          * kifua: [k i f u ɑ]
-          * fort: [f ɔ r t]
+          * reef: [r i f]
+          * fleva: [f l ɛ v ɑ]
+          * safi: [s ɑ f i]
+          * hafla: [h ɑ f l ɑ]
     * voiced
       * v
         * Occurances: 1987
         * Examples
-          * vivyo: [v i v j ɔ]
-          * vyenu: [v j ɛ n u]
-          * vaa: [v ɑ ɑ]
-          * utovu: [u t ɔ v u]
+          * glov: [ɡ l ɔ v]
+          * fleva: [f l ɛ v ɑ]
+          * vunjo: [v u n dʒ ɔ]
+          * uvuvi: [u v u v i]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 282
         * Examples
-          * athi: [ɑ θ i]
-          * fritz: [f r i θ z]
-          * nithi: [n i θ i]
-          * than: [θ ɑ n]
+          * edith: [ɛ d i θ]
+          * smith: [s m i θ]
+          * iot: [i ɔ θ ɑ]
+          * uthai: [u θ ɑ i]
     * voiced
       * ð
         * Occurances: 501
         * Examples
-          * sadd: [s ɑ ð ɑ n d]
-          * badhi: [b ɑ ð i]
-          * siad: [s i ɑ ð ɑ]
-          * fedha: [f ɛ ð ɑ]
+          * ladha: [l ɑ ð ɑ]
+          * hadza: [h ɑ ð ɑ n z ɑ]
+          * hedhi: [h ɛ ð i]
+          * kadha: [k ɑ ð ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -294,10 +294,10 @@
       * h
         * Occurances: 4503
         * Examples
-          * white: [w h i t ɛ]
-          * haji: [h ɑ dʒ i]
-          * chole: [k h ɔ l ɛ]
-          * hule: [h u l ɛ]
+          * hoses: [h ɔ s ɛ s]
+          * homa: [h ɔ m ɑ]
+          * horoe: [h ɔ r ɔ ɛ]
+          * mhene: [m h ɛ n ɛ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -315,10 +315,10 @@
       * j
         * Occurances: 3558
         * Examples
-          * vivyo: [v i v j ɔ]
-          * unayo: [u n ɑ j ɔ]
-          * vyenu: [v j ɛ n u]
-          * eyaaa: [ɛ j ɑ ɑ]
+          * iliyo: [i l i j ɔ]
+          * kyeu: [k j ɛ u]
+          * ivyo: [i v j ɔ]
+          * chaya: [k h ɑ j ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -336,10 +336,10 @@
       * r
         * Occurances: 4669
         * Examples
+          * rupia: [r u p i ɑ]
           * krume: [k r u m ɛ]
-          * beira: [b ɛ i r ɑ]
-          * trump: [t r u m p]
-          * treni: [t r ɛ n i]
+          * mtori: [m t ɔ r i]
+          * reef: [r i f]
     ```
   - ```{ipa_cell}
     ```
@@ -361,10 +361,10 @@
       * l
         * Occurances: 12582
         * Examples
-          * self: [s ɛ l f]
-          * walo: [w ɑ l ɔ]
-          * chole: [k h ɔ l ɛ]
-          * hule: [h u l ɛ]
+          * glov: [ɡ l ɔ v]
+          * click: [k l i k]
+          * del: [d ɛ l]
+          * liz: [l i z]
     ```
   - ```{ipa_cell}
     ```
@@ -396,10 +396,10 @@
       * i
         * Occurances: 38933
         * Examples
-          * beira: [b ɛ i r ɑ]
-          * uzito: [u z i t ɔ]
-          * swai: [s w ɑ i]
-          * vivyo: [v i v j ɔ]
+          * amina: [ɑ m i n ɑ]
+          * rupia: [r u p i ɑ]
+          * mtori: [m t ɔ r i]
+          * reef: [r i f]
     ```
   - ```{ipa_cell}
     ```
@@ -412,10 +412,10 @@
       * u
         * Occurances: 19626
         * Examples
+          * rupia: [r u p i ɑ]
           * krume: [k r u m ɛ]
-          * trump: [t r u m p]
-          * uwapo: [u w ɑ p ɔ]
-          * uzito: [u z i t ɔ]
+          * nyuzi: [ɲ u z i]
+          * udigo: [u d i ɡ ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -457,9 +457,9 @@
         * Occurances: 14166
         * Examples
           * krume: [k r u m ɛ]
-          * beira: [b ɛ i r ɑ]
-          * mkeo: [m k ɛ ɔ]
-          * self: [s ɛ l f]
+          * wanne: [w ɑ n ɛ]
+          * hoses: [h ɔ s ɛ s]
+          * ateri: [ɑ t ɛ r i]
     ```
   - ```{ipa_cell}
     ```
@@ -472,10 +472,10 @@
       * ɔ
         * Occurances: 11570
         * Examples
-          * uwapo: [u w ɑ p ɔ]
-          * uzito: [u z i t ɔ]
-          * tuko: [t u k ɔ]
-          * vivyo: [v i v j ɔ]
+          * glov: [ɡ l ɔ v]
+          * mtori: [m t ɔ r i]
+          * hoses: [h ɔ s ɛ s]
+          * homa: [h ɔ m ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -502,9 +502,9 @@
       * ɑ
         * Occurances: 57496
         * Examples
-          * beira: [b ɛ i r ɑ]
-          * uwapo: [u w ɑ p ɔ]
-          * swai: [s w ɑ i]
-          * mangi: [m ɑ ŋ ɡ i]
+          * amina: [ɑ m i n ɑ]
+          * rupia: [r u p i ɑ]
+          * wanne: [w ɑ n ɛ]
+          * homa: [h ɔ m ɑ]
     ```
 ``````

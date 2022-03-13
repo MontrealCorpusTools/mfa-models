@@ -47,10 +47,10 @@
       * m
         * Occurances: 4931
         * Examples
-          * sorum: [s o r u m]
-          * mana: [m a n a]
-          * mirip: [m i r i p]
-          * mac: [m a t͡ɕ]
+          * temui: [t ə m u i]
+          * sama: [s a m a]
+          * mesir: [m ə s i r]
+          * mahal: [m a h a l]
     ```
   - ```{ipa_cell}
     ```
@@ -59,30 +59,30 @@
       * n
         * Occurances: 6994
         * Examples
-          * mana: [m a n a]
-          * owen: [o w ə n]
-          * nikel: [n i k ə l]
-          * kini,: [k i n i]
+          * heran: [h ə r a n]
+          * ynez”: [j n ə z]
+          * kevin: [k ə f i n]
+          * racun: [r a t͡ɕ u n]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 1560
         * Examples
-          * tanya: [t a ɲ a]
-          * nya.: [ɲ a]
+          * hanya: [h a ɲ a]
           * nancy: [n a ɲ t͡ɕ j]
-          * inco: [i ɲ t͡ɕ o]
+          * denys: [d ə ɲ s]
+          * pliny: [p l i ɲ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2085
         * Examples
-          * angry: [a ŋ r j]
-          * ujung: [u d͡ʑ u ŋ]
-          * jung: [d͡ʑ u ŋ]
-          * agung: [a ɡ u ŋ]
+          * elang: [ə l a ŋ]
+          * ungu: [u ŋ u]
+          * ulang: [u l a ŋ]
+          * orang: [o r a ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -92,18 +92,18 @@
       * p
         * Occurances: 3272
         * Examples
-          * mirip: [m i r i p]
-          * api!: [a p i]
-          * sup: [s u p]
-          * pikir: [p i k i r]
+          * putra: [p u t r a]
+          * peggy: [p ə ɡ ɡ j]
+          * petir: [p ə t i r]
+          * pagi: [p a ɡ i]
     * voiced
       * b
         * Occurances: 2985
         * Examples
-          * bakat: [b a k a t]
-          * lebda: [l ə b d a]
-          * hobi: [h o b i]
-          * bukan: [b u k a n]
+          * babak: [b a b a k]
+          * heber: [h ə b ə r]
+          * kubu: [k u b u]
+          * buta.: [b u t a]
     ```
   - ```{ipa_cell}
     ```
@@ -112,18 +112,18 @@
       * t
         * Occurances: 5488
         * Examples
-          * bakat: [b a k a t]
-          * ketel: [k ə t ə l]
-          * tanya: [t a ɲ a]
-          * meter: [m ə t ə r]
+          * fatal: [f a t a l]
+          * touch: [t o u t͡ɕ h]
+          * putra: [p u t r a]
+          * temui: [t ə m u i]
     * voiced
       * d
         * Occurances: 2918
         * Examples
-          * jadi: [d͡ʑ a d i]
-          * lebda: [l ə b d a]
-          * dek: [d ə k]
-          * dana: [d a n a]
+          * dana.: [d a n a]
+          * sedih: [s ə d i h]
+          * data: [d a t a]
+          * aldi: [a l d i]
     ```
   - ```{ipa_cell}
     ```
@@ -132,27 +132,27 @@
       * k
         * Occurances: 5173
         * Examples
-          * bakat: [b a k a t]
-          * sejak: [s ə d͡ʑ a k]
-          * ketel: [k ə t ə l]
-          * suka,: [s u k a]
+          * babak: [b a b a k]
+          * sakti: [s a k t i]
+          * kevin: [k ə f i n]
+          * peak: [p ə a k]
     * voiced
       * ɡ
         * Occurances: 1440
         * Examples
-          * segar: [s ə ɡ a r]
-          * regis: [r ə ɡ i s]
-          * raga.: [r a ɡ a]
-          * surga: [s u r ɡ a]
+          * peggy: [p ə ɡ ɡ j]
+          * pagi: [p a ɡ i]
+          * eugen: [ə u ɡ ə n]
+          * lagi.: [l a ɡ i]
     ```
   - ```{ipa_cell}
     * other
       * ʔ
         * Occurances: 46
         * Examples
-          * 'kan: [ʔ k a n]
           * 'kan?: [ʔ k a n]
           * o'day: [o ʔ d a j]
+          * 'kan: [ʔ k a n]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -166,18 +166,18 @@
       * t͡ɕ
         * Occurances: 1364
         * Examples
-          * suci: [s u t͡ɕ i]
-          * mac: [m a t͡ɕ]
-          * kecil: [k ə t͡ɕ i l]
-          * creek: [t͡ɕ r ə ə k]
+          * acer,: [a t͡ɕ ə r]
+          * touch: [t o u t͡ɕ h]
+          * racun: [r a t͡ɕ u n]
+          * local: [l o t͡ɕ a l]
     * voiced
       * d͡ʑ
         * Occurances: 899
         * Examples
-          * sejak: [s ə d͡ʑ a k]
-          * jesse: [d͡ʑ ə s s ə]
-          * jadi: [d͡ʑ a d i]
+          * fiji: [f i d͡ʑ i]
           * josh: [d͡ʑ o s h]
+          * gaji: [ɡ a d͡ʑ i]
+          * jasad: [d͡ʑ a s a d]
     ```
   - ```{ipa_cell}
     ```
@@ -193,26 +193,26 @@
       * s
         * Occurances: 5253
         * Examples
-          * segar: [s ə ɡ a r]
-          * sejak: [s ə d͡ʑ a k]
-          * suci: [s u t͡ɕ i]
-          * sorum: [s o r u m]
+          * "saya: [s a j a]
+          * sakti: [s a k t i]
+          * surut: [s u r u t]
+          * hos: [h o s]
     * voiced
       * z
         * Occurances: 135
         * Examples
-          * lezat: [l ə z a t]
-          * zion: [z i o n]
-          * zat: [z a t]
-          * zona: [z o n a]
+          * ynez”: [j n ə z]
+          * liz: [l i z]
+          * zeus: [z ə u s]
+          * pizza: [p i z z a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 26
         * Examples
-          * tasya: [t a ɕ a]
           * syal: [ɕ a l]
+          * tasya: [t a ɕ a]
     ```
   - ```{ipa_cell}
     ```
@@ -226,10 +226,10 @@
       * f
         * Occurances: 1011
         * Examples
-          * wolfe: [w o l f ə]
-          * faks,: [f a k s]
-          * "for: [f o r]
-          * davis: [d a f i s]
+          * fatal: [f a t a l]
+          * kevin: [k ə f i n]
+          * fiji: [f i d͡ʑ i]
+          * for: [f o r]
     ```
   - ```{ipa_cell}
     ```
@@ -240,20 +240,20 @@
       * x
         * Occurances: 59
         * Examples
-          * khas.: [x a s]
-          * khas: [x a s]
-          * akhir: [a x i r]
           * khas,: [x a s]
+          * akhir: [a x i r]
+          * khas: [x a s]
+          * khas.: [x a s]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 2390
         * Examples
-          * hella: [h ə l l a]
-          * josh: [d͡ʑ o s h]
-          * hobi: [h o b i]
-          * asah: [a s a h]
+          * heran: [h ə r a n]
+          * touch: [t o u t͡ɕ h]
+          * hos: [h o s]
+          * sedih: [s ə d i h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -267,10 +267,10 @@
       * j
         * Occurances: 645
         * Examples
+          * ynez”: [j n ə z]
+          * peggy: [p ə ɡ ɡ j]
           * "saya: [s a j a]
-          * judy: [d͡ʑ u d j]
-          * layak: [l a j a k]
-          * city: [t͡ɕ i t j]
+          * ya,": [j a]
     ```
   - ```{ipa_cell}
     ```
@@ -286,10 +286,10 @@
       * r
         * Occurances: 6758
         * Examples
-          * segar: [s ə ɡ a r]
-          * sorum: [s o r u m]
-          * regis: [r ə ɡ i s]
-          * mirip: [m i r i p]
+          * heran: [h ə r a n]
+          * acer,: [a t͡ɕ ə r]
+          * putra: [p u t r a]
+          * petir: [p ə t i r]
     ```
   - ```{ipa_cell}
     ```
@@ -307,10 +307,10 @@
       * l
         * Occurances: 4308
         * Examples
-          * hella: [h ə l l a]
-          * ketel: [k ə t ə l]
-          * wolfe: [w o l f ə]
-          * nikel: [n i k ə l]
+          * fatal: [f a t a l]
+          * plato: [p l a t o]
+          * mahal: [m a h a l]
+          * liz: [l i z]
     ```
   - ```{ipa_cell}
     ```
@@ -340,10 +340,10 @@
       * i
         * Occurances: 8319
         * Examples
-          * suci: [s u t͡ɕ i]
-          * regis: [r ə ɡ i s]
-          * mirip: [m i r i p]
-          * nikel: [n i k ə l]
+          * temui: [t ə m u i]
+          * sakti: [s a k t i]
+          * petir: [p ə t i r]
+          * kevin: [k ə f i n]
     ```
   - ```{ipa_cell}
     ```
@@ -356,10 +356,10 @@
       * u
         * Occurances: 5056
         * Examples
-          * suci: [s u t͡ɕ i]
-          * sorum: [s o r u m]
-          * suka,: [s u k a]
-          * surga: [s u r ɡ a]
+          * touch: [t o u t͡ɕ h]
+          * putra: [p u t r a]
+          * temui: [t ə m u i]
+          * surut: [s u r u t]
     ```
 * -
   - ```{ipa_cell}
@@ -386,10 +386,10 @@
       * o
         * Occurances: 3757
         * Examples
-          * sorum: [s o r u m]
-          * wolfe: [w o l f ə]
-          * owen: [o w ə n]
-          * alone: [a l o n ə]
+          * touch: [t o u t͡ɕ h]
+          * plato: [p l a t o]
+          * for: [f o r]
+          * hos: [h o s]
     ```
 * -
   - ```{ipa_cell}
@@ -401,10 +401,10 @@
       * ə
         * Occurances: 9702
         * Examples
-          * segar: [s ə ɡ a r]
-          * hella: [h ə l l a]
-          * sejak: [s ə d͡ʑ a k]
-          * regis: [r ə ɡ i s]
+          * heran: [h ə r a n]
+          * ynez”: [j n ə z]
+          * acer,: [a t͡ɕ ə r]
+          * peggy: [p ə ɡ ɡ j]
     ```
   - ```{ipa_cell}
     ```
@@ -442,10 +442,10 @@
       * a
         * Occurances: 17036
         * Examples
-          * segar: [s ə ɡ a r]
-          * hella: [h ə l l a]
-          * bakat: [b a k a t]
-          * sejak: [s ə d͡ʑ a k]
+          * heran: [h ə r a n]
+          * babak: [b a b a k]
+          * fatal: [f a t a l]
+          * acer,: [a t͡ɕ ə r]
     ```
   - ```{ipa_cell}
     ```

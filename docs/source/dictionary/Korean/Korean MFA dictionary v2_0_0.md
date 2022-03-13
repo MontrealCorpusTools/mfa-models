@@ -50,20 +50,20 @@
       * m
         * Occurances: 14739
         * Examples
-          * 마무리: [m ɐ m u ɾ i]
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 28514
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 랴오닝: [ɾ j ɐ o n i ŋ]
-          * 동광리: [t o ŋ ɡ w ɐ ŋ n i]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 보관하기만: [p oː ɡ w ɐ n h ɐ ɡ i m ɐ n]
+          * 아닙니까: [ɐ n i m n i k͈ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -72,20 +72,20 @@
       * ɲ
         * Occurances: 3410
         * Examples
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
-          * 문민정부: [m uː n m i ɲ dʑ ʌ ŋ b u]
-          * 협력자: [ç j ʌ m ɲ j ʌ k̚ tɕʰ ɐ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 봤거든요: [p w ɐ s͈ k ʌ d ɯ ɲ j o]
+          * 부분적: [p u b u ɲ dʑ ʌ k̚]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 14982
         * Examples
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 랴오닝: [ɾ j ɐ o n i ŋ]
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -95,36 +95,36 @@
       * p
         * Occurances: 5231
         * Examples
-          * 부위에: [p u ɥ e]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
-          * 반하다: [p ɐ n h ɐ d ɐ]
-          * 지배하고: [tɕ i p ɛː h ɐ ɡ o]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 봤거든요: [p w ɐ s͈ k ʌ d ɯ ɲ j o]
     * voiced
       * b
         * Occurances: 4054
         * Examples
-          * 수성갑에: [sʰ u sʰ ʌ ŋ ɡ ɐ b e]
-          * 비트박스: [p i tʰ ɯ b ɐ k s ɯ]
-          * 혐오발언을: [ç j ʌ m o b ɐ ɾ ʌ n ɯ ɭ]
-          * 선거비: [sʰ ʌː n ɡ ʌ b i]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 부분적: [p u b u ɲ dʑ ʌ k̚]
+          * 일변도: [i ɭ b j ʌ n d o]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 3746
         * Examples
-          * 동광리: [t o ŋ ɡ w ɐ ŋ n i]
-          * 다국적: [t ɐ ɡ u k̚ tɕʰ ʌ k̚]
-          * 당헌에: [t ɐ ŋ h ʌ n e]
-          * 황금시간대: [ɸ w ɐ ŋ ɡ ɯ m ɕʰ i ɡ ɐ n t ɛː]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 돌아오: [t o ɾ ɐ o]
     * voiced
       * d
         * Occurances: 9838
         * Examples
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
-          * 예술행동에: [j e sʰ u ɾ h ɛː ŋ d o ŋ e]
-          * 가만두: [k ɐ m ɐ n d u]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 뜻하다: [t͈ ɯ tʰ ɐ d ɐ]
+          * 여성들이: [j ʌ sʰ ʌ ŋ d ɯ ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -135,18 +135,18 @@
       * k
         * Occurances: 8623
         * Examples
-          * 가까이: [k ɐ k͈ ɐ i]
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 정확성과: [tɕ ʌ ŋ β w ɐ k s ʌ ŋ ɡ w ɐ]
-          * 관리사: [k w ɐ ʎ ʎ i sʰ ɐ]
+          * 봤거든요: [p w ɐ s͈ k ʌ d ɯ ɲ j o]
+          * 규칙에: [k j u tɕʰ i kʰ e]
+          * 기다렸: [k iː d ɐ ɾ j ʌ t̚]
+          * 교회당: [k j oː β w e d ɐ ŋ]
     * voiced
       * ɡ
         * Occurances: 12781
         * Examples
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 동광리: [t o ŋ ɡ w ɐ ŋ n i]
-          * 다국적: [t ɐ ɡ u k̚ tɕʰ ʌ k̚]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 리라고: [ɾ i ɾ ɐ ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -156,20 +156,20 @@
       * p͈
         * Occurances: 614
         * Examples
-          * 기쁘다: [k i p͈ ɯ d ɐ]
-          * 약삭빠른: [j ɐ k s ɐ k̚ p͈ ɐ ɾ ɯ n]
-          * 한번뿐인: [h ɐ n b p͈ u i n]
-          * 뽑아요: [p͈ o ɐ j o]
+          * 뺏겼다: [p͈ ɛː t̚ kʰ j ʌ t̚ tʰ ɐ]
+          * 뿌리를: [p͈ u ɾ i ɾ ɯ ɭ]
+          * 뿐이라는데: [p͈ u n i ɾ ɐ n ɯ n d e]
+          * 빠그르르: [p͈ ɐ ɡ ɯ ɾ ɯ ɾ ɯ]
     ```
   - ```{ipa_cell}
     * voiceless
       * t͈
         * Occurances: 799
         * Examples
-          * 벌떼처럼: [p ʌ ɭ t͈ e tɕʰ ʌ ɾ ʌ m]
-          * 어땠냐는: [ʌ t͈ ɛː s͈ ɲ j ɐ n ɯ n]
-          * 떠나서: [t͈ ʌ n ɐ sʰ ʌ]
-          * 따르다: [t͈ ɐ ɾ ɯ d ɐ]
+          * 뜻하다: [t͈ ɯ tʰ ɐ d ɐ]
+          * 얘기할때: [j ɛː ɡ i h ɐ ɭ t͈ ɛː]
+          * 구마모또: [k u m ɐ m o t͈ o]
+          * 때문인: [t͈ ɛː m u n i n]
     ```
   - ```{ipa_cell}
     ```
@@ -180,10 +180,10 @@
       * k͈
         * Occurances: 1427
         * Examples
-          * 가까이: [k ɐ k͈ ɐ i]
-          * 끄트러기: [k͈ ɯ tʰ ɯ ɾ ʌ ɡ i]
-          * 느껴야: [n ɯ k͈ j ʌ j ɐ]
-          * 소리꾼들이: [sʰ o ɾ i k͈ d ɯ ɾ i]
+          * 아닙니까: [ɐ n i m n i k͈ ɐ]
+          * 토끼몰이: [tʰ o k͈ i m o ɾ i]
+          * 여태껏: [j ʌː tʰ ɛː k͈ ʌ t̚]
+          * 깨져나가기: [k͈ ɛː dʑ ʌ n ɐ ɡ ɐ ɡ i]
     ```
   - ```{ipa_cell}
     ```
@@ -193,20 +193,20 @@
       * pʰ
         * Occurances: 4149
         * Examples
-          * 페레스: [pʰ e ɾ e sʰ ɯ]
-          * 키포인트: [kʰ i pʰ o i n tʰ ɯ]
-          * 스티로폴: [sʰ ɯ tʰ i ɾ o pʰ o ɭ]
-          * 단속반은: [t ɐ n sʰ o k̚ pʰ ɐ n ɯ n]
+          * 모슬포: [m o sʰ ɯ ɭ pʰ o]
+          * 포대의: [pʰ oː d ɛː ɰ i]
+          * 파업권: [pʰ ɐ ʌ p̚ kʰ w ʌ n]
+          * 평등입니다: [pʰ j ʌ ŋ d i m n i d ɐ]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʰ
         * Occurances: 5463
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 끄트러기: [k͈ ɯ tʰ ɯ ɾ ʌ ɡ i]
-          * 키포인트: [kʰ i pʰ o i n tʰ ɯ]
-          * 스티로폴: [sʰ ɯ tʰ i ɾ o pʰ o ɭ]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 뜻하다: [t͈ ɯ tʰ ɐ d ɐ]
+          * 토끼몰이: [tʰ o k͈ i m o ɾ i]
+          * 부럼없다: [p u ɾ ʌ m ʌ p̚ tʰ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -217,10 +217,10 @@
       * kʰ
         * Occurances: 3589
         * Examples
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
-          * 키포인트: [kʰ i pʰ o i n tʰ ɯ]
-          * 날카로움: [n ɐ ɭ kʰ ɐ ɾ o u m]
+          * 규칙에: [k j u tɕʰ i kʰ e]
+          * 칼납자루: [kʰ ɐ ɭ ɭ ɐ p̚ tɕʰ ɐ ɾ u]
+          * 화합과: [ɸ w ɐ h ɐ p̚ kʰ w ɐ]
+          * 파업권: [pʰ ɐ ʌ p̚ kʰ w ʌ n]
     ```
   - ```{ipa_cell}
     ```
@@ -230,20 +230,20 @@
       * p̚
         * Occurances: 2033
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 담뱃값: [t ɐ m p ɛː t̚ kʰ ɐ p̚]
-          * 안쓰럽다고: [ɐ n s͈ ɯ ɾ ʌ p̚ tʰ ɐ ɡ o]
-          * 볼품없: [p o ɭ pʰ u m ʌ p̚]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 칼납자루: [kʰ ɐ ɭ ɭ ɐ p̚ tɕʰ ɐ ɾ u]
+          * 화합과: [ɸ w ɐ h ɐ p̚ kʰ w ɐ]
+          * 부럼없다: [p u ɾ ʌ m ʌ p̚ tʰ ɐ]
     ```
   - ```{ipa_cell}
     * voiceless
       * t̚
         * Occurances: 3289
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 하셔야: [h ɐ t̚ j ʌː j ɐ]
-          * 걸어왔: [k ʌ ɾ ʌ w ɐ t̚]
-          * 광고였다: [k w ɐ ŋ ɡ o j ʌ t̚ tʰ ɐ]
+          * 기다렸: [k iː d ɐ ɾ j ʌ t̚]
+          * 증가했고: [tɕ ɯ ŋ ɡ ɐ h ɛː t̚ ɡ o]
+          * 다쳤는지: [t ɐ tɕʰ ʌ t̚ n ɯ ɲ dʑ i]
+          * 묻는다: [m uː t̚ n ɯ n d ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -254,10 +254,10 @@
       * k̚
         * Occurances: 5073
         * Examples
-          * 다국적: [t ɐ ɡ u k̚ tɕʰ ʌ k̚]
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 직장과: [tɕ i k̚ tɕʰ ɐ ŋ ɡ w ɐ]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 부분적: [p u b u ɲ dʑ ʌ k̚]
+          * 목재로: [m o k̚ tɕʰ ɛː ɾ o]
+          * 과학자들의: [k w ɐ h ɐ k̚ tɕʰ ɐ d ɯ ɾ ɰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -273,18 +273,18 @@
       * tɕ
         * Occurances: 6289
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 정확성과: [tɕ ʌ ŋ β w ɐ k s ʌ ŋ ɡ w ɐ]
-          * 직장과: [tɕ i k̚ tɕʰ ɐ ŋ ɡ w ɐ]
-          * 지배하고: [tɕ i p ɛː h ɐ ɡ o]
+          * 종처럼: [tɕ o ŋ tɕʰ ʌ ɾ ʌ m]
+          * 잦아지고: [tɕ ɐ dʑ ɐ dʑ i ɡ o]
+          * 증가했고: [tɕ ɯ ŋ ɡ ɐ h ɛː t̚ ɡ o]
+          * 지방선거: [tɕ i b ɐ ŋ sʰ ʌ n ɡ ʌ]
     * voiced
       * dʑ
         * Occurances: 8283
         * Examples
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
-          * 만들어지는: [m ɐ n d ɯ ɾ ʌ dʑ i n ɯ n]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 부분적: [p u b u ɲ dʑ ʌ k̚]
+          * 잦아지고: [tɕ ɐ dʑ ɐ dʑ i ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -302,10 +302,10 @@
       * tɕ͈
         * Occurances: 373
         * Examples
-          * 이쯤에서: [iː tɕ͈ ɯ m e sʰ ʌ]
-          * 이쪽은: [i tɕ͈ o ɯ n]
-          * 어쩌나하는: [ʌ tɕ͈ ʌ n ɐ h ɐ n ɯ n]
           * 고리짝: [k o ɾ i tɕ͈ ɐ k̚]
+          * 끔쩍끔쩍: [k͈ ɯ m tɕ͈ ʌ k̚ k͈ ɯ m tɕ͈ ʌ k̚]
+          * 찌릿하다: [tɕ͈ i ɾ i tʰ ɐ d ɐ]
+          * 만원쯤: [m ɐ n w ʌ ɲ tɕ͈ ɯ m]
     ```
   - ```{ipa_cell}
     ```
@@ -323,10 +323,10 @@
       * tɕʰ
         * Occurances: 6383
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 다국적: [t ɐ ɡ u k̚ tɕʰ ʌ k̚]
-          * 직장과: [tɕ i k̚ tɕʰ ɐ ŋ ɡ w ɐ]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 종처럼: [tɕ o ŋ tɕʰ ʌ ɾ ʌ m]
+          * 규칙에: [k j u tɕʰ i kʰ e]
     ```
   - ```{ipa_cell}
     ```
@@ -340,10 +340,10 @@
       * s
         * Occurances: 2226
         * Examples
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 정확성과: [tɕ ʌ ŋ β w ɐ k s ʌ ŋ ɡ w ɐ]
-          * 비트박스: [p i tʰ ɯ b ɐ k s ɯ]
-          * 달랐습니다: [t ɐ ɭ ɭ ɐ t̚ s ɯ m n i d ɐ]
+          * 보냈습니다: [p o n ɛː s s ɯ m n i d ɐ]
+          * 뉴스라고: [ɲ j u s ɯ ɾ ɐ ɡ o]
+          * 숙소인: [sʰ u k s o i n]
+          * 색상은: [sʰ ɛː k s ɐ ŋ ɯ n]
     ```
   - ```{ipa_cell}
     ```
@@ -361,10 +361,10 @@
       * s͈
         * Occurances: 1020
         * Examples
-          * 불쌍하다: [p u ɭ s͈ ɐ ŋ h ɐ d ɐ]
-          * 안쓰럽다고: [ɐ n s͈ ɯ ɾ ʌ p̚ tʰ ɐ ɡ o]
-          * 어땠냐는: [ʌ t͈ ɛː s͈ ɲ j ɐ n ɯ n]
-          * 쏟아지자: [s͈ o d ɐ dʑ i dʑ ɐ]
+          * 봤거든요: [p w ɐ s͈ k ʌ d ɯ ɲ j o]
+          * 제시했지만: [tɕ e ɕʰ i h ɛː s͈ tɕʰ i m ɐ n]
+          * 배포했다고: [p ɛː pʰ o h ɛː s͈ d ɐ ɡ o]
+          * 주었습니다: [tɕ u ʌ s͈ s ɯ m n i d ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -373,10 +373,10 @@
       * ɕ͈
         * Occurances: 750
         * Examples
-          * 토막시신: [tʰ o m ɐ k ɕ͈ i ɕʰ i n]
-          * 여지없이: [j ʌ dʑ i ʌ p ɕ͈ i]
-          * 학생이나: [h ɐ k ɕ͈ ɛː ŋ i n ɐ]
-          * 황모씨는: [ɸ w ɐ ŋ m o ɕ͈ i n ɯ n]
+          * 박모씨는: [p ɐ ŋ m o ɕ͈ i n ɯ n]
+          * 괘씸할: [k w ɛː ɕ͈ i m h ɐ ɭ]
+          * 아이쇼핑: [ɐ i ɕ͈ o pʰ i ŋ]
+          * 하나씩: [h ɐ n ɐ ɕ͈ i k̚]
     ```
   - ```{ipa_cell}
     ```
@@ -390,10 +390,10 @@
       * sʰ
         * Occurances: 11532
         * Examples
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
-          * 페레스: [pʰ e ɾ e sʰ ɯ]
-          * 스모그: [sʰ ɯ m o ɡ ɯ]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 여성들이: [j ʌ sʰ ʌ ŋ d ɯ ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -402,10 +402,10 @@
       * ɕʰ
         * Occurances: 3347
         * Examples
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
-          * 황금시간대: [ɸ w ɐ ŋ ɡ ɯ m ɕʰ i ɡ ɐ n t ɛː]
-          * 화장실을: [ɸ w ɐ dʑ ɐ ŋ ɕʰ i ɾ ɯ ɭ]
+          * 제시했지만: [tɕ e ɕʰ i h ɛː s͈ tɕʰ i m ɐ n]
+          * 수식어: [sʰ u ɕʰ i ɡ ʌ]
+          * 시기심이란: [ɕʰ iː ɡ i ɕʰ i m i ɾ ɐ n]
+          * 도시의: [t o ɕʰ i n ɰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -417,10 +417,10 @@
       * ɸ
         * Occurances: 958
         * Examples
-          * 황금시간대: [ɸ w ɐ ŋ ɡ ɯ m ɕʰ i ɡ ɐ n t ɛː]
-          * 화장실을: [ɸ w ɐ dʑ ɐ ŋ ɕʰ i ɾ ɯ ɭ]
-          * 홍학들은: [ɸ o ŋ h ɐ k̚ tʰ ɯ ɾ ɯ n]
-          * 혼인에: [ɸ o n i n e]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 화합과: [ɸ w ɐ h ɐ p̚ kʰ w ɐ]
+          * 홍대앞에: [ɸ o ŋ t ɛː ɐ pʰ e]
+          * 후보와: [ɸ u b o w ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -431,46 +431,46 @@
       * ç
         * Occurances: 441
         * Examples
-          * 혐오발언을: [ç j ʌ m o b ɐ ɾ ʌ n ɯ ɭ]
-          * 혁명당: [ç j ʌ ŋ m j ʌ ŋ d ɐ ŋ]
+          * 현장에서: [ç j ʌ ɲ tɕ ɐ ŋ e sʰ ʌ]
           * 협력자: [ç j ʌ m ɲ j ʌ k̚ tɕʰ ɐ]
-          * 협상을: [ç j ʌ p s ɐ ŋ ɯ ɭ]
+          * 혈류로: [ç j ʌ ʎ ʎ j u ɾ o]
+          * 희망했다: [ç i m ɐ ŋ ʝ ɛː t̚ tʰ ɐ]
     * voiced
       * ʝ
         * Occurances: 803
         * Examples
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
-          * 마라톤협상: [m ɐ ɾ ɐ tʰ o n ʝ j ʌ p s ɐ ŋ]
-          * 상세히: [sʰ ɐ ŋ sʰ e ʝ i]
-          * 처리해: [tɕʰ ʌː ɾ i ʝ ɛː]
+          * 방해가: [p ɐ ŋ ʝ ɛː ɡ ɐ]
+          * 나란히: [n ɐ ɾ ɐ n ʝ i]
+          * 도저히: [t oː dʑ ʌ ʝ i]
+          * 성희씨: [sʰ ʌː ŋ ʝ i ɕ͈ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * x
         * Occurances: 185
         * Examples
-          * 흐름에: [x ɯ ɾ ɯ m e]
-          * 흥덕구: [x ɯ ŋ d ʌ k̚ kʰ u]
-          * 흙건축의: [x k tɕʰ u ɰ i]
+          * 흘러나갔: [x ɯ ɭ ɭ ʌ n ɐ ɡ ɐ t̚]
           * 흑점은: [x ɯ k̚ tɕʰ ʌ m ɯ n]
+          * 흔히들: [x ɯ n ʝ i d ɯ ɭ]
+          * 흔들릴: [x ɯ n d ɯ ʎ ʎ i ɭ]
     * voiced
       * ɣ
         * Occurances: 84
         * Examples
-          * 진행돼: [tɕ i n ɣ ɛː ŋ t w ɛː]
-          * 암흑만: [ɐ m ɣ ɯ m ɐ n]
-          * 진행할지: [tɕ i n ɣ ɛː ŋ h ɐ ʎ tɕ i]
-          * 진행되지: [tɕ i n ɣ ɛː ŋ d w e dʑ i]
+          * 유흥수: [j uː ɣ ɯ ŋ sʰ u]
+          * 암흑물질이: [ɐ m ɣ ɯ ŋ m u ʎ dʑ i ɾ i]
+          * 진행이: [tɕ i n ɣ ɛː ŋ i]
+          * 경기흐름과: [k j ʌː ŋ ɡ i ɣ ɯ ɾ ɯ m ɡ w ɐ]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 6572
         * Examples
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
-          * 예술행동에: [j e sʰ u ɾ h ɛː ŋ d o ŋ e]
-          * 하셔야: [h ɐ j ɐ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 보관하기만: [p oː ɡ w ɐ n h ɐ ɡ i m ɐ n]
+          * 화합과: [ɸ w ɐ h ɐ p̚ kʰ w ɐ]
+          * 선언하기도: [sʰ ʌ n ʌ n h ɐ ɡ i d o]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -484,27 +484,27 @@
       * j
         * Occurances: 14297
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 랴오닝: [ɾ j ɐ o n i ŋ]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 여성들이: [j ʌ sʰ ʌ ŋ d ɯ ɾ i]
+          * 봤거든요: [p w ɐ s͈ k ʌ d ɯ ɲ j o]
       * ɥ
         * Occurances: 1052
         * Examples
-          * 부위에: [p u ɥ e]
-          * 위험하게: [ɥ i h ʌ m h ɐ ɡ e]
-          * 위하다: [ɥ i h ɐ d ɐ]
-          * 발휘하다: [p ɐ ɾ h ɥ i h ɐ d ɐ]
+          * 뒤에서: [t ɥ i e sʰ ʌ]
+          * 등록취소: [t ɯ ŋ n o k̚ tɕʰ ɥ i sʰ o]
+          * 다윗을: [t ɐ ɥ i t̚ ɯ ɭ]
+          * 상임위: [sʰ ɐ ŋ i m ɥ i]
     ```
   - ```{ipa_cell}
     * other
       * ɰ
         * Occurances: 1751
         * Examples
-          * 세력의: [sʰ e ɾ j ʌ ɡ ɰ i]
-          * 하나의: [h ɐ n ɐ ɰ i]
-          * 인맥의: [i n m ɛː ɡ ɰ i]
-          * 의견의: [ɰ iː ɡ j ʌ n ɰ i]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 수의사와: [sʰ u ɰ i sʰ ɐ w ɐ]
+          * 포대의: [pʰ oː d ɛː ɰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -516,10 +516,10 @@
       * ɾ
         * Occurances: 11495
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 마무리: [m ɐ m u ɾ i]
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 랴오닝: [ɾ j ɐ o n i ŋ]
+          * 여성들이: [j ʌ sʰ ʌ ŋ d ɯ ɾ i]
+          * 종처럼: [tɕ o ŋ tɕʰ ʌ ɾ ʌ m]
+          * 리라고: [ɾ i ɾ ɐ ɡ o]
+          * 메모리: [m e m o ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -541,10 +541,10 @@
       * ʎ
         * Occurances: 3074
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 관리사: [k w ɐ ʎ ʎ i sʰ ɐ]
-          * 늘리려고: [n ɯ ʎ ʎ i ɾ j ʌ ɡ o]
-          * 권력자: [k w ʌ ʎ ʎ j ʌ k̚ tɕʰ ɐ]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 돌린다: [t o ʎ ʎ i n d ɐ]
+          * 멸종하지: [m j ʌ ʎ tɕ o ŋ h ɐ dʑ i]
+          * 달려든: [t ɐ ʎ ʎ j ʌ d ɯ n]
     ```
   - ```{ipa_cell}
     ```
@@ -560,10 +560,10 @@
       * ɭ
         * Occurances: 10880
         * Examples
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 스티로폴: [sʰ ɯ tʰ i ɾ o pʰ o ɭ]
-          * 통역을: [tʰ o ŋ j ʌ ɡ ɯ ɭ]
-          * 벌떼처럼: [p ʌ ɭ t͈ e tɕʰ ʌ ɾ ʌ m]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -593,17 +593,17 @@
       * i
         * Occurances: 27152
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 마무리: [m ɐ m u ɾ i]
-          * 가까이: [k ɐ k͈ ɐ i]
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
+          * 여성들이: [j ʌ sʰ ʌ ŋ d ɯ ɾ i]
       * iː
         * Occurances: 1715
         * Examples
-          * 이명박: [iː m j ʌ ŋ b ɐ k̚]
-          * 비하할: [p iː h ɐ h ɐ ɭ]
-          * 의견의: [ɰ iː ɡ j ʌ n ɰ i]
-          * 침범하는: [tɕʰ iː m b ʌ m h ɐ n ɯ n]
+          * 기다렸: [k iː d ɐ ɾ j ʌ t̚]
+          * 시기심이란: [ɕʰ iː ɡ i ɕʰ i m i ɾ ɐ n]
+          * 이용요금의: [iː j o ŋ j o ɡ ɯ m ɰ i]
+          * 비전문가: [p iː dʑ ʌ n m u n ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -616,32 +616,32 @@
       * ɯ
         * Occurances: 17141
         * Examples
-          * 페레스: [pʰ e ɾ e sʰ ɯ]
-          * 막국수를: [m ɐ k̚ kʰ u k s u ɾ ɯ ɭ]
-          * 끄트러기: [k͈ ɯ tʰ ɯ ɾ ʌ ɡ i]
-          * 스모그: [sʰ ɯ m o ɡ ɯ]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
+          * 뜻하다: [t͈ ɯ tʰ ɐ d ɐ]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
       * ɯː
         * Occurances: 216
         * Examples
-          * 그림은: [k ɯː ɾ i m ɯ n]
-          * 끌리다: [k͈ ɯː ʎ ʎ i d ɐ]
-          * 그림엽서: [k ɯː ɾ i m j ʌ p s ʌ]
-          * 그림에: [k ɯː ɾ i m e]
+          * 응시자는: [ɯː ŋ ɕʰ i dʑ ɐ n ɯ n]
+          * 끌어온: [k͈ ɯː ɾ ʌ o n]
+          * 음식값: [ɯː m ɕʰ i k̚ kʰ ɐ p̚]
+          * 근무를: [k ɯː n m u ɾ ɯ ɭ]
     * rounded
       * u
         * Occurances: 13330
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 마무리: [m ɐ m u ɾ i]
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
       * uː
         * Occurances: 1008
         * Examples
-          * 무연고: [m uː j ʌ n ɡ o]
-          * 문민정부: [m uː n m i ɲ dʑ ʌ ŋ b u]
-          * 두줄망둑: [t uː dʑ u ɭ m ɐ ŋ d u k̚]
-          * 운명에: [uː n m j ʌ ŋ e]
+          * 묻는다: [m uː t̚ n ɯ n d ɐ]
+          * 주춤거리: [tɕ uː tɕʰ u m ɡ ʌ ɾ i]
+          * 주거환경을: [tɕ uː ɡ ʌ kʰ w ɐ n ɡ j ʌ ŋ ɯ ɭ]
+          * 유가족들이: [j uː ɡ ɐ dʑ o k̚ tʰ ɯ ɾ i]
     ```
 * -
   - ```{ipa_cell}
@@ -660,17 +660,17 @@
       * e
         * Occurances: 8981
         * Examples
-          * 부위에: [p u ɥ e]
-          * 페레스: [pʰ e ɾ e sʰ ɯ]
-          * 예술행동에: [j e sʰ u ɾ h ɛː ŋ d o ŋ e]
-          * 수성갑에: [sʰ u sʰ ʌ ŋ ɡ ɐ b e]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 규칙에: [k j u tɕʰ i kʰ e]
+          * 메모리: [m e m o ɾ i]
+          * 모기에: [m oː ɡ i e]
       * eː
         * Occurances: 980
         * Examples
-          * 옐로스톤: [j eː ɭ ɭ o sʰ ɯ tʰ o n]
-          * 제조업체: [tɕ eː dʑ o ʌ p̚ tɕʰ e]
-          * 예약이: [j eː j ɐ i]
-          * 회사에서: [ɸ w eː sʰ ɐ e sʰ ʌ]
+          * 세탁기에서: [sʰ eː tʰ ɐ k̚ kʰ i e sʰ ʌ]
+          * 최대가: [tɕʰ w eː t ɛː ɡ ɐ]
+          * 세계대전이: [sʰ eː ɡ j e t̚ ɛː dʑ ʌ n i]
+          * 예정된게: [j eː dʑ ʌ ŋ d w e]
     ```
   - ```{ipa_cell}
     ```
@@ -683,17 +683,17 @@
       * o
         * Occurances: 18075
         * Examples
-          * 랴오닝: [ɾ j ɐ o n i ŋ]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
-          * 동광리: [t o ŋ ɡ w ɐ ŋ n i]
-          * 박멸하고: [p ɐ ŋ m j ʌ ɾ h ɐ ɡ o]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 보글보글: [p o ɡ ɯ ɭ b o ɡ ɯ ɭ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 반도의: [p ɐ n d o ɰ i]
       * oː
         * Occurances: 1697
         * Examples
-          * 조사는: [tɕ oː sʰ ɐ n ɯ n]
-          * 소주잔을: [sʰ oː dʑ u dʑ ɐ n ɯ ɭ]
-          * 보온병: [p oː o n b j ʌ ŋ]
-          * 교육열: [k j oː j u kʰ j ʌ ɭ]
+          * 소유물: [sʰ oː j u m u ɭ]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
+          * 보관하기만: [p oː ɡ w ɐ n h ɐ ɡ i m ɐ n]
+          * 모기에: [m oː ɡ i e]
     ```
 * -
   - ```{ipa_cell}
@@ -712,10 +712,10 @@
       * ɛː
         * Occurances: 7294
         * Examples
-          * 예술행동에: [j e sʰ u ɾ h ɛː ŋ d o ŋ e]
-          * 내용에: [n ɛː j o ŋ e]
-          * 지배하고: [tɕ i p ɛː h ɐ ɡ o]
-          * 황금시간대: [ɸ w ɐ ŋ ɡ ɯ m ɕʰ i ɡ ɐ n t ɛː]
+          * 백의종: [p ɛː ɡ ɰ i dʑ o ŋ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 포대의: [pʰ oː d ɛː ɰ i]
+          * 목재로: [m o k̚ tɕʰ ɛː ɾ o]
     ```
   - ```{ipa_cell}
     ```
@@ -728,17 +728,17 @@
       * ʌ
         * Occurances: 23951
         * Examples
-          * 어려울지: [ʌ ɾ j ʌ u ʎ tɕ i]
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
-          * 양심선언: [j ɐ ŋ ɕʰ i m sʰ ʌ n ʌ n]
-          * 성장도: [sʰ ʌ ŋ dʑ ɐ ŋ d o]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 행렬도: [h ɛː ŋ ɲ j ʌ ɭ t o]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 두음법칙: [t u ɯ m b ʌ p̚ tɕʰ i k̚]
       * ʌː
         * Occurances: 2306
         * Examples
-          * 하셔야: [h ɐ t̚ j ʌː j ɐ]
-          * 건축가지만: [k ʌː ɲ tɕʰ u k̚ kʰ ɐ dʑ i m ɐ n]
-          * 선거비: [sʰ ʌː n ɡ ʌ b i]
-          * 서랜던: [sʰ ʌː ɾ ɛː n d ʌ n]
+          * 성탄절: [sʰ ʌː ŋ tʰ ɐ ɲ dʑ ʌ ɭ]
+          * 전환점: [tɕ ʌː n β w ɐ ɲ dʑ ʌ m]
+          * 거부감: [k ʌː b u ɡ ɐ m]
+          * 점잖다: [tɕ ʌː m dʑ ɐ n tʰ ɐ]
     ```
 * -
   - ```{ipa_cell}
@@ -750,10 +750,10 @@
       * ɐ
         * Occurances: 41569
         * Examples
-          * 낮잡다: [n ɐ t̚ tɕʰ ɐ p̚ tʰ ɐ]
-          * 마무리: [m ɐ m u ɾ i]
-          * 가까이: [k ɐ k͈ ɐ i]
-          * 억울하다: [ʌ ɡ u ɾ h ɐ d ɐ]
+          * 더군다나: [t ʌ ɡ u n d ɐ n ɐ]
+          * 화물차에: [ɸ w ɐ m u ʎ tɕʰ ɐ e]
+          * 반도의: [p ɐ n d o ɰ i]
+          * 속마음: [sʰ oː ŋ m ɐ ɯ m]
     ```
   - ```{ipa_cell}
     ```

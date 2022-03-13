@@ -48,10 +48,10 @@
       * m
         * Occurances: 6902
         * Examples
-          * 基马尔: [tɕ i˥˥ m a˨˩˦ ʔ o˨˩˦ ɻ]
-          * 尼希米: [n i˧˥ ɕ i˥˥ m i˨˩˦]
-          * 行春门: [ɕ i˧˥ ŋ ʈʂʰ w ə˥˥ n m ə˧˥ n]
-          * 美帝国主义: [m ei˨˩˦ t i˥˩ k w o˧˥ ʈʂ u˨˩˦ i˥˩]
+          * 马尼拉: [m a˨˩˦ n i˧˥ l a˥˥]
+          * 穆斯林: [m u˥˩ s z̩˥˥ l i˧˥ n]
+          * 孟姜女: [m o˥˩ ŋ tɕ j a˥˥ ŋ n y˨˩˦]
+          * 姜母鸭: [tɕ j a˥˥ ŋ m u˨˩˦ j a˥˥]
     ```
   - ```{ipa_cell}
     ```
@@ -60,10 +60,10 @@
       * n
         * Occurances: 37000
         * Examples
-          * 园游会: [ɥ e˧˥ n j ou˧˥ x w ei˥˩]
-          * 多瑙河: [t w o˥˥ n au˨˩˦ x o˧˥]
-          * 和平谈判: [x o˧˥ pʰ i˧˥ ŋ tʰ a˧˥ n pʰ a˥˩ n]
-          * 加拉信: [tɕ j a˥˥ l a˥˥ ɕ i˥˩ n]
+          * 电单车: [t j e˥˩ n t a˥˥ n ʈʂʰ o˥˥]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 马尼拉: [m a˨˩˦ n i˧˥ l a˥˥]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -74,10 +74,10 @@
       * ŋ
         * Occurances: 28701
         * Examples
-          * 和平谈判: [x o˧˥ pʰ i˧˥ ŋ tʰ a˧˥ n pʰ a˥˩ n]
-          * 馅儿饼: [ɕ j a˥˩ ɻ p i˨˩˦ ŋ]
-          * 朗赛斯顿: [l a˨˩˦ ŋ s ai˥˩ s z̩˥˥ t w ə˥˩ n]
-          * 性行为: [ɕ i˥˩ ŋ ɕ i˧˥ ŋ w ei˧˥]
+          * 蔡家营: [tsʰ ai˥˩ tɕ j a˥˥ i˧˥ ŋ]
+          * 无穷花: [u˧˥ tɕʰ j u˧˥ ŋ x w a˥˥]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 仿宋体: [f a˨˩˦ ŋ s u˥˩ ŋ tʰ i˨˩˦]
       * ŋ̍
         * Occurances: 2
         * Examples
@@ -90,10 +90,10 @@
       * p
         * Occurances: 8933
         * Examples
-          * 细胞骨架: [ɕ i˥˩ p au˥˥ k u˨˩˦ tɕ j a˥˩]
-          * 白辽士: [p ai˧˥ l j au˧˥ ʂ ʐ̩˥˩]
-          * 馅儿饼: [ɕ j a˥˩ ɻ p i˨˩˦ ŋ]
-          * 八打雁: [p a˥˥ t a˨˩˦ j e˥˩ n]
+          * 北海道: [p ei˨˩˦ x ai˨˩˦ t au˥˩]
+          * 柯西不等式: [kʰ o˥˥ ɕ i˥˥ p u˥˩ t o˨˩˦ ŋ ʂ ʐ̩˥˩]
+          * 珍宝岛: [ʈʂ ə˥˥ n p au˨˩˦ t au˨˩˦]
+          * 八十垱: [p a˥˥ ʂ ʐ̩˧˥ t a˥˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -102,10 +102,10 @@
       * t
         * Occurances: 10558
         * Examples
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 多瑙河: [t w o˥˥ n au˨˩˦ x o˧˥]
-          * 帕多瓦: [pʰ a˥˩ t w o˥˥ w a˨˩˦]
-          * 朗赛斯顿: [l a˨˩˦ ŋ s ai˥˩ s z̩˥˥ t w ə˥˩ n]
+          * 电单车: [t j e˥˩ n t a˥˥ n ʈʂʰ o˥˥]
+          * 北海道: [p ei˨˩˦ x ai˨˩˦ t au˥˩]
+          * 东加语: [t u˥˥ ŋ tɕ j a˥˥ y˨˩˦]
+          * 柯西不等式: [kʰ o˥˥ ɕ i˥˥ p u˥˩ t o˨˩˦ ŋ ʂ ʐ̩˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -116,20 +116,20 @@
       * k
         * Occurances: 7874
         * Examples
-          * 细胞骨架: [ɕ i˥˩ p au˥˥ k u˨˩˦ tɕ j a˥˩]
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 国安法: [k w o˧˥ ʔ a˥˥ n f a˨˩˦]
-          * 总公司: [ts u˨˩˦ ŋ k u˥˥ ŋ s z̩˥˥]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
+          * 工效学: [k u˥˥ ŋ ɕ j au˥˩ ɕ ɥ e˧˥]
+          * 堆高机: [t w ei˥˥ k au˥˥ tɕ i˥˥]
     ```
   - ```{ipa_cell}
     * other
       * ʔ
         * Occurances: 3191
         * Examples
-          * 阿加尼亚: [ʔ a˥˥ tɕ j a˥˥ n i˧˥ j a˨˩˦]
-          * 国安法: [k w o˧˥ ʔ a˥˥ n f a˨˩˦]
-          * 基马尔: [tɕ i˥˥ m a˨˩˦ ʔ o˨˩˦ ɻ]
-          * 阿克拉: [ʔ a˥˥ kʰ o˥˩ l a˥˥]
+          * 安魂曲: [ʔ a˥˥ n x w ə˧˥ n tɕʰ y˨˩˦]
+          * 儿媳妇: [ʔ o˧˥ ɻ ɕ i˧˥ f u˥˩]
+          * 一氧化二氮: [i˥˥ j a˨˩˦ ŋ x w a˥˩ ʔ o˥˩ ɻ t a˥˩ n]
+          * 额尔齐斯: [ʔ o˧˥ ʔ o˨˩˦ ɻ tɕʰ i˧˥ s z̩˥˥]
     ```
 * - {submanner}`Aspirated`
   - ```{ipa_cell}
@@ -137,10 +137,10 @@
       * pʰ
         * Occurances: 3683
         * Examples
-          * 帕多瓦: [pʰ a˥˩ t w o˥˥ w a˨˩˦]
-          * 和平谈判: [x o˧˥ pʰ i˧˥ ŋ tʰ a˧˥ n pʰ a˥˩ n]
-          * 健康食品: [tɕ j e˥˩ n kʰ a˥˥ ŋ ʂ ʐ̩˧˥ pʰ i˨˩˦ n]
-          * 塑料普通话: [s u˥˩ l j au˥˩ pʰ u˨˩˦ tʰ u˥˥ ŋ x w a˥˩]
+          * 嬉皮士: [ɕ i˥˥ pʰ i˧˥ ʂ ʐ̩˥˩]
+          * 赛普勒斯: [s ai˥˩ pʰ u˨˩˦ l o˥˩ s z̩˥˥]
+          * 裁判员: [tsʰ ai˧˥ pʰ a˥˩ n ɥ e˧˥ n]
+          * 抛物线: [pʰ au˥˥ u˥˩ ɕ j e˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -149,10 +149,10 @@
       * tʰ
         * Occurances: 7190
         * Examples
-          * 和平谈判: [x o˧˥ pʰ i˧˥ ŋ tʰ a˧˥ n pʰ a˥˩ n]
-          * 手指头: [ʂ ou˨˩˦ ʈʂ ʐ̩˨˩˦ tʰ ou˦]
-          * 土曜日: [tʰ u˨˩˦ j au˥˩ ʐ̩˥˩]
-          * 塑料普通话: [s u˥˩ l j au˥˩ pʰ u˨˩˦ tʰ u˥˥ ŋ x w a˥˩]
+          * 仿宋体: [f a˨˩˦ ŋ s u˥˩ ŋ tʰ i˨˩˦]
+          * 太妃糖: [tʰ ai˥˩ f ei˥˥ tʰ a˧˥ ŋ]
+          * 斯特拉斯堡: [s z̩˥˥ tʰ o˥˩ l a˥˥ s z̩˥˥ p au˨˩˦]
+          * 选择题: [ɕ ɥ e˨˩˦ n ts o˧˥ tʰ i˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -163,10 +163,10 @@
       * kʰ
         * Occurances: 3876
         * Examples
-          * 健康食品: [tɕ j e˥˩ n kʰ a˥˥ ŋ ʂ ʐ̩˧˥ pʰ i˨˩˦ n]
-          * 单孔目: [t a˥˥ n kʰ u˨˩˦ ŋ m u˥˩]
-          * 科克亚: [kʰ o˥˥ kʰ o˥˩ j a˨˩˦]
-          * 克利夫兰: [kʰ o˥˩ l i˥˩ f u˥˥ l a˧˥ n]
+          * 柯西不等式: [kʰ o˥˥ ɕ i˥˥ p u˥˩ t o˨˩˦ ŋ ʂ ʐ̩˥˩]
+          * 狄拉克: [t i˧˥ l a˥˥ kʰ o˥˩]
+          * 综合扩大机: [ts u˥˥ ŋ x o˧˥ kʰ w o˥˩ t a˥˩ tɕ i˥˥]
+          * 乌孜别克族: [u˥˥ ts z̩˥˥ p j e˧˥ kʰ o˥˩ ts u˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -180,30 +180,30 @@
       * ts
         * Occurances: 4735
         * Examples
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 组成部分: [ts u˨˩˦ ʈʂʰ o˧˥ ŋ p u˥˩ f ə˩ n]
-          * 总公司: [ts u˨˩˦ ŋ k u˥˥ ŋ s z̩˥˥]
-          * 嘴歪眼斜: [ts w ei˨˩˦ w ai˥˥ j e˨˩˦ n ɕ j e˧˥]
+          * 选择题: [ɕ ɥ e˨˩˦ n ts o˧˥ tʰ i˧˥]
+          * 综合扩大机: [ts u˥˥ ŋ x o˧˥ kʰ w o˥˩ t a˥˩ tɕ i˥˥]
+          * 繁体字: [f a˧˥ n tʰ i˨˩˦ ts z̩˥˩]
+          * 乌孜别克族: [u˥˥ ts z̩˥˥ p j e˧˥ kʰ o˥˩ ts u˧˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈʂ
         * Occurances: 8793
         * Examples
-          * 手指头: [ʂ ou˨˩˦ ʈʂ ʐ̩˨˩˦ tʰ ou˦]
-          * 水脑症: [ʂ w ei˨˩˦ n au˨˩˦ ʈʂ o˥˩ ŋ]
-          * 基因治疗: [tɕ i˥˥ i˥˥ n ʈʂ ʐ̩˥˩ l j au˧˥]
-          * 美帝国主义: [m ei˨˩˦ t i˥˩ k w o˧˥ ʈʂ u˨˩˦ i˥˩]
+          * 珍宝岛: [ʈʂ ə˥˥ n p au˨˩˦ t au˨˩˦]
+          * 换置法: [x w a˥˩ n ʈʂ ʐ̩˥˩ f a˨˩˦]
+          * 桌上型电脑: [ʈʂ w o˥˥ ʂ a˥˩ ŋ ɕ i˧˥ ŋ t j e˥˩ n n au˨˩˦]
+          * 创业者: [ʈʂʰ w a˥˩ ŋ j e˥˩ ʈʂ o˨˩˦]
     ```
   - ```{ipa_cell}
     * voiceless
       * tɕ
         * Occurances: 12555
         * Examples
-          * 细胞骨架: [ɕ i˥˩ p au˥˥ k u˨˩˦ tɕ j a˥˩]
-          * 加拉信: [tɕ j a˥˥ l a˥˥ ɕ i˥˩ n]
-          * 阿加尼亚: [ʔ a˥˥ tɕ j a˥˥ n i˧˥ j a˨˩˦]
-          * 健康食品: [tɕ j e˥˩ n kʰ a˥˥ ŋ ʂ ʐ̩˧˥ pʰ i˨˩˦ n]
+          * 蔡家营: [tsʰ ai˥˩ tɕ j a˥˥ i˧˥ ŋ]
+          * 东加语: [t u˥˥ ŋ tɕ j a˥˥ y˨˩˦]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -219,30 +219,30 @@
       * tsʰ
         * Occurances: 2419
         * Examples
-          * 稻草人: [t au˥˩ tsʰ au˨˩˦ ʐ ə˧˥ n]
-          * 浊擦音: [ʈʂ w o˧˥ tsʰ a˥˥ i˥˥ n]
-          * 科布伦茨: [kʰ o˥˥ p u˥˩ l w ə˧˥ n tsʰ z̩˧˥]
-          * 体操运动员: [tʰ i˨˩˦ tsʰ au˥˥ y˥˩ n t u˥˩ ŋ ɥ e˧˥ n]
+          * 蔡家营: [tsʰ ai˥˩ tɕ j a˥˥ i˧˥ ŋ]
+          * 双槽门: [ʂ w a˥˥ ŋ tsʰ au˧˥ m ə˧˥ n]
+          * 裁判员: [tsʰ ai˧˥ pʰ a˥˩ n ɥ e˧˥ n]
+          * 色林错: [s o˥˩ l i˧˥ n tsʰ w o˥˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈʂʰ
         * Occurances: 5901
         * Examples
-          * 组成部分: [ts u˨˩˦ ʈʂʰ o˧˥ ŋ p u˥˩ f ə˩ n]
-          * 行春门: [ɕ i˧˥ ŋ ʈʂʰ w ə˥˥ n m ə˧˥ n]
-          * 电动车: [t j e˥˩ n t u˥˩ ŋ ʈʂʰ o˥˥]
-          * 司法警察: [s z̩˥˥ f a˨˩˦ tɕ i˨˩˦ ŋ ʈʂʰ a˧˥]
+          * 电单车: [t j e˥˩ n t a˥˥ n ʈʂʰ o˥˥]
+          * 上车湾: [ʂ a˥˩ ŋ ʈʂʰ o˥˥ w a˥˥ n]
+          * 创业者: [ʈʂʰ w a˥˩ ŋ j e˥˩ ʈʂ o˨˩˦]
+          * 波德里查: [p w o˥˥ t o˧˥ l i˨˩˦ ʈʂʰ a˧˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * tɕʰ
         * Occurances: 6078
         * Examples
-          * 前后文: [tɕʰ j e˧˥ n x ou˥˩ w ə˧˥ n]
-          * 八字桥: [p a˥˥ ts z̩˥˩ tɕʰ j au˧˥]
-          * 七月份: [tɕʰ i˥˥ ɥ e˥˩ f ə˥˩ n]
-          * 起居室: [tɕʰ i˨˩˦ tɕ y˥˥ ʂ ʐ̩˨˩˦]
+          * 无穷花: [u˧˥ tɕʰ j u˧˥ ŋ x w a˥˥]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
+          * 羟醛反应: [tɕʰ j a˨˩˦ ŋ tɕʰ ɥ e˧˥ n f a˨˩˦ n i˥˩ ŋ]
+          * 安魂曲: [ʔ a˥˥ n x w ə˧˥ n tɕʰ y˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -258,53 +258,53 @@
       * s
         * Occurances: 4501
         * Examples
-          * 朗赛斯顿: [l a˨˩˦ ŋ s ai˥˩ s z̩˥˥ t w ə˥˩ n]
-          * 总公司: [ts u˨˩˦ ŋ k u˥˥ ŋ s z̩˥˥]
-          * 塑料普通话: [s u˥˩ l j au˥˩ pʰ u˨˩˦ tʰ u˥˥ ŋ x w a˥˩]
-          * 寄宿学校: [tɕ i˥˩ s u˥˩ ɕ ɥ e˧˥ ɕ j au˥˩]
+          * 仿宋体: [f a˨˩˦ ŋ s u˥˩ ŋ tʰ i˨˩˦]
+          * 穆斯林: [m u˥˩ s z̩˥˥ l i˧˥ n]
+          * 斯特拉斯堡: [s z̩˥˥ tʰ o˥˩ l a˥˥ s z̩˥˥ p au˨˩˦]
+          * 小三阳: [ɕ j au˨˩˦ s a˥˥ n j a˧˥ ŋ]
     * voiced
       * z̩
         * Occurances: 3912
         * Examples
-          * 朗赛斯顿: [l a˨˩˦ ŋ s ai˥˩ s z̩˥˥ t w ə˥˩ n]
-          * 椰子糖: [j e˥˥ ts z̩˨ tʰ a˧˥ ŋ]
+          * 有意思: [j ou˨˩˦ i˥˩ s z̩˩]
+          * 电子琴: [t j e˥˩ n ts z̩˨˩˦ tɕʰ i˧˥ n]
+          * 乌孜别克族: [u˥˥ ts z̩˥˥ p j e˧˥ kʰ o˥˩ ts u˧˥]
           * 大斧子: [t a˥˩ f u˨˩˦ ts z̩˦]
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 11448
         * Examples
-          * 白辽士: [p ai˧˥ l j au˧˥ ʂ ʐ̩˥˩]
-          * 收货人: [ʂ ou˥˥ x w o˥˩ ʐ ə˧˥ n]
-          * 健康食品: [tɕ j e˥˩ n kʰ a˥˥ ŋ ʂ ʐ̩˧˥ pʰ i˨˩˦ n]
-          * 手指头: [ʂ ou˨˩˦ ʈʂ ʐ̩˨˩˦ tʰ ou˦]
+          * 柯西不等式: [kʰ o˥˥ ɕ i˥˥ p u˥˩ t o˨˩˦ ŋ ʂ ʐ̩˥˩]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 达伊沙: [t a˧˥ i˥˥ ʂ a˥˥]
+          * 八十垱: [p a˥˥ ʂ ʐ̩˧˥ t a˥˩ ŋ]
     * voiced
       * ʐ
         * Occurances: 2592
         * Examples
-          * 收货人: [ʂ ou˥˥ x w o˥˩ ʐ ə˧˥ n]
-          * 突然间: [tʰ u˥˥ ʐ a˧˥ n tɕ j e˥˥ n]
-          * 稻草人: [t au˥˩ tsʰ au˨˩˦ ʐ ə˧˥ n]
-          * 仙人球: [ɕ j e˥˥ n ʐ ə˧˥ n tɕʰ j ou˧˥]
+          * 自然界: [ts z̩˥˩ ʐ a˧˥ n tɕ j e˥˩]
+          * 瑞士军刀: [ʐ w ei˥˩ ʂ ʐ̩˥˩ tɕ y˥˥ n t au˥˥]
+          * 人格化: [ʐ ə˧˥ n k o˧˥ x w a˥˩]
+          * 好人家: [x au˨˩˦ ʐ ə˧˥ n tɕ j a˥˥]
       * ʐ̩
         * Occurances: 6404
         * Examples
-          * 挂钥匙儿童: [k w a˥˩ j au˥˩ ʂ ʐ̩˩ ʔ o˧˥ ɻ tʰ u˧˥ ŋ]
-          * 健康食品: [tɕ j e˥˩ n kʰ a˥˥ ŋ ʂ ʐ̩˧˥ pʰ i˨˩˦ n]
-          * 浪漫史: [l a˥˩ ŋ m a˥˩ n ʂ ʐ̩˨˩˦]
-          * 起居室: [tɕʰ i˨˩˦ tɕ y˥˥ ʂ ʐ̩˨˩˦]
+          * 青铜器时代: [tɕʰ i˥˥ ŋ tʰ u˧˥ ŋ tɕʰ i˥˩ ʂ ʐ̩˧˥ t ai˥˩]
+          * 知识产权: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ ʈʂʰ a˨˩˦ n tɕʰ ɥ e˧˥ n]
+          * 钥匙扣: [j au˥˩ ʂ ʐ̩˩ kʰ ou˥˩]
+          * 使不得: [ʂ ʐ̩˨˩˦ p u˥˩ t o˧˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 10545
         * Examples
-          * 细胞骨架: [ɕ i˥˩ p au˥˥ k u˨˩˦ tɕ j a˥˩]
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 加拉信: [tɕ j a˥˥ l a˥˥ ɕ i˥˩ n]
-          * 馅儿饼: [ɕ j a˥˩ ɻ p i˨˩˦ ŋ]
+          * 柯西不等式: [kʰ o˥˥ ɕ i˥˥ p u˥˩ t o˨˩˦ ŋ ʂ ʐ̩˥˩]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
+          * 工效学: [k u˥˥ ŋ ɕ j au˥˩ ɕ ɥ e˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -318,10 +318,10 @@
       * f
         * Occurances: 5538
         * Examples
-          * 国安法: [k w o˧˥ ʔ a˥˥ n f a˨˩˦]
-          * 组成部分: [ts u˨˩˦ ʈʂʰ o˧˥ ŋ p u˥˩ f ə˩ n]
-          * 七月份: [tɕʰ i˥˥ ɥ e˥˩ f ə˥˩ n]
-          * 北伐战争: [p ei˨˩˦ f a˧˥ ʈʂ a˥˩ n ʈʂ o˥˥ ŋ]
+          * 仿宋体: [f a˨˩˦ ŋ s u˥˩ ŋ tʰ i˨˩˦]
+          * 太妃糖: [tʰ ai˥˩ f ei˥˥ tʰ a˧˥ ŋ]
+          * 羟醛反应: [tɕʰ j a˨˩˦ ŋ tɕʰ ɥ e˧˥ n f a˨˩˦ n i˥˩ ŋ]
+          * 太白粉: [tʰ ai˥˩ p ai˧˥ f ə˨˩˦ n]
     ```
   - ```{ipa_cell}
     ```
@@ -334,10 +334,10 @@
       * x
         * Occurances: 8842
         * Examples
-          * 园游会: [ɥ e˧˥ n j ou˧˥ x w ei˥˩]
-          * 多瑙河: [t w o˥˥ n au˨˩˦ x o˧˥]
-          * 和平谈判: [x o˧˥ pʰ i˧˥ ŋ tʰ a˧˥ n pʰ a˥˩ n]
-          * 收货人: [ʂ ou˥˥ x w o˥˩ ʐ ə˧˥ n]
+          * 无穷花: [u˧˥ tɕʰ j u˧˥ ŋ x w a˥˥]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 北海道: [p ei˨˩˦ x ai˨˩˦ t au˥˩]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -353,27 +353,27 @@
       * ɻ
         * Occurances: 3579
         * Examples
-          * 馅儿饼: [ɕ j a˥˩ ɻ p i˨˩˦ ŋ]
-          * 回单儿: [x w ei˧˥ t a˥˥ ɻ]
-          * 基马尔: [tɕ i˥˥ m a˨˩˦ ʔ o˨˩˦ ɻ]
-          * 外甥女儿: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦ ɻ]
+          * 儿媳妇: [ʔ o˧˥ ɻ ɕ i˧˥ f u˥˩]
+          * 一氧化二氮: [i˥˥ j a˨˩˦ ŋ x w a˥˩ ʔ o˥˩ ɻ t a˥˩ n]
+          * 额尔齐斯: [ʔ o˧˥ ʔ o˨˩˦ ɻ tɕʰ i˧˥ s z̩˥˥]
+          * 一下儿: [i˥˥ ɕ j a˥˩ ɻ]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 25985
         * Examples
-          * 细胞骨架: [ɕ i˥˩ p au˥˥ k u˨˩˦ tɕ j a˥˩]
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 园游会: [ɥ e˧˥ n j ou˧˥ x w ei˥˩]
-          * 白辽士: [p ai˧˥ l j au˧˥ ʂ ʐ̩˥˩]
+          * 电单车: [t j e˥˩ n t a˥˥ n ʈʂʰ o˥˥]
+          * 蔡家营: [tsʰ ai˥˩ tɕ j a˥˥ i˧˥ ŋ]
+          * 无穷花: [u˧˥ tɕʰ j u˧˥ ŋ x w a˥˥]
+          * 东加语: [t u˥˥ ŋ tɕ j a˥˥ y˨˩˦]
       * ɥ
         * Occurances: 4109
         * Examples
-          * 园游会: [ɥ e˧˥ n j ou˧˥ x w ei˥˩]
-          * 七月份: [tɕʰ i˥˥ ɥ e˥˩ f ə˥˩ n]
-          * 全方位: [tɕʰ ɥ e˧˥ n f a˥˥ ŋ w ei˥˩]
-          * 寄宿学校: [tɕ i˥˩ s u˥˩ ɕ ɥ e˧˥ ɕ j au˥˩]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 勤工俭学: [tɕʰ i˧˥ n k u˥˥ ŋ tɕ j e˨˩˦ n ɕ ɥ e˧˥]
+          * 羟醛反应: [tɕʰ j a˨˩˦ ŋ tɕʰ ɥ e˧˥ n f a˨˩˦ n i˥˩ ŋ]
+          * 工效学: [k u˥˥ ŋ ɕ j au˥˩ ɕ ɥ e˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -389,10 +389,10 @@
       * l
         * Occurances: 11057
         * Examples
-          * 字倒过来写: [ts z̩˥˩ t au˥˩ k w o˥˩ l ai˧˥ ɕ j e˨˩˦]
-          * 白辽士: [p ai˧˥ l j au˧˥ ʂ ʐ̩˥˩]
-          * 加拉信: [tɕ j a˥˥ l a˥˥ ɕ i˥˩ n]
-          * 朗赛斯顿: [l a˨˩˦ ŋ s ai˥˩ s z̩˥˥ t w ə˥˩ n]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 马尼拉: [m a˨˩˦ n i˧˥ l a˥˥]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 穆斯林: [m u˥˩ s z̩˥˥ l i˧˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -424,18 +424,18 @@
       * i
         * Occurances: 26672
         * Examples
-          * 起居室: [tɕʰ i˨˩˦ tɕ y˥˥ ʂ ʐ̩˨˩˦]
-          * 基马尔: [tɕ i˥˥ m a˨˩˦ ʔ o˨˩˦ ɻ]
-          * 叔伯弟弟: [ʂ u˥˥ p ai˨ t i˥˩ t i˩]
-          * 馅儿饼: [ɕ j a˥˩ ɻ p i˨˩˦ ŋ]
+          * 达伊沙: [t a˧˥ i˥˥ ʂ a˥˥]
+          * 马家岭: [m a˨˩˦ tɕ j a˥˥ l i˨˩˦ ŋ]
+          * 土地爷: [tʰ u˨˩˦ t i˦ j e˧˥]
+          * 买东西: [m ai˨˩˦ t u˥˥ ŋ ɕ i˨]
     * rounded
       * y
         * Occurances: 5463
         * Examples
-          * 绿色植物: [l y˥˩ s o˥˩ ʈʂ ʐ̩˧˥ u˥˩]
-          * 晴雨表: [tɕʰ i˧˥ ŋ y˨˩˦ p j au˨˩˦]
+          * 二律背反: [ʔ o˥˩ ɻ l y˥˩ p ei˥˩ f a˨˩˦ n]
+          * 不列颠群岛: [p u˥˩ l j e˥˩ t j e˥˥ n tɕʰ y˧˥ n t au˨˩˦]
           * 姪女婿: [ʈʂ ʐ̩˧˥ n y˨˩˦ ɕ y˦]
-          * 福寿鱼: [f u˧˥ ʂ ou˥˩ y˧˥]
+          * 蛐蛐儿: [tɕʰ y˥˥ tɕʰ y˨ ɻ]
     ```
   - ```{ipa_cell}
     ```
@@ -448,10 +448,10 @@
       * u
         * Occurances: 21271
         * Examples
-          * 塑料普通话: [s u˥˩ l j au˥˩ pʰ u˨˩˦ tʰ u˥˥ ŋ x w a˥˩]
-          * 保不定: [p au˨˩˦ p u˦ t i˥˩ ŋ]
-          * 无肢蜥: [u˧˥ ʈʂ ʐ̩˥˥ ɕ i˥˥]
-          * 差不多: [ʈʂʰ a˥˩ p u˩ t w o˥˥]
+          * 配不上: [pʰ ei˥˩ p u˩ ʂ a˥˩ ŋ]
+          * 老公公: [l au˨˩˦ k u˥˥ ŋ k u˨ ŋ]
+          * 无穷花: [u˧˥ tɕʰ j u˧˥ ŋ x w a˥˥]
+          * 保不住: [p au˨˩˦ p u˦ ʈʂ u˥˩]
     ```
 * -
   - ```{ipa_cell}
@@ -470,10 +470,10 @@
       * e
         * Occurances: 15113
         * Examples
-          * 园游会: [ɥ e˧˥ n j ou˧˥ x w ei˥˩]
-          * 田野工作: [tʰ j e˧˥ n j e˨˩˦ k u˥˥ ŋ ts w o˥˩]
-          * 嘴歪眼斜: [ts w ei˨˩˦ w ai˥˥ j e˨˩˦ n ɕ j e˧˥]
-          * 大少爷: [t a˥˩ ʂ au˥˩ j e˩]
+          * 天气预告: [tʰ j e˥˥ n tɕʰ i˥˩ y˥˩ k au˥˩]
+          * 小姐姐: [ɕ j au˨˩˦ tɕ j e˨˩˦ tɕ j e˦]
+          * 异性恋: [i˥˩ ɕ i˥˩ ŋ l j e˥˩ n]
+          * 选择题: [ɕ ɥ e˨˩˦ n ts o˧˥ tʰ i˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -486,10 +486,10 @@
       * o
         * Occurances: 18898
         * Examples
-          * 胡伯伯: [x u˧˥ p w o˧˥ p w o˨]
-          * 收货人: [ʂ ou˥˥ x w o˥˩ ʐ ə˧˥ n]
-          * 小家伙: [ɕ j au˨˩˦ tɕ j a˥˥ x w o˨]
-          * 咬耳朵: [j au˨˩˦ ʔ o˨˩˦ ɻ t w o˦]
+          * 好好先生: [x au˨˩˦ x au˨˩˦ ɕ j e˥˥ n ʂ o˨ ŋ]
+          * 综合扩大机: [ts u˥˥ ŋ x o˧˥ kʰ w o˥˩ t a˥˩ tɕ i˥˥]
+          * 休火山: [ɕ j ou˥˥ x w o˨˩˦ ʂ a˥˥ n]
+          * 胡萝卜素: [x u˧˥ l w o˧˥ p w o˨ s u˥˩]
     ```
 * -
   - ```{ipa_cell}
@@ -501,10 +501,10 @@
       * ə
         * Occurances: 7146
         * Examples
-          * 你妈死了: [n i˨˩˦ m a˥˥ s z̩˨˩˦ l ə˦]
-          * 说了算: [ʂ w o˥˥ l ə˨ s w a˥˩ n]
-          * 怎么了: [ts ə˨˩˦ n m ə˦ l ə˩]
-          * 眼见得: [j e˨˩˦ n tɕ j e˥˩ n t ə˩]
+          * 埃因霍芬: [ʔ ai˥˥ i˥˥ n x w o˥˩ f ə˥˥ n]
+          * 我的世界: [w o˨˩˦ t ə˦ ʂ ʐ̩˥˩ tɕ j e˥˩]
+          * 肯塔基: [kʰ ə˨˩˦ n tʰ a˨˩˦ tɕ i˥˥]
+          * 南安普顿: [n a˧˥ n ʔ a˥˥ n pʰ u˨˩˦ t w ə˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -542,10 +542,10 @@
       * a
         * Occurances: 34421
         * Examples
-          * 砂啦越: [ʂ a˥˥ l a˨ ɥ e˥˩]
-          * 不会吧: [p u˥˩ x w ei˥˩ p a˩]
-          * 戳嵴樑骨: [ʈʂʰ w o˥˥ tɕ i˨˩˦ l j a˦ ŋ k u˨˩˦]
-          * 肋巴骨: [l ei˥˩ p a˩ k u˨˩˦]
+          * 小三阳: [ɕ j au˨˩˦ s a˥˥ n j a˧˥ ŋ]
+          * 化学计量数: [x w a˥˩ ɕ ɥ e˧˥ tɕ i˥˩ l j a˥˩ ŋ ʂ u˥˩]
+          * 英格兰银行: [i˥˥ ŋ k o˧˥ l a˧˥ n i˧˥ n x a˧˥ ŋ]
+          * 月亮湖: [ɥ e˥˩ l j a˩ ŋ x u˧˥]
     ```
   - ```{ipa_cell}
     ```

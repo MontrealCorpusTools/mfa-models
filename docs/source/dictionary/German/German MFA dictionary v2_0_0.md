@@ -52,17 +52,17 @@
       * m
         * Occurances: 67155
         * Examples
-          * tramm: [t ʁ a m]
-          * mäh: [m eː]
-          * mais: [m aj s]
-          * sam: [z a m]
+          * mans: [m aː n s]
+          * madam: [m a d a m]
+          * tampa: [tʰ a m pʰ a]
+          * culm: [kʰ ʊ l m]
       * m̩
         * Occurances: 1606
         * Examples
-          * ifm: [ɪ f m̩]
+          * jenem: [j eː n m̩]
+          * jedem: [j eː b m̩]
+          * dem: [d m̩]
           * aufm: [aw f m̩]
-          * nahem: [n aː m̩]
-          * uedem: [ʊ eː d m̩]
     ```
   - ```{ipa_cell}
     ```
@@ -71,17 +71,17 @@
       * n
         * Occurances: 150364
         * Examples
-          * bison: [b iː z ɔ n]
-          * pazin: [pʰ a ts iː n]
-          * vente: [v ɛ n tʰ ə]
-          * lynd: [l ʏ n t]
+          * mans: [m aː n s]
+          * innig: [ɪ n ɪ ç]
+          * pfyn: [pf yː n]
+          * runde: [ʁ ʊ n d ə]
       * n̩
         * Occurances: 68012
         * Examples
-          * keten: [cʰ ɛ tʰ n̩]
-          * eiden: [aj d n̩]
-          * haden: [h aː d n̩]
-          * women: [v oː m n̩]
+          * feien: [f aj n̩]
+          * lesen: [l eː z n̩]
+          * lünen: [l yː n n̩]
+          * bosen: [b oː z n̩]
     ```
   - ```{ipa_cell}
     ```
@@ -90,20 +90,20 @@
       * ɲ
         * Occurances: 1798
         * Examples
-          * fancy: [f ɔ ɲ ɪ]
-          * lyng: [l ʏ ɲ ɟ eː]
+          * news: [ɲ uː s]
+          * newt: [ɲ uː t]
+          * lynch: [l ʏ ɲ ç]
           * dench: [d ɛ ɲ ç]
-          * finch: [f ɪ ɲ ç]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 31491
         * Examples
-          * bonga: [b ɔ ŋ ɡ a]
-          * enke: [ɛ ŋ kʰ ə]
-          * langs: [l a ŋ s]
-          * dinka: [d ɪ ŋ kʰ a]
+          * fange: [f a ŋ ə]
+          * funk: [f a ŋ k]
+          * finck: [f ɪ ŋ k]
+          * levon: [l ɛ v ɔ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -115,18 +115,18 @@
       * p
         * Occurances: 28849
         * Examples
-          * laub: [l aw p]
-          * spira: [ʃ p ɪ ʁ a]
-          * apps: [ɛ p s]
-          * spall: [ʃ p a l]
+          * traub: [t ʁ aw p]
+          * pro: [p ʁ oː]
+          * huub: [h a a p]
+          * aspik: [a s p iː k]
     * voiced
       * b
         * Occurances: 60984
         * Examples
-          * bison: [b iː z ɔ n]
-          * löbe: [l øː b ə]
-          * oybin: [ɔ ɪ b iː n]
-          * anbau: [a n b aw]
+          * derbe: [d ɛ ʁ b ə]
+          * bobbe: [b ɔ b ə]
+          * gubei: [ɡ uː b aj]
+          * büsst: [b yː s t]
     ```
   - ```{ipa_cell}
     ```
@@ -135,18 +135,18 @@
       * t
         * Occurances: 114741
         * Examples
-          * tramm: [t ʁ a m]
-          * lynd: [l ʏ n t]
-          * list: [l ɪ s t]
-          * koset: [kʰ oː z ə t]
+          * hat: [h a t]
+          * büsst: [b yː s t]
+          * rühmt: [ʁ yː m t]
+          * jacht: [j a x t]
     * voiced
       * d
         * Occurances: 53781
         * Examples
-          * dyn: [d yː n]
-          * deleo: [d ɛ l ɛ ɔ]
-          * dene: [d eː n ə]
-          * della: [d ɛ l a]
+          * derbe: [d ɛ ʁ b ə]
+          * madam: [m a d a m]
+          * dykes: [d ʏ kʰ ə s]
+          * runde: [ʁ ʊ n d ə]
     ```
   - ```{ipa_cell}
     ```
@@ -155,36 +155,36 @@
       * c
         * Occurances: 1183
         * Examples
-          * skien: [s c ɪ n̩]
           * laski: [l aː s c ɪ]
-          * skene: [s c ɛ n ə]
-          * skype: [s c yː pʰ ə]
+          * scey: [s c ɪ]
+          * sky: [s c ɪ]
+          * bisky: [b ɪ s c ɪ]
     * voiced
       * ɟ
         * Occurances: 10500
         * Examples
-          * gigi: [ɟ ɪ ɟ ɪ]
-          * gebe: [ɟ eː b ə]
-          * gönn: [ɟ œ n]
-          * gietz: [ɟ iː ɛ ts]
+          * gynt: [ɟ ʏ n t]
+          * gehn: [ɟ eː n]
+          * gert: [ɟ ɛ ɐ t]
+          * giant: [ɟ ɪ aː n t]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 45719
         * Examples
-          * uruk: [uː ʁ ʊ k]
-          * talg: [tʰ a l k]
-          * exo: [ɛ k s ɔ]
-          * score: [s k oː ʁ ə]
+          * litex: [l ɪ tʰ ɛ k s]
+          * uhlig: [uː l ɪ k]
+          * fähig: [f eː ɪ k]
+          * kraj: [k ʁ a j]
     * voiced
       * ɡ
         * Occurances: 56540
         * Examples
-          * norge: [n ɔ ʁ ɡ ə]
-          * gerau: [ɡ ə ʁ aw]
-          * grass: [ɡ ʁ a s]
-          * bonga: [b ɔ ŋ ɡ a]
+          * sorge: [z ɔ ʁ ɡ ə]
+          * gubei: [ɡ uː b aj]
+          * goth: [ɡ oː t]
+          * hügel: [h yː ɡ l̩]
     ```
   - ```{ipa_cell}
     ```
@@ -196,10 +196,10 @@
       * pʰ
         * Occurances: 18725
         * Examples
-          * öppe: [œ pʰ ə]
-          * poppo: [pʰ ɔ pʰ ɔ]
-          * pazin: [pʰ a ts iː n]
-          * penh: [pʰ ɛ n h aː]
+          * tampa: [tʰ a m pʰ a]
+          * erpe: [ɛ ʁ pʰ ə]
+          * pura: [pʰ ʊ ʁ a]
+          * pulli: [pʰ ʊ l ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -208,10 +208,10 @@
       * tʰ
         * Occurances: 83041
         * Examples
-          * vente: [v ɛ n tʰ ə]
-          * tenor: [tʰ eː n oː ʁ]
-          * lotti: [l ɔ tʰ ɪ]
-          * talg: [tʰ a l k]
+          * litex: [l ɪ tʰ ɛ k s]
+          * itea: [ɪ tʰ ɛ aː]
+          * tampa: [tʰ a m pʰ a]
+          * tata: [tʰ a tʰ a]
     ```
   - ```{ipa_cell}
     ```
@@ -220,20 +220,20 @@
       * cʰ
         * Occurances: 8276
         * Examples
-          * kirri: [cʰ ɪ ʁ ɪ]
-          * kyll: [cʰ ʏ l]
-          * kerim: [cʰ ɛ ʁ ɪ m]
-          * kembs: [cʰ ɛ m p s]
+          * cairo: [cʰ ɛ aj ʁ ɔ]
+          * kimi: [cʰ ɪ m iː]
+          * kids: [cʰ ɪ t s]
+          * hakim: [h aː cʰ ɪ m]
     ```
   - ```{ipa_cell}
     * voiceless
       * kʰ
         * Occurances: 32392
         * Examples
-          * heiko: [h aj kʰ ɔ]
-          * koset: [kʰ oː z ə t]
-          * doka: [d ɔ kʰ a]
-          * keila: [kʰ aj l a]
+          * dykes: [d ʏ kʰ ə s]
+          * culm: [kʰ ʊ l m]
+          * kurt: [kʰ ʊ ʁ t]
+          * akka: [a kʰ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -247,30 +247,30 @@
       * pf
         * Occurances: 3855
         * Examples
-          * pferd: [pf eː ʁ t]
-          * zapfe: [ts a pf ə]
-          * kämpf: [cʰ ɛ m pf]
-          * pflog: [pf l oː k]
+          * pfyn: [pf yː n]
+          * kopf: [kʰ ɔ pf]
+          * pforr: [pf ɔ ʁ]
+          * tropf: [t ʁ ɔ pf]
     ```
   - ```{ipa_cell}
     * voiceless
       * ts
         * Occurances: 42560
         * Examples
-          * pazin: [pʰ a ts iː n]
-          * leuze: [l ɔʏ ts ə]
-          * zusam: [ts uː z a m]
-          * izumi: [iː ts ʊ m ɪ]
+          * flitz: [f l ɪ ts]
+          * klotz: [k l ɔ ts]
+          * kanz: [kʰ a n ts]
+          * suzy: [z uː ts ɪ]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1425
         * Examples
-          * chans: [tʃ aː n s]
-          * ching: [tʃ ɪ ŋ]
-          * pitch: [pʰ ɪ tʃ]
-          * munch: [m a n tʃ]
+          * choi: [tʃ oː ɪ]
+          * dulci: [d ʊ l tʃ ɪ]
+          * tschi: [tʃ ɪ]
+          * chain: [tʃ aj n]
     ```
   - ```{ipa_cell}
     ```
@@ -290,28 +290,28 @@
       * s
         * Occurances: 104057
         * Examples
-          * mais: [m aj s]
-          * list: [l ɪ s t]
-          * hares: [h aː ʁ ə s]
-          * holts: [h ɔ l s]
+          * litex: [l ɪ tʰ ɛ k s]
+          * mans: [m aː n s]
+          * dykes: [d ʏ kʰ ə s]
+          * rudis: [ʁ ʊ d iː s]
     * voiced
       * z
         * Occurances: 38940
         * Examples
-          * bison: [b iː z ɔ n]
-          * sam: [z a m]
-          * koset: [kʰ oː z ə t]
-          * zusam: [ts uː z a m]
+          * sorge: [z ɔ ʁ ɡ ə]
+          * rosl: [ʁ oː z l̩]
+          * lesen: [l eː z n̩]
+          * sacks: [z a k s]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 61445
         * Examples
-          * stier: [ʃ t iː ɐ]
-          * stift: [ʃ t ɪ f t]
-          * spira: [ʃ p ɪ ʁ a]
-          * spall: [ʃ p a l]
+          * stars: [ʃ t aː ɐ s]
+          * staar: [ʃ t aː ɐ]
+          * spule: [ʃ p uː l ə]
+          * spohn: [ʃ p oː n]
     ```
   - ```{ipa_cell}
     ```
@@ -329,18 +329,18 @@
       * f
         * Occurances: 72786
         * Examples
-          * arrow: [a ʁ ɔ f]
-          * stift: [ʃ t ɪ f t]
-          * cafs: [kʰ aː f s]
-          * kniff: [k n ɪ f]
+          * feien: [f aj n̩]
+          * fafe: [f aː f ə]
+          * flitz: [f l ɪ ts]
+          * fähig: [f eː ɪ k]
     * voiced
       * v
         * Occurances: 41312
         * Examples
-          * vente: [v ɛ n tʰ ə]
-          * riva: [ʁ ɪ v a]
-          * völva: [v œ l v a]
-          * yawl: [j a v eː l]
+          * quäl: [k v eː l]
+          * löwe: [l øː v ə]
+          * levon: [l ɛ v ɔ ŋ]
+          * wähn: [v eː n]
     ```
   - ```{ipa_cell}
     ```
@@ -351,40 +351,40 @@
       * ç
         * Occurances: 29930
         * Examples
-          * talg: [tʰ a l ç]
-          * hecht: [h ɛ ç t]
-          * aasig: [aː z ɪ ç]
-          * stich: [ʃ t ɪ ç]
+          * innig: [ɪ n ɪ ç]
+          * fähig: [f eː ɪ ç]
+          * äugt: [ɔʏ ç t]
+          * pirch: [pʰ ɪ ʁ ç]
     ```
   - ```{ipa_cell}
     * voiceless
       * x
         * Occurances: 11007
         * Examples
-          * joche: [j ɔ x ə]
-          * hoch: [h oː x]
-          * mach: [m a x]
-          * socha: [z ɔ x aː]
+          * jacht: [j a x t]
+          * solch: [s ɔ l x]
+          * facht: [f a x t]
+          * cache: [kʰ a x ə]
     ```
   - ```{ipa_cell}
     * other
       * ʁ
         * Occurances: 149619
         * Examples
-          * tramm: [t ʁ a m]
-          * kirri: [cʰ ɪ ʁ ɪ]
-          * tenor: [tʰ eː n oː ʁ]
-          * arrow: [a ʁ ɔ f]
+          * derbe: [d ɛ ʁ b ə]
+          * sorge: [z ɔ ʁ ɡ ə]
+          * erpe: [ɛ ʁ pʰ ə]
+          * pura: [pʰ ʊ ʁ a]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 30170
         * Examples
-          * heiko: [h aj kʰ ɔ]
-          * hares: [h aː ʁ ə s]
-          * holts: [h ɔ l s]
-          * haymo: [h ɛ ɪ m ɔ]
+          * hola: [h oː l a]
+          * haune: [h aw n ə]
+          * hat: [h a t]
+          * häser: [h eː z ɐ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -400,10 +400,10 @@
       * j
         * Occurances: 10810
         * Examples
-          * yawl: [j a v eː l]
-          * jeter: [j eː tʰ ɐ]
-          * joche: [j ɔ x ə]
-          * anya: [a n j a]
+          * kraj: [k ʁ a j]
+          * jacht: [j a x t]
+          * yuma: [j uː m a]
+          * riad: [ʁ ɪ j aː t]
     ```
   - ```{ipa_cell}
     ```
@@ -421,17 +421,17 @@
       * l
         * Occurances: 119596
         * Examples
-          * lynd: [l ʏ n t]
-          * löbe: [l øː b ə]
-          * deleo: [d ɛ l ɛ ɔ]
-          * kyll: [cʰ ʏ l]
+          * litex: [l ɪ tʰ ɛ k s]
+          * uhlig: [uː l ɪ k]
+          * hola: [h oː l a]
+          * pulli: [pʰ ʊ l ɪ]
       * l̩
         * Occurances: 8726
         * Examples
-          * nudel: [n uː d l̩]
-          * bosl: [b ɔ z l̩]
-          * juble: [j uː b l̩]
-          * rigel: [ʁ iː ɡ l̩]
+          * rosl: [ʁ oː z l̩]
+          * hügel: [h yː ɡ l̩]
+          * demel: [d ɛ m l̩]
+          * nübel: [n yː b l̩]
     ```
   - ```{ipa_cell}
     ```
@@ -465,18 +465,18 @@
       * iː
         * Occurances: 38207
         * Examples
-          * bison: [b iː z ɔ n]
-          * pazin: [pʰ a ts iː n]
-          * oybin: [ɔ ɪ b iː n]
-          * stier: [ʃ t iː ɐ]
+          * rudis: [ʁ ʊ d iː s]
+          * tamim: [tʰ a m iː m]
+          * riad: [ʁ iː a t]
+          * aspik: [a s p iː k]
     * rounded
       * yː
         * Occurances: 9547
         * Examples
-          * dyn: [d yː n]
-          * prüfe: [p ʁ yː f ə]
-          * type: [tʰ yː pʰ ə]
-          * muede: [m yː d ə]
+          * pfyn: [pf yː n]
+          * büsst: [b yː s t]
+          * rühmt: [ʁ yː m t]
+          * lünen: [l yː n n̩]
     ```
   - ```{ipa_cell}
     ```
@@ -489,10 +489,10 @@
       * uː
         * Occurances: 18781
         * Examples
-          * uruk: [uː ʁ ʊ k]
-          * zusam: [ts uː z a m]
-          * buir: [b uː ɐ]
-          * uetz: [uː ɛ ts]
+          * uhlig: [uː l ɪ k]
+          * gubei: [ɡ uː b aj]
+          * puhl: [pʰ uː l]
+          * yuma: [j uː m a]
     ```
 * -
   - ```{ipa_cell}
@@ -502,18 +502,18 @@
       * ɪ
         * Occurances: 118412
         * Examples
-          * kirri: [cʰ ɪ ʁ ɪ]
-          * list: [l ɪ s t]
-          * gigi: [ɟ ɪ ɟ ɪ]
-          * riva: [ʁ ɪ v a]
+          * litex: [l ɪ tʰ ɛ k s]
+          * itea: [ɪ tʰ ɛ aː]
+          * innig: [ɪ n ɪ ç]
+          * uhlig: [uː l ɪ k]
     * rounded
       * ʏ
         * Occurances: 12889
         * Examples
-          * lynd: [l ʏ n t]
-          * kyll: [cʰ ʏ l]
-          * ryo: [ʁ ʏ ɔ]
-          * syke: [z ʏ kʰ ə]
+          * dykes: [d ʏ kʰ ə s]
+          * myers: [m ʏ ɐ s]
+          * frye: [f ʁ ʏ]
+          * gynt: [ɟ ʏ n t]
     ```
   - ```{ipa_cell}
     ```
@@ -522,10 +522,10 @@
       * ʊ
         * Occurances: 60450
         * Examples
-          * uruk: [uː ʁ ʊ k]
-          * izumi: [iː ts ʊ m ɪ]
-          * thun: [tʰ ʊ n]
-          * parus: [pʰ a ʁ ʊ s]
+          * pura: [pʰ ʊ ʁ a]
+          * pulli: [pʰ ʊ l ɪ]
+          * runde: [ʁ ʊ n d ə]
+          * rudis: [ʁ ʊ d iː s]
     ```
   - ```{ipa_cell}
     ```
@@ -535,18 +535,18 @@
       * eː
         * Occurances: 39374
         * Examples
-          * mäh: [m eː]
-          * tenor: [tʰ eː n oː ʁ]
-          * dene: [d eː n ə]
-          * yawl: [j a v eː l]
+          * fähig: [f eː ɪ k]
+          * lesen: [l eː z n̩]
+          * quäl: [k v eː l]
+          * häser: [h eː z ɐ]
     * rounded
       * øː
         * Occurances: 5781
         * Examples
-          * löbe: [l øː b ə]
-          * ekerö: [eː kʰ ɐ øː]
-          * höle: [h øː l ə]
-          * vöv: [f øː f aw]
+          * löwe: [l øː v ə]
+          * föhnt: [f øː n t]
+          * hörby: [h øː ɐ b ɪ]
+          * höret: [h øː ʁ ə t]
     ```
   - ```{ipa_cell}
     ```
@@ -559,10 +559,10 @@
       * oː
         * Occurances: 32405
         * Examples
-          * tenor: [tʰ eː n oː ʁ]
-          * lol: [l oː l]
-          * koset: [kʰ oː z ə t]
-          * thoas: [tʰ oː aː ɛ s]
+          * hola: [h oː l a]
+          * roca: [ʁ oː ɐ]
+          * rosl: [ʁ oː z l̩]
+          * aton: [a tʰ oː n]
     ```
 * -
   - ```{ipa_cell}
@@ -574,10 +574,10 @@
       * ə
         * Occurances: 121678
         * Examples
-          * öppe: [œ pʰ ə]
-          * vente: [v ɛ n tʰ ə]
-          * löbe: [l øː b ə]
-          * dene: [d eː n ə]
+          * derbe: [d ɛ ʁ b ə]
+          * sorge: [z ɔ ʁ ɡ ə]
+          * dykes: [d ʏ kʰ ə s]
+          * erpe: [ɛ ʁ pʰ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -589,18 +589,18 @@
       * ɛ
         * Occurances: 102701
         * Examples
-          * vente: [v ɛ n tʰ ə]
-          * tenor: [tʰ ɛ n oː ʁ]
-          * deleo: [d ɛ l ɛ ɔ]
-          * haymo: [h ɛ ɪ m ɔ]
+          * litex: [l ɪ tʰ ɛ k s]
+          * derbe: [d ɛ ʁ b ə]
+          * itea: [ɪ tʰ ɛ aː]
+          * erpe: [ɛ ʁ pʰ ə]
     * rounded
       * œ
         * Occurances: 3613
         * Examples
+          * pötzl: [pʰ œ ts l]
+          * burgo: [b œ ʁ ɡ ɔ]
           * öppe: [œ pʰ ə]
-          * völva: [v œ l v a]
-          * körte: [cʰ œ ʁ tʰ ə]
-          * gönn: [ɟ œ n]
+          * pröll: [p ʁ œ l]
     ```
   - ```{ipa_cell}
     ```
@@ -613,10 +613,10 @@
       * ɔ
         * Occurances: 61786
         * Examples
-          * poppo: [pʰ ɔ pʰ ɔ]
-          * bison: [b iː z ɔ n]
-          * arrow: [a ʁ ɔ f]
-          * deleo: [d ɛ l ɛ ɔ]
+          * sorge: [z ɔ ʁ ɡ ə]
+          * bobbe: [b ɔ b ə]
+          * cairo: [cʰ ɛ aj ʁ ɔ]
+          * norm: [n ɔ ʁ m]
     ```
 * -
   - ```{ipa_cell}
@@ -628,10 +628,10 @@
       * ɐ
         * Occurances: 81496
         * Examples
-          * stier: [ʃ t iː ɐ]
-          * buir: [b uː ɐ]
-          * burn: [b uː ɐ n]
-          * jeter: [j eː tʰ ɐ]
+          * roca: [ʁ oː ɐ]
+          * leier: [l aj ɐ]
+          * myers: [m ʏ ɐ s]
+          * stars: [ʃ t aː ɐ s]
     ```
   - ```{ipa_cell}
     ```
@@ -647,17 +647,17 @@
       * a
         * Occurances: 112857
         * Examples
-          * tramm: [t ʁ a m]
-          * pazin: [pʰ a ts iː n]
-          * sam: [z a m]
-          * arrow: [a ʁ ɔ f]
+          * madam: [m a d a m]
+          * hola: [h oː l a]
+          * tampa: [tʰ a m pʰ a]
+          * pura: [pʰ ʊ ʁ a]
       * aː
         * Occurances: 46709
         * Examples
-          * hares: [h aː ʁ ə s]
-          * penh: [pʰ ɛ n h aː]
-          * thoas: [tʰ oː aː ɛ s]
-          * cafs: [kʰ aː f s]
+          * mans: [m aː n s]
+          * itea: [ɪ tʰ ɛ aː]
+          * fafe: [f aː f ə]
+          * names: [n aː m ə s]
     ```
   - ```{ipa_cell}
     ```

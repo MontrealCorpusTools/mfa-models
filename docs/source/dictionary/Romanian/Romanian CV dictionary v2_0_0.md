@@ -51,10 +51,10 @@
       * m
         * Occurances: 2862
         * Examples
-          * maniu: [m a n̪ i u]
-          * merg: [m e r̪ ɡ]
-          * i-am: [i a m]
-          * cădem: [k ɜ d̪ e m]
+          * l-am: [l̪ a m]
+          * mi-aș: [m i a ʃ]
+          * mi-ar: [m i a r̪]
+          * inima: [i n̪ i m a]
     ```
   - ```{ipa_cell}
     ```
@@ -74,18 +74,18 @@
       * p
         * Occurances: 2747
         * Examples
-          * pază: [p a z̪ ɜ]
-          * părţi: [p ɜ r̪ t̪ s i]
+          * aspre: [a s̪ p r̪ e]
           * parcă: [p a r̪ k ɜ]
-          * parc: [p a r̪ k]
+          * nopți: [n̪ o p t̪s i]
+          * parte: [p a r̪ t̪ e]
     * voiced
       * b
         * Occurances: 1074
         * Examples
-          * bea: [b e a]
-          * bancă: [b a n̪ k ɜ]
-          * baza: [b a z̪ a]
-          * beznă: [b e z̪ n̪ ɜ]
+          * boltă: [b o l̪ t̪ ɜ]
+          * bogat: [b o ɡ a t̪]
+          * bazez: [b a z̪ e z̪]
+          * iubea: [i u b e a]
     ```
   - ```{ipa_cell}
     ```
@@ -94,18 +94,18 @@
       * t̪
         * Occurances: 7193
         * Examples
-          * utilă: [u t̪ i l̪ ɜ]
-          * ratat: [r̪ a t̪ a t̪]
-          * cert: [tʃ e r̪ t̪]
-          * părţi: [p ɜ r̪ t̪ s i]
+          * front: [f r̪ o n̪ t̪]
+          * acte: [a k t̪ e]
+          * boltă: [b o l̪ t̪ ɜ]
+          * legat: [l̪ e ɡ a t̪]
     * voiced
       * d̪
         * Occurances: 2058
         * Examples
-          * avînd: [a v ɨ n̪ d̪]
-          * cădem: [k ɜ d̪ e m]
-          * daune: [d̪ a u n̪ e]
-          * dăm: [d̪ ɜ m]
+          * nord: [n̪ o r̪ d̪]
+          * doar: [d̪ o a r̪]
+          * ordin: [o r̪ d̪ i n̪]
+          * kurdă: [k u r̪ d̪ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -116,18 +116,18 @@
       * k
         * Occurances: 3532
         * Examples
-          * cădem: [k ɜ d̪ e m]
-          * scrie: [s̪ k r̪ i e]
-          * cinic: [tʃ i n̪ i k]
-          * secol: [s̪ e k o l̪]
+          * parcă: [p a r̪ k ɜ]
+          * acte: [a k t̪ e]
+          * fizic: [f i z̪ i k]
+          * texte: [t̪ e k s̪ t̪ e]
     * voiced
       * ɡ
         * Occurances: 706
         * Examples
-          * merg: [m e r̪ ɡ]
-          * gol: [ɡ o l̪]
-          * goale: [ɡ o a l̪ e]
-          * gurii: [ɡ u r̪ i i]
+          * legat: [l̪ e ɡ a t̪]
+          * glas: [ɡ l̪ a s̪]
+          * greş: [ɡ r̪ e ʃ]
+          * bogat: [b o ɡ a t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -145,18 +145,18 @@
       * tʃ
         * Occurances: 1025
         * Examples
-          * cert: [tʃ e r̪ t̪]
-          * vocea: [v o tʃ a]
-          * cinic: [tʃ i n̪ i k]
-          * zeci: [z̪ e tʃ]
+          * citez: [tʃ i t̪ e z̪]
+          * zice: [z̪ i tʃ e]
+          * ceea: [tʃ e e a]
+          * încep: [ɨ n̪ tʃ e p]
     * voiced
       * dʒ
         * Occurances: 387
         * Examples
+          * gigi: [dʒ i dʒ i]
+          * regim: [r̪ e dʒ i m]
+          * fugi: [f u dʒ i]
           * legea: [l̪ e dʒ a]
-          * logic: [l̪ o dʒ i k]
-          * regia: [r̪ e dʒ a]
-          * alegi: [a l̪ e dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -174,28 +174,28 @@
       * s
         * Occurances: 933
         * Examples
-          * părţi: [p ɜ r̪ t̪ s i]
-          * îţi: [ɨ t̪ s i]
-          * taţi: [t̪ a t̪ s i]
-          * ştiţi: [ʃ t̪ i t̪ s i]
+          * toţii: [t̪ o t̪ s i i]
+          * ţară: [t̪ s a r̪ ɜ]
+          * l-aţi: [l̪ a t̪ s i]
+          * ierţi: [i e r̪ t̪ s i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 808
         * Examples
-          * uşi: [u ʃ i]
-          * ușor: [u ʃ o r̪]
-          * uriaş: [u r̪ i a ʃ]
-          * ştiţi: [ʃ t̪ i t̪ s i]
+          * lașă: [l̪ a ʃ ɜ]
+          * mi-aș: [m i a ʃ]
+          * greş: [ɡ r̪ e ʃ]
+          * șefi: [ʃ e f i]
     * voiced
       * ʒ
         * Occurances: 256
         * Examples
-          * ajuta: [a ʒ u t̪ a]
-          * joia: [ʒ o i a]
-          * jocul: [ʒ o k u l̪]
-          * bejan: [b e ʒ a n̪]
+          * junta: [ʒ u n̪ t̪ a]
+          * major: [m a ʒ o r̪]
+          * ajuns: [a ʒ u n̪ s̪]
+          * jiu: [ʒ i u]
     ```
   - ```{ipa_cell}
     ```
@@ -209,18 +209,18 @@
       * f
         * Occurances: 1037
         * Examples
-          * aflau: [a f l̪ a u]
+          * front: [f r̪ o n̪ t̪]
+          * fizic: [f i z̪ i k]
+          * afara: [a f a r̪ a]
           * flori: [f l̪ o r̪ i]
-          * faze: [f a z̪ e]
-          * vârf: [v ɨ r̪ f]
     * voiced
       * v
         * Occurances: 1220
         * Examples
-          * avînd: [a v ɨ n̪ d̪]
-          * vocea: [v o tʃ a]
-          * avons: [a v o n̪ s̪]
-          * vârf: [v ɨ r̪ f]
+          * van: [v a n̪]
+          * valea: [v a l̪ e a]
+          * vedem: [v e d̪ e m]
+          * aveam: [a v e a m]
     ```
   - ```{ipa_cell}
     ```
@@ -236,9 +236,9 @@
         * Occurances: 106
         * Examples
           * mihai: [m i h a i]
-          * hai: [h a i]
-          * cehe: [tʃ e h e]
-          * harry: [h a r̪ r̪ i]
+          * hrană: [h r̪ a n̪ ɜ]
+          * honda: [h o n̪ d̪ a]
+          * catch: [k a t̪ k h]
     ```
 ``````
 
@@ -262,10 +262,10 @@
       * i
         * Occurances: 11051
         * Examples
-          * uşi: [u ʃ i]
-          * maniu: [m a n̪ i u]
-          * utilă: [u t̪ i l̪ ɜ]
-          * părţi: [p ɜ r̪ t̪ s i]
+          * nopți: [n̪ o p t̪s i]
+          * fizic: [f i z̪ i k]
+          * ordin: [o r̪ d̪ i n̪]
+          * iute: [i u t̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -274,10 +274,10 @@
       * ɨ
         * Occurances: 812
         * Examples
-          * avînd: [a v ɨ n̪ d̪]
-          * îţi: [ɨ t̪ s i]
-          * vârf: [v ɨ r̪ f]
-          * întru: [ɨ n̪ t̪ r̪ u]
+          * atât: [a t̪ ɨ t̪]
+          * atâta: [a t̪ ɨ t̪ a]
+          * prânz: [p r̪ ɨ n̪ z̪]
+          * bâte: [b ɨ t̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -286,10 +286,10 @@
       * u
         * Occurances: 4264
         * Examples
-          * uşi: [u ʃ i]
-          * maniu: [m a n̪ i u]
-          * utilă: [u t̪ i l̪ ɜ]
-          * ușor: [u ʃ o r̪]
+          * iute: [i u t̪ e]
+          * unesc: [u n̪ e s̪ k]
+          * iunie: [i u n̪ i e]
+          * kurdă: [k u r̪ d̪ ɜ]
     ```
 * -
   - ```{ipa_cell}
@@ -308,10 +308,10 @@
       * e
         * Occurances: 10432
         * Examples
-          * merg: [m e r̪ ɡ]
-          * cert: [tʃ e r̪ t̪]
-          * bea: [b e a]
-          * cădem: [k ɜ d̪ e m]
+          * aspre: [a s̪ p r̪ e]
+          * acte: [a k t̪ e]
+          * legat: [l̪ e ɡ a t̪]
+          * parte: [p a r̪ t̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -324,10 +324,10 @@
       * o
         * Occurances: 4432
         * Examples
-          * ușor: [u ʃ o r̪]
-          * vocea: [v o tʃ a]
-          * nou: [n̪ o u]
-          * secol: [s̪ e k o l̪]
+          * front: [f r̪ o n̪ t̪]
+          * nord: [n̪ o r̪ d̪]
+          * nopți: [n̪ o p t̪s i]
+          * boltă: [b o l̪ t̪ ɜ]
     ```
 * -
   - ```{ipa_cell}
@@ -350,10 +350,10 @@
       * ɜ
         * Occurances: 2840
         * Examples
-          * pază: [p a z̪ ɜ]
-          * utilă: [u t̪ i l̪ ɜ]
-          * părţi: [p ɜ r̪ t̪ s i]
-          * cădem: [k ɜ d̪ e m]
+          * parcă: [p a r̪ k ɜ]
+          * boltă: [b o l̪ t̪ ɜ]
+          * lașă: [l̪ a ʃ ɜ]
+          * kurdă: [k u r̪ d̪ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -380,10 +380,10 @@
       * a
         * Occurances: 8125
         * Examples
-          * pază: [p a z̪ ɜ]
-          * maniu: [m a n̪ i u]
-          * ratat: [r̪ a t̪ a t̪]
-          * avînd: [a v ɨ n̪ d̪]
+          * aspre: [a s̪ p r̪ e]
+          * parcă: [p a r̪ k ɜ]
+          * acte: [a k t̪ e]
+          * legat: [l̪ e ɡ a t̪]
     ```
   - ```{ipa_cell}
     ```

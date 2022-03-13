@@ -48,31 +48,31 @@
       * m
         * Occurances: 17942
         * Examples
-          * 模造紙: [m o z oː ɕ i]
-          * えきむ: [e c i m ɯ]
-          * レモンいろ: [ɾ e m o ɰ̃ i ɾ o]
-          * デフォルメ: [d e ɸ o ɾ ɯ m e]
+          * 音読み: [o ɰ̃ j o m i]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
+          * 拒もう: [k o b a m oː]
+          * 押し目: [o ɕ i m e]
       * mʲ
         * Occurances: 154
         * Examples
-          * ミューオン: [mʲ ɨː o ɴ]
-          * ミュー粒子: [mʲ ɨː ɾʲ ɨː ɕ i]
-          * 頸静脈: [k eː ʑ oː mʲ a k ɯ]
-          * 静脈注射: [dʑ oː mʲ a k ɯ tɕ ɨː ɕ a]
+          * みょうでん: [mʲ oː d e n]
+          * びみょう: [b i mʲ oː]
+          * サミュエル: [s a mʲ ɨ e ɾ ɯ]
+          * みょうじ: [mʲ oː ʑ i]
       * mʲː
         * Occurances: 31
         * Examples
+          * さんみゃく: [s a mʲː a k ɯ]
           * ほんみょう: [h o mʲː oː]
           * じんみゃく: [dʑ i mʲː a k ɯ]
-          * 三藐三菩提: [s a mʲː a k ɯ s a m b o d a i]
-          * さんみゃく: [s a mʲː a k ɯ]
+          * はんみょう: [h a mʲː oː]
       * mː
         * Occurances: 540
         * Examples
-          * ばんめい: [b a mː eː]
-          * 純米酒: [dʑ ɨ mː a i]
-          * わかんむり: [w a k a mː ɯ ɾ i]
-          * いんもん: [i mː o ɴ]
+          * だまり: [d a mː a ɾ i]
+          * ハンマーム: [h a mː aː m ɯ]
+          * まん丸: [m a mː a ɾ ɯ]
+          * 専門店: [s e mː o n t e ɴ]
     ```
   - ```{ipa_cell}
     ```
@@ -81,54 +81,54 @@
       * n
         * Occurances: 11704
         * Examples
-          * 撫でる: [n a d e ɾ ɯ]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * エスネ: [e s ɨ n e]
-          * ローマン体: [ɾ oː m a n t a i]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * あげもの: [a ɡ e m o n o]
+          * アリーナ: [a ɾ iː n a]
+          * あっけない: [a kː e n a i]
       * nː
         * Occurances: 380
         * Examples
-          * すんな: [s ɨ nː a]
-          * 減農薬: [ɡ e nː oː j a k ɯ]
-          * もんなし: [m o nː a ɕ i]
-          * 女の子: [o nː a n o k o]
+          * あんの: [a nː o]
+          * カンヌン: [k a nː ɯ ɴ]
+          * ベラドンナ: [b e ɾ a d o nː a]
+          * せんぬき: [s e nː ɯ c i]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 4985
         * Examples
-          * 逃げた: [ɲ i ɡ e t a]
-          * にごす: [ɲ i ɡ o s ɨ]
-          * にぐう: [ɲ i ɡ ɯː]
-          * 肉まん: [ɲ i k ɯ m a ɴ]
+          * ユニコーン: [j ɨ ɲ i k oː ɴ]
+          * 忍耐力: [ɲ i n t a i ɾʲ o k ɯ]
+          * 憎しみ: [ɲ i k ɯ ɕ i m i]
+          * 逃げ去: [ɲ i ɡ e s a]
       * ɲː
         * Occurances: 155
         * Examples
-          * 今日は: [k o ɲː i tɕ i w a]
-          * 不信任: [ɸ ɯ̥ ɕ i ɲː i ɴ]
-          * 親日派: [ɕ i ɲː i tɕ i h a]
-          * 交換日記: [k oː k a ɲː i cː i]
+          * れんにゅう: [ɾ e ɲː ɨː]
+          * アンニュイ: [a ɲː ɨ i]
+          * ざんにん: [dz a ɲː i ɴ]
+          * しんにょう: [ɕ i ɲː oː]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2993
         * Examples
-          * 因果応報: [i ŋ ɡ a oː h oː]
-          * カリンガ: [k a ɾ i ŋ ɡ a]
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * コンゴ: [k o ŋ ɡ o]
+          * ぶんがく: [b ɯ ŋ ɡ a k ɯ]
+          * 背番号: [s e b a ŋ ɡ oː]
+          * みぜんけい: [m i z e ŋ k eː]
+          * 越前水母: [e tɕ i z e ŋ k ɯ ɾ a ɡ e]
     ```
   - ```{ipa_cell}
     * other
       * ɴ
         * Occurances: 10160
         * Examples
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * 技術院: [ɟ i ʑ ɨ ts ɨ i ɴ]
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * ちょくせん: [tɕ o k ɯ̥ s e ɴ]
+          * アク禁: [a k ɯ c i ɴ]
+          * ban: [b a ɴ]
+          * ユニコーン: [j ɨ ɲ i k oː ɴ]
+          * お父さん: [o t oː s a ɴ]
       * ɴː
         * Occurances: 3
         * Examples
@@ -142,52 +142,52 @@
       * p
         * Occurances: 2882
         * Examples
-          * けんぺい: [k e m p eː]
-          * エスペリア: [e s ɨ̥ p e ɾ i a]
-          * ペンデント: [p e n d e n t o]
-          * ひんぱん: [ç i m p a ɴ]
+          * スカパン: [s ɨ̥ k a p a ɴ]
+          * トンペース: [t o m p eː s ɨ]
+          * パリティー: [p a ɾ i t iː]
+          * ピストンズ: [p i s ɨ̥ t o n dz ɨ]
       * pʲ
         * Occurances: 54
         * Examples
-          * ピリピュク: [p i ɾ i pʲ ɨ k ɯ]
-          * うそぴょん: [ɯ s o pʲ o ɴ]
-          * 南氷洋: [n a m pʲ oː j oː]
-          * ピューマ: [pʲ ɨː m a]
+          * 信憑性: [ɕ i m pʲ oː s eː]
+          * ピョンヤン: [pʲ o ɰ̃ j a ɴ]
+          * しんぴょう: [ɕ i m pʲ oː]
+          * ぴゅん: [pʲ ɨ ɴ]
       * pʲː
         * Occurances: 22
         * Examples
+          * いっぴょう: [i pʲː oː]
+          * 嘘八百: [ɯ s o h a pʲː a k ɯ]
           * 記者発表: [c i ɕ a h a pʲː oː]
-          * 大本営発表: [d a i h o ɰ̃ eː h a pʲː oː]
-          * 雪氷学: [s e pʲː oː ɡ a k ɯ]
-          * 発表会: [h a pʲː oː k a i]
+          * 突拍子: [t o pʲː oː ɕ i]
       * pː
         * Occurances: 715
         * Examples
-          * ビショップ: [b i ɕ o pː ɯ]
-          * ハラッパー: [h a ɾ a pː aː]
-          * くっぷく: [k ɯ pː ɯ k ɯ]
-          * 間一髪: [k a ɰ̃ i pː a ts ɨ]
+          * そっぽ: [s o pː o]
+          * いっぴ: [i pː i]
+          * ジュゼッペ: [dʑ ɨ z e pː e]
+          * カップ麺: [k a pː ɯ m e ɴ]
     * voiced
       * b
         * Occurances: 9799
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * ビショップ: [b i ɕ o pː ɯ]
-          * 入れ歯: [i ɾ e b a]
+          * たきび: [t a c i b i]
+          * ブロック: [b ɯ ɾ o kː ɯ]
+          * 拒もう: [k o b a m oː]
+          * ダバオ: [d a b a o]
       * bʲ
         * Occurances: 243
         * Examples
-          * えきびょう: [e c i bʲ oː]
-          * 男女平等: [d a ɲ dʑ o bʲ oː d oː]
-          * びゃくごう: [bʲ a k ɯ ɡ oː]
-          * びょうへん: [bʲ oː h e ɴ]
+          * がびょう: [ɡ a bʲ oː]
+          * びょういん: [bʲ oː i ɴ]
+          * びょうとう: [bʲ oː t oː]
+          * ハンセン病: [h a ɰ̃ s e m bʲ oː]
       * bː
         * Occurances: 4
         * Examples
-          * ビッベ: [b i bː e]
-          * グッバイ: [ɡ ɯ bː a i]
           * web会議: [w e bː ɯ k a i ɟ i]
+          * グッバイ: [ɡ ɯ bː a i]
+          * ビッベ: [b i bː e]
     ```
   - ```{ipa_cell}
     ```
@@ -196,101 +196,101 @@
       * t
         * Occurances: 16837
         * Examples
-          * 逃げた: [ɲ i ɡ e t a]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 手蔓藻蔓: [t e z ɨ ɾ ɯ m o z ɨ ɾ ɯ]
-          * 高まった: [t a k a m a tː a]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * たきび: [t a c i b i]
+          * ケルトごは: [k e ɾ ɯ t o ɡ o h a]
+          * ことじ: [k o t o ʑ i]
       * tʲ
         * Occurances: 8
         * Examples
-          * テューバ: [tʲ ɨː b a]
           * ビテュニア: [b i tʲ ɨ ɲ i a]
+          * テューバ: [tʲ ɨː b a]
       * tː
         * Occurances: 1366
         * Examples
-          * 高まった: [t a k a m a tː a]
-          * 受け持って: [ɯ k e m o tː e]
-          * 一体化: [i tː a i k a]
-          * 物語って: [m o n o ɡ a t a tː e]
+          * 一体型: [i tː a i ɡ a t a]
+          * すっとぶ: [s ɨ̥ tː o b ɯ]
+          * 立体視: [ɾ i tː a i ɕ i]
+          * 潤って: [ɯ ɾ ɯ o a tː e]
     * voiced
       * d
         * Occurances: 8456
         * Examples
-          * 撫でる: [n a d e ɾ ɯ]
-          * デフォルメ: [d e ɸ o ɾ ɯ m e]
-          * もだえる: [m o d a e ɾ ɯ]
-          * こどもたち: [k o d o m o t a tɕ i]
+          * ダバオ: [d a b a o]
+          * 悪逆非道: [a k ɯ ɟ a k ɯ ç i d oː]
+          * ひでり: [ç i d e ɾ i]
+          * マンダリー: [m a n d a ɾ iː]
       * dʲ
         * Occurances: 19
         * Examples
           * デュオ: [dʲ ɨ o]
-          * デュクシ: [dʲ ɨ k ɯ ɕ i]
-          * フォンデュ: [ɸ o ɲ dʲ ɨ]
           * デュガン: [dʲ ɨ ɡ a ɴ]
+          * デュレル: [dʲ ɨ ɾ e ɾ ɯ]
+          * デュアル: [dʲ ɨ a ɾ ɯ]
       * dː
         * Occurances: 99
         * Examples
-          * ヘッドホン: [h e dː o h o ɴ]
+          * モペッド: [m o p e dː o]
+          * ポッド: [p o dː o]
+          * コンラッド: [k o n ɾ a dː o]
           * グリッド: [ɡ ɯ ɾ i dː o]
-          * mad: [m a dː o]
-          * スッド: [s ɨ dː o]
     ```
   - ```{ipa_cell}
     * voiceless
       * c
         * Occurances: 9552
         * Examples
-          * えきむ: [e c i m ɯ]
-          * 昇降機: [ɕ oː k oː c i]
-          * めいき: [m eː c i]
-          * きょぎ: [c o ɟ i]
+          * たきび: [t a c i b i]
+          * アク禁: [a k ɯ c i ɴ]
+          * きわむ: [c i w a m ɯ]
+          * 働き掛ける: [h a t a ɾ a c i k a k e ɾ ɯ]
       * cː
         * Occurances: 352
         * Examples
-          * ひっきり: [ç i̥ cː i ɾ i]
-          * 上座部佛教: [dʑ oː z a b ɯ b ɯ cː oː]
-          * 石器時代: [s e cː i ʑ i d a i]
-          * はっき: [h a cː i]
+          * そっきゅう: [s o cː ɨː]
+          * しょっき: [ɕ o cː i]
+          * ふっきれる: [ɸ ɯ̥ cː i ɾ e ɾ ɯ]
+          * 北極狐: [h o cː o k ɯ ɟ i ts ɨ n e]
     * voiced
       * ɟ
         * Occurances: 2100
         * Examples
-          * 技術院: [ɟ i ʑ ɨ ts ɨ i ɴ]
-          * きょぎ: [c o ɟ i]
-          * 魚価安: [ɟ o k a j a s ɨ]
-          * さぎし: [s a ɟ i ɕ i]
+          * 悪逆非道: [a k ɯ ɟ a k ɯ ç i d oː]
+          * 剥ぎとら: [h a ɟ i t o ɾ a]
+          * ギフト: [ɟ i ɸ ɯ̥ t o]
+          * 人種主義: [dʑ i ɰ̃ ɕ ɨ̥ ɕ ɨ ɟ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 33491
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * かいしょく: [k a i ɕ o k ɯ]
+          * アク禁: [a k ɯ c i ɴ]
+          * 拒もう: [k o b a m oː]
+          * ぶんがく: [b ɯ ŋ ɡ a k ɯ]
+          * 暮れる: [k ɯ ɾ e ɾ ɯ]
       * kː
         * Occurances: 1584
         * Examples
-          * ちょっかく: [tɕ o kː a k ɯ]
-          * じっくり: [dʑ i kː ɯ ɾ i]
-          * クリニック: [k ɯ ɾ i ɲ i kː ɯ]
-          * アベック: [a b e kː ɯ]
+          * ブロック: [b ɯ ɾ o kː ɯ]
+          * あっけない: [a kː e n a i]
+          * 福建省: [ɸ ɯ̥ kː e ɰ̃ ɕ oː]
+          * だっかん: [d a kː a ɴ]
     * voiced
       * ɡ
         * Occurances: 10172
         * Examples
-          * 因果応報: [i ŋ ɡ a oː h oː]
-          * 逃げた: [ɲ i ɡ e t a]
-          * カリンガ: [k a ɾ i ŋ ɡ a]
-          * 増床後: [dz oː ɕ oː ɡ o]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * ぶんがく: [b ɯ ŋ ɡ a k ɯ]
+          * がりょう: [ɡ a ɾʲ oː]
+          * ケルトごは: [k e ɾ ɯ t o ɡ o h a]
       * ɡː
         * Occurances: 48
         * Examples
-          * バッグス: [b a ɡː ɯ s ɨ]
+          * グレッグ: [ɡ ɯ ɾ e ɡː ɯ]
           * スモッグ: [s ɨ m o ɡː ɯ]
-          * すっごい: [s ɨ̥ ɡː o i]
-          * ブラッグ: [b ɯ ɾ a ɡː ɯ]
+          * すっごく: [s ɨ̥ ɡː o k ɯ]
+          * クアッガ: [k ɯ a ɡː a]
     ```
   - ```{ipa_cell}
     ```
@@ -300,9 +300,9 @@
         * Occurances: 13
         * Examples
           * いてっ: [i t e ʔ]
-          * カシャッ: [k a ɕ a ʔ]
-          * カサッ: [k a s a ʔ]
           * わあっ: [w aː ʔ]
+          * カサッ: [k a s a ʔ]
+          * ははっ: [h a h a ʔ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -314,31 +314,31 @@
       * ts
         * Occurances: 6666
         * Examples
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * 技術院: [ɟ i ʑ ɨ ts ɨ i ɴ]
-          * ちゅうぜつ: [tɕ ɨː z e ts ɨ]
-          * 燃え移: [m o e ɯ ts ɨ]
+          * 落ち着いた: [o tɕ i̥ ts ɨ i t a]
+          * かくひつ: [k a k ɯ ç i ts ɨ]
+          * きつねび: [c i ts ɨ n e b i]
+          * 生物工学: [s eː b ɯ ts ɨ̥ k oː ɡ a k ɯ]
       * tsː
         * Occurances: 77
         * Examples
-          * がっつり気: [ɡ a tsː ɨ ɾ i c i]
-          * ココナッツ: [k o k o n a tsː ɨ]
-          * ペレッツ: [p e ɾ e tsː ɨ]
-          * ロッツェ: [ɾ o tsː e]
+          * ベッツ: [b a tsː ɨ]
+          * 取っつき: [t o tsː ɨ̥ c i]
+          * リッツィー: [ɾ i tsː iː]
+          * カッツィン: [k a tsː i ɴ]
     * voiced
       * dz
         * Occurances: 1527
         * Examples
-          * 増床後: [dz oː ɕ oː ɡ o]
-          * 増強剤: [dz oː c oː z a i]
-          * ずんどこ: [dz ɨ n d o k o]
-          * ぞくわ: [dz o k ɯ w a]
+          * ずらかる: [dz ɨ ɾ a k a ɾ ɯ]
+          * ピストンズ: [p i s ɨ̥ t o n dz ɨ]
+          * 在学生: [dz a i ɡ a k ɯ s eː]
+          * ぞくせつ: [dz o k ɯ s e ts ɨ]
       * dzː
         * Occurances: 6
         * Examples
+          * ドッズ: [d o dzː ɨ]
           * オッズ: [o dzː ɯ ɴ]
           * ヘッズ: [h e dzː ɯ]
-          * ドッズ: [d o dzː ɨ]
           * グッズ: [ɡ ɯ dzː ɯ]
     ```
   - ```{ipa_cell}
@@ -346,32 +346,32 @@
       * tɕ
         * Occurances: 5565
         * Examples
-          * ちゅうぜつ: [tɕ ɨː z e ts ɨ]
-          * 落ち込み: [o tɕ i̥ k o m i]
-          * ちょくせん: [tɕ o k ɯ̥ s e ɴ]
-          * 立ち所: [t a tɕ i ɕ o]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
+          * 落ち着いた: [o tɕ i̥ ts ɨ i t a]
+          * hdtv: [e tɕː i ʑ iː tɕ iː v iː]
       * tɕː
         * Occurances: 282
         * Examples
-          * タッチ: [t a tɕː i]
-          * 出張所: [ɕ ɨ tɕː oː ʑ o]
-          * リッチー: [ɾ i tɕː iː]
-          * いっち: [i tɕː i]
+          * hdtv: [e tɕː i ʑ iː tɕ iː v iː]
+          * hmv: [e tɕː i e m ɯ v i]
+          * てっちん: [t e tɕː i ɴ]
+          * 急ピッチ: [c ɨː p i tɕː i]
     * voiced
       * dʑ
         * Occurances: 3176
         * Examples
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * ｇ８化: [dʑ iː e t o k a]
-          * ジルバ: [dʑ i ɾ ɯ b a]
-          * じっくり: [dʑ i kː ɯ ɾ i]
+          * じゅせいじ: [dʑ ɨ s eː ʑ i]
+          * dtm: [dʑ iː tɕ iː e m ɯ]
+          * じまく: [dʑ i m a k ɯ]
+          * 人種主義: [dʑ i ɰ̃ ɕ ɨ̥ ɕ ɨ ɟ i]
       * dʑː
         * Occurances: 34
         * Examples
-          * エッジ: [e dʑː i]
-          * ピンバッジ: [p i m b a dʑː i]
-          * ノリッジ: [n o ɾ i dʑː i]
-          * ビレッジ: [b i ɾ e dʑː i]
+          * ポリッジ: [p o ɾ i dʑː i]
+          * ピンバッヂ: [p i m b a dʑː i]
+          * カレッジ: [k a ɾ e dʑː i]
+          * ヘッジス: [h e dʑː i s ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -389,50 +389,50 @@
       * s
         * Occurances: 18766
         * Examples
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * エスネ: [e s ɨ n e]
-          * さいばい: [s a i b a i]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
+          * 背番号: [s e b a ŋ ɡ oː]
+          * そっぽ: [s o pː o]
+          * じゅせいじ: [dʑ ɨ s eː ʑ i]
       * sː
         * Occurances: 430
         * Examples
-          * 罰する: [b a sː ɨ ɾ ɯ]
-          * くっせつご: [k ɯ̥ sː e ts ɨ ɡ o]
-          * けっそん: [k e sː o ɴ]
-          * カッサバ: [k a sː a b a]
+          * ハッスル: [h a sː ɨ ɾ ɯ]
+          * じっすう: [dʑ i sː ɨː]
+          * いっせい: [i sː eː]
+          * ひっさつ: [ç i̥ sː a ts ɨ]
     * voiced
       * z
         * Occurances: 3604
         * Examples
-          * 模造紙: [m o z oː ɕ i]
-          * 手蔓藻蔓: [t e z ɨ ɾ ɯ m o z ɨ ɾ ɯ]
-          * ちゅうぜつ: [tɕ ɨː z e ts ɨ]
-          * つまずけ: [ts ɨ m a z ɨ k e]
+          * しゅざい: [ɕ ɨ z a i]
+          * わし座: [w a ɕ i z a]
+          * みぜんけい: [m i z e ŋ k eː]
+          * あざみ: [a z a m i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 14528
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * 模造紙: [m o z oː ɕ i]
-          * かいしょく: [k a i ɕ o k ɯ]
-          * ビショップ: [b i ɕ o pː ɯ]
+          * 押し目: [o ɕ i m e]
+          * しゅざい: [ɕ ɨ z a i]
+          * 端女郎: [h a ɕ i ʑ o ɾ oː]
+          * せからしい: [s e k a ɾ a ɕ iː]
       * ɕː
         * Occurances: 447
         * Examples
-          * まっしろ: [m a ɕː i ɾ o]
-          * いっしゅう: [i ɕː ɨː]
           * 一種類: [i ɕː ɨ ɾ ɯ i]
-          * 実写映画: [dʑ i ɕː a eː ɡ a]
+          * ブラッシュ: [b ɯ ɾ a ɕː ɨ]
+          * たっしゃ: [t a ɕː a]
+          * 予防接種: [j o b oː s e ɕː ɨ]
     * voiced
       * ʑ
         * Occurances: 3858
         * Examples
-          * 技術院: [ɟ i ʑ ɨ ts ɨ i ɴ]
-          * 平調子: [ç i ɾ a ʑ oː ɕ i]
-          * 総人口: [s oː ʑ i ŋ k oː]
-          * 出張所: [ɕ ɨ tɕː oː ʑ o]
+          * ことじ: [k o t o ʑ i]
+          * じゅせいじ: [dʑ ɨ s eː ʑ i]
+          * 端女郎: [h a ɕ i ʑ o ɾ oː]
+          * hdtv: [e tɕː i ʑ iː tɕ iː v iː]
     ```
   - ```{ipa_cell}
     ```
@@ -446,32 +446,32 @@
       * ɸ
         * Occurances: 3342
         * Examples
-          * デフォルメ: [d e ɸ o ɾ ɯ m e]
-          * ローファー: [ɾ oː ɸ aː]
-          * ファミリア: [ɸ a m i ɾ i a]
-          * 桜吹雪: [s a k ɯ ɾ a ɸ ɯ b ɯ c i]
+          * ふりこみ: [ɸ ɯ ɾ i k o m i]
+          * リンブルフ: [ɾ a m b ɯ ɾ ɯ ɸ ɯ]
+          * 福建省: [ɸ ɯ̥ kː e ɰ̃ ɕ oː]
+          * ギフト: [ɟ i ɸ ɯ̥ t o]
       * ɸʲ
         * Occurances: 7
         * Examples
-          * フュール: [ɸʲ ɨː ɾ ɯ]
           * フューリー: [ɸʲ ɨː ɾ iː]
+          * フュール: [ɸʲ ɨː ɾ ɯ]
       * ɸː
         * Occurances: 18
         * Examples
-          * バッファ: [b a ɸː a]
+          * シャッフル: [ɕ a ɸː ɯ ɾ ɯ]
           * ハッフル: [h a ɸː ɯ ɾ ɯ]
-          * イッフィー: [i ɸː iː]
-          * バッフィー: [b a ɸː iː]
+          * ベグリッフ: [b e ɡ ɯ ɾ i ɸː ɯ]
+          * ワッフル: [w a ɸː ɯ ɾ ɯ]
     ```
   - ```{ipa_cell}
     * voiced
       * v
         * Occurances: 198
         * Examples
-          * ヴォールト: [v oː ɾ ɯ t o]
-          * leave: [ɾ iː v ɯ]
-          * プラヴ: [p ɯ ɾ a v ɯ]
-          * カダヴラ: [k a d a v ɯ ɾ a]
+          * hdtv: [e tɕː i ʑ iː tɕ iː v iː]
+          * hmv: [e tɕː i e m ɯ v i]
+          * ヴァシェム: [v a ɕ e m ɯ]
+          * java: [dʑ a v a]
       * vʲ
         * Occurances: 4
         * Examples
@@ -483,10 +483,10 @@
       * ç
         * Occurances: 2587
         * Examples
-          * 平調子: [ç i ɾ a ʑ oː ɕ i]
-          * ヒトカラ: [ç i t o k a ɾ a]
-          * 引き合い: [ç i̥ c i a i]
-          * ボーヒル: [b oː ç i ɾ ɯ]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * 悪逆非道: [a k ɯ ɟ a k ɯ ç i d oː]
+          * 引いて: [ç iː t e]
+          * かくひつ: [k a k ɯ ç i ts ɨ]
       * çː
         * Occurances: 3
         * Examples
@@ -500,17 +500,17 @@
       * h
         * Occurances: 6282
         * Examples
-          * 因果応報: [i ŋ ɡ a oː h oː]
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * ホエイ: [h o e i]
-          * 皇帝陛下: [k oː t eː h eː k a]
+          * ケルトごは: [k e ɾ ɯ t o ɡ o h a]
+          * 端女郎: [h a ɕ i ʑ o ɾ oː]
+          * 働き掛ける: [h a t a ɾ a c i k a k e ɾ ɯ]
+          * ほこり: [h o k o ɾ i]
       * hː
         * Occurances: 5
         * Examples
           * ゲルラッハ: [ɡ e ɾ ɯ ɾ a hː a]
-          * ゼンパッハ: [dz e m p a hː a]
-          * ゴッホ: [ɡ o hː o]
           * ウンバッハ: [ɯ m b a hː a]
+          * ゴッホ: [ɡ o hː o]
+          * ゼンパッハ: [dz e m p a hː a]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -524,20 +524,20 @@
       * j
         * Occurances: 6118
         * Examples
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * 犬小屋: [i n ɯ ɡ o j a]
-          * 魚価安: [ɟ o k a j a s ɨ]
-          * トウヨウ: [t o ɯ j o ɯ]
+          * 音読み: [o ɰ̃ j o m i]
+          * ユニコーン: [j ɨ ɲ i k oː ɴ]
+          * 寿司屋: [s ɨ̥ ɕ i j a]
+          * こやす: [k o j a s ɨ]
     ```
   - ```{ipa_cell}
     * other
       * ɰ̃
         * Occurances: 3962
         * Examples
-          * レモンいろ: [ɾ e m o ɰ̃ i ɾ o]
-          * 巡洋戦艦: [dʑ ɨ ɰ̃ j oː s e ŋ k a ɴ]
-          * 交感神経節: [k oː k a ɰ̃ ɕ i ŋ k eː s e ts ɨ]
-          * 黄金色植物: [oː ɡ o ɰ̃ ɕ o k ɯ ɕ o k ɯ b ɯ ts ɨ]
+          * 音読み: [o ɰ̃ j o m i]
+          * 両院制: [ɾʲ oː i ɰ̃ s eː]
+          * 福建省: [ɸ ɯ̥ kː e ɰ̃ ɕ oː]
+          * 人種主義: [dʑ i ɰ̃ ɕ ɨ̥ ɕ ɨ ɟ i]
     ```
   - ```{ipa_cell}
     ```
@@ -553,17 +553,17 @@
       * ɾ
         * Occurances: 24817
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * 撫でる: [n a d e ɾ ɯ]
-          * レモンいろ: [ɾ e m o ɰ̃ i ɾ o]
-          * カリンガ: [k a ɾ i ŋ ɡ a]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * ブロック: [b ɯ ɾ o kː ɯ]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
       * ɾʲ
         * Occurances: 1264
         * Examples
-          * 量子力学: [ɾʲ oː ɕ i ɾ i c i ɡ a k ɯ]
-          * 敬称略: [k eː ɕ oː ɾʲ a k ɯ]
-          * ダブリュー: [d a b ɯ ɾʲ ɨː]
-          * せいりょく: [s eː ɾʲ o k ɯ]
+          * がりょう: [ɡ a ɾʲ oː]
+          * 忍耐力: [ɲ i n t a i ɾʲ o k ɯ]
+          * 両院制: [ɾʲ oː i ɰ̃ s eː]
+          * リュック: [ɾʲ ɨ kː ɯ̥]
       * ɾː
         * Occurances: 4
         * Examples
@@ -601,24 +601,24 @@
       * i
         * Occurances: 52345
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * 模造紙: [m o z oː ɕ i]
-          * いわい: [i w a i]
-          * 因果応報: [i ŋ ɡ a oː h oː]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * 音読み: [o ɰ̃ j o m i]
+          * たきび: [t a c i b i]
+          * アク禁: [a k ɯ c i ɴ]
       * iː
         * Occurances: 2512
         * Examples
-          * 言い伝え: [iː ts ɨ̥ t a e]
-          * ｇ８化: [dʑ iː e t o k a]
-          * リッチー: [ɾ i tɕː iː]
-          * セクシー: [s e k ɯ̥ ɕ iː]
+          * アリーナ: [a ɾ iː n a]
+          * 引いて: [ç iː t e]
+          * hdtv: [e tɕː i ʑ iː tɕ iː v iː]
+          * せからしい: [s e k a ɾ a ɕ iː]
       * i̥
         * Occurances: 3260
         * Examples
-          * 落ち込み: [o tɕ i̥ k o m i]
-          * シカゴ: [ɕ i̥ k a ɡ o]
-          * 駆逐艦: [k ɯ̥ tɕ i̥ k ɯ̥ k a ɴ]
-          * 戻した: [m o d o ɕ i̥ t a]
+          * 落ち着いた: [o tɕ i̥ ts ɨ i t a]
+          * 借地権: [ɕ a k ɯ tɕ i̥ k e ɴ]
+          * 産地国別: [s a ɲ tɕ i̥ k o k ɯ b e ts ɨ]
+          * 初めまして: [h a ʑ i m e m a ɕ i̥ t e]
     ```
   - ```{ipa_cell}
     ```
@@ -627,24 +627,24 @@
       * ɨ
         * Occurances: 14309
         * Examples
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * 技術院: [ɟ i ʑ ɨ ts ɨ i ɴ]
-          * 手蔓藻蔓: [t e z ɨ ɾ ɯ m o z ɨ ɾ ɯ]
-          * ちゅうぜつ: [tɕ ɨː z e ts ɨ]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
+          * しゅざい: [ɕ ɨ z a i]
+          * ユニコーン: [j ɨ ɲ i k oː ɴ]
+          * じゅせいじ: [dʑ ɨ s eː ʑ i]
       * ɨː
         * Occurances: 4540
         * Examples
-          * ちゅうぜつ: [tɕ ɨː z e ts ɨ]
-          * 支那通: [ɕ i n a ts ɨː]
-          * 多数派: [t a s ɨː h a]
-          * うゆう: [ɯ j ɨː]
+          * れんにゅう: [ɾ e ɲː ɨː]
+          * ちゅうねこ: [tɕ ɨː n e k o]
+          * たいじゅう: [t a i ʑ ɨː]
+          * 豆電球: [m a m e d e ɲ c ɨː]
       * ɨ̥
         * Occurances: 2906
         * Examples
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 言い伝え: [iː ts ɨ̥ t a e]
-          * 好き嫌い: [s ɨ̥ c i c i ɾ a i]
-          * 独立国: [d o k ɯ ɾ i ts ɨ̥ k o k ɯ]
+          * 生物工学: [s eː b ɯ ts ɨ̥ k oː ɡ a k ɯ]
+          * 寿司屋: [s ɨ̥ ɕ i j a]
+          * すっとぶ: [s ɨ̥ tː o b ɯ]
+          * スカパン: [s ɨ̥ k a p a ɴ]
     ```
   - ```{ipa_cell}
     ```
@@ -653,24 +653,24 @@
       * ɯ
         * Occurances: 30079
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * 撫でる: [n a d e ɾ ɯ]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * ブロック: [b ɯ ɾ o kː ɯ]
+          * アク禁: [a k ɯ c i ɴ]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
       * ɯː
         * Occurances: 729
         * Examples
-          * 気が狂う: [c i ɡ a k ɯ ɾ ɯː]
-          * しふう: [ɕ i ɸ ɯː]
-          * にぐう: [ɲ i ɡ ɯː]
-          * 風物詩: [ɸ ɯː b ɯ ts ɨ ɕ i]
+          * ガダループ: [ɡ a d a ɾ ɯː p ɯ]
+          * ブービー: [b ɯː b iː]
+          * プーチン: [p ɯː tɕ i ɴ]
+          * 真空パック: [ɕ i ŋ k ɯː p a kː ɯ]
       * ɯ̥
         * Occurances: 1989
         * Examples
-          * ちょくせん: [tɕ o k ɯ̥ s e ɴ]
-          * 駆逐艦: [k ɯ̥ tɕ i̥ k ɯ̥ k a ɴ]
-          * 大食細胞: [t a i ɕ o k ɯ̥ s a i b oː]
-          * こくそにん: [k o k ɯ̥ s o ɲ i ɴ]
+          * 福建省: [ɸ ɯ̥ kː e ɰ̃ ɕ oː]
+          * ギフト: [ɟ i ɸ ɯ̥ t o]
+          * 吹き矢: [ɸ ɯ̥ c i j a]
+          * リュック: [ɾʲ ɨ kː ɯ̥]
     ```
 * -
   - ```{ipa_cell}
@@ -689,17 +689,17 @@
       * e
         * Occurances: 25791
         * Examples
-          * 逃げた: [ɲ i ɡ e t a]
-          * 撫でる: [n a d e ɾ ɯ]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * えきむ: [e c i m ɯ]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * 暮れる: [k ɯ ɾ e ɾ ɯ]
+          * 押し目: [o ɕ i m e]
+          * ケルトごは: [k e ɾ ɯ t o ɡ o h a]
       * eː
         * Occurances: 6428
         * Examples
-          * めいき: [m eː c i]
-          * 皇帝陛下: [k oː t eː h eː k a]
-          * 敬称略: [k eː ɕ oː ɾʲ a k ɯ]
-          * せいろう: [s eː ɾ oː]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * じゅせいじ: [dʑ ɨ s eː ʑ i]
+          * 生物工学: [s eː b ɯ ts ɨ̥ k oː ɡ a k ɯ]
+          * 両院制: [ɾʲ oː i ɰ̃ s eː]
     ```
   - ```{ipa_cell}
     ```
@@ -712,17 +712,17 @@
       * o
         * Occurances: 34252
         * Examples
-          * 模造紙: [m o z oː ɕ i]
-          * ネクスト: [n e k ɯ s ɨ̥ t o]
-          * 爆発音: [b a k ɯ h a ts ɨ o ɴ]
-          * かいしょく: [k a i ɕ o k ɯ]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * 音読み: [o ɰ̃ j o m i]
+          * ブロック: [b ɯ ɾ o kː ɯ]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
       * oː
         * Occurances: 17658
         * Examples
-          * 模造紙: [m o z oː ɕ i]
-          * 因果応報: [i ŋ ɡ a oː h oː]
-          * ローファー: [ɾ oː ɸ aː]
-          * 増床後: [dz oː ɕ oː ɡ o]
+          * 拒もう: [k o b a m oː]
+          * がりょう: [ɡ a ɾʲ oː]
+          * 背番号: [s e b a ŋ ɡ oː]
+          * モトローラ: [m o t o ɾ oː ɾ a]
     ```
 * -
   - ```{ipa_cell}
@@ -767,17 +767,17 @@
       * a
         * Occurances: 64942
         * Examples
-          * しばらく: [ɕ i b a ɾ a k ɯ]
-          * いわい: [i w a i]
-          * 因果応報: [i ŋ ɡ a oː h oː]
-          * 逃げた: [ɲ i ɡ e t a]
+          * ひとりがち: [ç i t o ɾ i ɡ a tɕ i]
+          * たきび: [t a c i b i]
+          * アク禁: [a k ɯ c i ɴ]
+          * 討ち漏らす: [ɯ tɕ i m o ɾ a s ɨ]
       * aː
         * Occurances: 2382
         * Examples
-          * ローファー: [ɾ oː ɸ aː]
-          * タンブラー: [t a m b ɯ ɾ aː]
-          * ガーゴイル: [ɡ aː ɡ o i ɾ ɯ]
-          * ハラッパー: [h a ɾ a pː aː]
+          * rna: [aː ɾ ɯ e n ɯ eː]
+          * カースト: [k aː s ɨ̥ t o]
+          * ワーナー: [w aː n aː]
+          * エギンガー: [e ɟ i ŋ ɡ aː]
     ```
   - ```{ipa_cell}
     ```

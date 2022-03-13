@@ -17,6 +17,7 @@ Jump to section:
 - **Language:** [Czech](https://en.wikipedia.org/wiki/Czech_language)
 - **Dialect:** N/A
 - **Number of words:** `94,033`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#czech)
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`aw`, {ipa_inline}`aː`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`ew`, {ipa_inline}`f`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`l̩`, {ipa_inline}`m`, {ipa_inline}`m̩`, {ipa_inline}`n`, {ipa_inline}`n̩`, {ipa_inline}`o`, {ipa_inline}`ow`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`r̝`, {ipa_inline}`r̩`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`ŋ`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɦ`, {ipa_inline}`ɪ`, {ipa_inline}`ɱ`, {ipa_inline}`ɲ`, {ipa_inline}`ʃ`, {ipa_inline}`ʒ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/czech/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`

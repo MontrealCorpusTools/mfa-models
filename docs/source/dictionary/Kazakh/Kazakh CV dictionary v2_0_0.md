@@ -51,20 +51,20 @@
       * m
         * Occurances: 343
         * Examples
-          * мұрат: [m ʊ r ɑ t]
-          * мая: [m ɑ j ɑ]
-          * май: [m ɑ j]
-          * малы: [m ɑ l ə]
+          * менен: [m j e n j e n]
+          * ме!: [m j e]
+          * емес.: [j e m j e s]
+          * мәлім: [m æ l ɪ m]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 814
         * Examples
-          * санап: [s ɑ n ɑ p]
-          * шынын: [ʃ ə n ə n]
-          * деген: [d j e ɡ j e n]
-          * төсін: [t ʏ s ɪ n]
+          * сосын: [s o s ə n]
+          * менен: [m j e n j e n]
+          * алтын: [ɑ l t ə n]
+          * қызын: [q ə z ə n]
     ```
   - ```{ipa_cell}
     ```
@@ -75,10 +75,10 @@
       * ŋ
         * Occurances: 308
         * Examples
-          * ексең: [j e k s j e ŋ]
-          * тең.: [t j e ŋ]
-          * тумаң: [t w m ɑ ŋ]
-          * атың.: [ɑ t ə ŋ]
+          * әкең: [æ k j e ŋ]
+          * қызың: [q ə z ə ŋ]
+          * аздың: [ɑ z d ə ŋ]
+          * есің: [j e s ɪ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -90,36 +90,36 @@
       * p
         * Occurances: 179
         * Examples
-          * санап: [s ɑ n ɑ p]
-          * алып: [ɑ l ə p]
-          * пе.: [p j e]
-          * қарап: [q ɑ r ɑ p]
+          * аспақ: [ɑ s p ɑ q]
+          * ашып: [ɑ ʃ ə p]
+          * жіп: [ʒ ɪ p]
+          * көп.: [k ʏ p]
     * voiced
       * b
         * Occurances: 334
         * Examples
-          * бірге: [b ɪ r ɡ j e]
-          * болат: [b o l ɑ t]
-          * берді: [b j e r d ɪ]
-          * бары: [b ɑ r ə]
+          * батыл: [b ɑ t ə l]
+          * бақыт: [b ɑ q ə t]
+          * беті: [b j e t ɪ]
+          * түбі: [t ʏ b ɪ]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 673
         * Examples
-          * мұрат: [m ʊ r ɑ t]
-          * айта: [ɑ j t ɑ]
-          * төсін: [t ʏ s ɪ n]
-          * той: [t o j]
+          * батыл: [b ɑ t ə l]
+          * бақыт: [b ɑ q ə t]
+          * беті: [b j e t ɪ]
+          * түбі: [t ʏ b ɪ]
     * voiced
       * d
         * Occurances: 562
         * Examples
-          * деген: [d j e ɡ j e n]
-          * түзде: [t ʏ z d j e]
-          * қызды: [q ə z d ə]
-          * берді: [b j e r d ɪ]
+          * үйдей: [ʏ j d j e j]
+          * сазды: [s ɑ z d ə]
+          * жауды: [ʒ ɑ w d ə]
+          * аздың: [ɑ z d ə ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -134,28 +134,28 @@
       * k
         * Occurances: 319
         * Examples
-          * ексең: [j e k s j e ŋ]
-          * көш: [k ʏ ʃ]
-          * кәрі,: [k æ r ɪ]
-          * кес.: [k j e s]
+          * әкең: [æ k j e ŋ]
+          * киім: [k i j ɪ m]
+          * киіз: [k i j ɪ z]
+          * көп.: [k ʏ p]
     * voiced
       * ɡ
         * Occurances: 127
         * Examples
-          * бірге: [b ɪ r ɡ j e]
-          * деген: [d j e ɡ j e n]
-          * биге: [b i j ɡ j e]
+          * кімге: [k ɪ m ɡ j e]
           * үйге: [ʏ j ɡ j e]
+          * гүл: [ɡ ʏ l]
+          * егіз: [j e ɡ ɪ z]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 539
         * Examples
-          * қылау: [q ə l ɑ w]
-          * қол: [q o l]
-          * құтты: [q ʊ t t ə]
-          * қанат: [q ɑ n ɑ t]
+          * аспақ: [ɑ s p ɑ q]
+          * жалқы: [ʒ ɑ l q ə]
+          * бақыт: [b ɑ q ə t]
+          * қызың: [q ə z ə ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -167,36 +167,36 @@
       * s
         * Occurances: 651
         * Examples
-          * санап: [s ɑ n ɑ p]
-          * төсін: [t ʏ s ɪ n]
-          * іс,: [ɪ s]
-          * ырыс: [ə r ə s]
+          * аспақ: [ɑ s p ɑ q]
+          * сосын: [s o s ə n]
+          * емес.: [j e m j e s]
+          * атасы: [ɑ t ɑ s ə]
     * voiced
       * z
         * Occurances: 220
         * Examples
-          * түзде: [t ʏ z d j e]
-          * түзу: [t ʏ z w]
-          * қызды: [q ə z d ə]
-          * ұзын: [ʊ z ə n]
+          * түзеу: [t ʏ z j e w]
+          * қызың: [q ə z ə ŋ]
+          * қызын: [q ə z ə n]
+          * киіз: [k i j ɪ z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 179
         * Examples
-          * шынын: [ʃ ə n ə n]
-          * үште: [ʏ ʃ t j e]
-          * ашар.: [ɑ ʃ ɑ r]
-          * көш: [k ʏ ʃ]
+          * ашып: [ɑ ʃ ə p]
+          * шөл.: [ʃ ʏ l]
+          * қанша: [q ɑ n ʃ ɑ]
+          * шүкір: [ʃ ʏ k ɪ r]
     * voiced
       * ʒ
         * Occurances: 288
         * Examples
-          * жерін: [ʒ j e r ɪ n]
-          * жаны: [ʒ ɑ n ə]
-          * жақын: [ʒ ɑ q ə n]
-          * жетім: [ʒ j e t ɪ m]
+          * жалқы: [ʒ ɑ l q ə]
+          * жүр.: [ʒ ʏ r]
+          * жер: [ʒ j e r]
+          * жері: [ʒ j e r ɪ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -227,18 +227,18 @@
       * χ
         * Occurances: 7
         * Examples
-          * ханға: [χ ɑ n ʁ ɑ]
-          * хан: [χ ɑ n]
-          * хаты: [χ ɑ t ə]
           * халық: [χ ɑ l ə q]
+          * ханға: [χ ɑ n ʁ ɑ]
+          * хаты: [χ ɑ t ə]
+          * хан: [χ ɑ n]
     * other
       * ʁ
         * Occurances: 217
         * Examples
-          * тойға: [t o j ʁ ɑ]
-          * тұяғы: [t ʊ j ɑ ʁ ə]
-          * ағып: [ɑ ʁ ə p]
-          * суға: [s w ʁ ɑ]
+          * аяғы: [ɑ j ɑ ʁ ə]
+          * жолға: [ʒ o l ʁ ɑ]
+          * азға: [ɑ z ʁ ɑ]
+          * қойға: [q o j ʁ ɑ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -258,10 +258,10 @@
       * j
         * Occurances: 1347
         * Examples
-          * айта: [ɑ j t ɑ]
-          * бірге: [b ɪ r ɡ j e]
-          * өлер.: [ʏ l j e r]
-          * деген: [d j e ɡ j e n]
+          * әкең: [æ k j e ŋ]
+          * менен: [m j e n j e n]
+          * үйдей: [ʏ j d j e j]
+          * ме!: [m j e]
     ```
   - ```{ipa_cell}
     ```
@@ -277,10 +277,10 @@
       * r
         * Occurances: 632
         * Examples
-          * мұрат: [m ʊ r ɑ t]
-          * бірге: [b ɪ r ɡ j e]
-          * өлер.: [ʏ l j e r]
-          * жерін: [ʒ j e r ɪ n]
+          * жүр.: [ʒ ʏ r]
+          * бары: [b ɑ r ə]
+          * жер: [ʒ j e r]
+          * жері: [ʒ j e r ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -300,10 +300,10 @@
       * l
         * Occurances: 519
         * Examples
-          * қылау: [q ə l ɑ w]
-          * өлер.: [ʏ l j e r]
-          * қол: [q o l]
-          * алып: [ɑ l ə p]
+          * жалқы: [ʒ ɑ l q ə]
+          * батыл: [b ɑ t ə l]
+          * алау: [ɑ l ɑ w]
+          * мәлім: [m æ l ɪ m]
     ```
   - ```{ipa_cell}
     ```
@@ -337,10 +337,10 @@
       * i
         * Occurances: 45
         * Examples
-          * ит.: [i j t]
-          * иттен: [i j t t j e n]
-          * сиыр: [s i j ə r]
-          * иесі: [i j j e s ɪ]
+          * киім: [k i j ɪ m]
+          * киіз: [k i j ɪ z]
+          * киіп,: [k i j ɪ p]
+          * тиыны: [t i j ə n ə]
     ```
   - ```{ipa_cell}
     ```
@@ -363,18 +363,18 @@
       * ɪ
         * Occurances: 744
         * Examples
-          * бірге: [b ɪ r ɡ j e]
-          * төсін: [t ʏ s ɪ n]
-          * жерін: [ʒ j e r ɪ n]
-          * іс,: [ɪ s]
+          * беті: [b j e t ɪ]
+          * түбі: [t ʏ b ɪ]
+          * мәлім: [m æ l ɪ m]
+          * киім: [k i j ɪ m]
     * rounded
       * ʏ
         * Occurances: 302
         * Examples
-          * өлер.: [ʏ l j e r]
-          * төсін: [t ʏ s ɪ n]
-          * түзде: [t ʏ z d j e]
-          * түзу: [t ʏ z w]
+          * үйдей: [ʏ j d j e j]
+          * жүр.: [ʒ ʏ r]
+          * түбі: [t ʏ b ɪ]
+          * түзеу: [t ʏ z j e w]
     ```
   - ```{ipa_cell}
     ```
@@ -383,10 +383,10 @@
       * ʊ
         * Occurances: 110
         * Examples
-          * мұрат: [m ʊ r ɑ t]
-          * құтты: [q ʊ t t ə]
           * ұзын: [ʊ z ə n]
-          * шұқыр: [ʃ ʊ q ə r]
+          * бұзау: [b ʊ z ɑ w]
+          * құмар: [q ʊ m ɑ r]
+          * ұрысы: [ʊ r ə s ə]
     ```
   - ```{ipa_cell}
     ```
@@ -396,10 +396,10 @@
       * e
         * Occurances: 983
         * Examples
-          * бірге: [b ɪ r ɡ j e]
-          * өлер.: [ʏ l j e r]
-          * деген: [d j e ɡ j e n]
-          * жерін: [ʒ j e r ɪ n]
+          * әкең: [æ k j e ŋ]
+          * менен: [m j e n j e n]
+          * үйдей: [ʏ j d j e j]
+          * ме!: [m j e]
     ```
   - ```{ipa_cell}
     ```
@@ -412,10 +412,10 @@
       * o
         * Occurances: 258
         * Examples
-          * қол: [q o l]
-          * той: [t o j]
-          * болат: [b o l ɑ t]
-          * тойға: [t o j ʁ ɑ]
+          * сосын: [s o s ə n]
+          * жолға: [ʒ o l ʁ ɑ]
+          * бос: [b o s]
+          * бота: [b o t ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -427,10 +427,10 @@
       * ə
         * Occurances: 1035
         * Examples
-          * қылау: [q ə l ɑ w]
-          * шынын: [ʃ ə n ə n]
-          * алып: [ɑ l ə p]
-          * құтты: [q ʊ t t ə]
+          * сосын: [s o s ə n]
+          * жалқы: [ʒ ɑ l q ə]
+          * батыл: [b ɑ t ə l]
+          * бақыт: [b ɑ q ə t]
     ```
   - ```{ipa_cell}
     ```
@@ -453,10 +453,10 @@
       * æ
         * Occurances: 59
         * Examples
-          * кәрі,: [k æ r ɪ]
-          * тәнді: [t æ n d ɪ]
+          * әкең: [æ k j e ŋ]
+          * мәлім: [m æ l ɪ m]
           * әділ: [æ d ɪ l]
-          * әркім: [æ r k ɪ m]
+          * кәрі,: [k æ r ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -484,9 +484,9 @@
       * ɑ
         * Occurances: 1758
         * Examples
-          * санап: [s ɑ n ɑ p]
-          * мұрат: [m ʊ r ɑ t]
-          * қылау: [q ə l ɑ w]
-          * айта: [ɑ j t ɑ]
+          * аспақ: [ɑ s p ɑ q]
+          * жалқы: [ʒ ɑ l q ə]
+          * батыл: [b ɑ t ə l]
+          * алау: [ɑ l ɑ w]
     ```
 ``````

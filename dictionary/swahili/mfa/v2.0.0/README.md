@@ -17,6 +17,7 @@ Jump to section:
 - **Language:** [Swahili](https://en.wikipedia.org/wiki/Swahili_language)
 - **Dialect:** N/A
 - **Number of words:** `33,226`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#swahili)
 - **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`z`, {ipa_inline}`ð`, {ipa_inline}`ŋ`, {ipa_inline}`ɑ`, {ipa_inline}`ɔ`, {ipa_inline}`ɛ`, {ipa_inline}`ɡ`, {ipa_inline}`ɱ`, {ipa_inline}`ɲ`, {ipa_inline}`ʃ`, {ipa_inline}`θ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/swahili/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`

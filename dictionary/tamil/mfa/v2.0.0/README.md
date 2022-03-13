@@ -17,6 +17,7 @@ Jump to section:
 - **Language:** [Tamil](https://en.wikipedia.org/wiki/Tamil_language)
 - **Dialect:** N/A
 - **Number of words:** `2,503`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#tamil)
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`aj`, {ipa_inline}`aw`, {ipa_inline}`aː`, {ipa_inline}`b`, {ipa_inline}`dʑ`, {ipa_inline}`d̪`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`jː`, {ipa_inline}`k`, {ipa_inline}`kː`, {ipa_inline}`l`, {ipa_inline}`lː`, {ipa_inline}`m`, {ipa_inline}`mː`, {ipa_inline}`n`, {ipa_inline}`nː`, {ipa_inline}`n̪`, {ipa_inline}`n̪ː`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pː`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`tɕ`, {ipa_inline}`tɕː`, {ipa_inline}`tː`, {ipa_inline}`t̪`, {ipa_inline}`t̪ː`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`ŋ`, {ipa_inline}`ŋː`, {ipa_inline}`ɖ`, {ipa_inline}`ɡ`, {ipa_inline}`ɦ`, {ipa_inline}`ɭ`, {ipa_inline}`ɭː`, {ipa_inline}`ɲ`, {ipa_inline}`ɲː`, {ipa_inline}`ɳ`, {ipa_inline}`ɳː`, {ipa_inline}`ɻ`, {ipa_inline}`ɾ`, {ipa_inline}`ʂ`, {ipa_inline}`ʈ`, {ipa_inline}`ʈː`, {ipa_inline}`ʋ`, {ipa_inline}`ʋː`, {ipa_inline}`ʔ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/tamil/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
