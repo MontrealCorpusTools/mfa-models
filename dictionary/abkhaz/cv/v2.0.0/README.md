@@ -1,5 +1,7 @@
 
-# Abkhaz CV
+# abkhaz.cv
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/abkhaz_cv.html)
 
 Jump to section:
 
@@ -11,14 +13,27 @@ Jump to section:
 ## Dictionary details
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
-- **Language:** `Abkhaz`
-- **Number of words:** `3,670`
-- **Phones:** `@ a b d dz dʒʲ dʷ f j k kʲ kʲʼ kʷ kʷʼ kʼ l m n p pʼ qʲʼ qʷʼ qʼ r s t ts tsʼ tʃ tʃʲ tʃʲʼ tʃʷ tʃʼ tʷ tʷʼ tʼ v w z ħ ħʷ ə ɡ ɡʲ ɡʷ ʁ ʁʲ ʁʷ ʃ ʃʲ ʃʷ ʒ ʒʲ ʒʷ ʡ χ χʲ χʷ`
+- **Language:** [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)
+- **Number of words:** `3,692`
+- **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
+- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dz`, {ipa_inline}`dʒʲ`, {ipa_inline}`dʷ`, {ipa_inline}`f`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʲ`, {ipa_inline}`kʲʼ`, {ipa_inline}`kʷ`, {ipa_inline}`kʷʼ`, {ipa_inline}`kʼ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`p`, {ipa_inline}`pʼ`, {ipa_inline}`qʲʼ`, {ipa_inline}`qʷʼ`, {ipa_inline}`qʼ`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsʼ`, {ipa_inline}`tʃ`, {ipa_inline}`tʃʲ`, {ipa_inline}`tʃʲʼ`, {ipa_inline}`tʃʷ`, {ipa_inline}`tʃʼ`, {ipa_inline}`tʷ`, {ipa_inline}`tʷʼ`, {ipa_inline}`tʼ`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`z`, {ipa_inline}`ħ`, {ipa_inline}`ħʷ`, {ipa_inline}`ə`, {ipa_inline}`ɡ`, {ipa_inline}`ɡʲ`, {ipa_inline}`ɡʷ`, {ipa_inline}`ʁ`, {ipa_inline}`ʁʲ`, {ipa_inline}`ʁʷ`, {ipa_inline}`ʃ`, {ipa_inline}`ʃʲ`, {ipa_inline}`ʃʷ`, {ipa_inline}`ʒ`, {ipa_inline}`ʒʲ`, {ipa_inline}`ʒʷ`, {ipa_inline}`ʡ`, {ipa_inline}`χ`, {ipa_inline}`χʲ`, {ipa_inline}`χʷ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
-  - `@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}`
-- If you have comments or questions about this model, you can create an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@misc{
+	Ahn_Chodroff_2022,
+	author={Ahn, Emily and Chodroff, Eleanor},
+	title={VoxCommunis Corpus},
+	address={\url{https://osf.io/t957v}},
+	publisher={OSF},
+	year={2022},
+	month={Jan}
+}
+```
+
+- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Abkhaz+CV+dictionary+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -28,21 +43,20 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download dictionary abkhaz_cv
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-abkhaz_cv-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-abkhaz_cv-v2.0.0).
 
 ## Intended use
 
-This dictionary is intended for forced alignment of [Abkhaz Language](https://en.wikipedia.org/wiki/Abkhaz_language) transcripts.
+This dictionary is intended for forced alignment of [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language) transcripts.
 
-This dictionary uses the CV phone set for Abkhaz, and was used in training the
-[Abkhaz CV acoustic model](https://github.com/MontrealCorpusTools/mfa-models/blob/main/acoustic/Abkhaz/CV/v2.0.0/).
+This dictionary uses the [XPF](https://github.com/CohenPr-XPF/XPF) phone set for Abkhaz, and was used in training the Abkhaz [XPF](https://github.com/CohenPr-XPF/XPF) acoustic model.
 Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation, and each phone has
-a minimum duration (by default 30ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
+a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

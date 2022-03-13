@@ -5,34 +5,46 @@
 Acoustic models
 ===============
 
-.. needtable:: Acoustic models
+.. needtable::
    :types: acoustic
    :style: datatable
+   :columns: ID;language;dialect;phoneset;license
+   :class: table-striped
+   :colwidths: 40;20;20;10;10
 
 .. toctree::
    :hidden:
 
-   abkhaz_cv.md
-   armenian_cv.md
-   bashkir_cv.md
-   basque_cv.md
-   belarusian_cv.md
-   bulgarian_cv.md
-   chuvash_cv.md
-   czech_cv.md
-   georgian_cv.md
-   greek_cv.md
-   guarani_cv.md
-   hungarian_cv.md
-   italian_cv.md
-   polish_cv.md
-   portuguese_cv.md
-   romanian_cv.md
-   russian_cv.md
-   sorbian_upper_cv.md
-   tamil_cv.md
-   tatar_cv.md
-   thai_cv.md
-   turkish_cv.md
-   ukrainian_cv.md
-   vietnamese_cv.md
+   Abkhaz/index.rst
+   Armenian/index.rst
+   Bashkir/index.rst
+   Basque/index.rst
+   Belarusian/index.rst
+   Bulgarian/index.rst
+   Chuvash/index.rst
+   Czech/index.rst
+   Dutch/index.rst
+   English/index.rst
+   Georgian/index.rst
+   Greek/index.rst
+   Guarani/index.rst
+   Hausa/index.rst
+   Hungarian/index.rst
+   Italian/index.rst
+   Kazakh/index.rst
+   Kurmanji/index.rst
+   Kyrgyz/index.rst
+   Polish/index.rst
+   Portuguese/index.rst
+   Romanian/index.rst
+   Russian/index.rst
+   Sorbian/index.rst
+   Swedish/index.rst
+   Tamil/index.rst
+   Tatar/index.rst
+   Thai/index.rst
+   Turkish/index.rst
+   Ukrainian/index.rst
+   Uyghur/index.rst
+   Uzbek/index.rst
+   Vietnamese/index.rst

@@ -1,5 +1,7 @@
 
-# bulgarian_lm language model v2.0.0
+# bulgarian.lm
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/language_model/bulgarian_lm.html)
 
 Jump to section:
 
@@ -13,17 +15,28 @@ Jump to section:
 
 ## Model details
 
-- **Maintainer: [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
-- **Language:** `Bulgarian`
+- **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
+- **Language:** [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language)
 - **Trained date:** `2022-01-28`
 - **Model type:** `Language model`
 - **Architecture:** `ngram`
 - **Model version:** `v2.0.0`
 - **Compatible MFA version:** `v2.0.0`
-- **License:** [MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/mfa/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/MFA/v2.0.0/LICENSE)
 - **Citation:**
-  - `@techreport{MFA_bulgarian_lm_language model_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={bulgarian mfa MFA language model v2.0.0}, address={\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Jan}, number={bulgarian-mfa-2.0.0}`
-- If you have comments or questions about this model, you can create an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@techreport{
+	mfa_bulgarian_lm_2022,
+	author={McAuliffe, Michael and Sonderegger, Morgan},
+	title={Bulgarian language model v2.0.0},
+	address={\url{https://mfa-models.readthedocs.io/language model/Bulgarian/Bulgarian language model v2_0_0.html}},
+	year={2022},
+	month={Jan},
+}
+```
+
+- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Bulgarian+language+model+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -33,16 +46,16 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download language_model bulgarian_lm
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-bulgarian_lm-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-bulgarian_lm-v2.0.0).
 
 ## Intended use
 
-This model is intended for very basic language modeling [Bulgarian Language](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
+This model is intended for very basic language modeling [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
 
 These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness
 and in the off chance that they're useful in bootstrapping corpus development.
 
-This language was model trained with words from the [bulgarian_lm dictionary](https://github.com/MontrealCorpusTools/mfa-models/blob/main/dictionary/bulgarian_lm.dict).
+This language was model trained with words from the pronunciation dictionaries above.
 
 ## Performance Factors
 
@@ -87,6 +100,6 @@ Do not use this model in production, but if you do so, you should acknowledge bi
 
 ### Surveillance
 
-Speech-to-Text may be mis-used to invade the privacy of others by recording and mining information from private conversations.
+Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
 This kind of individual privacy is protected by law in may countries.
 You should not assume consent to record and analyze private speech.

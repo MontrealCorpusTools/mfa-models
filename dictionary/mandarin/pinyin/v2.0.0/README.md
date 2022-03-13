@@ -1,5 +1,7 @@
 
-# Mandarin PINYIN
+# mandarin.pinyin
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/mandarin_pinyin.html)
 
 Jump to section:
 
@@ -11,14 +13,26 @@ Jump to section:
 ## Dictionary details
 
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
-- **Language:** `Mandarin`
-- **Number of words:** `2,003`
-- **Phones:** `a1 a2 a3 a4 a5 ai1 ai2 ai3 ai4 ai5 ao1 ao2 ao3 ao4 ao5 b c ch d e1 e2 e3 e4 e5 ei1 ei2 ei3 ei4 f g h i1 i2 i3 i4 i5 ia1 ia2 ia3 ia4 ia5 iao1 iao2 iao3 iao4 ie1 ie2 ie3 ie4 ie5 ii1 ii2 ii3 ii4 ii5 io1 io2 io3 io4 iou1 iou2 iou3 iou4 j k l m n ng o1 o2 o3 o4 o5 ou1 ou2 ou3 ou4 ou5 p q r s sh t u1 u2 u3 u4 u5 ua1 ua2 ua3 ua4 ua5 uai1 uai2 uai3 uai4 ue1 ue2 ue3 ue4 ue5 uei1 uei2 uei3 uei4 uei5 uo1 uo2 uo3 uo4 uo5 v1 v2 v3 v4 v5 va1 va2 va3 va4 ve1 ve2 ve3 ve4 x z zh`
-- **License:** [MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/mandarin/pinyin/v2.0.0/LICENSE)
+- **Language:** [Mandarin Chinese](https://en.wikipedia.org/wiki/Mandarin_Chinese)
+- **Number of words:** `2,025`
+- **Phone set:** [PINYIN](https://en.wikipedia.org/wiki/Pinyin)
+- **Phones:** {ipa_inline}`a1`, {ipa_inline}`a2`, {ipa_inline}`a3`, {ipa_inline}`a4`, {ipa_inline}`a5`, {ipa_inline}`ai1`, {ipa_inline}`ai2`, {ipa_inline}`ai3`, {ipa_inline}`ai4`, {ipa_inline}`ai5`, {ipa_inline}`ao1`, {ipa_inline}`ao2`, {ipa_inline}`ao3`, {ipa_inline}`ao4`, {ipa_inline}`ao5`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`ch`, {ipa_inline}`d`, {ipa_inline}`e1`, {ipa_inline}`e2`, {ipa_inline}`e3`, {ipa_inline}`e4`, {ipa_inline}`e5`, {ipa_inline}`ei1`, {ipa_inline}`ei2`, {ipa_inline}`ei3`, {ipa_inline}`ei4`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i1`, {ipa_inline}`i2`, {ipa_inline}`i3`, {ipa_inline}`i4`, {ipa_inline}`i5`, {ipa_inline}`ia1`, {ipa_inline}`ia2`, {ipa_inline}`ia3`, {ipa_inline}`ia4`, {ipa_inline}`ia5`, {ipa_inline}`iao1`, {ipa_inline}`iao2`, {ipa_inline}`iao3`, {ipa_inline}`iao4`, {ipa_inline}`ie1`, {ipa_inline}`ie2`, {ipa_inline}`ie3`, {ipa_inline}`ie4`, {ipa_inline}`ie5`, {ipa_inline}`ii1`, {ipa_inline}`ii2`, {ipa_inline}`ii3`, {ipa_inline}`ii4`, {ipa_inline}`ii5`, {ipa_inline}`io1`, {ipa_inline}`io2`, {ipa_inline}`io3`, {ipa_inline}`io4`, {ipa_inline}`iou1`, {ipa_inline}`iou2`, {ipa_inline}`iou3`, {ipa_inline}`iou4`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`ng`, {ipa_inline}`o1`, {ipa_inline}`o2`, {ipa_inline}`o3`, {ipa_inline}`o4`, {ipa_inline}`o5`, {ipa_inline}`ou1`, {ipa_inline}`ou2`, {ipa_inline}`ou3`, {ipa_inline}`ou4`, {ipa_inline}`ou5`, {ipa_inline}`p`, {ipa_inline}`q`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`sh`, {ipa_inline}`t`, {ipa_inline}`u1`, {ipa_inline}`u2`, {ipa_inline}`u3`, {ipa_inline}`u4`, {ipa_inline}`u5`, {ipa_inline}`ua1`, {ipa_inline}`ua2`, {ipa_inline}`ua3`, {ipa_inline}`ua4`, {ipa_inline}`ua5`, {ipa_inline}`uai1`, {ipa_inline}`uai2`, {ipa_inline}`uai3`, {ipa_inline}`uai4`, {ipa_inline}`ue1`, {ipa_inline}`ue2`, {ipa_inline}`ue3`, {ipa_inline}`ue4`, {ipa_inline}`ue5`, {ipa_inline}`uei1`, {ipa_inline}`uei2`, {ipa_inline}`uei3`, {ipa_inline}`uei4`, {ipa_inline}`uei5`, {ipa_inline}`uo1`, {ipa_inline}`uo2`, {ipa_inline}`uo3`, {ipa_inline}`uo4`, {ipa_inline}`uo5`, {ipa_inline}`v1`, {ipa_inline}`v2`, {ipa_inline}`v3`, {ipa_inline}`v4`, {ipa_inline}`v5`, {ipa_inline}`va1`, {ipa_inline}`va2`, {ipa_inline}`va3`, {ipa_inline}`va4`, {ipa_inline}`ve1`, {ipa_inline}`ve2`, {ipa_inline}`ve3`, {ipa_inline}`ve4`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`zh`
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/mandarin/PINYIN/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
-  - `@techreport{MFA_mandarin_pinyin_pronunciation dictionary_2022, author={McAuliffe, Michael and Sonderegger, Morgan}, title={mandarin pinyin MFA pronunciation dictionary v2.0.0}, address={\url{https://mfa-models.readthedocs.io/}, year={2022}, month={Feb}, number={mandarin-pinyin-2.0.0}`
-- If you have comments or questions about this model, you can create an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@techreport{
+	mfa_mandarin_pinyin_dictionary_2022,
+	author={McAuliffe, Michael and Sonderegger, Morgan},
+	title={Mandarin PINYIN dictionary v2.0.0},
+	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Mandarin/Mandarin PINYIN dictionary v2_0_0.html}},
+	year={2022},
+	month={Mar},
+}
+```
+
+- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Mandarin+PINYIN+dictionary+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -28,21 +42,20 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download dictionary mandarin_pinyin
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_pinyin-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_pinyin-v2.0.0).
 
 ## Intended use
 
-This dictionary is intended for forced alignment of [Mandarin Language](https://en.wikipedia.org/wiki/Mandarin_language) transcripts.
+This dictionary is intended for forced alignment of [Mandarin Chinese](https://en.wikipedia.org/wiki/Mandarin_Chinese) transcripts.
 
-This dictionary uses the PINYIN phone set for Mandarin, and was used in training the
-[Mandarin PINYIN acoustic model](https://github.com/MontrealCorpusTools/mfa-models/blob/main/acoustic/Mandarin/PINYIN/v2.0.0/).
+This dictionary uses the [PINYIN](https://en.wikipedia.org/wiki/Pinyin) phone set for Mandarin, and was used in training the Mandarin [PINYIN](https://en.wikipedia.org/wiki/Pinyin) acoustic model.
 Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation, and each phone has
-a minimum duration (by default 30ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
+a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

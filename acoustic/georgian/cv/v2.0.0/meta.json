@@ -1,24 +1,14 @@
 {
     "name": "georgian_cv",
     "language": "Georgian",
-    "phone_set": "cv",
+    "dialect": "",
+    "phone_set": "CV",
     "version": "2.0.0",
     "maintainer": "[Vox Communis](https://osf.io/t957v/)",
-    "citation": "@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}",
+    "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}",
+    "license": "CC-0",
     "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
     "architecture": "gmm-hmm",
-    "training": {
-        "num_oovs": 0,
-        "average_log_likelihood": 0,
-        "corpora": [
-            {
-                "name": "[Common Voice 7.0](https://voice.mozilla.org/en/datasets) Georgian",
-                "num_hours": 6,
-                "num_speakers": 109,
-                "num_utterances": 4562
-            }
-        ]
-    },
     "features": {
         "allow_downsample": true,
         "allow_upsample": true,
@@ -38,5 +28,5 @@
     },
     "evaluation": {},
     "decode": {},
-    "train_date": "2021-12-18"
+    "train_date": "02-11-2022"
 }

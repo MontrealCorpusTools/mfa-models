@@ -1,5 +1,7 @@
 
-# German PROSODYLAB
+# german.prosodylab
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/german_prosodylab.html)
 
 Jump to section:
 
@@ -11,14 +13,28 @@ Jump to section:
 ## Dictionary details
 
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
-- **Language:** `German`
-- **Number of words:** `310,950`
-- **Phones:** `$1 &0 &1 )0 )1 + /0 /1 = @0 A0 A1 B0 B1 E0 E1 I0 I1 J N O0 O1 S U0 U1 V1 W0 W1 X0 X1 Y0 Y1 Z ^1 _ a0 a1 b c0 d drei0 e0 e1 f g h i0 i1 j k l m n null0 null1 o0 o1 p q0 q1 r s sechs1 t u0 u1 v w x y0 y1 z zwei0 zwei1 {0 {1 |0 |1 ~1`
-- **License:** [MIT](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/prosodylab/v2.0.0/LICENSE)
+- **Language:** [German](https://en.wikipedia.org/wiki/German_language)
+- **Number of words:** `310,972`
+- **Phone set:** [PROSODYLAB](https://github.com/prosodylab/prosodylab.dictionaries)
+- **Phones:** {ipa_inline}`$1`, {ipa_inline}`&0`, {ipa_inline}`&1`, {ipa_inline}`)0`, {ipa_inline}`)1`, {ipa_inline}`+`, {ipa_inline}`/0`, {ipa_inline}`/1`, {ipa_inline}`=`, {ipa_inline}`@0`, {ipa_inline}`A0`, {ipa_inline}`A1`, {ipa_inline}`B0`, {ipa_inline}`B1`, {ipa_inline}`E0`, {ipa_inline}`E1`, {ipa_inline}`I0`, {ipa_inline}`I1`, {ipa_inline}`J`, {ipa_inline}`N`, {ipa_inline}`O0`, {ipa_inline}`O1`, {ipa_inline}`S`, {ipa_inline}`U0`, {ipa_inline}`U1`, {ipa_inline}`V1`, {ipa_inline}`W0`, {ipa_inline}`W1`, {ipa_inline}`X0`, {ipa_inline}`X1`, {ipa_inline}`Y0`, {ipa_inline}`Y1`, {ipa_inline}`Z`, {ipa_inline}`^1`, {ipa_inline}`_`, {ipa_inline}`a0`, {ipa_inline}`a1`, {ipa_inline}`b`, {ipa_inline}`c0`, {ipa_inline}`d`, {ipa_inline}`drei0`, {ipa_inline}`e0`, {ipa_inline}`e1`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i0`, {ipa_inline}`i1`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`null0`, {ipa_inline}`null1`, {ipa_inline}`o0`, {ipa_inline}`o1`, {ipa_inline}`p`, {ipa_inline}`q0`, {ipa_inline}`q1`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`sechs1`, {ipa_inline}`t`, {ipa_inline}`u0`, {ipa_inline}`u1`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y0`, {ipa_inline}`y1`, {ipa_inline}`z`, {ipa_inline}`zwei0`, {ipa_inline}`zwei1`, {ipa_inline}`{0`, {ipa_inline}`{1`, {ipa_inline}`|0`, {ipa_inline}`|1`, {ipa_inline}`~1`
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/PROSODYLAB/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
-  - `@article{gorman2011prosodylab, author={Gorman, Kyle and Howell, Jonathan and Wagner, Michael}, title={Prosodylab-aligner: A tool for forced alignment of laboratory speech}, journal={Canadian Acoustics}, volume={39}, number={3}, pages={192--193}, year={2011}}`
-- If you have comments or questions about this model, you can create an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@article{
+	gorman2011prosodylab,
+	author={Gorman, Kyle and Howell, Jonathan and Wagner, Michael},
+	title={Prosodylab-aligner: A tool for forced alignment of laboratory speech},
+	journal={Canadian Acoustics},
+	volume={39},
+	number={3},
+	pages={192--193},
+	year={2011}
+}
+```
+
+- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=German+PROSODYLAB+dictionary+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -28,21 +44,20 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download dictionary german_prosodylab
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_prosodylab-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_prosodylab-v2.0.0).
 
 ## Intended use
 
-This dictionary is intended for forced alignment of [German Language](https://en.wikipedia.org/wiki/German_language) transcripts.
+This dictionary is intended for forced alignment of [German](https://en.wikipedia.org/wiki/German_language) transcripts.
 
-This dictionary uses the PROSODYLAB phone set for German, and was used in training the
-[German PROSODYLAB acoustic model](https://github.com/MontrealCorpusTools/mfa-models/blob/main/acoustic/German/PROSODYLAB/v2.0.0/).
+This dictionary uses the [PROSODYLAB](https://github.com/prosodylab/prosodylab.dictionaries) phone set for German, and was used in training the German [PROSODYLAB](https://github.com/prosodylab/prosodylab.dictionaries) acoustic model.
 Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation, and each phone has
-a minimum duration (by default 30ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
+a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

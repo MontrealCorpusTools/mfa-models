@@ -81,3 +81,4 @@ Montreal Forced Aligner Models
    G2P models <g2p/index.rst>
    Acoustic models <acoustic/index.rst>
    Language models <language_model/index.rst>
+   Corpora <corpus/index.rst>

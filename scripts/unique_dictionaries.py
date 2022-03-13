@@ -11,6 +11,10 @@ staging_dir = os.path.join(dictionary_dir, 'staging')
 for fn in os.listdir(staging_dir):
     if not fn.endswith('.dict'):
         continue
+    if fn.endswith("_cv.dict"):
+        continue
+    if fn.endswith("prosodylab.dict"):
+        continue
     language = fn.split('_')[0]
     skip_words_path = os.path.join(skip_words_dir, language+'.txt')
     skip_word_set = set()

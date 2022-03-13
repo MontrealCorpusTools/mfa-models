@@ -1,0 +1,33 @@
+{
+    "name": "uyghur_cv",
+    "language": "Uyghur",
+    "dialect": "",
+    "phone_set": "CV",
+    "version": "2.0.0",
+    "maintainer": "[Vox Communis](https://osf.io/t957v/)",
+    "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}",
+    "license": "CC-0",
+    "license_link": "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)",
+    "architecture": "gmm-hmm",
+    "features": {
+        "allow_downsample": true,
+        "allow_upsample": true,
+        "frame_shift": 10,
+        "high_frequency": 7800,
+        "lda": false,
+        "low_frequency": 20,
+        "pitch": false,
+        "sample_frequency": 16000,
+        "snip_edges": true,
+        "splice_left_context": 3,
+        "splice_right_context": 3,
+        "use_energy": false,
+        "uses_speaker_adaptation": true,
+        "uses_splices": true,
+        "uses_deltas": true,
+        "feature_type": "mfcc"
+    },
+    "evaluation": {},
+    "decode": {},
+    "train_date": "02-11-2022"
+}

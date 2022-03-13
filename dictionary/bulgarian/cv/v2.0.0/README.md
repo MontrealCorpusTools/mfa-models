@@ -1,5 +1,7 @@
 
-# Bulgarian CV
+# bulgarian.cv
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/bulgarian_cv.html)
 
 Jump to section:
 
@@ -11,14 +13,27 @@ Jump to section:
 ## Dictionary details
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
-- **Language:** `Bulgarian`
-- **Number of words:** `9,756`
-- **Phones:** `a aː b d dz dʒ dː e eː f i iː j k m n nː o oː p r s t ts tsː tʃ tː u uː v x z zː ɡ ɤ ɫ ɫː ʃ ʒ`
+- **Language:** [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language)
+- **Number of words:** `9,778`
+- **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
+- **Phones:** {ipa_inline}`a`, {ipa_inline}`aː`, {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dz`, {ipa_inline}`dʒ`, {ipa_inline}`dː`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`nː`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsː`, {ipa_inline}`tʃ`, {ipa_inline}`tː`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`zː`, {ipa_inline}`ɡ`, {ipa_inline}`ɤ`, {ipa_inline}`ɫ`, {ipa_inline}`ɫː`, {ipa_inline}`ʃ`, {ipa_inline}`ʒ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
-  - `@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}`
-- If you have comments or questions about this model, you can create an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@misc{
+	Ahn_Chodroff_2022,
+	author={Ahn, Emily and Chodroff, Eleanor},
+	title={VoxCommunis Corpus},
+	address={\url{https://osf.io/t957v}},
+	publisher={OSF},
+	year={2022},
+	month={Jan}
+}
+```
+
+- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Bulgarian+CV+dictionary+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -28,21 +43,20 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download dictionary bulgarian_cv
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_cv-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_cv-v2.0.0).
 
 ## Intended use
 
-This dictionary is intended for forced alignment of [Bulgarian Language](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
+This dictionary is intended for forced alignment of [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
 
-This dictionary uses the CV phone set for Bulgarian, and was used in training the
-[Bulgarian CV acoustic model](https://github.com/MontrealCorpusTools/mfa-models/blob/main/acoustic/Bulgarian/CV/v2.0.0/).
+This dictionary uses the [XPF](https://github.com/CohenPr-XPF/XPF) phone set for Bulgarian, and was used in training the Bulgarian [XPF](https://github.com/CohenPr-XPF/XPF) acoustic model.
 Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation, and each phone has
-a minimum duration (by default 30ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
+a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

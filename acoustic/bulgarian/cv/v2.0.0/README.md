@@ -1,5 +1,7 @@
 
-# bulgarian_cv acoustic model v2.0.0
+# bulgarian.cv
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/bulgarian_cv.html)
 
 Jump to section:
 
@@ -14,17 +16,30 @@ Jump to section:
 ## Model details
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
-- **Language:** `Bulgarian`
-- **Trained date:** `2021-12-19`
+- **Language:** [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language)
+- **Dialect:** N/A
+- **Trained date:** `02-11-2022`
 - **Model type:** `Acoustic model`
-- **Phone set:** `cv`
+- **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
 - **Model version:** `v2.0.0`
 - **Architecture:** `gmm-hmm`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Citation:**
-  - `@misc{Ahn_Chodroff_2022, author={Ahn, Emily and Chodroff, Eleanor}, title={VoxCommunis Corpus}, address={\url{https://osf.io/t957v}, publisher={OSF}, year={2022}, month={Jan}}`
-- If you have comments or questions about this model, please contact the maintainers, or file an issue on [`mfa-models` issues](https://github.com/MontrealCorpusTools/mfa-models/issues).
+
+```bibtex
+@misc{
+	Ahn_Chodroff_2022,
+	author={Ahn, Emily and Chodroff, Eleanor},
+	title={VoxCommunis Corpus},
+	address={\url{https://osf.io/t957v}},
+	publisher={OSF},
+	year={2022},
+	month={Jan}
+}
+```
+
+- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Bulgarian+CV+acoustic+model+v2.0.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
@@ -34,13 +49,13 @@ Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.
 mfa models download acoustic bulgarian_cv
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_cv-v2.0.0)
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_cv-v2.0.0).
 
 ## Intended use
 
-This model is intended for forced alignment of [Bulgarian Language](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
+This model is intended for forced alignment of [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
 
-This model uses the cv phone set for Bulgarian, and was trained with the [bulgarian_cv dictionary](https://github.com/MontrealCorpusTools/mfa-models/blob/main/dictionary/dictionary/Bulgarian/cv/bulgarian_cv).
+This model uses the [XPF](https://github.com/CohenPr-XPF/XPF) phone set for Bulgarian, and was trained with the pronunciation dictionaries above.
 Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
@@ -49,18 +64,9 @@ As forced alignment is a relatively well-constrained problem (given accurate tra
 However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that,
 you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
 
-Please note as well that MFA does not use state-of-the-art models for forced alignment.
+Please note as well that MFA does not use state-of-the-art ASR models for forced alignment.
 You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
 
-## Training data
-
-This model was trained on the following corpora:
-
-
-* [Common Voice 7.0](https://voice.mozilla.org/en/datasets) Bulgarian:
-  * **Hours:** `5.00`
-  * **Speakers:** `35`
-  * **Utterances:** `3,459`
 
 ## Ethical considerations
 
@@ -72,7 +78,7 @@ You should assume every machine learning model has demographic bias unless prove
 
 ### Surveillance
 
-Speech-to-Text may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
 
 ## Troubleshooting issues
 
@@ -97,3 +103,14 @@ demographics, and recording conditions are. If you encounter issues in alignment
 4. Adapt the model to your data
 
    * MFA has an [adaptation command](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html) to adapt some of the model to your data based on an initial alignment, and then run another alignment with the adapted model.
+
+## Training data
+
+This model was trained on the following corpora:
+
+
+
+* [Common Voice Bulgarian](../../../../corpus/bulgarian/common_voice_bulgarian/7.0/README.md):
+  * **Hours:** `5.00`
+  * **Speakers:** `35`
+  * **Utterances:** `3,459`

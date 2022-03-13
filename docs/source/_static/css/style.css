@@ -1,5 +1,31 @@
-.wy-nav-content {
-    max-width: 1200px !important;
+
+/* use Gentium Plus - Regular in .woff format */
+@font-face {
+  font-family: GentiumPlusW;
+  src: url(../fonts/GentiumPlus-Regular.woff2);
+}
+/* use Gentium Plus - Italic in .woff2 format */
+@font-face {
+  font-family: GentiumPlusW;
+  font-style: italic;
+  src: url(../fonts/GentiumPlus-Italic.woff2);
+}
+/* use Gentium Plus - Bold in .woff2 format */
+@font-face {
+	font-family: GentiumPlusW;
+	font-weight: bold;
+	src: url(../fonts/GentiumPlus-Bold.woff2);
+}
+/* use Gentium Plus - Bold Italic in .woff2 format */
+@font-face {
+	font-family: GentiumPlusW;
+	font-weight: bold;
+	font-style: italic;
+	src: url(../fonts/GentiumPlus-BoldItalic.woff2);
+}
+
+.container, .container-xl, .container-lg {
+    max-width: 2000px !important;
 }
 .wy-table-responsive table td {
     white-space: normal !important;
@@ -12,6 +38,154 @@
   white-space: normal;
 }
 
+div.dataTables_wrapper{
+display: block;
+   overflow: visible;
+}
+
+table.dataTable.consonant-chart, table.dataTable.vowel-chart {
+display: table;
+overflow: visible;
+table-layout: fixed;
+}
+table.dataTable.consonant-chart tbody td, table.dataTable.vowel-chart tbody td {
+    padding: 0.2em;
+}
+table.dataTable.vowel-chart{
+width: auto;
+}
+table.dataTable.consonant-chart{
+width: 100%;
+}
+
+.submanner {
+font-weight: normal;
+float: right
+}
+.manner {
+float: left;
+}
+
+.consonant-chart td, .vowel-chart td {
+vertical-align: middle;
+text-align: center;
+}
+
+table.consonant-chart thead th, table.consonant-chart thead td {
+padding: 0.4em 0.5em;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+
+.ipa-phone {
+  position: relative;
+  display: block;
+}
+.ipa-cell {
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ipa-cell.ipa-sonorant{
+justify-content: center;
+}
+.ipa-rounded, .ipa-unrounded, .ipa-voiceless, .ipa-voiced, .ipa-other{
+min-width: 35%;
+}
+.ipa-divider{
+font-size: 0.4em;
+min-width: 10%;
+line-height:1;
+}
+
+.tooltip {
+}
+
+/* Tooltip text */
+.ipa-phone .ipa-tooltip {
+  visibility: hidden;
+  width: auto;
+  top: 100%;
+  left: 50%;
+  background-color: #001D3D;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  transform: translate(-50%);
+}
+
+.ipa-tooltip-line {
+    display: flex;
+    justify-content: space-between;
+padding-left: 10px;
+padding-right: 10px;
+white-space: nowrap;
+}
+
+.ipa-second-level{
+margin-left:10px;
+}
+
+.ipa-phone-text, .ipa-transcription, .ipa-bracket, ipa-inline {
+  font-family: "GentiumPlusW";
+ }
+
+.ipa-transcription, .ipa-bracket {
+color: #7AB5E6;
+}
+
+.ipa-highlight, ipa-inline {
+color: rgba(var(--pst-color-inline-code),1);
+}
+
+.ipa-tooltip-key {
+font-weight: bold;
+color: #F2BC0C;
+margin-right: 10px;
+}
+
+.ipa-tooltip-value {
+font-weight: bold;
+color: rgba(var(--pst-color-inline-code),1);
+font-family: var(--pst-font-family-monospace);
+}
+
+.lexical-set {
+font-variant: small-caps;
+}
+
+.ipa-phone-checkbox {
+display: none;
+}
+
+.ipa-empty{
+    background-color: #000814;
+}
+
+.ipa-phone-text {
+border: solid 1px #000814;
+background-color: #0E63B3;
+color: #FFD60A;
+font-size: 1.1em;
+margin: 5%;
+display: block;
+}
+
+.ipa-phone-text:hover, .ipa-phone-checkbox:checked + .ipa-phone-text {
+border: solid 1px #000814;
+background-color: #FFC300;
+color: #000814;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.ipa-phone-text:hover + .ipa-tooltip, .ipa-phone-checkbox:checked ~ .ipa-tooltip {
+  visibility: visible;
+}
+
 :root {
   --base-blue: 0, 53, 102;
   --dark-blue: 0, 29, 61;
@@ -21,6 +195,7 @@
   --pst-color-primary: var(--base-blue);
   --pst-color-warning: var(--light-yellow);
   --pst-color-info: var(--light-blue);
+  --pst-color-admonition-default: var(--light-blue);
 
     --pst-color-link: var(--light-blue);
     --pst-color-link-hover: var(--dark-blue);
@@ -40,6 +215,79 @@
     --pst-color-toc-link: var(--base-blue);
     --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
     --pst-color-toc-link-active: var(--pst-color-active-navigation);
+    --pst-icon-admonition-pronounciation-dictionaries: var(--pst-icon-exclamation-triangle);
+}
+
+table.need {
+background-color: #001D3D;
+color: #FFC300;
+display: block;
+}
+
+table.need a {
+color: #7AB5E6;
+}
+
+table.need strong {
+color: #FFC300;
+}
+
+table.need .needs_tags .needs_data {
+color: rgba(var(--pst-color-inline-code),1);
+}
+.needs_side{
+width: 200px;
+translate: -120px;
+}
+
+table.need div[class*="highlight-"] {
+margin: 1em 2.5em;
+max-width: 750px;
+}
+
+
+
+table.need .admonition {
+background-color: #000814;
+color: #FFC300;
+}
+
+table.need .admonition-title::before {
+color: #003566;
+}
+
+div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before{
+content: "\f891"
+}
+
+div.admonition.admonition-g2p-models p.admonition-title::before{
+content: "\f519"
+}
+
+div.admonition.admonition-acoustic-models p.admonition-title::before{
+content: "\f3c9"
+}
+
+div.admonition.admonition-language-models p.admonition-title::before{
+content: "\f1ab"
+}
+
+table.need .admonition-title {
+background-color: #FFC300;
+color: #000814;
+}
+
+table.need p {
+color: #FFFFFF;
+}
+
+table.need a:hover {
+color: #7AB5E6;
+}
+
+table.need.head {
+background-color: #003566;
+color: #FFC300;
 }
 .btn-navigation{
     background-color: #0E63B3;
