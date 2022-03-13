@@ -6,7 +6,7 @@ For most languages, dictionaries were constructed from the [wikipron](https://gi
 
 ## General notes
 
-* **Diacritic ordering:** The ordering of diacritics is {ipa_inline}`(prenasalization) symbol (secondary place) (glottal settings) (length)
+* **Diacritic ordering:** The ordering of diacritics is {ipa_inline}`(prenasalization) symbol (secondary place) (glottal settings) (length)`
   * {ipa_inline}`pʰː`
   * {ipa_inline}`pʷʼ`
   * {ipa_inline}`pʲ̚`
@@ -39,7 +39,7 @@ For most languages, dictionaries were constructed from the [wikipron](https://gi
 
 ### Arabic
 
-The Arabic MFA dictionary was created by Natalia Shmueli.
+The Arabic MFA dictionary was created by [Natalia Shmueli](https://twitter.com/NataliaShmueli).
 
 #### Arabic consonants
 
