@@ -23,7 +23,7 @@ For most languages, dictionaries were constructed from the [wikipron](https://gi
   * {ipa_inline}`[ɣʲ]` {fa}`long-arrow-alt-right` {ipa_inline}`[ʝ]`
 * **Place representation:** In general, if a consonant is listed as dental in descriptions of its typical realization, it is represented with the dental diacritic
   * {ipa_inline}`[t̪ d̪ t̪s̪ n̪]`
-* **Homorganic nasal place assimilation:** If a language has this (and let's be real, which ones don't?[^except maybe Russian?]), then the following transformations are done:
+* **Homorganic nasal place assimilation:** If a language has this (and let's be real, which ones don't?[^except_maybe_Russian]), then the following transformations are done:
   * {ipa_inline}`[m]` {fa}`long-arrow-alt-right` {ipa_inline}`[ɱ]` before labiodental consonants
   * {ipa_inline}`[n]` and {ipa_inline}`[ŋ]` {fa}`long-arrow-alt-right` {ipa_inline}`[ɲ]` before palatal consonants
 
@@ -83,7 +83,7 @@ The primary deviations from standard symbols have been to bring English more in 
 
 #### Nigerian English
 
-The Nigerian English was based on the UK dictionary, with some significant modifications. I have tried to largely follow Ulrike B. Gut's book chapter on Nigerian English phonology[^Gut (2008)], as that is what is predominately cited in other resources like the [OED](https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/pronunciations-for-world-englishes/pronunciation-model-west-african-english/).
+The Nigerian English was based on the UK dictionary, with some significant modifications. I have tried to largely follow Ulrike B. Gut's book chapter on Nigerian English phonology[^Gut_2008], as that is what is predominately cited in other resources like the [OED](https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/pronunciations-for-world-englishes/pronunciation-model-west-african-english/).
 
 #### Nigerian English consonants
 
@@ -154,24 +154,24 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 #### Ukrainian vowels
 
-* {ipa_inline}`[ɦʲ]` {fa}`long-arrow-alt-right` {ipa_inline}`[ʝ]`
 
 ### Vietnamese
 
 Generally I have followed James Kirby's [vPhon](https://github.com/kirbyj/vPhon) for generating transcriptions of Vietnamese words across three dialects.  The points where I have diverged from Kirby's system are:
 
 * Converting Chao numbers into IPA levels and placing them always on the vowel
-  * {ipa_inline}`chải [tɕ aː j ²¹²]` -> {ipa_inline}`[tɕ aː˨˩˨ j]`
+  * {ipa_inline}`chải [tɕ aː j ²¹²]` {fa}`long-arrow-alt-right` {ipa_inline}`[tɕ aː˨˩˨ j]`
 * Removing ligatures in diphones
-  * {ipa_inline}`hóc [h ɔ˦˥ k͡p]` -> {ipa_inline}`[h ɔ˦˥ kp]`
-  * {ipa_inline}`đông [ɗ o˨˨ ŋ͡m]` -> {ipa_inline}`[ɗ o˨˨ ŋm]`
+  * {ipa_inline}`hóc [h ɔ˦˥ k͡p]` {fa}`long-arrow-alt-right` {ipa_inline}`[h ɔ˦˥ kp]`
+  * {ipa_inline}`đông [ɗ o˨˨ ŋ͡m]` {fa}`long-arrow-alt-right` {ipa_inline}`[ɗ o˨˨ ŋm]`
 * Normalizing bilabial onglides:
-  * {ipa_inline}`hoan [h ʷ aː˨˨ n]` -> {ipa_inline}`[h w aː˨˨ n]`
+  * {ipa_inline}`hoan [h ʷ aː˨˨ n]` {fa}`long-arrow-alt-right` {ipa_inline}`[h w aː˨˨ n]`
 * Converting palatalized segments in Hanoi dialect to palatal consonants
-  * {ipa_inline}`đánh [ɗ a˨˦ ʲŋ]` -> {ipa_inline}`[ɗ a˨˦ ɲ]`
-  * {ipa_inline}`thạch [tʰ a˨˩ ʲk]` -> {ipa_inline}`[tʰ a˨˩ c]`
+  * {ipa_inline}`đánh [ɗ a˨˦ ʲŋ]` {fa}`long-arrow-alt-right` {ipa_inline}`[ɗ a˨˦ ɲ]`
+  * {ipa_inline}`thạch [tʰ a˨˩ ʲk]` {fa}`long-arrow-alt-right` {ipa_inline}`[tʰ a˨˩ c]`
 * Changing final consonants to be unreleased
-  * {ipa_inline}`bạc [ɓ aː˨˩ k]` -> {ipa_inline}`[ɓ aː˨˩ k̚]`
+  * {ipa_inline}`bạc [ɓ aː˨˩ k]` {fa}`long-arrow-alt-right` {ipa_inline}`[ɓ aː˨˩ k̚]`
 
-[^Gut (2008)]: [Gut, U. B. (2008). Nigerian English: Phonology. Varieties of English, 4, 35-54.](https://books.google.com/books?hl=en&lr=&id=L1VhZHGupMUC&oi=fnd&pg=PA35&dq=ulrike+gut+nigerian+english&ots=TfokeOEyC-&sig=BJKonoVIpo59B19lWhioiyHc7xE#v=onepage&q=ulrike%20gut%20nigerian%20english&f=false)
-[^except maybe Russian?]: According to [a footnote on the Russian phonology wikipedia](https://en.wikipedia.org/wiki/Russian_phonology#cite_ref-56), the hard {ipa_inline}`[n̪]` does not assimilate in place
+[^Gut_2008]: [Gut, U. B. (2008). Nigerian English: Phonology. Varieties of English, 4, 35-54.](https://books.google.com/books?hl=en&lr=&id=L1VhZHGupMUC&oi=fnd&pg=PA35&dq=ulrike+gut+nigerian+english&ots=TfokeOEyC-&sig=BJKonoVIpo59B19lWhioiyHc7xE#v=onepage&q=ulrike%20gut%20nigerian%20english&f=false)
+
+[^except_maybe_Russian]: According to [a footnote on the Russian phonology wikipedia](https://en.wikipedia.org/wiki/Russian_phonology#cite_ref-56), the hard {ipa_inline}`[n̪]` does not assimilate in place
