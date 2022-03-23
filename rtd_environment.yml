@@ -6,7 +6,7 @@ dependencies:
   - pip:
       - sphinxemoji
       - pydata-sphinx-theme
-      - sphinx-panels
+      - sphinx-design
       - sphinxcontrib-needs
       - sphinxcontrib-plantuml
       - sphinxcontrib-programoutput

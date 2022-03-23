@@ -67,7 +67,7 @@ for model_type, model_class in MODEL_TYPES.items():
                     continue
                 existing_releases= manager.remote_models[model_type]
                 if model_name in existing_releases:
-                    if existing_releases[model_name].version == version:
+                    if existing_releases[model_name].version.replace('v', '') == version:
                         continue
                 release = ModelRelease(model_name,tag, version, '','')
                 if model_type == 'dictionary':
@@ -77,13 +77,20 @@ for model_type, model_class in MODEL_TYPES.items():
                     ext = '.zip'
                     content_type = 'application/zip'
                 model_path = os.path.join(staging_directory, model_name + ext)
-                r = requests.post(manager.base_url, data={"tag_name": tag, 'body': readme,
-                                                          "discussion_category_name": model_type_names[model_type]},
+                print(tag, len(readme))
+                print(tag)
+                r = requests.post(manager.base_url, json={"tag_name": tag, "name": f"{model_name} v{version}",
+                                                          'body': readme,
+                                                          "target_commitish": "main",
+                                                          "draft": False, "prerelease": False,
+                                  "generate_release_notes": False},
                                   headers={'Accept': "application/vnd.github.v3+json",
                                                             'Authorization': f"token {token}"})
                 d = r.json()
+                print(d)
                 with open(model_path, 'rb') as f:
-                    r2 = requests.post(d['upload_url'], data=f, headers={"Content-Type": "application/zip",
+                    data = f.read()
+                    r2 = requests.post(d['upload_url'].replace('{?name,label}',''), data=data, params={'name':os.path.basename(model_path)}, headers={"Content-Type": "application/zip",
                                                                  'Accept': "application/vnd.github.v3+json",
                                                                 'Authorization': f"token {token}"})
                     print(r2.json())
