@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,22 +53,22 @@
       * m
         * Occurances: 7728
         * Examples
-          * remt: [r ɛ m t]
-          * stoom: [s t oː m]
-          * forum: [f oː r ʏ m]
-          * mazen: [m aː z ɛ n]
+          * norm: [n ɔ r m]
+          * man!: [m ɑ n]
+          * motto: [m ɔ t t oː]
+          * kalm: [k ɑ l m]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 27214
+        * Occurances: 27213
         * Examples
-          * ogen!: [oː ɣ ɛ n]
-          * wenen: [ʋ eː n ɛ n]
-          * hangt: [h ɑ n x t]
-          * tand: [t ɑ n t]
+          * norm: [n ɔ r m]
+          * één,: [ɛ ɛ n]
+          * lyon.: [l j ɔ n]
+          * wijn.: [ʋ ɛ j n]
     ```
   - ```{ipa_cell}
     ```
@@ -77,10 +79,10 @@
       * ŋ
         * Occurances: 2218
         * Examples
-          * king”: [k ɪ ŋ]
-          * bang.: [b ɑ ŋ]
+          * enge: [ɛ ŋ eː]
+          * bange: [b ɑ ŋ eː]
           * ging!: [ɣ ɪ ŋ]
-          * eng.: [ɛ ŋ]
+          * bang.: [b ɑ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -90,17 +92,17 @@
       * p
         * Occurances: 7965
         * Examples
-          * bloed: [p l uː t]
-          * pink: [p ɪ n k]
-          * bruin: [p r œ ɥ n]
-          * broer: [p r uː r]
+          * piste: [p ɪ s t eː]
+          * rups.: [r ʏ p s]
+          * april: [ɑ p r ɪ l]
+          * post,: [p ɔ s t]
     * voiced
       * b
-        * Occurances: 5208
+        * Occurances: 5207
         * Examples
-          * beide: [b ɛ j ɪ d eː]
-          * best?: [b ɛ s t]
-          * band: [b ɑ n t]
+          * bene,: [b eː n ɛ]
+          * boden: [b oː d ɛ n]
+          * bevel: [b eː v ɛ l]
           * baan.: [b aː n]
     ```
   - ```{ipa_cell}
@@ -108,20 +110,20 @@
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 25923
+        * Occurances: 25922
         * Examples
-          * hangt: [h ɑ n x t]
-          * remt: [r ɛ m t]
-          * stoom: [s t oː m]
-          * dit,: [d ɪ t]
+          * kuit: [k œ ɥ t]
+          * feta: [f eː t aː]
+          * geldt: [ɣ ɛ l t t]
+          * piste: [p ɪ s t eː]
     * voiced
       * d
         * Occurances: 10541
         * Examples
-          * dief: [d iː f]
-          * dit,: [d ɪ t]
-          * dagen: [d aː ɣ ɛ n]
-          * dank: [d ɑ n k]
+          * oude: [ɑ w ʏ d eː]
+          * boden: [b oː d ɛ n]
+          * geld?: [ɣ ɛ l d]
+          * raden: [r aː d ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -130,20 +132,20 @@
       * c
         * Occurances: 2775
         * Examples
-          * pact.: [p ɑ c t]
-          * crawl: [c r ɑ ʋ l]
-          * cycli: [s j c l iː]
-          * claim: [c l ɑ j m]
+          * corps: [c ɔ r p s]
+          * clubs: [c l ʏ p s]
+          * cd&v: [c d v]
+          * marco: [m ɑ r c oː]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 8693
         * Examples
-          * klaar: [k l aː r]
-          * zwak: [z ʋ ɑ k]
-          * wekt: [ʋ ɛ k t]
-          * dank: [d ɑ n k]
+          * kuit: [k œ ɥ t]
+          * klonk: [k l ɔ n k]
+          * kreeg: [k r eː x]
+          * roken: [r oː k ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -157,28 +159,28 @@
       * s
         * Occurances: 18602
         * Examples
-          * stoom: [s t oː m]
-          * ons!: [ɔ n s]
-          * aids,: [ɑ j t s]
-          * set: [s ɛ t]
+          * rasse: [r ɑ s s eː]
+          * piste: [p ɪ s t eː]
+          * iris.: [iː r ɪ s]
+          * rups.: [r ʏ p s]
     * voiced
       * z
         * Occurances: 2648
         * Examples
-          * zwak: [z ʋ ɑ k]
-          * mazen: [m aː z ɛ n]
-          * hoezo: [h uː ɛ z oː]
-          * zélf: [z ɛ l f]
+          * zat,: [z ɑ t]
+          * zich?: [z ɪ x]
+          * pauze: [p a w ʏ z eː]
+          * zak: [z ɑ k]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 169
         * Examples
-          * bush: [b ʏ ʃ]
-          * shirt: [ʃ ɪ r t]
-          * ijsje: [ɛ j ʃ eː]
           * sushi: [s ʏ ʃ iː]
+          * lesje: [l ɛ ʃ eː]
+          * shock: [ʃ ɔ k]
+          * sjaal: [ʃ aː l]
     ```
   - ```{ipa_cell}
     ```
@@ -194,18 +196,18 @@
       * f
         * Occurances: 3253
         * Examples
-          * dief: [d iː f]
-          * forum: [f oː r ʏ m]
-          * foto.: [f oː t ɔ]
-          * kijf: [k ɛ j f]
+          * feta: [f eː t aː]
+          * flauw: [f l a w]
+          * kaft.: [k ɑ f t]
+          * groef: [x r uː f]
     * voiced
       * v
         * Occurances: 7695
         * Examples
-          * vol,: [v ɔ l]
-          * vinyl: [v ɪ n j l]
-          * vloog: [v l oː x]
-          * gaven: [ɣ aː v ɛ n]
+          * bevel: [b eː v ɛ l]
+          * ver: [v ɛ r]
+          * veel,: [v eː l]
+          * voert: [v uː r t]
     ```
   - ```{ipa_cell}
     ```
@@ -214,45 +216,37 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 7911
-        * Examples
-          * hangt: [h ɑ n x t]
-          * nicht: [n ɪ x t]
-          * vloog: [v l oː x]
-          * gloed: [x l uː t]
-    * voiced
-      * ɣ
-        * Occurances: 7423
-        * Examples
-          * ogen!: [oː ɣ ɛ n]
-          * dagen: [d aː ɣ ɛ n]
-          * genk.: [ɣ ɛ n k]
-          * gaven: [ɣ aː v ɛ n]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 2824
         * Examples
-          * hangt: [h ɑ n x t]
-          * haan: [h aː n]
-          * haar.: [h aː r]
-          * hoezo: [h uː ɛ z oː]
+          * hels: [h ɛ l s]
+          * hik.: [h ɪ k]
+          * had?: [h ɑ d]
+          * huid: [h œ ɥ t]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 1204
+        * Examples
+          * oude: [ɑ w ʏ d eː]
+          * flauw: [f l a w]
+          * pauze: [p a w ʏ z eː]
+          * eeuw.: [eː w]
     ```
   - ```{ipa_cell}
     * other
       * ʋ
         * Occurances: 3679
         * Examples
-          * wenen: [ʋ eː n ɛ n]
-          * weer?: [ʋ eː r]
-          * zwak: [z ʋ ɑ k]
-          * wekt: [ʋ ɛ k t]
+          * wijn.: [ʋ ɛ j n]
+          * wiet: [ʋ iː t]
+          * war.: [ʋ ɑ r]
+          * wiske: [ʋ ɪ s k eː]
     ```
   - ```{ipa_cell}
     ```
@@ -263,17 +257,17 @@
       * j
         * Occurances: 7576
         * Examples
-          * vinyl: [v ɪ n j l]
-          * kijf: [k ɛ j f]
-          * aids,: [ɑ j t s]
-          * eind!: [ɛ j n d]
+          * lyon.: [l j ɔ n]
+          * wijn.: [ʋ ɛ j n]
+          * train: [t r ɑ j n]
+          * ooit: [oː j t]
       * ɥ
         * Occurances: 1513
         * Examples
-          * bruin: [p r œ ɥ n]
-          * ruime: [r œ ɥ ɪ m eː]
-          * duidt: [d œ ɥ t t]
-          * ruil: [r œ ɥ l]
+          * kuit: [k œ ɥ t]
+          * huid: [h œ ɥ t]
+          * duikt: [d œ ɥ k t]
+          * ruis: [r œ ɥ s]
     ```
   - ```{ipa_cell}
     ```
@@ -289,10 +283,10 @@
       * r
         * Occurances: 25183
         * Examples
-          * klaar: [k l aː r]
-          * remt: [r ɛ m t]
-          * weer?: [ʋ eː r]
-          * forum: [f oː r ʏ m]
+          * norm: [n ɔ r m]
+          * rasse: [r ɑ s s eː]
+          * iris.: [iː r ɪ s]
+          * kreeg: [k r eː x]
     ```
   - ```{ipa_cell}
     ```
@@ -312,10 +306,10 @@
       * l
         * Occurances: 12771
         * Examples
-          * klaar: [k l aː r]
-          * vol,: [v ɔ l]
-          * vinyl: [v ɪ n j l]
-          * bloed: [p l uː t]
+          * lyon.: [l j ɔ n]
+          * geldt: [ɣ ɛ l t t]
+          * chili: [x iː l iː]
+          * klonk: [k l ɔ n k]
     ```
   - ```{ipa_cell}
     ```
@@ -329,6 +323,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -351,25 +347,25 @@
       * iː
         * Occurances: 7769
         * Examples
-          * dief: [d iː f]
-          * knie: [k n iː eː]
-          * ziel.: [z iː l]
-          * bier: [b iː r]
+          * chili: [x iː l iː]
+          * iris.: [iː r ɪ s]
+          * wiet: [ʋ iː t]
+          * drie:: [t r iː]
     * rounded
       * y
         * Occurances: 150
         * Examples
-          * ruw.: [r y w]
-          * duwde: [d y w d eː]
           * ruw: [r y w]
           * nauwe: [n a w y w eː]
+          * duwde: [d y w d eː]
+          * ruw.: [r y w]
       * yː
         * Occurances: 1440
         * Examples
-          * muur?: [m yː r]
-          * buurt: [b yː r t]
-          * ruzie: [r yː z iː eː]
-          * uwe.: [yː ʋ ɛ]
+          * buur: [b yː r]
+          * uber: [yː b ɛ r]
+          * humor: [h yː m ɔ r]
+          * duur: [d yː r]
     ```
   - ```{ipa_cell}
     ```
@@ -382,17 +378,17 @@
       * u
         * Occurances: 152
         * Examples
-          * bloei: [p l u j iː]
-          * woei: [ʋ u j iː]
-          * knoei: [k n u j iː]
           * groei: [x r u j iː]
+          * doei!: [d u j]
+          * woei: [ʋ u j iː]
+          * bloei: [p l u j iː]
       * uː
         * Occurances: 2009
         * Examples
-          * bloed: [p l uː t]
-          * gloed: [x l uː t]
-          * hoezo: [h uː ɛ z oː]
-          * broer: [p r uː r]
+          * boek: [b uː k]
+          * koele: [k uː ɛ l eː]
+          * groef: [x r uː f]
+          * voert: [v uː r t]
     ```
 * -
   - ```{ipa_cell}
@@ -402,18 +398,18 @@
       * ɪ
         * Occurances: 11446
         * Examples
-          * dit,: [d ɪ t]
-          * vinyl: [v ɪ n j l]
-          * king”: [k ɪ ŋ]
-          * nicht: [n ɪ x t]
+          * piste: [p ɪ s t eː]
+          * iris.: [iː r ɪ s]
+          * april: [ɑ p r ɪ l]
+          * hik.: [h ɪ k]
     * rounded
       * ʏ
         * Occurances: 3184
         * Examples
-          * forum: [f oː r ʏ m]
-          * nú!: [n ʏ]
-          * lust: [l ʏ s t]
-          * menu?: [m eː n ʏ]
+          * oude: [ɑ w ʏ d eː]
+          * rups.: [r ʏ p s]
+          * durft: [d ʏ r f t]
+          * pauze: [p a w ʏ z eː]
     ```
   - ```{ipa_cell}
     ```
@@ -425,20 +421,20 @@
   - ```{ipa_cell}
     * unrounded
       * eː
-        * Occurances: 17825
+        * Occurances: 17824
         * Examples
-          * wenen: [ʋ eː n ɛ n]
-          * weer?: [ʋ eː r]
-          * een.: [eː n]
-          * nee.: [n eː]
+          * rasse: [r ɑ s s eː]
+          * feta: [f eː t aː]
+          * oude: [ɑ w ʏ d eː]
+          * piste: [p ɪ s t eː]
     * rounded
       * øː
         * Occurances: 553
         * Examples
-          * leun: [l øː n]
-          * euro?: [øː ʏ r ɔ]
-          * geur.: [ɣ øː r]
-          * keus:: [k øː s]
+          * keus.: [k øː s]
+          * euro!: [øː ʏ r ɔ]
+          * leuk.: [l øː k]
+          * keur: [k øː r]
     ```
   - ```{ipa_cell}
     * rounded
@@ -456,10 +452,10 @@
       * oː
         * Occurances: 6564
         * Examples
-          * ogen!: [oː ɣ ɛ n]
-          * stoom: [s t oː m]
-          * forum: [f oː r ʏ m]
-          * foto.: [f oː t ɔ]
+          * boden: [b oː d ɛ n]
+          * roken: [r oː k ɛ n]
+          * boor: [b oː r]
+          * noors: [n oː r s]
     ```
 * -
   - ```{ipa_cell}
@@ -478,18 +474,18 @@
       * ɛ
         * Occurances: 36397
         * Examples
-          * ogen!: [oː ɣ ɛ n]
-          * wenen: [ʋ eː n ɛ n]
-          * remt: [r ɛ m t]
-          * wekt: [ʋ ɛ k t]
+          * één,: [ɛ ɛ n]
+          * geldt: [ɣ ɛ l t t]
+          * wijn.: [ʋ ɛ j n]
+          * bene,: [b eː n ɛ]
     * rounded
       * œ
         * Occurances: 1513
         * Examples
-          * bruin: [p r œ ɥ n]
-          * ruime: [r œ ɥ ɪ m eː]
-          * duidt: [d œ ɥ t t]
-          * ruil: [r œ ɥ l]
+          * kuit: [k œ ɥ t]
+          * huid: [h œ ɥ t]
+          * duikt: [d œ ɥ k t]
+          * ruis: [r œ ɥ s]
     ```
   - ```{ipa_cell}
     * unrounded
@@ -509,12 +505,12 @@
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 7346
+        * Occurances: 7345
         * Examples
-          * foto.: [f oː t ɔ]
-          * vol,: [v ɔ l]
-          * ons!: [ɔ n s]
-          * lost: [l ɔ s t]
+          * norm: [n ɔ r m]
+          * lyon.: [l j ɔ n]
+          * klonk: [k l ɔ n k]
+          * lotte: [l ɔ t t eː]
     ```
 * -
   - ```{ipa_cell}
@@ -537,17 +533,17 @@
       * a
         * Occurances: 311
         * Examples
+          * flauw: [f l a w]
           * pauze: [p a w ʏ z eː]
-          * gauw: [ɣ a w]
-          * auw: [a w]
-          * laura: [l a w ʏ r aː]
+          * auto,: [a w ʏ t ɔ]
+          * audi: [a w ʏ d iː]
       * aː
         * Occurances: 9140
         * Examples
-          * klaar: [k l aː r]
-          * dagen: [d aː ɣ ɛ n]
-          * haan: [h aː n]
-          * haar.: [h aː r]
+          * feta: [f eː t aː]
+          * baan.: [b aː n]
+          * sla: [s l aː]
+          * baba: [b aː b aː]
     ```
   - ```{ipa_cell}
     ```
@@ -556,14 +552,9 @@
       * ɑ
         * Occurances: 9262
         * Examples
-          * hangt: [h ɑ n x t]
-          * tand: [t ɑ n t]
-          * zwak: [z ʋ ɑ k]
-          * dank: [d ɑ n k]
+          * rasse: [r ɑ s s eː]
+          * oude: [ɑ w ʏ d eː]
+          * zat,: [z ɑ t]
+          * train: [t r ɑ j n]
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`ĵ`

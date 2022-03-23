@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -49,24 +51,24 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 7079
+        * Occurances: 7068
         * Examples
-          * mall: [m ɐ l l]
-          * amai: [ɐ m a j]
-          * morar: [m o ɾ ɐ ɾ]
-          * aroma: [ɐ ɾ o m ɐ]
+          * morna: [m o ɾ n ɐ]
+          * amada: [ɐ m ɐ d ɐ]
+          * uma.: [u m ɐ]
+          * alma: [ɐ l m ɐ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 12898
+        * Occurances: 12886
         * Examples
-          * junta: [ʒ u n t ɐ]
-          * bento: [b ɛ n t o]
-          * entre: [ɛ n t ɾ ɛ]
-          * noel?: [n o w ɛ l]
+          * morna: [m o ɾ n ɐ]
+          * rindo: [ʁ i n d o]
+          * funde: [f u n d ɛ]
+          * trans: [t ɾ ɐ n ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -82,38 +84,38 @@
       * p
         * Occurances: 5686
         * Examples
-          * paço: [p ɐ s o]
-          * taipé: [t a j p e]
-          * supõe: [s u p]
-          * lopes: [l o p ɛ ʃ]
+          * play: [p l ɐ j]
+          * pele: [p ɛ l ɛ]
+          * depot: [d ɛ p o t]
+          * penha: [p ɛ n ɐ]
     * voiced
       * b
-        * Occurances: 2956
+        * Occurances: 2949
         * Examples
-          * bate: [b ɐ t ɛ]
-          * bento: [b ɛ n t o]
-          * bebi: [b ɛ b i]
-          * óbito: [ɔ b i t o]
+          * libas: [l i b ɐ ʃ]
+          * bryan: [b ɾ j ɐ̃]
+          * tabus: [t ɐ b u ʃ]
+          * bomba: [b o m b ɐ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 11729
+        * Occurances: 11720
         * Examples
-          * vista: [v i ʃ t ɐ]
-          * rute: [ʁ u t ɛ]
-          * até: [ɐ t e]
-          * bate: [b ɐ t ɛ]
+          * alta.: [ɐ l t ɐ]
+          * trans: [t ɾ ɐ n ʃ]
+          * tião: [t i ɐ̃ w̃]
+          * junto: [ʒ u n t o]
     * voiced
       * d
-        * Occurances: 9460
+        * Occurances: 9448
         * Examples
-          * sede: [s ɛ d ɛ]
-          * digo:: [d i ɡ o]
-          * dor: [d o ɾ]
-          * padre: [p ɐ d ʁ ɛ]
+          * rádio: [ʁ a d i o]
+          * rindo: [ʁ i n d o]
+          * funde: [f u n d ɛ]
+          * amada: [ɐ m ɐ d ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -122,20 +124,20 @@
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 8158
+        * Occurances: 8148
         * Examples
-          * rico: [ʁ i k o]
-          * kevin: [k ɛ v ĩ]
-          * fica: [f i k ɐ]
-          * keras: [k ɛ ɾ ɐ ʃ]
+          * rica: [ʁ i k ɐ]
+          * xuxa!: [ʃ u k s ɐ]
+          * clico: [k l i k o]
+          * kart.: [k ɐ ɾ t]
     * voiced
       * ɡ
-        * Occurances: 2397
+        * Occurances: 2396
         * Examples
-          * digo:: [d i ɡ o]
-          * gole: [ɡ o l ɛ]
-          * logo!: [l o ɡ o]
-          * gado: [ɡ ɐ d o]
+          * gás: [ɡ a ʃ]
+          * pegam: [p ɛ ɡ ɐ̃]
+          * grita: [ɡ ɾ i t ɐ]
+          * largo: [l ɐ ɾ ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -147,38 +149,38 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 9720
+        * Occurances: 9711
         * Examples
-          * sede: [s ɛ d ɛ]
-          * paço: [p ɐ s o]
-          * supõe: [s u p]
-          * isso.: [i ʃ s o]
+          * reis?: [ʁ ɛ j s]
+          * xuxa!: [ʃ u k s ɐ]
+          * possa: [p o ʃ s ɐ]
+          * sei»: [s ɛ j]
     * voiced
       * z
-        * Occurances: 4101
+        * Occurances: 4100
         * Examples
-          * usos: [u z o ʃ]
-          * laísa: [l a j z ɐ]
-          * pesos: [p ɛ z o ʃ]
-          * house: [o w u z ɛ]
+          * cruza: [k ɾ u z ɐ]
+          * usei: [u z ɛ j]
+          * jose.: [ʒ o z ɛ]
+          * pizza: [p i ʒ z ɐ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 7961
+        * Occurances: 7954
         * Examples
-          * vista: [v i ʃ t ɐ]
-          * usos: [u z o ʃ]
-          * vasto: [v ɐ ʃ t o]
-          * teste: [t ɛ ʃ t ɛ]
+          * euros: [e w ɾ o ʃ]
+          * libas: [l i b ɐ ʃ]
+          * gás: [ɡ a ʃ]
+          * trans: [t ɾ ɐ n ʃ]
     * voiced
       * ʒ
-        * Occurances: 1891
+        * Occurances: 1887
         * Examples
-          * junta: [ʒ u n t ɐ]
-          * jataí: [ʒ ɐ t a j]
-          * jaine: [ʒ a j n ɛ]
+          * junto: [ʒ u n t o]
+          * corja: [k o ɾ ʒ ɐ]
           * diaz: [d i ɐ ʒ]
+          * traz: [t ɾ ɐ ʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -194,18 +196,18 @@
       * f
         * Occurances: 2706
         * Examples
-          * fala.: [f ɐ l ɐ]
-          * fica: [f i k ɐ]
-          * wi-fi: [w i f i]
-          * falei: [f ɐ l ɛ j]
+          * funde: [f u n d ɛ]
+          * foles: [f o l ɛ ʃ]
+          * for?: [f o ɾ]
+          * folha: [f o l ɐ]
     * voiced
       * v
-        * Occurances: 3774
+        * Occurances: 3768
         * Examples
-          * vista: [v i ʃ t ɐ]
-          * kevin: [k ɛ v ĩ]
-          * vasto: [v ɐ ʃ t o]
-          * velha: [v ɛ l ɐ]
+          * vaca?: [v ɐ k ɐ]
+          * valdo: [v ɐ l d o]
+          * veio: [v ɛ j o]
+          * verde: [v ɛ ɾ d ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -216,17 +218,32 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * other
+    * voiced
       * ʁ
-        * Occurances: 3605
+        * Occurances: 3601
         * Examples
-          * rico: [ʁ i k o]
-          * rute: [ʁ u t ɛ]
-          * torre: [t o ʁ ɛ]
-          * padre: [p ɐ d ʁ ɛ]
+          * rádio: [ʁ a d i o]
+          * rindo: [ʁ i n d o]
+          * reis?: [ʁ ɛ j s]
+          * rica: [ʁ i k ɐ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 2254
+        * Examples
+          * euros: [e w ɾ o ʃ]
+          * outro: [o w u t ʁ o]
+          * mudou: [m u d o w u]
+          * abreu: [ɐ b ʁ e w]
+      * w̃
+        * Occurances: 1163
+        * Examples
+          * tião: [t i ɐ̃ w̃]
+          * ação: [ɐ s ɐ̃ w̃]
+          * não.: [n ɐ̃ w̃]
+          * mamão: [m ɐ m ɐ̃ w̃]
     ```
   - ```{ipa_cell}
     ```
@@ -239,17 +256,17 @@
       * j
         * Occurances: 2634
         * Examples
-          * jataí: [ʒ ɐ t a j]
-          * taipé: [t a j p e]
-          * amai: [ɐ m a j]
-          * jaine: [ʒ a j n ɛ]
+          * play: [p l ɐ j]
+          * reis?: [ʁ ɛ j s]
+          * bryan: [b ɾ j ɐ̃]
+          * sei»: [s ɛ j]
       * j̃
         * Occurances: 46
         * Examples
-          * dói.: [d õ j̃]
-          * ruim: [ʁ u j̃]
-          * mãe: [m ɐ̃ j̃]
-          * pães: [p ɐ̃ j̃ ʃ]
+          * mamãe: [m ɐ m ɐ̃ j̃]
+          * rói: [ʁ õ j̃]
+          * sóis.: [s õ j̃ s]
+          * cães: [k ɐ̃ j̃ ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -263,12 +280,12 @@
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 13579
+        * Occurances: 13572
         * Examples
-          * arte: [ɐ ɾ t ɛ]
-          * entre: [ɛ n t ɾ ɛ]
-          * dor: [d o ɾ]
-          * keras: [k ɛ ɾ ɐ ʃ]
+          * euros: [e w ɾ o ʃ]
+          * morna: [m o ɾ n ɐ]
+          * trans: [t ɾ ɐ n ʃ]
+          * bryan: [b ɾ j ɐ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -288,10 +305,10 @@
       * l
         * Occurances: 8352
         * Examples
-          * mall: [m ɐ l l]
-          * fala.: [f ɐ l ɐ]
-          * lopes: [l o p ɛ ʃ]
-          * noel?: [n o w ɛ l]
+          * libas: [l i b ɐ ʃ]
+          * alta.: [ɐ l t ɐ]
+          * play: [p l ɐ j]
+          * pele: [p ɛ l ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -304,7 +321,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -321,12 +342,12 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 16363
+        * Occurances: 16342
         * Examples
-          * vista: [v i ʃ t ɐ]
-          * rico: [ʁ i k o]
-          * bebi: [b ɛ b i]
-          * digo:: [d i ɡ o]
+          * libas: [l i b ɐ ʃ]
+          * rádio: [ʁ a d i o]
+          * rindo: [ʁ i n d o]
+          * rica: [ʁ i k ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -337,12 +358,12 @@
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 5072
+        * Occurances: 5071
         * Examples
-          * usos: [u z o ʃ]
-          * rute: [ʁ u t ɛ]
-          * junta: [ʒ u n t ɐ]
-          * supõe: [s u p]
+          * funde: [f u n d ɛ]
+          * uma.: [u m ɐ]
+          * junto: [ʒ u n t o]
+          * xuxa!: [ʃ u k s ɐ]
     ```
 * -
   - ```{ipa_cell}
@@ -359,12 +380,12 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 1107
+        * Occurances: 1098
         * Examples
-          * até: [ɐ t e]
-          * taipé: [t a j p e]
-          * sério: [s e ɾ i o]
-          * érica: [e ɾ i k ɐ]
+          * euros: [e w ɾ o ʃ]
+          * chér: [k e ɾ]
+          * abreu: [ɐ b ʁ e w]
+          * josé: [ʒ o z e]
     ```
   - ```{ipa_cell}
     ```
@@ -375,12 +396,12 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 19140
+        * Occurances: 19128
         * Examples
-          * usos: [u z o ʃ]
-          * rico: [ʁ i k o]
-          * bento: [b ɛ n t o]
-          * oh?: [o]
+          * euros: [e w ɾ o ʃ]
+          * morna: [m o ɾ n ɐ]
+          * rádio: [ʁ a d i o]
+          * rindo: [ʁ i n d o]
     ```
 * -
   - ```{ipa_cell}
@@ -397,12 +418,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 21926
+        * Occurances: 21918
         * Examples
-          * rute: [ʁ u t ɛ]
-          * bate: [b ɐ t ɛ]
-          * arte: [ɐ ɾ t ɛ]
-          * bento: [b ɛ n t o]
+          * funde: [f u n d ɛ]
+          * reis?: [ʁ ɛ j s]
+          * pele: [p ɛ l ɛ]
+          * depot: [d ɛ p o t]
     ```
   - ```{ipa_cell}
     ```
@@ -415,10 +436,10 @@
       * ɔ
         * Occurances: 481
         * Examples
-          * dólar: [d ɔ l ɐ ɾ]
-          * óbito: [ɔ b i t o]
+          * órgão: [ɔ ɾ ɡ ɐ̃ w̃]
           * ótima: [ɔ t i m ɐ]
-          * após: [ɐ p ɔ ʃ]
+          * vovó.: [v o v ɔ]
+          * sótão: [s ɔ t ɐ̃ w̃]
     ```
 * -
   - ```{ipa_cell}
@@ -428,12 +449,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 27333
+        * Occurances: 27309
         * Examples
-          * vista: [v i ʃ t ɐ]
-          * até: [ɐ t e]
-          * bate: [b ɐ t ɛ]
-          * mall: [m ɐ l l]
+          * morna: [m o ɾ n ɐ]
+          * libas: [l i b ɐ ʃ]
+          * alta.: [ɐ l t ɐ]
+          * play: [p l ɐ j]
     ```
   - ```{ipa_cell}
     ```
@@ -447,12 +468,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 2437
+        * Occurances: 2419
         * Examples
-          * jataí: [ʒ ɐ t a j]
-          * taipé: [t a j p e]
-          * amai: [ɐ m a j]
-          * jaine: [ʒ a j n ɛ]
+          * rádio: [ʁ a d i o]
+          * gás: [ɡ a ʃ]
+          * cáqui: [k a kʷ i]
+          * saíam: [s a j ɐ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -461,7 +482,7 @@
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -480,10 +501,10 @@
       * ĩ
         * Occurances: 77
         * Examples
-          * kevin: [k ɛ v ĩ]
-          * vim: [v ĩ]
-          * capim: [k ɐ p ĩ]
-          * "din: [d ĩ]
+          * latin: [l ɐ t ĩ]
+          * pin: [p ĩ]
+          * fim: [f ĩ]
+          * rolim: [ʁ o l ĩ]
     ```
   - ```{ipa_cell}
     ```
@@ -497,9 +518,9 @@
         * Occurances: 16
         * Examples
           * álbum: [a l b ũ]
-          * rum: [ʁ ũ]
-          * "um: [ũ]
           * comum: [k o m ũ]
+          * oxum: [o k s ũ]
+          * "um: [ũ]
     ```
 * -
   - ```{ipa_cell}
@@ -518,10 +539,10 @@
       * ẽ
         * Occurances: 24
         * Examples
-          * têm: [t ẽ]
-          * refém: [ʁ ɛ f ẽ]
+          * detém: [d ɛ t ẽ]
           * vêm: [v ẽ]
-          * belém: [b ɛ l ẽ]
+          * amém: [ɐ m ẽ]
+          * têm: [t ẽ]
     ```
   - ```{ipa_cell}
     ```
@@ -534,10 +555,10 @@
       * õ
         * Occurances: 145
         * Examples
-          * ramom: [ʁ ɐ m õ]
           * neon: [n ɛ õ]
-          * wacom: [w ɐ k õ]
-          * dói.: [d õ j̃]
+          * timon: [t i m õ]
+          * jhon: [ʒ õ]
+          * orion: [o ɾ i õ]
     ```
 * -
   - ```{ipa_cell}
@@ -554,12 +575,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ̃
-        * Occurances: 295
+        * Occurances: 294
         * Examples
-          * vem: [v ɛ̃]
-          * ordem: [o ɾ d ɛ̃]
-          * bem: [b ɛ̃]
-          * temem: [t ɛ m ɛ̃]
+          * arlen: [ɐ ɾ l ɛ̃]
+          * sabem: [s ɐ b ɛ̃]
+          * sobem: [s o b ɛ̃]
+          * chen: [k ɛ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -579,10 +600,10 @@
       * ɐ̃
         * Occurances: 1849
         * Examples
-          * kawan: [k ɐ w ɐ̃]
-          * megan: [m ɛ ɡ ɐ̃]
-          * são: [s ɐ̃ w̃]
-          * eram: [ɛ ɾ ɐ̃]
+          * tião: [t i ɐ̃ w̃]
+          * bryan: [b ɾ j ɐ̃]
+          * pegam: [p ɛ ɡ ɐ̃]
+          * saíam: [s a j ɐ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -600,9 +621,3 @@
   - ```{ipa_cell}
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`ñ`
-* {ipa_inline}`ẃ`

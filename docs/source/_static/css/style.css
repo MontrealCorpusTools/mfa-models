@@ -93,7 +93,6 @@ justify-content: center;
 min-width: 35%;
 }
 .ipa-divider{
-font-size: 0.4em;
 min-width: 10%;
 line-height:1;
 }
@@ -186,12 +185,24 @@ color: #000814;
   visibility: visible;
 }
 
+.sd-btn-primary{
+font-weight: bold;
+}
+
+.sd-btn-primary:hover{
+color: #003566 !important;
+}
+
 :root {
   --base-blue: 0, 53, 102;
   --dark-blue: 0, 29, 61;
   --light-blue: 14, 99, 179;
   --base-yellow: 255, 195, 0;
   --light-yellow: 255, 214, 10;
+  --sd-color-primary: #003566;
+  --sd-color-dark: #003566;
+  --sd-color-primary-text: #FFC300;
+  --sd-color-primary-highlight: #FFC300;
   --pst-color-primary: var(--base-blue);
   --pst-color-warning: var(--light-yellow);
   --pst-color-info: var(--light-blue);
@@ -201,7 +212,7 @@ color: #000814;
     --pst-color-link-hover: var(--dark-blue);
 
     --pst-color-active-navigation: var(--dark-blue);
-    --pst-color-hover-navigation: var(--base-yellow);
+    --pst-color-hover-navigation: var(--light-blue);
 
     --pst-color-navbar-link: var(--base-blue);
     --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
@@ -215,16 +226,17 @@ color: #000814;
     --pst-color-toc-link: var(--base-blue);
     --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
     --pst-color-toc-link-active: var(--pst-color-active-navigation);
-    --pst-icon-admonition-pronounciation-dictionaries: var(--pst-icon-exclamation-triangle);
 }
 
 table.need {
 background-color: #001D3D;
 color: #FFC300;
-display: block;
+width: 100%;
+table-layout: fixed;
 }
 
-table.need a {
+table.need a,
+div.admonition.admonition-pronunciation-dictionary a {
 color: #7AB5E6;
 }
 
@@ -235,28 +247,41 @@ color: #FFC300;
 table.need .needs_tags .needs_data {
 color: rgba(var(--pst-color-inline-code),1);
 }
-.needs_side{
+.needs_side img{
 width: 200px;
-translate: -120px;
+position: absolute;
+translate: -100%;
 }
 
 table.need div[class*="highlight-"] {
 margin: 1em 2.5em;
-max-width: 750px;
 }
 
+.ipa-dot, .ipa-icon{
+color:#003566;
+}
 
+.ipa-dot {
+    line-height: inherit!important;
+    vertical-align: middle;
+    font-size:0.5em;
+    }
 
-table.need .admonition {
+table.need .admonition, div.admonition.admonition-pronunciation-dictionary {
 background-color: #000814;
 color: #FFC300;
 }
 
-table.need .admonition-title::before {
+table.need .admonition-title::before,
+div.admonition.admonition-pronunciation-dictionary .admonition-title::before {
 color: #003566;
+width: 1em;
+height: 1em;
+left: 0.5em;
 }
 
-div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before{
+div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before,
+div.admonition.admonition-pronunciation-dictionary .admonition-title::before{
 content: "\f891"
 }
 
@@ -272,28 +297,35 @@ div.admonition.admonition-language-models p.admonition-title::before{
 content: "\f1ab"
 }
 
-table.need .admonition-title {
+table.need .admonition-title,
+div.admonition.admonition-pronunciation-dictionary .admonition-title {
 background-color: #FFC300;
 color: #000814;
 }
 
-table.need p {
+table.need p,
+div.admonition.admonition-pronunciation-dictionary p {
 color: #FFFFFF;
 }
 
-table.need a:hover {
+table.need a:hover,
+div.admonition.admonition-pronunciation-dictionary a:hover {
 color: #7AB5E6;
+}
+
+table.need div.admonition li a {
+font-size: 1.2em;
 }
 
 table.need.head {
 background-color: #003566;
 color: #FFC300;
 }
-.btn-navigation{
+.sd-btn-navigation{
     background-color: #0E63B3;
     border-color: #0E63B3;
 }
-.btn-navigation:hover {
+.sd-btn-navigation:hover {
     background-color: #FFC300;
     border-color: #FFC300;
     color: #000814;
@@ -302,8 +334,9 @@ color: #FFC300;
     color: #003566;
     padding: 20px;
 }
-.i-navigation:hover {
-    color: #FFC300;
+
+.navbar-light .navbar-nav li a.nav-link:{
+font-size: 1.15em;
 }
 
 .rst-table-cell{

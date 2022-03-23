@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Vietnamese_v7_0`:
-  * **Hours:** `3.00`
-  * **Speakers:** `76`
-  * **Utterances:** `2,927`
+   * {ref}`Common_Voice_Vietnamese_v7_0`:
+     * **Hours:** `3.00`
+     * **Speakers:** `76`
+     * **Utterances:** `2,927`
    ```
 
 

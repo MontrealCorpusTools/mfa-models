@@ -37,13 +37,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 extensions = [
     "sphinxcontrib.needs",
-    "sphinx_panels",
+    "sphinx_design",
     "sphinx.ext.viewcode",
     "sphinxemoji.sphinxemoji",
     'myst_parser',
     'sphinx.ext.autosectionlabel',
     'ipa_charts'
 ]
+myst_enable_extensions = ["colon_fence"]
 panels_add_bootstrap_css = False
 autosectionlabel_prefix_document = True
 needs_include_needs = True
@@ -159,6 +160,7 @@ html_context = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = [
+"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css",
     "css/style.css",
 ]
 html_js_files = [

@@ -1,5 +1,5 @@
 
-# urdu.cv
+# Urdu CV dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/urdu_cv.html)
 
@@ -14,9 +14,10 @@ Jump to section:
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Urdu](https://en.wikipedia.org/wiki/Urdu)
-- **Number of words:** `1,618`
+- **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
-- **Phones:** {ipa_inline}`.`, {ipa_inline}`b`, {ipa_inline}`bʱ`, {ipa_inline}`d̪`, {ipa_inline}`d̪ʱ`, {ipa_inline}`d̪ᵊ`, {ipa_inline}`d͡z`, {ipa_inline}`d͡ʒ`, {ipa_inline}`d͡ʒʱ`, {ipa_inline}`e`, {ipa_inline}`eʱ`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`lː`, {ipa_inline}`l̪`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`nː`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`pː`, {ipa_inline}`q`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t̪`, {ipa_inline}`t̪ʰ`, {ipa_inline}`t̪ː`, {ipa_inline}`t͡ʃ`, {ipa_inline}`t͡ʃʰ`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`æ`, {ipa_inline}`õː`, {ipa_inline}`ĩː`, {ipa_inline}`ŋ`, {ipa_inline}`ũː`, {ipa_inline}`ɑː`, {ipa_inline}`ɑ̃ː`, {ipa_inline}`ɔː`, {ipa_inline}`ɖ`, {ipa_inline}`ɖʱ`, {ipa_inline}`ə`, {ipa_inline}`ə̃`, {ipa_inline}`ə̯`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɛ̃ː`, {ipa_inline}`ɡ`, {ipa_inline}`ɡʱ`, {ipa_inline}`ɣ`, {ipa_inline}`ɦ`, {ipa_inline}`ɪ`, {ipa_inline}`ɳ`, {ipa_inline}`ɽ`, {ipa_inline}`ɽʱ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʈ`, {ipa_inline}`ʈʰ`, {ipa_inline}`ʊ`, {ipa_inline}`ʊ̃`, {ipa_inline}`ʋ`, {ipa_inline}`ʒ`, {ipa_inline}`ʔ`, {ipa_inline}`ʕ`, {ipa_inline}`ˈɾ`, {ipa_inline}`ẽː`
+- **Number of words:** `1,597`
+- **Phones:** {ipa_inline}`b`, {ipa_inline}`bʱ`, {ipa_inline}`d̪`, {ipa_inline}`d̪ʱ`, {ipa_inline}`d̪ᵊ`, {ipa_inline}`d͡z`, {ipa_inline}`d͡ʒ`, {ipa_inline}`d͡ʒʱ`, {ipa_inline}`e`, {ipa_inline}`eʱ`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`lː`, {ipa_inline}`l̪`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`nː`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`pː`, {ipa_inline}`q`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t̪`, {ipa_inline}`t̪ʰ`, {ipa_inline}`t̪ː`, {ipa_inline}`t͡ʃ`, {ipa_inline}`t͡ʃʰ`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`æ`, {ipa_inline}`õː`, {ipa_inline}`ĩː`, {ipa_inline}`ŋ`, {ipa_inline}`ũː`, {ipa_inline}`ɑː`, {ipa_inline}`ɑ̃ː`, {ipa_inline}`ɔː`, {ipa_inline}`ɖ`, {ipa_inline}`ɖʱ`, {ipa_inline}`ə`, {ipa_inline}`ə̃`, {ipa_inline}`ə̯`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɛ̃ː`, {ipa_inline}`ɡ`, {ipa_inline}`ɡʱ`, {ipa_inline}`ɣ`, {ipa_inline}`ɦ`, {ipa_inline}`ɪ`, {ipa_inline}`ɳ`, {ipa_inline}`ɽ`, {ipa_inline}`ɽʱ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʈ`, {ipa_inline}`ʈʰ`, {ipa_inline}`ʊ`, {ipa_inline}`ʊ̃`, {ipa_inline}`ʋ`, {ipa_inline}`ʒ`, {ipa_inline}`ʔ`, {ipa_inline}`ʕ`, {ipa_inline}`ˈɾ`, {ipa_inline}`ẽː`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
@@ -54,9 +55,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

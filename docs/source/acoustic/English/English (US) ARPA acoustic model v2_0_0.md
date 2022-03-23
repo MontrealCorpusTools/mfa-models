@@ -4,7 +4,7 @@
 
 ``````{acoustic} English (US) ARPA acoustic model v2.0.0
 :id: "English (US) ARPA acoustic model v2_0_0"
-:layout: not_mfa
+:layout: mfa
 :template: acoustic_template
 :tags: English;ARPA
 :language: "English"
@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`LibriSpeech_English`:
-  * **Hours:** `982.10`
-  * **Speakers:** `2,484`
-  * **Utterances:** `292,367`
+   * {ref}`LibriSpeech_English`:
+     * **Hours:** `982.10`
+     * **Speakers:** `2,484`
+     * **Utterances:** `292,367`
    ```
 
 

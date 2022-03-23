@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -49,14 +51,22 @@
       * m
         * Occurances: 1537
         * Examples
-          * καμιά: [k ɐ m i ɐ]
-          * μαύρα: [m ɐ v ɾ ɐ]
-          * μύτη: [m i t̪ i]
-          * μορφή: [m o ɾ f i]
+          * κόμμα: [k o m ɐ]
+          * μάτι: [m ɐ t̪ i]
+          * 'μεις: [m i s]
+          * σχήμα: [s x i m ɐ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * n̪
+        * Occurances: 2275
+        * Examples
+          * κάνα: [k ɐ n̪ ɐ]
+          * φάνε: [f ɐ n̪ ɛ]
+          * νέου: [n̪ ɛ u]
+          * νέοι: [n̪ ɛ i]
     ```
   - ```{ipa_cell}
     ```
@@ -68,18 +78,18 @@
       * p
         * Occurances: 1661
         * Examples
-          * κόψε: [k o p s ɛ]
-          * θρέψω: [θ ɾ ɛ p s o]
-          * aπό: [ɐ p o]
-          * ποιον: [p i o n̪]
+          * πόθο: [p o θ o]
+          * καρπό: [k ɐ ɾ p o]
+          * επαφή: [ɛ p ɐ f i]
+          * είπε: [i p ɛ]
     * voiced
       * b
         * Occurances: 125
         * Examples
-          * έμπα: [ɛ b ɐ]
-          * μπορώ: [b o ɾ o]
-          * κάμπο: [k ɐ b o]
+          * μπα: [b ɐ]
           * κόμπο: [k o b o]
+          * μπήκε: [b i k ɛ]
+          * κάμπο: [k ɐ b o]
     ```
   - ```{ipa_cell}
     ```
@@ -88,18 +98,18 @@
       * t̪
         * Occurances: 2139
         * Examples
-          * μύτη: [m i t̪ i]
-          * αυτί: [ɐ f t̪ i]
-          * ούτε: [u t̪ ɛ]
-          * τού: [t̪ u]
+          * μάτι: [m ɐ t̪ i]
+          * αυτιά: [ɐ f t̪ i ɐ]
+          * ρωτάς: [ɾ o t̪ ɐ s]
+          * κάρτα: [k ɐ ɾ t̪ ɐ]
     * voiced
       * d̪
         * Occurances: 383
         * Examples
-          * αντί: [ɐ d̪ i]
-          * άντε: [ɐ d̪ ɛ]
-          * όντως: [o d̪ o s]
           * κοντά: [k o d̪ ɐ]
+          * ντυθώ: [d̪ i θ o]
+          * πέντε: [p ɛ d̪ ɛ]
+          * άντε: [ɐ d̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -108,10 +118,10 @@
       * k
         * Occurances: 2255
         * Examples
-          * κόψε: [k o p s ɛ]
-          * καμιά: [k ɐ m i ɐ]
-          * κάνε: [k ɐ n̪ ɛ]
-          * κύκλο: [k i k l o]
+          * κόμμα: [k o m ɐ]
+          * βγήκε: [v ɣ i k ɛ]
+          * σκάλα: [s k ɐ l ɐ]
+          * καρπό: [k ɐ ɾ p o]
     * voiced
       * ɡ
         * Occurances: 78
@@ -131,18 +141,18 @@
       * s
         * Occurances: 4263
         * Examples
-          * κόψε: [k o p s ɛ]
-          * φας: [f ɐ s]
-          * θρέψω: [θ ɾ ɛ p s o]
-          * βάση: [v ɐ s i]
+          * γκισέ: [ɡ i s ɛ]
+          * σκάλα: [s k ɐ l ɐ]
+          * 'σαι: [s ɛ]
+          * ρωτάς: [ɾ o t̪ ɐ s]
     * voiced
       * z
         * Occurances: 363
         * Examples
-          * ζώνη: [z o n̪ i]
-          * ζούσε: [z u s ɛ]
-          * ζωής: [z o i s]
-          * ρύζι: [ɾ i z i]
+          * ζώο: [z o]
+          * ζέβρα: [z ɛ v ɾ ɐ]
+          * ρίζες: [ɾ i z ɛ s]
+          * σούζα: [s u z ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -154,56 +164,40 @@
       * f
         * Occurances: 747
         * Examples
-          * έφυγε: [ɛ f i ɣ ɛ]
-          * φας: [f ɐ s]
-          * αυτί: [ɐ f t̪ i]
-          * μορφή: [m o ɾ f i]
+          * αυτιά: [ɐ f t̪ i ɐ]
+          * επαφή: [ɛ p ɐ f i]
+          * φάνε: [f ɐ n̪ ɛ]
+          * τάφο: [t̪ ɐ f o]
     * voiced
       * v
         * Occurances: 619
         * Examples
-          * βρουν: [v ɾ u n̪]
-          * μαύρα: [m ɐ v ɾ ɐ]
-          * βάση: [v ɐ s i]
-          * βάλε: [v ɐ l ɛ]
+          * βγήκε: [v ɣ i k ɛ]
+          * ζέβρα: [z ɛ v ɾ ɐ]
+          * βάλω: [v ɐ l o]
+          * τραβώ: [t̪ ɾ ɐ v o]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 585
         * Examples
-          * θέλει: [θ ɛ l i]
-          * θρέψω: [θ ɾ ɛ p s o]
-          * γρόθο: [ɣ ɾ o θ o]
-          * έθνος: [ɛ θ n̪ o s]
+          * έλθω: [ɛ l θ o]
+          * πόθο: [p o θ o]
+          * χαθεί: [x ɐ θ i]
+          * ήλθα: [i l θ ɐ]
     * voiced
       * ð
         * Occurances: 705
         * Examples
-          * ίδιοι: [i ð i]
-          * δείξε: [ð i k s ɛ]
-          * δρόμο: [ð ɾ o m o]
-          * δικός: [ð i k o s]
+          * έδεσε: [ɛ ð ɛ s ɛ]
+          * είδε: [i ð ɛ]
+          * δύο: [ð i o]
+          * ίδιος: [i ð i o s]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 666
-        * Examples
-          * χώρες: [x o ɾ ɛ s]
-          * έχουν: [ɛ x u n̪]
-          * αρχή: [ɐ ɾ x i]
-          * τέχνη: [t̪ ɛ x n̪ i]
-    * voiced
-      * ɣ
-        * Occurances: 792
-        * Examples
-          * έφυγε: [ɛ f i ɣ ɛ]
-          * αργά: [ɐ ɾ ɣ ɐ]
-          * γιο: [ɣ i o]
-          * γρόθο: [ɣ ɾ o θ o]
     ```
 * - {manner}`Tap`
   - ```{ipa_cell}
@@ -217,10 +211,10 @@
       * ɾ
         * Occurances: 2458
         * Examples
-          * βρουν: [v ɾ u n̪]
-          * θρέψω: [θ ɾ ɛ p s o]
-          * μαύρα: [m ɐ v ɾ ɐ]
-          * αργά: [ɐ ɾ ɣ ɐ]
+          * καρπό: [k ɐ ɾ p o]
+          * ρωτάς: [ɾ o t̪ ɐ s]
+          * ζέβρα: [z ɛ v ɾ ɐ]
+          * χρυσή: [x ɾ i s i]
     ```
   - ```{ipa_cell}
     ```
@@ -236,10 +230,10 @@
       * l
         * Occurances: 1428
         * Examples
-          * θέλει: [θ ɛ l i]
-          * πουλί: [p u l i]
-          * πολύ: [p o l i]
-          * κύκλο: [k i k l o]
+          * έλθω: [ɛ l θ o]
+          * σκάλα: [s k ɐ l ɐ]
+          * ήλθα: [i l θ ɐ]
+          * βάλω: [v ɐ l o]
     ```
   - ```{ipa_cell}
     ```
@@ -247,6 +241,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -265,10 +261,10 @@
       * i
         * Occurances: 5798
         * Examples
-          * αντί: [ɐ d̪ i]
-          * ζώνη: [z o n̪ i]
-          * θέλει: [θ ɛ l i]
-          * έφυγε: [ɛ f i ɣ ɛ]
+          * βγήκε: [v ɣ i k ɛ]
+          * γκισέ: [ɡ i s ɛ]
+          * μάτι: [m ɐ t̪ i]
+          * αυτιά: [ɐ f t̪ i ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -281,10 +277,10 @@
       * u
         * Occurances: 1069
         * Examples
-          * βρουν: [v ɾ u n̪]
-          * πουλί: [p u l i]
-          * ούτε: [u t̪ ɛ]
-          * τού: [t̪ u]
+          * νέου: [n̪ ɛ u]
+          * λόγου: [l o ɣ u]
+          * δήμου: [ð i m u]
+          * πού: [p u]
     ```
 * -
   - ```{ipa_cell}
@@ -311,10 +307,10 @@
       * o
         * Occurances: 3575
         * Examples
-          * κόψε: [k o p s ɛ]
-          * ζώνη: [z o n̪ i]
-          * θρέψω: [θ ɾ ɛ p s o]
-          * aπό: [ɐ p o]
+          * ζώο: [z o]
+          * κόμμα: [k o m ɐ]
+          * έλθω: [ɛ l θ o]
+          * πόθο: [p o θ o]
     ```
 * -
   - ```{ipa_cell}
@@ -333,10 +329,10 @@
       * ɛ
         * Occurances: 4068
         * Examples
-          * κόψε: [k o p s ɛ]
-          * θέλει: [θ ɛ l i]
-          * έφυγε: [ɛ f i ɣ ɛ]
-          * θρέψω: [θ ɾ ɛ p s o]
+          * βγήκε: [v ɣ i k ɛ]
+          * γκισέ: [ɡ i s ɛ]
+          * έλθω: [ɛ l θ o]
+          * 'σαι: [s ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -356,10 +352,10 @@
       * ɐ
         * Occurances: 5618
         * Examples
-          * αντί: [ɐ d̪ i]
-          * καμιά: [k ɐ m i ɐ]
-          * φας: [f ɐ s]
-          * μαύρα: [m ɐ v ɾ ɐ]
+          * κόμμα: [k o m ɐ]
+          * σκάλα: [s k ɐ l ɐ]
+          * μάτι: [m ɐ t̪ i]
+          * αυτιά: [ɐ f t̪ i ɐ]
     ```
   - ```{ipa_cell}
     ```

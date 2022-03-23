@@ -18,6 +18,9 @@
    ```
 
 
+   ```{admonition} G2P models
+   * {ref}`english_(us)_mfa_g2p_model_v2_0_0`
+   ```
 
 ``````
 
@@ -28,6 +31,8 @@
 ## IPA Charts
 
 ### Consonants
+
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
 
 ``````{list-table}
 :header-rows: 1
@@ -47,112 +52,98 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 17443
+        * Occurances: 17463
         * Examples
-          * ham: [h æ m]
-          * milch: [m ɪ ɫ tʃ]
-          * mynas: [m aj n ə z]
-          * mowed: [m ow d]
+          * yama: [j ɑ m ə]
+          * matt: [m æ t]
+          * maxi: [m æ k s i]
+          * glim: [ɟ ʎ ɪ m]
       * mʲ
-        * Occurances: 978
+        * Occurances: 979
         * Examples
-          * mamie: [m ej mʲ i]
-          * mutex: [mʲ ʉː tʰ ɛ k s]
-          * milo: [mʲ iː l ow]
-          * spumy: [s pʲ ʉː mʲ i]
+          * mummy: [m ɐ mʲ i]
+          * muted: [mʲ ʉː ɾ ɪ d]
+          * meme: [mʲ iː m]
+          * jimmy: [dʒ ɪ mʲ i]
       * m̩
-        * Occurances: 1510
+        * Occurances: 1511
         * Examples
-          * hiram: [h aj ɹ m̩]
-          * golem: [ɡ ow l m̩]
-          * salem: [s ej l m̩]
-          * malum: [m æ l m̩]
+          * arum: [ɛ ɹ m̩]
+          * yes'm: [j ɛ s m̩]
+          * madam: [m æ ɾ m̩]
+          * mhm: [m̩ h m̩]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 1090
         * Examples
-          * bamf: [b æ ɱ f]
-          * infix: [ɪ ɱ f ɪ k s]
-          * dmv: [dʲ iː ɛ ɱ vʲ iː]
-          * mvp: [ɛ ɱ vʲ iː pʰ iː]
+          * info: [ɪ ɱ f ow]
+          * senvy: [s ɛ ɱ vʲ i]
+          * lymph: [ʎ ɪ ɱ f]
+          * anvil: [æ ɱ v ɪ ɫ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 29413
+        * Occurances: 29440
         * Examples
-          * mynas: [m aj n ə z]
-          * olson: [ow l s ə n]
-          * binal: [b aj n ɫ̩]
-          * eaten: [iː ɾ ə n]
+          * turnt: [tʰ ɝ n t]
+          * ronde: [ɹ ɑ n d]
+          * ans: [æ n s]
+          * into: [ɪ n tʰ ʉ]
       * n̩
-        * Occurances: 3797
+        * Occurances: 3799
         * Examples
-          * heron: [h ɛ ɹ n̩]
-          * paven: [pʰ ej v n̩]
-          * nomen: [n ow m n̩]
-          * than: [d n̩]
+          * ovens: [ɐ v n̩ z]
+          * rican: [ɹ i k n̩]
+          * aiken: [aj k n̩]
+          * orion: [ɒ ɹ aj n̩]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 7050
+        * Occurances: 7059
         * Examples
-          * snick: [s ɲ ɪ k]
-          * tenet: [tʰ ɛ ɲ ɪ t]
-          * neuk: [ɲ ʉː k]
-          * unget: [ɐ ɲ ɟ ɛ t]
+          * briny: [b ɹ aj ɲ i]
+          * gnat: [ɲ æ t]
+          * hunny: [h ɐ ɲ i]
+          * piny: [pʰ ɪ ɲ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 7252
+        * Occurances: 7253
         * Examples
-          * ankh: [ɑ ŋ k]
-          * clung: [k l ɐ ŋ]
-          * thank: [θ æ ŋ k]
-          * minx: [m ɪ ŋ k s]
+          * slunk: [s l ɐ ŋ k]
+          * swang: [s w æ ŋ]
+          * yank: [j æ ŋ k]
+          * linq: [ʎ ɪ ŋ k]
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 10050
+        * Occurances: 10065
         * Examples
-          * gape: [ɟ ej p]
-          * setup: [s ɛ tʰ ɐ p]
-          * flops: [f l ɑ p s]
-          * gap: [ɡ æ p]
-      * pʲ
-        * Occurances: 455
-        * Examples
-          * putin: [pʲ ʉː ɾ ə n]
-          * pubes: [pʲ ʉː b z]
-          * pubis: [pʲ ʉ b ɪ s]
-          * pue: [pʲ ʉː]
+          * wasps: [w ɑ s p s]
+          * hyper: [h aj p ɚ]
+          * spies: [s p aj z]
+          * spry: [s p ɹ aj]
     * voiced
       * b
-        * Occurances: 12991
+        * Occurances: 13001
         * Examples
-          * bail: [b ej ɫ]
-          * brill: [b ɹ ɪ ɫ]
-          * bushy: [b ʊ ʃ i]
-          * burgo: [b ɝ ɡ ow]
-      * bʲ
-        * Occurances: 933
-        * Examples
-          * pubes: [pʲ ʉː bʲ i z]
-          * jabby: [dʒ æ bʲ i]
-          * bever: [bʲ iː v ɚ]
-          * rebbe: [ɹ ɛ bʲ i]
+          * bully: [b ʊ ʎ i]
+          * bads: [b æ d z]
+          * bled: [b l ɛ d]
+          * vocab: [v ow k æ b]
     ```
   - ```{ipa_cell}
     ```
@@ -161,131 +152,68 @@
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 23128
+        * Occurances: 23170
         * Examples
-          * sten: [s t ɛ n]
-          * petra: [pʰ ɛ t ɹ ə]
-          * bats: [b æ t s]
-          * skat: [s k æ t]
-      * tʲ
-        * Occurances: 1142
-        * Examples
-          * tcb: [tʲ iː s iː bʲ iː]
-          * testy: [tʰ ɛ s tʲ i]
-          * tuner: [tʲ ʉː n ɚ]
-          * asti: [æ s tʲ i]
+          * turnt: [tʰ ɝ n t]
+          * matt: [m æ t]
+          * busto: [b ɐ s t ow]
+          * gemot: [ɟ ɪ m ow t]
     * voiced
       * d
-        * Occurances: 18712
+        * Occurances: 18747
         * Examples
-          * walid: [w ɑː ʎ ɪ d]
-          * dowdy: [d aw ɾ i]
-          * mowed: [m ow d]
-          * gad: [ɡ æ d]
-      * dʲ
-        * Occurances: 951
-        * Examples
-          * duke: [dʲ ʉː k]
-          * duad: [dʲ ʉ æ d]
-          * dss: [dʲ iː ɛ s ɛ s]
-          * dukes: [dʲ ʉː k s]
+          * ronde: [ɹ ɑ n d]
+          * bads: [b æ d z]
+          * bled: [b l ɛ d]
+          * feud: [fʲ ʉː d]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 4380
+        * Occurances: 4389
         * Examples
-          * oakly: [ow c ʎ i]
-          * jakin: [dʒ ej c ɪ n]
-          * skips: [s c ɪ p s]
-          * cocky: [kʰ ɑ c i]
+          * acrid: [æ c ɹ ɪ d]
+          * crick: [c ɹ ɪ k]
+          * kriol: [c ɹ iː ow ɫ]
+          * khaki: [cʰ æ c i]
     * voiced
       * ɟ
-        * Occurances: 2930
+        * Occurances: 2931
         * Examples
-          * gape: [ɟ ej p]
-          * grady: [ɟ ɹ ej ɾ i]
-          * great: [ɟ ɹ ej t]
-          * grab: [ɟ ɹ æ b]
+          * grebe: [ɟ ɹ iː b]
+          * glim: [ɟ ʎ ɪ m]
+          * gemot: [ɟ ɪ m ow t]
+          * soggy: [s ɑ ɟ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 14436
+        * Occurances: 14457
         * Examples
-          * talks: [tʰ ɒː k s]
-          * ankh: [ɑ ŋ k]
-          * snick: [s ɲ ɪ k]
-          * sarka: [s ɑ ɹ k ə]
+          * excel: [ɪ k s ɛ ɫ]
+          * vocab: [v ow k æ b]
+          * jaska: [dʒ æ s k ə]
+          * maxi: [m æ k s i]
     * voiced
       * ɡ
-        * Occurances: 5084
+        * Occurances: 5085
         * Examples
-          * golem: [ɡ ow l m̩]
-          * burgo: [b ɝ ɡ ow]
-          * gap: [ɡ æ p]
-          * gad: [ɡ æ d]
+          * guqin: [ɡ ʉː tʃ iː n]
+          * gull: [ɡ ɐ ɫ]
+          * bleg: [b l ɛ ɡ]
+          * thugs: [θ ɐ ɡ z]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
-        * Occurances: 1278
+        * Occurances: 1282
         * Examples
-          * coat: [kʰ ow ʔ]
-          * great: [ɟ ɹ ej ʔ]
-          * site: [s aj ʔ]
-          * tenet: [tʰ ɛ ɲ ɪ ʔ]
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 5859
-        * Examples
-          * paris: [pʰ ɛ ɹ ɪ s]
-          * aeap: [ej iː ej pʰ iː]
-          * petra: [pʰ ɛ t ɹ ə]
-          * pips: [pʰ ɪ p s]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 5887
-        * Examples
-          * talks: [tʰ ɒː k s]
-          * setup: [s ɛ tʰ ɐ p]
-          * otira: [ow tʰ ɪ ɹ ɑː]
-          * two: [tʰ ʉ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * cʰ
-        * Occurances: 3264
-        * Examples
-          * kapp: [cʰ æ p]
-          * cadge: [cʰ æ dʒ]
-          * kinch: [cʰ ɪ n tʃ]
-          * kiang: [cʰ i ɑ ŋ]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 5422
-        * Examples
-          * kerf: [kʰ ɝ f]
-          * kdy: [kʰ ə ɾ i]
-          * coat: [kʰ ow t]
-          * kong: [kʰ ɑ ŋ]
-    ```
-  - ```{ipa_cell}
+          * matt: [m æ ʔ]
+          * split: [s p ʎ ɪ ʔ]
+          * butt: [b ɐ ʔ]
+          * gnat: [ɲ æ ʔ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -299,20 +227,20 @@
   - ```{ipa_cell}
     * voiceless
       * tʃ
-        * Occurances: 3227
+        * Occurances: 3230
         * Examples
-          * milch: [m ɪ ɫ tʃ]
-          * gucci: [ɡ ʊ tʃ i]
-          * kinch: [cʰ ɪ n tʃ]
-          * chuck: [tʃ ɐ k]
+          * guqin: [ɡ ʉː tʃ iː n]
+          * zilch: [z ɪ ɫ tʃ]
+          * chair: [tʃ ɛ ɹ]
+          * chips: [tʃ ɪ p s]
     * voiced
       * dʒ
-        * Occurances: 4935
+        * Occurances: 4938
         * Examples
-          * jakin: [dʒ ej c ɪ n]
-          * gyms: [dʒ ɪ m z]
-          * dry: [dʒ ɹ aj]
-          * cadge: [cʰ æ dʒ]
+          * parge: [pʰ ɑ ɹ dʒ]
+          * jaska: [dʒ æ s k ə]
+          * jizz: [dʒ ɪ z]
+          * urged: [ɝ dʒ d]
     ```
   - ```{ipa_cell}
     ```
@@ -330,38 +258,38 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 36119
+        * Occurances: 36172
         * Examples
-          * paris: [pʰ ɛ ɹ ɪ s]
-          * talks: [tʰ ɒː k s]
-          * wes: [w ɛ s]
-          * salem: [s ej l m̩]
+          * wasps: [w ɑ s p s]
+          * ans: [æ n s]
+          * excel: [ɪ k s ɛ ɫ]
+          * spies: [s p aj z]
     * voiced
       * z
-        * Occurances: 15412
+        * Occurances: 15465
         * Examples
-          * hairs: [h ɛ ɹ z]
-          * wes: [w ɛ z]
-          * mynas: [m aj n ə z]
-          * vase: [v ej z]
+          * ans: [æ n z]
+          * calls: [kʰ ɒ ɫ z]
+          * bads: [b æ d z]
+          * spies: [s p aj z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 6741
+        * Occurances: 6752
         * Examples
-          * bushy: [b ʊ ʃ i]
-          * fish: [f ɪ ʃ]
-          * shun: [ʃ ɐ n]
-          * lush: [l ɐ ʃ]
+          * shore: [ʃ ɒ ɹ]
+          * shall: [ʃ æ ɫ]
+          * niche: [ɲ i ʃ]
+          * wash: [w ɑ ʃ]
     * voiced
       * ʒ
         * Occurances: 551
         * Examples
           * usury: [j ʉː ʒ ə ɹ i]
-          * cazh: [cʰ æ ʒ]
-          * zhe: [ʒ iː]
-          * beige: [b ej ʒ]
+          * taj: [tʰ ɑ ʒ]
+          * osier: [ow ʒ ɚ]
+          * gigot: [ʒ i ɡ ow]
     ```
   - ```{ipa_cell}
     ```
@@ -375,52 +303,52 @@
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 9583
+        * Occurances: 9599
         * Examples
-          * fall: [f ɒ ɫ]
-          * flops: [f l ɑ p s]
-          * kerf: [kʰ ɝ f]
-          * fish: [f ɪ ʃ]
+          * free: [f ɹ iː]
+          * fluke: [f l ʉ k]
+          * swarf: [s w ɒ ɹ f]
+          * aflow: [ə f l ow]
       * fʲ
         * Occurances: 688
         * Examples
-          * buffy: [b ɐ fʲ i]
-          * fumes: [fʲ ʉː m z]
-          * fury: [fʲ ʊ ɹ i]
-          * fuchs: [fʲ ʉː k s]
+          * feud: [fʲ ʉː d]
+          * mcfee: [m ə k fʲ iː]
+          * fees: [fʲ iː z]
+          * fils: [fʲ iː z]
     * voiced
       * v
-        * Occurances: 6910
+        * Occurances: 6907
         * Examples
-          * vase: [v ej s]
-          * volar: [v ow l ɚ]
-          * kev: [cʰ ɛ v]
-          * vice: [v aj s]
+          * vocab: [v ow k æ b]
+          * skive: [s k aj v]
+          * voter: [v ow ɾ ɚ]
+          * ovens: [ɐ v n̩ z]
       * vʲ
         * Occurances: 437
         * Examples
-          * svu: [ɛ s vʲ iː j ʉː]
-          * movie: [m ʉː vʲ i]
-          * juvie: [dʒ ʉː vʲ i]
-          * visas: [vʲ iː z ə z]
+          * senvy: [s ɛ ɱ vʲ i]
+          * heavy: [h ɛ vʲ i]
+          * ravey: [ɹ ej vʲ i]
+          * aviv: [ə vʲ i v]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
-        * Occurances: 2504
+        * Occurances: 2506
         * Examples
-          * athel: [ej θ ɫ̩]
-          * thank: [θ æ ŋ k]
-          * thug: [θ ɐ ɡ]
-          * dieth: [d aj ə θ]
+          * thugs: [θ ɐ ɡ z]
+          * stith: [s t ɪ θ]
+          * thou: [θ aw]
+          * both: [b ow θ]
     * voiced
       * ð
-        * Occurances: 632
+        * Occurances: 633
         * Examples
-          * other: [ɐ ð ɚ]
-          * rethe: [ɹ iː ð]
           * these: [ð iː z]
-          * than: [ð n̩]
+          * thou: [ð aw]
+          * lathe: [l ej ð]
+          * that: [ð æ t]
     ```
   - ```{ipa_cell}
     ```
@@ -429,11 +357,11 @@
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 925
+        * Occurances: 924
         * Examples
-          * humid: [ç ʉː m ɪ d]
-          * hikoi: [ç iː kʰ ɔj]
-          * jorge: [h ɒ ɹ ç ej]
+          * hayes: [ç ej z]
+          * hitt: [ç i t]
+          * hir: [ç ɪ ɹ]
           * haye: [ç ej]
     ```
   - ```{ipa_cell}
@@ -441,15 +369,23 @@
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 3732
+        * Occurances: 3736
         * Examples
-          * ham: [h æ m]
-          * hiram: [h aj ɹ m̩]
-          * hairs: [h ɛ ɹ z]
-          * hawed: [h ɒː d]
+          * hyper: [h aj p ɚ]
+          * hab: [h æ b]
+          * hai: [h aj]
+          * ahind: [ə h aj n d]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 5661
+        * Examples
+          * wasps: [w ɑ s p s]
+          * swarf: [s w ɒ ɹ f]
+          * ware: [w ɛ ɹ]
+          * weald: [w i ɫ d]
     ```
   - ```{ipa_cell}
     ```
@@ -458,24 +394,24 @@
   - ```{ipa_cell}
     * other
       * ɹ
-        * Occurances: 35027
+        * Occurances: 35096
         * Examples
-          * paris: [pʰ ɛ ɹ ɪ s]
-          * hiram: [h aj ɹ m̩]
-          * brill: [b ɹ ɪ ɫ]
-          * grady: [ɟ ɹ ej ɾ i]
+          * ronde: [ɹ ɑ n d]
+          * parge: [pʰ ɑ ɹ dʒ]
+          * free: [f ɹ iː]
+          * arum: [ɛ ɹ m̩]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 1192
+        * Occurances: 1188
         * Examples
-          * svu: [ɛ s vʲ iː j ʉː]
-          * unify: [j ʉː ɲ ɪ f aj]
-          * yah: [j ɑː]
-          * yon: [j ɑ n]
+          * yama: [j ɑ m ə]
+          * yearn: [j ɝ n]
+          * yes'm: [j ɛ s m̩]
+          * usury: [j ʉː ʒ ə ɹ i]
     ```
   - ```{ipa_cell}
     ```
@@ -491,12 +427,12 @@
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 10265
+        * Occurances: 10275
         * Examples
-          * grady: [ɟ ɹ ej ɾ i]
-          * dowdy: [d aw ɾ i]
-          * eaten: [iː ɾ ə n]
-          * putin: [pʲ ʉː ɾ ə n]
+          * voter: [v ow ɾ ɚ]
+          * idled: [aj ɾ ɫ̩ d]
+          * vidal: [v aj ɾ ɫ̩]
+          * madam: [m æ ɾ m̩]
     ```
   - ```{ipa_cell}
     ```
@@ -516,38 +452,38 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 12147
+        * Occurances: 12159
         * Examples
-          * golem: [ɡ ow l m̩]
-          * salem: [s ej l m̩]
-          * flops: [f l ɑ p s]
-          * olson: [ow l s ə n]
+          * bled: [b l ɛ d]
+          * arler: [ɑ ɹ l ɚ]
+          * bolo: [b ow l ow]
+          * fluke: [f l ʉ k]
       * ɫ
-        * Occurances: 6176
+        * Occurances: 6181
         * Examples
-          * bail: [b ej ɫ]
-          * brill: [b ɹ ɪ ɫ]
-          * milch: [m ɪ ɫ tʃ]
-          * fall: [f ɒ ɫ]
+          * calls: [kʰ ɒ ɫ z]
+          * excel: [ɪ k s ɛ ɫ]
+          * elsie: [ɛ ɫ s i]
+          * royle: [ɹ ɔj ɫ]
       * ɫ̩
-        * Occurances: 4989
+        * Occurances: 4993
         * Examples
-          * athel: [ej θ ɫ̩]
-          * binal: [b aj n ɫ̩]
-          * axial: [æ k s i ɫ̩]
-          * modal: [m ow ɾ ɫ̩]
+          * camel: [cʰ æ m ɫ̩]
+          * idled: [aj ɾ ɫ̩ d]
+          * vidal: [v aj ɾ ɫ̩]
+          * daryl: [d ɑ ɹ ɫ̩]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 9679
+        * Occurances: 9688
         * Examples
-          * oakly: [ow c ʎ i]
-          * walid: [w ɑː ʎ ɪ d]
-          * leir: [ʎ ɛ ɹ]
-          * flisk: [f ʎ ɪ s k]
+          * bully: [b ʊ ʎ i]
+          * glim: [ɟ ʎ ɪ m]
+          * split: [s p ʎ ɪ t]
+          * leu: [ʎ ʉː]
     ```
   - ```{ipa_cell}
     ```
@@ -557,6 +493,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -573,38 +511,38 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 16465
+        * Occurances: 16484
         * Examples
-          * grady: [ɟ ɹ ej ɾ i]
-          * oakly: [ow c ʎ i]
-          * bushy: [b ʊ ʃ i]
-          * dowdy: [d aw ɾ i]
+          * bully: [b ʊ ʎ i]
+          * elsie: [ɛ ɫ s i]
+          * maxi: [m æ k s i]
+          * briny: [b ɹ aj ɲ i]
       * iː
-        * Occurances: 6278
+        * Occurances: 6275
         * Examples
-          * aeap: [ej iː ej pʰ iː]
-          * eaten: [iː ɾ ə n]
-          * rethe: [ɹ iː ð]
-          * seeds: [s iː d z]
+          * free: [f ɹ iː]
+          * eta: [iː tʲ iː ej]
+          * guqin: [ɡ ʉː tʃ iː n]
+          * grebe: [ɟ ɹ iː b]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ʉ
-        * Occurances: 2350
+        * Occurances: 2353
         * Examples
-          * rumba: [ɹ ʉ m b ə]
-          * soup: [s ʉ p]
-          * strew: [s t ɹ ʉ]
-          * duad: [dʲ ʉ æ d]
+          * into: [ɪ n tʰ ʉ]
+          * fluke: [f l ʉ k]
+          * sooey: [s ʉ i]
+          * tute: [tʰ ʉ t]
       * ʉː
-        * Occurances: 4562
+        * Occurances: 4564
         * Examples
-          * putin: [pʲ ʉː ɾ ə n]
-          * duke: [dʲ ʉː k]
-          * pubes: [pʲ ʉː b z]
-          * humid: [ç ʉː m ɪ d]
+          * feud: [fʲ ʉː d]
+          * guqin: [ɡ ʉː tʃ iː n]
+          * zoom: [z ʉː m]
+          * usury: [j ʉː ʒ ə ɹ i]
     ```
   - ```{ipa_cell}
     ```
@@ -616,24 +554,24 @@
   - ```{ipa_cell}
     * unrounded
       * ɪ
-        * Occurances: 43854
+        * Occurances: 43918
         * Examples
-          * paris: [pʰ ɛ ɹ ɪ s]
-          * brill: [b ɹ ɪ ɫ]
-          * milch: [m ɪ ɫ tʃ]
-          * otira: [ow tʰ ɪ ɹ ɑː]
+          * excel: [ɪ k s ɛ ɫ]
+          * acrid: [æ c ɹ ɪ d]
+          * into: [ɪ n tʰ ʉ]
+          * acid: [æ s ɪ d]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ʊ
-        * Occurances: 2527
+        * Occurances: 2532
         * Examples
-          * bushy: [b ʊ ʃ i]
-          * gucci: [ɡ ʊ tʃ i]
-          * coors: [cʰ ʊ ɹ z]
-          * poof: [pʰ ʊ f]
+          * bully: [b ʊ ʎ i]
+          * uriah: [j ʊ ɹ aj ə]
+          * wolve: [w ʊ ɫ v]
+          * blvd: [b ʊ l ə v ɑ ɹ d]
     ```
   - ```{ipa_cell}
     ```
@@ -641,12 +579,12 @@
   - ```{ipa_cell}
     * unrounded
       * ej
-        * Occurances: 11357
+        * Occurances: 11362
         * Examples
-          * bail: [b ej ɫ]
-          * gape: [ɟ ej p]
-          * grady: [ɟ ɹ ej ɾ i]
-          * athel: [ej θ ɫ̩]
+          * eta: [iː tʲ iː ej]
+          * babe: [b ej b]
+          * hayes: [ç ej z]
+          * kail: [cʰ ej ɫ]
     ```
   - ```{ipa_cell}
     ```
@@ -657,12 +595,12 @@
   - ```{ipa_cell}
     * rounded
       * ow
-        * Occurances: 10109
+        * Occurances: 10115
         * Examples
-          * golem: [ɡ ow l m̩]
-          * oakly: [ow c ʎ i]
-          * otira: [ow tʰ ɪ ɹ ɑː]
-          * burgo: [b ɝ ɡ ow]
+          * vocab: [v ow k æ b]
+          * busto: [b ɐ s t ow]
+          * voter: [v ow ɾ ɚ]
+          * bolo: [b ow l ow]
     ```
 * -
   - ```{ipa_cell}
@@ -672,19 +610,19 @@
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 36763
+        * Occurances: 36789
         * Examples
-          * mynas: [m aj n ə z]
-          * rumba: [ɹ ʉ m b ə]
-          * olson: [ow l s ə n]
-          * eaten: [iː ɾ ə n]
+          * jaska: [dʒ æ s k ə]
+          * yama: [j ɑ m ə]
+          * emesa: [ɛ m ə s ə]
+          * rosin: [ɹ ɑ z ə n]
       * ɚ
-        * Occurances: 9392
+        * Occurances: 9416
         * Examples
-          * other: [ɐ d ɚ]
-          * volar: [v ow l ɚ]
-          * edder: [ɛ ɾ ɚ]
-          * bever: [bʲ iː v ɚ]
+          * hyper: [h aj p ɚ]
+          * arler: [ɑ ɹ l ɚ]
+          * voter: [v ow ɾ ɚ]
+          * gayer: [ɟ ej ɚ]
     ```
   - ```{ipa_cell}
     ```
@@ -694,24 +632,24 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 18659
+        * Occurances: 18685
         * Examples
-          * paris: [pʰ ɛ ɹ ɪ s]
-          * hairs: [h ɛ ɹ z]
-          * wes: [w ɛ s]
-          * setup: [s ɛ tʰ ɐ p]
+          * excel: [ɪ k s ɛ ɫ]
+          * bled: [b l ɛ d]
+          * arum: [ɛ ɹ m̩]
+          * elsie: [ɛ ɫ s i]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
       * ɝ
-        * Occurances: 3468
+        * Occurances: 3470
         * Examples
-          * burgo: [b ɝ ɡ ow]
-          * kerf: [kʰ ɝ f]
-          * firs: [f ɝ z]
-          * lures: [ʎ ɝ z]
+          * turnt: [tʰ ɝ n t]
+          * yearn: [j ɝ n]
+          * nerd: [n ɝ d]
+          * perdu: [pʰ ɝ dʲ ʉː]
     ```
   - ```{ipa_cell}
     ```
@@ -721,24 +659,24 @@
   - ```{ipa_cell}
     * unrounded
       * æ
-        * Occurances: 15922
+        * Occurances: 15937
         * Examples
-          * ham: [h æ m]
-          * athel: [æ θ ɫ̩]
-          * gap: [ɡ æ p]
-          * gad: [ɡ æ d]
+          * ans: [æ n s]
+          * bads: [b æ d z]
+          * vocab: [v ow k æ b]
+          * jaska: [dʒ æ s k ə]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 7314
+        * Occurances: 7321
         * Examples
-          * setup: [s ɛ tʰ ɐ p]
-          * other: [ɐ d ɚ]
-          * clung: [k l ɐ ŋ]
-          * layan: [l aj ɐ n]
+          * busto: [b ɐ s t ow]
+          * ovens: [ɐ v n̩ z]
+          * gull: [ɡ ɐ ɫ]
+          * thugs: [θ ɐ ɡ z]
     ```
   - ```{ipa_cell}
     ```
@@ -756,39 +694,39 @@
   - ```{ipa_cell}
     * unrounded
       * ɑ
-        * Occurances: 10798
+        * Occurances: 10815
         * Examples
-          * golem: [ɡ ɑ l m̩]
-          * flops: [f l ɑ p s]
-          * ankh: [ɑ ŋ k]
-          * vase: [v ɑ z]
+          * wasps: [w ɑ s p s]
+          * ronde: [ɹ ɑ n d]
+          * parge: [pʰ ɑ ɹ dʒ]
+          * yama: [j ɑ m ə]
       * ɑː
-        * Occurances: 1918
+        * Occurances: 1919
         * Examples
-          * otira: [ow tʰ ɪ ɹ ɑː]
-          * walid: [w ɑː ʎ ɪ d]
-          * crlf: [s iː ɑː ɹ ɛ l ɛ f]
-          * yah: [j ɑː]
+          * suona: [s w ow n ɑː]
+          * quale: [k w ɑː ɫ]
+          * lager: [l ɑː ɡ ɚ]
+          * iran: [ɪ ɹ ɑː n]
     * rounded
       * ɒ
-        * Occurances: 5560
+        * Occurances: 5574
         * Examples
-          * fall: [f ɒ ɫ]
-          * roars: [ɹ ɒ ɹ z]
-          * orgy: [ɒ ɹ dʒ i]
-          * orson: [ɒ ɹ s ə n]
+          * calls: [kʰ ɒ ɫ z]
+          * poor: [pʰ ɒ ɹ]
+          * swarf: [s w ɒ ɹ f]
+          * forte: [f ɒ ɹ t]
       * ɒː
-        * Occurances: 1361
+        * Occurances: 1369
         * Examples
-          * talks: [tʰ ɒː k s]
-          * hawed: [h ɒː d]
-          * audax: [ɒː d æ k s]
-          * lauda: [l ɒː ɾ ə]
+          * pawns: [pʰ ɒː n z]
+          * zori: [z ɒː ɹ i]
+          * spawl: [s p ɒː ɫ]
+          * caw: [kʰ ɒː]
     ```
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`aj`
 * {ipa_inline}`aw`

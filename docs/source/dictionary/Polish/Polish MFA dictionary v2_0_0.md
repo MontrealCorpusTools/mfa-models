@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -50,23 +52,31 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 26903
+        * Occurances: 28995
         * Examples
-          * całem: [t̪s̪ a w ɛ m]
-          * męki: [m ɛ ŋ c i]
-          * hamas: [x a m a s̪]
-          * gnamy: [ɡ n̪ a m ɨ]
+          * kram: [k r a m]
+          * media: [m ɛ d̪ j a]
+          * mchem: [m x ɛ m]
+          * cnemu: [t̪s̪ n̪ ɛ m u]
       * mʲ
-        * Occurances: 7859
+        * Occurances: 8485
         * Examples
-          * umila: [u mʲ i l a]
-          * mamił: [m a mʲ i w]
-          * osami: [ɔ s̪ a mʲ i]
-          * miem: [mʲ ɛ m]
+          * mumję: [m u mʲ ɛ]
+          * omieg: [ɔ mʲ ɛ k]
+          * agami: [a ɡ a mʲ i]
+          * mię: [mʲ ɛ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * n̪
+        * Occurances: 46564
+        * Examples
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
+          * odna: [ɔ d̪ n̪ a]
+          * cnemu: [t̪s̪ n̪ ɛ m u]
+          * rodny: [r ɔ d̪ n̪ ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -75,22 +85,22 @@
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 22587
+        * Occurances: 24267
         * Examples
-          * panią: [p a ɲ ɔ̃]
-          * nieuk: [ɲ ɛ w u k]
-          * tonia: [t̪ ɔ ɲ a]
-          * lgnij: [l ɡ ɲ i j]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * łonie: [w ɔ ɲ ɛ]
+          * anion: [a ɲ j ɔ n̪]
+          * muroń: [m u r ɔ ɲ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 1703
+        * Occurances: 1834
         * Examples
-          * męki: [m ɛ ŋ c i]
-          * wręga: [v r ɛ ŋ ɡ a]
-          * męką: [m ɛ ŋ k ɔ̃]
-          * łągwa: [w ɔ ŋ ɡ v a]
+          * pękł: [p ɛ ŋ k w]
+          * ciągi: [tɕ ɔ ŋ ɟ i]
+          * rąk: [r ɔ ŋ k]
+          * pręgą: [p r ɛ ŋ ɡ ɔ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -98,112 +108,90 @@
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 28598
+        * Occurances: 30722
         * Examples
-          * panią: [p a ɲ ɔ̃]
-          * upału: [u p a w u]
-          * pacy: [p a t̪s̪ ɨ]
-          * potu: [p ɔ t̪ u]
-      * pʲ
-        * Occurances: 3875
-        * Examples
-          * pionu: [pʲ ɔ n̪ u]
-          * kopii: [k ɔ pʲ j i]
-          * piski: [pʲ i s̪ c i]
-          * piętr: [pʲ ɛ n̪ t̪ r]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * płucz: [p w u tʂ]
+          * plaża: [p l a ʐ a]
+          * map: [m a p]
     * voiced
       * b
-        * Occurances: 13455
+        * Occurances: 14278
         * Examples
-          * ruble: [r u b l ɛ]
-          * zebry: [z̪ ɛ b r ɨ]
-          * oblak: [ɔ b l a k]
-          * dbały: [d̪ b a w ɨ]
-      * bʲ
-        * Occurances: 3500
-        * Examples
-          * bitwy: [bʲ i t̪ f ɨ]
-          * pabiś: [p a bʲ i ɕ]
-          * tabiś: [t̪ a bʲ i ɕ]
-          * habie: [x a bʲ ɛ]
+          * brydż: [b r ɨ tʂ]
+          * zburz: [z̪ b u ʂ]
+          * bujać: [b u j a tɕ]
+          * baje: [b a j ɛ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t̪
-        * Occurances: 35403
+        * Occurances: 37628
         * Examples
-          * potu: [p ɔ t̪ u]
-          * wrzód: [v ʐ u t̪]
-          * swend: [s̪ f ɛ n̪ t̪]
-          * złotu: [z̪ w ɔ t̪ u]
+          * lud: [l u t̪]
+          * tłumu: [t̪ w u m u]
+          * motaj: [m ɔ t̪ a j]
+          * wtóre: [f t̪ u r ɛ]
     * voiced
       * d̪
-        * Occurances: 19528
+        * Occurances: 20792
         * Examples
-          * wejdę: [v ɛ j d̪ ɛ]
-          * osadę: [ɔ s̪ a d̪ ɛ]
-          * dbały: [d̪ b a w ɨ]
-          * lider: [ʎ i d̪ ɛ r]
+          * media: [m ɛ d̪ j a]
+          * idrys: [i d̪ r ɨ s̪]
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
+          * odna: [ɔ d̪ n̪ a]
     ```
   - ```{ipa_cell}
-    * voiceless
-      * tʲ
-        * Occurances: 299
-        * Examples
-          * matti: [m a tʲ i]
-          * tip: [tʲ i p]
-          * butik: [b u tʲ i k]
-          * times: [tʲ i m ɛ s̪]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 8206
+        * Occurances: 8560
         * Examples
-          * męki: [m ɛ ŋ c i]
-          * smoki: [s̪ m ɔ c i]
-          * pułki: [p u w c i]
-          * pryki: [p r ɨ c i]
+          * kichę: [c i x ɛ]
+          * łatki: [w a t̪ c i]
+          * haki: [x a c i]
+          * greki: [ɡ r ɛ c i]
     * voiced
       * ɟ
-        * Occurances: 1425
+        * Occurances: 1500
         * Examples
-          * gibać: [ɟ i b a tɕ]
-          * drugi: [d̪ r u ɟ i]
-          * magii: [m a ɟ j i]
-          * blogi: [b l ɔ ɟ i]
+          * ciągi: [tɕ ɔ ŋ ɟ i]
+          * rzygi: [ʐ ɨ ɟ i]
+          * rózgi: [r u z̪ ɟ i]
+          * gil: [ɟ i l]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 34024
+        * Occurances: 35811
         * Examples
-          * sług: [s̪ w u k]
-          * łokci: [w ɔ k tɕ i]
-          * róg: [r u k]
-          * kolom: [k ɔ l ɔ m]
+          * kram: [k r a m]
+          * kum: [k u m]
+          * kodem: [k ɔ d̪ ɛ m]
+          * kufel: [k u f ɛ l]
     * voiced
       * ɡ
-        * Occurances: 14466
+        * Occurances: 15373
         * Examples
-          * gnę: [ɡ n̪ ɛ]
-          * gnamy: [ɡ n̪ a m ɨ]
-          * wręga: [v r ɛ ŋ ɡ a]
-          * gryź: [ɡ r ɨ ɕ]
+          * grową: [ɡ r ɔ v ɔ̃]
+          * gapie: [ɡ a pʲ ɛ]
+          * nogę: [n̪ ɔ ɡ ɛ]
+          * gdyk: [ɡ d̪ ɨ k]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
-        * Occurances: 112
+        * Occurances: 114
         * Examples
-          * groom: [ɡ r ɔ ʔ ɔ m]
           * osp: [ɔ ʔ ɛ s̪ p ɛ]
-          * noo: [n̪ ɔ ʔ ɔ]
           * zoo: [z̪ ɔ ʔ ɔ]
+          * groom: [ɡ r ɔ ʔ ɔ m]
+          * door: [d̪ ɔ ʔ ɔ r]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -213,20 +201,20 @@
   - ```{ipa_cell}
     * voiceless
       * t̪s̪
-        * Occurances: 15070
+        * Occurances: 16058
         * Examples
-          * całem: [t̪s̪ a w ɛ m]
-          * cucić: [t̪s̪ u tɕ i tɕ]
-          * pacy: [p a t̪s̪ ɨ]
-          * owocu: [ɔ v ɔ t̪s̪ u]
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
+          * cnemu: [t̪s̪ n̪ ɛ m u]
+          * cenną: [t̪s̪ ɛ n̪ ɔ̃]
+          * dance: [d̪ a n̪ t̪s̪ ɛ]
     * voiced
       * d̪z̪
-        * Occurances: 1582
+        * Occurances: 1750
         * Examples
-          * rdza: [r d̪z̪ a]
-          * sądzą: [s̪ ɔ n̪ d̪z̪ ɔ̃]
-          * zdzuj: [z̪ d̪z̪ u j]
-          * wodzę: [v ɔ d̪z̪ ɛ]
+          * nadzy: [n̪ a d̪z̪ ɨ]
+          * radzę: [r a d̪z̪ ɛ]
+          * idze: [i d̪z̪ ɛ]
+          * fidze: [fʲ i d̪z̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -235,20 +223,20 @@
   - ```{ipa_cell}
     * voiceless
       * tɕ
-        * Occurances: 13722
+        * Occurances: 14464
         * Examples
-          * cucić: [t̪s̪ u tɕ i tɕ]
-          * łokci: [w ɔ k tɕ i]
-          * cięży: [tɕ ɛ̃ ʐ ɨ]
-          * dość: [d̪ ɔ ɕ tɕ]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * żalić: [ʐ a ʎ i tɕ]
+          * bujać: [b u j a tɕ]
+          * ciągi: [tɕ ɔ ŋ ɟ i]
     * voiced
       * dʑ
-        * Occurances: 3685
+        * Occurances: 4008
         * Examples
-          * dziko: [dʑ i k ɔ]
-          * łodzi: [w ɔ dʑ i]
-          * dziką: [dʑ i k ɔ̃]
-          * sądzi: [s̪ ɔ ɲ dʑ i]
+          * dziuk: [dʑ u k]
+          * udzie: [u dʑ ɛ]
+          * dzicz: [dʑ i tʂ]
+          * dzi: [dʑ i]
     ```
   - ```{ipa_cell}
     ```
@@ -260,44 +248,60 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * voiceless
+      * s̪
+        * Occurances: 34500
+        * Examples
+          * rubis: [r u bʲ i s̪]
+          * idrys: [i d̪ r ɨ s̪]
+          * suś: [s̪ u ɕ]
+          * sople: [s̪ ɔ p l ɛ]
+    * voiced
+      * z̪
+        * Occurances: 18094
+        * Examples
+          * zburz: [z̪ b u ʂ]
+          * zrób: [z̪ r u p]
+          * zęza: [z̪ ɛ̃ z̪ a]
+          * wizja: [vʲ i z̪ j a]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
-        * Occurances: 17104
+        * Occurances: 18606
         * Examples
-          * słysz: [s̪ w ɨ ʂ]
-          * szafy: [ʂ a f ɨ]
-          * szyk: [ʂ ɨ k]
-          * fisz: [fʲ i ʂ]
+          * uszło: [u ʂ w ɔ]
+          * zburz: [z̪ b u ʂ]
+          * szata: [ʂ a t̪ a]
+          * smuż: [s̪ m u ʂ]
     * voiced
       * ʐ
-        * Occurances: 9601
+        * Occurances: 10361
         * Examples
-          * wrzód: [v ʐ u t̪]
-          * cięży: [tɕ ɛ̃ ʐ ɨ]
-          * różyc: [r u ʐ ɨ t̪s̪]
-          * zażył: [z̪ a ʐ ɨ w]
+          * plaża: [p l a ʐ a]
+          * żalić: [ʐ a ʎ i tɕ]
+          * życzą: [ʐ ɨ tʂ ɔ̃]
+          * wiąże: [vʲ ɔ̃ ʐ ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
-        * Occurances: 10901
+        * Occurances: 11665
         * Examples
-          * czemś: [tʂ ɛ m ɕ]
-          * gryź: [ɡ r ɨ ɕ]
-          * dość: [d̪ ɔ ɕ tɕ]
-          * łysik: [w ɨ ɕ i k]
+          * suś: [s̪ u ɕ]
+          * olaś: [ɔ l a ɕ]
+          * waryś: [v a r ɨ ɕ]
+          * ślepy: [ɕ l ɛ p ɨ]
     * voiced
       * ʑ
-        * Occurances: 1716
+        * Occurances: 1826
         * Examples
-          * ziora: [ʑ ɔ r a]
-          * mazi: [m a ʑ i]
-          * kaziu: [k a ʑ u]
-          * gzik: [ɡ ʑ i k]
+          * rzęzi: [ʐ ɛ̃ ʑ i]
+          * jaźni: [j a ʑ ɲ i]
+          * kozie: [k ɔ ʑ ɛ]
+          * poźno: [p ɔ ʑ n̪ ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -309,34 +313,34 @@
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 10831
+        * Occurances: 11595
         * Examples
-          * arfy: [a r f ɨ]
-          * szafy: [ʂ a f ɨ]
-          * swend: [s̪ f ɛ n̪ t̪]
-          * żydów: [ʐ ɨ d̪ u f]
+          * kufel: [k u f ɛ l]
+          * wtóre: [f t̪ u r ɛ]
+          * petów: [p ɛ t̪ u f]
+          * cepów: [t̪s̪ ɛ p u f]
       * fʲ
-        * Occurances: 2279
+        * Occurances: 2456
         * Examples
-          * fiaty: [fʲ a t̪ ɨ]
-          * fisz: [fʲ i ʂ]
-          * firmę: [fʲ i r m ɛ]
-          * świeć: [ɕ fʲ ɛ tɕ]
+          * kwil: [k fʲ i l]
+          * tkwił: [t̪ k fʲ i w]
+          * fijoł: [fʲ i j ɔ w]
+          * świąt: [ɕ fʲ ɔ n̪ t̪]
     * voiced
       * v
-        * Occurances: 25336
+        * Occurances: 27062
         * Examples
-          * wejdę: [v ɛ j d̪ ɛ]
-          * wręga: [v r ɛ ŋ ɡ a]
-          * wrzód: [v ʐ u t̪]
-          * owocu: [ɔ v ɔ t̪s̪ u]
+          * grową: [ɡ r ɔ v ɔ̃]
+          * wrą: [v r ɔ̃]
+          * wasta: [v a s̪ t̪ a]
+          * wartą: [v a r t̪ ɔ̃]
       * vʲ
-        * Occurances: 10751
+        * Occurances: 11381
         * Examples
-          * wisło: [vʲ i s̪ w ɔ]
-          * pławi: [p w a vʲ i]
-          * żwawi: [ʐ v a vʲ i]
-          * winem: [vʲ i n̪ ɛ m]
+          * wielk: [vʲ ɛ l k]
+          * wiąże: [vʲ ɔ̃ ʐ ɛ]
+          * wiło: [vʲ i w ɔ]
+          * wizja: [vʲ i z̪ j a]
     ```
   - ```{ipa_cell}
     ```
@@ -347,27 +351,27 @@
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 614
+        * Occurances: 629
         * Examples
-          * hipis: [ç i pʲ i s̪]
-          * hity: [ç i t̪ ɨ]
-          * hiob: [ç j ɔ p]
-          * hit: [ç i t̪]
+          * chiny: [ç i n̪ ɨ]
+          * mehir: [m ɛ ç i r]
+          * hil: [ç i l]
+          * tchir: [t̪ ç i r]
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 12716
-        * Examples
-          * zych: [z̪ ɨ x]
-          * hamas: [x a m a s̪]
-          * henry: [x ɛ n̪ r ɨ]
-          * lacha: [l a x a]
     ```
   - ```{ipa_cell}
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 25779
+        * Examples
+          * płucz: [p w u tʂ]
+          * tłumu: [t̪ w u m u]
+          * łonie: [w ɔ ɲ ɛ]
+          * uszło: [u ʂ w ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -380,12 +384,12 @@
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 22063
+        * Occurances: 23386
         * Examples
-          * wejdę: [v ɛ j d̪ ɛ]
-          * łają: [w a j ɔ̃]
-          * maja: [m a j a]
-          * wyżej: [v ɨ ʐ ɛ j]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * media: [m ɛ d̪ j a]
+          * dójmy: [d̪ u j m ɨ]
+          * motaj: [m ɔ t̪ a j]
       * j̃
         * Occurances: 1609
         * Examples
@@ -407,19 +411,19 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 40579
+        * Occurances: 42935
         * Examples
-          * róg: [r u k]
-          * wręga: [v r ɛ ŋ ɡ a]
-          * rdza: [r d̪z̪ a]
-          * ruble: [r u b l ɛ]
+          * rubis: [r u bʲ i s̪]
+          * brydż: [b r ɨ tʂ]
+          * kram: [k r a m]
+          * idrys: [i d̪ r ɨ s̪]
       * rʲ
-        * Occurances: 816
+        * Occurances: 845
         * Examples
-          * arimr: [a rʲ i m a a r]
-          * drink: [d̪ rʲ i n̪ k]
+          * ferii: [f ɛ rʲ j i]
+          * rijad: [rʲ i j a t̪]
+          * krrit: [k rʲ i t̪]
           * grill: [ɡ rʲ i l]
-          * erich: [ɛ rʲ i x]
     ```
   - ```{ipa_cell}
     ```
@@ -439,24 +443,24 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 18587
+        * Occurances: 19611
         * Examples
-          * lale: [l a l ɛ]
-          * ruble: [r u b l ɛ]
-          * kolom: [k ɔ l ɔ m]
-          * oblak: [ɔ b l a k]
+          * plaża: [p l a ʐ a]
+          * lud: [l u t̪]
+          * kufel: [k u f ɛ l]
+          * palny: [p a l n̪ ɨ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 7282
+        * Occurances: 7801
         * Examples
-          * lider: [ʎ i d̪ ɛ r]
-          * lipą: [ʎ i p ɔ̃]
-          * ligo: [ʎ i ɡ ɔ]
-          * ulice: [u ʎ i t̪s̪ ɛ]
+          * dęli: [d̪ ɛ ʎ i]
+          * żalić: [ʐ a ʎ i tɕ]
+          * poili: [p ɔ i ʎ i]
+          * libji: [ʎ i bʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -465,7 +469,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -482,36 +490,36 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 43185
+        * Occurances: 45936
         * Examples
-          * cucić: [t̪s̪ u tɕ i tɕ]
-          * łokci: [w ɔ k tɕ i]
-          * męki: [m ɛ ŋ c i]
-          * smoki: [s̪ m ɔ c i]
+          * rubis: [r u bʲ i s̪]
+          * idrys: [i d̪ r ɨ s̪]
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
+          * dęli: [d̪ ɛ ʎ i]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 42801
+        * Occurances: 46173
         * Examples
-          * słysz: [s̪ w ɨ ʂ]
-          * zony: [z̪ ɔ n̪ ɨ]
-          * zych: [z̪ ɨ x]
-          * pacy: [p a t̪s̪ ɨ]
+          * brydż: [b r ɨ tʂ]
+          * idrys: [i d̪ r ɨ s̪]
+          * dójmy: [d̪ u j m ɨ]
+          * rodny: [r ɔ d̪ n̪ ɨ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 32136
+        * Occurances: 34225
         * Examples
-          * sług: [s̪ w u k]
-          * cucić: [t̪s̪ u tɕ i tɕ]
-          * róg: [r u k]
-          * upału: [u p a w u]
+          * rubis: [r u bʲ i s̪]
+          * płucz: [p w u tʂ]
+          * cnemu: [t̪s̪ n̪ ɛ m u]
+          * chóru: [x u r u]
     ```
 * -
   - ```{ipa_cell}
@@ -550,12 +558,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 81746
+        * Occurances: 87554
         * Examples
-          * całem: [t̪s̪ a w ɛ m]
-          * męki: [m ɛ ŋ c i]
-          * lale: [l a l ɛ]
-          * gnę: [ɡ n̪ ɛ]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * media: [m ɛ d̪ j a]
+          * mchem: [m x ɛ m]
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -566,12 +574,12 @@
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 84517
+        * Occurances: 90227
         * Examples
-          * zony: [z̪ ɔ n̪ ɨ]
-          * łokci: [w ɔ k tɕ i]
-          * pionu: [pʲ ɔ n̪ u]
-          * kolom: [k ɔ l ɔ m]
+          * pojęć: [p ɔ j ɛ ɲ tɕ]
+          * idące: [i d̪ ɔ n̪ t̪s̪ ɛ]
+          * odna: [ɔ d̪ n̪ a]
+          * łonie: [w ɔ ɲ ɛ]
     ```
 * -
   - ```{ipa_cell}
@@ -592,12 +600,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 103033
+        * Occurances: 109699
         * Examples
-          * całem: [t̪s̪ a w ɛ m]
-          * panią: [p a ɲ ɔ̃]
-          * upału: [u p a w u]
-          * lale: [l a l ɛ]
+          * kram: [k r a m]
+          * media: [m ɛ d̪ j a]
+          * odna: [ɔ d̪ n̪ a]
+          * plaża: [p l a ʐ a]
     ```
   - ```{ipa_cell}
     ```
@@ -606,7 +614,7 @@
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -667,12 +675,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ̃
-        * Occurances: 1085
+        * Occurances: 1176
         * Examples
-          * cięży: [tɕ ɛ̃ ʐ ɨ]
-          * gęsim: [ɡ ɛ̃ ɕ i m]
-          * orężu: [ɔ r ɛ̃ ʐ u]
-          * gęsią: [ɡ ɛ̃ ɕ ɔ̃]
+          * zęza: [z̪ ɛ̃ z̪ a]
+          * węchu: [v ɛ̃ x u]
+          * rzęzi: [ʐ ɛ̃ ʑ i]
+          * gęsta: [ɡ ɛ̃ s̪ t̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -683,12 +691,12 @@
   - ```{ipa_cell}
     * rounded
       * ɔ̃
-        * Occurances: 6631
+        * Occurances: 7213
         * Examples
-          * panią: [p a ɲ ɔ̃]
-          * łają: [w a j ɔ̃]
-          * równą: [r u v n̪ ɔ̃]
-          * rawką: [r a f k ɔ̃]
+          * grową: [ɡ r ɔ v ɔ̃]
+          * wrą: [v r ɔ̃]
+          * życzą: [ʐ ɨ tʂ ɔ̃]
+          * luną: [l u n̪ ɔ̃]
     ```
 * -
   - ```{ipa_cell}

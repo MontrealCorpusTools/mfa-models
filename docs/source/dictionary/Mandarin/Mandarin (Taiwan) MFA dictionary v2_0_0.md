@@ -29,6 +29,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -48,10 +50,10 @@
       * m
         * Occurances: 7105
         * Examples
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
-          * 勃蘭登堡門: [p w o˧˥ l a˧˥ n t o˥˥ ŋ p au˨˩˦ m ə˧˥ n]
-          * 龍王廟: [l u˧˥ ŋ w a˧˥ ŋ m j au˥˩]
-          * 申命紀: [ʂ ə˥˥ n m i˥˩ ŋ tɕ i˥˩]
+          * 刀削麵: [t au˥˥ ɕ j au˥˥ m j e˥˩ n]
+          * 人稱代名詞: [ʐ ə˧˥ n ʈʂʰ o˥˥ ŋ t ai˥˩ m i˧˥ ŋ tsʰ z̩˧˥]
+          * 芝麻灣: [ʈʂ ʐ̩˥˥ m a˨ w a˥˥ n]
+          * 馬拉維: [m a˨˩˦ l a˥˥ w ei˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -60,10 +62,10 @@
       * n
         * Occurances: 39160
         * Examples
-          * 昆士蘭栗: [kʰ w ə˥˥ n ʂ ʐ̩˥˩ l a˧˥ n l i˥˩]
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 訊雜比: [ɕ y˥˩ n ts a˧˥ p i˨˩˦]
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
+          * 太空站: [tʰ ai˥˩ kʰ u˥˥ ŋ ʈʂ a˥˩ n]
+          * 南華經: [n a˧˥ n x w a˧˥ tɕ i˥˥ ŋ]
+          * 義和團: [i˥˩ x o˧˥ tʰ w a˧˥ n]
+          * 對稱性: [t w ei˥˩ ʈʂʰ ə˥˩ n ɕ i˥˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -74,26 +76,26 @@
       * ŋ
         * Occurances: 30436
         * Examples
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
-          * 拖網漁船: [tʰ w o˥˥ w a˨˩˦ ŋ y˧˥ ʈʂʰ w a˧˥ n]
-          * 鼕至線: [t u˥˥ ŋ ʈʂ ʐ̩˥˩ ɕ j e˥˩ n]
-          * 公寓大樓: [k u˥˥ ŋ y˥˩ t a˥˩ l ou˧˥]
+          * 太空站: [tʰ ai˥˩ kʰ u˥˥ ŋ ʈʂ a˥˩ n]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 南華經: [n a˧˥ n x w a˧˥ tɕ i˥˥ ŋ]
+          * 對稱性: [t w ei˥˩ ʈʂʰ o˥˩ ŋ ɕ i˥˩ ŋ]
       * ŋ̍
         * Occurances: 2
         * Examples
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
         * Occurances: 9354
         * Examples
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 訊雜比: [ɕ y˥˩ n ts a˧˥ p i˨˩˦]
-          * 勃蘭登堡門: [p w o˧˥ l a˧˥ n t o˥˥ ŋ p au˨˩˦ m ə˧˥ n]
-          * 連讀變調: [l j e˧˥ n t u˧˥ p j e˥˩ n tʰ j au˧˥]
+          * 提比裏斯: [tʰ i˧˥ p i˨˩˦ l i˨˩˦ s z̩˥˥]
+          * 大小便: [t a˥˩ ɕ j au˨˩˦ p j e˥˩ n]
+          * 苯甲酸鈉: [p ə˨˩˦ n tɕ j a˨˩˦ s w a˥˥ n n a˥˩]
+          * 康巴語: [kʰ a˥˥ ŋ p a˥˥ y˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -102,10 +104,10 @@
       * t
         * Occurances: 11030
         * Examples
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 鼕至線: [t u˥˥ ŋ ʈʂ ʐ̩˥˩ ɕ j e˥˩ n]
-          * 公寓大樓: [k u˥˥ ŋ y˥˩ t a˥˩ l ou˧˥]
-          * 地下鐵路: [t i˥˩ ɕ j a˥˩ tʰ j e˨˩˦ l u˥˩]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 對稱性: [t w ei˥˩ ʈʂʰ o˥˩ ŋ ɕ i˥˩ ŋ]
+          * 雜貨店: [ts a˧˥ x w o˥˩ t j e˥˩ n]
+          * 大團圓: [t a˥˩ tʰ w a˧˥ n ɥ e˧˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -116,61 +118,22 @@
       * k
         * Occurances: 8160
         * Examples
-          * 格拉斯哥: [k o˧˥ l a˥˥ s z̩˥˥ k o˥˥]
-          * 一個人: [i˥˥ k o˥˩ ʐ ə˧˥ n]
-          * 公寓大樓: [k u˥˥ ŋ y˥˩ t a˥˩ l ou˧˥]
-          * 觀察力: [k w a˥˥ n ʈʂʰ a˧˥ l i˥˩]
+          * 工業國: [k u˥˥ ŋ j e˥˩ k w o˧˥]
+          * 霍爾果斯河: [x w o˥˩ ʔ o˨˩˦ ɻ k w o˨˩˦ s z̩˥˥ x o˧˥]
+          * 麯棍球: [tɕʰ y˥˥ k w ə˥˩ n tɕʰ j ou˧˥]
+          * 慣用語: [k w a˥˩ n j u˥˩ ŋ y˨˩˦]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 3497
         * Examples
-          * 歐亞猞猁: [ʔ ou˥˥ j a˥˩ ʂ o˥˥ l i˥˩]
-          * 艾古斯: [ʔ ai˥˩ k u˨˩˦ s z̩˥˥]
-          * 額魯特: [ʔ o˧˥ l u˨˩˦ tʰ o˥˩]
-          * 嘔吐物: [ʔ ou˨˩˦ tʰ u˥˩ u˥˩]
+          * 霍爾果斯河: [x w o˥˩ ʔ o˨˩˦ ɻ k w o˨˩˦ s z̩˥˥ x o˧˥]
+          * 俄羅斯人: [ʔ o˧˥ l w o˧˥ s z̩˥˥ ʐ ə˧˥ n]
+          * 安全燈: [ʔ a˥˥ n tɕʰ ɥ e˧˥ n t o˥˥ ŋ]
+          * 國傢安全: [k w o˧˥ tɕ j a˥˥ ʔ a˥˥ n tɕʰ ɥ e˧˥ n]
     ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 3806
-        * Examples
-          * 絲織品: [s z̩˥˥ ʈʂ ʐ̩˥˥ pʰ i˨˩˦ n]
-          * 鍵盤樂器: [tɕ j e˥˩ n pʰ a˧˥ n ɥ e˥˩ tɕʰ i˥˩]
-          * 青皮木: [tɕʰ i˥˥ ŋ pʰ i˧˥ m u˥˩]
-          * 一屁股: [i˥˥ pʰ i˥˩ k u˩]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 7459
-        * Examples
-          * 沱沱河: [tʰ w o˧˥ tʰ w o˧˥ x o˧˥]
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
-          * 拖網漁船: [tʰ w o˥˥ w a˨˩˦ ŋ y˧˥ ʈʂʰ w a˧˥ n]
-          * 地下鐵路: [t i˥˩ ɕ j a˥˩ tʰ j e˨˩˦ l u˥˩]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 4041
-        * Examples
-          * 昆士蘭栗: [kʰ w ə˥˥ n ʂ ʐ̩˥˩ l a˧˥ n l i˥˩]
-          * 鑰匙扣: [j au˥˩ ʂ ʐ̩˩ kʰ ou˥˩]
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
-          * 郵科院: [j ou˧˥ kʰ o˥˥ ɥ e˥˩ n]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Affricate` {submanner}`Plain`
+* - {manner}`Affricate`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -180,69 +143,30 @@
       * ts
         * Occurances: 5010
         * Examples
-          * 訊雜比: [ɕ y˥˩ n ts a˧˥ p i˨˩˦]
-          * 丁剋族: [t i˥˥ ŋ kʰ o˥˩ ts u˧˥]
-          * 載貨汽車: [ts ai˥˩ x w o˥˩ tɕʰ i˥˩ ʈʂʰ o˥˥]
-          * 杜鬆子酒: [t u˥˩ s u˥˥ ŋ ts z̩˨˩˦ tɕ j ou˨˩˦]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 雜貨店: [ts a˧˥ x w o˥˩ t j e˥˩ n]
+          * 犯罪學者: [f a˥˩ n ts w ei˥˩ ɕ ɥ e˧˥ ʈʂ o˨˩˦]
+          * 信用閤作社: [ɕ i˥˩ n j u˥˩ ŋ x o˧˥ ts w o˥˩ ʂ o˥˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈʂ
         * Occurances: 9431
         * Examples
-          * 絲織品: [s z̩˥˥ ʈʂ ʐ̩˥˥ pʰ i˨˩˦ n]
-          * 鼕至線: [t u˥˥ ŋ ʈʂ ʐ̩˥˩ ɕ j e˥˩ n]
-          * 建築學: [tɕ j e˥˩ n ʈʂ u˥˩ ɕ ɥ e˧˥]
-          * 甘油三酸酯: [k a˥˥ n j ou˧˥ s a˥˥ n s w a˥˥ n ʈʂ ʐ̩˨˩˦]
+          * 太空站: [tʰ ai˥˩ kʰ u˥˥ ŋ ʈʂ a˥˩ n]
+          * 犯罪學者: [f a˥˩ n ts w ei˥˩ ɕ ɥ e˧˥ ʈʂ o˨˩˦]
+          * 腳趾甲: [tɕ j au˨˩˦ ʈʂ ʐ̩˨˩˦ tɕ j a˦]
+          * 教職員: [tɕ j au˥˩ ʈʂ ʐ̩˧˥ ɥ e˧˥ n]
     ```
   - ```{ipa_cell}
     * voiceless
       * tɕ
         * Occurances: 13254
         * Examples
-          * 技術科學: [tɕ i˥˩ ʂ u˥˩ kʰ o˥˥ ɕ ɥ e˧˥]
-          * 金星人: [tɕ i˥˥ n ɕ i˥˥ ŋ ʐ ə˧˥ n]
-          * 鍵盤樂器: [tɕ j e˥˩ n pʰ a˧˥ n ɥ e˥˩ tɕʰ i˥˩]
-          * 花時間: [x w a˥˥ ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tsʰ
-        * Occurances: 2535
-        * Examples
-          * 體操運動員: [tʰ i˨˩˦ tsʰ au˥˥ y˥˩ n t u˥˩ ŋ ɥ e˧˥ n]
-          * 由此可見: [j ou˧˥ tsʰ z̩˨˩˦ kʰ o˨˩˦ tɕ j e˥˩ n]
-          * 亞哈斯: [j a˥˩ x a˥˥ tsʰ z̩˥˩]
-          * 參變量: [tsʰ a˥˥ n p j e˥˩ n l j a˥˩ ŋ]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * ʈʂʰ
-        * Occurances: 6275
-        * Examples
-          * 拖網漁船: [tʰ w o˥˥ w a˨˩˦ ŋ y˧˥ ʈʂʰ w a˧˥ n]
-          * 觀察力: [k w a˥˥ n ʈʂʰ a˧˥ l i˥˩]
-          * 小石城: [ɕ j au˨˩˦ ʂ ʐ̩˧˥ ʈʂʰ o˧˥ ŋ]
-          * 購物城: [k ou˥˩ u˥˩ ʈʂʰ o˧˥ ŋ]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tɕʰ
-        * Occurances: 6491
-        * Examples
-          * 鍵盤樂器: [tɕ j e˥˩ n pʰ a˧˥ n ɥ e˥˩ tɕʰ i˥˩]
-          * 搜尋引擎: [s ou˥˥ ɕ y˧˥ n i˨˩˦ n tɕʰ i˧˥ ŋ]
-          * 一夜情: [i˥˥ j e˥˩ tɕʰ i˧˥ ŋ]
-          * 載貨汽車: [ts ai˥˩ x w o˥˩ tɕʰ i˥˩ ʈʂʰ o˥˥]
+          * 南華經: [n a˧˥ n x w a˧˥ tɕ i˥˥ ŋ]
+          * 孫傢畈: [s w ə˥˥ n tɕ j a˥˥ f a˥˩ n]
+          * 腳趾甲: [tɕ j au˨˩˦ ʈʂ ʐ̩˨˩˦ tɕ j a˦]
+          * 天地間: [tʰ j e˥˥ n t i˥˩ tɕ j e˥˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -258,53 +182,53 @@
       * s
         * Occurances: 4814
         * Examples
-          * 格拉斯哥: [k o˧˥ l a˥˥ s z̩˥˥ k o˥˥]
-          * 絲織品: [s z̩˥˥ ʈʂ ʐ̩˥˥ pʰ i˨˩˦ n]
-          * 搜尋引擎: [s ou˥˥ ɕ y˧˥ n i˨˩˦ n tɕʰ i˧˥ ŋ]
-          * 三閤垸: [s a˥˥ n x o˧˥ ɥ e˥˩ n]
+          * 提比裏斯: [tʰ i˧˥ p i˨˩˦ l i˨˩˦ s z̩˥˥]
+          * 孫傢畈: [s w ə˥˥ n tɕ j a˥˥ f a˥˩ n]
+          * 撕裂傷: [s z̩˥˥ l j e˥˩ ʂ a˥˥ ŋ]
+          * 霍爾果斯河: [x w o˥˩ ʔ o˨˩˦ ɻ k w o˨˩˦ s z̩˥˥ x o˧˥]
     * voiced
       * z̩
         * Occurances: 4182
         * Examples
-          * 格拉茨: [k o˧˥ l a˥˥ tsʰ z̩˧˥]
-          * 大姨子: [t a˥˩ i˧˥ ts z̩˨]
-          * 給麵子: [k ei˨˩˦ m j e˥˩ n ts z̩˩]
-          * 死巷子: [s z̩˨˩˦ ɕ j a˥˩ ŋ ts z̩˩]
+          * 熊孩子: [ɕ j u˧˥ ŋ x ai˧˥ ts z̩˨]
+          * 文房四寶: [w ə˧˥ n f a˧˥ ŋ s z̩˥˩ p au˨˩˦]
+          * 兜圈子: [t ou˥˥ tɕʰ ɥ e˥˥ n ts z̩˨]
+          * 藥粉子: [j au˥˩ f ə˨˩˦ n ts z̩˦]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 12045
         * Examples
-          * 昆士蘭栗: [kʰ w ə˥˥ n ʂ ʐ̩˥˩ l a˧˥ n l i˥˩]
-          * 鑰匙扣: [j au˥˩ ʂ ʐ̩˩ kʰ ou˥˩]
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 技術科學: [tɕ i˥˩ ʂ u˥˩ kʰ o˥˥ ɕ ɥ e˧˥]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 七十一: [tɕʰ i˥˥ ʂ ʐ̩˧˥ i˥˥]
+          * 兩頭蛇: [l j a˨˩˦ ŋ tʰ ou˧˥ ʂ o˧˥]
+          * 手推車: [ʂ ou˨˩˦ tʰ w ei˥˥ ʈʂʰ o˥˥]
     * voiced
       * ʐ
         * Occurances: 2738
         * Examples
-          * 一個人: [i˥˥ k o˥˩ ʐ ə˧˥ n]
-          * 金星人: [tɕ i˥˥ n ɕ i˥˥ ŋ ʐ ə˧˥ n]
-          * 黃種人: [x w a˧˥ ŋ ʈʂ u˨˩˦ ŋ ʐ ə˧˥ n]
-          * 擬人化: [n i˨˩˦ ʐ ə˧˥ n x w a˥˩]
+          * 俄羅斯人: [ʔ o˧˥ l w o˧˥ s z̩˥˥ ʐ ə˧˥ n]
+          * 人稱代名詞: [ʐ ə˧˥ n ʈʂʰ o˥˥ ŋ t ai˥˩ m i˧˥ ŋ tsʰ z̩˧˥]
+          * 原來如此: [ɥ e˧˥ n l ai˧˥ ʐ u˧˥ tsʰ z̩˨˩˦]
+          * 發酵乳: [f a˥˥ tɕ j au˥˩ ʐ u˨˩˦]
       * ʐ̩
         * Occurances: 7056
         * Examples
-          * 實驗鼠: [ʂ ʐ̩˧˥ j e˥˩ n ʂ u˨˩˦]
-          * 知識產權: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ ʈʂʰ a˨˩˦ n tɕʰ ɥ e˧˥ n]
-          * 知識人: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ ʐ ə˧˥ n]
-          * 賠不是: [pʰ ei˧˥ p u˥˩ ʂ ʐ̩˩]
+          * 芝麻灣: [ʈʂ ʐ̩˥˥ m a˨ w a˥˥ n]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 知識工人: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ k u˥˥ ŋ ʐ ə˧˥ n]
+          * 知識青年: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ tɕʰ i˥˥ ŋ n j e˧˥ n]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 11432
         * Examples
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 訊雜比: [ɕ y˥˩ n ts a˧˥ p i˨˩˦]
-          * 鼕至線: [t u˥˥ ŋ ʈʂ ʐ̩˥˩ ɕ j e˥˩ n]
-          * 地下鐵路: [t i˥˩ ɕ j a˥˩ tʰ j e˨˩˦ l u˥˩]
+          * 對稱性: [t w ei˥˩ ʈʂʰ o˥˩ ŋ ɕ i˥˩ ŋ]
+          * 犯罪學者: [f a˥˩ n ts w ei˥˩ ɕ ɥ e˧˥ ʈʂ o˨˩˦]
+          * 行星係統: [ɕ i˧˥ ŋ ɕ i˥˥ ŋ ɕ i˥˩ tʰ u˨˩˦ ŋ]
+          * 發祥地: [f a˥˥ ɕ j a˧˥ ŋ t i˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -318,10 +242,10 @@
       * f
         * Occurances: 5888
         * Examples
-          * 恭王府: [k u˥˥ ŋ w a˧˥ ŋ f u˨˩˦]
-          * 反過來: [f a˨˩˦ n k w o˥˩ l ai˧˥]
-          * 以弗所: [i˨˩˦ f u˧˥ s w o˨˩˦]
-          * 以弗所書: [i˨˩˦ f u˧˥ s w o˨˩˦ ʂ u˥˥]
+          * 犯罪學者: [f a˥˩ n ts w ei˥˩ ɕ ɥ e˧˥ ʈʂ o˨˩˦]
+          * 孫傢畈: [s w ə˥˥ n tɕ j a˥˥ f a˥˩ n]
+          * 發祥地: [f a˥˥ ɕ j a˧˥ ŋ t i˥˩]
+          * 十六分音符: [ʂ ʐ̩˧˥ l j ou˥˩ f ə˥˥ n i˥˥ n f u˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -330,19 +254,19 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 9036
-        * Examples
-          * 沱沱河: [tʰ w o˧˥ tʰ w o˧˥ x o˧˥]
-          * 花時間: [x w a˥˥ ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 石灰窯: [ʂ ʐ̩˧˥ x w ei˥˥ j au˧˥]
-          * 三閤垸: [s a˥˥ n x o˧˥ ɥ e˥˩ n]
     ```
   - ```{ipa_cell}
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 22265
+        * Examples
+          * 南華經: [n a˧˥ n x w a˧˥ tɕ i˥˥ ŋ]
+          * 義和團: [i˥˩ x o˧˥ tʰ w a˧˥ n]
+          * 對稱性: [t w ei˥˩ ʈʂʰ o˥˩ ŋ ɕ i˥˩ ŋ]
+          * 雜貨店: [ts a˧˥ x w o˥˩ t j e˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -353,27 +277,27 @@
       * ɻ
         * Occurances: 1414
         * Examples
-          * 上半天兒: [ʂ a˥˩ ŋ p a˥˩ n tʰ j a˥˥ ɻ]
-          * 瓦爾喀部: [w a˨˩˦ ʔ o˨˩˦ ɻ kʰ a˥˥ p u˥˩]
-          * 小貓兒: [ɕ j au˨˩˦ m au˥˥ ɻ]
-          * 第十二: [t i˥˩ ʂ ʐ̩˧˥ ʔ o˥˩ ɻ]
+          * 霍爾果斯河: [x w o˥˩ ʔ o˨˩˦ ɻ k w o˨˩˦ s z̩˥˥ x o˧˥]
+          * 九二年: [tɕ j ou˨˩˦ ʔ o˥˩ ɻ n j e˧˥ n]
+          * 十二宮: [ʂ ʐ̩˧˥ ʔ o˥˩ ɻ k u˥˥ ŋ]
+          * 二十世紀: [ʔ o˥˩ ɻ ʂ ʐ̩˧˥ ʂ ʐ̩˥˩]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 27399
         * Examples
-          * 鑰匙扣: [j au˥˩ ʂ ʐ̩˩ kʰ ou˥˩]
-          * 大阪狹山: [t a˥˩ p a˨˩˦ n ɕ j a˧˥ ʂ a˥˥ n]
-          * 郵科院: [j ou˧˥ kʰ o˥˥ ɥ e˥˩ n]
-          * 鼕至線: [t u˥˥ ŋ ʈʂ ʐ̩˥˩ ɕ j e˥˩ n]
+          * 雜貨店: [ts a˧˥ x w o˥˩ t j e˥˩ n]
+          * 兩頭蛇: [l j a˨˩˦ ŋ tʰ ou˧˥ ʂ o˧˥]
+          * 孫傢畈: [s w ə˥˥ n tɕ j a˥˥ f a˥˩ n]
+          * 工業國: [k u˥˥ ŋ j e˥˩ k w o˧˥]
       * ɥ
         * Occurances: 4285
         * Examples
-          * 郵科院: [j ou˧˥ kʰ o˥˥ ɥ e˥˩ n]
-          * 技術科學: [tɕ i˥˩ ʂ u˥˩ kʰ o˥˥ ɕ ɥ e˧˥]
-          * 鍵盤樂器: [tɕ j e˥˩ n pʰ a˧˥ n ɥ e˥˩ tɕʰ i˥˩]
-          * 建築學: [tɕ j e˥˩ n ʈʂ u˥˩ ɕ ɥ e˧˥]
+          * 犯罪學者: [f a˥˩ n ts w ei˥˩ ɕ ɥ e˧˥ ʈʂ o˨˩˦]
+          * 大團圓: [t a˥˩ tʰ w a˧˥ n ɥ e˧˥ n]
+          * 教職員: [tɕ j au˥˩ ʈʂ ʐ̩˧˥ ɥ e˧˥ n]
+          * 月經週期: [ɥ e˥˩ tɕ i˥˥ ŋ ʈʂ ou˥˥ tɕʰ i˥˥]
     ```
   - ```{ipa_cell}
     ```
@@ -389,10 +313,10 @@
       * l
         * Occurances: 11655
         * Examples
-          * 昆士蘭栗: [kʰ w ə˥˥ n ʂ ʐ̩˥˩ l a˧˥ n l i˥˩]
-          * 格拉斯哥: [k o˧˥ l a˥˥ s z̩˥˥ k o˥˥]
-          * 公寓大樓: [k u˥˥ ŋ y˥˩ t a˥˩ l ou˧˥]
-          * 地下鐵路: [t i˥˩ ɕ j a˥˩ tʰ j e˨˩˦ l u˥˩]
+          * 宗徒大事錄: [ts u˥˥ ŋ tʰ u˧˥ t a˥˩ ʂ ʐ̩˥˩ l u˥˩]
+          * 提比裏斯: [tʰ i˧˥ p i˨˩˦ l i˨˩˦ s z̩˥˥]
+          * 兩頭蛇: [l j a˨˩˦ ŋ tʰ ou˧˥ ʂ o˧˥]
+          * 撕裂傷: [s z̩˥˥ l j e˥˩ ʂ a˥˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -406,6 +330,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -424,18 +350,18 @@
       * i
         * Occurances: 28680
         * Examples
-          * 以弗所: [i˨˩˦ f u˧˥ s w o˨˩˦]
-          * 昆士蘭栗: [kʰ w ə˥˥ n ʂ ʐ̩˥˩ l a˧˥ n l i˥˩]
-          * 擋風玻璃: [t a˨˩˦ ŋ f o˥˥ ŋ p w o˥˥ l i˨]
-          * 技術科學: [tɕ i˥˩ ʂ u˥˩ kʰ o˥˥ ɕ ɥ e˧˥]
+          * 記性兒: [tɕ i˥˩ ɕ i˩ ɻ]
+          * 哩哩囉囉: [l i˥˥ l i˨ l w o˥˥ l w o˥˥]
+          * 七十一: [tɕʰ i˥˥ ʂ ʐ̩˧˥ i˥˥]
+          * 有關係: [j ou˨˩˦ k w a˥˥ n ɕ i˨]
     * rounded
       * y
         * Occurances: 5772
         * Examples
           * 姪女婿: [ʈʂ ʐ̩˧˥ n y˨˩˦ ɕ y˦]
-          * 閤唱麯: [x o˧˥ ʈʂʰ a˥˩ ŋ tɕʰ y˨˩˦]
-          * 平均主義: [pʰ i˧˥ ŋ tɕ y˥˥ n ʈʂ u˨˩˦ i˥˩]
+          * 調和平均數: [tʰ j au˧˥ x o˧˥ pʰ i˧˥ ŋ tɕ y˥˥ n ʂ u˥˩]
           * 外甥女婿: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦ ɕ y˦]
+          * 麯項琵琶: [tɕʰ y˥˥ ɕ j a˥˩ ŋ pʰ i˧˥ pʰ a˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -448,10 +374,10 @@
       * u
         * Occurances: 22611
         * Examples
-          * 恭王府: [k u˥˥ ŋ w a˧˥ ŋ f u˨˩˦]
-          * 閒工夫: [ɕ j e˧˥ n k u˥˥ ŋ f u˨]
-          * 葫蘆絲: [x u˧˥ l u˨ s z̩˥˥]
-          * 連讀變調: [l j e˧˥ n t u˧˥ p j e˥˩ n tʰ j au˧˥]
+          * 媳婦兒: [ɕ i˧˥ f u˨ ɻ]
+          * 老祖宗: [l au˨˩˦ ts u˨˩˦ ts u˦ ŋ]
+          * 輔助語: [f u˨˩˦ ʈʂ u˥˩ y˨˩˦]
+          * 行不通: [ɕ i˧˥ ŋ p u˨ tʰ u˥˥ ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -470,10 +396,10 @@
       * e
         * Occurances: 16156
         * Examples
-          * 技術科學: [tɕ i˥˩ ʂ u˥˩ kʰ o˥˥ ɕ ɥ e˧˥]
-          * 花時間: [x w a˥˥ ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 瓜子臉: [k w a˥˥ ts z̩˨˩˦ l j e˨˩˦ n]
-          * 新姑爺: [ɕ i˥˥ n k u˥˥ j e˨]
+          * 心血管: [ɕ i˥˥ n ɕ j e˨˩˦ k w a˨˩˦ n]
+          * 丈八點鋼矛: [ʈʂ a˥˩ ŋ p a˥˥ t j e˨˩˦ n k a˥˥ ŋ m au˧˥]
+          * 歇斯底裏: [ɕ j e˥˥ s z̩˥˥ t i˨˩˦ l i˨˩˦]
+          * 安全燈: [ʔ a˥˥ n tɕʰ ɥ e˧˥ n t o˥˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -486,10 +412,10 @@
       * o
         * Occurances: 19882
         * Examples
-          * 以弗所: [i˨˩˦ f u˧˥ s w o˨˩˦]
-          * 外甥女: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦]
-          * 可塔朵: [kʰ o˨˩˦ tʰ a˨˩˦ t w o˨˩˦]
-          * 郵科院: [j ou˧˥ kʰ o˥˥ ɥ e˥˩ n]
+          * 小先生: [ɕ j au˨˩˦ ɕ j e˥˥ n ʂ o˨ ŋ]
+          * 卵胎生: [l w a˨˩˦ n tʰ ai˥˥ ʂ o˥˥ ŋ]
+          * 老伯伯: [l au˨˩˦ p w o˧˥ p w o˨]
+          * 手推車: [ʂ ou˨˩˦ tʰ w ei˥˥ ʈʂʰ o˥˥]
     ```
 * -
   - ```{ipa_cell}
@@ -501,10 +427,10 @@
       * ə
         * Occurances: 7328
         * Examples
-          * 齋米粉: [ʈʂ ai˥˥ m i˨˩˦ f ə˨˩˦ n]
-          * 幹什麼: [k a˥˩ n ʂ ə˧˥ n m ə˨]
-          * 涼粉草: [l j a˧˥ ŋ f ə˨˩˦ n tsʰ au˨˩˦]
-          * 一個人: [i˥˥ k o˥˩ ʐ ə˧˥ n]
+          * 想得開: [ɕ j a˨˩˦ ŋ t ə˦ kʰ ai˥˥]
+          * 混混兒: [x w ə˥˩ n x w ə˩ ɻ]
+          * 什麼的: [ʂ ə˧˥ n m ə˨ t ə˩]
+          * 十六分音符: [ʂ ʐ̩˧˥ l j ou˥˩ f ə˥˥ n i˥˥ n f u˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -542,10 +468,10 @@
       * a
         * Occurances: 36127
         * Examples
-          * 麥剋唐納: [m ai˥˩ kʰ o˥˩ tʰ a˧˥ ŋ n a˥˩]
-          * 公寓大樓: [k u˥˥ ŋ y˥˩ t a˥˩ l ou˧˥]
-          * 地下鐵路: [t i˥˩ ɕ j a˥˩ tʰ j e˨˩˦ l u˥˩]
-          * 可塔朵: [kʰ o˨˩˦ tʰ a˨˩˦ t w o˨˩˦]
+          * 義和團: [i˥˩ x o˧˥ tʰ w a˧˥ n]
+          * 準媽媽: [ʈʂ w ə˨˩˦ n m a˥˥ m a˨]
+          * 南華經: [n a˧˥ n x w a˧˥ tɕ i˥˥ ŋ]
+          * 指甲剪: [ʈʂ ʐ̩˨˩˦ tɕ j a˦ tɕ j e˨˩˦ n]
     ```
   - ```{ipa_cell}
     ```
@@ -554,14 +480,14 @@
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`ai`
 * {ipa_inline}`au`
 * {ipa_inline}`ei`
 * {ipa_inline}`ou`
 
-### Tones
+#### Tones
 
 * {ipa_inline}`˥˥`
 * {ipa_inline}`˥˩`

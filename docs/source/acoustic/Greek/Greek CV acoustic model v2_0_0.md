@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Greek_v7_0`:
-  * **Hours:** `13.00`
-  * **Speakers:** `178`
-  * **Utterances:** `11,609`
+   * {ref}`Common_Voice_Greek_v7_0`:
+     * **Hours:** `13.00`
+     * **Speakers:** `178`
+     * **Utterances:** `11,609`
    ```
 
 

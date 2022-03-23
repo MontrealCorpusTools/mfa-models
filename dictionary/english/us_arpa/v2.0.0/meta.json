@@ -77,8 +77,8 @@
         "Z",
         "ZH"
     ],
-    "word_count": 199880,
-    "train_date": "2022-03-12",
+    "word_count": 199858,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@article{\n\tgorman2011prosodylab,\n\tauthor={Gorman, Kyle and Howell, Jonathan and Wagner, Michael},\n\ttitle={Prosodylab-aligner: A tool for forced alignment of laboratory speech},\n\tjournal={Canadian Acoustics},\n\tvolume={39},\n\tnumber={3},\n\tpages={192--193},\n\tyear={2011}\n}"
 }

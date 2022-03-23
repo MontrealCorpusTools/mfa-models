@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * m
         * Occurances: 1921
         * Examples
-          * min:: [m ɪ n]
-          * xemlê: [x ɛ m l eː]
-          * zexim: [z ɛ x ɪ m]
-          * sema: [s ɛ m aː]
+          * “hemû: [h ɛ m uː]
+          * mêrgê: [m eː ɾ ɡ eː]
+          * emê: [ɛ m eː]
+          * mêr.: [m eː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -64,10 +66,10 @@
       * n
         * Occurances: 6033
         * Examples
-          * negre: [n ɛ ɡ ɾ ɛ]
-          * rojên: [ɾ o ʒ eː n]
-          * navê: [n aː v eː]
-          * min:: [m ɪ n]
+          * yên: [j eː n]
+          * in,: [ɪ n]
+          * nade.: [n aː d ɛ]
+          * sozên: [s o z eː n]
     ```
   - ```{ipa_cell}
     ```
@@ -78,10 +80,10 @@
       * ŋ
         * Occurances: 184
         * Examples
-          * bang: [b aː ŋ]
-          * rengê: [ɾ ɛ ŋ eː]
-          * teng: [t ɛ ŋ]
-          * lingê: [l ɪ ŋ eː]
+          * renge: [ɾ ɛ ŋ ɛ]
+          * rengî: [ɾ ɛ ŋ iː]
+          * çeng: [t͡ʃ ɛ ŋ]
+          * mangê: [m aː ŋ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -93,18 +95,18 @@
       * p
         * Occurances: 846
         * Examples
-          * binpê: [b ɪ n p eː]
-          * pez,: [p ɛ z]
-          * pak: [p aː k]
-          * pûka: [p uː k aː]
+          * piyê: [p ɪ j eː]
+          * penîr: [p ɛ n iː ɾ]
+          * pîroz: [p iː ɾ o z]
+          * hesp: [h ɛ s p]
     * voiced
       * b
         * Occurances: 2249
         * Examples
-          * şorbe: [ʃ o ɾ b ɛ]
-          * rabû: [ɾ aː b uː]
-          * bibû: [b ɪ b uː]
-          * binpê: [b ɪ n p eː]
+          * borî: [b o ɾ iː]
+          * qebûl: [q ɛ b uː l]
+          * bixwî: [b ɪ x w iː]
+          * hebû,: [h ɛ b uː]
     ```
   - ```{ipa_cell}
     ```
@@ -113,18 +115,18 @@
       * t
         * Occurances: 2361
         * Examples
-          * heyet: [h ɛ j ɛ t]
-          * tune!: [t u n ɛ]
-          * tîne.: [t iː n ɛ]
-          * karta: [k aː ɾ t aː]
+          * tora: [t o ɾ aː]
+          * tarî.: [t aː ɾ iː]
+          * tibbî: [t ɪ b b iː]
+          * tişt: [t ɪ ʃ t]
     * voiced
       * d
         * Occurances: 2694
         * Examples
-          * divê: [d ɪ v eː]
-          * sûd: [s uː d]
-          * azadî: [aː z aː d iː]
-          * evd: [ɛ v d]
+          * êdî: [eː d iː]
+          * dozê.: [d o z eː]
+          * doza: [d o z aː]
+          * nade.: [n aː d ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -135,28 +137,28 @@
       * k
         * Occurances: 2895
         * Examples
-          * kêş: [k eː ʃ]
-          * karta: [k aː ɾ t aː]
-          * kulav: [k u l aː v]
-          * votka: [v o t k aː]
+          * nêzîk: [n eː z iː k]
+          * rake.: [ɾ aː k ɛ]
+          * revok: [ɾ ɛ v o k]
+          * kurmî: [k u ɾ m iː]
     * voiced
       * ɡ
         * Occurances: 831
         * Examples
-          * negre: [n ɛ ɡ ɾ ɛ]
-          * gemar: [ɡ ɛ m aː ɾ]
-          * gez: [ɡ ɛ z]
-          * germê: [ɡ ɛ ɾ m eː]
+          * mêrgê: [m eː ɾ ɡ eː]
+          * gorê: [ɡ o ɾ eː]
+          * gula: [ɡ u l aː]
+          * gav.: [ɡ aː v]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 496
         * Examples
-          * qûna: [q uː n aː]
-          * aqlê: [aː q l eː]
-          * qêmet: [q eː m ɛ t]
-          * qîz: [q iː z]
+          * qirêj: [q ɪ ɾ eː ʒ]
+          * qebûl: [q ɛ b uː l]
+          * xulqê: [x u l q eː]
+          * qebra: [q ɛ b ɾ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -172,18 +174,18 @@
       * t͡ʃ
         * Occurances: 538
         * Examples
-          * nûçe: [n uː t͡ʃ ɛ]
-          * diçe: [d ɪ t͡ʃ ɛ]
-          * biçe!: [b ɪ t͡ʃ ɛ]
-          * çawan: [t͡ʃ aː w aː n]
+          * çilo: [t͡ʃ ɪ l o]
+          * kêçek: [k eː t͡ʃ ɛ k]
+          * çîr: [t͡ʃ iː ɾ]
+          * çem,: [t͡ʃ ɛ m]
     * voiced
       * d͡ʒ
         * Occurances: 379
         * Examples
-          * curên: [d͡ʒ u ɾ eː n]
-          * encam: [ɛ n d͡ʒ aː m]
-          * hewce: [h ɛ w d͡ʒ ɛ]
-          * cih,: [d͡ʒ ɪ h]
+          * îca: [iː d͡ʒ aː]
+          * cinan: [d͡ʒ ɪ n aː n]
+          * qencî: [q ɛ n d͡ʒ iː]
+          * cejn: [d͡ʒ ɛ ʒ n]
     ```
   - ```{ipa_cell}
     ```
@@ -203,36 +205,36 @@
       * s
         * Occurances: 1682
         * Examples
-          * sûd: [s uː d]
-          * sema: [s ɛ m aː]
-          * serad: [s ɛ ɾ aː d]
-          * dîsa: [d iː s aː]
+          * sisê,: [s ɪ s eː]
+          * sozên: [s o z eː n]
+          * salên: [s aː l eː n]
+          * sêvan: [s eː v aː n]
     * voiced
       * z
         * Occurances: 915
         * Examples
-          * zexim: [z ɛ x ɪ m]
-          * azadî: [aː z aː d iː]
-          * pez,: [p ɛ z]
-          * zînê: [z iː n eː]
+          * dozê.: [d o z eː]
+          * doza: [d o z aː]
+          * sozên: [s o z eː n]
+          * nêzîk: [n eː z iː k]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1120
         * Examples
-          * şorbe: [ʃ o ɾ b ɛ]
-          * kêş: [k eː ʃ]
-          * nişan: [n ɪ ʃ aː n]
-          * rewşê: [ɾ ɛ w ʃ eː]
+          * eşîra: [ɛ ʃ iː ɾ aː]
+          * xweş.: [x w ɛ ʃ]
+          * bişo: [b ɪ ʃ o]
+          * tişt: [t ɪ ʃ t]
     * voiced
       * ʒ
         * Occurances: 598
         * Examples
-          * rojên: [ɾ o ʒ eː n]
-          * dije.: [d ɪ ʒ ɛ]
-          * bajar: [b aː ʒ aː ɾ]
-          * jûra: [ʒ uː ɾ aː]
+          * qirêj: [q ɪ ɾ eː ʒ]
+          * roja: [ɾ o ʒ aː]
+          * bêje,: [b eː ʒ ɛ]
+          * jêrê.: [ʒ eː ɾ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -250,18 +252,18 @@
       * f
         * Occurances: 456
         * Examples
-          * fen: [f ɛ n]
-          * ferat: [f ɛ ɾ aː t]
-          * afir: [aː f ɪ ɾ]
-          * faîza: [f aː iː z aː]
+          * def: [d ɛ f]
+          * fedî: [f ɛ d iː]
+          * file: [f ɪ l ɛ]
+          * fiîlî: [f ɪ iː l iː]
     * voiced
       * v
         * Occurances: 1115
         * Examples
-          * divê: [d ɪ v eː]
-          * navê: [n aː v eː]
-          * nîvê: [n iː v eː]
-          * evd: [ɛ v d]
+          * sêvan: [s eː v aː n]
+          * nîvro: [n iː v ɾ o]
+          * revok: [ɾ ɛ v o k]
+          * hevdu: [h ɛ v d u]
     ```
   - ```{ipa_cell}
     ```
@@ -270,18 +272,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 925
-        * Examples
-          * xal,: [x aː l]
-          * xemlê: [x ɛ m l eː]
-          * zexim: [z ɛ x ɪ m]
-          * xiyar: [x ɪ j aː ɾ]
-    * voiced
-      * ɣ
-        * Occurances: 2
-        * Examples
     ```
   - ```{ipa_cell}
     ```
@@ -290,13 +280,21 @@
       * h
         * Occurances: 1366
         * Examples
-          * weha: [w ɛ h aː]
-          * heyet: [h ɛ j ɛ t]
-          * hov: [h o v]
-          * heşê: [h ɛ ʃ eː]
+          * hebû,: [h ɛ b uː]
+          * “hemû: [h ɛ m uː]
+          * hêlîn: [h eː l iː n]
+          * hawar: [h aː w aː ɾ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 1061
+        * Examples
+          * bixwî: [b ɪ x w iː]
+          * hawar: [h aː w aː ɾ]
+          * xweş.: [x w ɛ ʃ]
+          * dew.: [d ɛ w]
     ```
   - ```{ipa_cell}
     ```
@@ -309,10 +307,10 @@
       * j
         * Occurances: 2036
         * Examples
-          * heyet: [h ɛ j ɛ t]
-          * bûye: [b uː j ɛ]
-          * xiyar: [x ɪ j aː ɾ]
-          * bûyer: [b uː j ɛ ɾ]
+          * royê: [ɾ o j eː]
+          * yên: [j eː n]
+          * piyê: [p ɪ j eː]
+          * deynê: [d ɛ j n eː]
     ```
   - ```{ipa_cell}
     ```
@@ -330,10 +328,10 @@
       * ɾ
         * Occurances: 4718
         * Examples
-          * şorbe: [ʃ o ɾ b ɛ]
-          * negre: [n ɛ ɡ ɾ ɛ]
-          * rojên: [ɾ o ʒ eː n]
-          * rabû: [ɾ aː b uː]
+          * tora: [t o ɾ aː]
+          * borî: [b o ɾ iː]
+          * qirêj: [q ɪ ɾ eː ʒ]
+          * royê: [ɾ o j eː]
     ```
   - ```{ipa_cell}
     ```
@@ -355,10 +353,10 @@
       * l
         * Occurances: 1533
         * Examples
-          * xal,: [x aː l]
-          * xemlê: [x ɛ m l eː]
-          * kulav: [k u l aː v]
-          * aqlê: [aː q l eː]
+          * qebûl: [q ɛ b uː l]
+          * salên: [s aː l eː n]
+          * çilo: [t͡ʃ ɪ l o]
+          * hêlîn: [h eː l iː n]
       * ɫ
         * Occurances: 13
         * Examples
@@ -379,6 +377,8 @@
 
 ### Vowels
 
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -396,10 +396,10 @@
       * iː
         * Occurances: 3035
         * Examples
-          * îran,: [iː ɾ aː n]
-          * tîne.: [t iː n ɛ]
-          * nîvê: [n iː v eː]
-          * nabî: [n aː b iː]
+          * êdî: [eː d iː]
+          * borî: [b o ɾ iː]
+          * îca: [iː d͡ʒ aː]
+          * bixwî: [b ɪ x w iː]
     ```
   - ```{ipa_cell}
     ```
@@ -412,17 +412,17 @@
       * u
         * Occurances: 553
         * Examples
-          * tune!: [t u n ɛ]
-          * kulav: [k u l aː v]
-          * qumaş: [q u m aː ʃ]
-          * curên: [d͡ʒ u ɾ eː n]
+          * xulqê: [x u l q eː]
+          * hevdu: [h ɛ v d u]
+          * kurmî: [k u ɾ m iː]
+          * uzun': [u z u n]
       * uː
-        * Occurances: 760
+        * Occurances: 761
         * Examples
-          * rabû: [ɾ aː b uː]
-          * sûd: [s uː d]
-          * bibû: [b ɪ b uː]
-          * nûçe: [n uː t͡ʃ ɛ]
+          * qebûl: [q ɛ b uː l]
+          * hebû,: [h ɛ b uː]
+          * “hemû: [h ɛ m uː]
+          * rûnê: [ɾ uː n eː]
     ```
 * -
   - ```{ipa_cell}
@@ -432,15 +432,15 @@
       * ɪ
         * Occurances: 6278
         * Examples
-          * divê: [d ɪ v eː]
-          * min:: [m ɪ n]
-          * bibû: [b ɪ b uː]
-          * binpê: [b ɪ n p eː]
+          * qirêj: [q ɪ ɾ eː ʒ]
+          * sisê,: [s ɪ s eː]
+          * in,: [ɪ n]
+          * piyê: [p ɪ j eː]
     * rounded
       * ʏ
         * Occurances: 1
         * Examples
-          * özal: [ʏ ː z aː l]
+          * özal: [ʏ z aː l]
     ```
   - ```{ipa_cell}
     ```
@@ -454,10 +454,10 @@
       * eː
         * Occurances: 3578
         * Examples
-          * kêş: [k eː ʃ]
-          * rojên: [ɾ o ʒ eː n]
-          * divê: [d ɪ v eː]
-          * navê: [n aː v eː]
+          * êdî: [eː d iː]
+          * dozê.: [d o z eː]
+          * qirêj: [q ɪ ɾ eː ʒ]
+          * royê: [ɾ o j eː]
     ```
   - ```{ipa_cell}
     ```
@@ -470,10 +470,10 @@
       * o
         * Occurances: 1331
         * Examples
-          * şorbe: [ʃ o ɾ b ɛ]
-          * rojên: [ɾ o ʒ eː n]
-          * hov: [h o v]
-          * votka: [v o t k aː]
+          * tora: [t o ɾ aː]
+          * borî: [b o ɾ iː]
+          * dozê.: [d o z eː]
+          * royê: [ɾ o j eː]
     ```
 * -
   - ```{ipa_cell}
@@ -492,10 +492,10 @@
       * ɛ
         * Occurances: 7836
         * Examples
-          * şorbe: [ʃ o ɾ b ɛ]
-          * negre: [n ɛ ɡ ɾ ɛ]
-          * weha: [w ɛ h aː]
-          * heyet: [h ɛ j ɛ t]
+          * renge: [ɾ ɛ ŋ ɛ]
+          * qebûl: [q ɛ b uː l]
+          * nade.: [n aː d ɛ]
+          * eşîra: [ɛ ʃ iː ɾ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -526,19 +526,13 @@
       * aː
         * Occurances: 6806
         * Examples
-          * rabû: [ɾ aː b uː]
-          * weha: [w ɛ h aː]
-          * xal,: [x aː l]
-          * navê: [n aː v eː]
+          * tora: [t o ɾ aː]
+          * doza: [d o z aː]
+          * îca: [iː d͡ʒ aː]
+          * nade.: [n aː d ɛ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`ū`
-* {ipa_inline}`ː`

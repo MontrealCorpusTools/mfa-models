@@ -1,5 +1,5 @@
 
-# ukrainian.mfa
+# Ukrainian MFA G2P model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/ukrainian_mfa.html)
 
@@ -19,11 +19,11 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Ukrainian](https://en.wikipedia.org/wiki/Ukrainian_language)
 - **Dialect:** N/A
-- **Trained date:** `2022-02-28`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#ukrainian)
 - **Model type:** `G2P model`
 - **Architecture:** `pynini`
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#ukrainian)
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-03-21`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/ukrainian/MFA/v2.0.0/LICENSE)
 - **Citation:**
@@ -35,7 +35,7 @@ Jump to section:
 	title={Ukrainian MFA G2P model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/G2P model/Ukrainian/Ukrainian MFA G2P model v2_0_0.html}},
 	year={2022},
-	month={Feb},
+	month={Mar},
 }
 ```
 
@@ -72,7 +72,7 @@ The model was trained on 90% of the dictionary and evaluated on a held-out 10% a
 This model was trained on the following data set:
 
 
-* **Words:** `50,121`
+* **Words:** `57,617`
 * **Phones:** `84`
 * **Graphemes:** `34`
 
@@ -81,9 +81,9 @@ This model was trained on the following data set:
 This model was evaluated on the following data set:
 
 
-* **Words:** `5,569`
-* **WER:** `8.28%`
-* **PER:** `1.42%`
+* **Words:** `6,401`
+* **WER:** `6.48%`
+* **PER:** `1.14%`
 
 ## Ethical considerations
 
@@ -98,6 +98,6 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

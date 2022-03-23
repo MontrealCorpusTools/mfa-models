@@ -34,14 +34,10 @@
         "\u0251",
         "\u0261",
         "\u026f",
-        "\u0283",
-        "\u044a",
-        "\u044c",
-        "\u04ca",
-        "\u215b"
+        "\u0283"
     ],
-    "word_count": 11667,
-    "train_date": "2022-03-12",
+    "word_count": 11645,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}"
 }

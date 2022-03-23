@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * m
         * Occurances: 1108
         * Examples
-          * փլման: [pʰ l m ɑ n]
-          * ռեմիի: [r ɛ m i i]
-          * մասի: [m ɑ s i]
-          * գնման: [ɡ n m ɑ n]
+          * մայրը: [m ɑ j ɾ ə]
+          * մանր: [m ɑ n ɾ]
+          * մուտք: [m u t kʰ]
+          * թեմեր: [tʰ ɛ m ɛ ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -64,10 +66,10 @@
       * n
         * Occurances: 2732
         * Examples
-          * զենքը: [z ɛ n kʰ ə]
-          * փլման: [pʰ l m ɑ n]
-          * տուն: [t u n]
-          * նուրբ: [n u ɾ b]
+          * լոբին: [l ɔ b i n]
+          * մանր: [m ɑ n ɾ]
+          * բանան: [b ɑ n ɑ n]
+          * ծանր: [t s ɑ n ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -79,24 +81,24 @@
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
         * Occurances: 321
         * Examples
-          * ապա: [ɑ p ɑ]
-          * սպորտ: [s p ɔ ɾ t]
-          * վեպը: [v ɛ p ə]
-          * պետք: [p ɛ t kʰ]
+          * պատով: [p ɑ t ɔ v]
+          * կապով: [k ɑ p ɔ v]
+          * որպես: [ɔ ɾ p ɛ s]
+          * տպել: [t p ɛ l]
     * voiced
       * b
         * Occurances: 345
         * Examples
-          * նուրբ: [n u ɾ b]
-          * իբրեւ: [i b ɾ ɛ v]
-          * բանից: [b ɑ n i t sʰ]
-          * ժաբոն: [ʒ ɑ b ɔ n]
+          * լոբին: [l ɔ b i n]
+          * բանան: [b ɑ n ɑ n]
+          * երբ: [ɛ ɾ b]
+          * բարձր: [b ɑ ɾ d z ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -105,18 +107,18 @@
       * t
         * Occurances: 1878
         * Examples
-          * վատ: [v ɑ t]
-          * ցեղը: [t sʰ ɛ ʁ ə]
-          * տուն: [t u n]
-          * հացի: [h ɑ t sʰ i]
+          * պատով: [p ɑ t ɔ v]
+          * քաղցր: [kʰ ɑ ʁ t sʰ ɾ]
+          * տեղի: [t ɛ ʁ i]
+          * մուտք: [m u t kʰ]
     * voiced
       * d
         * Occurances: 641
         * Examples
-          * աղջկա: [ɑ ʁ d ʒ k ɑ]
-          * վարձը: [v ɑ ɾ d z ə]
-          * առջև: [ɑ r d ʒ ɛ v]
-          * դեռ: [d ɛ r]
+          * վերջո: [v ɛ ɾ d ʒ ɔ]
+          * շուրջ: [ʃ u ɾ d ʒ]
+          * արդեն: [ɑ ɾ d ɛ n]
+          * այդ: [ɑ j d]
     ```
   - ```{ipa_cell}
     ```
@@ -127,59 +129,18 @@
       * k
         * Occurances: 1026
         * Examples
-          * աղջկա: [ɑ ʁ d ʒ k ɑ]
-          * երկու: [ɛ ɾ k u]
-          * կեղծ: [k ɛ ʁ t s]
-          * սակավ: [s ɑ k ɑ v]
+          * երկար: [ɛ ɾ k ɑ ɾ]
+          * սկսած: [s k s ɑ t s]
+          * սկսել: [s k s ɛ l]
+          * չկա: [t ʃʰ k ɑ]
     * voiced
       * ɡ
         * Occurances: 415
         * Examples
-          * գոլից: [ɡ ɔ l i t sʰ]
-          * գնման: [ɡ n m ɑ n]
           * գիրքը: [ɡ i ɾ kʰ ə]
-          * գրել: [ɡ ɾ ɛ l]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 93
-        * Examples
-          * փլման: [pʰ l m ɑ n]
-          * խփել: [χ pʰ ɛ l]
-          * փոքր: [pʰ ɔ kʰ ɾ]
-          * փոսի: [pʰ ɔ s i]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 465
-        * Examples
-          * թելեր: [tʰ ɛ l ɛ ɾ]
-          * թիմ: [tʰ i m]
-          * թղթի: [tʰ ʁ tʰ i]
-          * թռիչք: [tʰ r i t ʃʰ kʰ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 329
-        * Examples
-          * ովքեր: [ɔ v kʰ ɛ ɾ]
-          * զենքը: [z ɛ n kʰ ə]
-          * ֆոլքի: [f ɔ l kʰ i]
-          * քանի: [kʰ ɑ n i]
+          * գրված: [ɡ ɾ v ɑ t s]
+          * թեգն: [tʰ ɛ ɡ n]
+          * գտնել: [ɡ t n ɛ l]
     ```
   - ```{ipa_cell}
     ```
@@ -195,36 +156,36 @@
       * s
         * Occurances: 924
         * Examples
-          * ռուս: [r u s]
-          * մասի: [m ɑ s i]
-          * ըստ: [ə s t]
-          * սպորտ: [s p ɔ ɾ t]
+          * ծանր: [t s ɑ n ɾ]
+          * սկսած: [s k s ɑ t s]
+          * գրված: [ɡ ɾ v ɑ t s]
+          * սկսել: [s k s ɛ l]
     * voiced
       * z
         * Occurances: 345
         * Examples
-          * զենքը: [z ɛ n kʰ ə]
-          * վարձը: [v ɑ ɾ d z ə]
-          * ազովի: [ɑ z ɔ v i]
-          * զրոն՝: [z ɾ ɔ n]
+          * գազի: [ɡ ɑ z i]
+          * մազեր: [m ɑ z ɛ ɾ]
+          * խոզի: [χ ɔ z i]
+          * եզակի: [ɛ z ɑ k i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 324
         * Examples
-          * շոուի: [ʃ ɔ u i]
-          * հարճը: [h ɑ ɾ t ʃ ə]
-          * աճում: [ɑ t ʃ u m]
-          * լճերի: [l t ʃ ɛ ɾ i]
+          * նշան: [n ʃ ɑ n]
+          * շուրջ: [ʃ u ɾ d ʒ]
+          * շրջի: [ʃ ɾ d ʒ i]
+          * խոշոր: [χ ɔ ʃ ɔ ɾ]
     * voiced
       * ʒ
         * Occurances: 226
         * Examples
-          * աղջկա: [ɑ ʁ d ʒ k ɑ]
-          * առջև: [ɑ r d ʒ ɛ v]
-          * ննջել: [n n d ʒ ɛ l]
-          * ջինի: [d ʒ i n i]
+          * վերջո: [v ɛ ɾ d ʒ ɔ]
+          * շուրջ: [ʃ u ɾ d ʒ]
+          * շրջի: [ʃ ɾ d ʒ i]
+          * ջուր: [d ʒ u ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -244,20 +205,20 @@
       * sʰ
         * Occurances: 478
         * Examples
-          * ցեղը: [t sʰ ɛ ʁ ə]
-          * հացի: [h ɑ t sʰ i]
-          * գոլից: [ɡ ɔ l i t sʰ]
-          * առանց: [ɑ r ɑ n t sʰ]
+          * քաղցր: [kʰ ɑ ʁ t sʰ ɾ]
+          * գնեց: [ɡ n ɛ t sʰ]
+          * հայոց: [h ɑ j ɔ t sʰ]
+          * օդից: [ɔ d i t sʰ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃʰ
         * Occurances: 121
         * Examples
+          * ինչու: [i n t ʃʰ u]
+          * չկա: [t ʃʰ k ɑ]
+          * գրչին: [ɡ ɾ t ʃʰ i n]
           * թռիչք: [tʰ r i t ʃʰ kʰ]
-          * չորս: [t ʃʰ ɔ ɾ s]
-          * աչքեր: [ɑ t ʃʰ kʰ ɛ ɾ]
-          * ինչ: [i n t ʃʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -276,16 +237,16 @@
         * Occurances: 46
         * Examples
           * ֆոլքի: [f ɔ l kʰ i]
-          * ֆեռալ: [f ɛ r ɑ l]
           * ֆոնդը: [f ɔ n d ə]
+          * ֆեռալ: [f ɛ r ɑ l]
     * voiced
       * v
         * Occurances: 773
         * Examples
-          * ովքեր: [ɔ v kʰ ɛ ɾ]
-          * վատ: [v ɑ t]
-          * իբրեւ: [i b ɾ ɛ v]
-          * վարձը: [v ɑ ɾ d z ə]
+          * պատով: [p ɑ t ɔ v]
+          * գրված: [ɡ ɾ v ɑ t s]
+          * թվին: [tʰ v i n]
+          * վերջո: [v ɛ ɾ d ʒ ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -300,17 +261,17 @@
       * χ
         * Occurances: 195
         * Examples
-          * խփել: [χ pʰ ɛ l]
-          * խոսքի: [χ ɔ s kʰ i]
-          * խորը: [χ ɔ ɾ ə]
-          * ձախ: [d z ɑ χ]
-    * other
+          * խոշոր: [χ ɔ ʃ ɔ ɾ]
+          * խոզի: [χ ɔ z i]
+          * խմբին: [χ m b i n]
+          * օջախը: [ɔ d ʒ ɑ χ ə]
+    * voiced
       * ʁ
         * Occurances: 329
         * Examples
-          * ցեղը: [t sʰ ɛ ʁ ə]
-          * աղջկա: [ɑ ʁ d ʒ k ɑ]
-          * կեղծ: [k ɛ ʁ t s]
+          * քաղցր: [kʰ ɑ ʁ t sʰ ɾ]
+          * տեղի: [t ɛ ʁ i]
+          * որտեղ: [ɔ ɾ t ɛ ʁ]
           * թղթի: [tʰ ʁ tʰ i]
     ```
   - ```{ipa_cell}
@@ -318,10 +279,10 @@
       * h
         * Occurances: 476
         * Examples
-          * հացի: [h ɑ t sʰ i]
-          * հարճը: [h ɑ ɾ t ʃ ə]
-          * հատիկ: [h ɑ t i k]
-          * հասան: [h ɑ s ɑ n]
+          * հետո: [h ɛ t ɔ]
+          * հին: [h i n]
+          * հրեա: [h ɾ ɛ ɑ]
+          * հայոց: [h ɑ j ɔ t sʰ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -337,10 +298,10 @@
       * j
         * Occurances: 714
         * Examples
-          * լոյս: [l ɔ j s]
-          * այսօր: [ɑ j s ɔ ɾ]
-          * այլ: [ɑ j l]
-          * մայթի: [m ɑ j tʰ i]
+          * մայրը: [m ɑ j ɾ ə]
+          * նույն: [n u j n]
+          * այդ: [ɑ j d]
+          * արյան: [ɑ ɾ j ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -358,10 +319,10 @@
       * ɾ
         * Occurances: 2246
         * Examples
-          * ովքեր: [ɔ v kʰ ɛ ɾ]
-          * իրար: [i ɾ ɑ ɾ]
-          * նուրբ: [n u ɾ b]
-          * իբրեւ: [i b ɾ ɛ v]
+          * քաղցր: [kʰ ɑ ʁ t sʰ ɾ]
+          * մայրը: [m ɑ j ɾ ə]
+          * երկար: [ɛ ɾ k ɑ ɾ]
+          * գիրքը: [ɡ i ɾ kʰ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -383,10 +344,10 @@
       * r
         * Occurances: 193
         * Examples
-          * ռեմիի: [r ɛ m i i]
-          * ռուս: [r u s]
-          * առանց: [ɑ r ɑ n t sʰ]
-          * առջև: [ɑ r d ʒ ɛ v]
+          * ռոքի: [r ɔ kʰ i]
+          * ամառը: [ɑ m ɑ r ə]
+          * դեռ: [d ɛ r]
+          * թռիչք: [tʰ r i t ʃʰ kʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +369,10 @@
       * l
         * Occurances: 523
         * Examples
-          * փլման: [pʰ l m ɑ n]
-          * գոլից: [ɡ ɔ l i t sʰ]
-          * ֆոլքի: [f ɔ l kʰ i]
-          * թելեր: [tʰ ɛ l ɛ ɾ]
+          * լոբին: [l ɔ b i n]
+          * սկսել: [s k s ɛ l]
+          * գտնել: [ɡ t n ɛ l]
+          * օսլան: [ɔ s l ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -427,6 +388,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -445,10 +408,10 @@
       * i
         * Occurances: 1456
         * Examples
-          * իրար: [i ɾ ɑ ɾ]
-          * շոուի: [ʃ ɔ u i]
-          * հացի: [h ɑ t sʰ i]
-          * իբրեւ: [i b ɾ ɛ v]
+          * տեղի: [t ɛ ʁ i]
+          * լոբին: [l ɔ b i n]
+          * ռոքի: [r ɔ kʰ i]
+          * գիրքը: [ɡ i ɾ kʰ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -461,10 +424,10 @@
       * u
         * Occurances: 1310
         * Examples
-          * շոուի: [ʃ ɔ u i]
-          * տուն: [t u n]
-          * նուրբ: [n u ɾ b]
-          * ռուս: [r u s]
+          * մուտք: [m u t kʰ]
+          * շուրջ: [ʃ u ɾ d ʒ]
+          * ինչու: [i n t ʃʰ u]
+          * նույն: [n u j n]
     ```
 * -
   - ```{ipa_cell}
@@ -498,10 +461,10 @@
       * ə
         * Occurances: 478
         * Examples
-          * զենքը: [z ɛ n kʰ ə]
-          * ցեղը: [t sʰ ɛ ʁ ə]
-          * վարձը: [v ɑ ɾ d z ə]
-          * հարճը: [h ɑ ɾ t ʃ ə]
+          * մայրը: [m ɑ j ɾ ə]
+          * գիրքը: [ɡ i ɾ kʰ ə]
+          * մարմը: [m ɑ ɾ m ə]
+          * կինը: [k i n ə]
     ```
   - ```{ipa_cell}
     ```
@@ -513,10 +476,10 @@
       * ɛ
         * Occurances: 1922
         * Examples
-          * ովքեր: [ɔ v kʰ ɛ ɾ]
-          * զենքը: [z ɛ n kʰ ə]
-          * ցեղը: [t sʰ ɛ ʁ ə]
-          * իբրեւ: [i b ɾ ɛ v]
+          * տեղի: [t ɛ ʁ i]
+          * երկար: [ɛ ɾ k ɑ ɾ]
+          * հետո: [h ɛ t ɔ]
+          * թեմեր: [tʰ ɛ m ɛ ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -529,10 +492,10 @@
       * ɔ
         * Occurances: 909
         * Examples
-          * ովքեր: [ɔ v kʰ ɛ ɾ]
-          * շոուի: [ʃ ɔ u i]
-          * գոլից: [ɡ ɔ l i t sʰ]
-          * օրերն: [ɔ ɾ ɛ ɾ n]
+          * պատով: [p ɑ t ɔ v]
+          * լոբին: [l ɔ b i n]
+          * ռոքի: [r ɔ kʰ i]
+          * որոնք: [ɔ ɾ ɔ n kʰ]
     ```
 * -
   - ```{ipa_cell}
@@ -559,9 +522,9 @@
       * ɑ
         * Occurances: 4463
         * Examples
-          * ապա: [ɑ p ɑ]
-          * իրար: [i ɾ ɑ ɾ]
-          * փլման: [pʰ l m ɑ n]
-          * վատ: [v ɑ t]
+          * պատով: [p ɑ t ɔ v]
+          * քաղցր: [kʰ ɑ ʁ t sʰ ɾ]
+          * մայրը: [m ɑ j ɾ ə]
+          * երկար: [ɛ ɾ k ɑ ɾ]
     ```
 ``````

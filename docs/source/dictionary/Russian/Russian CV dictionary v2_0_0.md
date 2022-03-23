@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,17 +54,17 @@
       * m
         * Occurances: 10414
         * Examples
-          * мою: [m o u]
-          * атома: [a t o m a]
-          * могу: [m o ɡ u]
-          * нам!: [n a m]
+          * там?: [t a m]
+          * храм,: [x r a m]
+          * огнем: [o ɡ n e m]
+          * взлом: [v z l o m]
       * mʲ
         * Occurances: 4745
         * Examples
-          * мечту: [mʲ e t͡ɕʲ t u]
-          * шумят: [ʂ u mʲ a t]
-          * всеми: [v sʲ e mʲ i]
-          * химия: [xʲ i mʲ i a]
+          * мели: [mʲ e lʲ i]
+          * нами,: [n a mʲ i]
+          * мир: [mʲ i r]
+          * имел: [i mʲ e l]
     ```
   - ```{ipa_cell}
     ```
@@ -71,17 +73,17 @@
       * n
         * Occurances: 30527
         * Examples
-          * синее: [sʲ i n e e]
-          * изъян: [i zʲ j a n]
-          * нам!: [n a m]
-          * бандо: [b a n d o]
+          * жены: [ʒ e n ɨ]
+          * сына: [s ɨ n a]
+          * наша: [n a ʂ a]
+          * сан: [s a n]
       * nʲ
         * Occurances: 200
         * Examples
-          * тень: [tʲ e nʲ]
-          * день,: [dʲ e nʲ]
+          * жизнь: [ʒ i z nʲ]
+          * очень: [o t͡ɕʲ e nʲ]
           * день.: [dʲ e nʲ]
-          * дань: [d a nʲ]
+          * день: [dʲ e nʲ]
     ```
   - ```{ipa_cell}
     ```
@@ -99,32 +101,18 @@
       * p
         * Occurances: 12523
         * Examples
-          * пошло: [p o ʂ l o]
-          * птицу: [p tʲ i t͡s u]
-          * путях: [p u tʲ a x]
-          * испуг: [i s p u ɡ]
-      * pʲ
-        * Occurances: 2156
-        * Examples
-          * пил,: [pʲ i l]
-          * опере: [o pʲ e rʲ e]
-          * пеной: [pʲ e n o j]
-          * петр.: [pʲ e t r]
+          * пока: [p o k a]
+          * шапка: [ʂ a p k a]
+          * пана: [p a n a]
+          * прямо: [p rʲ a m o]
     * voiced
       * b
         * Occurances: 4983
         * Examples
-          * богу:: [b o ɡ u]
-          * бандо: [b a n d o]
-          * ба,: [b a]
-          * клуба: [k l u b a]
-      * bʲ
-        * Occurances: 1843
-        * Examples
-          * бей: [bʲ e j]
-          * грабя: [ɡ r a bʲ a]
-          * обед: [o bʲ e d]
-          * белая: [bʲ e l a a]
+          * бы.: [b ɨ]
+          * был,: [b ɨ l]
+          * брит,: [b rʲ i t]
+          * небо.: [n e b o]
     ```
   - ```{ipa_cell}
     ```
@@ -133,32 +121,18 @@
       * t
         * Occurances: 17081
         * Examples
-          * мечту: [mʲ e t͡ɕʲ t u]
-          * готов: [ɡ o t o v]
-          * акты.: [a k t ɨ]
-          * атома: [a t o m a]
-      * tʲ
-        * Occurances: 9889
-        * Examples
-          * птицу: [p tʲ i t͡s u]
-          * локти: [l o k tʲ i]
-          * отец:: [o tʲ e t͡s]
-          * путях: [p u tʲ a x]
+          * там?: [t a m]
+          * счет: [s t͡ɕʲ e t]
+          * хохот: [x o x o t]
+          * актов: [a k t o v]
     * voiced
       * d
         * Occurances: 8334
         * Examples
-          * сада.: [s a d a]
-          * бандо: [b a n d o]
-          * народ: [n a r o d]
-          * вход: [v x o d]
-      * dʲ
-        * Occurances: 4522
-        * Examples
-          * ходил: [x o dʲ i l]
-          * дядя.: [dʲ a dʲ a]
-          * дел.: [dʲ e l]
-          * девка: [dʲ e v k a]
+          * рад: [r a d]
+          * года: [ɡ o d a]
+          * суды: [s u d ɨ]
+          * обид.: [o bʲ i d]
     ```
   - ```{ipa_cell}
     ```
@@ -175,25 +149,18 @@
       * k
         * Occurances: 11265
         * Examples
-          * рука: [r u k a]
-          * акты.: [a k t ɨ]
-          * скоро: [s k o r o]
-          * локти: [l o k tʲ i]
-      * kʲ
-        * Occurances: 2207
-        * Examples
-          * таки: [t a kʲ i]
-          * ярких: [j a r kʲ i x]
-          * тиски: [tʲ i s kʲ i]
-          * кино.: [kʲ i n o]
+          * урок: [u r o k]
+          * корк.: [k o r k]
+          * пока: [p o k a]
+          * жук.: [ʒ u k]
     * voiced
       * ɡ
         * Occurances: 6871
         * Examples
-          * готов: [ɡ o t o v]
-          * грязи: [ɡ rʲ a zʲ i]
-          * испуг: [i s p u ɡ]
-          * могу: [m o ɡ u]
+          * нагло: [n a ɡ l o]
+          * глаз,: [ɡ l a z]
+          * огнем: [o ɡ n e m]
+          * года: [ɡ o d a]
     ```
   - ```{ipa_cell}
     ```
@@ -207,35 +174,24 @@
       * t͡s
         * Occurances: 2696
         * Examples
-          * птицу: [p tʲ i t͡s u]
-          * отец:: [o tʲ e t͡s]
+          * цены.: [t͡s e n ɨ]
           * зайца: [z a j t͡s a]
-          * танцы: [t a n t͡s ɨ]
-      * t͡sʲ
-        * Occurances: 1
-        * Examples
+          * нации: [n a t͡s i i]
+          * ценю: [t͡s e n u]
     ```
   - ```{ipa_cell}
     * voiced
       * d͡ʒ
         * Occurances: 110
         * Examples
-          * джоуи: [d͡ʒ o u i]
-          * бурдж: [b u r d͡ʒ]
-          * джон,: [d͡ʒ o n]
-          * бридж: [b rʲ i d͡ʒ]
+          * джон: [d͡ʒ o n]
+          * джо: [d͡ʒ o]
+          * джим.: [d͡ʒ i m]
+          * бундж: [b u n d͡ʒ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * t͡ɕʲ
-        * Occurances: 5193
-        * Examples
-          * мечту: [mʲ e t͡ɕʲ t u]
-          * чутья: [t͡ɕʲ u tʲ a]
-          * числа: [t͡ɕʲ i s l a]
-          * почте: [p o t͡ɕʲ tʲ e]
     ```
   - ```{ipa_cell}
     ```
@@ -251,58 +207,58 @@
       * s
         * Occurances: 19709
         * Examples
-          * сада.: [s a d a]
-          * скоро: [s k o r o]
-          * испуг: [i s p u ɡ]
-          * числа: [t͡ɕʲ i s l a]
+          * сына: [s ɨ n a]
+          * сан: [s a n]
+          * счет: [s t͡ɕʲ e t]
+          * масла: [m a s l a]
       * sʲ
         * Occurances: 5822
         * Examples
-          * синее: [sʲ i n e e]
-          * сеет: [sʲ e e t]
-          * всеми: [v sʲ e mʲ i]
-          * суйся: [s u j sʲ a]
+          * сетях: [sʲ e tʲ a x]
+          * сидим: [sʲ i dʲ i m]
+          * серию: [sʲ e rʲ i u]
+          * сели: [sʲ e lʲ i]
     * voiced
       * z
         * Occurances: 6895
         * Examples
-          * за.: [z a]
-          * злило: [z lʲ i l o]
-          * зайца: [z a j t͡s a]
-          * забор: [z a b o r]
+          * глаз,: [ɡ l a z]
+          * взлом: [v z l o m]
+          * злая: [z l a a]
+          * жизнь: [ʒ i z nʲ]
       * zʲ
         * Occurances: 864
         * Examples
-          * взяла: [v zʲ a l a]
-          * грязи: [ɡ rʲ a zʲ i]
-          * изъян: [i zʲ j a n]
-          * зерна: [zʲ e r n a]
+          * узел: [u zʲ e l]
+          * узел,: [u zʲ e l]
+          * лизе.: [lʲ i zʲ e]
+          * озеро: [o zʲ e r o]
     ```
   - ```{ipa_cell}
     * voiced
       * ʒ
         * Occurances: 3801
         * Examples
-          * жены.: [ʒ e n ɨ]
-          * жду,: [ʒ d u]
-          * лежал: [lʲ e ʒ a l]
-          * кражу: [k r a ʒ u]
+          * жены: [ʒ e n ɨ]
+          * жук.: [ʒ u k]
+          * жить.: [ʒ i tʲ]
+          * жизнь: [ʒ i z nʲ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 3154
         * Examples
-          * шею.: [ʂ e u]
-          * пошло: [p o ʂ l o]
-          * шеей.: [ʂ e e j]
-          * шумят: [ʂ u mʲ a t]
+          * наша: [n a ʂ a]
+          * решит: [rʲ e ʂ i t]
+          * шапка: [ʂ a p k a]
+          * штаны: [ʂ t a n ɨ]
       * ʂʲː
         * Occurances: 204
         * Examples
+          * слышь: [s l ɨ ʂʲː]
           * лишь: [lʲ i ʂʲː]
-          * ешь.: [j e ʂʲː]
-          * лжешь: [l ʒ e ʂʲː]
+          * вишь,: [vʲ i ʂʲː]
           * идешь: [i dʲ e ʂʲː]
     ```
   - ```{ipa_cell}
@@ -310,17 +266,17 @@
       * ɕː
         * Occurances: 2156
         * Examples
-          * еще?: [j e ɕː e]
-          * общая: [o b ɕː a a]
-          * ящика: [j a ɕː i k a]
-          * общих: [o b ɕː i x]
+          * общие: [o b ɕː i e]
+          * леща.: [lʲ e ɕː a]
+          * проще: [p r o ɕː e]
+          * ещё.: [j e ɕː o]
       * ɕːʲ
         * Occurances: 9
         * Examples
-          * мощь: [m o ɕːʲ]
-          * вещь,: [vʲ e ɕːʲ]
           * вещь: [vʲ e ɕːʲ]
+          * вещь,: [vʲ e ɕːʲ]
           * мощь,: [m o ɕːʲ]
+          * вещь.: [vʲ e ɕːʲ]
     ```
   - ```{ipa_cell}
     ```
@@ -334,32 +290,32 @@
       * f
         * Occurances: 892
         * Examples
-          * фома: [f o m a]
-          * флага: [f l a ɡ a]
-          * фраза: [f r a z a]
-          * флаг.: [f l a ɡ]
+          * фонда: [f o n d a]
+          * цифр: [t͡s i f r]
+          * фаз.: [f a z]
+          * фазы: [f a z ɨ]
       * fʲ
         * Occurances: 656
         * Examples
-          * сфере: [s fʲ e rʲ e]
-          * кафе?: [k a fʲ e]
-          * офисе: [o fʲ i sʲ e]
-          * сфер: [s fʲ e r]
+          * кофе.: [k o fʲ e]
+          * фет.: [fʲ e t]
+          * сферу: [s fʲ e r u]
+          * кофе,: [k o fʲ e]
     * voiced
       * v
         * Occurances: 14541
         * Examples
-          * готов: [ɡ o t o v]
-          * взяла: [v zʲ a l a]
-          * девка: [dʲ e v k a]
-          * всеми: [v sʲ e mʲ i]
+          * войны: [v o j n ɨ]
+          * взлом: [v z l o m]
+          * актов: [a k t o v]
+          * врёт: [v rʲ o t]
       * vʲ
         * Occurances: 4691
         * Examples
-          * ввели: [v vʲ e lʲ i]
-          * вера: [vʲ e r a]
-          * увидя: [u vʲ i dʲ a]
-          * павел: [p a vʲ e l]
+          * верни: [vʲ e r n i]
+          * вето.: [vʲ e t o]
+          * ведро: [vʲ e d r o]
+          * свет,: [s vʲ e t]
     ```
   - ```{ipa_cell}
     ```
@@ -370,21 +326,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 3817
-        * Examples
-          * ходил: [x o dʲ i l]
-          * ах,: [a x]
-          * путях: [p u tʲ a x]
-          * их.: [i x]
-      * xʲ
-        * Occurances: 179
-        * Examples
-          * химия: [xʲ i mʲ i a]
-          * духи: [d u xʲ i]
-          * эхе: [e xʲ e]
-          * сухим: [s u xʲ i m]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -408,10 +349,10 @@
       * j
         * Occurances: 6332
         * Examples
-          * шеей.: [ʂ e e j]
-          * изъян: [i zʲ j a n]
-          * бей: [bʲ e j]
-          * ярких: [j a r kʲ i x]
+          * войны: [v o j n ɨ]
+          * чай: [t͡ɕʲ a j]
+          * райс,: [r a j s]
+          * уйти.: [u j tʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -427,17 +368,17 @@
       * r
         * Occurances: 17322
         * Examples
-          * рука: [r u k a]
-          * скоро: [s k o r o]
-          * ярких: [j a r kʲ i x]
-          * игр.: [i ɡ r]
+          * урок: [u r o k]
+          * храм,: [x r a m]
+          * корк.: [k o r k]
+          * рад: [r a d]
       * rʲ
         * Occurances: 8715
         * Examples
-          * ларю,: [l a rʲ u]
-          * грязи: [ɡ rʲ a zʲ i]
-          * ларе.: [l a rʲ e]
-          * терял: [tʲ e rʲ a l]
+          * брит,: [b rʲ i t]
+          * решит: [rʲ e ʂ i t]
+          * врёт: [v rʲ o t]
+          * резко: [rʲ e z k o]
     ```
   - ```{ipa_cell}
     ```
@@ -459,17 +400,17 @@
       * l
         * Occurances: 9079
         * Examples
-          * ларю,: [l a rʲ u]
-          * пошло: [p o ʂ l o]
-          * взяла: [v zʲ a l a]
-          * ходил: [x o dʲ i l]
+          * нагло: [n a ɡ l o]
+          * глаз,: [ɡ l a z]
+          * взлом: [v z l o m]
+          * злая: [z l a a]
       * lʲ
         * Occurances: 10642
         * Examples
-          * злило: [z lʲ i l o]
-          * лишь: [lʲ i ʂʲː]
-          * лента: [lʲ e n t a]
-          * "или: [i lʲ i]
+          * мели: [mʲ e lʲ i]
+          * али: [a lʲ i]
+          * июле: [i u lʲ e]
+          * лигу: [lʲ i ɡ u]
     ```
   - ```{ipa_cell}
     ```
@@ -485,6 +426,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -503,10 +446,10 @@
       * i
         * Occurances: 35137
         * Examples
-          * ходил: [x o dʲ i l]
-          * птицу: [p tʲ i t͡s u]
-          * синее: [sʲ i n e e]
-          * грязи: [ɡ rʲ a zʲ i]
+          * верни: [vʲ e r n i]
+          * мели: [mʲ e lʲ i]
+          * нами,: [n a mʲ i]
+          * пяди: [pʲ a dʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -515,10 +458,10 @@
       * ɨ
         * Occurances: 8530
         * Examples
-          * акты.: [a k t ɨ]
-          * жены.: [ʒ e n ɨ]
-          * сытые: [s ɨ t ɨ e]
-          * ясны.: [j a s n ɨ]
+          * жены: [ʒ e n ɨ]
+          * сына: [s ɨ n a]
+          * войны: [v o j n ɨ]
+          * бы.: [b ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -527,10 +470,10 @@
       * u
         * Occurances: 17161
         * Examples
-          * ларю,: [l a rʲ u]
-          * рука: [r u k a]
-          * шею.: [ʂ e u]
-          * мечту: [mʲ e t͡ɕʲ t u]
+          * урок: [u r o k]
+          * жук.: [ʒ u k]
+          * уйти.: [u j tʲ i]
+          * суды: [s u d ɨ]
     ```
 * -
   - ```{ipa_cell}
@@ -549,10 +492,10 @@
       * e
         * Occurances: 38591
         * Examples
-          * шею.: [ʂ e u]
-          * мечту: [mʲ e t͡ɕʲ t u]
-          * синее: [sʲ i n e e]
-          * шеей.: [ʂ e e j]
+          * жены: [ʒ e n ɨ]
+          * огнем: [o ɡ n e m]
+          * счет: [s t͡ɕʲ e t]
+          * верни: [vʲ e r n i]
     ```
   - ```{ipa_cell}
     ```
@@ -565,10 +508,10 @@
       * o
         * Occurances: 44320
         * Examples
-          * пошло: [p o ʂ l o]
-          * готов: [ɡ o t o v]
-          * ходил: [x o dʲ i l]
-          * скоро: [s k o r o]
+          * войны: [v o j n ɨ]
+          * нагло: [n a ɡ l o]
+          * урок: [u r o k]
+          * огнем: [o ɡ n e m]
     ```
 * -
   - ```{ipa_cell}
@@ -613,10 +556,10 @@
       * a
         * Occurances: 47093
         * Examples
-          * ларю,: [l a rʲ u]
-          * рука: [r u k a]
-          * сада.: [s a d a]
-          * акты.: [a k t ɨ]
+          * сына: [s ɨ n a]
+          * наша: [n a ʂ a]
+          * сан: [s a n]
+          * нагло: [n a ɡ l o]
     ```
   - ```{ipa_cell}
     ```

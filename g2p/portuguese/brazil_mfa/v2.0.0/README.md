@@ -1,5 +1,5 @@
 
-# portuguese.brazil.mfa
+# Portuguese (Brazil) MFA G2P model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/portuguese_brazil_mfa.html)
 
@@ -19,11 +19,11 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)
 - **Dialect:** [Brazilian Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
-- **Trained date:** `2022-02-27`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#portuguese)
 - **Model type:** `G2P model`
 - **Architecture:** `pynini`
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#portuguese)
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-02-27`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/portuguese/brazil_mfa/v2.0.0/LICENSE)
 - **Citation:**
@@ -98,6 +98,6 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

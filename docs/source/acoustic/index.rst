@@ -22,6 +22,7 @@ Acoustic models
    Belarusian/index.rst
    Bulgarian/index.rst
    Chuvash/index.rst
+   Croatian/index.rst
    Czech/index.rst
    Dutch/index.rst
    English/index.rst

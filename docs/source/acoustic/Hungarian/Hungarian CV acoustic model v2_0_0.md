@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Hungarian_v7_0`:
-  * **Hours:** `16.00`
-  * **Speakers:** `116`
-  * **Utterances:** `12,529`
+   * {ref}`Common_Voice_Hungarian_v7_0`:
+     * **Hours:** `16.00`
+     * **Speakers:** `116`
+     * **Utterances:** `12,529`
    ```
 
 

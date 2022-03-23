@@ -1,5 +1,5 @@
 
-# swahili.mfa
+# Swahili MFA G2P model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/swahili_mfa.html)
 
@@ -19,11 +19,11 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Swahili](https://en.wikipedia.org/wiki/Swahili_language)
 - **Dialect:** N/A
-- **Trained date:** `2022-02-28`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#swahili)
 - **Model type:** `G2P model`
 - **Architecture:** `pynini`
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#swahili)
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-03-21`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/swahili/MFA/v2.0.0/LICENSE)
 - **Citation:**
@@ -35,7 +35,7 @@ Jump to section:
 	title={Swahili MFA G2P model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/G2P model/Swahili/Swahili MFA G2P model v2_0_0.html}},
 	year={2022},
-	month={Feb},
+	month={Mar},
 }
 ```
 
@@ -72,8 +72,8 @@ The model was trained on 90% of the dictionary and evaluated on a held-out 10% a
 This model was trained on the following data set:
 
 
-* **Words:** `29,884`
-* **Phones:** `30`
+* **Words:** `30,937`
+* **Phones:** `41`
 * **Graphemes:** `25`
 
 ## Evaluation
@@ -81,9 +81,9 @@ This model was trained on the following data set:
 This model was evaluated on the following data set:
 
 
-* **Words:** `3,320`
-* **WER:** `1.05%`
-* **PER:** `0.18%`
+* **Words:** `3,437`
+* **WER:** `0.93%`
+* **PER:** `0.14%`
 
 ## Ethical considerations
 
@@ -98,6 +98,6 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

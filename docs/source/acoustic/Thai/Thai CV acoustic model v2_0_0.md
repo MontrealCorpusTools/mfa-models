@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Thai_v7_0`:
-  * **Hours:** `133.00`
-  * **Speakers:** `4,537`
-  * **Utterances:** `107,728`
+   * {ref}`Common_Voice_Thai_v7_0`:
+     * **Hours:** `133.00`
+     * **Speakers:** `4,537`
+     * **Utterances:** `107,728`
    ```
 
 

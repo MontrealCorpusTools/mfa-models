@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Chuvash_v7_0`:
-  * **Hours:** `5.00`
-  * **Speakers:** `82`
-  * **Utterances:** `3,748`
+   * {ref}`Common_Voice_Chuvash_v7_0`:
+     * **Hours:** `5.00`
+     * **Speakers:** `82`
+     * **Utterances:** `3,748`
    ```
 
 

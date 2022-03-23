@@ -54,8 +54,8 @@
         "\u028e",
         "\u0292"
     ],
-    "word_count": 63583,
-    "train_date": "2022-03-12",
+    "word_count": 63561,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_bulgarian_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Bulgarian MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Bulgarian/Bulgarian MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

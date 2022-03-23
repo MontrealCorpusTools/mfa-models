@@ -1,5 +1,5 @@
 
-# bulgarian.lm
+# Bulgarian language model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/language_model/bulgarian_lm.html)
 
@@ -17,10 +17,10 @@ Jump to section:
 
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language)
-- **Trained date:** `2022-01-28`
 - **Model type:** `Language model`
 - **Architecture:** `ngram`
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-01-28`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/MFA/v2.0.0/LICENSE)
 - **Citation:**
@@ -100,6 +100,6 @@ Do not use this model in production, but if you do so, you should acknowledge bi
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

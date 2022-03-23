@@ -32,7 +32,7 @@ lang_codes = ['czech', 'russian',
               'korean_jamo', 'korean',
               #'mandarin_hani'
               'hausa', 'swahili',
-              'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_hochiminhcity',
+              'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_ho_chi_minh_city',
                'ukrainian', 'polish', 'croatian', 'bulgarian',
               #'japanese',
               ]

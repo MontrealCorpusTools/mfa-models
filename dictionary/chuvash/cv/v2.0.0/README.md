@@ -1,5 +1,5 @@
 
-# chuvash.cv
+# Chuvash CV dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/chuvash_cv.html)
 
@@ -14,8 +14,9 @@ Jump to section:
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)
-- **Number of words:** `7,323`
+- **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
+- **Number of words:** `7,302`
 - **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`jː`, {ipa_inline}`k`, {ipa_inline}`kː`, {ipa_inline}`l`, {ipa_inline}`lː`, {ipa_inline}`m`, {ipa_inline}`mː`, {ipa_inline}`n`, {ipa_inline}`nː`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`pː`, {ipa_inline}`r`, {ipa_inline}`rː`, {ipa_inline}`s`, {ipa_inline}`sː`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsː`, {ipa_inline}`tʃ`, {ipa_inline}`tː`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`vː`, {ipa_inline}`y`, {ipa_inline}`ɑ`, {ipa_inline}`ɕ`, {ipa_inline}`ɕː`, {ipa_inline}`ɛ`, {ipa_inline}`ɯ`, {ipa_inline}`ʃ`, {ipa_inline}`ʃː`, {ipa_inline}`ʌ`, {ipa_inline}`ʒ`, {ipa_inline}`χ`, {ipa_inline}`χː`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
@@ -54,9 +55,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

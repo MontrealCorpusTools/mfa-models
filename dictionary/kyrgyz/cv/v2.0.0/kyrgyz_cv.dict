@@ -1,22 +1,4 @@
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 а	ɑ
 а.	ɑ
 аа	ɑ ɑ
@@ -647,7 +629,7 @@
 алмашып	ɑ l m ɑ ʃ ɯ p
 алсаң	ɑ l s ɑ ŋ
 алсызыраактары	ɑ l s ɯ z ɯ r ɑ ɑ k t ɑ r ɯ
-алтуфьево	ɑ l t u f ь j e v o
+алтуфьево	ɑ l t u f j e v o
 алты	ɑ l t ɯ
 алтыга	ɑ l t ɯ ɡ ɑ
 алтын	ɑ l t ɯ n
@@ -722,10 +704,10 @@
 алышымча	ɑ l ɯ ʃ ɯ m t͡ʃ ɑ
 алышып,	ɑ l ɯ ʃ ɯ p
 алың,	ɑ l ɯ ŋ
-аль	ɑ l ь
-альбом	ɑ l ь b o m
-альтернатива	ɑ l ь t j e r n ɑ t i v ɑ
-альтернативасыз	ɑ l ь t j e r n ɑ t i v ɑ s ɯ z
+аль	ɑ l
+альбом	ɑ l b o m
+альтернатива	ɑ l t j e r n ɑ t i v ɑ
+альтернативасыз	ɑ l t j e r n ɑ t i v ɑ s ɯ z
 амалдары	ɑ m ɑ l d ɑ r ɯ
 амалдарын	ɑ m ɑ l d ɑ r ɯ n
 аман	ɑ m ɑ n
@@ -909,7 +891,7 @@
 артында	ɑ r t ɯ n d ɑ
 артыңарда	ɑ r t ɯ ŋ ɑ r d ɑ
 артыңарды	ɑ r t ɯ ŋ ɑ r d ɯ
-артыӊарда	ɑ r t ɯ ӊ ɑ r d ɑ
+артыӊарда	ɑ r t ɯ ŋ ɑ r d ɑ
 архитектор	ɑ r k i t j e k t o r
 архитектура	ɑ r k i t j e k t u r ɑ
 архитектурадан	ɑ r k i t j e k t u r ɑ d ɑ n
@@ -958,7 +940,7 @@
 ассанж	ɑ s s ɑ n d͡ʒ
 асты	ɑ s t ɯ
 астында	ɑ s t ɯ n d ɑ
-асфальт	ɑ s f ɑ l ь t
+асфальт	ɑ s f ɑ l t
 асыл	ɑ s ɯ l
 асылбек	ɑ s ɯ l b j e k
 асылып	ɑ s ɯ l ɯ p
@@ -1209,7 +1191,7 @@
 баарында	b ɑ ɑ r ɯ n d ɑ
 баарыңар	b ɑ ɑ r ɯ ŋ ɑ r
 баарыңыздарга	b ɑ ɑ r ɯ ŋ ɯ z d ɑ r ɡ ɑ
-баарыӊыздарга	b ɑ ɑ r ɯ ӊ ɯ z d ɑ r ɡ ɑ
+баарыӊыздарга	b ɑ ɑ r ɯ ŋ ɯ z d ɑ r ɡ ɑ
 баасы	b ɑ ɑ s ɯ
 баасына	b ɑ ɑ s ɯ n ɑ
 баатыр	b ɑ ɑ t ɯ r
@@ -1650,7 +1632,7 @@
 белем.	b j e l j e m
 белем?	b j e l j e m
 белсенишет.	b j e l s j e n i ʃ j e t
-бельгия	b j e l ь ɡ i j ɑ
+бельгия	b j e l ɡ i j ɑ
 бензин	b j e n z i n
 бер	b j e r
 бербеген	b j e r b j e ɡ j e n
@@ -1954,7 +1936,7 @@
 блог	b l o ɡ
 блогун	b l o ɡ u n
 блокпостуна	b l o k p o s t u n ɑ
-блядь.	b l j ɑ d ь
+блядь.	b l j ɑ d
 божомолдогонго	b o d͡ʒ o m o l d o ɡ o n ɡ o
 божомолдосо	b o d͡ʒ o m o l d o s o
 божомолу	b o d͡ʒ o m o l u
@@ -2134,8 +2116,8 @@
 боюнча.	b o j u n t͡ʃ ɑ
 бразилия	b r ɑ z i l i j ɑ
 бразилия,	b r ɑ z i l i j ɑ
-браконьерлер	b r ɑ k o n ь j e r l j e r
-браконьерликке	b r ɑ k o n ь j e r l i k k j e
+браконьерлер	b r ɑ k o n j e r l j e r
+браконьерликке	b r ɑ k o n j e r l i k k j e
 брата	b r ɑ t ɑ
 братскими	b r ɑ t s k i m i
 бренд	b r j e n d
@@ -2324,7 +2306,7 @@
 варианттары	v ɑ r i ɑ n t t ɑ r ɯ
 варианты	v ɑ r i ɑ n t ɯ
 вариантын	v ɑ r i ɑ n t ɯ n
-васильевич.	v ɑ s i l ь j e v i t͡ʃ
+васильевич.	v ɑ s i l j e v i t͡ʃ
 вахитов.	v ɑ k i t o v
 ваши	v ɑ ʃ i
 векторун	v j e k t o r u n
@@ -2477,7 +2459,7 @@
 далылуу	d ɑ l ɯ l u u
 дамбада	d ɑ m b ɑ d ɑ
 дамбасы	d ɑ m b ɑ s ɯ
-даниль	d ɑ n i l ь
+даниль	d ɑ n i l
 даниэла	d ɑ n i e l ɑ
 данияр	d ɑ n i j ɑ r
 даражада	d ɑ r ɑ d͡ʒ ɑ d ɑ
@@ -2504,7 +2486,7 @@
 дарыланышат.	d ɑ r ɯ l ɑ n ɯ ʃ ɑ t
 дарыясы	d ɑ r ɯ j ɑ s ɯ
 дарыясында	d ɑ r ɯ j ɑ s ɯ n d ɑ
-дарья	d ɑ r ь j ɑ
+дарья	d ɑ r j ɑ
 дастан	d ɑ s t ɑ n
 дата	d ɑ t ɑ
 датаны	d ɑ t ɑ n ɯ
@@ -2587,7 +2569,7 @@
 дейт,	d j e j t
 дейт.	d j e j t
 декабрдын	d j e k ɑ b r d ɯ n
-декабрь	d j e k ɑ b r ь
+декабрь	d j e k ɑ b r
 декларативдик	d j e k l ɑ r ɑ t i v d i k
 деле	d j e l j e
 делосуна	d j e l o s u n ɑ
@@ -3017,7 +2999,7 @@
 жамгыр	d͡ʒ ɑ m ɡ ɯ r
 жамгырда	d͡ʒ ɑ m ɡ ɯ r d ɑ
 жамктын	d͡ʒ ɑ m k t ɯ n
-жампьеро	d͡ʒ ɑ m p ь j e r o
+жампьеро	d͡ʒ ɑ m p j e r o
 жан	d͡ʒ ɑ n
 жана	d͡ʒ ɑ n ɑ
 жанагы	d͡ʒ ɑ n ɑ ɡ ɯ
@@ -4049,7 +4031,7 @@
 илип	i l i p
 иллюзия	i l l j u z i j ɑ
 иллюстративдик,	i l l j u s t r ɑ t i v d i k
-ильясовдун	i l ь j ɑ s o v d u n
+ильясовдун	i l j ɑ s o v d u n
 иманалиев.	i m ɑ n ɑ l i j e v
 имарат	i m ɑ r ɑ t
 имаратка	i m ɑ r ɑ t k ɑ
@@ -4089,9 +4071,9 @@
 институт	i n s t i t u t
 институтта	i n s t i t u t t ɑ
 инструкторсуз	i n s t r u k t o r s u z
-инсульттун	i n s u l ь t t u n
+инсульттун	i n s u l t t u n
 интеграция	i n t j e ɡ r ɑ t͡s i j ɑ
-интервью	i n t j e r v ь j u
+интервью	i n t j e r v j u
 интернат	i n t j e r n ɑ t
 интернационализм	i n t j e r n ɑ t͡s i o n ɑ l i z m
 интернет	i n t j e r n j e t
@@ -4131,7 +4113,7 @@
 исломбаеванын	i s l o m b ɑ j e v ɑ n ɯ n
 исмаилова.	i s m ɑ i l o v ɑ
 испан	i s p ɑ n
-испортить	i s p o r t i t ь
+испортить	i s p o r t i t
 исраиловду	i s r ɑ i l o v d u
 исраиловдун	i s r ɑ i l o v d u n
 истиклол	i s t i k l o l
@@ -4277,8 +4259,8 @@
 иштөөнү	i ʃ t ø ø n y
 июлдун	i j u l d u n
 июлунда	i j u l u n d ɑ
-июль	i j u l ь
-июнь	i j u n ь
+июль	i j u l
+июнь	i j u n
 йозгат	j o z ɡ ɑ t
 йозгаттын	j o z ɡ ɑ t t ɯ n
 йоханнис	j o k ɑ n n i s
@@ -4794,8 +4776,8 @@
 карышлык	k ɑ r ɯ ʃ l ɯ k
 карыя	k ɑ r ɯ j ɑ
 карыяларыбыз	k ɑ r ɯ j ɑ l ɑ r ɯ b ɯ z
-карьералык	k ɑ r ь j e r ɑ l ɯ k
-карьерасындагы	k ɑ r ь j e r ɑ s ɯ n d ɑ ɡ ɯ
+карьералык	k ɑ r j e r ɑ l ɯ k
+карьерасындагы	k ɑ r j e r ɑ s ɯ n d ɑ ɡ ɯ
 касансай	k ɑ s ɑ n s ɑ j
 касымалиева.	k ɑ s ɯ m ɑ l i j e v ɑ
 кат	k ɑ t
@@ -5201,7 +5183,7 @@
 киносунун	k i n o s u n u n
 кинотеатрда	k i n o t j e ɑ t r d ɑ
 кинофестивалында	k i n o f j e s t i v ɑ l ɯ n d ɑ
-кинофестиваль	k i n o f j e s t i v ɑ l ь
+кинофестиваль	k i n o f j e s t i v ɑ l
 кир	k i r
 кирбейт.	k i r b j e j t
 кирген	k i r ɡ j e n
@@ -6479,7 +6461,7 @@
 көңүлгө	k ø ŋ y l ɡ ø
 көңүлүм	k ø ŋ y l y m
 көңүлүнө	k ø ŋ y l y n ø
-көӊүл	k ø ӊ y l
+көӊүл	k ø ŋ y l
 көөнөрбөс	k ø ø n ø r b ø s
 лабораториялык	l ɑ b o r ɑ t o r i j ɑ l ɯ k
 лавреновичти	l ɑ v r j e n o v i t͡ʃ t i
@@ -6496,7 +6478,7 @@
 ленин	l j e n i n
 леон	l j e o n
 лермонтов	l j e r m o n t o v
-ливень.	l i v j e n ь
+ливень.	l i v j e n
 лигага	l i ɡ ɑ ɡ ɑ
 лигасы	l i ɡ ɑ s ɯ
 лигасында	l i ɡ ɑ s ɯ n d ɑ
@@ -6507,7 +6489,7 @@
 лидери,	l i d j e r i
 лидерине	l i d j e r i n j e
 лидерлер	l i d j e r l j e r
-лионель	l i o n j e l ь
+лионель	l i o n j e l
 литва.	l i t v ɑ
 лицей	l i t͡s j e j
 лицейлери	l i t͡s j e j l j e r i
@@ -6678,7 +6660,7 @@
 манганы	m ɑ n ɡ ɑ n ɯ
 мангасы	m ɑ n ɡ ɑ s ɯ
 мандатыбыз	m ɑ n d ɑ t ɯ b ɯ z
-мануэль	m ɑ n u e l ь
+мануэль	m ɑ n u e l
 манчестер	m ɑ n t͡ʃ j e s t j e r
 марат	m ɑ r ɑ t
 марафон	m ɑ r ɑ f o n
@@ -6769,7 +6751,7 @@
 мегафонго	m j e ɡ ɑ f o n ɡ o
 медалдык	m j e d ɑ l d ɯ k
 медалдын	m j e d ɑ l d ɯ n
-медаль	m j e d ɑ l ь
+медаль	m j e d ɑ l
 медер	m j e d j e r
 медиа	m j e d i ɑ
 медикаменттер	m j e d i k ɑ m j e n t t j e r
@@ -6818,7 +6800,7 @@
 мелдеште	m j e l d j e ʃ t j e
 мелдештерге	m j e l d j e ʃ t j e r ɡ j e
 мелдештерде	m j e l d j e ʃ t j e r d j e
-мельник	m j e l ь n i k
+мельник	m j e l n i k
 мемиреген	m j e m i r j e ɡ j e n
 мен	m j e n
 мен,	m j e n
@@ -7001,12 +6983,12 @@
 муктаж.	m u k t ɑ d͡ʒ
 муктаждык	m u k t ɑ d͡ʒ d ɯ k
 муктаждыктар	m u k t ɑ d͡ʒ d ɯ k t ɑ r
-мультимедиалык	m u l ь t i m j e d i ɑ l ɯ k
-мультфильм	m u l ь t f i l ь m
+мультимедиалык	m u l t i m j e d i ɑ l ɯ k
+мультфильм	m u l t f i l m
 мумкун?	m u m k u n
 мунай	m u n ɑ j
 мунапыс	m u n ɑ p ɯ s
-мундиаль	m u n d i ɑ l ь
+мундиаль	m u n d i ɑ l
 муну	m u n u
 муну.	m u n u
 мунун	m u n u n
@@ -7074,7 +7056,7 @@
 мыскылдашат,	m ɯ s k ɯ l d ɑ ʃ ɑ t
 мыскылдашкан.	m ɯ s k ɯ l d ɑ ʃ k ɑ n
 мышыгы	m ɯ ʃ ɯ ɡ ɯ
-мьянманын	m ь j ɑ n m ɑ n ɯ n
+мьянманын	m j ɑ n m ɑ n ɯ n
 мэр	m e r
 мэрди	m e r d i
 мэрдин	m e r d i n
@@ -7168,14 +7150,14 @@
 нарындагы	n ɑ r ɯ n d ɑ ɡ ɯ
 насаатчылар	n ɑ s ɑ ɑ t t͡ʃ ɯ l ɑ r
 насили	n ɑ s i l i
-насколько	n ɑ s k o l ь k o
+насколько	n ɑ s k o l k o
 настоящее	n ɑ s t o j ɑ ʃ t͡ʃ j e j e
 насыя	n ɑ s ɯ j ɑ
 насыяга	n ɑ s ɯ j ɑ ɡ ɑ
 насыяларды	n ɑ s ɯ j ɑ l ɑ r d ɯ
 насыялык	n ɑ s ɯ j ɑ l ɯ k
 насыяны	n ɑ s ɯ j ɑ n ɯ
-насьональ	n ɑ s ь o n ɑ l ь
+насьональ	n ɑ s o n ɑ l
 натыйжа	n ɑ t ɯ j d͡ʒ ɑ
 натыйжада	n ɑ t ɯ j d͡ʒ ɑ d ɑ
 натыйжалуу?	n ɑ t ɯ j d͡ʒ ɑ l u u
@@ -7255,7 +7237,7 @@
 носик.	n o s i k
 носиктин	n o s i k t i n
 нотариалдык	n o t ɑ r i ɑ l d ɯ k
-ночью	n o t͡ʃ ь j u
+ночью	n o t͡ʃ j u
 ноябрда	n o j ɑ b r d ɑ
 нтв	n t v
 нукура	n u k u r ɑ
@@ -7289,12 +7271,12 @@
 образдар	o b r ɑ z d ɑ r
 образдарда	o b r ɑ z d ɑ r d ɑ
 образдын	o b r ɑ z d ɯ n
-объект	o b ъ j e k t
-объективдүү,	o b ъ j e k t i v d y y
-объективдүүлүк	o b ъ j e k t i v d y y l y k
-объектилер	o b ъ j e k t i l j e r
-объектисинде	o b ъ j e k t i s i n d j e
-объявлено.	o b ъ j ɑ v l j e n o
+объект	o b j e k t
+объективдүү,	o b j e k t i v d y y
+объективдүүлүк	o b j e k t i v d y y l y k
+объектилер	o b j e k t i l j e r
+объектисинде	o b j e k t i s i n d j e
+объявлено.	o b j ɑ v l j e n o
 ого	o ɡ o
 огороддор	o ɡ o r o d d o r
 одина	o d i n ɑ
@@ -7343,7 +7325,7 @@
 ойноштук	o j n o ʃ t u k
 ок	o k
 окко	o k k o
-октябрь	o k t j ɑ b r ь
+октябрь	o k t j ɑ b r
 окубай	o k u b ɑ j
 окугам,	o k u ɡ ɑ m
 окугула.	o k u ɡ u l ɑ
@@ -7557,7 +7539,7 @@
 орусиялыктар	o r u s i j ɑ l ɯ k t ɑ r
 орусиянын	o r u s i j ɑ n ɯ n
 орусча	o r u s t͡ʃ ɑ
-оскорблять	o s k o r b l j ɑ t ь
+оскорблять	o s k o r b l j ɑ t
 осмонбаев.	o s m o n b ɑ j e v
 осмонов	o s m o n o v
 остеопорозум	o s t j e o p o r o z u m
@@ -7609,7 +7591,7 @@
 отчёт	o t t͡ʃ j o t
 официант	o f i t͡s i ɑ n t
 оффшор	o f f ʃ o r
-очень	o t͡ʃ j e n ь
+очень	o t͡ʃ j e n
 очорулуп	o t͡ʃ o r u l u p
 очтёту	o t͡ʃ t j o t u
 ош	o ʃ
@@ -7775,18 +7757,18 @@
 патрулдук	p ɑ t r u l d u k
 пахта	p ɑ k t ɑ
 пеллегрини	p j e l l j e ɡ r i n i
-пенальтиден	p j e n ɑ l ь t i d j e n
+пенальтиден	p j e n ɑ l t i d j e n
 пенсионер	p j e n s i o n j e r
 пенсионерлер	p j e n s i o n j e r l j e r
 пенсионерлерди	p j e n s i o n j e r l j e r d i
 пенсионерлери	p j e n s i o n j e r l j e r i
 пенсия	p j e n s i j ɑ
 пенсияга	p j e n s i j ɑ ɡ ɑ
-пенья	p j e n ь j ɑ
+пенья	p j e n j ɑ
 персоналдын	p j e r s o n ɑ l d ɯ n
 перцы	p j e r t͡s ɯ
 петр	p j e t r
-печенье	p j e t͡ʃ j e n ь j e
+печенье	p j e t͡ʃ j e n j e
 пианинодо	p i ɑ n i n o d o
 пикир	p i k i r
 пикир?	p i k i r
@@ -7827,7 +7809,7 @@
 поважный	p o v ɑ d͡ʒ n ɯ j
 повесттерди	p o v j e s t t j e r d i
 подробностях	p o d r o b n o s t j ɑ k
-подъезддин	p o d ъ j e z d d i n
+подъезддин	p o d j e z d d i n
 позициям.	p o z i t͡s i j ɑ m
 позициямды	p o z i t͡s i j ɑ m d ɯ
 позициясына	p o z i t͡s i j ɑ s ɯ n ɑ
@@ -7844,9 +7826,9 @@
 полициясына	p o l i t͡s i j ɑ s ɯ n ɑ
 полковнигинин	p o l k o v n i ɡ i n i n
 полковник	p o l k o v n i k
-поль	p o l ь
-польша,	p o l ь ʃ ɑ
-польшалык	p o l ь ʃ ɑ l ɯ k
+поль	p o l
+польша,	p o l ʃ ɑ
+польшалык	p o l ʃ ɑ l ɯ k
 помню,	p o m n j u
 помпасы.	p o m p ɑ s ɯ
 понакова	p o n ɑ k o v ɑ
@@ -7882,7 +7864,7 @@
 президенттик	p r j e z i d j e n t t i k
 президенттикке	p r j e z i d j e n t t i k k j e
 президенттин	p r j e z i d j e n t t i n
-премьерим	p r j e m ь j e r i m
+премьерим	p r j e m j e r i m
 прессанын	p r j e s s ɑ n ɯ n
 прессасы	p r j e s s ɑ s ɯ
 принципиалдуу	p r i n t͡s i p i ɑ l d u u
@@ -7929,10 +7911,10 @@
 психологияда	p s i k o l o ɡ i j ɑ d ɑ
 психоневрологиялык	p s i k o n j e v r o l o ɡ i j ɑ l ɯ k
 публикада	p u b l i k ɑ d ɑ
-пульт	p u l ь t
+пульт	p u l t
 пункту	p u n k t u
-пхеньянга	p k j e n ь j ɑ n ɡ ɑ
-пьесасы	p ь j e s ɑ s ɯ
+пхеньянга	p k j e n j ɑ n ɡ ɑ
+пьесасы	p j e s ɑ s ɯ
 рагы	r ɑ ɡ ɯ
 радиус	r ɑ d i u s
 разрядда	r ɑ z r j ɑ d d ɑ
@@ -7975,7 +7957,7 @@
 резиденциядан	r j e z i d j e n t͡s i j ɑ d ɑ n
 резолюциянын	r j e z o l j u t͡s i j ɑ n ɯ n
 резонанс	r j e z o n ɑ n s
-результаты!	r j e z u l ь t ɑ t ɯ
+результаты!	r j e z u l t ɑ t ɯ
 резюмеси	r j e z j u m j e s i
 рейдерлик	r j e j d j e r l i k
 рейстердин	r j e j s t j e r d i n
@@ -8176,8 +8158,8 @@
 салыштыруу	s ɑ l ɯ ʃ t ɯ r u u
 салыштырышаарын	s ɑ l ɯ ʃ t ɯ r ɯ ʃ ɑ ɑ r ɯ n
 салышууда.	s ɑ l ɯ ʃ u u d ɑ
-сальвадор	s ɑ l ь v ɑ d o r
-сальвадорго	s ɑ l ь v ɑ d o r ɡ o
+сальвадор	s ɑ l v ɑ d o r
+сальвадорго	s ɑ l v ɑ d o r ɡ o
 салянова	s ɑ l j ɑ n o v ɑ
 саляновага	s ɑ l j ɑ n o v ɑ ɡ ɑ
 салянованын	s ɑ l j ɑ n o v ɑ n ɯ n
@@ -8351,8 +8333,8 @@
 сенин	s j e n i n
 сентябрга	s j e n t j ɑ b r ɡ ɑ
 сентябрдын	s j e n t j ɑ b r d ɯ n
-сентябрь	s j e n t j ɑ b r ь
-сеньинин	s j e n ь i n i n
+сентябрь	s j e n t j ɑ b r
+сеньинин	s j e n i n i n
 серверде	s j e r v j e r d j e
 серверлери	s j e r v j e r l j e r i
 сергей	s j e r ɡ j e j
@@ -8398,7 +8380,7 @@
 сиңирип	s i ŋ i r i p
 скажите	s k ɑ d͡ʒ i t j e
 сквер	s k v j e r
-скульпторлор	s k u l ь p t o r l o r
+скульпторлор	s k u l p t o r l o r
 смартфон	s m ɑ r t f o n
 смартфону	s m ɑ r t f o n u
 сметалык	s m j e t ɑ l ɯ k
@@ -8530,19 +8512,19 @@
 студенттер,	s t u d j e n t t j e r
 студенттик	s t u d j e n t t i k
 субжалдануучубуз,	s u b d͡ʒ ɑ l d ɑ n u u t͡ʃ u b u z
-субъективдүү	s u b ъ j e k t i v d y y
+субъективдүү	s u b j e k t i v d y y
 сувенир	s u v j e n i r
 сувенирдик	s u v j e n i r d i k
 сугат	s u ɡ ɑ t
 сугатка	s u ɡ ɑ t k ɑ
-судить	s u d i t ь
-судья	s u d ь j ɑ
-судьяга	s u d ь j ɑ ɡ ɑ
-судьядан	s u d ь j ɑ d ɑ n
-судьялар	s u d ь j ɑ l ɑ r
-судьяларга	s u d ь j ɑ l ɑ r ɡ ɑ
-судьялардын	s u d ь j ɑ l ɑ r d ɯ n
-судьялык	s u d ь j ɑ l ɯ k
+судить	s u d i t
+судья	s u d j ɑ
+судьяга	s u d j ɑ ɡ ɑ
+судьядан	s u d j ɑ d ɑ n
+судьялар	s u d j ɑ l ɑ r
+судьяларга	s u d j ɑ l ɑ r ɡ ɑ
+судьялардын	s u d j ɑ l ɑ r d ɯ n
+судьялык	s u d j ɑ l ɯ k
 суз	s u z
 суктана	s u k t ɑ n ɑ
 суктануудан	s u k t ɑ n u u d ɑ n
@@ -8809,7 +8791,7 @@
 табам.	t ɑ b ɑ m
 табасыз”	t ɑ b ɑ s ɯ z
 табат.	t ɑ b ɑ t
-табель	t ɑ b j e l ь
+табель	t ɑ b j e l
 табият	t ɑ b i j ɑ t
 табуу	t ɑ b u u
 табууга	t ɑ b u u ɡ ɑ
@@ -9108,8 +9090,8 @@
 татыктуу,	t ɑ t ɯ k t u u
 татыктуу.	t ɑ t ɯ k t u u
 татынакай	t ɑ t ɯ n ɑ k ɑ j
-татьяна.	t ɑ t ь j ɑ n ɑ
-татьянага	t ɑ t ь j ɑ n ɑ ɡ ɑ
+татьяна.	t ɑ t j ɑ n ɑ
+татьянага	t ɑ t j ɑ n ɑ ɡ ɑ
 таш	t ɑ ʃ
 ташиевди	t ɑ ʃ i j e v d i
 ташиевдин	t ɑ ʃ i j e v d i n
@@ -9894,7 +9876,7 @@
 убакыттын	u b ɑ k ɯ t t ɯ n
 убакыты	u b ɑ k ɯ t ɯ
 убийству	u b i j s t v u
-увидеть	u v i d j e t ь
+увидеть	u v i d j e t
 уга	u ɡ ɑ
 угам.	u ɡ ɑ m
 угат.	u ɡ ɑ t
@@ -9995,7 +9977,7 @@
 улуупамир	u l u u p ɑ m i r
 улуупамирликтер	u l u u p ɑ m i r l i k t j e r
 улуша	u l u ʃ ɑ
-ульяна	u l ь j ɑ n ɑ
+ульяна	u l j ɑ n ɑ
 умер	u m j e r
 умтулууңарды	u m t u l u u ŋ ɑ r d ɯ
 умурканова.	u m u r k ɑ n o v ɑ
@@ -10171,8 +10153,8 @@
 фактыларын	f ɑ k t ɯ l ɑ r ɯ n
 фактыны	f ɑ k t ɯ n ɯ
 фактысы	f ɑ k t ɯ s ɯ
-факультенин	f ɑ k u l ь t j e n i n
-факультет	f ɑ k u l ь t j e t
+факультенин	f ɑ k u l t j e n i n
+факультет	f ɑ k u l t j e t
 фамилияларын	f ɑ m i l i j ɑ l ɑ r ɯ n
 фаралар	f ɑ r ɑ l ɑ r
 фарид	f ɑ r i d
@@ -10180,7 +10162,7 @@
 фарук	f ɑ r u k
 фаруктун	f ɑ r u k t u n
 февралда	f j e v r ɑ l d ɑ
-февраль	f j e v r ɑ l ь
+февраль	f j e v r ɑ l
 федерациясынын	f j e d j e r ɑ t͡s i j ɑ s ɯ n ɯ n
 федерер	f j e d j e r j e r
 федерерге	f j e d j e r j e r ɡ j e
@@ -10197,7 +10179,7 @@
 физиологиялык	f i z i o l o ɡ i j ɑ l ɯ k
 физиотерапия	f i z i o t j e r ɑ p i j ɑ
 филат	f i l ɑ t
-фильм.	f i l ь m
+фильм.	f i l m
 финал	f i n ɑ l
 финалга	f i n ɑ l ɡ ɑ
 финалда	f i n ɑ l d ɑ
@@ -10291,9 +10273,9 @@
 хурматов	k u r m ɑ t o v
 хусан	k u s ɑ n
 хэбэй	k e b e j
-хэнань	k e n ɑ n ь
-цезарь	t͡s j e z ɑ r ь
-цезарь,	t͡s j e z ɑ r ь
+хэнань	k e n ɑ n
+цезарь	t͡s j e z ɑ r
+цезарь,	t͡s j e z ɑ r
 цехин	t͡s j e k i n
 цехтеринде	t͡s j e k t j e r i n d j e
 цехти	t͡s j e k t i
@@ -10489,7 +10471,7 @@
 чилдеде	t͡ʃ i l d j e d j e
 чили	t͡ʃ i l i
 чилинин	t͡ʃ i l i n i n
-чильникина.	t͡ʃ i l ь n i k i n ɑ
+чильникина.	t͡ʃ i l n i k i n ɑ
 чимкириги	t͡ʃ i m k i r i ɡ i
 чиновниктердей	t͡ʃ i n o v n i k t j e r d j e j
 чиритип	t͡ʃ i r i t i p
@@ -10779,7 +10761,7 @@
 штабында	ʃ t ɑ b ɯ n d ɑ
 штативдерин	ʃ t ɑ t i v d j e r i n
 штаттарда	ʃ t ɑ t t ɑ r d ɑ
-штиндль	ʃ t i n d l ь
+штиндль	ʃ t i n d l
 шткнын	ʃ t k n ɯ n
 шткчылары	ʃ t k t͡ʃ ɯ l ɑ r ɯ
 штраф	ʃ t r ɑ f
@@ -11033,7 +11015,7 @@
 элчилигинин	e l t͡ʃ i l i ɡ i n i n
 элчилик	e l t͡ʃ i l i k
 элчиликтин	e l t͡ʃ i l i k t i n
-эльвира	e l ь v i r ɑ
+эльвира	e l v i r ɑ
 элүү	e l y y
 элүүгө	e l y y ɡ ø
 эмгеги	e m ɡ j e ɡ i
@@ -11061,7 +11043,7 @@
 эмеспиз,	e m j e s p i z
 эмеспиз.	e m j e s p i z
 эмессиң,	e m j e s s i ŋ
-эмессиӊер,	e m j e s s i ӊ j e r
+эмессиӊер,	e m j e s s i ŋ j e r
 эместигимди	e m j e s t i ɡ i m d i
 эми	e m i
 эмизип,	e m i z i p
@@ -11661,8 +11643,3 @@
 өңүттөн	ø ŋ y t t ø n
 –ачык	ɑ t͡ʃ ɯ k
 –деди	d j e d i
-⅛	⅛
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

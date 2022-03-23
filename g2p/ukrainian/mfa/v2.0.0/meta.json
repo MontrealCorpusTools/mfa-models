@@ -7,21 +7,21 @@
     "license": "CC BY 4.0",
     "architecture": "pynini",
     "training": {
-        "num_words": 50121,
+        "num_words": 57617,
         "num_graphemes": 34,
         "num_phones": 84
     },
     "evaluation": {
-        "num_words": 5569,
-        "word_error_rate": 8.277967319087807,
-        "phone_error_rate": 1.4231193672981424
+        "num_words": 6401,
+        "word_error_rate": 6.483361974691454,
+        "phone_error_rate": 1.135868056932165
     },
     "phone_set": "MFA",
     "phones": [
         "b",
         "b\u02b2",
+        "b\u02b2\u02d0",
         "b\u02d0",
-        "b\u02d0\u02b2",
         "c",
         "c\u02d0",
         "dz\u02b2",
@@ -50,10 +50,6 @@
         "p",
         "p\u02b2",
         "p\u02b2\u02d0",
-        "r",
-        "r\u02b2",
-        "r\u02d0",
-        "r\u02d0\u02b2",
         "s\u02b2",
         "s\u02b2\u02d0",
         "s\u032a",
@@ -88,6 +84,10 @@
         "\u026a",
         "\u0272",
         "\u0272\u02d0",
+        "\u027e",
+        "\u027e\u02b2",
+        "\u027e\u02b2\u02d0",
+        "\u027e\u02d0",
         "\u0283",
         "\u0283\u02b2",
         "\u0283\u02b2\u02d0",
@@ -104,6 +104,6 @@
         "\u029d"
     ],
     "version": "2.0.0",
-    "train_date": "2022-02-28",
-    "citation": "@techreport{\n\tmfa_ukrainian_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Ukrainian MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Ukrainian/Ukrainian MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Feb},\n}"
+    "train_date": "2022-03-21",
+    "citation": "@techreport{\n\tmfa_ukrainian_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Ukrainian MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Ukrainian/Ukrainian MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

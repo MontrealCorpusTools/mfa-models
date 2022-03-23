@@ -12,7 +12,7 @@
 :architecture: pynini
 :license: "CC BY 4.0"
 
-   ```{include} ../../../../g2p/vietnamese/ho chi minh city_mfa/v2.0.0/README.md
+   ```{include} ../../../../g2p/vietnamese/ho_chi_minh_city_mfa/v2.0.0/README.md
     :start-after: "## Model details"
     :end-before: "## Installation"
    ```
@@ -23,6 +23,6 @@
    ```
 ``````
 
-```{include} ../../../../g2p/vietnamese/ho chi minh city_mfa/v2.0.0/README.md
+```{include} ../../../../g2p/vietnamese/ho_chi_minh_city_mfa/v2.0.0/README.md
 :start-after: "new)."
 ```

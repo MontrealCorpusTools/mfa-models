@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,17 +53,17 @@
       * m
         * Occurances: 6681
         * Examples
-          * mos: [m o ʃ]
-          * rólam: [r oː l ɑ m]
-          * menj: [m ɛ n j]
-          * érme: [eː r m ɛ]
+          * karma: [k ɑ r m ɑ]
+          * unom: [u n o m]
+          * méreg: [m eː r ɛ ɡ]
+          * sorom: [ʃ o r o m]
       * mː
         * Occurances: 97
         * Examples
-          * tommy: [t o mː i]
-          * jimmy: [j i mː i]
-          * somme: [ʃ o mː ɛ]
           * immár: [i mː aː r]
+          * semmi: [ʃ ɛ mː i]
+          * somme: [ʃ o mː ɛ]
+          * jimmy: [j i mː i]
     ```
   - ```{ipa_cell}
     ```
@@ -70,16 +72,16 @@
       * n
         * Occurances: 11029
         * Examples
-          * zorán: [z o r aː n]
-          * ajtón: [ɑ j t oː n]
-          * menj: [m ɛ n j]
-          * union: [u n i o n]
+          * unom: [u n o m]
+          * kenik: [k ɛ n i k]
+          * jónak: [j oː n ɑ k]
+          * várni: [v aː r n i]
       * nː
         * Occurances: 243
         * Examples
-          * jönni: [j ø nː i]
-          * finn: [f i nː]
-          * lenn: [l ɛ nː]
+          * tenni: [t ɛ nː i]
+          * penn: [p ɛ nː]
+          * ünnep: [y nː ɛ p]
           * jönne: [j ø nː ɛ]
     ```
   - ```{ipa_cell}
@@ -89,17 +91,17 @@
       * ɲ
         * Occurances: 1645
         * Examples
-          * nyíló: [ɲ iː l oː]
-          * tény: [t eː ɲ]
-          * nyers: [ɲ ɛ r ʃ]
-          * könyv: [k ø ɲ v]
+          * nyert: [ɲ ɛ r t]
+          * tanya: [t ɑ ɲ ɑ]
+          * enyhe: [ɛ ɲ h ɛ]
+          * nyara: [ɲ ɑ r ɑ]
       * ɲː
         * Occurances: 95
         * Examples
-          * ronny: [r o ɲː]
           * annyi: [ɑ ɲː i]
-          * denny: [d ɛ ɲː]
           * penny: [p ɛ ɲː]
+          * denny: [d ɛ ɲː]
+          * ennyi: [ɛ ɲː i]
     ```
   - ```{ipa_cell}
     ```
@@ -111,32 +113,32 @@
       * p
         * Occurances: 2885
         * Examples
-          * klip: [k l i p]
-          * stop: [ʃ t o p]
-          * kapta: [k ɑ p t ɑ]
-          * képez: [k eː p ɛ z]
+          * pesti: [p ɛ ʃ t i]
+          * apját: [ɑ p j aː t]
+          * harap: [h ɑ r ɑ p]
+          * knap: [k n ɑ p]
       * pː
         * Occurances: 74
         * Examples
           * lapp: [l ɑ pː]
-          * zupp: [z u pː]
           * csepp: [tʃ ɛ pː]
-          * hopp: [h o pː]
+          * zupp: [z u pː]
+          * épp: [eː pː]
     * voiced
       * b
         * Occurances: 4526
         * Examples
-          * bebek: [b ɛ b ɛ k]
-          * kabos: [k ɑ b o ʃ]
-          * tibet: [t i b ɛ t]
-          * hadba: [h ɑ d b ɑ]
+          * hóban: [h oː b ɑ n]
+          * bot: [b o t]
+          * sebet: [ʃ ɛ b ɛ t]
+          * öblök: [ø b l ø k]
       * bː
         * Occurances: 366
         * Examples
           * több: [t ø bː]
-          * abba: [ɑ bː ɑ]
-          * főbb: [f øː bː]
-          * előbb: [ɛ l øː bː]
+          * abból: [ɑ bː oː l]
+          * újabb: [uː j ɑ bː]
+          * abban: [ɑ bː ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -145,32 +147,32 @@
       * t
         * Occurances: 15997
         * Examples
-          * húzta: [h uː z t ɑ]
-          * lista: [l i ʃ t ɑ]
-          * ajtón: [ɑ j t oː n]
-          * zugát: [z u ɡ aː t]
+          * élt: [eː l t]
+          * tévé: [t eː v eː]
+          * dönt: [d ø n t]
+          * esti: [ɛ ʃ t i]
       * tː
         * Occurances: 1918
         * Examples
-          * úttal: [uː tː ɑ l]
-          * nőtte: [n øː tː ɛ]
-          * esett: [ɛ ʃ ɛ tː]
-          * ettem: [ɛ tː ɛ m]
+          * hitt: [h i tː]
+          * lett: [l ɛ tː]
+          * evett: [ɛ v ɛ tː]
+          * vett: [v ɛ tː]
     * voiced
       * d
         * Occurances: 5125
         * Examples
-          * dalra: [d ɑ l r ɑ]
-          * ujjad: [u jː ɑ d]
-          * hadik: [h ɑ d i k]
-          * ádám: [aː d aː m]
+          * dönt: [d ø n t]
+          * rúdon: [r uː d o n]
+          * vádi: [v aː d i]
+          * adnak: [ɑ d n ɑ k]
       * dː
         * Occurances: 62
         * Examples
-          * tedd: [t ɛ dː]
-          * vidd: [v i dː]
-          * mondd: [m o n dː]
           * kezdd: [k ɛ z dː]
+          * szedd: [s ɛ dː]
+          * addig: [ɑ dː i ɡ]
+          * keddi: [k ɛ dː i]
     ```
   - ```{ipa_cell}
     ```
@@ -179,10 +181,10 @@
       * c
         * Occurances: 115
         * Examples
+          * atya: [ɑ c ɑ]
+          * monty: [m o n c]
           * city: [ts i c i]
-          * atyja: [ɑ c j ɑ]
           * matyi: [m ɑ c i]
-          * tyler: [c l ɛ r]
       * cː
         * Occurances: 18
         * Examples
@@ -191,9 +193,9 @@
       * ɟ
         * Occurances: 1318
         * Examples
-          * avagy: [ɑ v ɑ ɟ]
-          * úgyis: [uː ɟ i ʃ]
-          * ágyúi: [aː ɟ uː i]
+          * gyúlt: [ɟ uː l t]
+          * ágyúk: [aː ɟ uː k]
+          * ügyet: [y ɟ ɛ t]
           * ágyás: [aː ɟ aː ʃ]
       * ɟː
         * Occurances: 28
@@ -204,32 +206,32 @@
       * k
         * Occurances: 12686
         * Examples
-          * klip: [k l i p]
-          * kakas: [k ɑ k ɑ ʃ]
-          * bebek: [b ɛ b ɛ k]
-          * kabos: [k ɑ b o ʃ]
+          * karma: [k ɑ r m ɑ]
+          * kenik: [k ɛ n i k]
+          * jónak: [j oː n ɑ k]
+          * kalóz: [k ɑ l oː z]
       * kː
         * Occurances: 262
         * Examples
-          * cikk: [ts i kː]
+          * ekkor: [ɛ kː o r]
           * akkor: [ɑ kː o r]
-          * cikke: [ts i kː ɛ]
           * trükk: [t r y kː]
+          * cikke: [ts i kː ɛ]
     * voiced
       * ɡ
         * Occurances: 5401
         * Examples
-          * zugát: [z u ɡ aː t]
-          * jogát: [j o ɡ aː t]
-          * gáton: [ɡ aː t o n]
-          * cég: [ts eː ɡ]
+          * guelf: [ɡ u ɛ l f]
+          * giza: [ɡ i z ɑ]
+          * méreg: [m eː r ɛ ɡ]
+          * gőgös: [ɡ øː ɡ ø ʃ]
       * ɡː
         * Occurances: 123
         * Examples
-          * függ: [f y ɡː]
           * zengg: [z ɛ n ɡː]
           * jéggé: [j eː ɡː eː]
           * függő: [f y ɡː øː]
+          * függ: [f y ɡː]
     ```
   - ```{ipa_cell}
     ```
@@ -243,26 +245,26 @@
       * ts
         * Occurances: 1178
         * Examples
-          * cég: [ts eː ɡ]
-          * cégét: [ts eː ɡ eː t]
-          * cikk: [ts i kː]
-          * city: [ts i c i]
+          * rábca: [r aː b ts ɑ]
+          * látsz: [l aː ts]
+          * luca: [l u ts ɑ]
+          * pince: [p i n ts ɛ]
       * tsː
         * Occurances: 24
         * Examples
+          * gucci: [ɡ u tsː i]
           * vicc: [v i tsː]
           * secco: [ʃ ɛ tsː o]
-          * gucci: [ɡ u tsː i]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1241
         * Examples
-          * csúcs: [tʃ uː tʃ]
-          * cső: [tʃ øː]
-          * csík: [tʃ iː k]
-          * kicsi: [k i tʃ i]
+          * csúf: [tʃ uː f]
+          * csip: [tʃ i p]
+          * chile: [tʃ i l ɛ]
+          * lőcse: [l øː tʃ ɛ]
       * tʃː
         * Occurances: 12
         * Examples
@@ -285,57 +287,57 @@
       * s
         * Occurances: 4193
         * Examples
-          * szóló: [s oː l oː]
-          * fogsz: [f o ɡ s]
-          * lesz: [l ɛ s]
-          * szólj: [s oː l j]
+          * szagú: [s ɑ ɡ uː]
+          * eszek: [ɛ s ɛ k]
+          * úszni: [uː s n i]
+          * vársz: [v aː r s]
       * sː
         * Occurances: 346
         * Examples
-          * mássz: [m aː sː]
-          * rossz: [r o sː]
           * össze: [ø sː ɛ]
+          * rossz: [r o sː]
           * jössz: [j ø sː]
+          * mássz: [m aː sː]
     * voiced
       * z
         * Occurances: 4063
         * Examples
-          * húzta: [h uː z t ɑ]
-          * zorán: [z o r aː n]
-          * zugát: [z u ɡ aː t]
-          * élvez: [eː l v ɛ z]
+          * giza: [ɡ i z ɑ]
+          * kalóz: [k ɑ l oː z]
+          * nézem: [n eː z ɛ m]
+          * zab: [z ɑ b]
       * zː
         * Occurances: 124
         * Examples
-          * izzó: [i zː oː]
-          * jazz: [j ɑ zː]
-          * közzé: [k ø zː eː]
-          * nézze: [n eː zː ɛ]
+          * hozz: [h o zː]
+          * hozza: [h o zː ɑ]
+          * húzza: [h uː zː ɑ]
+          * azzal: [ɑ zː ɑ l]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 7165
         * Examples
-          * mos: [m o ʃ]
-          * sírja: [ʃ iː r j ɑ]
-          * kakas: [k ɑ k ɑ ʃ]
-          * lista: [l i ʃ t ɑ]
+          * heves: [h ɛ v ɛ ʃ]
+          * gőgös: [ɡ øː ɡ ø ʃ]
+          * esti: [ɛ ʃ t i]
+          * pesti: [p ɛ ʃ t i]
       * ʃː
         * Occurances: 344
         * Examples
-          * mossa: [m o ʃː ɑ]
-          * kassa: [k ɑ ʃː ɑ]
           * ássak: [aː ʃː ɑ k]
-          * vass: [v ɑ ʃː]
+          * süss: [ʃ y ʃː]
+          * lássa: [l aː ʃː ɑ]
+          * kassa: [k ɑ ʃː ɑ]
     * voiced
       * ʒ
         * Occurances: 253
         * Examples
-          * pajzs: [p ɑ j ʒ]
-          * zsebe: [ʒ ɛ b ɛ]
-          * rózsa: [r oː ʒ ɑ]
+          * zsolt: [ʒ o l t]
           * rezső: [r ɛ ʒ øː]
+          * törzs: [t ø r ʒ]
+          * zsidó: [ʒ i d oː]
     ```
   - ```{ipa_cell}
     ```
@@ -351,10 +353,10 @@
       * f
         * Occurances: 2635
         * Examples
-          * fákra: [f aː k r ɑ]
-          * fákon: [f aː k o n]
-          * fogsz: [f o ɡ s]
-          * fórum: [f oː r u m]
+          * guelf: [ɡ u ɛ l f]
+          * füvek: [f y v ɛ k]
+          * csúf: [tʃ uː f]
+          * fehér: [f ɛ h eː r]
       * fː
         * Occurances: 17
         * Examples
@@ -364,10 +366,10 @@
       * v
         * Occurances: 4415
         * Examples
-          * vár: [v aː r]
-          * véres: [v eː r ɛ ʃ]
-          * avagy: [ɑ v ɑ ɟ]
-          * élvez: [eː l v ɛ z]
+          * heves: [h ɛ v ɛ ʃ]
+          * tévé: [t eː v eː]
+          * várni: [v aː r n i]
+          * kívül: [k iː v y l]
       * vː
         * Occurances: 10
         * Examples
@@ -387,10 +389,10 @@
       * h
         * Occurances: 3530
         * Examples
-          * húzta: [h uː z t ɑ]
-          * hadik: [h ɑ d i k]
-          * haris: [h ɑ r i ʃ]
-          * hízik: [h iː z i k]
+          * heves: [h ɛ v ɛ ʃ]
+          * hitt: [h i tː]
+          * hóban: [h oː b ɑ n]
+          * harap: [h ɑ r ɑ p]
       * hː
         * Occurances: 5
         * Examples
@@ -411,17 +413,17 @@
       * j
         * Occurances: 3847
         * Examples
-          * sírja: [ʃ iː r j ɑ]
-          * ajtón: [ɑ j t oː n]
-          * jogát: [j o ɡ aː t]
-          * menj: [m ɛ n j]
+          * érje: [eː r j ɛ]
+          * jónak: [j oː n ɑ k]
+          * rója: [r oː j ɑ]
+          * apját: [ɑ p j aː t]
       * jː
         * Occurances: 71
         * Examples
-          * ujjad: [u jː ɑ d]
-          * ujjam: [u jː ɑ m]
-          * ujja: [u jː ɑ]
           * ujjak: [u jː ɑ k]
+          * ujjai: [u jː ɑ i]
+          * ujja: [u jː ɑ]
+          * újjá: [uː jː aː]
     ```
   - ```{ipa_cell}
     ```
@@ -437,17 +439,17 @@
       * r
         * Occurances: 10933
         * Examples
-          * sírja: [ʃ iː r j ɑ]
-          * vár: [v aː r]
-          * zorán: [z o r aː n]
-          * véres: [v eː r ɛ ʃ]
+          * karma: [k ɑ r m ɑ]
+          * erő: [ɛ r øː]
+          * érje: [eː r j ɛ]
+          * méreg: [m eː r ɛ ɡ]
       * rː
         * Occurances: 180
         * Examples
-          * úrrá: [uː rː aː]
-          * orra: [o rː ɑ]
-          * hurrá: [h u rː aː]
-          * durr: [d u rː]
+          * sárrá: [ʃ aː rː aː]
+          * arra: [ɑ rː ɑ]
+          * varrt: [v ɑ rː t]
+          * barry: [b ɑ rː i]
     ```
   - ```{ipa_cell}
     ```
@@ -467,17 +469,17 @@
       * l
         * Occurances: 12694
         * Examples
-          * klip: [k l i p]
-          * lista: [l i ʃ t ɑ]
-          * úttal: [uː tː ɑ l]
-          * rólam: [r oː l ɑ m]
+          * élt: [eː l t]
+          * guelf: [ɡ u ɛ l f]
+          * kalóz: [k ɑ l oː z]
+          * kívül: [k iː v y l]
       * lː
         * Occurances: 924
         * Examples
-          * száll: [s aː lː]
-          * állam: [aː lː ɑ m]
-          * cella: [ts ɛ lː ɑ]
-          * bill: [b i lː]
+          * hall: [h ɑ lː]
+          * nulla: [n u lː ɑ]
+          * lilli: [l i lː i]
+          * helló: [h ɛ lː oː]
     ```
   - ```{ipa_cell}
     ```
@@ -491,6 +493,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -509,32 +513,32 @@
       * i
         * Occurances: 9524
         * Examples
-          * klip: [k l i p]
-          * lista: [l i ʃ t ɑ]
-          * tirol: [t i r o l]
-          * hadik: [h ɑ d i k]
+          * kenik: [k ɛ n i k]
+          * hitt: [h i tː]
+          * annyi: [ɑ ɲː i]
+          * giza: [ɡ i z ɑ]
       * iː
         * Occurances: 1714
         * Examples
-          * sírja: [ʃ iː r j ɑ]
-          * írd: [iː r d]
-          * hízik: [h iː z i k]
-          * hírek: [h iː r ɛ k]
+          * kívül: [k iː v y l]
+          * írást: [iː r aː ʃ t]
+          * ívben: [iː v b ɛ n]
+          * sík: [ʃ iː k]
     * rounded
       * y
         * Occurances: 1426
         * Examples
-          * ült: [y l t]
-          * fürge: [f y r ɡ ɛ]
-          * mögül: [m ø ɡ y l]
-          * üljek: [y l j ɛ k]
+          * kívül: [k iː v y l]
+          * füvek: [f y v ɛ k]
+          * ütem: [y t ɛ m]
+          * szül: [s y l]
       * yː
         * Occurances: 237
         * Examples
-          * fűt: [f yː t]
-          * bőrű: [b øː r yː]
           * bűnös: [b yː n ø ʃ]
-          * sűrű: [ʃ yː r yː]
+          * fűz: [f yː z]
+          * művel: [m yː v ɛ l]
+          * bőrű: [b øː r yː]
     ```
   - ```{ipa_cell}
     ```
@@ -547,17 +551,17 @@
       * u
         * Occurances: 3201
         * Examples
-          * zugát: [z u ɡ aː t]
-          * ujjad: [u jː ɑ d]
-          * union: [u n i o n]
-          * sokuk: [ʃ o k u k]
+          * unom: [u n o m]
+          * guelf: [ɡ u ɛ l f]
+          * búsul: [b uː ʃ u l]
+          * hamut: [h ɑ m u t]
       * uː
         * Occurances: 806
         * Examples
-          * húzta: [h uː z t ɑ]
-          * úttal: [uː tː ɑ l]
-          * csúcs: [tʃ uː tʃ]
-          * húzni: [h uː z n i]
+          * rúdon: [r uː d o n]
+          * csúf: [tʃ uː f]
+          * búsul: [b uː ʃ u l]
+          * szagú: [s ɑ ɡ uː]
     ```
 * -
   - ```{ipa_cell}
@@ -576,25 +580,25 @@
       * eː
         * Occurances: 7518
         * Examples
-          * véres: [v eː r ɛ ʃ]
-          * érme: [eː r m ɛ]
-          * eltér: [ɛ l t eː r]
-          * élvez: [eː l v ɛ z]
+          * élt: [eː l t]
+          * érje: [eː r j ɛ]
+          * tévé: [t eː v eː]
+          * méreg: [m eː r ɛ ɡ]
     * rounded
       * ø
         * Occurances: 2659
         * Examples
-          * több: [t ø bː]
-          * köré: [k ø r eː]
-          * övben: [ø v b ɛ n]
-          * körte: [k ø r t ɛ]
+          * gőgös: [ɡ øː ɡ ø ʃ]
+          * dönt: [d ø n t]
+          * öblök: [ø b l ø k]
+          * össze: [ø sː ɛ]
       * øː
         * Occurances: 2086
         * Examples
-          * cső: [tʃ øː]
-          * hőség: [h øː ʃ eː ɡ]
-          * tető: [t ɛ t øː]
-          * időm: [i d øː m]
+          * erő: [ɛ r øː]
+          * gőgös: [ɡ øː ɡ ø ʃ]
+          * ernő: [ɛ r n øː]
+          * főút: [f øː uː t]
     ```
   - ```{ipa_cell}
     ```
@@ -607,17 +611,17 @@
       * o
         * Occurances: 10398
         * Examples
-          * mos: [m o ʃ]
-          * zorán: [z o r aː n]
-          * kabos: [k ɑ b o ʃ]
-          * stop: [ʃ t o p]
+          * unom: [u n o m]
+          * bot: [b o t]
+          * sorom: [ʃ o r o m]
+          * rúdon: [r uː d o n]
       * oː
         * Occurances: 2655
         * Examples
-          * ajtón: [ɑ j t oː n]
-          * rólam: [r oː l ɑ m]
-          * szóló: [s oː l oː]
+          * jónak: [j oː n ɑ k]
+          * kalóz: [k ɑ l oː z]
           * rója: [r oː j ɑ]
+          * hóban: [h oː b ɑ n]
     ```
 * -
   - ```{ipa_cell}
@@ -636,10 +640,10 @@
       * ɛ
         * Occurances: 23023
         * Examples
-          * bebek: [b ɛ b ɛ k]
-          * véres: [v eː r ɛ ʃ]
-          * menj: [m ɛ n j]
-          * érme: [eː r m ɛ]
+          * heves: [h ɛ v ɛ ʃ]
+          * erő: [ɛ r øː]
+          * kenik: [k ɛ n i k]
+          * érje: [eː r j ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -670,10 +674,10 @@
       * aː
         * Occurances: 9857
         * Examples
-          * vár: [v aː r]
-          * zorán: [z o r aː n]
-          * zugát: [z u ɡ aː t]
-          * jogát: [j o ɡ aː t]
+          * várni: [v aː r n i]
+          * írást: [iː r aː ʃ t]
+          * apját: [ɑ p j aː t]
+          * vádi: [v aː d i]
     ```
   - ```{ipa_cell}
     ```
@@ -682,9 +686,9 @@
       * ɑ
         * Occurances: 17565
         * Examples
-          * sírja: [ʃ iː r j ɑ]
-          * húzta: [h uː z t ɑ]
-          * kakas: [k ɑ k ɑ ʃ]
-          * lista: [l i ʃ t ɑ]
+          * karma: [k ɑ r m ɑ]
+          * annyi: [ɑ ɲː i]
+          * giza: [ɡ i z ɑ]
+          * jónak: [j oː n ɑ k]
     ```
 ``````

@@ -63,8 +63,8 @@
         "\u028b\u02d0",
         "\u0294"
     ],
-    "word_count": 2503,
-    "train_date": "2022-03-12",
+    "word_count": 2482,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_tamil_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Tamil MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Tamil/Tamil MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

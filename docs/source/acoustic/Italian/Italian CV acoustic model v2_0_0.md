@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Italian_v7_0`:
-  * **Hours:** `288.00`
-  * **Speakers:** `6,125`
-  * **Utterances:** `194,504`
+   * {ref}`Common_Voice_Italian_v7_0`:
+     * **Hours:** `288.00`
+     * **Speakers:** `6,125`
+     * **Utterances:** `194,504`
    ```
 
 

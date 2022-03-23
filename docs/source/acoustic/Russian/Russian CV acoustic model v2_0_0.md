@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Russian_v7_0`:
-  * **Hours:** `148.00`
-  * **Speakers:** `1,609`
-  * **Utterances:** `99,513`
+   * {ref}`Common_Voice_Russian_v7_0`:
+     * **Hours:** `148.00`
+     * **Speakers:** `1,609`
+     * **Utterances:** `99,513`
    ```
 
 

@@ -1,18 +1,4 @@
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 abbosiylar	a b b ɒ s i j l a r
 adolat	a d̪ ɒ l a t̪
 agar	a ɡ a r
@@ -57,6 +43,7 @@ aytish	a j t̪ i ʃ
 aytishga	a j t̪ i ʃ ɡ a
 aytsa,	a j t͡s a
 azon	a z ɒ n
+balandlatdi	b a l a n d̪ l a t̪ d̪ i
 banditlar	b a n d̪ i t̪ l a r
 baraka	b a r a k a
 barham	b a r h a m
@@ -149,7 +136,6 @@ buxoro	b u χ ɒ r ɒ
 buyruq	b u j r u q
 byudjetini	b j u d̪ d͡ʒ e t̪ i n i
 byulleteni	b j u l l e t̪ e n i
-bаlаndlаtdi	b а l а n d̪ l а t̪ d̪ i
 chaqirildi.	t͡ʃ a q i r i l d̪ i
 chaqirtirib	t͡ʃ a q i r t̪ i r i b
 chegaradagi	t͡ʃ e ɡ a r a d̪ a ɡ i
@@ -221,12 +207,12 @@ faqat	ɸ a q a t̪
 favqulodda	ɸ a v q u l ɒ d̪ d̪ a
 fikr	ɸ i k r
 fikrlashni	ɸ i k r l a ʃ n i
+fonarni	ɸ o n a r n i
 formulasi	ɸ ɒ r m u l a s i
 foyda	ɸ ɒ j d̪ a
 foydalanish	ɸ ɒ j d̪ a l a n i ʃ
 fuqarolararo	ɸ u q a r ɒ l a r a r ɒ
 fursatda	ɸ u r s a t̪ d̪ a
-fоnаrni	ɸ о n а r n i
 g'azoni	ʁ a z ɒ n i
 gap	ɡ a p
 gapi	ɡ a p i
@@ -342,6 +328,7 @@ kelardi	k e l a r d̪ i
 kelayotganini	k e l a j ɒ t̪ ɡ a n i n i
 keldi.	k e l d̪ i
 keldi?	k e l d̪ i
+kelib,	k e l i b
 kelin,	k e l i n
 kelishdi	k e l i ʃ d̪ i
 kelishik	k e l i ʃ i k
@@ -398,7 +385,6 @@ kurslarini	k u r s l a r i n i
 kutdim.	k u t̪ d̪ i m
 kutib	k u t̪ i b
 kutubxonasining	k u t̪ u b χ ɒ n a s i n i ŋ
-kеlib,	k е l i b
 la'natlab	l a ʔ n a t̪ l a b
 laboratoriyasida	l a b ɒ r a t̪ ɒ r i j a s i d̪ a
 latifa.	l a t̪ i ɸ a
@@ -828,7 +814,7 @@ usta	u s t̪ a
 uyli-joyli	u j l i d͡ʒ ɒ j l i
 uyni	u j n i
 uyqu	u j q u
-uyqusirаb	u j q u s i r а b
+uyqusirab	u j q u s i r a b
 va	v a
 vakillari	v a k i l l a r i
 vazifasi	v a z i ɸ a s i
@@ -919,14 +905,6 @@ zarari	z a r a r i
 zardushtiylik	z a r d̪ u ʃ t̪ i j l i k
 zarurat	z a r u r a t̪
 zavodda	z a v ɒ d̪ d̪ a
+zebi	z e b i
 zo'ravon	z o r a v ɒ n
 zo'ravonda	z o r a v ɒ n d̪ a
-zеbi	z е b i
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

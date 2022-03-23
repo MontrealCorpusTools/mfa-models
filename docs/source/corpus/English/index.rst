@@ -18,6 +18,8 @@ English
 
    Common Voice English v8_0.md
    LibriSpeech English.md
+   NCHLT English.md
+   ARU English corpus.md
    Corpus of Regional African American Language v2021_07.md
    Google Nigerian English.md
    Google UK and Ireland English.md

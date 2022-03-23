@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Bashkir_v7_0`:
-  * **Hours:** `247.00`
-  * **Speakers:** `835`
-  * **Utterances:** `200,869`
+   * {ref}`Common_Voice_Bashkir_v7_0`:
+     * **Hours:** `247.00`
+     * **Speakers:** `835`
+     * **Utterances:** `200,869`
    ```
 
 

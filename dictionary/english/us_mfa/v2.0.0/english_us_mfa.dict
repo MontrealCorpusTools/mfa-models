@@ -2,6 +2,7 @@
 'd	d
 'd	t
 'd	ɪ d
+'d	ɾ
 'em	m̩
 'em	ɛ m
 'em	ɪ m
@@ -23,21 +24,7 @@
 'un	ɐ n
 've	v
 've	ə v
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	ej
 a	ə
 aa	ej ej
@@ -3038,6 +3025,8 @@ airily	ɛ ɹ ə ʎ i
 airing	ɛ ɹ ɪ ŋ
 airless	ɛ ɹ l ə s
 airlift	ɛ ɹ ʎ ɪ f t
+airlifted	ɛ ɹ ʎ ɪ f t ɪ d
+airlifts	ɛ ɹ ʎ ɪ f t s
 airline	ɛ ɹ l aj n
 airliner	ɛ ɹ l aj n ɚ
 airliners	ɛ ɹ l aj n ɚ z
@@ -9430,6 +9419,7 @@ billingsgate	b ɪ ʎ ɪ ŋ s ɟ ej t
 billingsley	b ɪ ʎ ɪ ŋ z ʎ i
 billion	b ɪ ʎ ə n
 billionaire	b ɪ ʎ ə n ɛ ɹ
+billionaires	b ɪ ʎ ə n ɛ ɹ z
 billions	b ɪ ʎ ə n z
 billionth	b ɪ ʎ i n̩ θ
 billow	b ɪ l ow
@@ -11577,6 +11567,7 @@ broadband	b ɹ ɒ d b æ n d
 broadbent	b ɹ ɒ d b n̩ t
 broadbent	b ɹ ɒ d b ɛ n t
 broadcast	b ɹ ɒ d cʰ æ s t
+broadcasted	b ɹ ɒ d cʰ æ s t ɪ d
 broadcaster	b ɹ ɒ d cʰ æ s t ɚ
 broadcasters	b ɹ ɒ d cʰ æ s t ɚ z
 broadcasting	b ɹ ɒ d cʰ æ s t ɪ ŋ
@@ -11702,6 +11693,7 @@ brothel	b ɹ ɒ θ ɫ̩
 brothels	b ɹ ɒ ð ɫ̩ z
 brother	b ɹ ɐ ð ɚ
 brotherhood	b ɹ ɐ ð ɚ h ʊ d
+brotherhoods	b ɹ ɐ ð ɚ h ʊ d z
 brotherly	b ɹ ɐ ð ɚ ʎ i
 brothers	b ɹ ɐ ð ɚ z
 brotherson	b ɹ ɐ ð ɚ s ə n
@@ -13482,6 +13474,8 @@ caribou	cʰ ɛ ɹ ə b ʉ
 caribous	cʰ ɛ ɹ ɪ b ʉː z
 caricature	cʰ ɛ ɹ ɪ k ə tʃ ʊ ɹ
 caricature	kʰ ə ɹ ɪ k ə tʃ ʊ ɹ
+caricatured	cʰ ɛ ɹ ɪ k ə tʃ ʊ ɹ d
+caricatured	kʰ ə ɹ ɪ k ə tʃ ʊ ɹ d
 caricatures	cʰ ɛ ɹ ɪ k ə tʃ ɚ z
 caricaturist	cʰ ɛ ɹ ɪ k ə tʃ ʊ ɹ ɪ s t
 caries	cʰ ɛ ɹ i z
@@ -15268,8 +15262,9 @@ chiropractic	cʰ aj ɹ ə p ɹ æ k t ɪ k
 chiropractors	cʰ aj ɹ ə p ɹ æ k t ɚ z
 chiropterologist	cʰ aj ɹ ɑ p t ə ɹ ɑ l ə dʒ ɪ s t
 chirp	tʃ ɝ p
-chirped	tʃ ɝ p ɪ d
+chirped	tʃ ɝ p t
 chirping	tʃ ɝ p ɪ ŋ
+chirps	tʃ ɝ p s
 chirpy	tʃ ɝ pʲ i
 chirr	tʃ ɝ
 chirren	tʃ ɪ ɹ n̩
@@ -15964,6 +15959,7 @@ claret	c ʎ ɛ ɹ ɪ t
 clarification	c ʎ ɛ ɹ ɪ f ɪ cʰ ej ʃ ə n
 clarified	c ʎ ɛ ɹ ɪ f aj d
 clarifier	c ʎ ɛ ɹ ə f aj ɹ
+clarifies	c ʎ ɛ ɹ ɪ f aj z
 clarify	c ʎ ɛ ɹ ɪ f aj
 clarinda	k l ə ɹ ɪ n d ə
 clarinet	c ʎ ɛ ɹ ɪ n ɛ t
@@ -17312,6 +17308,7 @@ compete	kʰ ə m pʰ iː ʔ
 competed	kʰ ə m pʰ iː ɾ ɪ d
 competence	kʰ ɑ m p ɪ ɾ ə n s
 competences	kʰ ɑ m p ɪ ɾ ə n s ɪ z
+competencies	kʰ ɑ m p ɪ ɾ ə n s i z
 competency	kʰ ɑ m p ɪ ɾ ə n s i
 competent	kʰ ɑ m p ɪ ɾ ə n t
 competently	kʰ ɑ m p ɪ ɾ ə n t ʎ i
@@ -17687,6 +17684,8 @@ conductors	kʰ ə n d ɐ k t ɚ z
 conducts	kʰ ə n d ɐ k s
 conduit	kʰ ɑ n d ɪ t
 conduit	kʰ ɑ n d ʊ ɪ t
+conduits	kʰ ɑ n d ɪ t s
+conduits	kʰ ɑ n d ʊ ɪ t s
 cone	kʰ ow n
 cones	kʰ ow n z
 conetoe	kʰ ow n tʰ ow
@@ -17897,6 +17896,7 @@ congruent	kʰ ɑː ŋ ɡ ɹ ʉː ɛ n t
 congruity	kʰ ɑː ŋ ɡ ɹ ʉː ɪ ɾ i
 conic	kʰ ɑ ɲ ɪ k
 conical	kʰ ɑ ɲ ɪ k ɫ̩
+conics	kʰ ɑ ɲ ɪ k s
 conifer	kʰ ɑ ɲ ɪ f ɚ
 conifers	kʰ ɑ ɲ ɪ f ɚ z
 coniston	kʰ ɒ ɲ ɪ s t ə n
@@ -18380,6 +18380,7 @@ contragravity	kʰ ɑ n t ɹ ə ɟ ɹ æ v ɪ ɾ i
 contralateral	kʰ ɑ n t ɹ ə l æ ɾ ə ɹ ɫ̩
 contranym	kʰ ɑ n t ɹ ə ɲ ɪ m
 contraption	kʰ ə n t ɹ æ p ʃ ə n
+contraptions	kʰ ə n t ɹ æ p ʃ ə n z
 contrarian	kʰ ə n t ɹ ɛ ɹ i n̩
 contraries	kʰ ə n t ɹ ɛ ɹ i z
 contrariety	kʰ ɑ n t ɹ ə ɹ aj ɪ ɾ i
@@ -18813,6 +18814,7 @@ cornered	kʰ ɒ ɹ n ɚ d
 cornering	kʰ ɒ ɹ n ɹ ɪ ŋ
 corners	kʰ ɒ ɹ n ɚ z
 cornerstone	kʰ ɒ ɹ n ɚ s t ow n
+cornerstones	kʰ ɒ ɹ n ɚ s t ow n z
 cornet	kʰ ɒ ɹ n ɛ t
 cornetcy	kʰ ɒ ɹ ɲ ɪ t s i
 cornetist	kʰ ɒ ɹ n ɛ t ɪ s t
@@ -18857,6 +18859,7 @@ coronal	kʰ ɒ ɹ ə n ɫ̩
 coronal	kʰ ə ɹ ow n ɫ̩
 coronary	kʰ ɒ ɹ ə n ɛ ɹ i
 coronation	kʰ ɒ ɹ ə ɲ ej ʃ ə n
+coronations	kʰ ɒ ɹ ə ɲ ej ʃ ə n z
 coronavirus	kʰ ə ɹ ow n ə v aj ɹ ə s
 coronel	kʰ ɒ ɹ ə n ɫ̩
 coroner	kʰ ɒ ɹ ə n ɚ
@@ -18965,6 +18968,7 @@ corsairs	kʰ ɒ ɹ s ɛ ɹ z
 corse	kʰ ɒ ɹ s
 corselet	kʰ ɒ ɹ s ʎ ɪ t
 corset	kʰ ɒ ɹ s ɪ t
+corsets	kʰ ɒ ɹ s ɪ t s
 corsica	kʰ ɒ ɹ s ɪ k ə
 corsican	kʰ ɒ ɹ s ə k n̩
 corso	kʰ ɒ ɹ s ow
@@ -19160,6 +19164,7 @@ counterargument	kʰ aw n t ə ɹ ɑ ɹ ɟ ə m n̩ t
 counterargument	kʰ aw n t ə ɹ ɑ ɹ ɟ ə m ɛ n t
 counterattack	kʰ aw n t ɚ ə tʰ æ k
 counterattacked	kʰ aw n t ɚ ə tʰ æ k t
+counterattacks	kʰ aw n t ɚ ə tʰ æ k s
 counterbalance	kʰ aw n t ɚ b æ l ə n s
 counterbalanced	kʰ aw n t ɚ b æ l ə n s t
 counterclaim	kʰ aw n t ɚ c ʎ ej m
@@ -21251,6 +21256,7 @@ deadly	d ɛ d ʎ i
 deadmin	dʲ iː æ d m ɪ n
 deadness	d ɛ d n ə s
 deadpan	d ɛ d pʰ æ n
+deadpanned	d ɛ d pʰ æ n d
 deads	d ɛ d z
 deaf	d ɛ f
 deafblindness	d ɛ f b l aj n d ɲ ɪ s
@@ -21738,6 +21744,7 @@ deflect	d ə f l ɛ k t
 deflected	d ə f l ɛ k t ɪ d
 deflecting	d ə f l ɛ k t ɪ ŋ
 deflection	d ə f l ɛ k ʃ ə n
+deflections	d ə f l ɛ k ʃ ə n z
 deflector	d ə f l ɛ k t ɚ
 deflocculate	d ə f l ɑ c ʉ l ej t
 deflocculation	d ə f l ɑ c ʉ l ej ʃ ə n
@@ -22870,6 +22877,7 @@ diagram	d aj ə ɟ ɹ æ m
 diagram	d aj ɟ ɹ æ m
 diagrams	d aj ə ɟ ɹ æ m z
 dial	d aj ɫ̩
+dial	d aj ɫ̩ d
 dialect	d aj ə l ɛ k t
 dialectal	d aj ə l ɛ k t ɫ̩
 dialectic	d aj ə l ɛ k t ɪ k
@@ -23869,9 +23877,16 @@ disorganizing	d ɪ s ɒ ɹ ɡ ə n aj z ɪ ŋ
 disorient	d ɪ s ɒː ɹ i n̩ t
 disorient	d ɪ s ɒː ɹ i ɛ n t
 disorientation	d ɪ s ɒ ɹ i ɛ n tʰ ej ʃ ə n
+disoriented	d ɪ s ɒː ɹ i n̩ t ɪ d
+disoriented	d ɪ s ɒː ɹ i ɛ n t ɪ d
+disorients	d ɪ s ɒː ɹ i n̩ t s
+disorients	d ɪ s ɒː ɹ i ɛ n t s
 disown	d ɪ s ow n
 disowned	d ɪ s ow n d
+disowns	d ɪ s ow n z
 dispair	d ɪ s p ɛ ɹ
+dispaired	d ɪ s p ɛ ɹ d
+dispairs	d ɪ s p ɛ ɹ z
 disparadise	d ɪ s p ɛ ɹ ə d aj s
 disparadised	d ɪ s p ɛ ɹ ə d aj s t
 disparage	d ɪ s p ɛ ɹ ɪ dʒ
@@ -24119,6 +24134,7 @@ distractedly	d ɪ s t ɹ æ k t ɪ d ʎ i
 distracting	d ɪ s t ɹ æ k t ɪ ŋ
 distraction	d ɪ s t ɹ æ k ʃ ə n
 distractions	d ɪ s t ɹ æ k ʃ ə n z
+distracts	d ɪ s t ɹ æ k t s
 distrait	d ɪ s t ɹ ej
 distraught	d ɪ s t ɹ ɒː t
 distress	d ɪ s t ɹ ɛ s
@@ -25749,6 +25765,8 @@ earliest	ɝ ʎ i ɪ s t
 earliness	ɝ ʎ i n ə s
 earls	ɝ ɫ z
 early	ɝ ʎ i
+earmark	ɪ ɹ m ɑ ɹ k
+earmarked	ɪ ɹ m ɑ ɹ k t
 earmarks	ɪ ɹ m ɑ ɹ k s
 earn	ɝ n
 earned	ɝ n d
@@ -29277,6 +29295,7 @@ extractor	ɪ k s t ɹ æ k t ɚ
 extracts	ɛ k s t ɹ æ k s
 extracurricular	ɛ k s t ɹ ə k ə ɹ ɪ c ə l ɚ
 extradite	ɛ k s t ɹ ə d aj t
+extradited	ɛ k s t ɹ ə d aj ɾ ɪ d
 extradition	ɛ k s t ɹ ə d ɪ ʃ ə n
 extramedullary	ɛ k s t ɹ ə m ə d ɐ l ə ɹ i
 extramedullary	ɛ k s t ɹ ə m ɛ dʒ ʉ l ɛ ɹ i
@@ -30774,6 +30793,7 @@ finis	fʲ iː ɲ iː
 finish	f ɪ ɲ ɪ ʃ
 finished	f ɪ ɲ ɪ ʃ t
 finisher	f ɪ ɲ ɪ ʃ ɚ
+finishers	f ɪ ɲ ɪ ʃ ɚ z
 finishes	f ɪ ɲ ɪ ʃ ɪ z
 finishing	f ɪ ɲ ɪ ʃ ɪ ŋ
 finishings	f ɪ ɲ ɪ ʃ ɪ ŋ z
@@ -30815,6 +30835,7 @@ fire	f aj ɹ
 firearm	f aj ɹ ɑ ɹ m
 firearms	f aj ɹ ɑ ɹ m z
 fireball	f aj ɹ b ɒː ɫ
+fireballs	f aj ɹ b ɒː ɫ z
 firebase	f aj ɹ b ej s
 firebird	f aj ɹ b ɝ d
 firebrand	f aj ɹ b ɹ æ n d
@@ -31294,6 +31315,7 @@ flickering	f ʎ ɪ k ə ɹ ɪ ŋ
 flickers	f ʎ ɪ k ɚ z
 flicking	f ʎ ɪ c ɪ ŋ
 flickings	f ʎ ɪ c ɪ ŋ z
+flickr	f ʎ ɪ k ɚ
 flicks	f ʎ ɪ k s
 flier	f l aj ɚ
 fliers	f l aj ɹ z
@@ -33424,6 +33446,7 @@ gamespot	ɟ ej m s p ɑ t
 gamespy	ɟ ej m s p aj
 gamester	ɟ ej m s t ɚ
 gamete	ɡ æ mʲ iː t
+gametes	ɡ æ mʲ iː t s
 gamewell	ɟ ej m w ɛ ɫ
 gamey	ɟ ej mʲ i
 gamin	ɡ æ m ɪ n
@@ -37381,8 +37404,6 @@ hbcus	ej tʃ bʲ iː s iː j ʉː z
 hd	ej tʃ dʲ iː
 he	iː
 he	ç iː
-he'd	ç iː d
-he'd've	ç iː ɾ ə v
 he'll	ç iː ɫ
 he'll	ç ɪ ɫ
 he'll	ç ɫ̩
@@ -37450,6 +37471,7 @@ heady	h ɛ ɾ i
 heal	ç iː ɫ
 healed	ç iː ɫ d
 healer	ç i l ɚ
+healers	ç i l ɚ z
 healey	ç iː ʎ i
 healing	ç iː ʎ ɪ ŋ
 healings	ç iː ʎ ɪ ŋ z
@@ -38740,6 +38762,7 @@ homeostasis	h ow mʲ i ow s t ej s ɪ s
 homeostatic	h ow mʲ i ow s t æ ɾ ɪ k
 homeotherm	h ow mʲ i ow θ ɝ m
 homeowners	h ow m ow n ɚ z
+homepage	h ow m pʰ ej dʒ
 homeported	h ow m pʰ ɒ ɹ ɾ ɪ d
 homer	h ow m ɚ
 homeric	h ow m ɛ ɹ ɪ k
@@ -38832,8 +38855,10 @@ honeycomb	h ɐ ɲ iː kʰ ow m
 honeycombed	h ɐ ɲ i kʰ ow m d
 honeyed	h ɐ ɲ i d
 honeymoon	h ɐ ɲ i m ʉ n
+honeymooned	h ɐ ɲ i m ʉ n d
 honeymooner	h ɐ ɲ i m ʉ n ɚ
 honeymooners	h ɐ ɲ i m ʉ n ɚ z
+honeymoons	h ɐ ɲ i m ʉ n z
 honeys	h ɐ ɲ i z
 honeysuckle	h ɐ ɲ iː s ɐ k ɫ̩
 honeyway	h ɐ ɲ i w ej
@@ -39209,7 +39234,6 @@ hovering	h ɐ v ə ɹ ɪ ŋ
 hovering	h ɐ v ɹ ɪ ŋ
 hovers	h ɐ v ɚ z
 how	h aw
-how'd	h aw d
 how'll	h aw ɫ
 how'm	h aw m
 how're	h aw ɹ
@@ -39873,9 +39897,6 @@ hyundai	ç ɐ n d aj
 hyundai	ç ɐ n d ej
 i	aj
 i	ʔ aj
-i'd	aj d
-i'd'a	aj ɾ ə
-i'd've	aj ɾ ə v
 i'da	aj ɾ ə
 i'dn't've	aj d ə n t ə v
 i'll	aj ɫ
@@ -40487,6 +40508,7 @@ imperial	ɪ m p ɪ ɹ i ɫ̩
 imperialism	ɪ m p ɪ ɹ i ə ʎ ɪ z m̩
 imperialist	ɪ m p ɪ ɹ i ə ʎ ɪ s t
 imperialistic	ɪ m p ɪ ɹ i ə ʎ ɪ s t ɪ k
+imperials	ɪ m p ɪ ɹ i ɫ̩ z
 imperil	ɪ m pʰ ɛ ɹ ɫ̩
 imperiled	ɪ m pʰ ɛ ɹ ɫ̩ d
 imperilled	ɪ m pʰ ɛ ɹ ɪ ɫ d
@@ -40724,6 +40746,7 @@ ina	ɪ n ə
 inability	ɪ n ə b ɪ ʎ ɪ ɾ i
 inable	ɪ ɲ ej b ɫ̩
 inaccessible	ɪ ɲ æ k s ɛ s ə b ɫ̩
+inaccuracies	ɪ ɲ æ c ʊ ɹ ə s i z
 inaccuracy	ɪ ɲ æ c ʊ ɹ ə s i
 inaccurate	ɪ ɲ æ c ʊ ɹ ə t
 inaccurate	ɪ ɲ æ c ʊ ɹ ə ʔ
@@ -41685,6 +41708,7 @@ inky	ɪ ɲ c i
 inlaid	ɪ n l ej d
 inland	ɪ n l ə n d
 inlay	ɪ n l ej
+inlays	ɪ n l ej z
 inlet	ɪ n l ɛ t
 inlets	ɪ n l ɛ t s
 inline	ɪ n l aj n
@@ -42790,6 +42814,7 @@ irregular	ɪ ɹ ɛ ɟ ə l ɚ
 irregularities	ɪ ɹ ɛ ɟ ə l ɛ ɹ ɪ ɾ i z
 irregularity	ɪ ɹ ɛ ɟ ə l ɛ ɹ ɪ ɾ i
 irregularly	ɪ ɹ ɛ ɟ ə l ɚ ʎ i
+irregulars	ɪ ɹ ɛ ɟ ə l ɚ z
 irrelative	ɪ ɹ ɛ l ə ɾ ɪ v
 irrelevance	ɪ ɹ ɛ l ə v n̩ s
 irrelevance	ɪ ɹ ɛ l ə v ɛ n s
@@ -42983,6 +43008,7 @@ it	ɪ t
 it	ɪ ɾ
 it	ɪ ʔ
 it'd	ɪ d
+it'd	ɪ ɾ
 it'd	ɪ ɾ ɪ d
 it'd	ɪ ʔ d
 it'll	ɪ t ɫ̩
@@ -52038,6 +52064,8 @@ modelling	m ɑ ɾ ə ʎ ɪ ŋ
 models	m ɑ ɾ ɫ̩ z
 modem	m ow d ɛ m
 modem	m ow ɾ m̩
+modems	m ow d ɛ m z
+modems	m ow ɾ m̩ z
 modena	m ow d ɪ n ə
 moderate	m ɑ d ɹ ə t
 moderate	m ɑ d ɹ ə ʔ
@@ -52739,6 +52767,7 @@ motherland	m ɐ ð ɚ l æ n d
 motherless	m ɐ ð ɚ l ə s
 motherly	m ɐ ð ɚ ʎ i
 mothers	m ɐ ð ɚ z
+mothership	m ɐ ð ɚ ʃ ɪ p
 motherwell	m ɐ ð ɚ w ɛ ɫ
 moths	m ɑ θ s
 moths	m ɒ ð z
@@ -53581,6 +53610,7 @@ nameless	ɲ ej m l ə s
 namely	ɲ ej m ʎ i
 nameplate	ɲ ej m p l ej t
 nameplate	ɲ ej m p l ej ʔ
+nameplates	ɲ ej m p l ej t s
 namer	ɲ ej m ɚ
 names	ɲ ej m z
 namesake	ɲ ej m s ej k
@@ -54263,6 +54293,8 @@ neuter	ɲ ʉː ɾ ɚ
 neutral	ɲ ʉː t ɹ ɫ̩
 neutrality	ɲ ʉ t ɹ æ ʎ ɪ ɾ i
 neutralize	ɲ ʉː t ɹ ə l aj z
+neutralized	ɲ ʉː t ɹ ə l aj z d
+neutralizes	ɲ ʉː t ɹ ə l aj z ɪ z
 neutrals	ɲ ʉː t ɹ ɫ̩ z
 neutrino	ɲ ʉː t ɹ iː n ow
 neutrinos	ɲ ʉː t ɹ iː n ow z
@@ -55522,6 +55554,7 @@ obsequies	ɒ b s ɪ c w iː z
 obsequious	ə b s iː c w i ə s
 obsequy	ɒ b s ɪ c w iː
 observable	ə b z ɝ v ə b ɫ̩
+observables	ə b z ɝ v ə b ɫ̩ z
 observance	ə b z ɝ v n̩ s
 observance	ə b z ɝ v ɛ n s
 observances	ə b z ɝ v n̩ s ɪ z
@@ -55626,6 +55659,8 @@ occupation	ɑ c ə pʰ ej ʃ ə n
 occupational	ɑ c ə pʰ ej ʃ ə n ɫ̩
 occupations	ɑ c ə pʰ ej ʃ ə n z
 occupied	ɑ c ə pʰ aj d
+occupier	ɑ c ə pʰ aj ɚ
+occupiers	ɑ c ə pʰ aj ɚ z
 occupies	ɑ c ə pʰ aj z
 occupy	ɑ c ə pʰ aj
 occupying	ɑ c ə pʰ aj ɪ ŋ
@@ -56857,6 +56892,12 @@ outnumbered	aw t n ɐ m b ɚ d
 outpad	aw t pʰ æ d
 outpatient	aw t pʰ ej ʃ ə n t
 outpatients	aw t pʰ ej ʃ ə n t s
+outperform	aw t pʰ ɚ f ɒ ɹ m
+outperform	aw ʔ pʰ ɚ f ɒ ɹ m
+outperformed	aw t pʰ ɚ f ɒ ɹ m d
+outperformed	aw ʔ pʰ ɚ f ɒ ɹ m d
+outperforms	aw t pʰ ɚ f ɒ ɹ m z
+outperforms	aw ʔ pʰ ɚ f ɒ ɹ m z
 outpost	aw t pʰ ow s t
 outposts	aw t pʰ ow s t s
 outpouring	aw t pʰ ɒ ɹ ɪ ŋ
@@ -57024,6 +57065,7 @@ overhangs	ow v ɚ h æ ŋ z
 overhaul	ow v ɚ h ɒ ɫ
 overhauled	ow v ɚ h ɒ ɫ d
 overhauling	ow v ɚ h ɒ ʎ ɪ ŋ
+overhauls	ow v ɚ h ɒ ɫ z
 overhead	ow v ɚ h ɛ d
 overhear	ow v ɚ ç ɪ ɹ
 overheard	ow v ɚ h ɝ d
@@ -57348,6 +57390,7 @@ pacification	pʰ æ s ɪ f ɪ cʰ ej ʃ ə n
 pacified	pʰ æ s ɪ f aj d
 pacifier	pʰ æ s ɪ f aj ɹ
 pacifist	pʰ æ s ɪ f ɪ s t
+pacifists	pʰ æ s ɪ f ɪ s t s
 pacify	pʰ æ s ə f aj
 pacify	pʰ æ s ɪ f aj
 pacifying	pʰ æ s ɪ f aj ɪ ŋ
@@ -57587,6 +57630,7 @@ palletise	pʰ æ l ə tʰ aj z
 palletise	pʰ æ ʎ ɪ tʰ aj z
 palletize	pʰ æ l ə tʰ aj z
 palletize	pʰ æ ʎ ɪ tʰ aj z
+pallets	pʰ æ ʎ ɪ t s
 pallette	pʰ æ l ə t
 pallette	pʰ æ ʎ ɪ t
 palliament	pʰ æ ʎ ɪ ə m n̩ t
@@ -57890,6 +57934,7 @@ paradiso	pʰ ɛ ɹ ə dʲ i s ow
 paradox	pʰ ɛ ɹ ə d ɑ k s
 paradoxes	pʰ ɛ ɹ ə d ɑ k s ɪ z
 paradoxical	pʰ ɛ ɹ ə d ɑː k s ɪ k ɫ̩
+paradoxically	pʰ ɛ ɹ ə d ɑː k s ɪ k ə ʎ i
 paradoxography	pʰ ɛ ɹ ə d ɑ k s ɑ ɡ ɹ ə fʲ i
 paraenesis	pʰ ə ɹ iː ɲ ɪ s ɪ s
 paraenetical	pʰ ɛ ɹ ə n ɛ ɾ ɪ k ɫ̩
@@ -58192,6 +58237,7 @@ participation	pʰ ɑ ɹ tʰ ɪ s ɪ pʰ ej ʃ ə n
 participatory	pʰ ɑ ɹ tʰ ɪ s ɪ p ə ɾ ə ɹ i
 participatory	pʰ ɑ ɹ tʰ ɪ s ɪ pʰ ej ɾ ə ɹ i
 participle	pʰ ɑ ɹ ɾ ɪ s ɪ p ɫ̩
+participles	pʰ ɑ ɹ ɾ ɪ s ɪ p ɫ̩ z
 particle	pʰ ɑ ɹ ɾ ɪ k ɫ̩
 particles	pʰ ɑ ɹ ɾ ɪ k ɫ̩ z
 particular	pʰ ɑ ɹ tʰ ɪ c ə l ɚ
@@ -58313,6 +58359,7 @@ paste	pʰ ej s t
 pasteboard	pʰ ej s t b ɒ ɹ d
 pasted	pʰ ej s t ɪ d
 pastel	pʰ æ s t ɛ ɫ
+pastels	pʰ æ s t ɛ ɫ z
 pastern	pʰ æ s t ɚ n
 pastes	pʰ ej s t s
 pasteur	pʰ æ s tʃ ʊ ɹ
@@ -58890,7 +58937,9 @@ pencils	pʰ ɛ n s ɫ̩ z
 pencroft	pʰ ɛ ŋ k ɹ ɒ f t
 pend	pʰ ɛ n d
 pendant	pʰ ɛ n d ə n t
+pendants	pʰ ɛ n d ə n t s
 pendent	pʰ ɛ n d ə n t
+pendents	pʰ ɛ n d ə n t s
 pender	pʰ ɛ n d ɚ
 pendergast	pʰ ɛ n d ɚ ɡ æ s t
 pendergrass	pʰ ɛ n d ɚ ɟ ɹ æ s
@@ -61113,6 +61162,8 @@ politicians	pʰ ɑ ʎ ɪ tʰ ɪ ʃ n z
 politicised	pʰ ə ʎ ɪ ɾ ɪ s aj z d
 politicization	pʰ ə ʎ ɪ ɾ ɪ s ɪ z ej ʃ ə n
 politicize	pʰ ə ʎ ɪ ɾ ɪ s aj z
+politicized	pʰ ə ʎ ɪ ɾ ɪ s aj z d
+politicizes	pʰ ə ʎ ɪ ɾ ɪ s aj z ɪ z
 politico	pʰ ə ʎ ɪ ɾ ɪ k ow
 politics	pʰ ɑ ʎ ɪ ɾ ɪ k s
 polities	pʰ ɑ ʎ ɪ ɾ i z
@@ -62217,8 +62268,13 @@ pressmen	p ɹ ɛ s m n̩
 pressure	p ɹ ɛ ʃ ɚ
 pressured	p ɹ ɛ ʃ ɚ d
 pressures	p ɹ ɛ ʃ ɚ z
+pressurise	p ɹ ɛ ʃ ɚ aj z
+pressurised	p ɹ ɛ ʃ ɚ aj z d
+pressurises	p ɹ ɛ ʃ ɚ aj z ɪ z
 pressurization	p ɹ ɛ ʃ ɚ aj z ej ʃ ə n
+pressurize	p ɹ ɛ ʃ ɚ aj z
 pressurized	p ɹ ɛ ʃ ɚ aj z d
+pressurizes	p ɹ ɛ ʃ ɚ aj z ɪ z
 prest	p ɹ ɛ s t
 prestatyn	p ɹ ɛ s t æ ɾ ɪ n
 prester	p ɹ ɛ s t ɚ
@@ -63676,6 +63732,7 @@ purport	pʰ ɚ pʰ ɒ ɹ ʔ
 purported	pʰ ɚ pʰ ɒ ɹ ɾ ɪ d
 purportedly	pʰ ɚ pʰ ɒ ɹ ɾ ɪ d ʎ i
 purporting	pʰ ɚ pʰ ɒ ɹ ɾ ɪ ŋ
+purports	pʰ ɚ pʰ ɒ ɹ t s
 purpose	pʰ ɝ p ə s
 purposed	pʰ ɝ p ə s t
 purposedly	pʰ ɝ p ə s ɪ d ʎ i
@@ -64774,7 +64831,7 @@ raphael	ɹ æ f aj ɫ̩
 raphe	ɹ ej fʲ i
 raphe	ɹ æ f ej
 rapid	ɹ æ p ɪ d
-rapidity	ɹ ə p ɪ ɾ ɪ ɾ i
+rapidity	ɹ ə pʰ ɪ ɾ ɪ ɾ i
 rapidly	ɹ æ p ɪ d ʎ i
 rapids	ɹ æ p ɪ d z
 rapier	ɹ ej p ɪ ɹ
@@ -65187,7 +65244,9 @@ rebirth	ɹ i b ɝ θ
 reboantic	ɹ i b ow æ n t ɪ k
 reboot	ɹ i b ʉː t
 reboot	ɹ i b ʉː ʔ
+rebooted	ɹ i b ʉː ɾ ɪ d
 rebooting	ɹ i b ʉː ɾ ɪ ŋ
+reboots	ɹ i b ʉː t s
 reborn	ɹ i b ɒ ɹ n
 rebound	ɹ i b aw n d
 rebounded	ɹ i b aw n d ɪ d
@@ -65203,6 +65262,7 @@ rebuffing	ɹ ɪ b ɐ f ɪ ŋ
 rebuffs	ɹ i b ɐ f s
 rebuild	ɹ i b ɪ ɫ d
 rebuilding	ɹ i b ɪ ɫ d ɪ ŋ
+rebuilds	ɹ i b ɪ ɫ d z
 rebuilt	ɹ i b ɪ ɫ t
 rebuilt	ɹ i b ɪ ɫ ʔ
 rebuke	ɹ i bʲ ʉː k
@@ -65323,6 +65383,7 @@ reckons	ɹ ɛ k n̩ z
 reclaim	ɹ ɪ k l ej m
 reclaimed	ɹ ɪ k l ej m d
 reclaiming	ɹ ɪ c ʎ ej m ɪ ŋ
+reclaims	ɹ ɪ k l ej m z
 reclamation	ɹ ɛ k l ə m ej ʃ ə n
 reclassified	ɹ ɪ c ʎ æ s ɪ f aj d
 recline	ɹ ə k l aj n
@@ -65818,6 +65879,7 @@ refulgence	ɹ ɪ f ɐ ɫ dʒ ə n t s
 refulgent	ɹ ə f ɐ ɫ dʒ ə n t
 refund	ɹ ɪ f ɐ n d
 refunded	ɹ ɪ f ɐ n d ɪ d
+refunds	ɹ ɪ f ɐ n d z
 refurbish	ɹ i f ɝ b ɪ ʃ
 refurbished	ɹ i f ɝ b ɪ ʃ t
 refurbishment	ɹ i f ɝ b ɪ ʃ m n̩ t
@@ -66000,6 +66062,9 @@ reinforcing	ɹ i ɪ ɱ f ɒ ɹ s ɪ ŋ
 reinhardt	ɹ aj n h ɑ ɹ t
 reining	ɹ ej ɲ ɪ ŋ
 reins	ɹ ej n z
+reinstall	ɹ i ɪ n s t ɒː ɫ
+reinstalled	ɹ i ɪ n s t ɒː ɫ d
+reinstalls	ɹ i ɪ n s t ɒː ɫ z
 reinstate	ɹ i ɪ n s t ej t
 reinstate	ɹ i ɪ n s t ej ʔ
 reinstated	ɹ i ɪ n s t ej ɾ ɪ d
@@ -67644,6 +67709,7 @@ rings	ɹ ɪ ŋ z
 ringwood	ɹ ɪ ŋ w ʊ d
 ringxiety	ɹ ɪ ŋ z aj ɪ ɾ i
 rink	ɹ ɪ ŋ k
+rinks	ɹ ɪ ŋ k s
 rinse	ɹ ɪ n s
 rinsed	ɹ ɪ n s t
 rinsing	ɹ ɪ n s ɪ ŋ
@@ -67885,6 +67951,7 @@ rockerbilts	ɹ ɑ k ɚ b ɪ ɫ t s
 rockers	ɹ ɑ k ɚ z
 rocket	ɹ ɑ c ɪ t
 rocket	ɹ ɑ c ɪ ʔ
+rocketed	ɹ ɑ c ɪ ɾ ɪ d
 rockets	ɹ ɑ c ɪ t s
 rockfish	ɹ ɑ k f ɪ ʃ
 rockford	ɹ ɑ k f ɚ d
@@ -69976,6 +70043,7 @@ scorched	s k ɒ ɹ tʃ t
 scorching	s k ɒ ɹ tʃ ɪ ŋ
 score	s k ɒ ɹ
 scoreboard	s k ɒ ɹ b ɒ ɹ d
+scoreboards	s k ɒ ɹ b ɒ ɹ d z
 scored	s k ɒ ɹ d
 scoreless	s k ɒ ɹ l ə s
 scorer	s k ɒː ɹ ɚ
@@ -71301,6 +71369,7 @@ shapeless	ʃ ej p l ə s
 shapely	ʃ ej p ʎ i
 shapen	ʃ ej p n̩
 shaper	ʃ ej p ɚ
+shapers	ʃ ej p ɚ z
 shapes	ʃ ej p s
 shapeshifter	ʃ ej p ʃ ɪ f t ɚ
 shaping	ʃ ej p ɪ ŋ
@@ -71385,7 +71454,6 @@ shawshank	ʃ ɒː ʃ æ ŋ k
 shawty	ʃ ɒː ɾ i
 shay	ʃ ej
 she	ʃ iː
-she'd	ʃ iː d
 she'll	ʃ iː ɫ
 she'll	ʃ ɪ ɫ
 she'll	ʃ ɫ̩
@@ -71778,6 +71846,7 @@ shoreham	ʃ ɒ ɹ h æ m
 shoreland	ʃ ɒ ɹ l ə n d
 shoreless	ʃ ɒ ɹ l ə s
 shoreline	ʃ ɒ ɹ l aj n
+shorelines	ʃ ɒ ɹ l aj n z
 shores	ʃ ɒ ɹ z
 shoreview	ʃ ɒ ɹ vʲ ʉː
 shoreward	ʃ ɒ ɹ w ɒ ɹ d
@@ -72800,6 +72869,10 @@ skynet	s k aj n ɛ t
 skype	s k aj p
 skyr	s c ɪ ɹ
 skyriot	s c ɪ ɹ i ə t
+skyrocket	s k aj ɹ ɑ c ɪ t
+skyrocket	s k aj ɹ ɑ c ɪ ʔ
+skyrocketed	s k aj ɹ ɑ c ɪ ɾ ɪ d
+skyrockets	s k aj ɹ ɑ c ɪ t s
 skyros	s c ɪ ɹ ɑ s
 skyscraper	s k aj s c ɹ ej p ɚ
 skyscrapers	s k aj s c ɹ ej p ɚ z
@@ -75293,6 +75366,7 @@ starved	s t ɑ ɹ v d
 starven	s t ɑ ɹ v n̩
 starvin	s t ɑ ɹ v ɪ n
 starving	s t ɑ ɹ v ɪ ŋ
+starz	s t ɑ ɹ z
 stash	s t æ ʃ
 stashed	s t æ ʃ t
 stasik	s t æ s ɪ k
@@ -78630,6 +78704,7 @@ technological	tʰ ɛ k n ə l ɑ dʒ ɪ k ɫ̩
 technologically	tʰ ɛ k n ə l ɑ dʒ ɪ c ʎ i
 technologies	tʰ ɛ k n ɑ l ə dʒ i z
 technologist	tʰ ɛ k n ɑ l ə dʒ ɪ s t
+technologists	tʰ ɛ k n ɑ l ə dʒ ɪ s t s
 technology	tʰ ɛ k n ɑ l ə dʒ i
 technopeasant	tʰ ɛ k n ow pʰ ɛ z ə n t
 technophobia	tʰ ɛ k n ə f ow bʲ i ə
@@ -78725,10 +78800,12 @@ telematics	tʰ ɛ l ə m æ ɾ ɪ k s
 telencephalon	tʰ ɛ l ə n s ɛ f ə l ə n
 telenovelas	tʰ ɛ l ə n ow v ɛ l ə z
 teleophyte	tʰ ɛ ʎ iː ow f aj t
+telepath	tʰ ɛ l ə pʰ æ θ
 telepathetic	tʰ ɛ l ə p ə t h ɛ ɾ ɪ k
 telepathetically	tʰ ɛ l ə p ə θ ɛ ɾ ɪ c ʎ i
 telepathic	tʰ ɛ ʎ ɪ pʰ æ θ ɪ k
 telepathically	tʰ ɛ l ə pʰ æ θ ɪ k ə ʎ i
+telepaths	tʰ ɛ l ə pʰ æ θ s
 telepathy	tʰ ə l ɛ p ə θ i
 telepathy	tʰ ɛ l ə pʰ æ θ i
 telepathy	tʰ ɛ l ɛ p ə θ i
@@ -79267,7 +79344,9 @@ that	ð æ ɾ
 that	ð æ ʔ
 that'a	ð æ ɾ ə
 that'd	d æ d
+that'd	d æ ɾ
 that'd	ð æ d
+that'd	ð æ ɾ
 that're	d æ ɾ ɚ
 that're	ð æ ɾ ɚ
 that's	d æ s
@@ -79503,8 +79582,6 @@ thew	θ ʉː
 thews	θ ʉː z
 they	d ej
 they	ð ej
-they'd	ð ej d
-they'd've	ð ej ɾ ə v
 they're	d ɚ
 they're	d ɛ ɹ
 they're	ð ɚ
@@ -80969,6 +81046,7 @@ traitors	t ɹ ej ɾ ɚ z
 traitress	t ɹ ej t ɹ ɛ s
 traits	t ɹ ej t s
 trajan	t ɹ ej dʒ ə n
+trajectories	t ɹ ə dʒ ɛ k t ə ɹ i z
 trajectory	t ɹ ə dʒ ɛ k t ə ɹ i
 tralee	t ɹ æ ʎ iː
 tralineate	t ɹ ə ʎ ɪ ɲ i ej t
@@ -81209,6 +81287,7 @@ tranylcypromine	t ɹ æ n ɫ̩ s aj p ɹ ə mʲ iː n
 trap	t ɹ æ p
 trapdale	t ɹ æ p d ej ɫ
 trapdoor	t ɹ æ p d ɒ ɹ
+trapdoors	t ɹ æ p d ɒ ɹ z
 trapeze	t ɹ æ pʰ iː z
 trapezium	t ɹ æ pʰ i z i m̩
 trapezium	t ɹ ə pʰ iː z i m̩
@@ -81575,6 +81654,7 @@ triplets	t ɹ ɪ p l ə t s
 triplicity	t ɹ ɪ p ʎ ɪ s ɪ ɾ i
 tripling	t ɹ ɪ p ʎ ɪ ŋ
 tripod	t ɹ aj pʰ ɑ d
+tripods	t ɹ aj pʰ ɑ d z
 tripoli	t ɹ ɪ p ə ʎ i
 tripp	t ɹ ɪ p
 tripped	t ɹ ɪ p t
@@ -82339,6 +82419,7 @@ typhoid	tʰ aj f ɔj d
 typhon	tʰ aj f n̩
 typhonomachy	tʰ aj f ə n ɑ m ə c i
 typhoon	tʰ aj f ʉ n
+typhoons	tʰ aj f ʉ n z
 typhus	tʰ aj f ə s
 typical	tʰ ɪ p ɪ k ɫ̩
 typically	tʰ ɪ p ɪ c ʎ i
@@ -82634,6 +82715,7 @@ unbarring	ɐ n b ɑ ɹ ɪ ŋ
 unbathed	ɐ n b ej ð d
 unbearable	ɐ n b ɛ ɹ ə b ɫ̩
 unbearably	ɐ n b ɛ ɹ ə b ʎ i
+unbeaten	ɐ m bʲ i ɾ ə n
 unbecoming	ɐ n b ɪ kʰ ɐ m ɪ ŋ
 unbefitting	ɐ n b ɪ f ɪ ɾ ɪ ŋ
 unbeing	ɐ n bʲ iː ɪ ŋ
@@ -86361,7 +86443,6 @@ wazoo	w ɑ z ʉ
 wcg	d ɐ b ɫ̩ j ʉː s iː dʒ iː
 wcw	d ɐ b ɫ̩ j ʉː s iː d ɐ b ɫ̩ j ʉː
 we	w iː
-we'd	w iː d
 we'll	w i ɫ̩
 we'll	w ɪ ɫ
 we'll	w ɫ̩
@@ -86777,6 +86858,7 @@ what	w ɐ t
 what	w ɐ ɾ
 what	w ɐ ʔ
 what'd	w ɐ d
+what'd	w ɐ ɾ
 what'd	w ɐ ɾ ɪ d
 what'll	w ɐ ɾ ɫ̩
 what's	w ɐ t s
@@ -86848,8 +86930,6 @@ whemmel	w ɛ m ɫ̩
 when	w n̩
 when	w ɛ n
 when	w ɪ n
-when'd	w ɛ n d
-when'd	w ɪ n d
 when'll	w ɛ n ɫ̩
 when'll	w ɪ n ɫ̩
 when's	w ɛ n z
@@ -88426,8 +88506,6 @@ y'	j
 y'	j ə
 y'ad	j æ d
 y'all	j ɒ ɫ
-y'all'd	j ɒ ɫ d
-y'all'd've	j ɒ ɫ d ə v
 y'are	j ɑ ɹ
 y'ave	j æ v
 y'ave	j ə v
@@ -88758,8 +88836,6 @@ yote	j ow ʔ
 yotzei	j ow t s ej
 you	j ə
 you	j ʉː
-you'd	j ʉː d
-you'dn't've	j ʉː ɾ ə n t ə v
 you're	j ɚ
 you're	j ʉː ɚ
 you're	j ʊ ɹ
@@ -89198,11 +89274,3 @@ zzyzx	z aj z ɪ k s
 zzzs	z i z
 zürich	z ɝ ɪ k
 zürich	z ʊ ɹ ɪ k
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

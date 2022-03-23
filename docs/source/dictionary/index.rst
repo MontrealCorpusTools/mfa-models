@@ -15,6 +15,7 @@ Pronunciation dictionaries
 .. toctree::
    :hidden:
 
+   ../mfa_phone_set.md
    Abkhaz/index.rst
    Arabic/index.rst
    Armenian/index.rst
@@ -62,4 +63,3 @@ Pronunciation dictionaries
    Uyghur/index.rst
    Uzbek/index.rst
    Vietnamese/index.rst
-   ../mfa_phone_set.md

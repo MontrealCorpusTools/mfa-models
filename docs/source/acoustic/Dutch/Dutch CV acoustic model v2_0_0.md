@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Dutch_v7_0`:
-  * **Hours:** `93.00`
-  * **Speakers:** `1,352`
-  * **Utterances:** `79,153`
+   * {ref}`Common_Voice_Dutch_v7_0`:
+     * **Hours:** `93.00`
+     * **Speakers:** `1,352`
+     * **Utterances:** `79,153`
    ```
 
 

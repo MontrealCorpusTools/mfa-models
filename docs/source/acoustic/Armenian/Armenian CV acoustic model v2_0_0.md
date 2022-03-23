@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Armenian_v7_0`:
-  * **Hours:** `1.00`
-  * **Speakers:** `22`
-  * **Utterances:** `767`
+   * {ref}`Common_Voice_Armenian_v7_0`:
+     * **Hours:** `1.00`
+     * **Speakers:** `22`
+     * **Utterances:** `767`
    ```
 
 

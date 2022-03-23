@@ -15,27 +15,13 @@
 'mehmed	m ɛ h m ɛ d
 'urîna	u ɾ iː n aː
 'w',	w
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
 ....bi	b ɪ
 ....kaşkaşok	k aː ʃ k aː ʃ o k
 ....piştî	p ɪ ʃ t iː
 ....serê	s ɛ ɾ eː
 ....sîmon	s iː m o n
 ....zilamê	z ɪ l aː m eː
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	aː
 a.	aː
 abdulhekîm,	aː b d u l h ɛ k iː m
@@ -1539,7 +1525,7 @@ bûyê?....	b uː j eː
 bûyî	b uː j iː
 bûyî.	b uː j iː
 bûyî?	b uː j iː
-bū	b ū
+bū	b uː
 cam	d͡ʒ aː m
 camên	d͡ʒ aː m eː n
 camêrî	d͡ʒ aː m eː ɾ iː
@@ -10019,10 +10005,6 @@ zûka	z uː k aː
 zûrî.	z uː ɾ iː
 zûtir	z uː t ɪ ɾ
 zûtirîn	z uː t ɪ ɾ iː n
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 çalak	t͡ʃ aː l aː k
 çalakiya	t͡ʃ aː l aː k ɪ j aː
 çalakiyan	t͡ʃ aː l aː k ɪ j aː n
@@ -10468,7 +10450,7 @@ zûtirîn	z uː t ɪ ɾ iː n
 îşê	iː ʃ eː
 îşî	iː ʃ iː
 îşîn	iː ʃ iː n
-özal	ʏ ː z aː l
+özal	ʏ z aː l
 û	uː
 şa	ʃ aː
 şabanê	ʃ aː b aː n eː
@@ -10787,7 +10769,3 @@ zûtirîn	z uː t ɪ ɾ iː n
 “xalê	x aː l eː
 “zimanê	z ɪ m aː n eː
 “êdî	eː d iː
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

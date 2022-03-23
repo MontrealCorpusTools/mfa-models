@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Abkhaz_v7_0`:
-  * **Hours:** `2.00`
-  * **Speakers:** `28`
-  * **Utterances:** `1,166`
+   * {ref}`Common_Voice_Abkhaz_v7_0`:
+     * **Hours:** `2.00`
+     * **Speakers:** `28`
+     * **Utterances:** `1,166`
    ```
 
 

@@ -12,7 +12,7 @@
 :phoneset: "MFA"
 :license: "CC BY 4.0"
 
-   ```{include} ../../../../dictionary/spanish/latin america_mfa/v2.0.0/README.md
+   ```{include} ../../../../dictionary/spanish/latin_america_mfa/v2.0.0/README.md
     :start-after: "## Dictionary details"
     :end-before: "## Installation"
    ```
@@ -24,13 +24,15 @@
 
 ``````
 
-```{include} ../../../../dictionary/spanish/latin america_mfa/v2.0.0/README.md
+```{include} ../../../../dictionary/spanish/latin_america_mfa/v2.0.0/README.md
 :start-after: "new)."
 ```
 
 ## IPA Charts
 
 ### Consonants
+
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
 
 ``````{list-table}
 :header-rows: 1
@@ -49,12 +51,12 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 19259
+        * Occurances: 19291
         * Examples
-          * pampa: [p a m p a]
-          * tomé: [t̪ o m e]
-          * pemón: [p e m o n]
-          * samba: [s a m b a]
+          * impío: [i m p i o]
+          * gamma: [ɡ a m a]
+          * mont: [m o ɲ]
+          * meter: [m e t̪ e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -63,12 +65,12 @@
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 30452
+        * Occurances: 30490
         * Examples
-          * gano: [ɡ a n o]
-          * india: [i n d̪ j a]
-          * finir: [f i n i ɾ]
-          * colon: [k o l o n]
+          * noto: [n o t̪ o]
+          * khan: [k a n]
+          * joan: [x o a n]
+          * grano: [ɡ ɾ a n o]
     ```
   - ```{ipa_cell}
     ```
@@ -77,59 +79,59 @@
       * ɲ
         * Occurances: 2216
         * Examples
-          * ocaña: [o k a ɲ a]
-          * kanji: [k a ɲ ç i]
-          * niñe: [n i ɲ e]
-          * caña: [k a ɲ a]
+          * anya: [a ɲ ɟʝ a]
+          * mont: [m o ɲ]
+          * miño: [m i ɲ o]
+          * guiño: [ɟ i ɲ o]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 2302
+        * Occurances: 2304
         * Examples
-          * ancón: [a ŋ k o n]
-          * song: [s o ŋ ɡ]
-          * bongó: [b o ŋ ɡ o]
-          * young: [ɟʝ u ŋ ɡ]
+          * frank: [f ɾ a ŋ k]
+          * hongo: [o ŋ ɡ o]
+          * tango: [t̪ a ŋ ɡ o]
+          * monk: [m o ŋ k]
     ```
 * - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 14183
+        * Occurances: 14201
         * Examples
-          * pared: [p a ɾ e ð]
-          * pise: [p i s e]
-          * culpa: [k u l p a]
-          * pampa: [p a m p a]
+          * yukpa: [ɟʝ u ɣ p a]
+          * impío: [i m p i o]
+          * chupe: [tʃ u p e]
+          * pucté: [p u k t̪ e]
     * voiced
       * b
-        * Occurances: 5807
+        * Occurances: 5810
         * Examples
-          * vidal: [b i ð a l]
-          * buque: [b u c e]
-          * burns: [b u r n s]
-          * brote: [b ɾ o t̪ e]
+          * brujo: [b ɾ u x o]
+          * bóxer: [b o ɣ s e ɾ]
+          * babas: [b a β a s]
+          * váter: [b a t̪ e ɾ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t̪
-        * Occurances: 30617
+        * Occurances: 30654
         * Examples
-          * corte: [k o r t̪ e]
-          * test: [t̪ e s t̪]
-          * wat: [w a t̪]
-          * seat: [s e a t̪]
+          * talca: [t̪ a l k a]
+          * noto: [n o t̪ o]
+          * tarde: [t̪ a r ð e]
+          * éter: [e t̪ e ɾ]
     * voiced
       * d̪
-        * Occurances: 8807
+        * Occurances: 8817
         * Examples
-          * india: [i n d̪ j a]
-          * dandy: [d̪ a n d̪ i]
-          * digna: [d̪ i ɣ n a]
-          * dirac: [d̪ i ɾ a k]
+          * mendé: [m e n d̪ e]
+          * dejas: [d̪ e x a s]
+          * dejen: [d̪ e ç e n]
+          * dummy: [d̪ u m i]
     ```
   - ```{ipa_cell}
     ```
@@ -138,38 +140,38 @@
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 2047
+        * Occurances: 2048
         * Examples
-          * buque: [b u c e]
-          * nicky: [n i ɣ c i]
-          * yacía: [ɟʝ a c i a]
-          * quita: [c i t̪ a]
+          * qué: [c e]
+          * ken: [c e n]
+          * equis: [e c i s]
+          * kenia: [c e ɲ j a]
     * voiced
       * ɟ
         * Occurances: 165
         * Examples
-          * guido: [ɟ i ð o]
-          * gail: [ɟ e i l]
-          * guion: [ɟ i o n]
+          * guiño: [ɟ i ɲ o]
+          * guiri: [ɟ i ɾ i]
           * guija: [ɟ i x a]
+          * gail: [ɟ e i l]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 20151
+        * Occurances: 20171
         * Examples
-          * evoca: [e β o k a]
-          * cabal: [k a β a l]
-          * caras: [k a ɾ a s]
-          * corte: [k o r t̪ e]
+          * cague: [k a ʝ e]
+          * talca: [t̪ a l k a]
+          * cursa: [k u r s a]
+          * caso: [k a s o]
     * voiced
       * ɡ
-        * Occurances: 2133
+        * Occurances: 2136
         * Examples
-          * gano: [ɡ a n o]
-          * galia: [ɡ a l j a]
-          * grito: [ɡ ɾ i t̪ o]
-          * glory: [ɡ l o ɾ i]
+          * grifo: [ɡ ɾ i f o]
+          * gamma: [ɡ a m a]
+          * grano: [ɡ ɾ a n o]
+          * galos: [ɡ a l o s]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -185,20 +187,20 @@
       * tʃ
         * Occurances: 2409
         * Examples
-          * elche: [e l tʃ e]
-          * chono: [tʃ o n o]
-          * chiva: [tʃ i β a]
-          * chad: [tʃ a ð]
+          * chupe: [tʃ u p e]
+          * choi: [tʃ o i]
+          * lache: [l a tʃ e]
+          * shaw: [tʃ a u]
     ```
   - ```{ipa_cell}
     * voiced
       * ɟʝ
         * Occurances: 495
         * Examples
-          * yesca: [ɟʝ e s k a]
-          * yacía: [ɟʝ a c i a]
-          * jour: [ɟʝ u ɾ]
-          * yes: [ɟʝ e s]
+          * anya: [a ɲ ɟʝ a]
+          * yukpa: [ɟʝ u ɣ p a]
+          * yagua: [ɟʝ a ɣ w a]
+          * your: [ɟʝ u ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -212,22 +214,22 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 51292
+        * Occurances: 51353
         * Examples
-          * caras: [k a ɾ a s]
-          * áreas: [a ɾ e a s]
-          * test: [t̪ e s t̪]
-          * nasir: [n a s i ɾ]
+          * sony: [s o]
+          * cursa: [k u r s a]
+          * caso: [k a s o]
+          * cifra: [s i f ɾ a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 262
+        * Occurances: 263
         * Examples
-          * smash: [s m a ʃ]
-          * josh: [x o ʃ]
-          * kersh: [c e r ʃ]
-          * flash: [f l a ʃ]
+          * józef: [x o ð ʃ e f]
+          * shin: [ʃ i n]
+          * bajux: [b a x u ʃ]
+          * shane: [ʃ a n e]
     ```
   - ```{ipa_cell}
     ```
@@ -239,22 +241,22 @@
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 6552
+        * Occurances: 6558
         * Examples
-          * finir: [f i n i ɾ]
-          * fosa: [f o s a]
-          * refós: [r e f o s]
-          * rifa: [r i f a]
+          * cifra: [s i f ɾ a]
+          * grifo: [ɡ ɾ i f o]
+          * fauna: [f a u n a]
+          * józef: [x o ð ʃ e f]
     ```
   - ```{ipa_cell}
     * voiced
       * ð
-        * Occurances: 26910
+        * Occurances: 26919
         * Examples
-          * pared: [p a ɾ e ð]
-          * vidal: [b i ð a l]
-          * nadal: [n a ð a l]
-          * abjad: [a β x a ð]
+          * tarde: [t̪ a r ð e]
+          * adora: [a ð o ɾ a]
+          * józef: [x o ð ʃ e f]
+          * sudo: [s u ð o]
     ```
   - ```{ipa_cell}
     ```
@@ -263,41 +265,33 @@
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 2797
+        * Occurances: 2798
         * Examples
-          * kanji: [k a ɲ ç i]
-          * giro: [ç i ɾ o]
-          * traje: [t̪ ɾ a ç e]
-          * girar: [ç i ɾ a ɾ]
+          * jerez: [ç e ɾ e s]
+          * orgía: [o r ç i a]
+          * dejen: [d̪ e ç e n]
+          * agita: [a ç i t̪ a]
     * voiced
       * ʝ
-        * Occurances: 1824
+        * Occurances: 1828
         * Examples
-          * sayid: [s a ʝ i ð]
-          * apoyo: [a p o ʝ o]
-          * billy: [b i ʝ i]
-          * rollo: [r o ʝ o]
+          * cague: [k a ʝ e]
+          * cuyas: [k u ʝ a s]
+          * golgi: [ɡ o l ʝ i]
+          * foyer: [f o ʝ e ɾ]
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 2624
-        * Examples
-          * abjad: [a β x a ð]
-          * bajan: [b a x a n]
-          * hoc: [x o k]
-          * juma: [x u m a]
-    * voiced
-      * ɣ
-        * Occurances: 6707
-        * Examples
-          * digna: [d̪ i ɣ n a]
-          * algo: [a l ɣ o]
-          * nicky: [n i ɣ c i]
-          * boga: [b o ɣ a]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 3103
+        * Examples
+          * yagua: [ɟʝ a ɣ w a]
+          * muela: [m w e l a]
+          * weil: [w e i l]
+          * fuego: [f w e ɣ o]
     ```
   - ```{ipa_cell}
     ```
@@ -310,12 +304,12 @@
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 9044
+        * Occurances: 9057
         * Examples
-          * india: [i n d̪ j a]
-          * oriol: [o ɾ j o l]
-          * galia: [ɡ a l j a]
-          * pié: [p j e]
+          * litio: [l i t̪ j o]
+          * bowie: [b o j e]
+          * cedió: [s e ð j o]
+          * foyer: [f w a j e]
     ```
   - ```{ipa_cell}
     ```
@@ -329,12 +323,12 @@
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 31627
+        * Occurances: 31646
         * Examples
-          * pared: [p a ɾ e ð]
-          * caras: [k a ɾ a s]
-          * áreas: [a ɾ e a s]
-          * finir: [f i n i ɾ]
+          * brujo: [b ɾ u x o]
+          * cifra: [s i f ɾ a]
+          * éter: [e t̪ e ɾ]
+          * bóxer: [b o ɣ s e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -352,12 +346,12 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 14831
+        * Occurances: 14859
         * Examples
-          * corte: [k o r t̪ e]
-          * rúa: [r u a]
-          * burns: [b u r n s]
-          * refós: [r e f o s]
+          * cursa: [k u r s a]
+          * tarde: [t̪ a r ð e]
+          * orgía: [o r ç i a]
+          * retos: [r e t̪ o s]
     ```
   - ```{ipa_cell}
     ```
@@ -375,12 +369,12 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 20464
+        * Occurances: 20492
         * Examples
-          * vidal: [b i ð a l]
-          * cabal: [k a β a l]
-          * elche: [e l tʃ e]
-          * colon: [k o l o n]
+          * talca: [t̪ a l k a]
+          * litio: [l i t̪ j o]
+          * clan: [k l a n]
+          * muela: [m w e l a]
     ```
   - ```{ipa_cell}
     ```
@@ -392,6 +386,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -408,12 +404,12 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 37892
+        * Occurances: 37932
         * Examples
-          * vidal: [b i ð a l]
-          * india: [i n d̪ j a]
-          * finir: [f i n i ɾ]
-          * nasir: [n a s i ɾ]
+          * impío: [i m p i o]
+          * cifra: [s i f ɾ a]
+          * grifo: [ɡ ɾ i f o]
+          * tipa: [t̪ i p a]
     ```
   - ```{ipa_cell}
     ```
@@ -424,12 +420,12 @@
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 13405
+        * Occurances: 13415
         * Examples
-          * buque: [b u c e]
-          * rúa: [r u a]
-          * burns: [b u r n s]
-          * culpa: [k u l p a]
+          * cursa: [k u r s a]
+          * yukpa: [ɟʝ u ɣ p a]
+          * brujo: [b ɾ u x o]
+          * chupe: [tʃ u p e]
     ```
 * -
   - ```{ipa_cell}
@@ -446,12 +442,12 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 54874
+        * Occurances: 54952
         * Examples
-          * evoca: [e β o k a]
-          * pared: [p a ɾ e ð]
-          * corte: [k o r t̪ e]
-          * elche: [e l tʃ e]
+          * cague: [k a ʝ e]
+          * tarde: [t̪ a r ð e]
+          * éter: [e t̪ e ɾ]
+          * bóxer: [b o ɣ s e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -462,12 +458,12 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 55346
+        * Occurances: 55389
         * Examples
-          * evoca: [e β o k a]
-          * corte: [k o r t̪ e]
-          * gano: [ɡ a n o]
-          * colon: [k o l o n]
+          * sony: [s o]
+          * caso: [k a s o]
+          * noto: [n o t̪ o]
+          * brujo: [b ɾ u x o]
     ```
 * -
   - ```{ipa_cell}
@@ -510,12 +506,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 93408
+        * Occurances: 93500
         * Examples
-          * evoca: [e β o k a]
-          * pared: [p a ɾ e ð]
-          * vidal: [b i ð a l]
-          * cabal: [k a β a l]
+          * cague: [k a ʝ e]
+          * talca: [t̪ a l k a]
+          * cursa: [k u r s a]
+          * caso: [k a s o]
     ```
   - ```{ipa_cell}
     ```

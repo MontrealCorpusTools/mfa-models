@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Tamil_v7_0`:
-  * **Hours:** `198.00`
-  * **Speakers:** `521`
-  * **Utterances:** `115,193`
+   * {ref}`Common_Voice_Tamil_v7_0`:
+     * **Hours:** `198.00`
+     * **Speakers:** `521`
+     * **Utterances:** `115,193`
    ```
 
 

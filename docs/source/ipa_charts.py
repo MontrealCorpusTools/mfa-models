@@ -30,6 +30,7 @@ from sphinx.application import Sphinx
 from sphinx.util import caption_ref_re
 from sphinx.roles import Abbreviation
 from sphinx.util.docutils import SphinxDirective
+from sphinx_design.icons import FontawesomeRole, fontawesome
 
 
 
@@ -253,6 +254,24 @@ class IpaCell(Directive):
         root_node = IpaElement('', *output_nodes, ipa_class=['cell', manner_type])
         return [root_node]
 
+icon_short_cuts = {
+    'right-arrow': 'long-arrow-alt-right'
+}
+
+class IpaFontAwesome(FontawesomeRole):
+    def __init__(self):
+        super(IpaFontAwesome, self).__init__('fas')
+
+    def run(self) -> Tuple[List[nodes.Node], List[nodes.system_message]]:
+        """Run the role."""
+        icon, classes = self.text.split(";", 1) if ";" in self.text else [self.text, ""]
+        icon = icon.strip()
+        icon = icon_short_cuts.get(icon, icon)
+        node = fontawesome(
+            icon=icon, classes=[self.style, f"fa-{icon}", 'ipa-icon'] + classes.split()
+        )
+        self.set_source_info(node)
+        return [node], []
 
 def setup(app: Sphinx) -> Dict[str, Any]:
     app.add_node(IpaPhoneCheck, html=(checkbox_html_visit, html_depart))
@@ -266,4 +285,5 @@ def setup(app: Sphinx) -> Dict[str, Any]:
     app.add_node(IpaPhone, html=(html_visit, html_depart))
     app.add_node(IpaElement, html=(html_visit, html_depart))
     app.add_directive("ipa_cell", IpaCell)
+    app.add_role("ipa_icon", IpaFontAwesome())
     return {"version": sphinx.__display_version__, "parallel_read_safe": True}

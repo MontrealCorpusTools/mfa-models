@@ -1,5 +1,5 @@
 
-# english.us.arpa
+# English (US) ARPA acoustic model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/english_us_arpa.html)
 
@@ -20,11 +20,12 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialect:** [General American English](https://en.wikipedia.org/wiki/General_American_English)
-- **Trained date:** `2022-03-09`
-- **Model type:** `Acoustic`
-- **Architecture:** `gmm-hmm`
 - **Phone set:** [ARPA](https://en.wikipedia.org/wiki/ARPABET)
+- **Model type:** `Acoustic`
+- **Features:** `MFCC`
+- **Architecture:** `gmm-hmm`
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-03-09`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/english/us_arpa/v2.0.0/LICENSE)
 - **Citation:**
@@ -93,7 +94,7 @@ You should assume every machine learning model has demographic bias unless prove
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 
 
 ## Troubleshooting issues
@@ -109,11 +110,11 @@ demographics, and recording conditions are. If you encounter issues in alignment
 
 2. Add pronunciations to the pronunciation dictionary
 
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment
+   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
 
 3. Check the quality of your data
 
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset
+   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
    * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
 
 4. Adapt the model to your data
@@ -126,7 +127,7 @@ This model was trained on the following corpora:
 
 
 
-* [LibriSpeech English](../../../../corpus/english/librispeech_english/README.md):
-  * **Hours:** `982.10`
-  * **Speakers:** `2,484`
-  * **Utterances:** `292,367`
+   * [LibriSpeech English](../../../../corpus/english/librispeech_english/README.md):
+     * **Hours:** `982.10`
+     * **Speakers:** `2,484`
+     * **Utterances:** `292,367`

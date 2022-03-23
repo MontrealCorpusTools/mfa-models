@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,10 +53,10 @@
       * m
         * Occurances: 5846
         * Examples
-          * смит: [s m i t]
-          * мәми: [m a m i]
-          * апам: [ɑ p ɑ m]
-          * камал: [k ɑ m ɑ l]
+          * нимес: [n i m e s]
+          * ярым: [j ɑ r ɤ m]
+          * ими: [i m i]
+          * ямау: [j ɑ m ɑ u]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +65,10 @@
       * n
         * Occurances: 12539
         * Examples
-          * әнкә: [a n k a]
-          * анага: [ɑ n ɑ ɡ ɑ]
-          * суган: [s u ɡ ɑ n]
-          * нурлы: [n u r l ɤ]
+          * нимес: [n i m e s]
+          * очтан: [o ɕ t ɑ n]
+          * ант: [ɑ n t]
+          * анысы: [ɑ n ɤ s ɤ]
     ```
   - ```{ipa_cell}
     ```
@@ -77,10 +79,10 @@
       * ŋ
         * Occurances: 2356
         * Examples
-          * берең: [b e r e ŋ]
-          * миңа: [m i ŋ ɑ]
-          * туңар: [t u ŋ ɑ r]
-          * иттең: [i t t e ŋ]
+          * исең: [i s e ŋ]
+          * үзаң: [y z ɑ ŋ]
+          * соңгы: [s o ŋ ɡ ɤ]
+          * җиңәр: [ʑ i ŋ a r]
     ```
   - ```{ipa_cell}
     ```
@@ -90,18 +92,18 @@
       * p
         * Occurances: 2019
         * Examples
-          * кәрәп: [k a r a p]
-          * кылып: [k ɤ l ɤ p]
-          * апам: [ɑ p ɑ m]
-          * сөзеп: [s ø z e p]
+          * сап: [s ɑ p]
+          * батып: [b ɑ t ɤ p]
+          * атап: [ɑ t ɑ p]
+          * джип: [d ʒ i p]
     * voiced
       * b
         * Occurances: 3521
         * Examples
-          * берүк: [b e r y k]
-          * берең: [b e r e ŋ]
-          * бәяли: [b a j ɑ l i]
-          * бае: [b ɑ e]
+          * бәрде: [b a r d e]
+          * тибы: [t i b ɤ]
+          * батып: [b ɑ t ɤ p]
+          * беләк: [b e l a k]
     ```
   - ```{ipa_cell}
     ```
@@ -110,18 +112,18 @@
       * t
         * Occurances: 8955
         * Examples
-          * фоат: [f o ɑ t]
-          * смит: [s m i t]
-          * туйны: [t u j n ɤ]
-          * савыт: [s ɑ w ɤ t]
+          * очтан: [o ɕ t ɑ n]
+          * итил: [i t i l]
+          * тибы: [t i b ɤ]
+          * карта: [k ɑ r t ɑ]
     * voiced
       * d
         * Occurances: 4150
         * Examples
-          * дилә: [d i l a]
-          * дим: [d i m]
-          * диер: [d i e r]
-          * судай: [s u d ɑ j]
+          * бәрде: [b a r d e]
+          * әдәм: [a d a m]
+          * әдибе: [a d i b e]
+          * гади: [ɡ ɑ d i]
     ```
   - ```{ipa_cell}
     ```
@@ -132,28 +134,28 @@
       * k
         * Occurances: 9337
         * Examples
-          * элек: [e l e k]
-          * әнкә: [a n k a]
-          * берүк: [b e r y k]
-          * кәрәп: [k a r a p]
+          * киров: [k i r o w]
+          * кыры: [k ɤ r ɤ]
+          * шакшы: [ʃ ɑ k ʃ ɤ]
+          * карта: [k ɑ r t ɑ]
     * voiced
       * ɡ
         * Occurances: 5630
         * Examples
-          * өлгер: [ø l ɡ e r]
-          * анага: [ɑ n ɑ ɡ ɑ]
-          * ягы: [j ɑ ɡ ɤ]
-          * суган: [s u ɡ ɑ n]
+          * аягын: [ɑ j ɑ ɡ ɤ n]
+          * кырга: [k ɤ r ɡ ɑ]
+          * гади: [ɡ ɑ d i]
+          * изге: [i z ɡ e]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 577
         * Examples
-          * руль: [r u l ʔ]
-          * илья: [i l ʔ j ɑ]
-          * ильяс: [i l ʔ j ɑ s]
-          * ямь: [j ɑ m ʔ]
+          * нефть: [n e f t ʔ]
+          * пьеса: [p ʔ e s ɑ]
+          * тверь: [t w e r ʔ]
+          * юньгә: [ɯ n ʔ ɡ a]
     ```
 * - {manner}`Sibilant`
   - ```{ipa_cell}
@@ -165,54 +167,54 @@
       * s
         * Occurances: 5631
         * Examples
-          * суган: [s u ɡ ɑ n]
-          * усак: [u s ɑ k]
-          * йөрсә: [j ø r s a]
-          * смит: [s m i t]
+          * нимес: [n i m e s]
+          * сап: [s ɑ p]
+          * үсә: [y s a]
+          * чиста: [ɕ i s t ɑ]
     * voiced
       * z
         * Occurances: 2840
         * Examples
-          * өзгеч: [ø z ɡ e ɕ]
-          * эзгә: [e z ɡ a]
-          * сөзеп: [s ø z e p]
+          * фаза: [f ɑ z ɑ]
+          * изге: [i z ɡ e]
           * узар: [u z ɑ r]
+          * поезд: [p o e z d]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 3051
         * Examples
-          * шөшле: [ʃ ø ʃ l e]
-          * күрше: [k y r ʃ e]
-          * ишү: [i ʃ y]
-          * адаш: [ɑ d ɑ ʃ]
+          * шакшы: [ʃ ɑ k ʃ ɤ]
+          * ыштан: [ɤ ʃ t ɑ n]
+          * ышана: [ɤ ʃ ɑ n ɑ]
+          * охшап: [o x ʃ ɑ p]
     * voiced
       * ʒ
         * Occurances: 112
         * Examples
-          * жилне: [ʒ i l n e]
+          * джип: [d ʒ i p]
           * жәл: [ʒ a l]
-          * жуаны: [ʒ u ɑ n ɤ]
-          * жәза: [ʒ a z ɑ]
+          * гараж: [ɡ ɑ r ɑ ʒ]
+          * жәлли: [ʒ a l l i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 2823
         * Examples
-          * өзгеч: [ø z ɡ e ɕ]
-          * кичә: [k i ɕ a]
-          * көчен: [k ø ɕ e n]
-          * чәчле: [ɕ a ɕ l e]
+          * очтан: [o ɕ t ɑ n]
+          * чиста: [ɕ i s t ɑ]
+          * чәчкә: [ɕ a ɕ k a]
+          * чәй: [ɕ a j]
     * voiced
       * ʑ
         * Occurances: 863
         * Examples
-          * җырчы: [ʑ ɤ r ɕ ɤ]
-          * җире: [ʑ i r e]
-          * әҗәл: [a ʑ a l]
-          * җилне: [ʑ i l n e]
+          * җыр: [ʑ ɤ r]
+          * җебеп: [ʑ e b e p]
+          * җавап: [ʑ ɑ w ɑ p]
+          * җанлы: [ʑ ɑ n l ɤ]
     ```
   - ```{ipa_cell}
     ```
@@ -226,10 +228,10 @@
       * f
         * Occurances: 598
         * Examples
-          * фоат: [f o ɑ t]
-          * фәнни: [f a n n i]
-          * рафис: [r ɑ f i s]
-          * сафа: [s ɑ f ɑ]
+          * фаза: [f ɑ z ɑ]
+          * нефть: [n e f t ʔ]
+          * нәфес: [n a f e s]
+          * җәфа: [ʑ a f ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -238,27 +240,27 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 954
-        * Examples
-          * хис: [x i s]
-          * рухлы: [r u x l ɤ]
-          * тәхет: [t a x e t]
-          * хаклы: [x ɑ k l ɤ]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 291
         * Examples
-          * илаһ: [i l ɑ h]
+          * һади: [h ɑ d i]
           * зөһрә: [z ø h r a]
-          * аһәң: [ɑ h a ŋ]
+          * шөбһә: [ʃ ø b h a]
           * шаһит: [ʃ ɑ h i t]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 937
+        * Examples
+          * киров: [k i r o w]
+          * кавем: [k ɑ w e m]
+          * җавап: [ʑ ɑ w ɑ p]
+          * явым: [j ɑ w ɤ m]
     ```
   - ```{ipa_cell}
     ```
@@ -271,10 +273,10 @@
       * j
         * Occurances: 4552
         * Examples
-          * ягы: [j ɑ ɡ ɤ]
-          * йөрсә: [j ø r s a]
-          * туйны: [t u j n ɤ]
-          * елата: [j e l ɑ t ɑ]
+          * ярым: [j ɑ r ɤ m]
+          * ямау: [j ɑ m ɑ u]
+          * ария: [ɑ r i j ɑ]
+          * ярты: [j ɑ r t ɤ]
     ```
   - ```{ipa_cell}
     ```
@@ -290,10 +292,10 @@
       * r
         * Occurances: 12208
         * Examples
-          * өлгер: [ø l ɡ e r]
-          * берүк: [b e r y k]
-          * кәрәп: [k a r a p]
-          * нурлы: [n u r l ɤ]
+          * ярым: [j ɑ r ɤ m]
+          * киров: [k i r o w]
+          * кыры: [k ɤ r ɤ]
+          * бәрде: [b a r d e]
     ```
   - ```{ipa_cell}
     ```
@@ -313,10 +315,10 @@
       * l
         * Occurances: 10913
         * Examples
-          * элек: [e l e k]
-          * өлгер: [ø l ɡ e r]
-          * шөшле: [ʃ ø ʃ l e]
-          * нурлы: [n u r l ɤ]
+          * итил: [i t i l]
+          * килик: [k i l i k]
+          * беләк: [b e l a k]
+          * гөрли: [ɡ ø r l i]
     ```
   - ```{ipa_cell}
     ```
@@ -330,6 +332,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -348,18 +352,18 @@
       * i
         * Occurances: 5455
         * Examples
-          * илаһ: [i l ɑ h]
-          * смит: [s m i t]
-          * мәми: [m a m i]
-          * кичә: [k i ɕ a]
+          * нимес: [n i m e s]
+          * киров: [k i r o w]
+          * итил: [i t i l]
+          * тибы: [t i b ɤ]
     * rounded
       * y
         * Occurances: 1884
         * Examples
-          * берүк: [b e r y k]
-          * күрше: [k y r ʃ e]
-          * ишү: [i ʃ y]
-          * күзе: [k y z e]
+          * күрүе: [k y r y e]
+          * үсә: [y s a]
+          * үтәү: [y t a y]
+          * үттек: [y t t e k]
     ```
   - ```{ipa_cell}
     ```
@@ -372,18 +376,18 @@
       * ɯ
         * Occurances: 311
         * Examples
-          * тию: [t i ɯ]
-          * юкса: [ɯ k s ɑ]
-          * кою: [k o ɯ]
-          * юар: [ɯ ɑ r]
+          * юне: [ɯ n e]
+          * бию: [b i ɯ]
+          * юеш: [ɯ e ʃ]
+          * аюмы: [ɑ ɯ m ɤ]
     * rounded
       * u
         * Occurances: 3554
         * Examples
-          * суган: [s u ɡ ɑ n]
-          * усак: [u s ɑ k]
-          * нурлы: [n u r l ɤ]
-          * туйны: [t u j n ɤ]
+          * ямау: [j ɑ m ɑ u]
+          * матур: [m ɑ t u r]
+          * рухын: [r u x ɤ n]
+          * уйла: [u j l ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -402,18 +406,18 @@
       * e
         * Occurances: 12038
         * Examples
-          * элек: [e l e k]
-          * өлгер: [ø l ɡ e r]
-          * берүк: [b e r y k]
-          * өзгеч: [ø z ɡ e ɕ]
+          * нимес: [n i m e s]
+          * бәрде: [b a r d e]
+          * күрүе: [k y r y e]
+          * әтисе: [a t i s e]
     * rounded
       * ø
         * Occurances: 1664
         * Examples
-          * өлгер: [ø l ɡ e r]
-          * өзгеч: [ø z ɡ e ɕ]
-          * шөшле: [ʃ ø ʃ l e]
-          * йөрсә: [j ø r s a]
+          * гөрли: [ɡ ø r l i]
+          * өстән: [ø s t a n]
+          * сөткә: [s ø t k a]
+          * төп: [t ø p]
     ```
   - ```{ipa_cell}
     ```
@@ -426,10 +430,17 @@
       * o
         * Occurances: 2507
         * Examples
-          * фоат: [f o ɑ t]
-          * йорт: [j o r t]
-          * коена: [k o e n ɑ]
-          * коеп: [k o e p]
+          * очтан: [o ɕ t ɑ n]
+          * киров: [k i r o w]
+          * охшап: [o x ʃ ɑ p]
+          * тотка: [t o t k ɑ]
+      * ɤ
+        * Occurances: 12544
+        * Examples
+          * ярым: [j ɑ r ɤ m]
+          * кыры: [k ɤ r ɤ]
+          * шакшы: [ʃ ɑ k ʃ ɤ]
+          * тибы: [t i b ɤ]
     ```
 * -
   - ```{ipa_cell}
@@ -474,10 +485,10 @@
       * a
         * Occurances: 11405
         * Examples
-          * әнкә: [a n k a]
-          * кәрәп: [k a r a p]
-          * йөрсә: [j ø r s a]
-          * мәми: [m a m i]
+          * бәрде: [b a r d e]
+          * үсә: [y s a]
+          * әдәм: [a d a m]
+          * әтисе: [a t i s e]
     ```
   - ```{ipa_cell}
     ```
@@ -486,9 +497,9 @@
       * ɑ
         * Occurances: 21754
         * Examples
-          * анага: [ɑ n ɑ ɡ ɑ]
-          * ягы: [j ɑ ɡ ɤ]
-          * суган: [s u ɡ ɑ n]
-          * усак: [u s ɑ k]
+          * очтан: [o ɕ t ɑ n]
+          * ярым: [j ɑ r ɤ m]
+          * фаза: [f ɑ z ɑ]
+          * сап: [s ɑ p]
     ```
 ``````

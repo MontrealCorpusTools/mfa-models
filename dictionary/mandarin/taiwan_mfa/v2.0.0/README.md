@@ -1,5 +1,5 @@
 
-# mandarin.taiwan.mfa
+# Mandarin (Taiwan) MFA dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/mandarin_taiwan_mfa.html)
 
@@ -7,7 +7,6 @@ Jump to section:
 
 - [Dictionary details](#dictionary-details)
 - [Intended use](#intended-use)
-- [IPA charts](#ipa-charts)
 - [Performance Factors](#performance-factors)
 - [Ethical considerations](#ethical-considerations)
 
@@ -16,8 +15,8 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Mandarin Chinese](https://en.wikipedia.org/wiki/Mandarin_Chinese)
 - **Dialect:** [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
-- **Number of words:** `78,624`
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#mandarin)
+- **Number of words:** `78,603`
 - **Phones:** {ipa_inline}`ai˥˥`, {ipa_inline}`ai˥˩`, {ipa_inline}`ai˦`, {ipa_inline}`ai˧˥`, {ipa_inline}`ai˨`, {ipa_inline}`ai˨˩˦`, {ipa_inline}`ai˩`, {ipa_inline}`au˥˥`, {ipa_inline}`au˥˩`, {ipa_inline}`au˦`, {ipa_inline}`au˧˥`, {ipa_inline}`au˨`, {ipa_inline}`au˨˩˦`, {ipa_inline}`au˩`, {ipa_inline}`a˥˥`, {ipa_inline}`a˥˩`, {ipa_inline}`a˦`, {ipa_inline}`a˧˥`, {ipa_inline}`a˨`, {ipa_inline}`a˨˩˦`, {ipa_inline}`a˩`, {ipa_inline}`ei˥˥`, {ipa_inline}`ei˥˩`, {ipa_inline}`ei˦`, {ipa_inline}`ei˧˥`, {ipa_inline}`ei˨`, {ipa_inline}`ei˨˩˦`, {ipa_inline}`ei˩`, {ipa_inline}`e˥˥`, {ipa_inline}`e˥˩`, {ipa_inline}`e˦`, {ipa_inline}`e˧˥`, {ipa_inline}`e˨`, {ipa_inline}`e˨˩˦`, {ipa_inline}`e˩`, {ipa_inline}`f`, {ipa_inline}`i˥˥`, {ipa_inline}`i˥˩`, {ipa_inline}`i˦`, {ipa_inline}`i˧˥`, {ipa_inline}`i˨`, {ipa_inline}`i˨˩˦`, {ipa_inline}`i˩`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`ou˥˥`, {ipa_inline}`ou˥˩`, {ipa_inline}`ou˦`, {ipa_inline}`ou˧˥`, {ipa_inline}`ou˨`, {ipa_inline}`ou˨˩˦`, {ipa_inline}`ou˩`, {ipa_inline}`o˥˥`, {ipa_inline}`o˥˩`, {ipa_inline}`o˦`, {ipa_inline}`o˧˥`, {ipa_inline}`o˨`, {ipa_inline}`o˨˩˦`, {ipa_inline}`o˩`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsʰ`, {ipa_inline}`tɕ`, {ipa_inline}`tɕʰ`, {ipa_inline}`tʰ`, {ipa_inline}`u˥˥`, {ipa_inline}`u˥˩`, {ipa_inline}`u˦`, {ipa_inline}`u˧˥`, {ipa_inline}`u˨`, {ipa_inline}`u˨˩˦`, {ipa_inline}`u˩`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y˥˥`, {ipa_inline}`y˥˩`, {ipa_inline}`y˦`, {ipa_inline}`y˧˥`, {ipa_inline}`y˨`, {ipa_inline}`y˨˩˦`, {ipa_inline}`y˩`, {ipa_inline}`z̩˥˥`, {ipa_inline}`z̩˥˩`, {ipa_inline}`z̩˦`, {ipa_inline}`z̩˧˥`, {ipa_inline}`z̩˨`, {ipa_inline}`z̩˨˩˦`, {ipa_inline}`z̩˩`, {ipa_inline}`ŋ`, {ipa_inline}`ŋ̍˧˥`, {ipa_inline}`ɕ`, {ipa_inline}`ə˥˥`, {ipa_inline}`ə˥˩`, {ipa_inline}`ə˦`, {ipa_inline}`ə˧˥`, {ipa_inline}`ə˨`, {ipa_inline}`ə˨˩˦`, {ipa_inline}`ə˩`, {ipa_inline}`ɥ`, {ipa_inline}`ɻ`, {ipa_inline}`ʂ`, {ipa_inline}`ʈʂ`, {ipa_inline}`ʈʂʰ`, {ipa_inline}`ʐ`, {ipa_inline}`ʐ̩˥˥`, {ipa_inline}`ʐ̩˥˩`, {ipa_inline}`ʐ̩˦`, {ipa_inline}`ʐ̩˧˥`, {ipa_inline}`ʐ̩˨`, {ipa_inline}`ʐ̩˨˩˦`, {ipa_inline}`ʐ̩˩`, {ipa_inline}`ʔ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/mandarin/taiwan_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
@@ -55,9 +54,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

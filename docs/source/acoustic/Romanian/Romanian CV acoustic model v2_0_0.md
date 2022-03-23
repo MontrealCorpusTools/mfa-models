@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Romanian_v7_0`:
-  * **Hours:** `11.00`
-  * **Speakers:** `192`
-  * **Utterances:** `10,351`
+   * {ref}`Common_Voice_Romanian_v7_0`:
+     * **Hours:** `11.00`
+     * **Speakers:** `192`
+     * **Utterances:** `10,351`
    ```
 
 

@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Kurmanji_v7_0`:
-  * **Hours:** `45.00`
-  * **Speakers:** `258`
-  * **Utterances:** `37,019`
+   * {ref}`Common_Voice_Kurmanji_v7_0`:
+     * **Hours:** `45.00`
+     * **Speakers:** `258`
+     * **Utterances:** `37,019`
    ```
 
 

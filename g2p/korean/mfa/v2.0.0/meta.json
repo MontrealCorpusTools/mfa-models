@@ -7,14 +7,14 @@
     "license": "CC BY 4.0",
     "architecture": "pynini",
     "training": {
-        "num_words": 43839,
-        "num_graphemes": 1901,
+        "num_words": 48665,
+        "num_graphemes": 2059,
         "num_phones": 56
     },
     "evaluation": {
-        "num_words": 4870,
-        "word_error_rate": 11.60164271047228,
-        "phone_error_rate": 2.6090227584168524
+        "num_words": 5407,
+        "word_error_rate": 10.245977436656187,
+        "phone_error_rate": 2.2602397602397604
     },
     "phone_set": "MFA",
     "phones": [
@@ -58,13 +58,13 @@
         "\u0250",
         "\u0255\u02b0",
         "\u0255\u0348",
-        "\u025b\u02d0",
         "\u0261",
         "\u0263",
         "\u0265",
+        "\u0266",
+        "\u0268",
+        "\u0268\u02d0",
         "\u026d",
-        "\u026f",
-        "\u026f\u02d0",
         "\u0270",
         "\u0272",
         "\u0278",
@@ -76,6 +76,6 @@
         "\u03b2"
     ],
     "version": "2.0.0",
-    "train_date": "2022-03-01",
+    "train_date": "2022-03-21",
     "citation": "@techreport{\n\tmfa_korean_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Korean MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Korean/Korean MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

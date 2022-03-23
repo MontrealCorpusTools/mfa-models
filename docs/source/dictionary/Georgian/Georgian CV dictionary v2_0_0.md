@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,10 +53,10 @@
       * m
         * Occurances: 4791
         * Examples
-          * ხიდმა: [x i d m ɑ]
-          * რომ: [ɾ ɔ m]
-          * თქმით: [tʰ kʰ m i tʰ]
-          * რიტმს: [ɾ i tʼ m s]
+          * ამონა: [ɑ m ɔ n ɑ]
+          * შაჰმა: [ʃ ɑ h m ɑ]
+          * ერთმა: [ɛ ɾ tʰ m ɑ]
+          * მატჩი: [m ɑ tʼ tʃ i]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +65,10 @@
       * n
         * Occurances: 4905
         * Examples
-          * ნევის: [n ɛ v i s]
-          * იტანს: [i tʼ ɑ n s]
-          * შენზე: [ʃ ɛ n z ɛ]
-          * ზონის: [z ɔ n i s]
+          * პუნას: [pʼ u n ɑ s]
+          * ამონა: [ɑ m ɔ n ɑ]
+          * ნოე: [n ɔ ɛ]
+          * ენაა: [ɛ n ɑ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -76,16 +78,16 @@
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiced
       * b
         * Occurances: 4568
         * Examples
-          * რჩება: [ɾ tʃ ɛ b ɑ]
-          * ბნელი: [b n ɛ l i]
-          * საბჭო: [s ɑ b tʃʼ ɔ]
-          * თაობა: [tʰ ɑ ɔ b ɑ]
+          * ხდება: [x d ɛ b ɑ]
+          * ჯაბირ: [dʒ ɑ b i ɾ]
+          * ბედი: [b ɛ d i]
+          * დგება: [d ɡ ɛ b ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -94,10 +96,10 @@
       * d
         * Occurances: 3647
         * Examples
-          * ხიდმა: [x i d m ɑ]
           * სადაც: [s ɑ d ɑ ts]
-          * სამედ: [s ɑ m ɛ d]
-          * წმიდა: [tsʼ m i d ɑ]
+          * დიახ: [d i ɑ x]
+          * დის: [d i s]
+          * ხდება: [x d ɛ b ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -106,102 +108,16 @@
       * ɡ
         * Occurances: 2265
         * Examples
-          * რიგში: [ɾ i ɡ ʃ i]
-          * გასცა: [ɡ ɑ s ts ɑ]
-          * გარეთ: [ɡ ɑ ɾ ɛ tʰ]
-          * გრძივ: [ɡ ɾ dz i v]
+          * ერგეს: [ɛ ɾ ɡ ɛ s]
+          * აფაგ: [ɑ pʰ ɑ ɡ]
+          * გოლის: [ɡ ɔ l i s]
+          * კინგი: [kʼ i n ɡ i]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 938
-        * Examples
-          * მეფე: [m ɛ pʰ ɛ]
-          * ფული: [pʰ u l i]
-          * ჰყოფს: [h qʼ ɔ pʰ s]
-          * ფულის: [pʰ u l i s]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 2501
-        * Examples
-          * თქმით: [tʰ kʰ m i tʰ]
-          * თაღია: [tʰ ɑ ɣ i ɑ]
-          * ამათ: [ɑ m ɑ tʰ]
-          * თაღის: [tʰ ɑ ɣ i s]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 976
-        * Examples
-          * თქმით: [tʰ kʰ m i tʰ]
-          * ქედის: [kʰ ɛ d i s]
-          * გაქვთ: [ɡ ɑ kʰ v tʰ]
-          * სქელ: [s kʰ ɛ l]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Ejective`
-  - ```{ipa_cell}
-    * voiceless
-      * pʼ
-        * Occurances: 1000
-        * Examples
-          * პავლე: [pʼ ɑ v l ɛ]
-          * პაჟთა: [pʼ ɑ ʒ tʰ ɑ]
-          * პირს: [pʼ i ɾ s]
-          * პაკოს: [pʼ ɑ kʼ ɔ s]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʼ
-        * Occurances: 2320
-        * Examples
-          * იტანს: [i tʼ ɑ n s]
-          * რიტმს: [ɾ i tʼ m s]
-          * ხატის: [x ɑ tʼ i s]
-          * ჟლეტა: [ʒ l ɛ tʼ ɑ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʼ
-        * Occurances: 1907
-        * Examples
-          * კოლის: [kʼ ɔ l i s]
-          * კობი: [kʼ ɔ b i]
-          * ბლეკი: [b l ɛ kʼ i]
-          * კიბოს: [kʼ i b ɔ s]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * qʼ
-        * Occurances: 525
-        * Examples
-          * ჰყოფს: [h qʼ ɔ pʰ s]
-          * რიყის: [ɾ i qʼ i s]
-          * ყრია: [qʼ ɾ i ɑ]
-          * აყრია: [ɑ qʼ ɾ i ɑ]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Affricate` {submanner}`Plain`
+* - {manner}`Affricate`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -211,67 +127,36 @@
       * ts
         * Occurances: 1167
         * Examples
-          * იცავს: [i ts ɑ v s]
           * სადაც: [s ɑ d ɑ ts]
-          * ცოლის: [ts ɔ l i s]
-          * ციხეს: [ts i x ɛ s]
+          * ცოლი: [ts ɔ l i]
+          * მაინც: [m ɑ i n ts]
+          * იცოდე: [i ts ɔ d ɛ]
     * voiced
       * dz
         * Occurances: 380
         * Examples
-          * გრძივ: [ɡ ɾ dz i v]
-          * ძმები: [dz m ɛ b i]
           * ქედზე: [kʰ ɛ dz ɛ]
-          * ძეა: [dz ɛ ɑ]
+          * ძმისა: [dz m i s ɑ]
+          * ძამის: [dz ɑ m i s]
+          * კუდზე: [kʼ u dz ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 421
         * Examples
-          * რჩება: [ɾ tʃ ɛ b ɑ]
           * მატჩი: [m ɑ tʼ tʃ i]
-          * ჩაი: [tʃ ɑ i]
-          * ჩემი: [tʃ ɛ m i]
+          * ჩარლზ: [tʃ ɑ ɾ l z]
+          * ქუჩის: [kʰ u tʃ i s]
+          * ელჩია: [ɛ l tʃ i ɑ]
     * voiced
       * dʒ
         * Occurances: 265
         * Examples
-          * ჯაზ: [dʒ ɑ z]
-          * ჯვრის: [dʒ v ɾ i s]
-          * ჯეიმზ: [dʒ ɛ i m z]
-          * ოხოჯა: [ɔ x ɔ dʒ ɑ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Ejective`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tsʼ
-        * Occurances: 777
-        * Examples
-          * წესი: [tsʼ ɛ s i]
-          * წევრი: [tsʼ ɛ v ɾ i]
-          * ეწვია: [ɛ tsʼ v i ɑ]
-          * წმიდა: [tsʼ m i d ɑ]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʃʼ
-        * Occurances: 136
-        * Examples
-          * საბჭო: [s ɑ b tʃʼ ɔ]
-          * ნიჭი: [n i tʃʼ i]
-          * როჭო: [ɾ ɔ tʃʼ ɔ]
-          * ხაჭოს: [x ɑ tʃʼ ɔ s]
+          * ჯიშთა: [dʒ i ʃ tʰ ɑ]
+          * ჯიში: [dʒ i ʃ i]
+          * ჯაბირ: [dʒ ɑ b i ɾ]
+          * ჯგუფი: [dʒ ɡ u pʰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -289,36 +174,36 @@
       * s
         * Occurances: 7500
         * Examples
-          * ნევის: [n ɛ v i s]
-          * იტანს: [i tʼ ɑ n s]
-          * ზოლის: [z ɔ l i s]
-          * იცავს: [i ts ɑ v s]
+          * პუნას: [pʼ u n ɑ s]
+          * სადაც: [s ɑ d ɑ ts]
+          * ილიას: [i l i ɑ s]
+          * ფრთას: [pʰ ɾ tʰ ɑ s]
     * voiced
       * z
         * Occurances: 1067
         * Examples
-          * ზოლის: [z ɔ l i s]
-          * შენზე: [ʃ ɛ n z ɛ]
-          * ჯაზ: [dʒ ɑ z]
-          * ვაზი: [v ɑ z i]
+          * წელზე: [tsʼ ɛ l z ɛ]
+          * პრიზი: [pʼ ɾ i z i]
+          * ზოლზე: [z ɔ l z ɛ]
+          * მაზრა: [m ɑ z ɾ ɑ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1769
         * Examples
-          * შეეხო: [ʃ ɛ ɛ x ɔ]
-          * შენზე: [ʃ ɛ n z ɛ]
-          * რიგში: [ɾ i ɡ ʃ i]
-          * თავში: [tʰ ɑ v ʃ i]
+          * შაჰმა: [ʃ ɑ h m ɑ]
+          * ნიშში: [n i ʃ ʃ i]
+          * ჯიშთა: [dʒ i ʃ tʰ ɑ]
+          * მლაშე: [m l ɑ ʃ ɛ]
     * voiced
       * ʒ
         * Occurances: 96
         * Examples
-          * ჟლეტა: [ʒ l ɛ tʼ ɑ]
           * მჟღერ: [m ʒ ɣ ɛ ɾ]
+          * ჟღერს: [ʒ ɣ ɛ ɾ s]
           * ჟან: [ʒ ɑ n]
-          * პაჟთა: [pʼ ɑ ʒ tʰ ɑ]
+          * ვაჟმა: [v ɑ ʒ m ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -334,32 +219,16 @@
       * v
         * Occurances: 3222
         * Examples
-          * ნევის: [n ɛ v i s]
-          * იცავს: [i ts ɑ v s]
-          * ვაზი: [v ɑ z i]
-          * თავში: [tʰ ɑ v ʃ i]
+          * ქვითა: [kʰ v i tʰ ɑ]
+          * მასვე: [m ɑ s v ɛ]
+          * ველზე: [v ɛ l z ɛ]
+          * ვენა: [v ɛ n ɑ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 1363
-        * Examples
-          * შეეხო: [ʃ ɛ ɛ x ɔ]
-          * ხიდმა: [x i d m ɑ]
-          * ხატის: [x ɑ tʼ i s]
-          * ოთხ: [ɔ tʰ x]
-    * voiced
-      * ɣ
-        * Occurances: 488
-        * Examples
-          * თაღია: [tʰ ɑ ɣ i ɑ]
-          * თაღის: [tʰ ɑ ɣ i s]
-          * მიღმა: [m i ɣ m ɑ]
-          * მიიღო: [m i i ɣ ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -368,10 +237,10 @@
       * h
         * Occurances: 179
         * Examples
-          * ჰყოფს: [h qʼ ɔ pʰ s]
-          * ჰეილი: [h ɛ i l i]
-          * ჰილს: [h i l s]
-          * ჰყავს: [h qʼ ɑ v s]
+          * შაჰმა: [ʃ ɑ h m ɑ]
+          * ჰუნის: [h u n i s]
+          * ჰაქი: [h ɑ kʰ i]
+          * იოჰან: [i ɔ h ɑ n]
     ```
 * - {manner}`Tap`
   - ```{ipa_cell}
@@ -383,10 +252,10 @@
       * ɾ
         * Occurances: 6377
         * Examples
-          * რომ: [ɾ ɔ m]
-          * რიგში: [ɾ i ɡ ʃ i]
-          * რიტმს: [ɾ i tʼ m s]
-          * რჩება: [ɾ tʃ ɛ b ɑ]
+          * ფრთას: [pʰ ɾ tʰ ɑ s]
+          * პრიზი: [pʼ ɾ i z i]
+          * ერთმა: [ɛ ɾ tʰ m ɑ]
+          * როს: [ɾ ɔ s]
     ```
   - ```{ipa_cell}
     ```
@@ -406,10 +275,10 @@
       * l
         * Occurances: 5049
         * Examples
-          * ზოლის: [z ɔ l i s]
-          * ლუისი: [l u i s i]
-          * ცოლის: [ts ɔ l i s]
-          * ფული: [pʰ u l i]
+          * წელზე: [tsʼ ɛ l z ɛ]
+          * პოლიტ: [pʼ ɔ l i tʼ]
+          * ილიას: [i l i ɑ s]
+          * ლელო: [l ɛ l ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -423,6 +292,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -441,10 +312,10 @@
       * i
         * Occurances: 13394
         * Examples
-          * ნევის: [n ɛ v i s]
-          * იტანს: [i tʼ ɑ n s]
-          * ზოლის: [z ɔ l i s]
-          * ხიდმა: [x i d m ɑ]
+          * დიახ: [d i ɑ x]
+          * პოლიტ: [pʼ ɔ l i tʼ]
+          * ილიას: [i l i ɑ s]
+          * პრიზი: [pʼ ɾ i z i]
     ```
   - ```{ipa_cell}
     ```
@@ -457,10 +328,10 @@
       * u
         * Occurances: 3340
         * Examples
-          * ლუისი: [l u i s i]
-          * ფული: [pʰ u l i]
-          * ხუთ: [x u tʰ]
-          * შურდა: [ʃ u ɾ d ɑ]
+          * პუნას: [pʼ u n ɑ s]
+          * კუდზე: [kʼ u dz ɛ]
+          * ურდუ: [u ɾ d u]
+          * უწინ: [u tsʼ i n]
     ```
 * -
   - ```{ipa_cell}
@@ -501,10 +372,10 @@
       * ɛ
         * Occurances: 9885
         * Examples
-          * შეეხო: [ʃ ɛ ɛ x ɔ]
-          * ნევის: [n ɛ v i s]
-          * შენზე: [ʃ ɛ n z ɛ]
-          * რჩება: [ɾ tʃ ɛ b ɑ]
+          * წელზე: [tsʼ ɛ l z ɛ]
+          * ნოე: [n ɔ ɛ]
+          * ლელო: [l ɛ l ɔ]
+          * ერთმა: [ɛ ɾ tʰ m ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -517,10 +388,10 @@
       * ɔ
         * Occurances: 5587
         * Examples
-          * შეეხო: [ʃ ɛ ɛ x ɔ]
-          * ზოლის: [z ɔ l i s]
-          * რომ: [ɾ ɔ m]
-          * ცოლის: [ts ɔ l i s]
+          * ამონა: [ɑ m ɔ n ɑ]
+          * ნოე: [n ɔ ɛ]
+          * პოლიტ: [pʼ ɔ l i tʼ]
+          * ლელო: [l ɛ l ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -547,9 +418,9 @@
       * ɑ
         * Occurances: 14642
         * Examples
-          * იტანს: [i tʼ ɑ n s]
-          * ხიდმა: [x i d m ɑ]
-          * იცავს: [i ts ɑ v s]
-          * თაღია: [tʰ ɑ ɣ i ɑ]
+          * პუნას: [pʼ u n ɑ s]
+          * ამონა: [ɑ m ɔ n ɑ]
+          * სადაც: [s ɑ d ɑ ts]
+          * დიახ: [d i ɑ x]
     ```
 ``````

@@ -1,19 +1,5 @@
 'một	m o˨˩ˀ t̪
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	ʔ aː˧
 ai	ʔ aː˧ j
 alo	ʔ aː˧ l ɔ˧
@@ -75,8 +61,8 @@ bùn	ɓ u˨˩ n̪
 búi	ɓ u˧˥ j
 búp	ɓ u˧˥ p
 bút	ɓ u˧˥ t̪
-bơ	ɓ ɤ :˧
-bơi	ɓ ɤ :˧ j
+bơ	ɓ ɤː˧
+bơi	ɓ ɤː˧ j
 bước	ɓ ɯɤ˧˧˥ k
 bướng	ɓ ɯɤ˧˧˥ ŋ
 bạc	ɓ aː˨˩ˀ k
@@ -128,9 +114,9 @@ bồng	ɓ o˨˩ ŋ
 bỗng	ɓ o˧˥ˀ ŋ
 bộ	ɓ o˨˩ˀ
 bội	ɓ o˨˩ˀ j
-bớt	ɓ ɤ :˧˥ t̪
-bờ	ɓ ɤ :˨˩
-bởi	ɓ ɤ :˧˩˧ j
+bớt	ɓ ɤː˧˥ t̪
+bờ	ɓ ɤː˨˩
+bởi	ɓ ɤː˧˩˧ j
 bụi	ɓ u˨˩ˀ j
 bụng	ɓ u˨˩ˀ ŋ
 bủn	ɓ u˧˩˧ n̪
@@ -204,7 +190,7 @@ chút	tɕ u˧˥ t̪
 chăm	tɕ a˧ m
 chăn	tɕ a˧ n̪
 chăng	tɕ a˧ ŋ
-chơi	tɕ ɤ :˧ j
+chơi	tɕ ɤː˧ j
 chưa	tɕ ɯɤ˧˧
 chương	tɕ ɯɤ˧˧ ŋ
 chạm	tɕ aː˨˩ˀ m
@@ -242,14 +228,14 @@ chốt	tɕ o˧˥ t̪
 chồn	tɕ o˨˩ n̪
 chồng	tɕ o˨˩ ŋ
 chỗ	tɕ o˧˥ˀ
-chớ	tɕ ɤ :˧˥
-chớp	tɕ ɤ :˧˥ p
-chờ	tɕ ɤ :˨˩
-chờn	tɕ ɤ :˨˩ n̪
-chở	tɕ ɤ :˧˩˧
-chợ	tɕ ɤ :˨˩ˀ
-chợp	tɕ ɤ :˨˩ˀ p
-chợt	tɕ ɤ :˨˩ˀ t̪
+chớ	tɕ ɤː˧˥
+chớp	tɕ ɤː˧˥ p
+chờ	tɕ ɤː˨˩
+chờn	tɕ ɤː˨˩ n̪
+chở	tɕ ɤː˧˩˧
+chợ	tɕ ɤː˨˩ˀ
+chợp	tɕ ɤː˨˩ˀ p
+chợt	tɕ ɤː˨˩ˀ t̪
 chục	tɕ u˨˩ˀ k
 chụp	tɕ u˨˩ˀ p
 chủ	tɕ u˧˩˧
@@ -300,9 +286,9 @@ căn	k a˧ n̪
 căng	k a˧ ŋ
 cũ	k u˧˥ˀ
 cũng	k u˧˥ˀ ŋ
-cơ	k ɤ :˧
-cơm	k ɤ :˧ m
-cơn	k ɤ :˧ n̪
+cơ	k ɤː˧
+cơm	k ɤː˧ m
+cơn	k ɤː˧ n̪
 cương	k ɯɤ˧˧ ŋ
 cưới	k ɯɤ˧˧˥ j
 cướp	k ɯɤ˧˧˥ p
@@ -339,8 +325,8 @@ cốt	k o˧˥ t̪
 cồn	k o˨˩ n̪
 cổ	k o˧˩˧
 cộng	k o˨˩ˀ ŋ
-cởi	k ɤ :˧˩˧ j
-cỡ	k ɤ :˧˥ˀ
+cởi	k ɤː˧˩˧ j
+cỡ	k ɤː˧˥ˀ
 cụ	k u˨˩ˀ
 cụp	k u˨˩ˀ p
 của	k uo˧˩˧˧
@@ -388,7 +374,7 @@ dõi	z ɔ˧˥ˀ j
 dù	z u˨˩
 dùng	z u˨˩ ŋ
 dũng	z u˧˥ˀ ŋ
-dơn	z ɤ :˧ n̪
+dơn	z ɤː˧ n̪
 dưa	z ɯɤ˧˧
 dưng	z ɯ˧ ŋ
 dương	z ɯɤ˧˧ ŋ
@@ -429,9 +415,9 @@ dồn	z o˨˩ n̪
 dỗ	z o˧˥ˀ
 dội	z o˨˩ˀ j
 dột	z o˨˩ˀ t̪
-dớn	z ɤ :˧˥ n̪
-dờn	z ɤ :˨˩ n̪
-dở	z ɤ :˧˩˧
+dớn	z ɤː˧˥ n̪
+dờn	z ɤː˨˩ n̪
+dở	z ɤː˧˩˧
 dục	z u˨˩ˀ k
 dụng	z u˨˩ˀ ŋ
 dụt	z u˨˩ˀ t̪
@@ -472,7 +458,7 @@ gió	z ɔ˧˥
 giông	z o˧ ŋ
 giùm	z u˨˩ m
 giúp	z u˧˥ p
-giơ	z ɤ :˧
+giơ	z ɤː˧
 giường	z ɯɤ˧˨˩ ŋ
 giả	z aː˧˩˧
 giải	z aː˧˩˧ j
@@ -488,9 +474,9 @@ giọt	z ɔ˨˩ˀ t̪
 giỏi	z ɔ˧˩˧ j
 giống	z o˧˥ ŋ
 giỗ	z o˧˥ˀ
-giới	z ɤ :˧˥ j
-giờ	z ɤ :˨˩
-giởi	z ɤ :˧˩˧ j
+giới	z ɤː˧˥ j
+giờ	z ɤː˨˩
+giởi	z ɤː˧˩˧ j
 giục	z u˨˩ˀ k
 giữ	z ɯ˧˥ˀ
 giữa	z ɯɤ˧˥ˀ˧
@@ -531,8 +517,8 @@ gốc	ɣ o˧˥ k
 gối	ɣ o˧˥ j
 gỗ	ɣ o˧˥ˀ
 gội	ɣ o˨˩ˀ j
-gỡ	ɣ ɤ :˧˥ˀ
-gợi	ɣ ɤ :˨˩ˀ j
+gỡ	ɣ ɤː˧˥ˀ
+gợi	ɣ ɤː˨˩ˀ j
 gửi	ɣ ɯ˧˩˧ j
 hai	h aː˧ j
 hang	h aː˧ ŋ
@@ -594,8 +580,8 @@ hôn	h o˧ n̪
 hùng	h u˨˩ ŋ
 hút	h u˧˥ t̪
 hũ	h u˧˥ˀ
-hơi	h ɤ :˧ j
-hơn	h ɤ :˧ n̪
+hơi	h ɤː˧ j
+hơn	h ɤː˧ n̪
 hư	h ɯ˧
 hương	h ɯɤ˧˧ ŋ
 hưởng	h ɯɤ˧˧˩˧ ŋ
@@ -646,13 +632,13 @@ hộ	h o˨˩ˀ
 hộc	h o˨˩ˀ k
 hội	h o˨˩ˀ j
 hộp	h o˨˩ˀ p
-hớn	h ɤ :˧˥ n̪
-hớt	h ɤ :˧˥ t̪
-hờ	h ɤ :˨˩
-hờn	h ɤ :˨˩ n̪
-hở	h ɤ :˧˩˧
-hởi	h ɤ :˧˩˧ j
-hợp	h ɤ :˨˩ˀ p
+hớn	h ɤː˧˥ n̪
+hớt	h ɤː˧˥ t̪
+hờ	h ɤː˨˩
+hờn	h ɤː˨˩ n̪
+hở	h ɤː˧˩˧
+hởi	h ɤː˧˩˧ j
+hợp	h ɤː˨˩ˀ p
 hủ	h u˧˩˧
 hứa	h ɯɤ˧˥˧
 hững	h ɯ˧˥ˀ ŋ
@@ -706,7 +692,7 @@ không	x o˧ ŋ
 khúc	x u˧˥ k
 khăn	x a˧ n̪
 khăng	x a˧ ŋ
-khơi	x ɤ :˧ j
+khơi	x ɤː˧ j
 khải	x aː˧˩˧ j
 khấn	x ɤ˧˥ n̪
 khấu	x ɤ˧˥ u˧
@@ -722,7 +708,7 @@ khốc	x o˧˥ k
 khối	x o˧˥ j
 khốn	x o˧˥ n̪
 khổ	x o˧˩˧
-khờ	x ɤ :˨˩
+khờ	x ɤː˨˩
 khủng	x u˧˩˧ ŋ
 khứ	x ɯ˧˥
 kia	k ie˧˧
@@ -834,8 +820,8 @@ lý	l i˧˥
 lăn	l a˧ n̪
 lăng	l a˧ ŋ
 lũ	l u˧˥ˀ
-lơ	l ɤ :˧
-lơn	l ɤ :˧ n̪
+lơ	l ɤː˧
+lơn	l ɤː˧ n̪
 lư	l ɯ˧
 lưng	l ɯ˧ ŋ
 lưu	l ɯ˧ u˧
@@ -879,12 +865,12 @@ lỗi	l o˧˥ˀ j
 lộ	l o˨˩ˀ
 lội	l o˨˩ˀ j
 lộn	l o˨˩ˀ n̪
-lớn	l ɤ :˧˥ n̪
-lớp	l ɤ :˧˥ p
-lờ	l ɤ :˨˩
-lời	l ɤ :˨˩ j
-lỡ	l ɤ :˧˥ˀ
-lợi	l ɤ :˨˩ˀ j
+lớn	l ɤː˧˥ n̪
+lớp	l ɤː˧˥ p
+lờ	l ɤː˨˩
+lời	l ɤː˨˩ j
+lỡ	l ɤː˧˥ˀ
+lợi	l ɤː˨˩ˀ j
 lủi	l u˧˩˧ j
 lứa	l ɯɤ˧˥˧
 lức	l ɯ˧˥ k
@@ -950,8 +936,8 @@ mùa	m uo˨˩˧
 mùi	m u˨˩ j
 măng	m a˧ ŋ
 mũi	m u˧˥ˀ j
-mơ	m ɤ :˧
-mơn	m ɤ :˧ n̪
+mơ	m ɤː˧
+mơn	m ɤː˧ n̪
 mưa	m ɯɤ˧˧
 mươi	m ɯɤ˧˧ j
 mướt	m ɯɤ˧˧˥ t̪
@@ -998,11 +984,11 @@ mỗi	m o˧˥ˀ j
 mộ	m o˨˩ˀ
 mộng	m o˨˩ˀ ŋ
 một	m o˨˩ˀ t̪
-mộtchờ	m o˨˩ˀ t̪ k ɤ :˨˩
-mới	m ɤ :˧˥ j
-mờ	m ɤ :˨˩
-mời	m ɤ :˨˩ j
-mở	m ɤ :˧˩˧
+mộtchờ	m o˨˩ˀ t̪ k ɤː˨˩
+mới	m ɤː˧˥ j
+mờ	m ɤː˨˩
+mời	m ɤː˨˩ j
+mở	m ɤː˧˩˧
 mục	m u˨˩ˀ k
 mức	m ɯ˧˥ k
 mừng	m ɯ˨˩ ŋ
@@ -1067,8 +1053,8 @@ ngôn	ŋ o˧ n̪
 ngùng	ŋ u˨˩ ŋ
 ngăm	ŋ a˧ m
 ngăn	ŋ a˧ n̪
-ngơ	ŋ ɤ :˧
-ngơi	ŋ ɤ :˧ j
+ngơ	ŋ ɤː˧
+ngơi	ŋ ɤː˧ j
 ngưng	ŋ ɯ˧ ŋ
 người	ŋ ɯɤ˧˨˩ j
 ngưỡng	ŋ ɯɤ˧˧˥ˀ ŋ
@@ -1095,10 +1081,10 @@ ngốc	ŋ o˧˥ k
 ngồi	ŋ o˨˩ j
 ngổn	ŋ o˧˩˧ n̪
 ngột	ŋ o˨˩ˀ t̪
-ngờ	ŋ ɤ :˨˩
-ngời	ŋ ɤ :˨˩ j
-ngỡ	ŋ ɤ :˧˥ˀ
-ngợm	ŋ ɤ :˨˩ˀ m
+ngờ	ŋ ɤː˨˩
+ngời	ŋ ɤː˨˩ j
+ngỡ	ŋ ɤː˧˥ˀ
+ngợm	ŋ ɤː˨˩ˀ m
 ngụ	ŋ u˨˩ˀ
 ngục	ŋ u˨˩ˀ k
 ngụm	ŋ u˨˩ˀ m
@@ -1172,9 +1158,9 @@ nhọc	ɲ ɔ˨˩ˀ k
 nhỏ	ɲ ɔ˧˩˧
 nhốt	ɲ o˧˥ t̪
 nhộn	ɲ o˨˩ˀ n̪
-nhớ	ɲ ɤ :˧˥
-nhờ	ɲ ɤ :˨˩
-nhờn	ɲ ɤ :˨˩ n̪
+nhớ	ɲ ɤː˧˥
+nhờ	ɲ ɤː˨˩
+nhờn	ɲ ɤː˨˩ n̪
 nhục	ɲ u˨˩ˀ k
 nhủ	ɲ u˧˩˧
 những	ɲ ɯ˧˥ˀ ŋ
@@ -1212,7 +1198,7 @@ núi	n̪ u˧˥ j
 nút	n̪ u˧˥ t̪
 năm	n̪ a˧ m
 năng	n̪ a˧ ŋ
-nơi	n̪ ɤ :˧ j
+nơi	n̪ ɤː˧ j
 nước	n̪ ɯɤ˧˧˥ k
 nại	n̪ aː˨˩ˀ j
 nạn	n̪ aː˨˩ˀ n̪
@@ -1238,7 +1224,7 @@ nổ	n̪ o˧˩˧
 nổi	n̪ o˧˩˧ j
 nỗi	n̪ o˧˥ˀ j
 nội	n̪ o˨˩ˀ j
-nở	n̪ ɤ :˧˩˧
+nở	n̪ ɤː˧˩˧
 nụ	n̪ u˨˩ˀ
 nức	n̪ ɯ˧˥ k
 nửa	n̪ ɯɤ˧˩˧˧
@@ -1285,7 +1271,7 @@ phẳng	f a˧˩˧ ŋ
 phết	f e˧˥ t̪
 phố	f o˧˥
 phối	f o˧˥ j
-phớt	f ɤ :˧˥ t̪
+phớt	f ɤː˧˥ t̪
 phụ	f u˨˩ˀ
 phục	f u˨˩ˀ k
 phủ	f u˧˩˧
@@ -1356,7 +1342,7 @@ rú	z u˧˥
 rút	z u˧˥ t̪
 răng	z a˧ ŋ
 rũ	z u˧˥ˀ
-rơi	z ɤ :˧ j
+rơi	z ɤː˧ j
 rước	z ɯɤ˧˧˥ k
 rướn	z ɯɤ˧˧˥ n̪
 rưỡi	z ɯɤ˧˧˥ˀ j
@@ -1385,13 +1371,13 @@ rồi	z o˨˩ j
 rỗng	z o˧˥ˀ ŋ
 rộn	z o˨˩ˀ n̪
 rộng	z o˨˩ˀ ŋ
-rớp	z ɤ :˧˥ p
-rớt	z ɤ :˧˥ t̪
-rời	z ɤ :˨˩ j
-rờn	z ɤ :˨˩ n̪
-rỡ	z ɤ :˧˥ˀ
-rợn	z ɤ :˨˩ˀ n̪
-rợp	z ɤ :˨˩ˀ p
+rớp	z ɤː˧˥ p
+rớt	z ɤː˧˥ t̪
+rời	z ɤː˨˩ j
+rờn	z ɤː˨˩ n̪
+rỡ	z ɤː˧˥ˀ
+rợn	z ɤː˨˩ˀ n̪
+rợp	z ɤː˨˩ˀ p
 rụng	z u˨˩ˀ ŋ
 rủ	z u˧˩˧
 rủa	z uo˧˩˧˧
@@ -1448,7 +1434,7 @@ sùng	s u˨˩ ŋ
 săn	s a˧ n̪
 sĩ	s i˧˥ˀ
 sũng	s u˧˥ˀ ŋ
-sơn	s ɤ :˧ n̪
+sơn	s ɤː˧ n̪
 sư	s ɯ˧
 sưa	s ɯɤ˧˧
 sương	s ɯɤ˧˧ ŋ
@@ -1473,10 +1459,10 @@ sốc	s o˧˥ k
 sống	s o˧˥ ŋ
 sốt	s o˧˥ t̪
 sổ	s o˧˩˧
-sớm	s ɤ :˧˥ m
-sờ	s ɤ :˨˩
-sợ	s ɤ :˨˩ˀ
-sợi	s ɤ :˨˩ˀ j
+sớm	s ɤː˧˥ m
+sờ	s ɤː˨˩
+sợ	s ɤː˨˩ˀ
+sợi	s ɤː˨˩ˀ j
 sụp	s u˨˩ˀ p
 sụt	s u˨˩ˀ t̪
 sức	s ɯ˧˥ k
@@ -1526,7 +1512,7 @@ thuần	t̪ʰ u˧ ɤ˨˩ n̪
 thuận	t̪ʰ u˧ ɤ˨˩ˀ n̪
 thuốc	t̪ʰ uo˧˧˥ k
 thuộc	t̪ʰ uo˧˨˩ˀ k
-thuở	t̪ʰ u˧ ɤ :˧˩˧
+thuở	t̪ʰ u˧ ɤː˧˩˧
 thyền	t̪ʰ ie˧˨˩ n̪
 thà	t̪ʰ aː˨˩
 thành	t̪ʰ aː˨˩ ŋ
@@ -1552,8 +1538,8 @@ thú	t̪ʰ u˧˥
 thúc	t̪ʰ u˧˥ k
 thăm	t̪ʰ a˧ m
 thăng	t̪ʰ a˧ ŋ
-thơ	t̪ʰ ɤ :˧
-thơm	t̪ʰ ɤ :˧ m
+thơ	t̪ʰ ɤː˧
+thơm	t̪ʰ ɤː˧ m
 thưa	t̪ʰ ɯɤ˧˧
 thương	t̪ʰ ɯɤ˧˧ ŋ
 thước	t̪ʰ ɯɤ˧˧˥ k
@@ -1600,10 +1586,10 @@ thối	t̪ʰ o˧˥ j
 thốt	t̪ʰ o˧˥ t̪
 thổi	t̪ʰ o˧˩˧ j
 thổn	t̪ʰ o˧˩˧ n̪
-thờ	t̪ʰ ɤ :˨˩
-thời	t̪ʰ ɤ :˨˩ j
-thở	t̪ʰ ɤ :˧˩˧
-thợ	t̪ʰ ɤ :˨˩ˀ
+thờ	t̪ʰ ɤː˨˩
+thời	t̪ʰ ɤː˨˩ j
+thở	t̪ʰ ɤː˧˩˧
+thợ	t̪ʰ ɤː˨˩ˀ
 thụ	t̪ʰ u˨˩ˀ
 thục	t̪ʰ u˨˩ˀ k
 thủ	t̪ʰ u˧˩˧
@@ -1687,7 +1673,7 @@ trăm	tɕ a˧ m
 trăn	tɕ a˧ n̪
 trăng	tɕ a˧ ŋ
 trĩu	tɕ i˧˥ˀ u˧
-trơ	tɕ ɤ :˧
+trơ	tɕ ɤː˧
 trưa	tɕ ɯɤ˧˧
 trưng	tɕ ɯ˧ ŋ
 trương	tɕ ɯɤ˧˧ ŋ
@@ -1714,10 +1700,10 @@ trốn	tɕ o˧˥ n̪
 trống	tɕ o˧˥ ŋ
 trồng	tɕ o˨˩ ŋ
 trộm	tɕ o˨˩ˀ m
-trớn	tɕ ɤ :˧˥ n̪
-trời	tɕ ɤ :˨˩ j
-trở	tɕ ɤ :˧˩˧
-trợ	tɕ ɤ :˨˩ˀ
+trớn	tɕ ɤː˧˥ n̪
+trời	tɕ ɤː˨˩ j
+trở	tɕ ɤː˧˩˧
+trợ	tɕ ɤː˨˩ˀ
 trục	tɕ u˨˩ˀ k
 trừ	tɕ ɯ˨˩
 trừng	tɕ ɯ˨˩ ŋ
@@ -1816,9 +1802,9 @@ tồn	t̪ o˨˩ n̪
 tổng	t̪ o˧˩˧ ŋ
 tộc	t̪ o˨˩ˀ k
 tội	t̪ o˨˩ˀ j
-tớ	t̪ ɤ :˧˥
-tới	t̪ ɤ :˧˥ j
-tờ	t̪ ɤ :˨˩
+tớ	t̪ ɤː˧˥
+tới	t̪ ɤː˧˥ j
+tờ	t̪ ɤː˨˩
 tụ	t̪ u˨˩ˀ
 tục	t̪ u˨˩ˀ k
 tụi	t̪ u˨˩ˀ j
@@ -1915,15 +1901,15 @@ vọng	v ɔ˨˩ˀ ŋ
 vỏ	v ɔ˧˩˧
 vốn	v o˧˥ n̪
 vội	v o˨˩ˀ j
-vớ	v ɤ :˧˥
-với	v ɤ :˧˥ j
-vờ	v ɤ :˨˩
-vời	v ɤ :˨˩ j
-vờn	v ɤ :˨˩ n̪
-vở	v ɤ :˧˩˧
-vỡ	v ɤ :˧˥ˀ
-vợ	v ɤ :˨˩ˀ
-vợi	v ɤ :˨˩ˀ j
+vớ	v ɤː˧˥
+với	v ɤː˧˥ j
+vờ	v ɤː˨˩
+vời	v ɤː˨˩ j
+vờn	v ɤː˨˩ n̪
+vở	v ɤː˧˩˧
+vỡ	v ɤː˧˥ˀ
+vợ	v ɤː˨˩ˀ
+vợi	v ɤː˨˩ˀ j
 vụ	v u˨˩ˀ
 vục	v u˨˩ˀ k
 vụng	v u˨˩ˀ ŋ
@@ -1990,10 +1976,6 @@ yêu	ʔ ie˧˧ u˧
 yếu	ʔ ie˧˧˥ u˧
 yểu	ʔ ie˧˧˩˧ u˧
 zoom	z ɔ˧ ɔ˧ m
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 à	ʔ aː˨˩
 ào	ʔ aː˨˩ ɔ˧
 á	ʔ aː˧˥
@@ -2091,7 +2073,7 @@ zoom	z ɔ˧ ɔ˧ m
 đăm	ɗ a˧ m
 đăng	ɗ a˧ ŋ
 đĩ	ɗ i˧˥ˀ
-đơn	ɗ ɤ :˧ n̪
+đơn	ɗ ɤː˧ n̪
 đưa	ɗ ɯɤ˧˧
 đương	ɗ ɯɤ˧˧ ŋ
 đường	ɗ ɯɤ˧˨˩ ŋ
@@ -2154,11 +2136,11 @@ zoom	z ɔ˧ ɔ˧ m
 độn	ɗ o˨˩ˀ n̪
 động	ɗ o˨˩ˀ ŋ
 đột	ɗ o˨˩ˀ t̪
-đớn	ɗ ɤ :˧˥ n̪
-đời	ɗ ɤ :˨˩ j
-đỡ	ɗ ɤ :˧˥ˀ
-đợi	ɗ ɤ :˨˩ˀ j
-đợt	ɗ ɤ :˨˩ˀ t̪
+đớn	ɗ ɤː˧˥ n̪
+đời	ɗ ɤː˨˩ j
+đỡ	ɗ ɤː˧˥ˀ
+đợi	ɗ ɤː˨˩ˀ j
+đợt	ɗ ɤː˨˩ˀ t̪
 đục	ɗ u˨˩ˀ k
 đụng	ɗ u˨˩ˀ ŋ
 đủ	ɗ u˧˩˧
@@ -2167,8 +2149,8 @@ zoom	z ɔ˧ ɔ˧ m
 đứng	ɗ ɯ˧˥ ŋ
 đừng	ɗ ɯ˨˩ ŋ
 đựng	ɗ ɯ˨˩ˀ ŋ
-ơi	ʔ ɤ :˧ j
-ơn	ʔ ɤ :˧ n̪
+ơi	ʔ ɤː˧ j
+ơn	ʔ ɤː˧ n̪
 ưa	ʔ ɯɤ˧˧
 ươm	ʔ ɯɤ˧˧ m
 ương	ʔ ɯɤ˧˧ ŋ
@@ -2194,17 +2176,13 @@ zoom	z ɔ˧ ɔ˧ m
 ồn	ʔ o˨˩ n̪
 ổ	ʔ o˧˩˧
 ổn	ʔ o˧˩˧ n̪
-ớt	ʔ ɤ :˧˥ t̪
-ờ	ʔ ɤ :˨˩
-ở	ʔ ɤ :˧˩˧
-ởn	ʔ ɤ :˧˩˧ n̪
+ớt	ʔ ɤː˧˥ t̪
+ờ	ʔ ɤː˨˩
+ở	ʔ ɤː˧˩˧
+ởn	ʔ ɤː˧˩˧ n̪
 ủ	ʔ u˧˩˧
 ủng	ʔ u˧˩˧ ŋ
 ứa	ʔ ɯɤ˧˥˧
 ức	ʔ ɯ˧˥ k
 ứng	ʔ ɯ˧˥ ŋ
 ừ	ʔ ɯ˨˩
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

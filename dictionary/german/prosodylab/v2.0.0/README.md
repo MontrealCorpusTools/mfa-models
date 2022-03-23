@@ -1,5 +1,5 @@
 
-# german.prosodylab
+# German PROSODYLAB dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/german_prosodylab.html)
 
@@ -14,8 +14,9 @@ Jump to section:
 
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [German](https://en.wikipedia.org/wiki/German_language)
-- **Number of words:** `310,972`
+- **Dialect:** N/A
 - **Phone set:** [PROSODYLAB](https://github.com/prosodylab/prosodylab.dictionaries)
+- **Number of words:** `310,951`
 - **Phones:** {ipa_inline}`$1`, {ipa_inline}`&0`, {ipa_inline}`&1`, {ipa_inline}`)0`, {ipa_inline}`)1`, {ipa_inline}`+`, {ipa_inline}`/0`, {ipa_inline}`/1`, {ipa_inline}`=`, {ipa_inline}`@0`, {ipa_inline}`A0`, {ipa_inline}`A1`, {ipa_inline}`B0`, {ipa_inline}`B1`, {ipa_inline}`E0`, {ipa_inline}`E1`, {ipa_inline}`I0`, {ipa_inline}`I1`, {ipa_inline}`J`, {ipa_inline}`N`, {ipa_inline}`O0`, {ipa_inline}`O1`, {ipa_inline}`S`, {ipa_inline}`U0`, {ipa_inline}`U1`, {ipa_inline}`V1`, {ipa_inline}`W0`, {ipa_inline}`W1`, {ipa_inline}`X0`, {ipa_inline}`X1`, {ipa_inline}`Y0`, {ipa_inline}`Y1`, {ipa_inline}`Z`, {ipa_inline}`^1`, {ipa_inline}`_`, {ipa_inline}`a0`, {ipa_inline}`a1`, {ipa_inline}`b`, {ipa_inline}`c0`, {ipa_inline}`d`, {ipa_inline}`drei0`, {ipa_inline}`e0`, {ipa_inline}`e1`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i0`, {ipa_inline}`i1`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`null0`, {ipa_inline}`null1`, {ipa_inline}`o0`, {ipa_inline}`o1`, {ipa_inline}`p`, {ipa_inline}`q0`, {ipa_inline}`q1`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`sechs1`, {ipa_inline}`t`, {ipa_inline}`u0`, {ipa_inline}`u1`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y0`, {ipa_inline}`y1`, {ipa_inline}`z`, {ipa_inline}`zwei0`, {ipa_inline}`zwei1`, {ipa_inline}`{0`, {ipa_inline}`{1`, {ipa_inline}`|0`, {ipa_inline}`|1`, {ipa_inline}`~1`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/PROSODYLAB/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
@@ -55,9 +56,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

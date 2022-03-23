@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,18 +53,18 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 31783
+        * Occurances: 14908
         * Examples
-          * lume: [l u m e]
-          * boma.: [b o m a]
-          * miami: [m i a m i]
-          * marcò: [m a r k ɔ]
+          * salmi: [s a l m i]
+          * daman: [d a m a n]
+          * umane: [u m a n e]
+          * maghi: [m a ɡ i]
       * mː
-        * Occurances: 1446
+        * Occurances: 724
         * Examples
-          * amman: [a mː a n]
-          * lemma: [l e mː a]
-          * emma: [e mː a]
+          * lemmy: [l e mː y]
+          * somme: [s o mː e]
+          * femme: [f e mː e]
           * sammy: [s a mː y]
     ```
   - ```{ipa_cell}
@@ -72,31 +74,31 @@
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 74819
+        * Occurances: 36542
         * Examples
-          * logan: [l o ɡ a n]
-          * thun: [t u n]
-          * tank: [t a n k]
-          * final: [f i n a l]
+          * sound: [s o u n d]
+          * daman: [d a m a n]
+          * kensi: [k e n s i]
+          * frena: [f r e n a]
       * nː
-        * Occurances: 2247
+        * Occurances: 1082
         * Examples
-          * fanno: [f a nː o]
-          * vann: [v a nː]
-          * gonna: [ɡ o nː a]
-          * sonni: [s o nː i]
+          * wanna: [w a nː a]
+          * fionn: [f i o nː]
+          * j'onn: [j o nː]
+          * lynne: [l y nː e]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 1660
+        * Occurances: 794
         * Examples
-          * pigna: [p i ɲ a]
-          * togni: [t o ɲ i]
-          * legno: [l e ɲ o]
           * pugno: [p u ɲ o]
+          * gnomo: [ɲ o m o]
+          * ignee: [i ɲ e e]
+          * agnès: [a ɲ ɛ s]
     ```
   - ```{ipa_cell}
     ```
@@ -108,34 +110,34 @@
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 25004
+        * Occurances: 11927
         * Examples
-          * spa.: [s p a]
-          * kapo: [k a p o]
-          * poor: [p o o r]
-          * pacco: [p a kː o]
+          * poker: [p o k e r]
+          * hap: [a p]
+          * prua: [p r u a]
+          * pasca: [p a ʃ a]
       * pː
-        * Occurances: 1722
+        * Occurances: 910
         * Examples
-          * stapp: [s t a pː]
-          * ippia: [i pː i a]
-          * zeppo: [s e pː o]
-          * zuppe: [s u pː e]
+          * cippo: [t͡ʃ i pː o]
+          * mappe: [m a pː e]
+          * lippa: [l i pː a]
+          * zoppo: [s o pː o]
     * voiced
       * b
-        * Occurances: 15752
+        * Occurances: 7082
         * Examples
-          * boma.: [b o m a]
-          * seb: [s e b]
-          * "nube: [n u b e]
-          * bega: [b e ɡ a]
+          * bust: [b u s t]
+          * brama: [b r a m a]
+          * butte: [b u tː e]
+          * ebrei: [e b r e i]
       * bː
-        * Occurances: 886
+        * Occurances: 484
         * Examples
-          * gibb: [d͡ʒ i bː]
-          * cobb.: [k o bː]
-          * abbie: [a bː i e]
-          * lobby: [l o bː y]
+          * rabbi: [r a bː i]
+          * gibbs: [d͡ʒ i bː s]
+          * abbey: [a bː e y]
+          * hobby: [o bː y]
     ```
   - ```{ipa_cell}
     ```
@@ -144,34 +146,34 @@
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 68196
+        * Occurances: 32674
         * Examples
-          * tig.: [t i ɡ]
-          * toad: [t o a d]
-          * tara.: [t a r a]
-          * thun: [t u n]
+          * bust: [b u s t]
+          * lutz: [l u t s]
+          * arta: [a r t a]
+          * ramat: [r a m a t]
       * tː
-        * Occurances: 7688
+        * Occurances: 3787
         * Examples
-          * dotti: [d o tː i]
-          * pitt,: [p i tː]
-          * matt.: [m a tː]
-          * butto: [b u tː o]
+          * tutto: [t u tː o]
+          * butte: [b u tː e]
+          * putti: [p u tː i]
+          * tutte: [t u tː e]
     * voiced
       * d
-        * Occurances: 29534
+        * Occurances: 14646
         * Examples
-          * acida: [a t͡ʃ i d a]
-          * doro.: [d o r o]
-          * toad: [t o a d]
-          * "dick: [d i k k]
+          * sound: [s o u n d]
+          * cards: [k a r d s]
+          * daman: [d a m a n]
+          * ueda: [u e d a]
       * dː
-        * Occurances: 504
+        * Occurances: 268
         * Examples
-          * l'odd: [l o dː]
           * buddy: [b u dː y]
-          * "odd: [o dː]
-          * zedd,: [s e dː]
+          * todd: [t o dː]
+          * odd: [o dː]
+          * paddy: [p a dː y]
     ```
   - ```{ipa_cell}
     ```
@@ -180,34 +182,34 @@
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 39508
+        * Occurances: 18336
         * Examples
-          * coro.: [k o r o]
-          * cosí: [k o s i]
-          * culo.: [k u l o]
-          * "dick: [d i k k]
+          * cards: [k a r d s]
+          * poker: [p o k e r]
+          * kensi: [k e n s i]
+          * key): [k e y]
       * kː
-        * Occurances: 2298
+        * Occurances: 1186
         * Examples
-          * pacco: [p a kː o]
-          * secco: [s e kː o]
-          * cocco: [k o kː o]
-          * rocca: [r o kː a]
+          * succo: [s u kː o]
+          * acca: [a kː a]
+          * mccay: [m kː a y]
+          * bacca: [b a kː a]
     * voiced
       * ɡ
-        * Occurances: 12451
+        * Occurances: 5714
         * Examples
-          * logan: [l o ɡ a n]
-          * tig.: [t i ɡ]
-          * greco: [ɡ r e k o]
-          * druga: [d r u ɡ a]
+          * maghi: [m a ɡ i]
+          * ying: [y i n ɡ]
+          * guaio: [ɡ u a i o]
+          * ago: [a ɡ o]
       * ɡː
-        * Occurances: 213
+        * Occurances: 123
         * Examples
-          * gregg: [ɡ r e ɡː]
-          * iggy: [i ɡː y]
-          * eggs,: [e ɡː s]
-          * egg,: [e ɡː]
+          * oggy: [o ɡː y]
+          * legg: [l e ɡː]
+          * bragg: [b r a ɡː]
+          * higgs: [i ɡː s]
     ```
   - ```{ipa_cell}
     ```
@@ -223,44 +225,44 @@
   - ```{ipa_cell}
     * voiceless
       * t͡s
-        * Occurances: 2324
+        * Occurances: 1183
         * Examples
-          * pezzo: [p e t͡s o]
+          * mezzi: [m e t͡s i]
           * razza: [r a t͡s a]
-          * bozza: [b o t͡s a]
-          * mezzo: [m e t͡s o]
+          * nizza: [n i t͡s a]
+          * nozze: [n o t͡s e]
     ```
   - ```{ipa_cell}
     * voiceless
       * t͡ʃ
-        * Occurances: 11296
+        * Occurances: 5288
         * Examples
-          * acida: [a t͡ʃ i d a]
-          * cent.: [t͡ʃ e n t]
-          * laici: [l a i t͡ʃ i]
-          * cifra: [t͡ʃ i f r a]
+          * lucia: [l u t͡ʃ a]
+          * ceci: [t͡ʃ e t͡ʃ i]
+          * ceco: [t͡ʃ e k o]
+          * croci: [k r o t͡ʃ i]
       * t͡ʃː
-        * Occurances: 1423
+        * Occurances: 690
         * Examples
           * lecce: [l e t͡ʃː e]
-          * gucci: [ɡ u t͡ʃː i]
-          * uccio: [u t͡ʃː o]
           * docce: [d o t͡ʃː e]
+          * bucci: [b u t͡ʃː i]
+          * nicci: [n i t͡ʃː i]
     * voiced
       * d͡ʒ
-        * Occurances: 6953
+        * Occurances: 3203
         * Examples
-          * giù: [d͡ʒ u]
-          * giuro: [d͡ʒ u r o]
-          * rygel: [r y d͡ʒ e l]
-          * girar: [d͡ʒ i r a r]
+          * madge: [m a d d͡ʒ e]
+          * giac: [d͡ʒ a k]
+          * esige: [e s i d͡ʒ e]
+          * porge: [p o r d͡ʒ e]
       * d͡ʒː
-        * Occurances: 1782
+        * Occurances: 891
         * Examples
-          * oggi,: [o d͡ʒː i]
+          * faggi: [f a d͡ʒː i]
+          * seggi: [s e d͡ʒː i]
+          * regge: [r e d͡ʒː e]
           * oggi: [o d͡ʒː i]
-          * oggi.: [o d͡ʒː i]
-          * fuggì: [f u d͡ʒː i]
     ```
   - ```{ipa_cell}
     ```
@@ -280,37 +282,37 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 55032
+        * Occurances: 26008
         * Examples
-          * spa.: [s p a]
-          * cosí: [k o s i]
-          * lotus: [l o t u s]
-          * fuso.: [f u s o]
+          * bust: [b u s t]
+          * salmi: [s a l m i]
+          * sound: [s o u n d]
+          * lutz: [l u t s]
       * sː
-        * Occurances: 5602
+        * Occurances: 2793
         * Examples
-          * swiss: [z w i sː]
-          * ossi: [o sː i]
-          * kiss.: [k i sː]
-          * less: [l e sː]
+          * fossi: [f o sː i]
+          * fossa: [f o sː a]
+          * gesso: [d͡ʒ e sː o]
+          * issue: [i sː u e]
     * voiced
       * z
-        * Occurances: 2516
+        * Occurances: 1224
         * Examples
-          * swiss: [z w i sː]
-          * slat: [z l a t]
-          * slot: [z l o t]
-          * swift: [z w i f t]
+          * oswiu: [o z w i u]
+          * sisma: [s i z m a]
+          * small: [z m a lː]
+          * snap: [z n a p]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 3003
+        * Occurances: 1485
         * Examples
-          * scusa: [ʃ u s a]
-          * scale: [ʃ a l e]
-          * basca: [b a ʃ a]
-          * basco: [b a ʃ o]
+          * pasca: [p a ʃ a]
+          * scuse: [ʃ u s e]
+          * scusò: [ʃ u s ɔ]
+          * fosca: [f o ʃ a]
     ```
   - ```{ipa_cell}
     ```
@@ -326,39 +328,39 @@
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 12281
+        * Occurances: 5733
         * Examples
-          * fuso.: [f u s o]
-          * final: [f i n a l]
-          * forlì: [f o r l i]
-          * fir: [f i r]
+          * frena: [f r e n a]
+          * fumo: [f u m o]
+          * fossi: [f o sː i]
+          * sfera: [s f e r a]
       * fː
-        * Occurances: 1482
+        * Occurances: 804
         * Examples
-          * ruffo: [r u fː o]
-          * offra: [o fː r a]
-          * off: [o fː]
-          * geoff: [d͡ʒ e o fː]
+          * offre: [o fː r e]
+          * goffi: [ɡ o fː i]
+          * beffe: [b e fː e]
+          * caffé: [k a fː e]
     * voiced
       * v
-        * Occurances: 17302
+        * Occurances: 8589
         * Examples
-          * neve:: [n e v e]
-          * alive: [a l i v e]
-          * evers: [e v e r s]
-          * "live: [l i v e]
+          * levin: [l e v i n]
+          * vidi: [v i d i]
+          * avute: [a v u t e]
+          * vivi: [v i v i]
       * vː
-        * Occurances: 496
+        * Occurances: 281
         * Examples
-          * ovve: [o vː e]
-          * avvia: [a vː i a]
-          * ovvie: [o vː i e]
+          * avvio: [a vː i o]
           * ovvi: [o vː i]
+          * ovvie: [o vː i e]
+          * bevve: [b e vː e]
     ```
   - ```{ipa_cell}
     * voiced
       * ð
-        * Occurances: 3
+        * Occurances: 1
         * Examples
           * fróði: [f r o ð i]
     ```
@@ -369,14 +371,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 327
-        * Examples
-          * ickx: [i k k x]
-          * dax: [d a x]
-          * "x".: [x]
-          * inox: [i n o x]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -392,6 +386,14 @@
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 1232
+        * Examples
+          * oswiu: [o z w i u]
+          * woman: [w o m a n]
+          * wen: [w e n]
+          * owain: [o w a i n]
     ```
   - ```{ipa_cell}
     ```
@@ -404,12 +406,12 @@
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 1602
+        * Occurances: 775
         * Examples
-          * joel,: [j o e l]
-          * jon.: [j o n]
-          * mojo,: [m o j o]
-          * john: [j o n]
+          * keiji: [k e i j i]
+          * jock: [j o k k]
+          * juma: [j u m a]
+          * dej: [d e j]
     ```
   - ```{ipa_cell}
     ```
@@ -427,19 +429,19 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 81925
+        * Occurances: 39623
         * Examples
-          * doro.: [d o r o]
-          * lear": [l e a r]
-          * tara.: [t a r a]
-          * coro.: [k o r o]
+          * cards: [k a r d s]
+          * offre: [o fː r e]
+          * arta: [a r t a]
+          * suore: [s u o r e]
       * rː
-        * Occurances: 2545
+        * Occurances: 1241
         * Examples
-          * ferri: [f e rː i]
-          * barre: [b a rː e]
-          * jarre: [j a rː e]
-          * parr: [p a rː]
+          * barr: [b a rː]
+          * marra: [m a rː a]
+          * berra: [b e rː a]
+          * vorrà: [v o rː a]
     ```
   - ```{ipa_cell}
     ```
@@ -461,31 +463,31 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 41386
+        * Occurances: 19150
         * Examples
-          * logan: [l o ɡ a n]
-          * lear": [l e a r]
-          * culo.: [k u l o]
-          * colò,: [k o l ɔ]
+          * salmi: [s a l m i]
+          * lutz: [l u t s]
+          * levin: [l e v i n]
+          * riolo: [r i o l o]
       * lː
-        * Occurances: 8595
+        * Occurances: 4101
         * Examples
-          * illa: [i lː a]
-          * "roll: [r o lː]
-          * mill,: [m i lː]
-          * bulla: [b u lː a]
+          * dell': [d e lː]
+          * alla: [a lː a]
+          * ellen: [e lː e n]
+          * lolli: [l o lː i]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 1487
+        * Occurances: 758
         * Examples
-          * negli: [n e ʎ]
-          * aglio: [a ʎ o]
-          * gigli: [d͡ʒ i ʎ]
-          * glifi: [ʎ f i]
+          * degli: [d e ʎ]
+          * tagli: [t a ʎ]
+          * egli: [e ʎ]
+          * cagli: [k a ʎ]
     ```
   - ```{ipa_cell}
     ```
@@ -496,7 +498,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -513,20 +519,20 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 121153
+        * Occurances: 57774
         * Examples
-          * acida: [a t͡ʃ i d a]
-          * tig.: [t i ɡ]
-          * wei,: [w e i]
-          * cosí: [k o s i]
+          * salmi: [s a l m i]
+          * oswiu: [o z w i u]
+          * kensi: [k e n s i]
+          * maghi: [m a ɡ i]
     * rounded
       * y
-        * Occurances: 4358
+        * Occurances: 2009
         * Examples
-          * way: [w a y]
-          * shy: [s y]
-          * play": [p l a y]
-          * rygel: [r y d͡ʒ e l]
+          * ying: [y i n ɡ]
+          * key): [k e y]
+          * dirty: [d i r t y]
+          * empty: [e m p t y]
     ```
   - ```{ipa_cell}
     ```
@@ -537,12 +543,12 @@
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 29623
+        * Occurances: 13928
         * Examples
-          * giù: [d͡ʒ u]
-          * culo.: [k u l o]
-          * thun: [t u n]
-          * lume: [l u m e]
+          * bust: [b u s t]
+          * sound: [s o u n d]
+          * lutz: [l u t s]
+          * suore: [s u o r e]
     ```
 * -
   - ```{ipa_cell}
@@ -559,23 +565,23 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 112884
+        * Occurances: 54049
         * Examples
-          * lear": [l e a r]
-          * wei,: [w e i]
-          * lume: [l u m e]
-          * greco: [ɡ r e k o]
+          * offre: [o fː r e]
+          * suore: [s u o r e]
+          * poker: [p o k e r]
+          * ueda: [u e d a]
       * eː
         * Occurances: 1
         * Examples
     * rounded
       * ø
-        * Occurances: 35
+        * Occurances: 19
         * Examples
           * jørn: [j ø r n]
+          * hødd: [ø dː]
+          * bodø: [b o d ø]
           * bjørn: [b j ø r n]
-          * øer.: [ø e r]
-          * øer: [ø e r]
     ```
   - ```{ipa_cell}
     ```
@@ -586,12 +592,12 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 102483
+        * Occurances: 48931
         * Examples
-          * logan: [l o ɡ a n]
-          * doro.: [d o r o]
-          * toad: [t o a d]
-          * coro.: [k o r o]
+          * sound: [s o u n d]
+          * offre: [o fː r e]
+          * suore: [s u o r e]
+          * oswiu: [o z w i u]
       * oː
         * Occurances: 1
         * Examples
@@ -617,15 +623,15 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 203
+        * Occurances: 90
         * Examples
-          * com'è: [k o m ɛ]
-          * cos'è: [k o s ɛ]
-          * parè.: [p a r ɛ]
-          * c'è!: [k ɛ]
+          * agnès: [a ɲ ɛ s]
+          * c'è: [k ɛ]
+          * cioè: [t͡ʃ o ɛ]
+          * josè: [j o s ɛ]
     * rounded
       * œ
-        * Occurances: 3
+        * Occurances: 1
         * Examples
     ```
   - ```{ipa_cell}
@@ -637,20 +643,19 @@
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 1173
+        * Occurances: 880
         * Examples
-          * colò,: [k o l ɔ]
-          * marcò: [m a r k ɔ]
-          * forzò: [f o r s ɔ]
-          * urlò,: [u r l ɔ]
+          * varcò: [v a r k ɔ]
+          * gravò: [ɡ r a v ɔ]
+          * scusò: [ʃ u s ɔ]
+          * sputò: [s p u t ɔ]
     ```
 * -
   - ```{ipa_cell}
     * unrounded
       * æ
-        * Occurances: 5
+        * Occurances: 2
         * Examples
-          * æsir.: [æ s i r]
     ```
   - ```{ipa_cell}
     ```
@@ -668,12 +673,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 134758
+        * Occurances: 64706
         * Examples
-          * acida: [a t͡ʃ i d a]
-          * logan: [l o ɡ a n]
-          * spa.: [s p a]
-          * lear": [l e a r]
+          * salmi: [s a l m i]
+          * cards: [k a r d s]
+          * arta: [a r t a]
+          * daman: [d a m a n]
       * aː
         * Occurances: 1
         * Examples
@@ -685,7 +690,7 @@
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -776,91 +781,15 @@
   - ```{ipa_cell}
     * unrounded
       * ã
-        * Occurances: 18
+        * Occurances: 9
         * Examples
-          * joão.: [j o ã o]
           * leão: [l e ã o]
-          * são: [s ã o]
           * joão: [j o ã o]
+          * simão: [s i m ã o]
+          * são: [s ã o]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`_`
-* {ipa_inline}`µ`
-* {ipa_inline}`º`
-* {ipa_inline}`ß`
-* {ipa_inline}`á`
-* {ipa_inline}`å`
-* {ipa_inline}`ë`
-* {ipa_inline}`ï`
-* {ipa_inline}`ñ`
-* {ipa_inline}`ö`
-* {ipa_inline}`ü`
-* {ipa_inline}`þ`
-* {ipa_inline}`ÿ`
-* {ipa_inline}`ą`
-* {ipa_inline}`đ`
-* {ipa_inline}`ė`
-* {ipa_inline}`ę`
-* {ipa_inline}`ě`
-* {ipa_inline}`ī`
-* {ipa_inline}`ı`
-* {ipa_inline}`ľ`
-* {ipa_inline}`ł`
-* {ipa_inline}`ń`
-* {ipa_inline}`ň`
-* {ipa_inline}`ō`
-* {ipa_inline}`ő`
-* {ipa_inline}`ř`
-* {ipa_inline}`ś`
-* {ipa_inline}`ş`
-* {ipa_inline}`š`
-* {ipa_inline}`ū`
-* {ipa_inline}`ŭ`
-* {ipa_inline}`ǩ`
-* {ipa_inline}`ș`
-* {ipa_inline}`ț`
-* {ipa_inline}`ʹ`
-* {ipa_inline}`ʻ`
-* {ipa_inline}`ʾ`
-* {ipa_inline}`ʿ`
-* {ipa_inline}`а`
-* {ipa_inline}`б`
-* {ipa_inline}`д`
-* {ipa_inline}`е`
-* {ipa_inline}`л`
-* {ipa_inline}`н`
-* {ipa_inline}`о`
-* {ipa_inline}`с`
-* {ipa_inline}`у`
-* {ipa_inline}`ц`
-* {ipa_inline}`ъ`
-* {ipa_inline}`ё`
-* {ipa_inline}`љ`
-* {ipa_inline}`ң`
-* {ipa_inline}`ד`
-* {ipa_inline}`ה`
-* {ipa_inline}`ו`
-* {ipa_inline}`ة`
-* {ipa_inline}`ر`
-* {ipa_inline}`س`
-* {ipa_inline}`ص`
-* {ipa_inline}`غ`
-* {ipa_inline}`ل`
-* {ipa_inline}`ي`
-* {ipa_inline}`ḱ`
-* {ipa_inline}`ṛ`
-* {ipa_inline}`ṡ`
-* {ipa_inline}`ṣ`
-* {ipa_inline}`ṭ`
-* {ipa_inline}`ạ`
-* {ipa_inline}`ụ`
-* {ipa_inline}`家`
-* {ipa_inline}`ꞌ`

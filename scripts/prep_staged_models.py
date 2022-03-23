@@ -11,7 +11,6 @@ import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES
 from montreal_forced_aligner.dictionary.pronunciation import PronunciationDictionary
 from montreal_forced_aligner.data import voiced_variants, voiceless_variants, PhoneSetType
-from sphinx.addnodes import meta
 
 rng = np.random.default_rng(1234)
 
@@ -39,7 +38,7 @@ def get_model_card_directory(model_type, meta_data):
     else:
         language, phone_set, dialect, version = meta_data['language'], meta_data['phone_set'], meta_data['dialect'], meta_data['version']
         if dialect:
-            phoneset_folder = f'{dialect}_{phone_set}'.lower()
+            phoneset_folder = f'{dialect}_{phone_set}'.replace(' ', '_').lower()
         else:
             phoneset_folder = phone_set.lower()
         directory = os.path.join(model_directory, language.lower(), phoneset_folder, f"v{version}")
@@ -72,6 +71,7 @@ language_link_template = "[{}]({})"
 license_links = {
     'CC-0': 'https://creativecommons.org/publicdomain/zero/1.0/',
     'CC BY 4.0': 'https://creativecommons.org/licenses/by/4.0/',
+    'CC BY 3.0': 'https://creativecommons.org/licenses/by/3.0/',
     'CC BY-NC-SA 4.0': 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
     'CC BY-SA 4.0': 'https://creativecommons.org/licenses/by-sa/4.0/',
     'CC BY-NC-ND 4.0': 'https://creativecommons.org/licenses/by-nc-nd/4.0/',
@@ -90,10 +90,10 @@ mfa_maintainer = "[Montreal Forced Aligner](https://montreal-forced-aligner.read
 cv_maintainer = "[Vox Communis](https://osf.io/t957v/)"
 
 corpus_detail_template="""
-* {link}:
-  * **Hours:** `{num_hours:.2f}`
-  * **Speakers:** `{num_speakers:,}`
-  * **Utterances:** `{num_utterances:,}`"""
+   * {link}:
+     * **Hours:** `{num_hours:.2f}`
+     * **Speakers:** `{num_speakers:,}`
+     * **Utterances:** `{num_utterances:,}`"""
 
 g2p_training_detail_template="""
 * **Words:** `{num_words:,}`
@@ -143,11 +143,12 @@ Jump to section:
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
 - **Dialect:** {dialect_link}
-- **Trained date:** `{date}`
-- **Model type:** `Acoustic`
-- **Architecture:** `{architecture}`
 - **Phone set:** {phone_set_link}
+- **Model type:** `Acoustic`
+- **Features:** `{features}`
+- **Architecture:** `{architecture}`
 - **Model version:** `v{version}`
+- **Trained date:** `{date}`
 - **Compatible MFA version:** `v{mfa_version}`
 - **License:** {license_link}
 - **Citation:**
@@ -209,7 +210,7 @@ You should assume every machine learning model has demographic bias unless prove
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 
 
 ## Troubleshooting issues
@@ -225,11 +226,11 @@ demographics, and recording conditions are. If you encounter issues in alignment
 
 2. Add pronunciations to the pronunciation dictionary
 
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment
+   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
 
 3. Check the quality of your data
 
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset
+   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
    * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
 
 4. Adapt the model to your data
@@ -264,11 +265,12 @@ Jump to section:
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
 - **Dialect:** {dialect_link}
-- **Trained date:** `{date}`
-- **Model type:** `Acoustic model`
 - **Phone set:** {phone_set_link}
-- **Model version:** `v{version}`
+- **Model type:** `Acoustic model`
+- **Features:** `{features}`
 - **Architecture:** `{architecture}`
+- **Model version:** `v{version}`
+- **Trained date:** `{date}`
 - **Compatible MFA version:** `v{mfa_version}`
 - **License:** {license_link}
 - **Citation:**
@@ -316,7 +318,7 @@ You should assume every machine learning model has demographic bias unless prove
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 
 ## Troubleshooting issues
 
@@ -331,11 +333,11 @@ demographics, and recording conditions are. If you encounter issues in alignment
 
 2. Add pronunciations to the pronunciation dictionary
 
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment
+   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
 
 3. Check the quality of your data
 
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset
+   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
    * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
 
 4. Adapt the model to your data
@@ -370,11 +372,11 @@ Jump to section:
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
 - **Dialect:** {dialect_link}
-- **Trained date:** `{date}`
+- **Phone set:** {phone_set_link}
 - **Model type:** `G2P model`
 - **Architecture:** `{architecture}`
-- **Phone set:** {phone_set_link}
 - **Model version:** `v{version}`
+- **Trained date:** `{date}`
 - **Compatible MFA version:** `v{mfa_version}`
 - **License:** {license_link}
 - **Citation:**
@@ -436,8 +438,8 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.
 """
 
@@ -460,10 +462,10 @@ Jump to section:
 
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
-- **Trained date:** `{date}`
 - **Model type:** `Language model`
 - **Architecture:** `{architecture}`
 - **Model version:** `v{version}`
+- **Trained date:** `{date}`
 - **Compatible MFA version:** `v{mfa_version}`
 - **License:** {license_link}
 - **Citation:**
@@ -531,8 +533,8 @@ Do not use this model in production, but if you do so, you should acknowledge bi
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.
 """
 
@@ -545,7 +547,6 @@ Jump to section:
 
 - [Dictionary details](#dictionary-details)
 - [Intended use](#intended-use)
-- [IPA charts](#ipa-charts)
 - [Performance Factors](#performance-factors)
 - [Ethical considerations](#ethical-considerations)
 
@@ -554,8 +555,8 @@ Jump to section:
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
 - **Dialect:** {dialect_link}
-- **Number of words:** `{word_count:,}`
 - **Phone set:** {phone_set_link}
+- **Number of words:** `{word_count:,}`
 - **Phones:** {phones}
 - **License:** {license_link}
 - **Compatible MFA version:** `v{mfa_version}`
@@ -586,9 +587,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations
@@ -618,8 +620,9 @@ Jump to section:
 
 - **Maintainer:** {maintainer}
 - **Language:** {language_link}
-- **Number of words:** `{word_count:,}`
+- **Dialect:** {dialect_link}
 - **Phone set:** {phone_set_link}
+- **Number of words:** `{word_count:,}`
 - **Phones:** {phones}
 - **License:** {license_link}
 - **Compatible MFA version:** `v{mfa_version}`
@@ -650,9 +653,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations
@@ -831,7 +835,15 @@ mfa_dictionary_docs_md_template = """
 
 ## IPA Charts
 
+### Consonants
+
+Obstruent symbols to the left of {{fas}}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 {consonant_chart}
+
+### Vowels
+
+Vowel symbols to the left of {{fas}}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 {vowel_section}
 """
@@ -1021,7 +1033,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
         citation_details['extra_authors'] = 'Shmueli, Natalia and '
     maintainer = mfa_maintainer
     if dialect:
-        phone_set_folder = f'{dialect}_{phone_set}'.lower()
+        phone_set_folder = f'{dialect}_{phone_set}'.replace(' ', '_').lower()
         citation_details['dialect'] = dialect
     else:
         phone_set_folder = phone_set
@@ -1042,7 +1054,9 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             citation_details['link_safe_title'] = generate_id(citation_details, model_type)
             citation_details['id'] = f'mfa_{model.name}_acoustic_{citation_details["year"]}'
             citation = mfa_citation_template.format(**citation_details)
-
+        features = 'MFCC'
+        if model.meta['features'].get('use_pitch', False):
+            features += ' + pitch'
         return {
             'name': model.name,
             'language': language.title(),
@@ -1054,7 +1068,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             'license': license,
             'license_link': license_link,
             'architecture': model.meta['architecture'],
-            'features': model.meta['features'],
+            'features': features,
             'evaluation': {},
             'decode': {},
             'train_date': str(train_date),
@@ -1179,7 +1193,8 @@ def extract_model_card_fields(meta_data, model_type):
         phone_set_link = phone_set_templates[phone_set]
         if phone_set == 'MFA':
             phone_set_link = phone_set_link.format(language=meta_data['language'].lower())
-    discussion_title = generate_id(meta_data, model_type).replace(' ', '+').replace(')', '').replace('(', '').replace('_', '.')
+    name = generate_id(meta_data, model_type)
+    discussion_title = name.replace(' ', '+').replace(')', '').replace('(', '').replace('_', '.')
     if model_type == 'acoustic':
         corpora_details = ''
         if 'corpus' in meta_data:
@@ -1206,7 +1221,7 @@ def extract_model_card_fields(meta_data, model_type):
                 corpora_details += '\n' + corpus_detail_template.format(**data)
         return {
                 'model_name': meta_data['name'],
-            'title': meta_data['name'].replace('_', '.'),
+            'title': name.replace('_', '.'),
                 'discussion_title': discussion_title,
                 'language': meta_data['language'],
                 'language_link': language_link,
@@ -1214,6 +1229,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'dialect_link': dialect_link,
                 'version': meta_data['version'],
                 'maintainer': meta_data['maintainer'],
+                'features': meta_data['features'],
                 'architecture': meta_data['architecture'],
                 'mfa_version': '2.0.0',
                 'date': meta_data['train_date'],
@@ -1255,7 +1271,7 @@ def extract_model_card_fields(meta_data, model_type):
     if model_type == 'dictionary':
         data = {
                 'model_name': meta_data['name'],
-            'title': meta_data['name'].replace('_', '.'),
+            'title': name.replace('_', '.'),
                 'language': meta_data['language'],
                 'language_link': language_link,
                 'dialect': meta_data['dialect'],
@@ -1279,7 +1295,7 @@ def extract_model_card_fields(meta_data, model_type):
         evaluation_details = g2p_evaluation_detail_template.format(**meta_data['evaluation'])
         return {
                 'model_name': meta_data['name'],
-            'title': meta_data['name'].replace('_', '.'),
+            'title': name.replace('_', '.'),
                 'language': meta_data['language'],
                 'language_link': language_link,
                 'dialect': meta_data['dialect'],
@@ -1303,7 +1319,7 @@ def extract_model_card_fields(meta_data, model_type):
         evaluation_details = lm_evaluation_detail_template.format(**meta_data['evaluation'])
         return {
                 'model_name': meta_data['name'],
-            'title': meta_data['name'].replace('_', '.'),
+            'title': name.replace('_', '.'),
                 'language': meta_data['language'],
                 'language_link': language_link,
                 'dialect': meta_data['dialect'],
@@ -1351,7 +1367,7 @@ def extract_doc_card_fields(meta_data, model_type):
         phone_set = meta_data['phone_set']
         if phone_set == 'CV':
             phone_set = cv_phone_set_mapping[meta_data['language'].lower()]
-        elif phone_set == 'MFA':
+        elif phone_set in {'MFA', 'ARPA', 'PROSODYLAB'}:
             layout_type = 'mfa'
         try:
             phone_set_link = phone_set_templates[phone_set]
@@ -1360,7 +1376,7 @@ def extract_doc_card_fields(meta_data, model_type):
         except KeyError:
             phone_set_link = phone_set
         if "dialect" in meta_data and meta_data["dialect"]:
-            language_sub_folder = f"{meta_data['dialect']}_{meta_data['phone_set']}".lower()
+            language_sub_folder = f"{meta_data['dialect']}_{meta_data['phone_set']}".replace(' ', '_').lower()
             dialect_title_string = f" ({meta_data['dialect']})"
         else:
             language_sub_folder = meta_data['phone_set'].lower()
@@ -1458,21 +1474,19 @@ def extract_doc_card_fields(meta_data, model_type):
         }
         if meta_data['name'] in phone_charts:
             charts = phone_charts[meta_data['name']]
-            data['consonant_chart'] = "### Consonants\n\n" + charts['consonant_chart']
+            data['consonant_chart'] = charts['consonant_chart']
             data['vowel_section'] = charts['oral_vowel_chart']
             if charts['nasal_vowel_chart']:
-                data['vowel_section'] = "### Oral Vowels\n\n" + data['vowel_section']
-                data['vowel_section'] += "\n\n### Nasal Vowels\n\n" + charts['nasal_vowel_chart']
-            else:
-                data['vowel_section'] = "### Vowels\n\n" + data['vowel_section']
+                data['vowel_section'] = "#### Oral Vowels\n\n" + data['vowel_section']
+                data['vowel_section'] += "\n\n#### Nasal Vowels\n\n" + charts['nasal_vowel_chart']
             if charts['diphthongs']:
-                data['vowel_section'] += '\n\n### Diphthongs\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['diphthongs']))
+                data['vowel_section'] += '\n\n#### Diphthongs\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['diphthongs']))
             if charts['triphthongs']:
-                data['vowel_section'] += '\n\n### Triphthongs\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['triphthongs']))
+                data['vowel_section'] += '\n\n#### Triphthongs\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['triphthongs']))
             if 'tones' in charts and charts['tones']:
-                data['vowel_section'] += '\n\n### Tones\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['tones']))
+                data['vowel_section'] += '\n\n#### Tones\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['tones']))
             if 'stress' in charts and charts['stress']:
-                data['vowel_section'] += '\n\n### Stress\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['stress']))
+                data['vowel_section'] += '\n\n#### Stress\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['stress']))
             if 'other' in charts and charts['other']:
                 data['vowel_section'] += '\n\n### Other phones\n\n* ' + '\n* '.join(f'{{ipa_inline}}`{x}`' for x in sorted(charts['other']))
 
@@ -1652,41 +1666,43 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
     else:
         ipa_mapping = {
 
-        "voiced": {'b','d', 'g', 'ɖ', 'ɡ', 'ɟ', 'ɢ', 'v','z̪', 'z', 'ʐ', 'ʑ', 'ʕ', 'ʢ', 'ɣ', 'ʒ', 'ʝ', 'ɦ', 'ð','ɮ'},
-        "voiceless": {'p','t', 'ʈ', 'k', 'c', 'q', 'f', 's', 'ħ', 'ʂ','s̪', 'ɕ', 'x', 'ç','ɸ', 'χ', 'ʃ', 'h', 'θ','ɬ'},
-        "implosive": {'ɓ','ɗ', 'ʄ', 'ɠ', 'ʛ', 'ᶑ', 'ɗ̪'},
-        "fricative": {'f', 'v', 'ç', 'ʝ', 'ħ', 'ɧ', 'θ', 'ð', 'ʁ', 'ʜ','ʢ', 'x', 'ɣ', 'ɦ', 'h','ɸ', 'ʕ', 'χ'},
-        "sibilant": {'s','z','ʃ','ʂ','ɕ','ʑ','ʐ','ʒ'},
-        "lateral": {'l', 'ɫ', 'ʟ', 'ʎ'},
-        "lateral_fricative": {'ɬ', 'ɮ'},
-        "nasal": {'ɲ', 'ŋ','m', 'n', 'ɳ', 'ɴ', 'ɱ'},
-        "trill": {'ʙ','r','ʀ', 'r̝'},
-        "tap": {'ɾ','ɽ','ⱱ'},
-        "lateral_tap": {'ɭ', 'ɺ'},
-        "approximant": {'ɹ', 'ɻ', 'j', 'w', 'ʋ', 'ɥ', 'ɰ', 'ʍ', 'w', 'j̰'},
-        "labial": {'b','p','m','ɸ','β','ɓ'},
-        "labiodental": {'f','v','ʋ','ⱱ','ɱ', 'pf'},
-        "dental": {'ð','θ','t̪','d̪','s̪','z̪', 't̪s̪', 'd̪z̪', 'n̪', 'l̪', 'ɗ̪'},
-        "alveolar": {'t','d','s','z','n','r','l','ɹ','ɾ','ɬ','ɮ','ɫ', 'ts', 'dz', 'ɗ', 'ɺ'},
-        "retroflex": {'ʈ','ʂ','ʐ','ɖ','ɽ','ɻ','ɭ','ɳ', 'ʈʂ', 'ɖʐ', 'ᶑ'},
-        "alveopalatal": {'ʒ','ʃ', 'dʒ', 'tʃ'},
-        "palatal": {'ç', 'c','ɕ','tɕ','ɟ','ɟʝ','ʝ','ɲ','ɥ','j','ʎ','ʑ','dʑ'},
-        "velar": {'k', 'x', 'ɡ', 'ɠ', 'ɣ', 'ɰ', 'ŋ'},
-        "uvular": {'q', 'ɢ', 'ʛ', 'χ', 'ʀ', 'ʁ', 'ʟ', 'ɴ'},
-        "pharyngeal": {'ʕ', 'ħ'},
-        "epiglottal": {'ʡ', 'ʢ', 'ʜ'},
-        "glottal": {'ʔ', 'ɦ', 'h'},
-            "close":{'ɪ', 'ɨ', 'ɪ̈', 'ʉ', 'ʊ', 'i', 'ĩ', 'ɯ', 'y', 'u', 'ʏ', 'ũ'},
-            "close-mid":{'e', 'ẽ','ej', 'eɪ', 'o', 'õ', 'ow', 'oʊ', 'ɤ', 'ø', 'ɵ', 'ɘ', 'ə', 'ɚ', 'ʏ̈'},
-            "open-mid":{'ɛ', 'ɜ', 'ɞ', 'œ', 'ɔ', 'ʌ', 'ɐ', 'æ', 'ɛ̈', 'ɔ̈', 'ɝ'},
-            "open":{'a', 'ã', 'ɶ', 'ɒ', 'ɑ'},
-            "front":{'i', 'ĩ', 'y', 'ɪ', 'ʏ', 'e', 'ẽ', 'ej', 'eɪ', 'ø', 'ɛ', 'œ', 'æ', 'ɶ'},
+            "stops": d.phone_set_type.stops,
+        "voiced": d.phone_set_type.voiced_obstruents,
+        "voiceless": d.phone_set_type.voiceless_obstruents,
+        "implosive": d.phone_set_type.implosive_obstruents,
+        "fricative": d.phone_set_type.fricatives,
+        "sibilant": d.phone_set_type.sibilants,
+        "lateral": d.phone_set_type.laterals,
+        "lateral_fricative": d.phone_set_type.lateral_fricatives,
+        "nasal": d.phone_set_type.nasals,
+        "nasal_approximants": d.phone_set_type.nasal_approximants,
+        "trill": d.phone_set_type.trills,
+        "tap": d.phone_set_type.taps,
+        "lateral_tap": d.phone_set_type.lateral_taps,
+        "approximant": d.phone_set_type.approximants - d.phone_set_type.nasal_approximants,
+        "labial": d.phone_set_type.labials,
+        "labiodental": d.phone_set_type.labiodental,
+        "dental": d.phone_set_type.dental,
+        "alveolar": d.phone_set_type.alveolar,
+        "retroflex": d.phone_set_type.retroflex,
+        "alveopalatal": d.phone_set_type.alveopalatal,
+        "palatal": d.phone_set_type.palatal,
+        "velar": d.phone_set_type.velar,
+        "uvular": d.phone_set_type.uvular,
+        "pharyngeal": d.phone_set_type.pharyngeal,
+        "epiglottal": d.phone_set_type.epiglottal,
+        "glottal": d.phone_set_type.glottal,
+            "close":d.phone_set_type.close_vowels,
+            "close-mid":d.phone_set_type.close_mid_vowels,
+            "open-mid":d.phone_set_type.open_mid_vowels,
+            "open":d.phone_set_type.open_vowels,
+            "front":d.phone_set_type.front_vowels - {'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
             "near-front":{'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
-            "central":{'ɨ', 'ʉ', 'ɘ', 'ɵ', 'ə', 'ɜ', 'ɞ', 'ɐ', 'ɚ', 'ã', 'a', 'ɝ'},
-            "back":{'ɯ', 'u', 'ũ', 'ʊ', 'ɤ', 'o', 'õ','ow', 'oʊ', 'ʌ', 'ɔ', 'ɑ', 'ɒ'},
+            "central":d.phone_set_type.central_vowels,
+            "back":d.phone_set_type.back_vowels - {'ʊ', 'ɔ̈'},
             "near-back":{'ʊ', 'ɔ̈'},
-            "rounded":{'y', 'ʏ', 'o', 'õ', 'u', 'ʊ','ow', 'oʊ', 'ɔ', 'ø', 'ɵ', 'ɞ', 'œ', 'ɒ', 'ɶ', 'ʉ', 'ʏ̈', 'ɔ̈', 'ũ'},
-            "unrounded":{'i', 'ĩ', 'e',  'ɛ̈','ej','ẽ', 'eɪ','ɨ', 'ɯ', 'ɘ', 'ə', 'ɚ', 'ɪ', 'ɪ̈', 'ɛ', 'ɜ', 'ɝ', 'ʌ', 'ɐ', 'ɑ', 'æ', 'ã', 'a'},
+            "rounded": d.phone_set_type.rounded_vowels,
+            "unrounded":d.phone_set_type.unrounded_vowels,
             "lax":{'ɪ', 'ʏ', 'ʊ', 'ə', 'ɐ', 'æ', 'ɚ'},
             "nasalized":{'ã', 'õ', 'ĩ', 'ũ', 'ẽ'},
             "other": {'kp', 'ɧ', 'ŋm'}
@@ -1815,7 +1831,7 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
         for x in sub_manners:
             if dictionary_mapping[manner] & dictionary_mapping[x]:
                 realized_submanner_rows[x] = [f'{{submanner}}`{x.title()}`']
-        row_title = f"{{manner}}`{manner.title()}`"
+        row_title = f"{{manner}}`{manner.replace('_',' ').title()}`"
         if realized_submanner_rows:
             row_title += ' {submanner}`Plain`'
         row = [row_title]
@@ -2006,7 +2022,7 @@ for model_type, model_class in MODEL_TYPES.items():
             dialect = dialect.title()
         print(model_directory, language, phone_set, version)
         if dialect:
-            phone_set_folder = f'{dialect}_{phone_set}'.lower()
+            phone_set_folder = f'{dialect}_{phone_set}'.replace(' ', '_').lower()
         else:
             phone_set_folder = phone_set.lower()
         output_directory = os.path.join(model_directory, language.lower(), phone_set_folder, f"v{version}")
@@ -2086,7 +2102,8 @@ model_corpus_mapping = {
     "English (US) ARPA acoustic model v2_0_0": ['LibriSpeech English'],
     "English MFA acoustic model v2_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
                                           'Corpus of Regional African American Language v2021.07',
-                                          "Google Nigerian English", "Google UK and Ireland English"],
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus"],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
                                          'African-accented French'],
     "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
@@ -2096,7 +2113,9 @@ model_corpus_mapping = {
     "Mandarin MFA acoustic model v2_0_0": ['Common Voice Chinese (China) v8_0', 'Common Voice Chinese (Taiwan) v8_0',
                                            'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
                                            'GlobalPhone Chinese-Mandarin v3_1'],
-    "Korean MFA acoustic model v2_0_0": ['GlobalPhone Korean v3_1', 'Pansori TEDxKR', 'Zeroth Korean'],
+    "Korean MFA acoustic model v2_0_0": ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
     "Polish MFA acoustic model v2_0_0": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
     "Portuguese MFA acoustic model v2_0_0": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
                                              'GlobalPhone Portuguese (Brazilian) v3_1'],
@@ -2122,11 +2141,14 @@ model_dictionary_mapping = {
                                           "English (Nigeria) MFA dictionary v2_0_0"],
     "Vietnamese MFA acoustic model v2_0_0": ["Vietnamese (Hanoi) MFA dictionary v2_0_0",
                                          "Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0",
-                                         "Vietnamese (Hue) MFA dictionary v2_0_0"],
+                                         "Vietnamese (Hue) MFA dictionary v2_0_0",
+                                         "Vietnamese MFA dictionary v2_0_0"],
     "Spanish MFA acoustic model v2_0_0": ["Spanish (Latin America) MFA dictionary v2_0_0",
-                                         "Spanish (Spain) MFA dictionary v2_0_0"],
+                                         "Spanish (Spain) MFA dictionary v2_0_0",
+                                         "Spanish MFA dictionary v2_0_0"],
     "Portuguese MFA acoustic model v2_0_0": ["Portuguese (Brazil) MFA dictionary v2_0_0",
-                                         "Portuguese (Portugal) MFA dictionary v2_0_0"],
+                                         "Portuguese (Portugal) MFA dictionary v2_0_0",
+                                         "Portuguese MFA dictionary v2_0_0"],
     "Mandarin MFA acoustic model v2_0_0": ["Mandarin (China) MFA dictionary v2_0_0",
                                          "Mandarin (Erhua) MFA dictionary v2_0_0",
                                          "Mandarin (Taiwan) MFA dictionary v2_0_0"],
@@ -2280,7 +2302,7 @@ for model_type, data in meta_datas.items():
     index_path = os.path.join(docs_dir, 'index.rst')
     rst_string = "   "+'\n   '.join(f"{x}/index.rst" for x in language_model_doc_mds.keys())
     if model_type == 'dictionary':
-        rst_string += '\n   ../mfa_phone_set.md'
+        rst_string = '   ../mfa_phone_set.md\n' + rst_string
     model_type_name = model_type_names[model_type]
     columns = model_type_columns[model_type]
     widths = model_type_column_widths[model_type]

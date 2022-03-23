@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,26 +53,26 @@
       * m
         * Occurances: 24192
         * Examples
-          * matka: [m a t k a]
-          * tým: [t iː m]
-          * samce: [s a m ts ɛ]
-          * létem: [l ɛː t ɛ m]
+          * emily: [ɛ m ɪ l ɪ]
+          * mýto: [m iː t o]
+          * mzdy: [m z d ɪ]
+          * norma: [n o r m a]
       * m̩
         * Occurances: 459
         * Examples
-          * směry: [s m̩ ɲ ɛ r ɪ]
-          * smělá: [s m̩ ɲ ɛ l aː]
-          * směju: [s m̩ ɲ ɛ j u]
-          * změn: [z m̩ ɲ ɛ n]
+          * smění: [s m̩ ɲ ɛ ɲ iː]
+          * úsměv: [uː s m̩ ɲ ɛ f]
+          * smějí: [s m̩ ɲ ɛ j iː]
+          * směji: [s m̩ ɲ ɛ j ɪ]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 317
         * Examples
-          * nymfa: [n ɪ ɱ f a]
+          * lymfa: [l ɪ ɱ f a]
+          * pánve: [p aː ɱ v ɛ]
           * pánví: [p aː ɱ v iː]
-          * trumf: [t r u ɱ f]
           * nymfy: [n ɪ ɱ f ɪ]
     ```
   - ```{ipa_cell}
@@ -78,17 +80,17 @@
       * n
         * Occurances: 37543
         * Examples
-          * lunou: [l u n ow]
-          * náves: [n aː v ɛ s]
-          * fence: [f ɛ n ts ɛ]
-          * záhon: [z aː ɦ o n]
+          * kynu: [k ɪ n u]
+          * zvaná: [z v a n aː]
+          * korn: [k o r n]
+          * eno: [ɛ n o]
       * n̩
         * Occurances: 23
         * Examples
-          * srnku: [s r n̩ k u]
-          * vlnka: [v l n̩ k a]
+          * srnka: [s r n̩ k a]
           * srnčí: [s r n̩ tʃ iː]
-          * hrnci: [ɦ r n̩ ts ɪ]
+          * zrnko: [z r n̩ k o]
+          * vlnka: [v l n̩ k a]
     ```
   - ```{ipa_cell}
     ```
@@ -97,20 +99,20 @@
       * ɲ
         * Occurances: 15021
         * Examples
-          * news: [ɲ uː s]
-          * fádní: [f aː d ɲ iː]
-          * komoň: [k o m o ɲ]
-          * ohání: [o ɦ aː ɲ iː]
+          * věně: [v j ɛ ɲ ɛ]
+          * zněly: [z ɲ ɛ l ɪ]
+          * silně: [s ɪ l ɲ ɛ]
+          * kodaň: [k o d a ɲ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1480
         * Examples
-          * činka: [tʃ ɪ ŋ k a]
-          * range: [r a ŋ ɡ ɛ]
-          * tenký: [t ɛ ŋ k iː]
-          * ming: [m ɪ ŋ k]
+          * songs: [s o ŋ ɡ s]
+          * bunkr: [b u ŋ k r̩]
+          * tanky: [t a ŋ k ɪ]
+          * ling: [l ɪ ŋ k]
     ```
   - ```{ipa_cell}
     ```
@@ -120,18 +122,18 @@
       * p
         * Occurances: 25734
         * Examples
-          * opěr: [o p j ɛ r]
-          * plavě: [p l a v j ɛ]
-          * packo: [p a ts k o]
-          * pólů: [p oː l uː]
+          * pídě: [p iː ɟ ɛ]
+          * pojí: [p o j iː]
+          * plaví: [p l a v iː]
+          * pište: [p ɪ ʃ t ɛ]
     * voiced
       * b
         * Occurances: 10057
         * Examples
-          * bonn: [b o n]
-          * boček: [b o tʃ ɛ k]
-          * tržba: [t r̩ ʒ b a]
-          * bokem: [b o k ɛ m]
+          * alba: [a l b a]
+          * slibe: [s l ɪ b ɛ]
+          * buk: [b u k]
+          * byty: [b ɪ t ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -140,18 +142,18 @@
       * t
         * Occurances: 36514
         * Examples
-          * sklát: [s k l aː t]
-          * award: [a v a r t]
-          * court: [k ow r t]
-          * trávě: [t r aː v j ɛ]
+          * byty: [b ɪ t ɪ]
+          * artys: [a r t ɪ s]
+          * mýto: [m iː t o]
+          * tvoji: [t v o j ɪ]
     * voiced
       * d
         * Occurances: 17967
         * Examples
-          * výdrž: [v iː d r̩ ʃ]
-          * úřady: [uː r̝ a d ɪ]
-          * dytík: [d ɪ c iː k]
-          * sides: [s ɪ d ɛ s]
+          * radiu: [r a d ɪ u]
+          * darja: [d a r j a]
+          * dešti: [d ɛ ʃ c ɪ]
+          * běda: [b j ɛ d a]
     ```
   - ```{ipa_cell}
     ```
@@ -160,36 +162,36 @@
       * c
         * Occurances: 5161
         * Examples
-          * ticho: [c ɪ x o]
-          * dytík: [d ɪ c iː k]
-          * jeďte: [j ɛ c t ɛ]
-          * otík: [o c iː k]
+          * cítí: [ts iː c iː]
+          * dešti: [d ɛ ʃ c ɪ]
+          * tetě: [t ɛ c ɛ]
+          * baťa: [b a c a]
     * voiced
       * ɟ
         * Occurances: 3043
         * Examples
-          * děsíš: [ɟ ɛ s iː ʃ]
-          * řádě: [r̝ aː ɟ ɛ]
-          * zdí: [z ɟ iː]
-          * radio: [r a ɟ ɪ o]
+          * pídě: [p iː ɟ ɛ]
+          * mladi: [m l a ɟ ɪ]
+          * škodí: [ʃ k o ɟ iː]
+          * mordě: [m o r ɟ ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 30328
         * Examples
-          * sklát: [s k l aː t]
-          * packo: [p a ts k o]
-          * court: [k ow r t]
-          * vek: [v ɛ k]
+          * kynu: [k ɪ n u]
+          * klee: [k l iː]
+          * buk: [b u k]
+          * korn: [k o r n]
     * voiced
       * ɡ
         * Occurances: 3643
         * Examples
-          * gajdy: [ɡ a j d ɪ]
-          * range: [r a ŋ ɡ ɛ]
-          * gilda: [ɡ ɪ l d a]
-          * ignát: [ɪ ɡ n aː t]
+          * songs: [s o ŋ ɡ s]
+          * eugen: [ew ɡ ɛ n]
+          * tygrů: [t ɪ ɡ r uː]
+          * high: [ɦ ɪ ɡ x]
     ```
   - ```{ipa_cell}
     ```
@@ -203,28 +205,28 @@
       * ts
         * Occurances: 12302
         * Examples
-          * packo: [p a ts k o]
-          * fence: [f ɛ n ts ɛ]
-          * samce: [s a m ts ɛ]
-          * šicí: [ʃ ɪ ts iː]
+          * cítí: [ts iː c iː]
+          * vajec: [v a j ɛ ts]
+          * proce: [p r o ts ɛ]
+          * woods: [v o ts]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 7864
         * Examples
-          * váček: [v aː tʃ ɛ k]
-          * boček: [b o tʃ ɛ k]
-          * činka: [tʃ ɪ ŋ k a]
-          * čirok: [tʃ ɪ r o k]
+          * včil: [f tʃ ɪ l]
+          * úbočí: [uː b o tʃ iː]
+          * lečo: [l ɛ tʃ o]
+          * načtu: [n a tʃ t u]
     * voiced
       * dʒ
         * Occurances: 122
         * Examples
-          * džin: [dʒ ɪ n]
-          * léčby: [l ɛː dʒ b ɪ]
-          * cage: [k ɛː dʒ]
-          * dodge: [d o dʒ]
+          * džudo: [dʒ u d o]
+          * džob: [dʒ o p]
+          * judu: [dʒ u d u]
+          * rádža: [r aː dʒ a]
     ```
   - ```{ipa_cell}
     ```
@@ -242,36 +244,36 @@
       * s
         * Occurances: 30661
         * Examples
-          * sklát: [s k l aː t]
-          * náves: [n aː v ɛ s]
-          * vsí: [f s iː]
-          * děsíš: [ɟ ɛ s iː ʃ]
+          * slibe: [s l ɪ b ɛ]
+          * artys: [a r t ɪ s]
+          * sekat: [s ɛ k a t]
+          * kasta: [k a s t a]
     * voiced
       * z
         * Occurances: 14191
         * Examples
-          * záhon: [z aː ɦ o n]
-          * zulo: [z u l o]
-          * zdí: [z ɟ iː]
-          * řezů: [r̝ ɛ z uː]
+          * zvaná: [z v a n aː]
+          * zněly: [z ɲ ɛ l ɪ]
+          * mzdy: [m z d ɪ]
+          * zralý: [z r a l iː]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 6710
         * Examples
-          * výdrž: [v iː d r̩ ʃ]
-          * děsíš: [ɟ ɛ s iː ʃ]
-          * ašraf: [a ʃ r a f]
-          * šicí: [ʃ ɪ ts iː]
+          * řeše: [r̝ ɛ ʃ ɛ]
+          * leoše: [l ɛ o ʃ ɛ]
+          * dešti: [d ɛ ʃ c ɪ]
+          * nožka: [n o ʃ k a]
     * voiced
       * ʒ
         * Occurances: 4221
         * Examples
-          * želvy: [ʒ ɛ l v ɪ]
-          * úžina: [uː ʒ ɪ n a]
-          * tržba: [t r̩ ʒ b a]
-          * živné: [ʒ ɪ v n ɛː]
+          * žiji: [ʒ ɪ j ɪ]
+          * žrala: [ʒ r a l a]
+          * žebru: [ʒ ɛ b r u]
+          * pažit: [p a ʒ ɪ t]
     ```
   - ```{ipa_cell}
     ```
@@ -287,18 +289,18 @@
       * f
         * Occurances: 4998
         * Examples
-          * fence: [f ɛ n ts ɛ]
-          * vsí: [f s iː]
-          * ašraf: [a ʃ r a f]
-          * sfér: [s f ɛː r]
+          * včil: [f tʃ ɪ l]
+          * fen: [f ɛ n]
+          * splav: [s p l a f]
+          * thovt: [t o f t]
     * voiced
       * v
         * Occurances: 31756
         * Examples
-          * award: [a v a r t]
-          * plavě: [p l a v j ɛ]
-          * náves: [n aː v ɛ s]
-          * vek: [v ɛ k]
+          * zvaná: [z v a n aː]
+          * věně: [v j ɛ ɲ ɛ]
+          * vajec: [v a j ɛ ts]
+          * tvoji: [t v o j ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -307,24 +309,16 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 8140
-        * Examples
-          * ticho: [c ɪ x o]
-          * váh: [v aː x]
-          * čechy: [tʃ ɛ x ɪ]
-          * váchy: [v aː x ɪ]
     ```
   - ```{ipa_cell}
     * voiced
       * ɦ
         * Occurances: 10053
         * Examples
-          * záhon: [z aː ɦ o n]
-          * hůř: [ɦ uː r̝]
-          * jihu: [j ɪ ɦ u]
-          * holík: [ɦ o l iː k]
+          * druhů: [d r u ɦ uː]
+          * nehod: [n ɛ ɦ o t]
+          * bláhu: [b l aː ɦ u]
+          * hošek: [ɦ o ʃ ɛ k]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -340,10 +334,10 @@
       * j
         * Occurances: 14027
         * Examples
-          * opěr: [o p j ɛ r]
-          * plavě: [p l a v j ɛ]
-          * trávě: [t r aː v j ɛ]
-          * jihu: [j ɪ ɦ u]
+          * žiji: [ʒ ɪ j ɪ]
+          * věně: [v j ɛ ɲ ɛ]
+          * vajec: [v a j ɛ ts]
+          * pojí: [p o j iː]
     ```
   - ```{ipa_cell}
     ```
@@ -359,17 +353,17 @@
       * r
         * Occurances: 29488
         * Examples
-          * opěr: [o p j ɛ r]
-          * erú: [ɛ r uː]
-          * award: [a v a r t]
-          * court: [k ow r t]
+          * korn: [k o r n]
+          * radiu: [r a d ɪ u]
+          * žrala: [ʒ r a l a]
+          * artys: [a r t ɪ s]
       * r̩
         * Occurances: 2035
         * Examples
-          * výdrž: [v iː d r̩ ʃ]
-          * tržba: [t r̩ ʒ b a]
+          * krve: [k r̩ v ɛ]
+          * srpnu: [s r̩ p n u]
+          * držbě: [d r̩ ʒ b j ɛ]
           * trhu: [t r̩ ɦ u]
-          * drsná: [d r̩ s n aː]
     ```
   - ```{ipa_cell}
     ```
@@ -389,17 +383,17 @@
       * l
         * Occurances: 34153
         * Examples
-          * sklát: [s k l aː t]
-          * plavě: [p l a v j ɛ]
-          * lunou: [l u n ow]
-          * želvy: [ʒ ɛ l v ɪ]
+          * emily: [ɛ m ɪ l ɪ]
+          * klee: [k l iː]
+          * alba: [a l b a]
+          * slibe: [s l ɪ b ɛ]
       * l̩
         * Occurances: 891
         * Examples
-          * beitl: [b ɛ ɪ t l̩]
-          * plivl: [p l ɪ v l̩]
-          * vsedl: [f s ɛ d l̩]
-          * vpadl: [f p a d l̩]
+          * vlhké: [v l̩ x k ɛː]
+          * mátl: [m aː t l̩]
+          * šnycl: [ʃ n ɪ ts l̩]
+          * vlnám: [v l̩ n aː m]
     ```
   - ```{ipa_cell}
     ```
@@ -413,6 +407,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -431,10 +427,10 @@
       * iː
         * Occurances: 31065
         * Examples
-          * výdrž: [v iː d r̩ ʃ]
-          * vsí: [f s iː]
-          * děsíš: [ɟ ɛ s iː ʃ]
-          * dytík: [d ɪ c iː k]
+          * klee: [k l iː]
+          * cítí: [ts iː c iː]
+          * pídě: [p iː ɟ ɛ]
+          * pojí: [p o j iː]
     ```
   - ```{ipa_cell}
     ```
@@ -447,17 +443,17 @@
       * u
         * Occurances: 18661
         * Examples
-          * lunou: [l u n ow]
-          * inu: [ɪ n u]
-          * tátu: [t aː t u]
-          * jihu: [j ɪ ɦ u]
+          * kynu: [k ɪ n u]
+          * buk: [b u k]
+          * radiu: [r a d ɪ u]
+          * klu: [k l u]
       * uː
         * Occurances: 4729
         * Examples
-          * erú: [ɛ r uː]
-          * úřady: [uː r̝ a d ɪ]
-          * pólů: [p oː l uː]
-          * news: [ɲ uː s]
+          * úbočí: [uː b o tʃ iː]
+          * druhů: [d r u ɦ uː]
+          * klonů: [k l o n uː]
+          * úzké: [uː s k ɛː]
     ```
 * -
   - ```{ipa_cell}
@@ -467,10 +463,10 @@
       * ɪ
         * Occurances: 49143
         * Examples
-          * úřady: [uː r̝ a d ɪ]
-          * želvy: [ʒ ɛ l v ɪ]
-          * ticho: [c ɪ x o]
-          * dytík: [d ɪ c iː k]
+          * emily: [ɛ m ɪ l ɪ]
+          * kynu: [k ɪ n u]
+          * žiji: [ʒ ɪ j ɪ]
+          * slibe: [s l ɪ b ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -492,24 +488,24 @@
       * o
         * Occurances: 56336
         * Examples
-          * opěr: [o p j ɛ r]
-          * packo: [p a ts k o]
-          * záhon: [z aː ɦ o n]
-          * bonn: [b o n]
+          * korn: [k o r n]
+          * leoše: [l ɛ o ʃ ɛ]
+          * pojí: [p o j iː]
+          * eno: [ɛ n o]
       * ow
         * Occurances: 5377
         * Examples
-          * lunou: [l u n ow]
-          * court: [k ow r t]
-          * sudou: [s u d ow]
-          * zujou: [z u j ow]
+          * nánou: [n aː n ow]
+          * loučí: [l ow tʃ iː]
+          * lžou: [l ʒ ow]
+          * farou: [f a r ow]
       * oː
         * Occurances: 360
         * Examples
-          * pólů: [p oː l uː]
-          * fóru: [f oː r u]
-          * chóre: [x oː r ɛ]
-          * móda: [m oː d a]
+          * sezón: [s ɛ z oː n]
+          * kvótu: [k v oː t u]
+          * nótu: [n oː t u]
+          * pólem: [p oː l ɛ m]
     ```
 * -
   - ```{ipa_cell}
@@ -528,17 +524,17 @@
       * ɛ
         * Occurances: 61324
         * Examples
-          * opěr: [o p j ɛ r]
-          * erú: [ɛ r uː]
-          * plavě: [p l a v j ɛ]
-          * náves: [n aː v ɛ s]
+          * emily: [ɛ m ɪ l ɪ]
+          * slibe: [s l ɪ b ɛ]
+          * pídě: [p iː ɟ ɛ]
+          * řeše: [r̝ ɛ ʃ ɛ]
       * ɛː
         * Occurances: 7796
         * Examples
-          * sfér: [s f ɛː r]
-          * tejné: [t ɛ j n ɛː]
-          * létem: [l ɛː t ɛ m]
-          * živné: [ʒ ɪ v n ɛː]
+          * bídné: [b iː d n ɛː]
+          * úzké: [uː s k ɛː]
+          * tupé: [t u p ɛː]
+          * méďa: [m ɛː ɟ a]
     ```
   - ```{ipa_cell}
     ```
@@ -569,17 +565,17 @@
       * a
         * Occurances: 50509
         * Examples
-          * award: [a v a r t]
-          * plavě: [p l a v j ɛ]
-          * packo: [p a ts k o]
-          * úřady: [uː r̝ a d ɪ]
+          * zvaná: [z v a n aː]
+          * alba: [a l b a]
+          * radiu: [r a d ɪ u]
+          * žrala: [ʒ r a l a]
       * aː
         * Occurances: 18259
         * Examples
-          * sklát: [s k l aː t]
-          * náves: [n aː v ɛ s]
-          * trávě: [t r aː v j ɛ]
-          * záhon: [z aː ɦ o n]
+          * zvaná: [z v a n aː]
+          * bláhu: [b l aː ɦ u]
+          * bývá: [b iː v aː]
+          * nánou: [n aː n ow]
     ```
   - ```{ipa_cell}
     ```
@@ -588,7 +584,7 @@
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`aw`
 * {ipa_inline}`ew`

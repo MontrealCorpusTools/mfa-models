@@ -22,6 +22,11 @@
    * {ref}`thai_mfa_g2p_model_v2_0_0`
    ```
 
+
+   ```{admonition} Acoustic models
+   * {ref}`thai_mfa_acoustic_model_v2_0_0`
+   ```
+
 ``````
 
 ```{include} ../../../../dictionary/thai/mfa/v2.0.0/README.md
@@ -31,6 +36,8 @@
 ## IPA Charts
 
 ### Consonants
+
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
 
 ``````{list-table}
 :header-rows: 1
@@ -50,10 +57,10 @@
       * m
         * Occurances: 9141
         * Examples
-          * หิมะ: [h i˧ m a˦˥ ʔ]
-          * มุนด์: [m u˧ n]
-          * แมลง: [m a˦˥ l ɛː˧ ŋ]
-          * โกมุ: [k oː˧ m u˦˥ ʔ]
+          * กลมือ: [k o˧ n m ɯː˧]
+          * สมอง: [s a˨˩ m ɔː˩˩˦ ŋ]
+          * อาราม: [ʔ aː˧ r aː˧ m]
+          * มาตุ: [m aː˧ t u˨˩ ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +69,10 @@
       * n
         * Occurances: 15369
         * Examples
-          * ภัน: [pʰ a˧ n]
-          * ด้าน: [d aː˥˩ n]
-          * มุนด์: [m u˧ n]
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
+          * นายอง: [n aː˧ j ɔ˧ ŋ]
+          * กลมือ: [k o˧ n m ɯː˧]
+          * นิธิ: [n i˦˥ tʰ i˦˥ ʔ]
+          * วิษณุ: [w i˦˥ t̚ s a˨˩ n u˦˥ ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -74,31 +81,31 @@
       * ŋ
         * Occurances: 6147
         * Examples
-          * ตะพัง: [t a˨˩ pʰ a˧ ŋ]
-          * ง่ะ: [ŋ a˨˩ ʔ]
-          * แก็ง: [k ɛ˧ ŋ]
-          * แต้ง: [t ɛː˥˩ ŋ]
+          * นายอง: [n aː˧ j ɔ˧ ŋ]
+          * ระแหง: [r a˦˥ h ɛː˩˩˦ ŋ]
+          * จึง: [tɕ ɯ˧ ŋ]
+          * สมอง: [s a˨˩ m ɔː˩˩˦ ŋ]
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
         * Occurances: 2838
         * Examples
-          * แปด: [p ɛː˨˩ t̚]
-          * ปี๊บ: [p iː˦˥ p̚]
-          * ปืืน: [p ɯː˥˩ ɯː˧ n]
-          * ปกติ: [p a˨˩ k a˨˩ t i˨˩ ʔ]
+          * ปกิต: [p a˨˩ k i˨˩ t̚]
+          * แปลง: [p l ɛː˧ ŋ]
+          * ปิตร: [p i˨˩ t̚ t r a˨˩]
+          * ปิตุ: [p i˨˩ t u˨˩ ʔ]
     * voiced
       * b
         * Occurances: 2502
         * Examples
-          * บวช: [b ua˨˩ t̚]
-          * ใบ้: [b a˥˩ j]
-          * บำรุง: [b a˧ m r u˧ ŋ]
-          * บีสี: [b iː˥˩ s iː˩˩˦]
+          * บ่่อ: [b ɔː˥˩]
+          * บัดสี: [b a˨˩ t̚ s iː˩˩˦]
+          * แบตคน: [b ɛ˨˩ t̚ kʰ o˧ n]
+          * เบท: [b o˨˩ t̚]
     ```
   - ```{ipa_cell}
     ```
@@ -107,18 +114,18 @@
       * t
         * Occurances: 3617
         * Examples
-          * ตะพัง: [t a˨˩ pʰ a˧ ŋ]
-          * แต้ง: [t ɛː˥˩ ŋ]
-          * ยุติ: [j u˦˥ t̚ t i˨˩ ʔ]
-          * เตย: [t ɤː˧ j]
+          * มาตุ: [m aː˧ t u˨˩ ʔ]
+          * ตราบ: [t r aː˨˩ p̚]
+          * ปิตร: [p i˨˩ t̚ t r a˨˩]
+          * ปิตุ: [p i˨˩ t u˨˩ ʔ]
     * voiced
       * d
         * Occurances: 2488
         * Examples
-          * ด้าน: [d aː˥˩ n]
-          * คูโด: [kʰ uː˧ d oː˧]
-          * ฮินดู: [h i˧ n d uː˧]
-          * เดน: [d eː˧ n]
+          * ดีดุจ: [d iː˧ d u˨˩ t̚]
+          * ดุล: [d u˧ n]
+          * เดโช: [d eː˧ tɕʰ oː˧]
+          * ดูกร: [d uː˧ k a˨˩ r a˦˥ ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -127,96 +134,22 @@
       * k
         * Occurances: 5589
         * Examples
-          * แก็ง: [k ɛ˧ ŋ]
-          * กดที่: [k o˨˩ t̚ tʰ iː˥˩]
-          * โกมุ: [k oː˧ m u˦˥ ʔ]
-          * ก็ไอ: [k ɔː˥˩ ʔ a˧ j]
+          * กลมือ: [k o˧ n m ɯː˧]
+          * ปกิต: [p a˨˩ k i˨˩ t̚]
+          * เกรง: [k r eː˧ ŋ]
+          * กรีน: [k r iː˧ n]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 4725
         * Examples
-          * ง่ะ: [ŋ a˨˩ ʔ]
-          * หิมะ: [h i˧ m a˦˥ ʔ]
-          * อึ่ง: [ʔ ɯ˨˩ ŋ]
-          * อ่่าง: [ʔ aː˨˩ ŋ]
+          * นิธิ: [n i˦˥ tʰ i˦˥ ʔ]
+          * วิษณุ: [w i˦˥ t̚ s a˨˩ n u˦˥ ʔ]
+          * อาราม: [ʔ aː˧ r aː˧ m]
+          * เทะ: [tʰ e˦˥ ʔ]
     ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 4567
-        * Examples
-          * ตะพัง: [t a˨˩ pʰ a˧ ŋ]
-          * ภัน: [pʰ a˧ n]
-          * ผณิน: [pʰ a˨˩ n i˧ n]
-          * เพือ: [pʰ ɯa˥˩]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 4717
-        * Examples
-          * วิิถี: [w i˦˥ i˦˥ tʰ iː˩˩˦]
-          * ถ้า: [tʰ aː˥˩]
-          * ทั่ว: [tʰ ua˥˩]
-          * กดที่: [k o˨˩ t̚ tʰ iː˥˩]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 5058
-        * Examples
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * แคลน: [kʰ l ɛː˧ n]
-          * เครง: [kʰ r eː˧ ŋ]
-          * โค้ก: [kʰ oː˦˥ k̚]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Unreleased`
-  - ```{ipa_cell}
-    * voiceless
-      * p̚
-        * Occurances: 2685
-        * Examples
-          * ปี๊บ: [p iː˦˥ p̚]
-          * ยูทูบ: [j uː˧ tʰ uː˦˥ p̚]
-          * เทียบ: [tʰ ia˥˩ p̚]
-          * ซับ: [s a˦˥ p̚]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t̚
-        * Occurances: 7511
-        * Examples
-          * แปด: [p ɛː˨˩ t̚]
-          * จัดหา: [tɕ a˨˩ t̚ h aː˩˩˦]
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * กดที่: [k o˨˩ t̚ tʰ iː˥˩]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * k̚
-        * Occurances: 4348
-        * Examples
-          * ระลอก: [r a˦˥ l ɔː˥˩ k̚]
-          * นาสิก: [n aː˧ s i˨˩ k̚]
-          * โลก: [l oː˥˩ k̚]
-          * โค้ก: [kʰ oː˦˥ k̚]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Affricate` {submanner}`Plain`
+* - {manner}`Affricate`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -228,31 +161,10 @@
       * tɕ
         * Occurances: 2509
         * Examples
-          * จัดหา: [tɕ a˨˩ t̚ h aː˩˩˦]
-          * จำเจ: [tɕ a˧ m tɕ eː˧]
-          * แจง: [tɕ ɛː˧ ŋ]
-          * จอน: [tɕ ɔː˧ n]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tɕʰ
-        * Occurances: 2704
-        * Examples
-          * ไชโย: [tɕʰ a˧ j j oː˧]
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * กัญชง: [k a˧ n tɕʰ o˧ ŋ]
-          * ฉุก: [tɕʰ u˨˩ k̚]
+          * จึง: [tɕ ɯ˧ ŋ]
+          * จีลา: [tɕ iː˧ l aː˧]
+          * จูมง: [tɕ uː˧ m o˧ ŋ]
+          * แจซซ์: [tɕ ɛː˦˥ s]
     ```
   - ```{ipa_cell}
     ```
@@ -268,10 +180,10 @@
       * s
         * Occurances: 8198
         * Examples
-          * ซอฟท์: [s ɔː˦˥ f]
-          * ใส้: [s a˥˩ j]
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * ไซรัส: [s a˧ j r a˦˥ s]
+          * สมอง: [s a˨˩ m ɔː˩˩˦ ŋ]
+          * วิษณุ: [w i˦˥ t̚ s a˨˩ n u˦˥ ʔ]
+          * ซาย: [s aː˧ j]
+          * บัดสี: [b a˨˩ t̚ s iː˩˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -287,10 +199,10 @@
       * f
         * Occurances: 962
         * Examples
-          * ซอฟท์: [s ɔː˦˥ f]
-          * เฝอ: [f ɤː˩˩˦]
-          * แฝด: [f ɛː˨˩ t̚]
-          * โฟม: [f oː˧ m]
+          * แฝง: [f ɛː˩˩˦ ŋ]
+          * ปืนไฟ: [p ɯː˧ n f a˧ j]
+          * ฝีปาก: [f iː˩˩˦ p aː˨˩ k̚]
+          * รถไฟฟ: [r o˦˥ t̚ f a˧ j f a˧ j]
     ```
   - ```{ipa_cell}
     ```
@@ -303,13 +215,21 @@
       * h
         * Occurances: 1974
         * Examples
-          * หิมะ: [h i˧ m a˦˥ ʔ]
-          * รูหู: [r uː˧ h uː˩˩˦]
-          * จัดหา: [tɕ a˨˩ t̚ h aː˩˩˦]
-          * ผตห.: [pʰ ɔː˩˩˦ t ɔː˧ h ɔː˩˩˦]
+          * เฮ็ด: [h e˨˩ t̚]
+          * ระแหง: [r a˦˥ h ɛː˩˩˦ ŋ]
+          * เหิม: [h ɤː˩˩˦ m]
+          * ฮันนี: [h a˧ n n iː˧]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 5365
+        * Examples
+          * วิษณุ: [w i˦˥ t̚ s a˨˩ n u˦˥ ʔ]
+          * ทีวี: [tʰ iː˧ w iː˧]
+          * เกล้า: [k l aː˥˩ w]
+          * ชวน: [tɕʰ a˦˥ w a˦˥ n a˦˥]
     ```
   - ```{ipa_cell}
     ```
@@ -320,10 +240,10 @@
       * j
         * Occurances: 6962
         * Examples
-          * ไชโย: [tɕʰ a˧ j j oː˧]
-          * ใส้: [s a˥˩ j]
-          * ไซรัส: [s a˧ j r a˦˥ s]
-          * ยุติ: [j u˦˥ t̚ t i˨˩ ʔ]
+          * นายอง: [n aː˧ j ɔ˧ ŋ]
+          * พายัพ: [pʰ aː˧ j a˦˥ p̚]
+          * ซาย: [s aː˧ j]
+          * เยือน: [j ɯa˧ n]
     ```
   - ```{ipa_cell}
     ```
@@ -339,10 +259,10 @@
       * r
         * Occurances: 8413
         * Examples
-          * รูหู: [r uː˧ h uː˩˩˦]
-          * รูู้: [r uː˧ uː˦˥]
-          * ระลอก: [r a˦˥ l ɔː˥˩ k̚]
-          * ไซรัส: [s a˧ j r a˦˥ s]
+          * ระแหง: [r a˦˥ h ɛː˩˩˦ ŋ]
+          * รี่: [r iː˥˩]
+          * อาราม: [ʔ aː˧ r aː˧ m]
+          * เกรง: [k r eː˧ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -360,10 +280,10 @@
       * l
         * Occurances: 5521
         * Examples
-          * แมลง: [m a˦˥ l ɛː˧ ŋ]
-          * ล้วน: [l ua˦˥ n]
-          * ระลอก: [r a˦˥ l ɔː˥˩ k̚]
-          * แคลน: [kʰ l ɛː˧ n]
+          * แปลง: [p l ɛː˧ ŋ]
+          * สลัก: [s a˨˩ l a˨˩ k̚]
+          * จีลา: [tɕ iː˧ l aː˧]
+          * สโล: [s a˨˩ l oː˧]
     ```
   - ```{ipa_cell}
     ```
@@ -375,6 +295,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -393,17 +315,17 @@
       * i
         * Occurances: 6518
         * Examples
-          * ผณิน: [pʰ a˨˩ n i˧ n]
-          * ทิิ้ง: [tʰ i˦˥ i˥˩ ŋ]
-          * ยุติ: [j u˦˥ t̚ t i˨˩ ʔ]
-          * วิิถี: [w i˦˥ i˦˥ tʰ iː˩˩˦]
+          * นิธิ: [n i˦˥ tʰ i˦˥ ʔ]
+          * อิอิ: [ʔ i˨˩ ʔ i˨˩ ʔ]
+          * ปรนิม: [p r o˧ n i˩˩˦ m]
+          * ปกิต: [p a˨˩ k i˨˩ t̚]
       * iː
         * Occurances: 3947
         * Examples
-          * เดลี: [d eː˧ l iː˧]
-          * แมรี: [m ɛː˧ r iː˥˩]
-          * วี่: [w iː˨˩]
-          * บีสี: [b iː˥˩ s iː˩˩˦]
+          * บัดสี: [b a˨˩ t̚ s iː˩˩˦]
+          * รี่: [r iː˥˩]
+          * กีด: [k iː˨˩ t̚]
+          * ลูซี่: [l uː˧ s iː˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -416,32 +338,32 @@
       * ɯ
         * Occurances: 613
         * Examples
-          * ผลึก: [pʰ a˨˩ l ɯ˨˩ k̚]
-          * ขึ้น: [kʰ ɯ˥˩ n]
-          * ฤดูฝน: [r ɯ˦˥ d uː˧ f o˩˩˦ n]
-          * คึก: [kʰ ɯ˦˥ k̚]
+          * ตึึก: [t ɯ˨˩ ɯ˨˩ k̚]
+          * พึึ่ง: [pʰ ɯ˨˩ ɯ˥˩ ŋ]
+          * ทึ้ง: [tʰ ɯ˦˥ ŋ]
+          * บึ้ม: [b ɯ˥˩ m]
       * ɯː
         * Occurances: 723
         * Examples
-          * ดืื่ม: [d ɯː˥˩ ɯː˨˩ m]
-          * ผืน: [pʰ ɯː˩˩˦ n]
-          * สืื่อ: [s ɯː˨˩ ɯa˨˩]
-          * ยืด: [j ɯː˥˩ t̚]
+          * หนืด: [n ɯː˨˩ t̚]
+          * พื้น: [pʰ ɯː˦˥ n]
+          * ถือสา: [tʰ ɯː˩˩˦ s aː˩˩˦]
+          * จืด: [tɕ ɯː˨˩ t̚]
     * rounded
       * u
         * Occurances: 3369
         * Examples
-          * สุุจ: [s u˨˩ u˨˩ t̚]
-          * จุด: [tɕ u˨˩ t̚]
-          * ถุง: [tʰ u˩˩˦ ŋ]
-          * ตุ๋ย: [t u˩˩˦ j]
+          * บุช: [b u˨˩ t̚]
+          * มาตุ: [m aː˧ t u˨˩ ʔ]
+          * มะรุ: [m a˦˥ r u˦˥ ʔ]
+          * ตะลุง: [t a˨˩ l u˧ ŋ]
       * uː
         * Occurances: 2278
         * Examples
-          * ราหู: [r aː˧ h uː˩˩˦]
-          * ยูทูบ: [j uː˧ tʰ uː˦˥ p̚]
-          * พูก: [pʰ uː˥˩ k̚]
-          * ลากถู: [l aː˥˩ k̚ tʰ uː˩˩˦]
+          * คู่หู: [kʰ uː˥˩ h uː˩˩˦]
+          * ฟู๊ด: [f uː˦˥ t̚]
+          * หรู: [r uː˩˩˦]
+          * คอนซู: [kʰ ɔ˧ n s uː˧]
     ```
 * -
   - ```{ipa_cell}
@@ -460,17 +382,17 @@
       * e
         * Occurances: 1617
         * Examples
-          * เส็น: [s e˩˩˦ n]
-          * เซ็ต: [s e˦˥ t̚]
-          * เบล: [b e˧ l]
-          * เก้ง: [k e˥˩ ŋ]
+          * เป๊ป: [p e˦˥ p̚]
+          * เท็ค: [tʰ e˦˥ k̚]
+          * เส็ต: [s e˩˩˦ t̚]
+          * เปล่ง: [p l e˨˩ ŋ]
       * eː
         * Occurances: 2324
         * Examples
-          * เลท: [l eː˥˩ t̚]
-          * เทศ: [tʰ eː˥˩ t̚]
-          * เมล: [m eː˧ l]
-          * สเปก: [s a˨˩ p eː˨˩ k̚]
+          * เชก: [tɕʰ eː˦˥ k̚]
+          * เวศน์: [w eː˥˩ t̚]
+          * เหลว: [l eː˩˩˦ w]
+          * เชน: [tɕʰ eː˧ n]
     ```
   - ```{ipa_cell}
     ```
@@ -483,17 +405,31 @@
       * o
         * Occurances: 3575
         * Examples
-          * สนธยา: [s o˩˩˦ n tʰ a˦˥ j aː˧]
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * นายก: [n aː˧ j o˦˥ k̚]
-          * หกล้ม: [h o˨˩ k̚ l o˦˥ m]
+          * ลบหมด: [l o˦˥ p̚ m o˨˩ t̚]
+          * ร่น: [r o˥˩ n]
+          * ยกราม: [j o˦˥ k̚ k a˨˩ r aː˧ m]
+          * แม่บท: [m ɛː˥˩ b o˨˩ t̚]
       * oː
         * Occurances: 2195
         * Examples
-          * โนติส: [n oː˦˥ t̚ s]
-          * คูโด: [kʰ uː˧ d oː˧]
-          * โนรี: [n oː˧ r iː˧]
-          * โสณ: [s oː˩˩˦ n]
+          * โคน: [kʰ oː˧ n]
+          * สโล: [s a˨˩ l oː˧]
+          * โหล: [l oː˩˩˦]
+          * โยโส: [j a˦˥ s oː˩˩˦]
+      * ɤ
+        * Occurances: 193
+        * Examples
+          * ไธอะ: [tʰ ɤ˨˩ ʔ]
+          * ไงอะ: [ŋ ɤ˦˥ ʔ]
+          * สกิล: [s a˨˩ k ɤ˥˩ n]
+          * เฉย: [tɕʰ ɤ˩˩˦ j]
+      * ɤː
+        * Occurances: 1440
+        * Examples
+          * เร่อ: [r ɤː˥˩]
+          * สลิด: [s a˨˩ l ɤː˨˩ t̚]
+          * เชิ้ต: [tɕʰ ɤː˦˥ t̚]
+          * เหิม: [h ɤː˩˩˦ m]
     ```
 * -
   - ```{ipa_cell}
@@ -512,17 +448,17 @@
       * ɛ
         * Occurances: 692
         * Examples
-          * แอล: [ʔ ɛ˧ l]
-          * แถว: [tʰ ɛ˩˩˦ w]
-          * แฟ๊บ: [f ɛ˦˥ p̚]
-          * แก็ง: [k ɛ˧ ŋ]
+          * แทง: [tʰ ɛ˧ ŋ]
+          * แอนท์: [ʔ ɛ˧ n]
+          * แล็บ: [l ɛ˨˩ p̚]
+          * แน่น: [n ɛ˥˩ n]
       * ɛː
         * Occurances: 1810
         * Examples
+          * แก้: [k ɛː˥˩]
+          * แจซซ์: [tɕ ɛː˦˥ s]
+          * แพ้: [pʰ ɛː˦˥]
           * แล้ว: [l ɛː˦˥ w]
-          * ทำแผล: [tʰ a˧ m pʰ l ɛː˩˩˦]
-          * แจง: [tɕ ɛː˧ ŋ]
-          * แต้ง: [t ɛː˥˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -535,17 +471,17 @@
       * ɔ
         * Occurances: 1222
         * Examples
-          * บล็อก: [b l ɔ˦˥ k̚]
-          * เปราะ: [p r ɔ˨˩ ʔ]
-          * ซอมบี: [s ɔ˧ m b iː˥˩]
-          * มอลตา: [m ɔ˧ n t aː˥˩]
+          * ม่อม: [m ɔ˥˩ m]
+          * ผล็อย: [pʰ l ɔ˩˩˦ j]
+          * ถอถอย: [tʰ ɔː˨˩ tʰ ɔ˩˩˦ j]
+          * คอนซู: [kʰ ɔ˧ n s uː˧]
       * ɔː
         * Occurances: 4369
         * Examples
-          * ฉ้อฉล: [tɕʰ ɔː˥˩ tɕʰ o˩˩˦ n]
-          * ซอฟท์: [s ɔː˦˥ f]
-          * มอสี่: [m ɔː˦˥ s iː˨˩]
-          * สอร์ท: [s ɔː˨˩ t̚]
+          * ค่อ: [kʰ ɔː˥˩]
+          * เอ่อ: [ʔ ɔː˨˩]
+          * นฤบดี: [n a˦˥ r ɯ˦˥ b ɔː˧ d iː˧]
+          * บ่่อ: [b ɔː˥˩]
     ```
 * -
   - ```{ipa_cell}
@@ -568,17 +504,17 @@
       * a
         * Occurances: 21013
         * Examples
-          * หิมะ: [h i˧ m a˦˥ ʔ]
-          * สันต์: [s a˩˩˦ n]
-          * ผณิน: [pʰ a˨˩ n i˧ n]
-          * ง่ะ: [ŋ a˨˩ ʔ]
+          * มัย: [m a˧ j]
+          * อาทร: [ʔ aː˨˩ t̚ tʰ r a˦˥]
+          * ฉัน: [tɕʰ a˩˩˦ n]
+          * แน่ะ: [n a˨˩ ʔ]
       * aː
         * Occurances: 13936
         * Examples
-          * คชสาร: [kʰ o˦˥ t̚ tɕʰ a˦˥ s aː˩˩˦ n]
-          * เอาตา: [ʔ a˧ w t aː˧]
-          * อาร์: [ʔ aː˧]
-          * ด้าน: [d aː˥˩ n]
+          * หล้า: [l aː˥˩]
+          * ตราบ: [t r aː˨˩ p̚]
+          * พายัพ: [pʰ aː˧ j a˦˥ p̚]
+          * อาราม: [ʔ aː˧ r aː˧ m]
     ```
   - ```{ipa_cell}
     ```
@@ -587,13 +523,13 @@
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`ia`
 * {ipa_inline}`ua`
 * {ipa_inline}`ɯa`
 
-### Tones
+#### Tones
 
 * {ipa_inline}`˥˩`
 * {ipa_inline}`˦˥`

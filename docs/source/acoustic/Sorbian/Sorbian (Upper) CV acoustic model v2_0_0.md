@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Sorbian_Upper_v7_0`:
-  * **Hours:** `2.00`
-  * **Speakers:** `18`
-  * **Utterances:** `1,381`
+   * {ref}`Common_Voice_Sorbian_Upper_v7_0`:
+     * **Hours:** `2.00`
+     * **Speakers:** `18`
+     * **Utterances:** `1,381`
    ```
 
 

@@ -17,3 +17,4 @@ Vietnamese
    :hidden:
 
    Vietnamese CV acoustic model v2_0_0.md
+   Vietnamese MFA acoustic model v2_0_0.md

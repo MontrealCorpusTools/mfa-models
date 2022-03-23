@@ -7,7 +7,7 @@
 :tags: French;PROSODYLAB;PROSODYLAB;MFA
 :language: "French"
 :dialect: N/A
-:layout: not_mfa
+:layout: mfa
 :template: dictionary_template
 :phoneset: "PROSODYLAB"
 :license: "CC BY 4.0"

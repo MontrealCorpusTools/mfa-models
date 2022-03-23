@@ -250,10 +250,6 @@
 (frikatif	f r i k a t i f
 (grafik).	ɡ r a f i k
 (kartu)	k a r t u
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
 (menarik,	m ə n a r i k
 (menjadi	m ə n d͡ʑ a d i
 (pangkalan	p a ŋ k a l a n
@@ -261,17 +257,7 @@
 (straight	s t r a i ɡ h t
 (untuk	u n t u k
 -nya.	ɲ a
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	a
 a,	a
 a.	a
@@ -2479,7 +2465,6 @@ carter	t͡ɕ a r t ə r
 carter,	t͡ɕ a r t ə r
 carter.	t͡ɕ a r t ə r
 carthage	t͡ɕ a r t h a ɡ ə
-carácter	t͡ɕ a r á t͡ɕ t ə r
 case	t͡ɕ a s ə
 catatan	t͡ɕ a t a t a n
 catatan.	t͡ɕ a t a t a n
@@ -2558,7 +2543,6 @@ charter	t͡ɕ h a r t ə r
 chatham,	t͡ɕ h a t h a m
 chatsworth,	t͡ɕ h a t s w o r t h
 chattanooga.	t͡ɕ h a t t a n o o ɡ a
-chałubiński	t͡ɕ h a ł u b i ń s k i
 cheap	t͡ɕ h ə a p
 chee-chee.	t͡ɕ h ə ə t͡ɕ h ə ə
 chef	t͡ɕ h ə f
@@ -3879,7 +3863,6 @@ dusky	d u s k j
 dusun	d u s u n
 duta	d u t a
 dwight.	d w i ɡ h t
-dáil	d á i l
 e-mail	ə m a i l
 earbud	ə a r b u d
 earl	ə a r l
@@ -7469,7 +7452,6 @@ lolos	l o l o s
 lomba	l o m b a
 lomba.	l o m b a
 lombard	l o m b a r d
-lomná	l o m n á
 lompat	l o m p a t
 lompat.	l o m p a t
 lompatan	l o m p a t a n
@@ -14859,10 +14841,6 @@ zorbas.	z o r b a s
 zoroaster	z o r o a s t ə r
 zurbrugg	z u r b r u ɡ ɡ
 zygentoma	z j ɡ ə n t o m a
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 éireann,	ə i r ə a n n
 “-as”.	a s
 “-hyume”	h j u m ə
@@ -14948,7 +14926,3 @@ zygentoma	z j ɡ ə n t o m a
 “trip	t r i p
 “ukuran”	u k u r a n
 “upah	u p a h
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

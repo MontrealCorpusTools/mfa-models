@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Kazakh_v7_0`:
-  * **Hours:** `0.73`
-  * **Speakers:** `57`
-  * **Utterances:** `532`
+   * {ref}`Common_Voice_Kazakh_v7_0`:
+     * **Hours:** `0.73`
+     * **Speakers:** `57`
+     * **Utterances:** `532`
    ```
 
 

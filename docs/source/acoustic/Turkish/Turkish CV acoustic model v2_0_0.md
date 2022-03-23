@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Turkish_v7_0`:
-  * **Hours:** `30.00`
-  * **Speakers:** `850`
-  * **Utterances:** `29,606`
+   * {ref}`Common_Voice_Turkish_v7_0`:
+     * **Hours:** `30.00`
+     * **Speakers:** `850`
+     * **Utterances:** `29,606`
    ```
 
 

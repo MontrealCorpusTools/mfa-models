@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Georgian_v7_0`:
-  * **Hours:** `6.00`
-  * **Speakers:** `109`
-  * **Utterances:** `4,562`
+   * {ref}`Common_Voice_Georgian_v7_0`:
+     * **Hours:** `6.00`
+     * **Speakers:** `109`
+     * **Utterances:** `4,562`
    ```
 
 

@@ -18,6 +18,7 @@ G2P models
    Bulgarian/index.rst
    Croatian/index.rst
    Czech/index.rst
+   English/index.rst
    French/index.rst
    German/index.rst
    Hausa/index.rst

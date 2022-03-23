@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * m
         * Occurances: 1115
         * Examples
-          * மாண்: [m aː ɳ]
-          * மேசை: [m eː s aj]
-          * காரம்: [k aː ɾ a m]
-          * மனசு: [m a n a s u]
+          * சாளம்: [tɕ aː ɭ a m]
+          * மாடம்: [m aː ɖ a m]
+          * ஆமை: [ʔ aː m aj]
+          * குலம்: [k u l a m]
       * mː
         * Occurances: 9
         * Examples
@@ -64,32 +66,43 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * n̪
+        * Occurances: 257
+        * Examples
+          * நிலவு: [n̪ i l a ʋ u]
+          * நிறம்: [n̪ i r a m]
+          * இந்த: [ʔ i n̪ d̪ a]
+          * நெறி: [n̪ e r i]
+      * n̪ː
+        * Occurances: 2
+        * Examples
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 324
         * Examples
-          * மனசு: [m a n a s u]
-          * தேன்: [t̪ eː n]
-          * கனவு: [k a n a ʋ u]
-          * பானை: [p aː n aj]
+          * பயன்: [p a j a n]
+          * யோசனை: [j oː s a n aj]
+          * யானை: [j aː n aj]
+          * வனம்: [ʋ a n a m]
       * nː
         * Occurances: 31
         * Examples
-          * என்ன: [ʔ e nː a]
-          * உன்னு: [ʔ u nː u]
           * சின்ன: [tɕ i nː a]
+          * உன்னு: [ʔ u nː u]
+          * என்ன: [ʔ e nː a]
     ```
   - ```{ipa_cell}
     * other
       * ɳ
         * Occurances: 205
         * Examples
-          * மாண்: [m aː ɳ]
-          * பரணி: [p a ɾ a ɳ i]
-          * ஆண்டு: [ʔ aː ɳ ɖ u]
-          * கண்: [k a ɳ]
+          * அணு: [ʔ a ɳ u]
+          * பயணம்: [p a j a ɳ a m]
+          * பயணி: [p a j a ɳ i]
+          * பண்பு: [p a ɳ p u]
       * ɳː
         * Occurances: 21
         * Examples
@@ -102,25 +115,25 @@
       * ɲ
         * Occurances: 22
         * Examples
-          * பஞ்சை: [p a ɲ dʑ aj]
           * கஞ்சா: [k a ɲ dʑ aː]
           * ஞானம்: [ɲ aː n a m]
           * இஞ்சி: [ʔ i ɲ dʑ i]
+          * பஞ்சை: [p a ɲ dʑ aj]
       * ɲː
         * Occurances: 2
         * Examples
-          * மஞ்ஞை: [m a ɲː aj]
           * அஞ்ஞை: [ʔ a ɲː aj]
+          * மஞ்ஞை: [m a ɲː aj]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 113
         * Examples
-          * இங்கே: [ʔ i ŋ ɡ eː]
-          * இங்கு: [ʔ i ŋ ɡ u]
-          * எங்கே: [ʔ e ŋ ɡ eː]
-          * அங்கு: [ʔ a ŋ ɡ u]
+          * அங்கே: [ʔ a ŋ ɡ eː]
+          * வங்கி: [ʋ a ŋ ɡ i]
+          * எங்கு: [ʔ e ŋ ɡ u]
+          * தங்கை: [t̪ a ŋ ɡ aj]
       * ŋː
         * Occurances: 2
         * Examples
@@ -133,25 +146,25 @@
       * p
         * Occurances: 412
         * Examples
-          * பவிஷு: [p a ʋ i ʂ u]
-          * பகர்: [p a ɡ a ɾ]
-          * பரணி: [p a ɾ a ɳ i]
-          * பிகு: [p i ɡ u]
+          * பயன்: [p a j a n]
+          * போதை: [p oː d̪ aj]
+          * பல்: [p a l]
+          * புறா: [p u r aː]
       * pː
         * Occurances: 189
         * Examples
           * தப்பு: [t̪ a pː u]
           * அப்பா: [ʔ a pː aː]
-          * உப்பு: [ʔ u pː u]
           * ஒப்பு: [ʔ o pː u]
+          * உப்பு: [ʔ u pː u]
     * voiced
       * b
         * Occurances: 122
         * Examples
-          * நபம்: [n̪ a b a m]
-          * அம்பு: [ʔ a m b u]
-          * பிரபை: [p i ɾ a b aj]
-          * கபடம்: [k a b a ɖ a m]
+          * ஜனாபா: [dʑ a n aː b aː]
+          * ஆபிச்: [ʔ aː b i tɕ]
+          * ஆம்பி: [ʔ aː m b i]
+          * காபி: [k aː b i]
     ```
   - ```{ipa_cell}
     ```
@@ -160,25 +173,25 @@
       * t̪
         * Occurances: 224
         * Examples
-          * தலை: [t̪ a l aj]
-          * தெரு: [t̪ e ɾ u]
-          * தேன்: [t̪ eː n]
-          * தலைமை: [t̪ a l aj m aj]
+          * தேவை: [t̪ eː ʋ aj]
+          * தோசம்: [t̪ oː s a m]
+          * தாடி: [t̪ aː ɖ i]
+          * தீனி: [t̪ iː n i]
       * t̪ː
         * Occurances: 134
         * Examples
-          * பத்து: [p a t̪ː u]
-          * ஏத்து: [ʔ eː t̪ː u]
-          * கத்தி: [k a t̪ː i]
           * சத்து: [tɕ a t̪ː u]
+          * ஏத்து: [ʔ eː t̪ː u]
+          * பத்து: [p a t̪ː u]
+          * அத்தை: [ʔ a t̪ː aj]
     * voiced
       * d̪
         * Occurances: 307
         * Examples
-          * இது: [ʔ i d̪ u]
-          * ஓது: [ʔ oː d̪ u]
-          * ஔடதம்: [ʔ aw ʈ a d̪ a m]
-          * ரோதம்: [ɾ oː d̪ a m]
+          * போதை: [p oː d̪ aj]
+          * இந்த: [ʔ i n̪ d̪ a]
+          * யூதம்: [j uː d̪ a m]
+          * இதயம்: [ʔ i d̪ a j a m]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -192,25 +205,25 @@
       * ʈ
         * Occurances: 48
         * Examples
-          * ஔடதம்: [ʔ aw ʈ a d̪ a m]
           * இட்லி: [ʔ i ʈ l i]
+          * கட்சி: [k a ʈ tɕ i]
           * ஆட்சி: [ʔ aː ʈ tɕ i]
           * பட்சி: [p a ʈ tɕ i]
       * ʈː
         * Occurances: 109
         * Examples
+          * மட்டு: [m a ʈː u]
+          * இட்டு: [ʔ i ʈː u]
           * கட்டி: [k a ʈː i]
-          * அட்டை: [ʔ a ʈː aj]
-          * சட்டை: [tɕ a ʈː aj]
           * ஊட்டி: [ʔ uː ʈː i]
     * voiced
       * ɖ
         * Occurances: 311
         * Examples
-          * ஆண்டு: [ʔ aː ɳ ɖ u]
-          * குடை: [k u ɖ aj]
-          * படம்: [p a ɖ a m]
-          * கிடை: [k i ɖ aj]
+          * மாடம்: [m aː ɖ a m]
+          * அடிமை: [ʔ a ɖ i m aj]
+          * கோடி: [k oː ɖ i]
+          * மோடு: [m oː ɖ u]
     ```
   - ```{ipa_cell}
     ```
@@ -219,35 +232,35 @@
       * k
         * Occurances: 395
         * Examples
-          * கட்டி: [k a ʈː i]
-          * காரம்: [k aː ɾ a m]
-          * கழுவு: [k a ɻ u ʋ u]
-          * கறுவா: [k a r u ʋ aː]
+          * கிளர்: [k i ɭ a ɾ]
+          * குலம்: [k u l a m]
+          * கூலம்: [k uː l a m]
+          * கமலம்: [k a m a l a m]
       * kː
         * Occurances: 212
         * Examples
-          * அக்கு: [ʔ a kː u]
-          * அக்கா: [ʔ a kː aː]
+          * இக்கு: [ʔ i kː u]
           * அக்கை: [ʔ a kː aj]
+          * அக்கா: [ʔ a kː aː]
           * நக்கு: [n̪ a kː u]
     * voiced
       * ɡ
         * Occurances: 355
         * Examples
-          * ரோகம்: [ɾ oː ɡ a m]
-          * பகர்: [p a ɡ a ɾ]
           * வகு: [ʋ a ɡ u]
-          * பிகு: [p i ɡ u]
+          * அங்கே: [ʔ a ŋ ɡ eː]
+          * மேகம்: [m eː ɡ a m]
+          * அகழி: [ʔ a ɡ a ɻ i]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 582
         * Examples
-          * ஏரி: [ʔ eː ɾ i]
-          * ஒளி: [ʔ o ɭ i]
-          * இது: [ʔ i d̪ u]
-          * அட்டை: [ʔ a ʈː aj]
+          * ஆமை: [ʔ aː m aj]
+          * அங்கே: [ʔ a ŋ ɡ eː]
+          * இரை: [ʔ i ɾ aj]
+          * அடிமை: [ʔ a ɖ i m aj]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -265,23 +278,23 @@
       * tɕ
         * Occurances: 259
         * Examples
-          * சோளம்: [tɕ oː ɭ a m]
-          * சந்தை: [tɕ a n̪ d̪ aj]
-          * செவி: [tɕ e ʋ i]
+          * சாளம்: [tɕ aː ɭ a m]
+          * சத்து: [tɕ a t̪ː u]
+          * சோலை: [tɕ oː l aj]
           * சாலை: [tɕ aː l aj]
       * tɕː
         * Occurances: 76
         * Examples
-          * உச்சி: [ʔ u tɕː i]
           * பச்சை: [p a tɕː aj]
+          * உச்சி: [ʔ u tɕː i]
     * voiced
       * dʑ
         * Occurances: 50
         * Examples
-          * ரோஜ்: [ɾ oː dʑ]
-          * ஜலம்: [dʑ a l a m]
-          * மேஜை: [m eː dʑ aj]
-          * ஜனவரி: [dʑ a n a ʋ a ɾ i]
+          * ஜனாபா: [dʑ a n aː b aː]
+          * ஜகத்: [dʑ a ɡ a t̪]
+          * ஜலதி: [dʑ a l a d̪ i]
+          * ஜண்டா: [dʑ a ɳ ɖ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -299,10 +312,10 @@
       * s
         * Occurances: 196
         * Examples
+          * ரசம்: [ɾ a s a m]
+          * தோசம்: [t̪ oː s a m]
+          * யோசனை: [j oː s a n aj]
           * மேசை: [m eː s aj]
-          * மனசு: [m a n a s u]
-          * பிசி: [p i s i]
-          * ஆசை: [ʔ aː s aj]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -310,9 +323,9 @@
         * Occurances: 24
         * Examples
           * பவிஷு: [p a ʋ i ʂ u]
-          * ரிஷி: [ɾ i ʂ i]
-          * ரஷ்யா: [ɾ a ʂ j aː]
           * க்ஷ: [k ʂ a]
+          * ரஷ்யா: [ɾ a ʂ j aː]
+          * ரிஷி: [ɾ i ʂ i]
     ```
   - ```{ipa_cell}
     ```
@@ -340,8 +353,8 @@
       * ɦ
         * Occurances: 8
         * Examples
-          * அஹம்: [ʔ a ɦ a m]
           * மஹால்: [m a ɦ aː l]
+          * அஹம்: [ʔ a ɦ a m]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -351,15 +364,15 @@
       * ʋ
         * Occurances: 577
         * Examples
-          * கழுவு: [k a ɻ u ʋ u]
-          * பவிஷு: [p a ʋ i ʂ u]
-          * வறுமை: [ʋ a r u m aj]
-          * வாழை: [ʋ aː ɻ aj]
+          * வகு: [ʋ a ɡ u]
+          * தேவை: [t̪ eː ʋ aj]
+          * நிலவு: [n̪ i l a ʋ u]
+          * அவ்: [ʔ a ʋ]
       * ʋː
         * Occurances: 16
         * Examples
-          * வவ்வு: [ʋ a ʋː u]
           * அவ்வோ: [ʔ a ʋː oː]
+          * வவ்வு: [ʋ a ʋː u]
     ```
   - ```{ipa_cell}
     ```
@@ -370,20 +383,20 @@
       * ɻ
         * Occurances: 166
         * Examples
-          * கழுவு: [k a ɻ u ʋ u]
-          * ஏழு: [ʔ eː ɻ u]
-          * வாழை: [ʋ aː ɻ aj]
-          * கீழ்: [k iː ɻ]
+          * அகழி: [ʔ a ɡ a ɻ i]
+          * கிழவு: [k i ɻ a ʋ u]
+          * மழை: [m a ɻ aj]
+          * ஊழல்: [ʔ uː ɻ a l]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 353
         * Examples
-          * ஆய்: [ʔ aː j]
-          * வாய்: [ʋ aː j]
-          * இதயம்: [ʔ i d̪ a j a m]
-          * பயனர்: [p a j a n a ɾ]
+          * பயன்: [p a j a n]
+          * யோசனை: [j oː s a n aj]
+          * பேய்: [p eː j]
+          * யானை: [j aː n aj]
       * jː
         * Occurances: 6
         * Examples
@@ -404,10 +417,10 @@
       * ɾ
         * Occurances: 749
         * Examples
-          * ஏரி: [ʔ eː ɾ i]
-          * தெரு: [t̪ e ɾ u]
-          * காரம்: [k aː ɾ a m]
-          * ரோகம்: [ɾ oː ɡ a m]
+          * கிளர்: [k i ɭ a ɾ]
+          * இரை: [ʔ i ɾ aj]
+          * ரசம்: [ɾ a s a m]
+          * பார்: [p aː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -429,10 +442,10 @@
       * r
         * Occurances: 212
         * Examples
-          * வறுமை: [ʋ a r u m aj]
-          * கறுவா: [k a r u ʋ aː]
-          * குறி: [k u r i]
-          * புறம்: [p u r a m]
+          * நிறம்: [n̪ i r a m]
+          * புறா: [p u r aː]
+          * கூறை: [k uː r aj]
+          * அன்று: [ʔ a n r u]
     ```
   - ```{ipa_cell}
     ```
@@ -454,17 +467,17 @@
       * l
         * Occurances: 470
         * Examples
-          * தலை: [t̪ a l aj]
-          * மேல்: [m eː l]
-          * சாலை: [tɕ aː l aj]
-          * தலைமை: [t̪ a l aj m aj]
+          * பல்: [p a l]
+          * குலம்: [k u l a m]
+          * கூலம்: [k uː l a m]
+          * கமலம்: [k a m a l a m]
       * lː
         * Occurances: 38
         * Examples
+          * இல்லை: [ʔ i lː aj]
+          * வல்லை: [ʋ a lː aj]
           * வல்ல: [ʋ a lː a]
           * எல்லை: [ʔ e lː aj]
-          * வல்லை: [ʋ a lː aj]
-          * இல்லை: [ʔ i lː aj]
     ```
   - ```{ipa_cell}
     ```
@@ -474,7 +487,7 @@
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Lateral_Tap`
+* - {manner}`Lateral Tap`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -488,15 +501,15 @@
       * ɭ
         * Occurances: 193
         * Examples
-          * ஒளி: [ʔ o ɭ i]
-          * சோளம்: [tɕ oː ɭ a m]
-          * இருள்: [ʔ i ɾ u ɭ]
           * சாளம்: [tɕ aː ɭ a m]
+          * கிளர்: [k i ɭ a ɾ]
+          * மிளகு: [m i ɭ a ɡ u]
+          * ஏவாள்: [ʔ eː ʋ aː ɭ]
       * ɭː
         * Occurances: 24
         * Examples
-          * பள்ளி: [p a ɭː i]
           * தள்ளை: [t̪ a ɭː aj]
+          * பள்ளி: [p a ɭː i]
     ```
   - ```{ipa_cell}
     ```
@@ -508,6 +521,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -526,17 +541,17 @@
       * i
         * Occurances: 1301
         * Examples
-          * கட்டி: [k a ʈː i]
-          * ஏரி: [ʔ eː ɾ i]
-          * ஒளி: [ʔ o ɭ i]
-          * இது: [ʔ i d̪ u]
+          * கிளர்: [k i ɭ a ɾ]
+          * இரை: [ʔ i ɾ aj]
+          * அடிமை: [ʔ a ɖ i m aj]
+          * நிலவு: [n̪ i l a ʋ u]
       * iː
         * Occurances: 103
         * Examples
-          * கீழ்: [k iː ɻ]
-          * தீனம்: [t̪ iː n a m]
-          * நீர்: [n̪ iː ɾ]
-          * நீலம்: [n̪ iː l a m]
+          * தீனி: [t̪ iː n i]
+          * மீள்: [m iː ɭ]
+          * ஈரல்: [ʔ iː ɾ a l]
+          * தேனீ: [t̪ eː n iː]
     ```
   - ```{ipa_cell}
     ```
@@ -549,17 +564,17 @@
       * u
         * Occurances: 1173
         * Examples
-          * இது: [ʔ i d̪ u]
-          * தெரு: [t̪ e ɾ u]
-          * ஓது: [ʔ oː d̪ u]
-          * கழுவு: [k a ɻ u ʋ u]
+          * வகு: [ʋ a ɡ u]
+          * குலம்: [k u l a m]
+          * சத்து: [tɕ a t̪ː u]
+          * அணு: [ʔ a ɳ u]
       * uː
         * Occurances: 107
         * Examples
-          * சூறை: [tɕ uː r aj]
-          * ஊட்டி: [ʔ uː ʈː i]
-          * கூளி: [k uː ɭ i]
-          * ஊது: [ʔ uː d̪ u]
+          * கூலம்: [k uː l a m]
+          * கூறை: [k uː r aj]
+          * மூலம்: [m uː l a m]
+          * யூதம்: [j uː d̪ a m]
     ```
 * -
   - ```{ipa_cell}
@@ -578,17 +593,17 @@
       * e
         * Occurances: 205
         * Examples
-          * தெரு: [t̪ e ɾ u]
-          * என்ன: [ʔ e nː a]
-          * செவி: [tɕ e ʋ i]
-          * எலி: [ʔ e l i]
+          * எகின்: [ʔ e ɡ i n]
+          * நெறி: [n̪ e r i]
+          * எங்கு: [ʔ e ŋ ɡ u]
+          * வெளி: [ʋ e ɭ i]
       * eː
         * Occurances: 167
         * Examples
-          * ஏரி: [ʔ eː ɾ i]
-          * மேசை: [m eː s aj]
-          * தேன்: [t̪ eː n]
-          * ஏழு: [ʔ eː ɻ u]
+          * தேவை: [t̪ eː ʋ aj]
+          * அங்கே: [ʔ a ŋ ɡ eː]
+          * மேகம்: [m eː ɡ a m]
+          * பேய்: [p eː j]
     ```
   - ```{ipa_cell}
     ```
@@ -601,17 +616,17 @@
       * o
         * Occurances: 121
         * Examples
-          * ஒளி: [ʔ o ɭ i]
-          * ஒகையோ: [ʔ o ɡ aj j oː]
-          * ஒரு: [ʔ o ɾ u]
-          * கொசு: [k o s u]
+          * ஒடி: [ʔ o ɖ i]
+          * ஒலி: [ʔ o l i]
+          * சொந்த: [tɕ o n̪ d̪ a]
+          * கொல்: [k o l]
       * oː
         * Occurances: 126
         * Examples
-          * ஓது: [ʔ oː d̪ u]
-          * ரோகம்: [ɾ oː ɡ a m]
-          * சோளம்: [tɕ oː ɭ a m]
-          * ரோஜ்: [ɾ oː dʑ]
+          * போதை: [p oː d̪ aj]
+          * தோசம்: [t̪ oː s a m]
+          * கோடி: [k oː ɖ i]
+          * யோசனை: [j oː s a n aj]
     ```
 * -
   - ```{ipa_cell}
@@ -656,17 +671,17 @@
       * a
         * Occurances: 2594
         * Examples
-          * கட்டி: [k a ʈː i]
-          * தலை: [t̪ a l aj]
-          * அட்டை: [ʔ a ʈː aj]
-          * காரம்: [k aː ɾ a m]
+          * சாளம்: [tɕ aː ɭ a m]
+          * வகு: [ʋ a ɡ u]
+          * பயன்: [p a j a n]
+          * மாடம்: [m aː ɖ a m]
       * aː
         * Occurances: 724
         * Examples
-          * மாண்: [m aː ɳ]
-          * காரம்: [k aː ɾ a m]
-          * ஆய்: [ʔ aː j]
-          * வாழை: [ʋ aː ɻ aj]
+          * சாளம்: [tɕ aː ɭ a m]
+          * மாடம்: [m aː ɖ a m]
+          * ஆமை: [ʔ aː m aj]
+          * புறா: [p u r aː]
     ```
   - ```{ipa_cell}
     ```
@@ -675,7 +690,7 @@
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`aj`
 * {ipa_inline}`aw`

@@ -1,5 +1,5 @@
 
-# english.us.arpa
+# English (US) ARPA dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/english_us_arpa.html)
 
@@ -7,7 +7,6 @@ Jump to section:
 
 - [Dictionary details](#dictionary-details)
 - [Intended use](#intended-use)
-- [IPA charts](#ipa-charts)
 - [Performance Factors](#performance-factors)
 - [Ethical considerations](#ethical-considerations)
 
@@ -16,8 +15,8 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialect:** [General American English](https://en.wikipedia.org/wiki/General_American_English)
-- **Number of words:** `199,880`
 - **Phone set:** [ARPA](https://en.wikipedia.org/wiki/ARPABET)
+- **Number of words:** `199,858`
 - **Phones:** {ipa_inline}`AA0`, {ipa_inline}`AA1`, {ipa_inline}`AA2`, {ipa_inline}`AE0`, {ipa_inline}`AE1`, {ipa_inline}`AE2`, {ipa_inline}`AH0`, {ipa_inline}`AH1`, {ipa_inline}`AH2`, {ipa_inline}`AO0`, {ipa_inline}`AO1`, {ipa_inline}`AO2`, {ipa_inline}`AW0`, {ipa_inline}`AW1`, {ipa_inline}`AW2`, {ipa_inline}`AY0`, {ipa_inline}`AY1`, {ipa_inline}`AY2`, {ipa_inline}`B`, {ipa_inline}`CH`, {ipa_inline}`D`, {ipa_inline}`DH`, {ipa_inline}`EH0`, {ipa_inline}`EH1`, {ipa_inline}`EH2`, {ipa_inline}`ER0`, {ipa_inline}`ER1`, {ipa_inline}`ER2`, {ipa_inline}`EY0`, {ipa_inline}`EY1`, {ipa_inline}`EY2`, {ipa_inline}`F`, {ipa_inline}`G`, {ipa_inline}`HH`, {ipa_inline}`IH0`, {ipa_inline}`IH1`, {ipa_inline}`IH2`, {ipa_inline}`IY0`, {ipa_inline}`IY1`, {ipa_inline}`IY2`, {ipa_inline}`JH`, {ipa_inline}`K`, {ipa_inline}`L`, {ipa_inline}`M`, {ipa_inline}`N`, {ipa_inline}`NG`, {ipa_inline}`OW0`, {ipa_inline}`OW1`, {ipa_inline}`OW2`, {ipa_inline}`OY0`, {ipa_inline}`OY1`, {ipa_inline}`OY2`, {ipa_inline}`P`, {ipa_inline}`R`, {ipa_inline}`S`, {ipa_inline}`SH`, {ipa_inline}`T`, {ipa_inline}`TH`, {ipa_inline}`UH0`, {ipa_inline}`UH1`, {ipa_inline}`UH2`, {ipa_inline}`UW0`, {ipa_inline}`UW1`, {ipa_inline}`UW2`, {ipa_inline}`V`, {ipa_inline}`W`, {ipa_inline}`Y`, {ipa_inline}`Z`, {ipa_inline}`ZH`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/english/us_arpa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
@@ -57,9 +56,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

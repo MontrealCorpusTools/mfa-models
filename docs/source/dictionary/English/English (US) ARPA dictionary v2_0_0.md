@@ -7,7 +7,7 @@
 :tags: English;ARPA;PROSODYLAB;MFA
 :language: "English"
 :dialect: US
-:layout: not_mfa
+:layout: mfa
 :template: dictionary_template
 :phoneset: "ARPA"
 :license: "CC BY 4.0"
@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * M
         * Occurances: 44595
         * Examples
-          * mechs: [M EH1 K S]
-          * zima: [Z IY1 M AH0]
-          * qualm: [K W AA1 M]
-          * magis: [M AE1 JH IH0 S]
+          * m'a: [M AH0]
+          * sammy: [S AE1 M IY0]
+          * morat: [M AO1 R AE0 T]
+          * um's: [AH0 M Z]
     ```
   - ```{ipa_cell}
     ```
@@ -66,10 +68,10 @@
       * N
         * Occurances: 94848
         * Examples
-          * bindy: [B IH1 N D IY0]
-          * dyna: [D AY1 N AH0]
-          * ness: [N EH1 S]
-          * hobin: [HH OW1 B IH0 N]
+          * sogn: [S OW1 N]
+          * thon: [TH AA1 N]
+          * anunt: [EY1 N AH0 N T]
+          * nec: [N EH1 K]
     ```
   - ```{ipa_cell}
     ```
@@ -80,10 +82,10 @@
       * NG
         * Occurances: 15230
         * Examples
-          * bronk: [B R AA1 NG K]
-          * fank: [F AE1 NG K]
-          * keong: [K EH1 NG]
-          * ankus: [AE1 NG K AH0 S]
+          * oncle: [AA0 NG K AH0 L]
+          * slunk: [S L AH1 NG K]
+          * pings: [P IH1 NG Z]
+          * fingo: [F IH1 NG G OW0]
     ```
   - ```{ipa_cell}
     ```
@@ -93,18 +95,18 @@
       * P
         * Occurances: 32322
         * Examples
-          * plood: [P L UW1 D]
-          * pork: [P AO1 R K]
-          * sepoy: [S EH1 P OY0]
-          * ipsis: [IH1 P S AH0 S]
+          * pully: [P UH1 L IY0]
+          * paged: [P EY1 JH D]
+          * pedal: [P EH1 D AH0 L]
+          * op'd: [AA1 P D]
     * voiced
       * B
         * Occurances: 31562
         * Examples
-          * bindy: [B IH1 N D IY0]
-          * greeb: [G R IY1 B]
-          * thebe: [TH IY1 B]
-          * bronk: [B R AA1 NG K]
+          * doab: [D UW1 AH0 B]
+          * blase: [B L EY1 Z]
+          * bodo: [B OW1 D OW0]
+          * ribby: [R IH1 B IY0]
     ```
   - ```{ipa_cell}
     ```
@@ -115,18 +117,18 @@
       * T
         * Occurances: 75542
         * Examples
-          * shart: [SH AA0 R T]
-          * efts: [EH1 F T S]
-          * ust: [Y UW1 S T]
-          * hart: [HH AA1 R T]
+          * duet: [D UW0 EH1 T]
+          * ghost: [G OW1 S T]
+          * etais: [IY2 T EY0]
+          * morat: [M AO1 R AE0 T]
     * voiced
       * D
         * Occurances: 52334
         * Examples
-          * ewold: [Y UW1 OW0 L D]
-          * bindy: [B IH1 N D IY0]
-          * plood: [P L UW1 D]
-          * dyna: [D AY1 N AH0]
+          * doab: [D UW1 AH0 B]
+          * duet: [D UW0 EH1 T]
+          * bodo: [B OW1 D OW0]
+          * cadi: [K AE1 D IY0]
     ```
   - ```{ipa_cell}
     ```
@@ -137,18 +139,18 @@
       * K
         * Occurances: 58375
         * Examples
-          * mechs: [M EH1 K S]
-          * kruse: [K R UW1 Z]
-          * saxa: [S AE1 K S AH0]
-          * clxvi: [K L K S V IY0]
+          * cadi: [K AE1 D IY0]
+          * cox: [K AA1 K S]
+          * brick: [B R IH1 K]
+          * nec: [N EH1 K]
     * voiced
       * G
         * Occurances: 20766
         * Examples
-          * hoog: [HH UW1 G]
-          * gaged: [G EY1 JH D]
-          * greeb: [G R IY1 B]
-          * gunna: [G AH1 N AH0]
+          * ghost: [G OW1 S T]
+          * bega: [B EY1 G AH0]
+          * igel: [IH1 G AH0 L]
+          * amigo: [AH0 M IY1 G OW2]
     ```
   - ```{ipa_cell}
     ```
@@ -166,18 +168,18 @@
       * CH
         * Occurances: 8420
         * Examples
-          * xcix: [Z CH IH0 K S]
-          * tew: [CH UW1]
-          * chaka: [CH AA1 K AH0]
-          * liech: [L IY1 CH]
+          * batch: [B AE1 CH]
+          * ciao: [CH AW1]
+          * punch: [P AH1 N CH]
+          * pache: [P AE1 CH IY0]
     * voiced
       * JH
         * Occurances: 10111
         * Examples
-          * gaged: [G EY1 JH D]
-          * jewe: [JH UW1]
-          * magis: [M AE1 JH IH0 S]
-          * boges: [B OW1 JH IH0 Z]
+          * paged: [P EY1 JH D]
+          * janin: [JH AE1 N IH0 N]
+          * jos's: [JH OW0 S IH0 Z]
+          * gouge: [G AW1 JH]
     ```
   - ```{ipa_cell}
     ```
@@ -197,36 +199,36 @@
       * S
         * Occurances: 78674
         * Examples
-          * mechs: [M EH1 K S]
-          * ellis: [EH1 L IH0 S]
-          * voice: [V OY1 S]
-          * saxa: [S AE1 K S AH0]
+          * ghost: [G OW1 S T]
+          * cox: [K AA1 K S]
+          * sogn: [S OW1 N]
+          * sammy: [S AE1 M IY0]
     * voiced
       * Z
         * Occurances: 53038
         * Examples
-          * kruse: [K R UW1 Z]
-          * hewes: [HH Y UW1 Z]
-          * xcix: [Z CH IH0 K S]
-          * riis: [R IY1 Z]
+          * blase: [B L EY1 Z]
+          * zerfa: [Z IH1 R F AH0]
+          * aures: [AW0 R EY1 Z]
+          * ivies: [AY1 V IY0 Z]
     ```
   - ```{ipa_cell}
     * voiceless
       * SH
         * Occurances: 12288
         * Examples
-          * shart: [SH AA0 R T]
-          * quash: [K W AO1 SH]
-          * shepp: [SH EH1 P]
-          * plush: [P L AH1 SH]
+          * hoosh: [HH UW1 SH]
+          * she'l: [SH IY1]
+          * cusha: [K UH1 SH AH0]
+          * shewe: [SH UW1]
     * voiced
       * ZH
         * Occurances: 796
         * Examples
-          * zho: [ZH OW0]
-          * zhall: [ZH AH0 L]
-          * jno: [ZH N OW0]
-          * sesia: [S IY1 ZH AH0]
+          * usual: [Y UW1 ZH UW0 AH0 L]
+          * rouge: [R UW1 ZH]
+          * usury: [Y UW1 ZH ER0 IY0]
+          * azure: [AE1 ZH ER0]
     ```
   - ```{ipa_cell}
     ```
@@ -242,36 +244,36 @@
       * F
         * Occurances: 20957
         * Examples
-          * phere: [F IH2 R]
-          * fined: [F AY1 N D]
-          * efts: [EH1 F T S]
-          * hafiz: [HH AA0 F IY1 Z]
+          * zerfa: [Z IH1 R F AH0]
+          * cafes: [K AE2 F EY1 Z]
+          * wilfu: [W IH1 L F UW0]
+          * fano: [F AA1 N OW0]
     * voiced
       * V
         * Occurances: 17526
         * Examples
-          * voice: [V OY1 S]
-          * clxvi: [K L K S V IY0]
-          * rav: [R AA2 V]
-          * svan: [S V AH0 N]
+          * ivies: [AY1 V IY0 Z]
+          * voter: [V OW1 T ER0]
+          * waves: [W EY1 V Z]
+          * river: [R IH1 V ER0]
     ```
   - ```{ipa_cell}
     * voiceless
       * TH
         * Occurances: 6592
         * Examples
-          * thebe: [TH IY1 B]
-          * letha: [L EH1 TH AH0]
-          * myth: [M IH1 TH]
-          * leth: [L EH1 TH]
+          * thon: [TH AA1 N]
+          * pathe: [P AE1 TH]
+          * tilth: [T IH1 L TH]
+          * reeth: [R IY1 TH]
     * voiced
       * DH
         * Occurances: 1311
         * Examples
-          * thia: [DH IY0 AH0]
+          * thee: [DH IY1]
+          * thist: [DH IH0 S T]
+          * thed: [DH D]
           * thine: [DH AY1 N]
-          * these: [DH IY1 Z]
-          * hathe: [HH EY1 DH]
     ```
   - ```{ipa_cell}
     ```
@@ -286,10 +288,10 @@
       * HH
         * Occurances: 13675
         * Examples
-          * hoog: [HH UW1 G]
-          * hewes: [HH Y UW1 Z]
-          * hael: [HH EH1 L]
-          * hobin: [HH OW1 B IH0 N]
+          * hari: [HH AA1 R IY0]
+          * hoosh: [HH UW1 SH]
+          * heus: [HH Y UW1 Z]
+          * hilly: [HH IH1 L IY0]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -297,10 +299,10 @@
       * W
         * Occurances: 14822
         * Examples
-          * wale: [W EY1 L]
-          * qualm: [K W AA1 M]
-          * walla: [W AO1 L AH0]
-          * wiled: [W AY1 L D]
+          * wau: [W AO0]
+          * wotes: [W OW1 T S]
+          * waves: [W EY1 V Z]
+          * wilfu: [W IH1 L F UW0]
     ```
   - ```{ipa_cell}
     ```
@@ -311,10 +313,10 @@
       * R
         * Occurances: 71342
         * Examples
-          * kruse: [K R UW1 Z]
-          * lawry: [L AO1 R IY0]
-          * phere: [F IH2 R]
-          * shart: [SH AA0 R T]
+          * raal: [R AA1 L]
+          * hari: [HH AA1 R IY0]
+          * ribby: [R IH1 B IY0]
+          * brick: [B R IH1 K]
     ```
   - ```{ipa_cell}
     ```
@@ -323,10 +325,10 @@
       * Y
         * Occurances: 8159
         * Examples
-          * ewold: [Y UW1 OW0 L D]
-          * hewes: [HH Y UW1 Z]
-          * ust: [Y UW1 S T]
-          * yewr: [Y UW1 R]
+          * duet: [D Y UW0 EH1 T]
+          * yoh: [Y OW1]
+          * heus: [HH Y UW1 Z]
+          * yew'd: [Y UW1 D]
     ```
   - ```{ipa_cell}
     ```
@@ -344,10 +346,10 @@
       * L
         * Occurances: 76788
         * Examples
-          * ewold: [Y UW1 OW0 L D]
-          * ellis: [EH1 L IH0 S]
-          * plood: [P L UW1 D]
-          * wale: [W EY1 L]
+          * raal: [R AA1 L]
+          * blase: [B L EY1 Z]
+          * pully: [P UH1 L IY0]
+          * pedal: [P EH1 D AH0 L]
     ```
   - ```{ipa_cell}
     ```
@@ -361,6 +363,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -379,10 +383,10 @@
       * IY
         * Occurances: 55169
         * Examples
-          * geo's: [JH IY2 OW0 Z]
-          * priez: [P R IY2 EY1 Z]
-          * diis: [D IY2 Z]
-          * kizzy: [K IH1 Z IY0]
+          * hari: [HH AA1 R IY0]
+          * wheet: [HH W IY2 T]
+          * pete: [P IY1 T]
+          * pully: [P UH1 L IY0]
     ```
   - ```{ipa_cell}
     ```
@@ -391,10 +395,10 @@
       * UW
         * Occurances: 16256
         * Examples
-          * meshu: [M EH1 SH UW0]
-          * tew: [T IY1 IY1 D AH1 B AH0 L Y UW2]
-          * hewes: [HH Y UW1 Z]
-          * hoog: [HH UW1 G]
+          * coue: [K UW0]
+          * kiru: [K IH1 R UW0]
+          * doab: [D UW1 AH0 B]
+          * heus: [HH Y UW1 Z]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +412,10 @@
       * IH
         * Occurances: 79698
         * Examples
-          * xcix: [Z CH IH0 K S]
-          * magis: [M AE1 JH IH0 S]
-          * bindy: [B IH1 N D IY0]
-          * idden: [IH1 D AH0 N]
+          * janin: [JH AE1 N IH0 N]
+          * ivica: [IH1 V IH0 K AH0]
+          * wisit: [W IH1 Z IH0 T]
+          * sindo: [S IH1 N D OW0]
     ```
   - ```{ipa_cell}
     ```
@@ -420,10 +424,10 @@
       * UH
         * Occurances: 4024
         * Examples
-          * wuz: [W UH1]
-          * curph: [K UH0 R F]
-          * rawul: [R AE2 W UH2 L]
-          * jung: [Y UH1 NG]
+          * ebook: [IH0 B UH2 K]
+          * muhil: [M UH0 HH IH0 L]
+          * pulz: [P UH1 L T S]
+          * nooks: [N UH1 K S]
     ```
   - ```{ipa_cell}
     ```
@@ -433,10 +437,10 @@
       * EY
         * Occurances: 21225
         * Examples
-          * sator: [S EY1 T ER0]
-          * emir: [EY0 M IH1 R]
-          * gaged: [G EY1 JH D]
-          * wale: [W EY1 L]
+          * otway: [AA1 T W EY2]
+          * etais: [IY2 T EY0]
+          * paged: [P EY1 JH D]
+          * tway: [T W EY2]
     ```
   - ```{ipa_cell}
     ```
@@ -449,10 +453,10 @@
       * OW
         * Occurances: 25875
         * Examples
-          * ohone: [OW0 HH OW2 N]
-          * sego: [S IY1 G OW2]
-          * donau: [D OW1 N AW0]
-          * ottoe: [AA1 T OW2]
+          * ghost: [G OW1 S T]
+          * sogn: [S OW1 N]
+          * fano: [F AA1 N OW0]
+          * deyro: [D EY1 R OW2]
     ```
 * -
   - ```{ipa_cell}
@@ -464,10 +468,10 @@
       * AH
         * Occurances: 116953
         * Examples
-          * tew: [T IY1 IY1 D AH1 B AH0 L Y UW2]
-          * summe: [S AH1 M]
-          * dyna: [D AY1 N AH0]
-          * do'n: [D UW1 AH0 N]
+          * zerfa: [Z IH1 R F AH0]
+          * muts: [M AH1 T S]
+          * m'a: [M AH0]
+          * doab: [D UW1 AH0 B]
     ```
   - ```{ipa_cell}
     ```
@@ -479,10 +483,10 @@
       * EH
         * Occurances: 39703
         * Examples
-          * venez: [V EH0 N EH1 Z]
-          * hael: [HH EH1 L]
-          * edax: [EH0 D AE1 K S]
-          * ebury: [EH1 B EH2 R IY0]
+          * yekl: [Y EH0 K AH0 L]
+          * nells: [N EH2 L Z]
+          * metas: [M EH2 T AH0 Z]
+          * nec: [N EH1 K]
     ```
   - ```{ipa_cell}
     ```
@@ -498,10 +502,10 @@
       * AE
         * Occurances: 34206
         * Examples
-          * saxa: [S AE1 K S AH0]
-          * annot: [AE2 N AH0 T]
-          * magis: [M AE1 JH IH0 S]
-          * nomad: [N OW1 M AE2 D]
+          * morat: [M AO1 R AE0 T]
+          * janin: [JH AE1 N IH0 N]
+          * sandu: [S AE0 N D UW1]
+          * cafes: [K AE2 F EY1 Z]
     ```
   - ```{ipa_cell}
     ```
@@ -510,10 +514,10 @@
       * ER
         * Occurances: 40624
         * Examples
-          * urus: [Y ER2 AH0 S]
-          * kursk: [K ER1 S K]
-          * vorld: [V ER2 L D]
-          * dirks: [D ER1 K S]
+          * werff: [W ER2 F]
+          * burs: [B ER1 Z]
+          * urfa: [Y ER2 F AH0]
+          * jerk: [JH ER1 K]
     ```
   - ```{ipa_cell}
     ```
@@ -533,29 +537,29 @@
       * AA
         * Occurances: 37763
         * Examples
-          * amnon: [AE1 M N AA2 N]
-          * casal: [K AA0 S AA1 L]
-          * shart: [SH AA0 R T]
-          * bronk: [B R AA1 NG K]
+          * thon: [TH AA1 N]
+          * saqui: [S AA0 K W IY1]
+          * hari: [HH AA1 R IY0]
+          * aquia: [AA0 K W IY0 AH0]
     * rounded
       * AO
         * Occurances: 18014
         * Examples
-          * odour: [OW1 D AO2 R]
-          * lysol: [L AY1 S AO2 L]
-          * autun: [AO0 T AH1 N]
-          * saute: [S AO0 T EY1]
+          * falk: [F AO1 K]
+          * eloff: [IY2 L AO0 F]
+          * wau: [W AO0]
+          * rykor: [R AY1 K AO2 R]
     ```
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`AW`
 * {ipa_inline}`AY`
 * {ipa_inline}`OY`
 
-### Stress
+#### Stress
 
 * {ipa_inline}`0`
 * {ipa_inline}`1`

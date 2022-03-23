@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Kyrgyz_v7_0`:
-  * **Hours:** `37.00`
-  * **Speakers:** `206`
-  * **Utterances:** `29,107`
+   * {ref}`Common_Voice_Kyrgyz_v7_0`:
+     * **Hours:** `37.00`
+     * **Speakers:** `206`
+     * **Utterances:** `29,107`
    ```
 
 

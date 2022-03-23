@@ -1,20 +1,6 @@
 'il	ɪ l
 'l	l
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 abbandunat	ɐ b b ɐ n d ʊ n ɐ t
 abbandunaw	ɐ b b ɐ n d ʊ n ɐ w
 abbandunawha	ɐ b b ɐ n d ʊ n ɐ w ɐ
@@ -368,8 +354,8 @@ b'erba'	b ɛ r b ɐ
 b'filmat	b f ɪ l m ɐ t
 b'filosofija	b f ɪ l ɔ s ɔ f ɪ j ɐ
 b'gowl	b ɡ ɔ w l
-b'għajnejkom.	b ˤ ː ɐ j n ɛ j k ɔ m
-b'għaxar	b ˤ ː ɐ ʃ ɐ r
+b'għajnejkom.	bˤː ɐ j n ɛ j k ɔ m
+b'għaxar	bˤː ɐ ʃ ɐ r
 b'hekk	b ɛ k k
 b'imnieħer	b ɪ m n i ɛ ħ ɛ r
 b'imħabba	b ɪ m ħ ɐ b b ɐ
@@ -455,9 +441,9 @@ bankarju	b ɐ n k ɐ r j ʊ
 banks	b ɐ n k s
 baqa'	b ɐ ʔ ɐ
 baqagħli.	b ɐ ʔ ɐˤː l ɪ
-baqgħat	b ɐ ʔ ˤ ː ɐ t
-baqgħet	b ɐ ʔ ˤ ː ɛ t
-baqgħu	b ɐ ʔ ˤ ː ʊ
+baqgħat	b ɐ ʔˤː ɐ t
+baqgħet	b ɐ ʔˤː ɛ t
+baqgħu	b ɐ ʔˤː ʊ
 barack	b ɐ r ɐ c k
 barbara	b ɐ r b ɐ r ɐ
 barbara.	b ɐ r b ɐ r ɐ
@@ -573,9 +559,9 @@ bil-fomm.	b ɪ l f ɔ m m
 bil-fondi	b ɪ l f ɔ n d ɪ
 bil-fondi!	b ɪ l f ɔ n d ɪ
 bil-geddum	b ɪ l ɡ ɛ d d ʊ m
-bil-għan	b ɪ l ˤ ː ɐ n
-bil-għaqal	b ɪ l ˤ ː ɐ ʔ ɐ l
-bil-għaqal.	b ɪ l ˤ ː ɐ ʔ ɐ l
+bil-għan	b ɪ lˤː ɐ n
+bil-għaqal	b ɪ lˤː ɐ ʔ ɐ l
+bil-għaqal.	b ɪ lˤː ɐ ʔ ɐ l
 bil-kandidati	b ɪ l k ɐ n d ɪ d ɐ t ɪ
 bil-kbir	b ɪ l k b ɪ r
 bil-kbir.	b ɪ l k b ɪ r
@@ -680,8 +666,8 @@ bl-aħjar	b l ɐ ħ j ɐ r
 bl-espert	b l ɛ s p ɛ r t
 bl-ewro	b l ɛ w r ɔ
 bl-ewwel	b l ɛ w w ɛ l
-bl-għajnuna	b l ˤ ː ɐ j n ʊ n ɐ
-bl-għoti	b l ˤ ː ɔ t ɪ
+bl-għajnuna	b lˤː ɐ j n ʊ n ɐ
+bl-għoti	b lˤː ɔ t ɪ
 bl-ikbar	b l ɪ k b ɐ r
 bl-informazzjoni	b l ɪ n f ɔ r m ɐ t͡s t͡s j ɔ n ɪ
 bl-ingliż	b l ɪ n ɡ l ɪ z
@@ -1428,11 +1414,11 @@ f'elf	f ɛ l f
 f'erba'	f ɛ r b ɐ
 f'fatti.	f f ɐ t t ɪ
 f'fommi.	f f ɔ m m ɪ
-f'għawdex	f ˤ ː ɐ w d ɛ ʃ
-f'għawdex.	f ˤ ː ɐ w d ɛ ʃ
-f'għawdex?	f ˤ ː ɐ w d ɛ ʃ
-f'għaxar	f ˤ ː ɐ ʃ ɐ r
-f'għodwa	f ˤ ː ɔ d w ɐ
+f'għawdex	fˤː ɐ w d ɛ ʃ
+f'għawdex.	fˤː ɐ w d ɛ ʃ
+f'għawdex?	fˤː ɐ w d ɛ ʃ
+f'għaxar	fˤː ɐ ʃ ɐ r
+f'għodwa	fˤː ɔ d w ɐ
 f'hekk	f ɛ k k
 f'idejh.	f ɪ d ɛ j
 f'idejha	f ɪ d ɛ j ɐ
@@ -1461,7 +1447,7 @@ f'kordin	f k ɔ r d ɪ n
 f'kull	f k ʊ l l
 f'kulħadd	f k ʊ l ħ ɐ d d
 f'kuntatt	f k ʊ n t ɐ t t
-f'laqgħa	f l ɐ ʔ ˤ ː ɐ
+f'laqgħa	f l ɐ ʔˤː ɐ
 f'leħnu.	f l ɛ ħ n ʊ
 f'liema	f l i ɛ m ɐ
 f'linear	f l ɪ n ɛ ɐ r
@@ -1779,7 +1765,7 @@ fil-kunċert.	f ɪ l k ʊ n t͡ʃ ɛ r t
 fil-kurrikulum	f ɪ l k ʊ r r ɪ k ʊ l ʊ m
 fil-laboratorju	f ɪ l l ɐ b ɔ r ɐ t ɔ r j ʊ
 fil-landfills,	f ɪ l l ɐ n d f ɪ l l s
-fil-laqgħa	f ɪ l l ɐ ʔ ˤ ː ɐ
+fil-laqgħa	f ɪ l l ɐ ʔˤː ɐ
 fil-libja	f ɪ l l ɪ b j ɐ
 fil-libja.	f ɪ l l ɪ b j ɐ
 fil-lingwa	f ɪ l l ɪ n ɡ w ɐ
@@ -2018,11 +2004,11 @@ fl-ewropa.	f l ɛ w r ɔ p ɐ
 fl-ewwel	f l ɛ w w ɛ l
 fl-eġittu	f l ɛ d͡ʒ ɪ t t ʊ
 fl-eġittu.	f l ɛ d͡ʒ ɪ t t ʊ
-fl-għadira	f l ˤ ː ɐ d ɪ r ɐ
-fl-għammieri?	f l ˤ ː ɐ m m i ɛ r ɪ
-fl-għaraq.	f l ˤ ː ɐ r ɐ ʔ
-fl-għawm?	f l ˤ ː ɐ w m
-fl-għażla	f l ˤ ː ɐ z l ɐ
+fl-għadira	f lˤː ɐ d ɪ r ɐ
+fl-għammieri?	f lˤː ɐ m m i ɛ r ɪ
+fl-għaraq.	f lˤː ɐ r ɐ ʔ
+fl-għawm?	f lˤː ɐ w m
+fl-għażla	f lˤː ɐ z l ɐ
 fl-iktar	f l ɪ k t ɐ r
 fl-ilma	f l ɪ l m ɐ
 fl-impjieg?	f l ɪ m p j i ɛ ɡ
@@ -2252,424 +2238,424 @@ gwardjani	ɡ w ɐ r d j ɐ n ɪ
 gwarniċ	ɡ w ɐ r n ɪ t͡ʃ
 gwerra	ɡ w ɛ r r ɐ
 gwida	ɡ w ɪ d ɐ
-għad	ˤ ː ɐ d
-għad-danni	ˤ ː ɐ d d ɐ n n ɪ
-għad-danni.	ˤ ː ɐ d d ɐ n n ɪ
-għad-dannu	ˤ ː ɐ d d ɐ n n ʊ
-għad-dipartiment	ˤ ː ɐ d d ɪ p ɐ r t ɪ m ɛ n t
-għad-diskors	ˤ ː ɐ d d ɪ s k ɔ r s
-għad-diskussjoni	ˤ ː ɐ d d ɪ s k ʊ s s j ɔ n ɪ
-għad-djar	ˤ ː ɐ d d j ɐ r
-għad-domanda	ˤ ː ɐ d d ɔ m ɐ n d ɐ
-għad-drittijiet	ˤ ː ɐ d d r ɪ t t ɪ j i ɛ t
-għad-dħul	ˤ ː ɐ d d ħ ʊ l
-għada	ˤ ː ɐ d ɐ
-għada.	ˤ ː ɐ d ɐ
-għada?	ˤ ː ɐ d ɐ
-għadd	ˤ ː ɐ d d
-għadda	ˤ ː ɐ d d ɐ
-għadda!	ˤ ː ɐ d d ɐ
-għadda,	ˤ ː ɐ d d ɐ
-għadda.	ˤ ː ɐ d d ɐ
-għadda?	ˤ ː ɐ d d ɐ
-għaddas	ˤ ː ɐ d d ɐ s
-għaddej	ˤ ː ɐ d d ɛ j
-għaddej.	ˤ ː ɐ d d ɛ j
-għaddej?	ˤ ː ɐ d d ɛ j
-għaddejja	ˤ ː ɐ d d ɛ j j ɐ
-għaddejja.	ˤ ː ɐ d d ɛ j j ɐ
-għaddejjin	ˤ ː ɐ d d ɛ j j ɪ n
-għaddejjin.	ˤ ː ɐ d d ɛ j j ɪ n
-għaddejna.	ˤ ː ɐ d d ɛ j n ɐ
-għaddejt	ˤ ː ɐ d d ɛ j t
-għaddew	ˤ ː ɐ d d ɛ w
-għaddielha	ˤ ː ɐ d d i ɛ l ɐ
-għaddiet	ˤ ː ɐ d d i ɛ t
-għaddiet.	ˤ ː ɐ d d i ɛ t
-għaddiet?	ˤ ː ɐ d d i ɛ t
-għadditilha	ˤ ː ɐ d d ɪ t ɪ l ɐ
-għadek	ˤ ː ɐ d ɛ k
-għadha	ˤ ː ɐ d ɐ
-għadhom	ˤ ː ɐ d ɔ m
-għadkom	ˤ ː ɐ d k ɔ m
-għadna	ˤ ː ɐ d n ɐ
-għadni	ˤ ː ɐ d n ɪ
-għadu	ˤ ː ɐ d ʊ
-għaffġu	ˤ ː ɐ f f d͡ʒ ʊ
-għajjartuna	ˤ ː ɐ j j ɐ r t ʊ n ɐ
-għajn	ˤ ː ɐ j n
-għajnejh	ˤ ː ɐ j n ɛ j h
-għajnejh.	ˤ ː ɐ j n ɛ j
-għajnejk	ˤ ː ɐ j n ɛ j k
-għajnejk.	ˤ ː ɐ j n ɛ j k
-għajnuna	ˤ ː ɐ j n ʊ n ɐ
-għal	ˤ ː ɐ l
-għal-laqgħa	ˤ ː ɐ l l ɐ ʔ ˤ ː ɐ
-għal-legal	ˤ ː ɐ l l ɛ ɡ ɐ l
-għal-lingwa	ˤ ː ɐ l l ɪ n ɡ w ɐ
-għal-liġi	ˤ ː ɐ l l ɪ d͡ʒ ɪ
-għal-lum	ˤ ː ɐ l l ʊ m
-għala	ˤ ː ɐ l ɐ
-għaldaqstant	ˤ ː ɐ l d ɐ ʔ s t ɐ n t
-għaldaqstant,	ˤ ː ɐ l d ɐ ʔ s t ɐ n t
-għalfejn	ˤ ː ɐ l f ɛ j n
-għalfejn,	ˤ ː ɐ l f ɛ j n
-għalfejn.	ˤ ː ɐ l f ɛ j n
-għalhekk	ˤ ː ɐ l ɛ k k
-għalhekk,	ˤ ː ɐ l ɛ k k
-għaliex	ˤ ː ɐ l i ɛ ʃ
-għaliex,	ˤ ː ɐ l i ɛ ʃ
-għaliex.	ˤ ː ɐ l i ɛ ʃ
-għaliex?	ˤ ː ɐ l i ɛ ʃ
-għalih	ˤ ː ɐ l ɪ h
-għalih!	ˤ ː ɐ l ɪ
-għalih.	ˤ ː ɐ l ɪ
-għalih?	ˤ ː ɐ l ɪ
-għaliha	ˤ ː ɐ l ɪ ɐ
-għaliha,	ˤ ː ɐ l ɪ ɐ
-għaliha.	ˤ ː ɐ l ɪ ɐ
-għaliha?	ˤ ː ɐ l ɪ ɐ
-għalihom	ˤ ː ɐ l ɪ ɔ m
-għalihom.	ˤ ː ɐ l ɪ ɔ m
-għalihom?	ˤ ː ɐ l ɪ ɔ m
-għalija	ˤ ː ɐ l ɪ j ɐ
-għalija.	ˤ ː ɐ l ɪ j ɐ
-għalik	ˤ ː ɐ l ɪ k
-għalik?	ˤ ː ɐ l ɪ k
-għalikom.	ˤ ː ɐ l ɪ k ɔ m
-għalina	ˤ ː ɐ l ɪ n ɐ
-għalina.	ˤ ː ɐ l ɪ n ɐ
-għalissa	ˤ ː ɐ l ɪ s s ɐ
-għalissa,	ˤ ː ɐ l ɪ s s ɐ
-għalkemm	ˤ ː ɐ l k ɛ m m
-għall-afrikani.	ˤ ː ɐ l l ɐ f r ɪ k ɐ n ɪ
-għall-akkużi	ˤ ː ɐ l l ɐ k k ʊ z ɪ
-għall-akkużi.	ˤ ː ɐ l l ɐ k k ʊ z ɪ
-għall-ambjent	ˤ ː ɐ l l ɐ m b j ɛ n t
-għall-anatomija	ˤ ː ɐ l l ɐ n ɐ t ɔ m ɪ j ɐ
-għall-anniversarji.	ˤ ː ɐ l l ɐ n n ɪ v ɛ r s ɐ r j ɪ
-għall-anzjani.	ˤ ː ɐ l l ɐ n t͡s j ɐ n ɪ
-għall-anzjani?	ˤ ː ɐ l l ɐ n t͡s j ɐ n ɪ
-għall-apparat	ˤ ː ɐ l l ɐ p p ɐ r ɐ t
-għall-applikazzjoni.	ˤ ː ɐ l l ɐ p p l ɪ k ɐ t͡s t͡s j ɔ n ɪ
-għall-artiġjanat	ˤ ː ɐ l l ɐ r t ɪ d͡ʒ j ɐ n ɐ t
-għall-assistenza	ˤ ː ɐ l l ɐ s s ɪ s t ɛ n t͡s ɐ
-għall-attività	ˤ ː ɐ l l ɐ t t ɪ v ɪ t ɐ
-għall-aħjar	ˤ ː ɐ l l ɐ ħ j ɐ r
-għall-aħjar.	ˤ ː ɐ l l ɐ ħ j ɐ r
-għall-aħħar	ˤ ː ɐ l l ɐ ħ ħ ɐ r
-għall-baħar.	ˤ ː ɐ l l b ɐ ħ ɐ r
-għall-bejgħ	ˤ ː ɐ l l b ɛ j ħː
-għall-bejgħ.	ˤ ː ɐ l l b ɛ jˤː
-għall-belt	ˤ ː ɐ l l b ɛ l t
-għall-benefiċċju	ˤ ː ɐ l l b ɛ n ɛ f ɪ t͡ʃ t͡ʃ j ʊ
-għall-berġa	ˤ ː ɐ l l b ɛ r d͡ʒ ɐ
-għall-bieraħ.	ˤ ː ɐ l l b i ɛ r ɐ ħ
-għall-bini	ˤ ː ɐ l l b ɪ n ɪ
-għall-biża'	ˤ ː ɐ l l b ɪ z ɐ
-għall-btajjel	ˤ ː ɐ l l b t ɐ j j ɛ l
-għall-budget	ˤ ː ɐ l l b ʊ d ɡ ɛ t
-għall-educational	ˤ ː ɐ l l ɛ d ʊ c ɐ t ɪ ɔ n ɐ l
-għall-edukazzjoni	ˤ ː ɐ l l ɛ d ʊ k ɐ t͡s t͡s j ɔ n ɪ
-għall-ekonomija	ˤ ː ɐ l l ɛ k ɔ n ɔ m ɪ j ɐ
-għall-elezzjoni	ˤ ː ɐ l l ɛ l ɛ t͡s t͡s j ɔ n ɪ
-għall-età	ˤ ː ɐ l l ɛ t ɐ
-għall-ewro.	ˤ ː ɐ l l ɛ w r ɔ
-għall-ewwel	ˤ ː ɐ l l ɛ w w ɛ l
-għall-fabbriki	ˤ ː ɐ l l f ɐ b b r ɪ k ɪ
-għall-familja	ˤ ː ɐ l l f ɐ m ɪ l j ɐ
-għall-finanzi	ˤ ː ɐ l l f ɪ n ɐ n t͡s ɪ
-għall-finanzi,	ˤ ː ɐ l l f ɪ n ɐ n t͡s ɪ
-għall-fini	ˤ ː ɐ l l f ɪ n ɪ
-għall-flus!	ˤ ː ɐ l l f l ʊ s
-għall-franċiżi	ˤ ː ɐ l l f r ɐ n t͡ʃ ɪ z ɪ
-għall-futur	ˤ ː ɐ l l f ʊ t ʊ r
-għall-futur?	ˤ ː ɐ l l f ʊ t ʊ r
-għall-gender	ˤ ː ɐ l l ɡ ɛ n d ɛ r
-għall-grazzja	ˤ ː ɐ l l ɡ r ɐ t͡s t͡s j ɐ
-għall-gruppi	ˤ ː ɐ l l ɡ r ʊ p p ɪ
-għall-gvern	ˤ ː ɐ l l ɡ v ɛ r n
-għall-għajnuna	ˤ ː ɐ l l ˤ ː ɐ j n ʊ n ɐ
-għall-għasel.	ˤ ː ɐ l l ˤ ː ɐ s ɛ l
-għall-għawdxin.	ˤ ː ɐ l l ˤ ː ɐ w d ʃ ɪ n
-għall-għoti	ˤ ː ɐ l l ˤ ː ɔ t ɪ
-għall-immigranti.	ˤ ː ɐ l l ɪ m m ɪ ɡ r ɐ n t ɪ
-għall-impjieg?	ˤ ː ɐ l l ɪ m p j i ɛ ɡ
-għall-industrija.	ˤ ː ɐ l l ɪ n d ʊ s t r ɪ j ɐ
-għall-informazzjoni	ˤ ː ɐ l l ɪ n f ɔ r m ɐ t͡s t͡s j ɔ n ɪ
-għall-insara	ˤ ː ɐ l l ɪ n s ɐ r ɐ
-għall-interpretazzjoni.	ˤ ː ɐ l l ɪ n t ɛ r p r ɛ t ɐ t͡s t͡s j ɔ n ɪ
-għall-intrapriżi	ˤ ː ɐ l l ɪ n t r ɐ p r ɪ z ɪ
-għall-intrapriżi.	ˤ ː ɐ l l ɪ n t r ɐ p r ɪ z ɪ
-għall-investiment	ˤ ː ɐ l l ɪ n v ɛ s t ɪ m ɛ n t
-għall-inċident.	ˤ ː ɐ l l ɪ n t͡ʃ ɪ d ɛ n t
-għall-irġiel	ˤ ː ɐ l l ɪ r d͡ʒ i ɛ l
-għall-iskrappjar	ˤ ː ɐ l l ɪ s k r ɐ p p j ɐ r
-għall-ispejjeż	ˤ ː ɐ l l ɪ s p ɛ j j ɛ z
-għall-isport.	ˤ ː ɐ l l ɪ s p ɔ r t
-għall-istabbiltà	ˤ ː ɐ l l ɪ s t ɐ b b ɪ l t ɐ
-għall-istampa?	ˤ ː ɐ l l ɪ s t ɐ m p ɐ
-għall-istatistika.	ˤ ː ɐ l l ɪ s t ɐ t ɪ s t ɪ k ɐ
-għall-istaġun	ˤ ː ɐ l l ɪ s t ɐ d͡ʒ ʊ n
-għall-istess	ˤ ː ɐ l l ɪ s t ɛ s s
-għall-istrina.	ˤ ː ɐ l l ɪ s t r ɪ n ɐ
-għall-istudenti	ˤ ː ɐ l l ɪ s t ʊ d ɛ n t ɪ
-għall-item	ˤ ː ɐ l l ɪ t ɛ m
-għall-iżvilupp.	ˤ ː ɐ l l ɪ z v ɪ l ʊ p p
-għall-kampjonat	ˤ ː ɐ l l k ɐ m p j ɔ n ɐ t
-għall-kant?	ˤ ː ɐ l l k ɐ n t
-għall-karatterestiċi	ˤ ː ɐ l l k ɐ r ɐ t t ɛ r ɛ s t ɪ t͡ʃ ɪ
-għall-karità.	ˤ ː ɐ l l k ɐ r ɪ t ɐ
-għall-kaċċaturi?	ˤ ː ɐ l l k ɐ t͡ʃ t͡ʃ ɐ t ʊ r ɪ
-għall-kliem	ˤ ː ɐ l l k l i ɛ m
-għall-knisja.	ˤ ː ɐ l l k n ɪ s j ɐ
-għall-konferenzi.	ˤ ː ɐ l l k ɔ n f ɛ r ɛ n t͡s ɪ
-għall-konfiska	ˤ ː ɐ l l k ɔ n f ɪ s k ɐ
-għall-konservazzjoni	ˤ ː ɐ l l k ɔ n s ɛ r v ɐ t͡s t͡s j ɔ n ɪ
-għall-konsiderazzjoni	ˤ ː ɐ l l k ɔ n s ɪ d ɛ r ɐ t͡s t͡s j ɔ n ɪ
-għall-konsumaturi	ˤ ː ɐ l l k ɔ n s ʊ m ɐ t ʊ r ɪ
-għall-kontenut	ˤ ː ɐ l l k ɔ n t ɛ n ʊ t
-għall-korruzzjoni.	ˤ ː ɐ l l k ɔ r r ʊ t͡s t͡s j ɔ n ɪ
-għall-ksur	ˤ ː ɐ l l k s ʊ r
-għall-kumplament	ˤ ː ɐ l l k ʊ m p l ɐ m ɛ n t
-għall-kumplament,	ˤ ː ɐ l l k ʊ m p l ɐ m ɛ n t
-għall-kundizzjoni	ˤ ː ɐ l l k ʊ n d ɪ t͡s t͡s j ɔ n ɪ
-għall-kunsilli	ˤ ː ɐ l l k ʊ n s ɪ l l ɪ
-għall-kuntrarju,	ˤ ː ɐ l l k ʊ n t r ɐ r j ʊ
-għall-kura	ˤ ː ɐ l l k ʊ r ɐ
-għall-kura.	ˤ ː ɐ l l k ʊ r ɐ
-għall-kwestjoni	ˤ ː ɐ l l k w ɛ s t j ɔ n ɪ
-għall-marid.	ˤ ː ɐ l l m ɐ r ɪ d
-għall-marsa.	ˤ ː ɐ l l m ɐ r s ɐ
-għall-mezzi	ˤ ː ɐ l l m ɛ t͡s t͡s ɪ
-għall-missjonijiet	ˤ ː ɐ l l m ɪ s s j ɔ n ɪ j i ɛ t
-għall-mistoqsijiet	ˤ ː ɐ l l m ɪ s t ɔ ʔ s ɪ j i ɛ t
-għall-mod	ˤ ː ɐ l l m ɔ d
-għall-mudell	ˤ ː ɐ l l m ʊ d ɛ l l
-għall-multi	ˤ ː ɐ l l m ʊ l t ɪ
-għall-mument	ˤ ː ɐ l l m ʊ m ɛ n t
-għall-offerti.	ˤ ː ɐ l l ɔ f f ɛ r t ɪ
-għall-okkażjoni	ˤ ː ɐ l l ɔ k k ɐ z j ɔ n ɪ
-għall-oppożizzjoni	ˤ ː ɐ l l ɔ p p ɔ z ɪ t͡s t͡s j ɔ n ɪ
-għall-outreach	ˤ ː ɐ l l ɔ ʊ t r ɛ ɐ c h
-għall-oħrajn.	ˤ ː ɐ l l ɔ ħ r ɐ j n
-għall-pajjiż.	ˤ ː ɐ l l p ɐ j j ɪ z
-għall-pakkett	ˤ ː ɐ l l p ɐ k k ɛ t t
-għall-pakkett.	ˤ ː ɐ l l p ɐ k k ɛ t t
-għall-palk?	ˤ ː ɐ l l p ɐ l k
-għall-parlament	ˤ ː ɐ l l p ɐ r l ɐ m ɛ n t
-għall-parlament!	ˤ ː ɐ l l p ɐ r l ɐ m ɛ n t
-għall-partijiet?	ˤ ː ɐ l l p ɐ r t ɪ j i ɛ t
-għall-pazjenti	ˤ ː ɐ l l p ɐ t͡s j ɛ n t ɪ
-għall-paċi.	ˤ ː ɐ l l p ɐ t͡ʃ ɪ
-għall-policy	ˤ ː ɐ l l p ɔ l ɪ c y
-għall-politika	ˤ ː ɐ l l p ɔ l ɪ t ɪ k ɐ
-għall-poter.	ˤ ː ɐ l l p ɔ t ɛ r
-għall-president	ˤ ː ɐ l l p r ɛ s ɪ d ɛ n t
-għall-president.	ˤ ː ɐ l l p r ɛ s ɪ d ɛ n t
-għall-presidenza.	ˤ ː ɐ l l p r ɛ s ɪ d ɛ n t͡s ɐ
-għall-prim	ˤ ː ɐ l l p r ɪ m
-għall-privatizzazzjoni	ˤ ː ɐ l l p r ɪ v ɐ t ɪ t͡s t͡s ɐ t͡s t͡s j ɔ n ɪ
-għall-programm	ˤ ː ɐ l l p r ɔ ɡ r ɐ m m
-għall-pubbliku	ˤ ː ɐ l l p ʊ b b l ɪ k ʊ
-għall-pubbliku,	ˤ ː ɐ l l p ʊ b b l ɪ k ʊ
-għall-punt	ˤ ː ɐ l l p ʊ n t
-għall-punti	ˤ ː ɐ l l p ʊ n t ɪ
-għall-qasam	ˤ ː ɐ l l ʔ ɐ s ɐ m
-għall-qassisin	ˤ ː ɐ l l ʔ ɐ s s ɪ s ɪ n
-għall-quddiesa	ˤ ː ɐ l l ʔ ʊ d d i ɛ s ɐ
-għall-uffiċini	ˤ ː ɐ l l ʊ f f ɪ t͡ʃ ɪ n ɪ
-għall-użu	ˤ ː ɐ l l ʊ z ʊ
-għall-vetturi	ˤ ː ɐ l l v ɛ t t ʊ r ɪ
-għall-vjolenza.	ˤ ː ɐ l l v j ɔ l ɛ n t͡s ɐ
-għall-whistleblower.	ˤ ː ɐ l l w ɪ s t l ɛ b l ɔ w ɛ r
-għall-wiri	ˤ ː ɐ l l w ɪ r ɪ
-għall-ġid	ˤ ː ɐ l l d͡ʒ ɪ d
-għall-ġimgħat	ˤ ː ɐ l l d͡ʒ ɪ mˤː ɐ t
-għall-ħabta	ˤ ː ɐ l l ħ ɐ b t ɐ
-għall-ħajja	ˤ ː ɐ l l ħ ɐ j j ɐ
-għall-ħidma	ˤ ː ɐ l l ħ ɪ d m ɐ
-għall-ħsieb	ˤ ː ɐ l l ħ s i ɛ b
-għalliema	ˤ ː ɐ l l i ɛ m ɐ
-għallmitni	ˤ ː ɐ l l m ɪ t n ɪ
-għallmitu	ˤ ː ɐ l l m ɪ t ʊ
-għallmuna	ˤ ː ɐ l l m ʊ n ɐ
-għallquha	ˤ ː ɐ l l ʔ ʊ ɐ
-għalqet	ˤ ː ɐ l ʔ ɛ t
-għalqitx?	ˤ ː ɐ l ʔ ɪ t ʃ
-għalxejn	ˤ ː ɐ l ʃ ɛ j n
-għalxiex	ˤ ː ɐ l ʃ i ɛ ʃ
-għamel	ˤ ː ɐ m ɛ l
-għamel.	ˤ ː ɐ m ɛ l
-għamilhom	ˤ ː ɐ m ɪ l ɔ m
-għamilna	ˤ ː ɐ m ɪ l n ɐ
-għamilna.	ˤ ː ɐ m ɪ l n ɐ
-għamilna?	ˤ ː ɐ m ɪ l n ɐ
-għamilnieh	ˤ ː ɐ m ɪ l n i ɛ h
-għamilniex	ˤ ː ɐ m ɪ l n i ɛ ʃ
-għamilt	ˤ ː ɐ m ɪ l t
-għamilthom	ˤ ː ɐ m ɪ l t ɔ m
-għamiltu	ˤ ː ɐ m ɪ l t ʊ
-għamiltuh	ˤ ː ɐ m ɪ l t ʊ h
-għamiltux	ˤ ː ɐ m ɪ l t ʊ ʃ
-għamlet	ˤ ː ɐ m l ɛ t
-għamlu	ˤ ː ɐ m l ʊ
-għamlu.	ˤ ː ɐ m l ʊ
-għamluh	ˤ ː ɐ m l ʊ h
-għamlux	ˤ ː ɐ m l ʊ ʃ
-għammidthomlu	ˤ ː ɐ m m ɪ d t ɔ m l ʊ
-għan	ˤ ː ɐ n
-għan-naħa	ˤ ː ɐ n n ɐ ħ ɐ
-għan-nies	ˤ ː ɐ n n i ɛ s
-għan-nies.	ˤ ː ɐ n n i ɛ s
-għan-nisa.	ˤ ː ɐ n n ɪ s ɐ
-għan-normal.	ˤ ː ɐ n n ɔ r m ɐ l
-għand	ˤ ː ɐ n d
-għandek	ˤ ː ɐ n d ɛ k
-għandek?	ˤ ː ɐ n d ɛ k
-għandha	ˤ ː ɐ n d ɐ
-għandhom	ˤ ː ɐ n d ɔ m
-għandhom.	ˤ ː ɐ n d ɔ m
-għandhon	ˤ ː ɐ n d ɔ n
-għandi	ˤ ː ɐ n d ɪ
-għandi.	ˤ ː ɐ n d ɪ
-għandkom	ˤ ː ɐ n d k ɔ m
-għandkom?	ˤ ː ɐ n d k ɔ m
-għandkomx	ˤ ː ɐ n d k ɔ m ʃ
-għandna	ˤ ː ɐ n d n ɐ
-għandna!	ˤ ː ɐ n d n ɐ
-għandna,	ˤ ː ɐ n d n ɐ
-għandna.	ˤ ː ɐ n d n ɐ
-għandniex	ˤ ː ɐ n d n i ɛ ʃ
-għandu	ˤ ː ɐ n d ʊ
-għandu!	ˤ ː ɐ n d ʊ
-għandu.	ˤ ː ɐ n d ʊ
-għandux	ˤ ː ɐ n d ʊ ʃ
-għanijiet	ˤ ː ɐ n ɪ j i ɛ t
-għannqitu,	ˤ ː ɐ n n ʔ ɪ t ʊ
-għaqal	ˤ ː ɐ ʔ ɐ l
-għaqda	ˤ ː ɐ ʔ d ɐ
-għaqda.	ˤ ː ɐ ʔ d ɐ
-għaqdiet	ˤ ː ɐ ʔ d i ɛ t
-għaqdiet.	ˤ ː ɐ ʔ d i ɛ t
-għaqli	ˤ ː ɐ ʔ l ɪ
-għaqli.	ˤ ː ɐ ʔ l ɪ
-għar-raba'	ˤ ː ɐ r r ɐ b ɐ
-għar-rabtin	ˤ ː ɐ r r ɐ b t ɪ n
-għar-rapport.	ˤ ː ɐ r r ɐ p p ɔ r t
-għar-remission?	ˤ ː ɐ r r ɛ m ɪ s s ɪ ɔ n
-għar-roster	ˤ ː ɐ r r ɔ s t ɛ r
-għaraft	ˤ ː ɐ r ɐ f t
-għaref.	ˤ ː ɐ r ɛ f
-għargħar.	ˤ ː ɐ rˤː ɐ r
-għarrali.	ˤ ː ɐ r r ɐ l ɪ
-għarukaża.	ˤ ː ɐ r ʊ k ɐ z ɐ
-għas-sagramenti.	ˤ ː ɐ s s ɐ ɡ r ɐ m ɛ n t ɪ
-għas-sajf	ˤ ː ɐ s s ɐ j f
-għas-sapport	ˤ ː ɐ s s ɐ p p ɔ r t
-għas-saċerdozju.	ˤ ː ɐ s s ɐ t͡ʃ ɛ r d ɔ t͡s j ʊ
-għas-saħħa	ˤ ː ɐ s s ɐ ħ ħ ɐ
-għas-saħħa,	ˤ ː ɐ s s ɐ ħ ħ ɐ
-għas-saħħa.	ˤ ː ɐ s s ɐ ħ ħ ɐ
-għas-sena	ˤ ː ɐ s s ɛ n ɐ
-għas-sens	ˤ ː ɐ s s ɛ n s
-għas-sensazzjonaliżmu.	ˤ ː ɐ s s ɛ n s ɐ t͡s t͡s j ɔ n ɐ l ɪ z m ʊ
-għas-servizz	ˤ ː ɐ s s ɛ r v ɪ t͡s t͡s
-għas-servizzi	ˤ ː ɐ s s ɛ r v ɪ t͡s t͡s ɪ
-għas-settur	ˤ ː ɐ s s ɛ t t ʊ r
-għas-sigurta'	ˤ ː ɐ s s ɪ ɡ ʊ r t ɐ
-għas-sigurtà	ˤ ː ɐ s s ɪ ɡ ʊ r t ɐ
-għas-soċjetà	ˤ ː ɐ s s ɔ t͡ʃ j ɛ t ɐ
-għas-suċċess	ˤ ː ɐ s s ʊ t͡ʃ t͡ʃ ɛ s s
-għasafar	ˤ ː ɐ s ɐ f ɐ r
-għases.	ˤ ː ɐ s ɛ s
-għasfur	ˤ ː ɐ s f ʊ r
-għassa	ˤ ː ɐ s s ɐ
-għat-talb	ˤ ː ɐ t t ɐ l b
-għat-tazza	ˤ ː ɐ t t ɐ t͡s t͡s ɐ
-għat-tfal	ˤ ː ɐ t t f ɐ l
-għat-tfal,	ˤ ː ɐ t t f ɐ l
-għat-tfal.	ˤ ː ɐ t t f ɐ l
-għat-tfal?	ˤ ː ɐ t t f ɐ l
-għat-tielet	ˤ ː ɐ t t i ɛ l ɛ t
-għat-tim.	ˤ ː ɐ t t ɪ m
-għat-tkabbir	ˤ ː ɐ t t k ɐ b b ɪ r
-għat-tnaqqis	ˤ ː ɐ t t n ɐ ʔ ʔ ɪ s
-għat-tnejn.	ˤ ː ɐ t t n ɛ j n
-għat-tneħħija	ˤ ː ɐ t t n ɛ ħ ħ ɪ j ɐ
-għat-tpinġija?	ˤ ː ɐ t t p ɪ n d͡ʒ ɪ j ɐ
-għat-traffiku	ˤ ː ɐ t t r ɐ f f ɪ k ʊ
-għat-traffiku.	ˤ ː ɐ t t r ɐ f f ɪ k ʊ
-għat-trasport	ˤ ː ɐ t t r ɐ s p ɔ r t
-għat-turiżmu.	ˤ ː ɐ t t ʊ r ɪ z m ʊ
-għat-tħaddim	ˤ ː ɐ t t ħ ɐ d d ɪ m
-għattew	ˤ ː ɐ t t ɛ w
-għatx	ˤ ː ɐ t ʃ
-għawdex	ˤ ː ɐ w d ɛ ʃ
-għawdex.	ˤ ː ɐ w d ɛ ʃ
-għawdex?	ˤ ː ɐ w d ɛ ʃ
-għawdxi	ˤ ː ɐ w d ʃ ɪ
-għawdxija.	ˤ ː ɐ w d ʃ ɪ j ɐ
-għawdxin!	ˤ ː ɐ w d ʃ ɪ n
-għawdxin?	ˤ ː ɐ w d ʃ ɪ n
-għax	ˤ ː ɐ ʃ
-għax-xahar	ˤ ː ɐ ʃ ʃ ɐ ɐ r
-għax-xhieda	ˤ ː ɐ ʃ ʃ i ɛ d ɐ
-għax-xiri;	ˤ ː ɐ ʃ ʃ ɪ r ɪ
-għax-xitwa.	ˤ ː ɐ ʃ ʃ ɪ t w ɐ
-għax-xogħol	ˤ ː ɐ ʃ ʃ ɔˤː ɔ l
-għax-xorb	ˤ ː ɐ ʃ ʃ ɔ r b
-għaxar	ˤ ː ɐ ʃ ɐ r
-għaxart	ˤ ː ɐ ʃ ɐ r t
-għaċ-ċelebrazzjonijiet	ˤ ː ɐ t͡ʃ t͡ʃ ɛ l ɛ b r ɐ t͡s t͡s j ɔ n ɪ j i ɛ t
-għaġla.	ˤ ː ɐ d͡ʒ l ɐ
-għaż-żgħażagħ.	ˤ ː ɐ z zˤː ɐ z ɐˤː
-għaż-żwieġ.	ˤ ː ɐ z z w i ɛ d͡ʒ
-għażilna	ˤ ː ɐ z ɪ l n ɐ
-għażilt	ˤ ː ɐ z ɪ l t
-għażla	ˤ ː ɐ z l ɐ
-għażla.	ˤ ː ɐ z l ɐ
-għażlet	ˤ ː ɐ z l ɛ t
-għażliet	ˤ ː ɐ z l i ɛ t
-għażlu	ˤ ː ɐ z l ʊ
-għebet.	ˤ ː ɛ b ɛ t
-għedna	ˤ ː ɛ d n ɐ
-għedna.	ˤ ː ɛ d n ɐ
-għedt	ˤ ː ɛ d t
-għedt,	ˤ ː ɛ d t
-għedt:	ˤ ː ɛ d t
-għedtilha.	ˤ ː ɛ d t ɪ l ɐ
-għedtilkom	ˤ ː ɛ d t ɪ l k ɔ m
-għedtlek	ˤ ː ɛ d t l ɛ k
-għedtlu	ˤ ː ɛ d t l ʊ
-għedtuli.	ˤ ː ɛ d t ʊ l ɪ
-għeja,	ˤ ː ɛ j ɐ
-għelbu	ˤ ː ɛ l b ʊ
-għeluq	ˤ ː ɛ l ʊ ʔ
-għemilha	ˤ ː ɛ m ɪ l ɐ
-għen	ˤ ː ɛ n
-għenithom.	ˤ ː ɛ n ɪ t ɔ m
-għenna	ˤ ː ɛ n n ɐ
-għereq.	ˤ ː ɛ r ɛ ʔ
-għex	ˤ ː ɛ ʃ
-għexnieh	ˤ ː ɛ ʃ n i ɛ h
-għidilhom	ˤ ː ɪ d ɪ l ɔ m
-għidilna	ˤ ː ɪ d ɪ l n ɐ
-għidli	ˤ ː ɪ d l ɪ
-għidt	ˤ ː ɪ d t
-għidt!	ˤ ː ɪ d t
-għidtilha	ˤ ː ɪ d t ɪ l ɐ
-għidtlek,	ˤ ː ɪ d t l ɛ k
-għinni	ˤ ː ɪ n n ɪ
-għodda	ˤ ː ɔ d d ɐ
-għoli	ˤ ː ɔ l ɪ
-għolja	ˤ ː ɔ l j ɐ
-għolja.	ˤ ː ɔ l j ɐ
-għolla	ˤ ː ɔ l l ɐ
-għollejtha,	ˤ ː ɔ l l ɛ j t ɐ
-għollewhom.	ˤ ː ɔ l l ɛ w ɔ m
-għonqok	ˤ ː ɔ n ʔ ɔ k
-għoxrin	ˤ ː ɔ ʃ r ɪ n
+għad	ˤː ɐ d
+għad-danni	ˤː ɐ d d ɐ n n ɪ
+għad-danni.	ˤː ɐ d d ɐ n n ɪ
+għad-dannu	ˤː ɐ d d ɐ n n ʊ
+għad-dipartiment	ˤː ɐ d d ɪ p ɐ r t ɪ m ɛ n t
+għad-diskors	ˤː ɐ d d ɪ s k ɔ r s
+għad-diskussjoni	ˤː ɐ d d ɪ s k ʊ s s j ɔ n ɪ
+għad-djar	ˤː ɐ d d j ɐ r
+għad-domanda	ˤː ɐ d d ɔ m ɐ n d ɐ
+għad-drittijiet	ˤː ɐ d d r ɪ t t ɪ j i ɛ t
+għad-dħul	ˤː ɐ d d ħ ʊ l
+għada	ˤː ɐ d ɐ
+għada.	ˤː ɐ d ɐ
+għada?	ˤː ɐ d ɐ
+għadd	ˤː ɐ d d
+għadda	ˤː ɐ d d ɐ
+għadda!	ˤː ɐ d d ɐ
+għadda,	ˤː ɐ d d ɐ
+għadda.	ˤː ɐ d d ɐ
+għadda?	ˤː ɐ d d ɐ
+għaddas	ˤː ɐ d d ɐ s
+għaddej	ˤː ɐ d d ɛ j
+għaddej.	ˤː ɐ d d ɛ j
+għaddej?	ˤː ɐ d d ɛ j
+għaddejja	ˤː ɐ d d ɛ j j ɐ
+għaddejja.	ˤː ɐ d d ɛ j j ɐ
+għaddejjin	ˤː ɐ d d ɛ j j ɪ n
+għaddejjin.	ˤː ɐ d d ɛ j j ɪ n
+għaddejna.	ˤː ɐ d d ɛ j n ɐ
+għaddejt	ˤː ɐ d d ɛ j t
+għaddew	ˤː ɐ d d ɛ w
+għaddielha	ˤː ɐ d d i ɛ l ɐ
+għaddiet	ˤː ɐ d d i ɛ t
+għaddiet.	ˤː ɐ d d i ɛ t
+għaddiet?	ˤː ɐ d d i ɛ t
+għadditilha	ˤː ɐ d d ɪ t ɪ l ɐ
+għadek	ˤː ɐ d ɛ k
+għadha	ˤː ɐ d ɐ
+għadhom	ˤː ɐ d ɔ m
+għadkom	ˤː ɐ d k ɔ m
+għadna	ˤː ɐ d n ɐ
+għadni	ˤː ɐ d n ɪ
+għadu	ˤː ɐ d ʊ
+għaffġu	ˤː ɐ f f d͡ʒ ʊ
+għajjartuna	ˤː ɐ j j ɐ r t ʊ n ɐ
+għajn	ˤː ɐ j n
+għajnejh	ˤː ɐ j n ɛ j h
+għajnejh.	ˤː ɐ j n ɛ j
+għajnejk	ˤː ɐ j n ɛ j k
+għajnejk.	ˤː ɐ j n ɛ j k
+għajnuna	ˤː ɐ j n ʊ n ɐ
+għal	ˤː ɐ l
+għal-laqgħa	ˤː ɐ l l ɐ ʔˤː ɐ
+għal-legal	ˤː ɐ l l ɛ ɡ ɐ l
+għal-lingwa	ˤː ɐ l l ɪ n ɡ w ɐ
+għal-liġi	ˤː ɐ l l ɪ d͡ʒ ɪ
+għal-lum	ˤː ɐ l l ʊ m
+għala	ˤː ɐ l ɐ
+għaldaqstant	ˤː ɐ l d ɐ ʔ s t ɐ n t
+għaldaqstant,	ˤː ɐ l d ɐ ʔ s t ɐ n t
+għalfejn	ˤː ɐ l f ɛ j n
+għalfejn,	ˤː ɐ l f ɛ j n
+għalfejn.	ˤː ɐ l f ɛ j n
+għalhekk	ˤː ɐ l ɛ k k
+għalhekk,	ˤː ɐ l ɛ k k
+għaliex	ˤː ɐ l i ɛ ʃ
+għaliex,	ˤː ɐ l i ɛ ʃ
+għaliex.	ˤː ɐ l i ɛ ʃ
+għaliex?	ˤː ɐ l i ɛ ʃ
+għalih	ˤː ɐ l ɪ h
+għalih!	ˤː ɐ l ɪ
+għalih.	ˤː ɐ l ɪ
+għalih?	ˤː ɐ l ɪ
+għaliha	ˤː ɐ l ɪ ɐ
+għaliha,	ˤː ɐ l ɪ ɐ
+għaliha.	ˤː ɐ l ɪ ɐ
+għaliha?	ˤː ɐ l ɪ ɐ
+għalihom	ˤː ɐ l ɪ ɔ m
+għalihom.	ˤː ɐ l ɪ ɔ m
+għalihom?	ˤː ɐ l ɪ ɔ m
+għalija	ˤː ɐ l ɪ j ɐ
+għalija.	ˤː ɐ l ɪ j ɐ
+għalik	ˤː ɐ l ɪ k
+għalik?	ˤː ɐ l ɪ k
+għalikom.	ˤː ɐ l ɪ k ɔ m
+għalina	ˤː ɐ l ɪ n ɐ
+għalina.	ˤː ɐ l ɪ n ɐ
+għalissa	ˤː ɐ l ɪ s s ɐ
+għalissa,	ˤː ɐ l ɪ s s ɐ
+għalkemm	ˤː ɐ l k ɛ m m
+għall-afrikani.	ˤː ɐ l l ɐ f r ɪ k ɐ n ɪ
+għall-akkużi	ˤː ɐ l l ɐ k k ʊ z ɪ
+għall-akkużi.	ˤː ɐ l l ɐ k k ʊ z ɪ
+għall-ambjent	ˤː ɐ l l ɐ m b j ɛ n t
+għall-anatomija	ˤː ɐ l l ɐ n ɐ t ɔ m ɪ j ɐ
+għall-anniversarji.	ˤː ɐ l l ɐ n n ɪ v ɛ r s ɐ r j ɪ
+għall-anzjani.	ˤː ɐ l l ɐ n t͡s j ɐ n ɪ
+għall-anzjani?	ˤː ɐ l l ɐ n t͡s j ɐ n ɪ
+għall-apparat	ˤː ɐ l l ɐ p p ɐ r ɐ t
+għall-applikazzjoni.	ˤː ɐ l l ɐ p p l ɪ k ɐ t͡s t͡s j ɔ n ɪ
+għall-artiġjanat	ˤː ɐ l l ɐ r t ɪ d͡ʒ j ɐ n ɐ t
+għall-assistenza	ˤː ɐ l l ɐ s s ɪ s t ɛ n t͡s ɐ
+għall-attività	ˤː ɐ l l ɐ t t ɪ v ɪ t ɐ
+għall-aħjar	ˤː ɐ l l ɐ ħ j ɐ r
+għall-aħjar.	ˤː ɐ l l ɐ ħ j ɐ r
+għall-aħħar	ˤː ɐ l l ɐ ħ ħ ɐ r
+għall-baħar.	ˤː ɐ l l b ɐ ħ ɐ r
+għall-bejgħ	ˤː ɐ l l b ɛ j ħː
+għall-bejgħ.	ˤː ɐ l l b ɛ jˤː
+għall-belt	ˤː ɐ l l b ɛ l t
+għall-benefiċċju	ˤː ɐ l l b ɛ n ɛ f ɪ t͡ʃ t͡ʃ j ʊ
+għall-berġa	ˤː ɐ l l b ɛ r d͡ʒ ɐ
+għall-bieraħ.	ˤː ɐ l l b i ɛ r ɐ ħ
+għall-bini	ˤː ɐ l l b ɪ n ɪ
+għall-biża'	ˤː ɐ l l b ɪ z ɐ
+għall-btajjel	ˤː ɐ l l b t ɐ j j ɛ l
+għall-budget	ˤː ɐ l l b ʊ d ɡ ɛ t
+għall-educational	ˤː ɐ l l ɛ d ʊ c ɐ t ɪ ɔ n ɐ l
+għall-edukazzjoni	ˤː ɐ l l ɛ d ʊ k ɐ t͡s t͡s j ɔ n ɪ
+għall-ekonomija	ˤː ɐ l l ɛ k ɔ n ɔ m ɪ j ɐ
+għall-elezzjoni	ˤː ɐ l l ɛ l ɛ t͡s t͡s j ɔ n ɪ
+għall-età	ˤː ɐ l l ɛ t ɐ
+għall-ewro.	ˤː ɐ l l ɛ w r ɔ
+għall-ewwel	ˤː ɐ l l ɛ w w ɛ l
+għall-fabbriki	ˤː ɐ l l f ɐ b b r ɪ k ɪ
+għall-familja	ˤː ɐ l l f ɐ m ɪ l j ɐ
+għall-finanzi	ˤː ɐ l l f ɪ n ɐ n t͡s ɪ
+għall-finanzi,	ˤː ɐ l l f ɪ n ɐ n t͡s ɪ
+għall-fini	ˤː ɐ l l f ɪ n ɪ
+għall-flus!	ˤː ɐ l l f l ʊ s
+għall-franċiżi	ˤː ɐ l l f r ɐ n t͡ʃ ɪ z ɪ
+għall-futur	ˤː ɐ l l f ʊ t ʊ r
+għall-futur?	ˤː ɐ l l f ʊ t ʊ r
+għall-gender	ˤː ɐ l l ɡ ɛ n d ɛ r
+għall-grazzja	ˤː ɐ l l ɡ r ɐ t͡s t͡s j ɐ
+għall-gruppi	ˤː ɐ l l ɡ r ʊ p p ɪ
+għall-gvern	ˤː ɐ l l ɡ v ɛ r n
+għall-għajnuna	ˤː ɐ l lˤː ɐ j n ʊ n ɐ
+għall-għasel.	ˤː ɐ l lˤː ɐ s ɛ l
+għall-għawdxin.	ˤː ɐ l lˤː ɐ w d ʃ ɪ n
+għall-għoti	ˤː ɐ l lˤː ɔ t ɪ
+għall-immigranti.	ˤː ɐ l l ɪ m m ɪ ɡ r ɐ n t ɪ
+għall-impjieg?	ˤː ɐ l l ɪ m p j i ɛ ɡ
+għall-industrija.	ˤː ɐ l l ɪ n d ʊ s t r ɪ j ɐ
+għall-informazzjoni	ˤː ɐ l l ɪ n f ɔ r m ɐ t͡s t͡s j ɔ n ɪ
+għall-insara	ˤː ɐ l l ɪ n s ɐ r ɐ
+għall-interpretazzjoni.	ˤː ɐ l l ɪ n t ɛ r p r ɛ t ɐ t͡s t͡s j ɔ n ɪ
+għall-intrapriżi	ˤː ɐ l l ɪ n t r ɐ p r ɪ z ɪ
+għall-intrapriżi.	ˤː ɐ l l ɪ n t r ɐ p r ɪ z ɪ
+għall-investiment	ˤː ɐ l l ɪ n v ɛ s t ɪ m ɛ n t
+għall-inċident.	ˤː ɐ l l ɪ n t͡ʃ ɪ d ɛ n t
+għall-irġiel	ˤː ɐ l l ɪ r d͡ʒ i ɛ l
+għall-iskrappjar	ˤː ɐ l l ɪ s k r ɐ p p j ɐ r
+għall-ispejjeż	ˤː ɐ l l ɪ s p ɛ j j ɛ z
+għall-isport.	ˤː ɐ l l ɪ s p ɔ r t
+għall-istabbiltà	ˤː ɐ l l ɪ s t ɐ b b ɪ l t ɐ
+għall-istampa?	ˤː ɐ l l ɪ s t ɐ m p ɐ
+għall-istatistika.	ˤː ɐ l l ɪ s t ɐ t ɪ s t ɪ k ɐ
+għall-istaġun	ˤː ɐ l l ɪ s t ɐ d͡ʒ ʊ n
+għall-istess	ˤː ɐ l l ɪ s t ɛ s s
+għall-istrina.	ˤː ɐ l l ɪ s t r ɪ n ɐ
+għall-istudenti	ˤː ɐ l l ɪ s t ʊ d ɛ n t ɪ
+għall-item	ˤː ɐ l l ɪ t ɛ m
+għall-iżvilupp.	ˤː ɐ l l ɪ z v ɪ l ʊ p p
+għall-kampjonat	ˤː ɐ l l k ɐ m p j ɔ n ɐ t
+għall-kant?	ˤː ɐ l l k ɐ n t
+għall-karatterestiċi	ˤː ɐ l l k ɐ r ɐ t t ɛ r ɛ s t ɪ t͡ʃ ɪ
+għall-karità.	ˤː ɐ l l k ɐ r ɪ t ɐ
+għall-kaċċaturi?	ˤː ɐ l l k ɐ t͡ʃ t͡ʃ ɐ t ʊ r ɪ
+għall-kliem	ˤː ɐ l l k l i ɛ m
+għall-knisja.	ˤː ɐ l l k n ɪ s j ɐ
+għall-konferenzi.	ˤː ɐ l l k ɔ n f ɛ r ɛ n t͡s ɪ
+għall-konfiska	ˤː ɐ l l k ɔ n f ɪ s k ɐ
+għall-konservazzjoni	ˤː ɐ l l k ɔ n s ɛ r v ɐ t͡s t͡s j ɔ n ɪ
+għall-konsiderazzjoni	ˤː ɐ l l k ɔ n s ɪ d ɛ r ɐ t͡s t͡s j ɔ n ɪ
+għall-konsumaturi	ˤː ɐ l l k ɔ n s ʊ m ɐ t ʊ r ɪ
+għall-kontenut	ˤː ɐ l l k ɔ n t ɛ n ʊ t
+għall-korruzzjoni.	ˤː ɐ l l k ɔ r r ʊ t͡s t͡s j ɔ n ɪ
+għall-ksur	ˤː ɐ l l k s ʊ r
+għall-kumplament	ˤː ɐ l l k ʊ m p l ɐ m ɛ n t
+għall-kumplament,	ˤː ɐ l l k ʊ m p l ɐ m ɛ n t
+għall-kundizzjoni	ˤː ɐ l l k ʊ n d ɪ t͡s t͡s j ɔ n ɪ
+għall-kunsilli	ˤː ɐ l l k ʊ n s ɪ l l ɪ
+għall-kuntrarju,	ˤː ɐ l l k ʊ n t r ɐ r j ʊ
+għall-kura	ˤː ɐ l l k ʊ r ɐ
+għall-kura.	ˤː ɐ l l k ʊ r ɐ
+għall-kwestjoni	ˤː ɐ l l k w ɛ s t j ɔ n ɪ
+għall-marid.	ˤː ɐ l l m ɐ r ɪ d
+għall-marsa.	ˤː ɐ l l m ɐ r s ɐ
+għall-mezzi	ˤː ɐ l l m ɛ t͡s t͡s ɪ
+għall-missjonijiet	ˤː ɐ l l m ɪ s s j ɔ n ɪ j i ɛ t
+għall-mistoqsijiet	ˤː ɐ l l m ɪ s t ɔ ʔ s ɪ j i ɛ t
+għall-mod	ˤː ɐ l l m ɔ d
+għall-mudell	ˤː ɐ l l m ʊ d ɛ l l
+għall-multi	ˤː ɐ l l m ʊ l t ɪ
+għall-mument	ˤː ɐ l l m ʊ m ɛ n t
+għall-offerti.	ˤː ɐ l l ɔ f f ɛ r t ɪ
+għall-okkażjoni	ˤː ɐ l l ɔ k k ɐ z j ɔ n ɪ
+għall-oppożizzjoni	ˤː ɐ l l ɔ p p ɔ z ɪ t͡s t͡s j ɔ n ɪ
+għall-outreach	ˤː ɐ l l ɔ ʊ t r ɛ ɐ c h
+għall-oħrajn.	ˤː ɐ l l ɔ ħ r ɐ j n
+għall-pajjiż.	ˤː ɐ l l p ɐ j j ɪ z
+għall-pakkett	ˤː ɐ l l p ɐ k k ɛ t t
+għall-pakkett.	ˤː ɐ l l p ɐ k k ɛ t t
+għall-palk?	ˤː ɐ l l p ɐ l k
+għall-parlament	ˤː ɐ l l p ɐ r l ɐ m ɛ n t
+għall-parlament!	ˤː ɐ l l p ɐ r l ɐ m ɛ n t
+għall-partijiet?	ˤː ɐ l l p ɐ r t ɪ j i ɛ t
+għall-pazjenti	ˤː ɐ l l p ɐ t͡s j ɛ n t ɪ
+għall-paċi.	ˤː ɐ l l p ɐ t͡ʃ ɪ
+għall-policy	ˤː ɐ l l p ɔ l ɪ c y
+għall-politika	ˤː ɐ l l p ɔ l ɪ t ɪ k ɐ
+għall-poter.	ˤː ɐ l l p ɔ t ɛ r
+għall-president	ˤː ɐ l l p r ɛ s ɪ d ɛ n t
+għall-president.	ˤː ɐ l l p r ɛ s ɪ d ɛ n t
+għall-presidenza.	ˤː ɐ l l p r ɛ s ɪ d ɛ n t͡s ɐ
+għall-prim	ˤː ɐ l l p r ɪ m
+għall-privatizzazzjoni	ˤː ɐ l l p r ɪ v ɐ t ɪ t͡s t͡s ɐ t͡s t͡s j ɔ n ɪ
+għall-programm	ˤː ɐ l l p r ɔ ɡ r ɐ m m
+għall-pubbliku	ˤː ɐ l l p ʊ b b l ɪ k ʊ
+għall-pubbliku,	ˤː ɐ l l p ʊ b b l ɪ k ʊ
+għall-punt	ˤː ɐ l l p ʊ n t
+għall-punti	ˤː ɐ l l p ʊ n t ɪ
+għall-qasam	ˤː ɐ l l ʔ ɐ s ɐ m
+għall-qassisin	ˤː ɐ l l ʔ ɐ s s ɪ s ɪ n
+għall-quddiesa	ˤː ɐ l l ʔ ʊ d d i ɛ s ɐ
+għall-uffiċini	ˤː ɐ l l ʊ f f ɪ t͡ʃ ɪ n ɪ
+għall-użu	ˤː ɐ l l ʊ z ʊ
+għall-vetturi	ˤː ɐ l l v ɛ t t ʊ r ɪ
+għall-vjolenza.	ˤː ɐ l l v j ɔ l ɛ n t͡s ɐ
+għall-whistleblower.	ˤː ɐ l l w ɪ s t l ɛ b l ɔ w ɛ r
+għall-wiri	ˤː ɐ l l w ɪ r ɪ
+għall-ġid	ˤː ɐ l l d͡ʒ ɪ d
+għall-ġimgħat	ˤː ɐ l l d͡ʒ ɪ mˤː ɐ t
+għall-ħabta	ˤː ɐ l l ħ ɐ b t ɐ
+għall-ħajja	ˤː ɐ l l ħ ɐ j j ɐ
+għall-ħidma	ˤː ɐ l l ħ ɪ d m ɐ
+għall-ħsieb	ˤː ɐ l l ħ s i ɛ b
+għalliema	ˤː ɐ l l i ɛ m ɐ
+għallmitni	ˤː ɐ l l m ɪ t n ɪ
+għallmitu	ˤː ɐ l l m ɪ t ʊ
+għallmuna	ˤː ɐ l l m ʊ n ɐ
+għallquha	ˤː ɐ l l ʔ ʊ ɐ
+għalqet	ˤː ɐ l ʔ ɛ t
+għalqitx?	ˤː ɐ l ʔ ɪ t ʃ
+għalxejn	ˤː ɐ l ʃ ɛ j n
+għalxiex	ˤː ɐ l ʃ i ɛ ʃ
+għamel	ˤː ɐ m ɛ l
+għamel.	ˤː ɐ m ɛ l
+għamilhom	ˤː ɐ m ɪ l ɔ m
+għamilna	ˤː ɐ m ɪ l n ɐ
+għamilna.	ˤː ɐ m ɪ l n ɐ
+għamilna?	ˤː ɐ m ɪ l n ɐ
+għamilnieh	ˤː ɐ m ɪ l n i ɛ h
+għamilniex	ˤː ɐ m ɪ l n i ɛ ʃ
+għamilt	ˤː ɐ m ɪ l t
+għamilthom	ˤː ɐ m ɪ l t ɔ m
+għamiltu	ˤː ɐ m ɪ l t ʊ
+għamiltuh	ˤː ɐ m ɪ l t ʊ h
+għamiltux	ˤː ɐ m ɪ l t ʊ ʃ
+għamlet	ˤː ɐ m l ɛ t
+għamlu	ˤː ɐ m l ʊ
+għamlu.	ˤː ɐ m l ʊ
+għamluh	ˤː ɐ m l ʊ h
+għamlux	ˤː ɐ m l ʊ ʃ
+għammidthomlu	ˤː ɐ m m ɪ d t ɔ m l ʊ
+għan	ˤː ɐ n
+għan-naħa	ˤː ɐ n n ɐ ħ ɐ
+għan-nies	ˤː ɐ n n i ɛ s
+għan-nies.	ˤː ɐ n n i ɛ s
+għan-nisa.	ˤː ɐ n n ɪ s ɐ
+għan-normal.	ˤː ɐ n n ɔ r m ɐ l
+għand	ˤː ɐ n d
+għandek	ˤː ɐ n d ɛ k
+għandek?	ˤː ɐ n d ɛ k
+għandha	ˤː ɐ n d ɐ
+għandhom	ˤː ɐ n d ɔ m
+għandhom.	ˤː ɐ n d ɔ m
+għandhon	ˤː ɐ n d ɔ n
+għandi	ˤː ɐ n d ɪ
+għandi.	ˤː ɐ n d ɪ
+għandkom	ˤː ɐ n d k ɔ m
+għandkom?	ˤː ɐ n d k ɔ m
+għandkomx	ˤː ɐ n d k ɔ m ʃ
+għandna	ˤː ɐ n d n ɐ
+għandna!	ˤː ɐ n d n ɐ
+għandna,	ˤː ɐ n d n ɐ
+għandna.	ˤː ɐ n d n ɐ
+għandniex	ˤː ɐ n d n i ɛ ʃ
+għandu	ˤː ɐ n d ʊ
+għandu!	ˤː ɐ n d ʊ
+għandu.	ˤː ɐ n d ʊ
+għandux	ˤː ɐ n d ʊ ʃ
+għanijiet	ˤː ɐ n ɪ j i ɛ t
+għannqitu,	ˤː ɐ n n ʔ ɪ t ʊ
+għaqal	ˤː ɐ ʔ ɐ l
+għaqda	ˤː ɐ ʔ d ɐ
+għaqda.	ˤː ɐ ʔ d ɐ
+għaqdiet	ˤː ɐ ʔ d i ɛ t
+għaqdiet.	ˤː ɐ ʔ d i ɛ t
+għaqli	ˤː ɐ ʔ l ɪ
+għaqli.	ˤː ɐ ʔ l ɪ
+għar-raba'	ˤː ɐ r r ɐ b ɐ
+għar-rabtin	ˤː ɐ r r ɐ b t ɪ n
+għar-rapport.	ˤː ɐ r r ɐ p p ɔ r t
+għar-remission?	ˤː ɐ r r ɛ m ɪ s s ɪ ɔ n
+għar-roster	ˤː ɐ r r ɔ s t ɛ r
+għaraft	ˤː ɐ r ɐ f t
+għaref.	ˤː ɐ r ɛ f
+għargħar.	ˤː ɐ rˤː ɐ r
+għarrali.	ˤː ɐ r r ɐ l ɪ
+għarukaża.	ˤː ɐ r ʊ k ɐ z ɐ
+għas-sagramenti.	ˤː ɐ s s ɐ ɡ r ɐ m ɛ n t ɪ
+għas-sajf	ˤː ɐ s s ɐ j f
+għas-sapport	ˤː ɐ s s ɐ p p ɔ r t
+għas-saċerdozju.	ˤː ɐ s s ɐ t͡ʃ ɛ r d ɔ t͡s j ʊ
+għas-saħħa	ˤː ɐ s s ɐ ħ ħ ɐ
+għas-saħħa,	ˤː ɐ s s ɐ ħ ħ ɐ
+għas-saħħa.	ˤː ɐ s s ɐ ħ ħ ɐ
+għas-sena	ˤː ɐ s s ɛ n ɐ
+għas-sens	ˤː ɐ s s ɛ n s
+għas-sensazzjonaliżmu.	ˤː ɐ s s ɛ n s ɐ t͡s t͡s j ɔ n ɐ l ɪ z m ʊ
+għas-servizz	ˤː ɐ s s ɛ r v ɪ t͡s t͡s
+għas-servizzi	ˤː ɐ s s ɛ r v ɪ t͡s t͡s ɪ
+għas-settur	ˤː ɐ s s ɛ t t ʊ r
+għas-sigurta'	ˤː ɐ s s ɪ ɡ ʊ r t ɐ
+għas-sigurtà	ˤː ɐ s s ɪ ɡ ʊ r t ɐ
+għas-soċjetà	ˤː ɐ s s ɔ t͡ʃ j ɛ t ɐ
+għas-suċċess	ˤː ɐ s s ʊ t͡ʃ t͡ʃ ɛ s s
+għasafar	ˤː ɐ s ɐ f ɐ r
+għases.	ˤː ɐ s ɛ s
+għasfur	ˤː ɐ s f ʊ r
+għassa	ˤː ɐ s s ɐ
+għat-talb	ˤː ɐ t t ɐ l b
+għat-tazza	ˤː ɐ t t ɐ t͡s t͡s ɐ
+għat-tfal	ˤː ɐ t t f ɐ l
+għat-tfal,	ˤː ɐ t t f ɐ l
+għat-tfal.	ˤː ɐ t t f ɐ l
+għat-tfal?	ˤː ɐ t t f ɐ l
+għat-tielet	ˤː ɐ t t i ɛ l ɛ t
+għat-tim.	ˤː ɐ t t ɪ m
+għat-tkabbir	ˤː ɐ t t k ɐ b b ɪ r
+għat-tnaqqis	ˤː ɐ t t n ɐ ʔ ʔ ɪ s
+għat-tnejn.	ˤː ɐ t t n ɛ j n
+għat-tneħħija	ˤː ɐ t t n ɛ ħ ħ ɪ j ɐ
+għat-tpinġija?	ˤː ɐ t t p ɪ n d͡ʒ ɪ j ɐ
+għat-traffiku	ˤː ɐ t t r ɐ f f ɪ k ʊ
+għat-traffiku.	ˤː ɐ t t r ɐ f f ɪ k ʊ
+għat-trasport	ˤː ɐ t t r ɐ s p ɔ r t
+għat-turiżmu.	ˤː ɐ t t ʊ r ɪ z m ʊ
+għat-tħaddim	ˤː ɐ t t ħ ɐ d d ɪ m
+għattew	ˤː ɐ t t ɛ w
+għatx	ˤː ɐ t ʃ
+għawdex	ˤː ɐ w d ɛ ʃ
+għawdex.	ˤː ɐ w d ɛ ʃ
+għawdex?	ˤː ɐ w d ɛ ʃ
+għawdxi	ˤː ɐ w d ʃ ɪ
+għawdxija.	ˤː ɐ w d ʃ ɪ j ɐ
+għawdxin!	ˤː ɐ w d ʃ ɪ n
+għawdxin?	ˤː ɐ w d ʃ ɪ n
+għax	ˤː ɐ ʃ
+għax-xahar	ˤː ɐ ʃ ʃ ɐ ɐ r
+għax-xhieda	ˤː ɐ ʃ ʃ i ɛ d ɐ
+għax-xiri;	ˤː ɐ ʃ ʃ ɪ r ɪ
+għax-xitwa.	ˤː ɐ ʃ ʃ ɪ t w ɐ
+għax-xogħol	ˤː ɐ ʃ ʃ ɔˤː ɔ l
+għax-xorb	ˤː ɐ ʃ ʃ ɔ r b
+għaxar	ˤː ɐ ʃ ɐ r
+għaxart	ˤː ɐ ʃ ɐ r t
+għaċ-ċelebrazzjonijiet	ˤː ɐ t͡ʃ t͡ʃ ɛ l ɛ b r ɐ t͡s t͡s j ɔ n ɪ j i ɛ t
+għaġla.	ˤː ɐ d͡ʒ l ɐ
+għaż-żgħażagħ.	ˤː ɐ z zˤː ɐ z ɐˤː
+għaż-żwieġ.	ˤː ɐ z z w i ɛ d͡ʒ
+għażilna	ˤː ɐ z ɪ l n ɐ
+għażilt	ˤː ɐ z ɪ l t
+għażla	ˤː ɐ z l ɐ
+għażla.	ˤː ɐ z l ɐ
+għażlet	ˤː ɐ z l ɛ t
+għażliet	ˤː ɐ z l i ɛ t
+għażlu	ˤː ɐ z l ʊ
+għebet.	ˤː ɛ b ɛ t
+għedna	ˤː ɛ d n ɐ
+għedna.	ˤː ɛ d n ɐ
+għedt	ˤː ɛ d t
+għedt,	ˤː ɛ d t
+għedt:	ˤː ɛ d t
+għedtilha.	ˤː ɛ d t ɪ l ɐ
+għedtilkom	ˤː ɛ d t ɪ l k ɔ m
+għedtlek	ˤː ɛ d t l ɛ k
+għedtlu	ˤː ɛ d t l ʊ
+għedtuli.	ˤː ɛ d t ʊ l ɪ
+għeja,	ˤː ɛ j ɐ
+għelbu	ˤː ɛ l b ʊ
+għeluq	ˤː ɛ l ʊ ʔ
+għemilha	ˤː ɛ m ɪ l ɐ
+għen	ˤː ɛ n
+għenithom.	ˤː ɛ n ɪ t ɔ m
+għenna	ˤː ɛ n n ɐ
+għereq.	ˤː ɛ r ɛ ʔ
+għex	ˤː ɛ ʃ
+għexnieh	ˤː ɛ ʃ n i ɛ h
+għidilhom	ˤː ɪ d ɪ l ɔ m
+għidilna	ˤː ɪ d ɪ l n ɐ
+għidli	ˤː ɪ d l ɪ
+għidt	ˤː ɪ d t
+għidt!	ˤː ɪ d t
+għidtilha	ˤː ɪ d t ɪ l ɐ
+għidtlek,	ˤː ɪ d t l ɛ k
+għinni	ˤː ɪ n n ɪ
+għodda	ˤː ɔ d d ɐ
+għoli	ˤː ɔ l ɪ
+għolja	ˤː ɔ l j ɐ
+għolja.	ˤː ɔ l j ɐ
+għolla	ˤː ɔ l l ɐ
+għollejtha,	ˤː ɔ l l ɛ j t ɐ
+għollewhom.	ˤː ɔ l l ɛ w ɔ m
+għonqok	ˤː ɔ n ʔ ɔ k
+għoxrin	ˤː ɔ ʃ r ɪ n
 gżejjer	ɡ z ɛ j j ɛ r
 haber	ɐ b ɛ r
 haiyan	ɐ ɪ y ɐ n
@@ -2753,7 +2739,6 @@ ibigħ	ɪ b ɪ ħː
 ibikkini	ɪ b ɪ k k ɪ n ɪ
 ibni.	ɪ b n ɪ
 ibqa'	ɪ b ʔ ɐ
-ibrahimović	ɪ b r ɐ ɪ m ɔ v ɪ ć
 ibżgħu	ɪ b zˤː ʊ
 id-dar	ɪ d d ɐ r
 id-dar.	ɪ d d ɐ r
@@ -3035,8 +3020,8 @@ il-gvern.	ɪ l ɡ v ɛ r n
 il-gvernijiet	ɪ l ɡ v ɛ r n ɪ j i ɛ t
 il-gwerer	ɪ l ɡ w ɛ r ɛ r
 il-gwerra	ɪ l ɡ w ɛ r r ɐ
-il-għajn.	ɪ l ˤ ː ɐ j n
-il-għan	ɪ l ˤ ː ɐ n
+il-għajn.	ɪ lˤː ɐ j n
+il-għan	ɪ lˤː ɐ n
 il-hard	ɪ l ɐ r d
 il-health	ɪ l ɛ ɐ l t h
 il-hotspots	ɪ l ɔ t s p ɔ t s
@@ -3174,10 +3159,10 @@ il-kwestjoni	ɪ l k w ɛ s t j ɔ n ɪ
 il-kwestjoni.	ɪ l k w ɛ s t j ɔ n ɪ
 il-kwistjoni	ɪ l k w ɪ s t j ɔ n ɪ
 il-laboratorju.	ɪ l l ɐ b ɔ r ɐ t ɔ r j ʊ
-il-laqgħa	ɪ l l ɐ ʔ ˤ ː ɐ
-il-laqgħa.	ɪ l l ɐ ʔ ˤ ː ɐ
-il-laqgħa?	ɪ l l ɐ ʔ ˤ ː ɐ
-il-laqgħat	ɪ l l ɐ ʔ ˤ ː ɐ t
+il-laqgħa	ɪ l l ɐ ʔˤː ɐ
+il-laqgħa.	ɪ l l ɐ ʔˤː ɐ
+il-laqgħa?	ɪ l l ɐ ʔˤː ɐ
+il-laqgħat	ɪ l l ɐ ʔˤː ɐ t
 il-lecture	ɪ l l ɛ c t ʊ r ɛ
 il-lejl	ɪ l l ɛ j l
 il-lejl.	ɪ l l ɛ j l
@@ -3579,7 +3564,7 @@ ilment?	ɪ l m ɛ n t
 ilna	ɪ l n ɐ
 ilni	ɪ l n ɪ
 iltaqa'	ɪ l t ɐ ʔ ɐ
-iltaqgħu	ɪ l t ɐ ʔ ˤ ː ʊ
+iltaqgħu	ɪ l t ɐ ʔˤː ʊ
 iltqajna	ɪ l t ʔ ɐ j n ɐ
 iltqajt	ɪ l t ʔ ɐ j t
 iltqajtx	ɪ l t ʔ ɐ j t ʃ
@@ -4523,7 +4508,7 @@ jaqbeż	j ɐ ʔ b ɛ z
 jaqblilniex?	j ɐ ʔ b l ɪ l n i ɛ ʃ
 jaqbżu	j ɐ ʔ b z ʊ
 jaqduhom?	j ɐ ʔ d ʊ ɔ m
-jaqgħu	j ɐ ʔ ˤ ː ʊ
+jaqgħu	j ɐ ʔˤː ʊ
 jaqilgħu	j ɐ ʔ ɪ lˤː ʊ
 jaqra	j ɐ ʔ r ɐ
 jaqraha	j ɐ ʔ r ɐ ɐ
@@ -4699,8 +4684,8 @@ jibqa	j ɪ b ʔ ɐ
 jibqa'	j ɪ b ʔ ɐ
 jibqa'.	j ɪ b ʔ ɐ
 jibqagħlek	j ɪ b ʔ ɐˤː l ɛ k
-jibqgħu	j ɪ b ʔ ˤ ː ʊ
-jibqgħux	j ɪ b ʔ ˤ ː ʊ ʃ
+jibqgħu	j ɪ b ʔˤː ʊ
+jibqgħux	j ɪ b ʔˤː ʊ ʃ
 jibżax	j ɪ b z ɐ ʃ
 jibżgħu	j ɪ b zˤː ʊ
 jiddamdam	j ɪ d d ɐ m d ɐ m
@@ -4813,10 +4798,10 @@ jilgħab	j ɪ lˤː ɐ b
 jilgħabx.	j ɪ lˤː ɐ b ʃ
 jilluminana	j ɪ l l ʊ m ɪ n ɐ n ɐ
 jilqa'	j ɪ l ʔ ɐ
-jilqgħu	j ɪ l ʔ ˤ ː ʊ
+jilqgħu	j ɪ l ʔˤː ʊ
 jiltaqa'	j ɪ l t ɐ ʔ ɐ
-jiltaqgħu	j ɪ l t ɐ ʔ ˤ ː ʊ
-jiltaqgħu.	j ɪ l t ɐ ʔ ˤ ː ʊ
+jiltaqgħu	j ɪ l t ɐ ʔˤː ʊ
+jiltaqgħu.	j ɪ l t ɐ ʔˤː ʊ
 jilħaq	j ɪ l ħ ɐ ʔ
 jilħqu	j ɪ l ħ ʔ ʊ
 jim	j ɪ m
@@ -4892,7 +4877,7 @@ jintervjeni	j ɪ n t ɛ r v j ɛ n ɪ
 jintgħażel	j ɪ n tˤː ɐ z ɛ l
 jintilfu.	j ɪ n t ɪ l f ʊ
 jintisġu	j ɪ n t ɪ s d͡ʒ ʊ
-jintlaqgħu	j ɪ n t l ɐ ʔ ˤ ː ʊ
+jintlaqgħu	j ɪ n t l ɐ ʔˤː ʊ
 jintlaħqu.	j ɪ n t l ɐ ħ ʔ ʊ
 jintlibsu.	j ɪ n t l ɪ b s ʊ
 jintonalna	j ɪ n t ɔ n ɐ l n ɐ
@@ -5204,7 +5189,7 @@ jonqos,	j ɔ n ʔ ɔ s
 jonqos.	j ɔ n ʔ ɔ s
 jonqsux	j ɔ n ʔ s ʊ ʃ
 joperaw	j ɔ p ɛ r ɐ w
-joqgħod	j ɔ ʔ ˤ ː ɔ d
+joqgħod	j ɔ ʔˤː ɔ d
 joqogħdu	j ɔ ʔ ɔˤː d ʊ
 joqogħdu?	j ɔ ʔ ɔˤː d ʊ
 joqtluna	j ɔ ʔ t l ʊ n ɐ
@@ -5970,26 +5955,26 @@ l-grad	l ɡ r ɐ d
 l-gvern	l ɡ v ɛ r n
 l-gvern?	l ɡ v ɛ r n
 l-gvernatur	l ɡ v ɛ r n ɐ t ʊ r
-l-għada	l ˤ ː ɐ d ɐ
-l-għajnuna	l ˤ ː ɐ j n ʊ n ɐ
-l-għajta	l ˤ ː ɐ j t ɐ
-l-għalliem	l ˤ ː ɐ l l i ɛ m
-l-għalliema	l ˤ ː ɐ l l i ɛ m ɐ
-l-għalqa	l ˤ ː ɐ l ʔ ɐ
-l-għan	l ˤ ː ɐ n
-l-għanijiet	l ˤ ː ɐ n ɪ j i ɛ t
-l-għaqda.	l ˤ ː ɐ ʔ d ɐ
-l-għaqdiet	l ˤ ː ɐ ʔ d i ɛ t
-l-għargħar.	l ˤ ː ɐ rˤː ɐ r
-l-għasafar	l ˤ ː ɐ s ɐ f ɐ r
-l-għawm?	l ˤ ː ɐ w m
-l-għawġ!	l ˤ ː ɐ w d͡ʒ
-l-għaxar	l ˤ ː ɐ ʃ ɐ r
-l-għaxart	l ˤ ː ɐ ʃ ɐ r t
-l-għażla	l ˤ ː ɐ z l ɐ
-l-għażla?	l ˤ ː ɐ z l ɐ
-l-għażliet	l ˤ ː ɐ z l i ɛ t
-l-għexieren	l ˤ ː ɛ ʃ i ɛ r ɛ n
+l-għada	lˤː ɐ d ɐ
+l-għajnuna	lˤː ɐ j n ʊ n ɐ
+l-għajta	lˤː ɐ j t ɐ
+l-għalliem	lˤː ɐ l l i ɛ m
+l-għalliema	lˤː ɐ l l i ɛ m ɐ
+l-għalqa	lˤː ɐ l ʔ ɐ
+l-għan	lˤː ɐ n
+l-għanijiet	lˤː ɐ n ɪ j i ɛ t
+l-għaqda.	lˤː ɐ ʔ d ɐ
+l-għaqdiet	lˤː ɐ ʔ d i ɛ t
+l-għargħar.	lˤː ɐ rˤː ɐ r
+l-għasafar	lˤː ɐ s ɐ f ɐ r
+l-għawm?	lˤː ɐ w m
+l-għawġ!	lˤː ɐ w d͡ʒ
+l-għaxar	lˤː ɐ ʃ ɐ r
+l-għaxart	lˤː ɐ ʃ ɐ r t
+l-għażla	lˤː ɐ z l ɐ
+l-għażla?	lˤː ɐ z l ɐ
+l-għażliet	lˤː ɐ z l i ɛ t
+l-għexieren	lˤː ɛ ʃ i ɛ r ɛ n
 l-gżira	l ɡ z ɪ r ɐ
 l-hairdressers.	l ɐ ɪ r d r ɛ s s ɛ r s
 l-handover	l ɐ n d ɔ v ɛ r
@@ -6265,7 +6250,7 @@ l-kwalifikazzjoni	l k w ɐ l ɪ f ɪ k ɐ t͡s t͡s j ɔ n ɪ
 l-kwalitajiet	l k w ɐ l ɪ t ɐ j i ɛ t
 l-kwistjoni	l k w ɪ s t j ɔ n ɪ
 l-laptop	l l ɐ p t ɔ p
-l-laqgħa	l l ɐ ʔ ˤ ː ɐ
+l-laqgħa	l l ɐ ʔˤː ɐ
 l-lejl	l l ɛ j l
 l-lezzjoni	l l ɛ t͡s t͡s j ɔ n ɪ
 l-libertà	l l ɪ b ɛ r t ɐ
@@ -6499,8 +6484,8 @@ lanċa.	l ɐ n t͡ʃ ɐ
 lapse	l ɐ p s ɛ
 laqa'	l ɐ ʔ ɐ
 laqatni	l ɐ ʔ ɐ t n ɪ
-laqgħa	l ɐ ʔ ˤ ː ɐ
-laqgħat	l ɐ ʔ ˤ ː ɐ t
+laqgħa	l ɐ ʔˤː ɐ
+laqgħat	l ɐ ʔˤː ɐ t
 laqqajthom,	l ɐ ʔ ʔ ɐ j t ɔ m
 laqtet	l ɐ ʔ t ɛ t
 laqtitni	l ɐ ʔ t ɪ t n ɪ
@@ -6605,7 +6590,7 @@ lill-griegi	l ɪ l l ɡ r i ɛ ɡ ɪ
 lill-gvern	l ɪ l l ɡ v ɛ r n
 lill-gvern,	l ɪ l l ɡ v ɛ r n
 lill-gvern.	l ɪ l l ɡ v ɛ r n
-lill-għawdxin	l ɪ l l ˤ ː ɐ w d ʃ ɪ n
+lill-għawdxin	l ɪ l lˤː ɐ w d ʃ ɪ n
 lill-helpers?	l ɪ l l ɛ l p ɛ r s
 lill-ieħor	l ɪ l l i ɛ ħ ɔ r
 lill-ingilterra.	l ɪ l l ɪ n ɡ ɪ l t ɛ r r ɐ
@@ -6732,8 +6717,8 @@ lokalitajiet	l ɔ k ɐ l ɪ t ɐ j i ɛ t
 lokalità	l ɔ k ɐ l ɪ t ɐ
 londra	l ɔ n d r ɐ
 loreen.	l ɔ r ɛ ɛ n
-ltaqgħu	l t ɐ ʔ ˤ ː ʊ
-ltaqgħux?	l t ɐ ʔ ˤ ː ʊ ʃ
+ltaqgħu	l t ɐ ʔˤː ʊ
+ltaqgħux?	l t ɐ ʔˤː ʊ ʃ
 ltqajt	l t ʔ ɐ j t
 ltqajtu	l t ʔ ɐ j t ʊ
 luca	l ʊ c ɐ
@@ -6756,37 +6741,37 @@ lħaqt	l ħ ɐ ʔ t
 m'aħniex	m ɐ ħ n i ɛ ʃ
 m'emmint	m ɛ m m ɪ n t
 m'eżawrejtx	m ɛ z ɐ w r ɛ j t ʃ
-m'għadekx	m ˤ ː ɐ d ɛ k ʃ
-m'għadhomx	m ˤ ː ɐ d ɔ m ʃ
-m'għadhomx,	m ˤ ː ɐ d ɔ m ʃ
-m'għadu	m ˤ ː ɐ d ʊ
-m'għadux	m ˤ ː ɐ d ʊ ʃ
-m'għamel	m ˤ ː ɐ m ɛ l
-m'għamilniex	m ˤ ː ɐ m ɪ l n i ɛ ʃ
-m'għamiltux!	m ˤ ː ɐ m ɪ l t ʊ ʃ
-m'għamiltx	m ˤ ː ɐ m ɪ l t ʃ
-m'għamlitx!	m ˤ ː ɐ m l ɪ t ʃ
-m'għamluhx,	m ˤ ː ɐ m l ʊ ʃ
-m'għandekx	m ˤ ː ɐ n d ɛ k ʃ
-m'għandha	m ˤ ː ɐ n d ɐ
-m'għandhiex	m ˤ ː ɐ n d i ɛ ʃ
-m'għandhom	m ˤ ː ɐ n d ɔ m
-m'għandhomx	m ˤ ː ɐ n d ɔ m ʃ
-m'għandhomx.	m ˤ ː ɐ n d ɔ m ʃ
-m'għandi	m ˤ ː ɐ n d ɪ
-m'għandix	m ˤ ː ɐ n d ɪ ʃ
-m'għandix.	m ˤ ː ɐ n d ɪ ʃ
-m'għandkomx	m ˤ ː ɐ n d k ɔ m ʃ
-m'għandna	m ˤ ː ɐ n d n ɐ
-m'għandniex	m ˤ ː ɐ n d n i ɛ ʃ
-m'għandu	m ˤ ː ɐ n d ʊ
-m'għandu.	m ˤ ː ɐ n d ʊ
-m'għandux	m ˤ ː ɐ n d ʊ ʃ
-m'għedniex	m ˤ ː ɛ d n i ɛ ʃ
-m'għedt	m ˤ ː ɛ d t
-m'għedtilhomx	m ˤ ː ɛ d t ɪ l ɔ m ʃ
-m'għidtilniex	m ˤ ː ɪ d t ɪ l n i ɛ ʃ
-m'għoġbitux	m ˤ ː ɔ d͡ʒ b ɪ t ʊ ʃ
+m'għadekx	mˤː ɐ d ɛ k ʃ
+m'għadhomx	mˤː ɐ d ɔ m ʃ
+m'għadhomx,	mˤː ɐ d ɔ m ʃ
+m'għadu	mˤː ɐ d ʊ
+m'għadux	mˤː ɐ d ʊ ʃ
+m'għamel	mˤː ɐ m ɛ l
+m'għamilniex	mˤː ɐ m ɪ l n i ɛ ʃ
+m'għamiltux!	mˤː ɐ m ɪ l t ʊ ʃ
+m'għamiltx	mˤː ɐ m ɪ l t ʃ
+m'għamlitx!	mˤː ɐ m l ɪ t ʃ
+m'għamluhx,	mˤː ɐ m l ʊ ʃ
+m'għandekx	mˤː ɐ n d ɛ k ʃ
+m'għandha	mˤː ɐ n d ɐ
+m'għandhiex	mˤː ɐ n d i ɛ ʃ
+m'għandhom	mˤː ɐ n d ɔ m
+m'għandhomx	mˤː ɐ n d ɔ m ʃ
+m'għandhomx.	mˤː ɐ n d ɔ m ʃ
+m'għandi	mˤː ɐ n d ɪ
+m'għandix	mˤː ɐ n d ɪ ʃ
+m'għandix.	mˤː ɐ n d ɪ ʃ
+m'għandkomx	mˤː ɐ n d k ɔ m ʃ
+m'għandna	mˤː ɐ n d n ɐ
+m'għandniex	mˤː ɐ n d n i ɛ ʃ
+m'għandu	mˤː ɐ n d ʊ
+m'għandu.	mˤː ɐ n d ʊ
+m'għandux	mˤː ɐ n d ʊ ʃ
+m'għedniex	mˤː ɛ d n i ɛ ʃ
+m'għedt	mˤː ɛ d t
+m'għedtilhomx	mˤː ɛ d t ɪ l ɔ m ʃ
+m'għidtilniex	mˤː ɪ d t ɪ l n i ɛ ʃ
+m'għoġbitux	mˤː ɔ d͡ʒ b ɪ t ʊ ʃ
 m'hawnx	m ɐ w n ʃ
 m'hemm	m ɛ m m
 m'hemmx	m ɛ m m ʃ
@@ -6867,7 +6852,7 @@ mal-fqar.	m ɐ l f ʔ ɐ r
 mal-friġġ.	m ɐ l f r ɪ d͡ʒ d͡ʒ
 mal-futbol	m ɐ l f ʊ t b ɔ l
 mal-gvern	m ɐ l ɡ v ɛ r n
-mal-għeżież	m ɐ l ˤ ː ɛ z i ɛ z
+mal-għeżież	m ɐ lˤː ɛ z i ɛ z
 mal-ilma.	m ɐ l ɪ l m ɐ
 mal-individwu	m ɐ l ɪ n d ɪ v ɪ d w ʊ
 mal-ingliżi.	m ɐ l ɪ n ɡ l ɪ z ɪ
@@ -7802,7 +7787,7 @@ nibgħathomlok.	n ɪ bˤː ɐ t ɔ m l ɔ k
 nibki	n ɪ b k ɪ
 nibki.	n ɪ b k ɪ
 nibqa'	n ɪ b ʔ ɐ
-nibqgħu	n ɪ b ʔ ˤ ː ʊ
+nibqgħu	n ɪ b ʔˤː ʊ
 nibtet	n ɪ b t ɛ t
 nibża'	n ɪ b z ɐ
 nibżgħu	n ɪ b zˤː ʊ
@@ -7891,8 +7876,8 @@ nilleġislaw	n ɪ l l ɛ d͡ʒ ɪ s l ɐ w
 nilludux	n ɪ l l ʊ d ʊ ʃ
 nilmħu	n ɪ l m ħ ʊ
 niltaqa'	n ɪ l t ɐ ʔ ɐ
-niltaqgħu	n ɪ l t ɐ ʔ ˤ ː ʊ
-niltaqgħu?	n ɪ l t ɐ ʔ ˤ ː ʊ
+niltaqgħu	n ɪ l t ɐ ʔˤː ʊ
+niltaqgħu?	n ɪ l t ɐ ʔˤː ʊ
 nimbarkaw	n ɪ m b ɐ r k ɐ w
 nimitaw	n ɪ m ɪ t ɐ w
 nimla	n ɪ m l ɐ
@@ -8114,7 +8099,7 @@ non	n ɔ n
 nonfħux	n ɔ n f ħ ʊ ʃ
 nongħos	n ɔ nˤː ɔ s
 nopponuhom	n ɔ p p ɔ n ʊ ɔ m
-noqgħod	n ɔ ʔ ˤ ː ɔ d
+noqgħod	n ɔ ʔˤː ɔ d
 noqogħdu	n ɔ ʔ ɔˤː d ʊ
 noqogħdux	n ɔ ʔ ɔˤː d ʊ ʃ
 noqtluhom!	n ɔ ʔ t l ʊ ɔ m
@@ -8203,7 +8188,7 @@ nuża	n ʊ z ɐ
 nużaw	n ʊ z ɐ w
 nużaw,	n ʊ z ɐ w
 nużawhx?	n ʊ z ɐ w ʃ
-nwaqqgħu	n w ɐ ʔ ʔ ˤ ː ʊ
+nwaqqgħu	n w ɐ ʔ ʔˤː ʊ
 nwettqu	n w ɛ t t ʔ ʊ
 nwettqu.	n w ɛ t t ʔ ʊ
 nwiegħdu,	n w i ɛˤː d ʊ
@@ -8299,7 +8284,7 @@ opportunità	ɔ p p ɔ r t ʊ n ɪ t ɐ
 oppożizzjoni	ɔ p p ɔ z ɪ t͡s t͡s j ɔ n ɪ
 opra	ɔ p r ɐ
 opt	ɔ p t
-oqgħod	ɔ ʔ ˤ ː ɔ d
+oqgħod	ɔ ʔˤː ɔ d
 oqsma	ɔ ʔ s m ɐ
 order	ɔ r d ɛ r
 order!	ɔ r d ɛ r
@@ -9885,9 +9870,9 @@ t'alla!	t ɐ l l ɐ
 t'erbgħa.	t ɛ r bˤː ɐ
 t'esperti	t ɛ s p ɛ r t ɪ
 t'età	t ɛ t ɐ
-t'għajn.	t ˤ ː ɐ j n
-t'għawdex	t ˤ ː ɐ w d ɛ ʃ
-t'għawdex.	t ˤ ː ɐ w d ɛ ʃ
+t'għajn.	tˤː ɐ j n
+t'għawdex	tˤː ɐ w d ɛ ʃ
+t'għawdex.	tˤː ɐ w d ɛ ʃ
 t'hekk,	t ɛ k k
 t'hemm	t ɛ m m
 t'id	t ɪ d
@@ -10174,13 +10159,13 @@ tal-gvern!	t ɐ l ɡ v ɛ r n
 tal-gvern.	t ɐ l ɡ v ɛ r n
 tal-gwerra	t ɐ l ɡ w ɛ r r ɐ
 tal-gwidi.	t ɐ l ɡ w ɪ d ɪ
-tal-għadd	t ɐ l ˤ ː ɐ d d
-tal-għajnejn.	t ɐ l ˤ ː ɐ j n ɛ j n
-tal-għaqda	t ɐ l ˤ ː ɐ ʔ d ɐ
-tal-għaxra.	t ɐ l ˤ ː ɐ ʃ r ɐ
-tal-għażla	t ɐ l ˤ ː ɐ z l ɐ
-tal-għid	t ɐ l ˤ ː ɪ d
-tal-għid.	t ɐ l ˤ ː ɪ d
+tal-għadd	t ɐ lˤː ɐ d d
+tal-għajnejn.	t ɐ lˤː ɐ j n ɛ j n
+tal-għaqda	t ɐ lˤː ɐ ʔ d ɐ
+tal-għaxra.	t ɐ lˤː ɐ ʃ r ɐ
+tal-għażla	t ɐ lˤː ɐ z l ɐ
+tal-għid	t ɐ lˤː ɪ d
+tal-għid.	t ɐ lˤː ɪ d
 tal-gżejjer	t ɐ l ɡ z ɛ j j ɛ r
 tal-hotels	t ɐ l ɔ t ɛ l s
 tal-ikel.	t ɐ l ɪ k ɛ l
@@ -10288,8 +10273,8 @@ tal-kura	t ɐ l k ʊ r ɐ
 tal-kurrikulu	t ɐ l k ʊ r r ɪ k ʊ l ʊ
 tal-land	t ɐ l l ɐ n d
 tal-lands?	t ɐ l l ɐ n d s
-tal-laqgħa	t ɐ l l ɐ ʔ ˤ ː ɐ
-tal-laqgħa?	t ɐ l l ɐ ʔ ˤ ː ɐ
+tal-laqgħa	t ɐ l l ɐ ʔˤː ɐ
+tal-laqgħa?	t ɐ l l ɐ ʔˤː ɐ
 tal-laħam	t ɐ l l ɐ ħ ɐ m
 tal-leasing.	t ɐ l l ɛ ɐ s ɪ n ɡ
 tal-lejla.	t ɐ l l ɛ j l ɐ
@@ -10408,8 +10393,8 @@ tal-pulizija	t ɐ l p ʊ l ɪ t͡s ɪ j ɐ
 tal-pulizija.	t ɐ l p ʊ l ɪ t͡s ɪ j ɐ
 tal-qari.	t ɐ l ʔ ɐ r ɪ
 tal-qawra.	t ɐ l ʔ ɐ w r ɐ
-tal-qgħad	t ɐ l ʔ ˤ ː ɐ d
-tal-qgħad.	t ɐ l ʔ ˤ ː ɐ d
+tal-qgħad	t ɐ l ʔˤː ɐ d
+tal-qgħad.	t ɐ l ʔˤː ɐ d
 tal-qlub.	t ɐ l ʔ l ʊ b
 tal-qorti	t ɐ l ʔ ɔ r t ɪ
 tal-qorti.	t ɐ l ʔ ɔ r t ɪ
@@ -11190,8 +11175,8 @@ tonio	t ɔ n ɪ ɔ
 tonqos	t ɔ n ʔ ɔ s
 tony	t ɔ n y
 toqba	t ɔ ʔ b ɐ
-toqgħod	t ɔ ʔ ˤ ː ɔ d
-toqgħodx	t ɔ ʔ ˤ ː ɔ d ʃ
+toqgħod	t ɔ ʔˤː ɔ d
+toqgħodx	t ɔ ʔˤː ɔ d ʃ
 toqogħdux	t ɔ ʔ ɔˤː d ʊ ʃ
 toqtlu	t ɔ ʔ t l ʊ
 torbot	t ɔ r b ɔ t
@@ -11479,12 +11464,12 @@ waqaft	w ɐ ʔ ɐ f t
 waqfet	w ɐ ʔ f ɛ t
 waqfien.	w ɐ ʔ f i ɛ n
 waqfux	w ɐ ʔ f ʊ ʃ
-waqgħet	w ɐ ʔ ˤ ː ɛ t
-waqgħetilha	w ɐ ʔ ˤ ː ɛ t ɪ l ɐ
-waqgħu	w ɐ ʔ ˤ ː ʊ
+waqgħet	w ɐ ʔˤː ɛ t
+waqgħetilha	w ɐ ʔˤː ɛ t ɪ l ɐ
+waqgħu	w ɐ ʔˤː ʊ
 waqqafna	w ɐ ʔ ʔ ɐ f n ɐ
 waqqfu	w ɐ ʔ ʔ f ʊ
-waqqgħuh.	w ɐ ʔ ʔ ˤ ː ʊ
+waqqgħuh.	w ɐ ʔ ʔˤː ʊ
 waqt	w ɐ ʔ t
 waqt.	w ɐ ʔ t
 wara	w ɐ r ɐ
@@ -11604,17 +11589,17 @@ x'esperjenzi	ʃ ɛ s p ɛ r j ɛ n t͡s ɪ
 x'fiha	ʃ f ɪ ɐ
 x'fisser	ʃ f ɪ s s ɛ r
 x'futur	ʃ f ʊ t ʊ r
-x'għadda	ʃ ˤ ː ɐ d d ɐ
-x'għamel	ʃ ˤ ː ɐ m ɛ l
-x'għamel?	ʃ ˤ ː ɐ m ɛ l
-x'għamilna	ʃ ˤ ː ɐ m ɪ l n ɐ
-x'għamilna.	ʃ ˤ ː ɐ m ɪ l n ɐ
-x'għamilt?	ʃ ˤ ː ɐ m ɪ l t
-x'għandek?	ʃ ˤ ː ɐ n d ɛ k
-x'għandna?	ʃ ˤ ː ɐ n d n ɐ
-x'għandu	ʃ ˤ ː ɐ n d ʊ
-x'għedtli!	ʃ ˤ ː ɛ d t l ɪ
-x'għidt	ʃ ˤ ː ɪ d t
+x'għadda	ʃˤː ɐ d d ɐ
+x'għamel	ʃˤː ɐ m ɛ l
+x'għamel?	ʃˤː ɐ m ɛ l
+x'għamilna	ʃˤː ɐ m ɪ l n ɐ
+x'għamilna.	ʃˤː ɐ m ɪ l n ɐ
+x'għamilt?	ʃˤː ɐ m ɪ l t
+x'għandek?	ʃˤː ɐ n d ɛ k
+x'għandna?	ʃˤː ɐ n d n ɐ
+x'għandu	ʃˤː ɐ n d ʊ
+x'għedtli!	ʃˤː ɛ d t l ɪ
+x'għidt	ʃˤː ɪ d t
 x'hemm	ʃ ɛ m m
 x'iffirmaw!	ʃ ɪ f f ɪ r m ɐ w
 x'ifisser	ʃ ɪ f ɪ s s ɛ r
@@ -11805,10 +11790,6 @@ zone?	t͡s ɔ n ɛ
 zones?	t͡s ɔ n ɛ s
 zoos.	t͡s ɔ ɔ s
 zopp!	t͡s ɔ p p
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 ċ-ċavetta	t͡ʃ t͡ʃ ɐ v ɛ t t ɐ
 ċajta!	t͡ʃ ɐ j t ɐ
 ċajta.	t͡ʃ ɐ j t ɐ
@@ -12269,7 +12250,3 @@ zopp!	t͡s ɔ p p
 żżid	z z ɪ d
 żżidu	z z ɪ d ʊ
 żżommu	z z ɔ m m ʊ
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

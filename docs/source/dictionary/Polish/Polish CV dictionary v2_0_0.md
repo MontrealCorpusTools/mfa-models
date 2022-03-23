@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -49,12 +51,12 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 14016
+        * Occurances: 14014
         * Examples
-          * samej: [s a m ɛ j]
-          * ideom: [i d ɛ ɔ m]
-          * wotum: [v ɔ t u m]
-          * mycie: [m ɨ t͡ɕ ɛ]
+          * tamta: [t a m t a]
+          * matt: [m a t t]
+          * niem: [ɲ ɛ m]
+          * same: [s a m ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +65,10 @@
       * n
         * Occurances: 17936
         * Examples
-          * "żona: [ʐ ɔ n a]
-          * nam: [n a m]
-          * win: [v i n]
-          * nogi.: [n ɔ ɡʲ i]
+          * okno,: [ɔ k n ɔ]
+          * wnet: [v n ɛ t]
+          * "zna: [z n a]
+          * "synu: [s ɨ n u]
     ```
   - ```{ipa_cell}
     ```
@@ -75,20 +77,20 @@
       * ɲ
         * Occurances: 9277
         * Examples
-          * oknie: [ɔ k ɲ ɛ]
-          * tytoń: [t ɨ t ɔ ɲ]
-          * tonie: [t ɔ ɲ ɛ]
-          * panią: [p a ɲ ɔ̃]
+          * niem: [ɲ ɛ m]
+          * niską: [ɲ i s k ɔ̃]
+          * nie…: [ɲ ɛ]
+          * runie: [r u ɲ ɛ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 650
         * Examples
-          * jęk,: [j ɛ ŋ k]
-          * jęk: [j ɛ ŋ k]
-          * ręką,: [r ɛ ŋ k ɔ̃]
-          * jęku: [j ɛ ŋ k u]
+          * męki: [m ɛ ŋ kʲ i]
+          * rękę:: [r ɛ ŋ k ɛ̃]
+          * węgry: [v ɛ ŋ ɡ r ɨ]
+          * ręki,: [r ɛ ŋ kʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -96,40 +98,40 @@
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 14499
+        * Occurances: 14498
         * Examples
-          * łopot: [w ɔ p ɔ t]
-          * płód.: [p w u d]
-          * podać: [p ɔ d a t͡ɕ]
-          * opis: [ɔ p i s]
+          * opory: [ɔ p ɔ r ɨ]
+          * typ: [t ɨ p]
+          * puść: [p u ɕ t͡ɕ]
+          * ślepą: [ɕ l ɛ p ɔ̃]
     * voiced
       * b
         * Occurances: 5714
         * Examples
-          * ryby?: [r ɨ b ɨ]
-          * bajka: [b a j k a]
-          * brak.: [b r a k]
-          * arab.: [a r a b]
+          * butów: [b u t u f]
+          * bawię: [b a v j ɛ]
+          * ból: [b u l]
+          * obu.": [ɔ b u]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 19147
+        * Occurances: 19146
         * Examples
-          * tego: [t ɛ ɡ ɔ]
-          * stają: [s t a j ɔ̃]
-          * łopot: [w ɔ p ɔ t]
-          * litwa: [l i t f a]
+          * fatty: [f a t t ɨ]
+          * tłok,: [t w ɔ k]
+          * tamta: [t a m t a]
+          * butów: [b u t u f]
     * voiced
       * d
-        * Occurances: 8628
+        * Occurances: 8627
         * Examples
-          * płód.: [p w u d]
-          * ideom: [i d ɛ ɔ m]
-          * podać: [p ɔ d a t͡ɕ]
-          * hardo: [x a r d ɔ]
+          * wody: [v ɔ d ɨ]
+          * "dwie: [d v j ɛ]
+          * duchy: [d u x ɨ]
+          * dasz?: [d a ʂ]
     ```
   - ```{ipa_cell}
     ```
@@ -140,32 +142,18 @@
       * k
         * Occurances: 10737
         * Examples
-          * bajka: [b a j k a]
-          * guzik: [ɡ u ʑ i k]
-          * brak.: [b r a k]
-          * kruk: [k r u k]
-      * kʲ
-        * Occurances: 2102
-        * Examples
-          * walki: [v a l kʲ i]
-          * kim: [kʲ i m]
-          * kim.: [kʲ i m]
-          * kij.: [kʲ i j]
+          * kasia: [k a ɕ a]
+          * tłok,: [t w ɔ k]
+          * łóżka: [w u ʂ k a]
+          * okno,: [ɔ k n ɔ]
     * voiced
       * ɡ
         * Occurances: 5417
         * Examples
-          * tego: [t ɛ ɡ ɔ]
-          * guzik: [ɡ u ʑ i k]
-          * bieg.: [b j ɛ ɡ]
-          * ugody: [u ɡ ɔ d ɨ]
-      * ɡʲ
-        * Occurances: 496
-        * Examples
-          * nogi.: [n ɔ ɡʲ i]
-          * nogi,: [n ɔ ɡʲ i]
-          * ogier: [ɔ ɡʲ ɛ r]
-          * gilad: [ɡʲ i l a t]
+          * głowy: [ɡ w ɔ v ɨ]
+          * góra.: [ɡ u r a]
+          * gry,: [ɡ r ɨ]
+          * także: [t a ɡ ʐ ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -183,18 +171,18 @@
       * t͡s
         * Occurances: 5110
         * Examples
-          * pracę: [p r a t͡s ɛ]
-          * „cóż: [t͡s u ʂ]
-          * celi: [t͡s ɛ l i]
-          * cele: [t͡s ɛ l ɛ]
+          * móc: [m u t͡s]
+          * pomóc: [p ɔ m u t͡s]
+          * tacy.: [t a t͡s ɨ]
+          * tańca: [t a ɲ t͡s a]
     * voiced
       * d͡z
         * Occurances: 783
         * Examples
-          * sądzę: [s ɔ n d͡z ɛ]
-          * jedz.: [j ɛ d͡z]
-          * nędzą: [n ɛ n d͡z ɔ̃]
-          * rdzą: [r d͡z ɔ̃]
+          * widzę: [v i d͡z ɛ]
+          * żądzę: [ʐ ɔ n d͡z ɛ]
+          * żądza: [ʐ ɔ n d͡z a]
+          * budzą: [b u d͡z ɔ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -203,18 +191,18 @@
       * t͡ɕ
         * Occurances: 6291
         * Examples
-          * podać: [p ɔ d a t͡ɕ]
-          * mycie: [m ɨ t͡ɕ ɛ]
-          * wybić: [v ɨ b i t͡ɕ]
-          * stać.: [s t a t͡ɕ]
+          * puść: [p u ɕ t͡ɕ]
+          * dziać: [d͡ʑ a t͡ɕ]
+          * ciążą: [t͡ɕ ɔ̃ ʐ ɔ̃]
+          * nosić: [n ɔ ɕ i t͡ɕ]
     * voiced
       * d͡ʑ
         * Occurances: 2232
         * Examples
-          * pędzi: [p ɛ n d͡ʑ i]
+          * dziać: [d͡ʑ a t͡ɕ]
           * sądzi: [s ɔ n d͡ʑ i]
-          * dziką: [d͡ʑ i k ɔ̃]
-          * gdzie: [ɡ d͡ʑ ɛ]
+          * "idź,: [i d͡ʑ]
+          * widzi: [v i d͡ʑ i]
     ```
   - ```{ipa_cell}
     ```
@@ -230,54 +218,54 @@
       * s
         * Occurances: 11898
         * Examples
-          * samej: [s a m ɛ j]
-          * stają: [s t a j ɔ̃]
-          * opis: [ɔ p i s]
-          * słupy: [s w u p ɨ]
+          * same: [s a m ɛ]
+          * kurs: [k u r s]
+          * niską: [ɲ i s k ɔ̃]
+          * "synu: [s ɨ n u]
     * voiced
       * z
         * Occurances: 7808
         * Examples
-          * zosiu: [z ɔ ɕ u]
-          * zawył: [z a v ɨ w]
-          * "za: [z a]
-          * »złe: [z w ɛ]
+          * "zna: [z n a]
+          * zosi.: [z ɔ ɕ i]
+          * zmarł: [z m a r w]
+          * beza: [b ɛ z a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 12832
         * Examples
-          * łączą: [w ɔ n t ʂ ɔ̃]
-          * „cóż: [t͡s u ʂ]
-          * krzyk: [k ʂ ɨ k]
-          * włącz: [v w ɔ n t ʂ]
+          * łóżka: [w u ʂ k a]
+          * „czym: [t ʂ ɨ m]
+          * toż: [t ɔ ʂ]
+          * dasz?: [d a ʂ]
     * voiced
       * ʐ
         * Occurances: 4477
         * Examples
-          * "żona: [ʐ ɔ n a]
-          * łożu,: [w ɔ ʐ u]
-          * rząd,: [ʐ ɔ n d]
-          * ważna: [v a ʐ n a]
+          * też,: [t ɛ ʐ]
+          * ciążą: [t͡ɕ ɔ̃ ʐ ɔ̃]
+          * nóż!: [n u ʐ]
+          * duży,: [d u ʐ ɨ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 4914
         * Examples
-          * zosiu: [z ɔ ɕ u]
-          * byłeś: [b ɨ w ɛ ɕ]
-          * kusi: [k u ɕ i]
-          * sie: [ɕ ɛ]
+          * kasia: [k a ɕ a]
+          * puść: [p u ɕ t͡ɕ]
+          * ślepą: [ɕ l ɛ p ɔ̃]
+          * zosi.: [z ɔ ɕ i]
     * voiced
       * ʑ
         * Occurances: 595
         * Examples
-          * guzik: [ɡ u ʑ i k]
-          * zimy,: [ʑ i m ɨ]
-          * aziza: [a ʑ i z a]
-          * grozi: [ɡ r ɔ ʑ i]
+          * źle…: [ʑ l ɛ]
+          * więzi: [v j ɛ̃ ʑ i]
+          * łazi: [w a ʑ i]
+          * wziął: [v ʑ ɔ w]
     ```
   - ```{ipa_cell}
     ```
@@ -291,18 +279,18 @@
       * f
         * Occurances: 4910
         * Examples
-          * rowów: [r ɔ v u f]
-          * litwa: [l i t f a]
-          * larw: [l a r f]
-          * form: [f ɔ r m]
+          * fatty: [f a t t ɨ]
+          * butów: [b u t u f]
+          * fala: [f a l a]
+          * aktów: [a k t u f]
     * voiced
       * v
         * Occurances: 14809
         * Examples
-          * rowów: [r ɔ v u f]
-          * zawył: [z a v ɨ w]
-          * wotum: [v ɔ t u m]
-          * prawe: [p r a v ɛ]
+          * bawię: [b a v j ɛ]
+          * głowy: [ɡ w ɔ v ɨ]
+          * wody: [v ɔ d ɨ]
+          * "dwie: [d v j ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -311,19 +299,19 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 4514
-        * Examples
-          * hardo: [x a r d ɔ]
-          * mech,: [m ɛ x]
-          * hit,: [x i t]
-          * ruch!: [r u x]
     ```
   - ```{ipa_cell}
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 11658
+        * Examples
+          * tłok,: [t w ɔ k]
+          * łóżka: [w u ʂ k a]
+          * głowy: [ɡ w ɔ v ɨ]
+          * biała: [b j a w a]
     ```
   - ```{ipa_cell}
     ```
@@ -336,10 +324,10 @@
       * j
         * Occurances: 14074
         * Examples
-          * samej: [s a m ɛ j]
-          * stają: [s t a j ɔ̃]
-          * bajka: [b a j k a]
-          * jęk,: [j ɛ ŋ k]
+          * bawię: [b a v j ɛ]
+          * "dwie: [d v j ɛ]
+          * „jej: [j ɛ j]
+          * biała: [b j a w a]
     ```
   - ```{ipa_cell}
     ```
@@ -353,12 +341,12 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 14847
+        * Occurances: 14846
         * Examples
-          * rowów: [r ɔ v u f]
-          * ryby?: [r ɨ b ɨ]
-          * larw: [l a r f]
-          * hardo: [x a r d ɔ]
+          * opory: [ɔ p ɔ r ɨ]
+          * kar: [k a r]
+          * kurs: [k u r s]
+          * góra.: [ɡ u r a]
     ```
   - ```{ipa_cell}
     ```
@@ -376,12 +364,12 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 8944
+        * Occurances: 8941
         * Examples
-          * litwa: [l i t f a]
-          * larw: [l a r f]
-          * walki: [v a l kʲ i]
-          * nadal: [n a d a l]
+          * fala: [f a l a]
+          * luki: [l u kʲ i]
+          * ból: [b u l]
+          * ślepą: [ɕ l ɛ p ɔ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -394,7 +382,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -411,24 +403,24 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 14534
+        * Occurances: 14533
         * Examples
-          * ideom: [i d ɛ ɔ m]
-          * litwa: [l i t f a]
-          * guzik: [ɡ u ʑ i k]
-          * opis: [ɔ p i s]
+          * luki: [l u kʲ i]
+          * miły.: [m i w ɨ]
+          * niską: [ɲ i s k ɔ̃]
+          * zosi.: [z ɔ ɕ i]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 17685
+        * Occurances: 17684
         * Examples
-          * ryby?: [r ɨ b ɨ]
-          * zawył: [z a v ɨ w]
-          * mycie: [m ɨ t͡ɕ ɛ]
-          * słupy: [s w u p ɨ]
+          * fatty: [f a t t ɨ]
+          * opory: [ɔ p ɔ r ɨ]
+          * głowy: [ɡ w ɔ v ɨ]
+          * wody: [v ɔ d ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -437,10 +429,10 @@
       * u
         * Occurances: 12946
         * Examples
-          * rowów: [r ɔ v u f]
-          * płód.: [p w u d]
-          * zosiu: [z ɔ ɕ u]
-          * guzik: [ɡ u ʑ i k]
+          * butów: [b u t u f]
+          * łóżka: [w u ʂ k a]
+          * duchy: [d u x ɨ]
+          * puść: [p u ɕ t͡ɕ]
     ```
 * -
   - ```{ipa_cell}
@@ -479,12 +471,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 33504
+        * Occurances: 33501
         * Examples
-          * tego: [t ɛ ɡ ɔ]
-          * samej: [s a m ɛ j]
-          * ideom: [i d ɛ ɔ m]
-          * mycie: [m ɨ t͡ɕ ɛ]
+          * bawię: [b a v j ɛ]
+          * "dwie: [d v j ɛ]
+          * „jej: [j ɛ j]
+          * niem: [ɲ ɛ m]
     ```
   - ```{ipa_cell}
     ```
@@ -497,10 +489,10 @@
       * ɔ
         * Occurances: 33574
         * Examples
-          * tego: [t ɛ ɡ ɔ]
-          * rowów: [r ɔ v u f]
-          * łopot: [w ɔ p ɔ t]
-          * ideom: [i d ɛ ɔ m]
+          * tłok,: [t w ɔ k]
+          * opory: [ɔ p ɔ r ɨ]
+          * głowy: [ɡ w ɔ v ɨ]
+          * wody: [v ɔ d ɨ]
     ```
 * -
   - ```{ipa_cell}
@@ -521,12 +513,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 38406
+        * Occurances: 38405
         * Examples
-          * samej: [s a m ɛ j]
-          * stają: [s t a j ɔ̃]
-          * litwa: [l i t f a]
-          * bajka: [b a j k a]
+          * kasia: [k a ɕ a]
+          * fatty: [f a t t ɨ]
+          * tamta: [t a m t a]
+          * łóżka: [w u ʂ k a]
     ```
   - ```{ipa_cell}
     ```
@@ -535,7 +527,7 @@
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -598,10 +590,10 @@
       * ɛ̃
         * Occurances: 1455
         * Examples
-          * mięso: [m j ɛ̃ s ɔ]
-          * śpię,: [ɕ p j ɛ̃]
-          * picę.: [p i t͡s ɛ̃]
-          * mogę,: [m ɔ ɡ ɛ̃]
+          * węzeł: [v ɛ̃ z ɛ w]
+          * rękę:: [r ɛ ŋ k ɛ̃]
+          * męską: [m ɛ̃ s k ɔ̃]
+          * gęsta: [ɡ ɛ̃ s t a]
     ```
   - ```{ipa_cell}
     ```
@@ -614,10 +606,10 @@
       * ɔ̃
         * Occurances: 2717
         * Examples
-          * stają: [s t a j ɔ̃]
-          * łączą: [w ɔ n t ʂ ɔ̃]
-          * nową: [n ɔ v ɔ̃]
-          * kąsa?: [k ɔ̃ s a]
+          * taką: [t a k ɔ̃]
+          * ślepą: [ɕ l ɛ p ɔ̃]
+          * niską: [ɲ i s k ɔ̃]
+          * ciążą: [t͡ɕ ɔ̃ ʐ ɔ̃]
     ```
 * -
   - ```{ipa_cell}
@@ -642,9 +634,3 @@
   - ```{ipa_cell}
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`ü`
-* {ipa_inline}`š`

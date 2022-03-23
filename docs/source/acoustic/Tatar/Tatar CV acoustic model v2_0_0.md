@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Tatar_v7_0`:
-  * **Hours:** `28.00`
-  * **Speakers:** `187`
-  * **Utterances:** `27,416`
+   * {ref}`Common_Voice_Tatar_v7_0`:
+     * **Hours:** `28.00`
+     * **Speakers:** `187`
+     * **Utterances:** `27,416`
    ```
 
 

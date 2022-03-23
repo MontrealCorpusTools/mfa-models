@@ -22,6 +22,11 @@
    * {ref}`hausa_mfa_g2p_model_v2_0_0`
    ```
 
+
+   ```{admonition} Acoustic models
+   * {ref}`hausa_mfa_acoustic_model_v2_0_0`
+   ```
+
 ``````
 
 ```{include} ../../../../dictionary/hausa/mfa/v2.0.0/README.md
@@ -31,6 +36,8 @@
 ## IPA Charts
 
 ### Consonants
+
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
 
 ``````{list-table}
 :header-rows: 1
@@ -51,20 +58,20 @@
       * m
         * Occurances: 1516
         * Examples
-          * mali: [m aː˥ l iː˥]
-          * dumi: [d ɪ˥ m iː˥]
-          * manjo: [m a˥ n dʒ ɔ˩]
-          * muku: [m ʊ˩ kʷ ʊ˩]
+          * mako: [m aː˥ kʷ oː˩]
+          * amana: [ʔ a˩ m aː˥ n aː˩]
+          * pumi: [p ʊ˥ m iː˥]
+          * komo: [kʷ oː˥ m oː˥]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 1703
         * Examples
-          * ɗina: [ɗ ɪ˥ n aː˩]
-          * anini: [ʔ a˩ n iː˥ n iː˥]
-          * hana: [h aː˥ n aː˩]
-          * neja: [n eː˥ dʒ ə˩]
+          * amana: [ʔ a˩ m aː˥ n aː˩]
+          * binta: [b ɪ˥ n t ə˩]
+          * nike: [n ɪ˥ c eː˥]
+          * muni: [m ʊ˩ n iː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -75,20 +82,20 @@
       * ɲ
         * Occurances: 106
         * Examples
-          * yanzu: [j ɛ˥ ɲ z ɪ˩]
-          * sanya: [s ɛ˥ ɲ j aː˩]
-          * ganki: [ɡ ɛ˥ ɲ c iː˩]
-          * gunki: [ɡʷ ʊ˥ ɲ c iː˩]
+          * dinke: [d ɪ˥ ɲ c eː˥]
+          * janye: [dʒ ə˩ ɛ˥ ɲ j eː˥]
+          * kunya: [kʷ ʊ˥ ɲ j aː˥]
+          * yanki: [j ɛ˥ ɲ c iː˩]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1559
         * Examples
-          * dodon: [d oː˥ d oː˩ ŋ]
-          * bugun: [b ʊ˩ ɡʷ ʊ˩ ŋ]
-          * hasan: [h a˥ s a˩ ŋ]
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
+          * karon: [k a˥ r ɔ˩ ŋ]
+          * yang: [j ɛ˥ ŋ]
+          * ban: [b a˩ ŋ]
+          * sukan: [s ɪ˥ k a˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -98,36 +105,36 @@
       * p
         * Occurances: 83
         * Examples
-          * kaf: [k a˥ p]
-          * cif: [tʃ ɪ˥ p]
+          * pumi: [p ʊ˥ m iː˥]
+          * nepal: [n eː˥ p a˥˦ l]
           * pedro: [p eː˥ d ɽ oː˩]
-          * pasha: [p aː˥ ʃ ə˩]
+          * pole: [p oː˩ l eː˩]
     * voiced
       * b
         * Occurances: 1026
         * Examples
-          * babi: [b ə˩ b iː˥]
-          * busa: [b ʊ˥ s aː˩]
-          * bugun: [b ʊ˩ ɡʷ ʊ˩ ŋ]
-          * lebur: [l eː˩ b ʊ˥ r]
+          * jabu: [dʒ ə˥ b ʊ˩]
+          * binta: [b ɪ˥ n t ə˩]
+          * tebur: [t eː˥ b ʊ˥ r]
+          * biyu: [b ɪ˥ j ʊ˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 1276
         * Examples
-          * oto: [ʔ oː˥ t o˥]
-          * kyat: [c ɛ˥˦ t]
-          * dakta: [d ə˥ k t aː˩]
-          * tifa: [t iː˥ ɸ aː˩]
+          * binta: [b ɪ˥ n t ə˩]
+          * tebur: [t eː˥ b ʊ˥ r]
+          * utane: [ʔ ʊ˥ t aː˥ n e˥]
+          * lifta: [l ɪ˩ ɸ t aː˩]
     * voiced
       * d
         * Occurances: 991
         * Examples
-          * dodon: [d oː˥ d oː˩ ŋ]
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * wadan: [w ə˩ d a˥˦ ŋ]
-          * dakta: [d ə˥ k t aː˩]
+          * yarda: [j aː˥ ɽ d aː˩]
+          * gandu: [ɡ a˥ n d uː˥]
+          * dinke: [d ɪ˥ ɲ c eː˥]
+          * dakar: [d ə˥ k a˩ r]
     ```
   - ```{ipa_cell}
     ```
@@ -138,46 +145,46 @@
       * c
         * Occurances: 469
         * Examples
-          * kilo: [c ɪ˩ l oː˩]
-          * jaki: [dʒ aː˩ c iː˥]
-          * kyat: [c ɛ˥˦ t]
-          * kya: [c ɛ˥]
+          * nike: [n ɪ˥ c eː˥]
+          * kera: [c eː˥ ɽ aː˩]
+          * dinke: [d ɪ˥ ɲ c eː˥]
+          * iraki: [ʔ ɪ˩ r aː˥˦ c iː˥]
     * voiced
       * ɟ
         * Occurances: 159
         * Examples
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * rige: [ɽ ɪ˥ ɟ e˥]
-          * ragi: [r ə˥ ɟ iː˩]
-          * fagen: [ɸ ə˥ ɟ eː˥ ŋ]
+          * gida: [ɟ iː˥ d aː˩]
+          * niger: [n ɪ˥˦ ɟ eː˥ r]
+          * ƙugi: [kʷʼ uː˥ ɟ iː˥]
+          * giwar: [ɟ iː˥ w a˥ r]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 901
         * Examples
-          * karfe: [k a˥ r ɸ eː˩]
-          * kazak: [k ə˥ z ə˥ k]
-          * kaiwa: [k aj˥ w aː˥]
-          * kaf: [k a˥ p]
+          * karon: [k a˥ r ɔ˩ ŋ]
+          * kaji: [k a˥ dʒ iː˥]
+          * siɗik: [s ɪ˥ ɗ ɪ˥ k]
+          * dakar: [d ə˥ k a˩ r]
     * voiced
       * ɡ
         * Occurances: 359
         * Examples
-          * gawar: [ɡ ə˥ w a˥ r]
-          * gaibi: [ɡ aj˥ b ɪ˩]
+          * gandu: [ɡ a˥ n d uː˥]
           * gana: [ɡ aː˥ n ə˩]
-          * rigar: [ɽ iː˩ ɡ aː˩ r]
+          * banga: [b a˩ ŋ ɡ aː˥]
+          * gaza: [ɡ ə˩ z aː˩]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 910
         * Examples
-          * anini: [ʔ a˩ n iː˥ n iː˥]
-          * oto: [ʔ oː˥ t o˥]
-          * asefi: [ʔ ɛ˥ ɸ iː˥]
-          * juna': [dʒ ʊ˩ n aː˥ ʔ]
+          * amana: [ʔ a˩ m aː˥ n aː˩]
+          * utane: [ʔ ʊ˥ t aː˥ n e˥]
+          * enlai: [ʔ ɛ˥ n l aj˥]
+          * zab'e: [z ə˩ b ʔ eː˩]
     ```
 * - {submanner}`Implosive`
   - ```{ipa_cell}
@@ -185,20 +192,20 @@
       * ɓ
         * Occurances: 67
         * Examples
+          * keɓe: [c eː˥ ɓ e˩]
           * zaɓe: [z ɓ e˩]
-          * ɓace: [ɓ ə˥ tʃ eː˩]
-          * ɓeran: [ɓ eː˩ r a˩ ŋ]
-          * ɓata: [ɓ aː˥ t aː˩]
+          * haɓa: [h a˥ ɓ aː˩]
+          * ɓulla: [ɓ ʊ˩ l ə˥]
     ```
   - ```{ipa_cell}
     * voiced
       * ɗ
         * Occurances: 145
         * Examples
-          * ɗina: [ɗ ɪ˥ n aː˩]
-          * kaɗo: [k aː˥ ɗ o˩]
-          * hulɗa: [h ʊ˥ l ɗ aː˩]
-          * ɗakin: [ɗ aː˥ c ɪ˩ ŋ]
+          * ɗaya: [ɗ ɛ˥ j ɛ˥]
+          * siɗik: [s ɪ˥ ɗ ɪ˥ k]
+          * haɗu: [h a˥ ɗ ɪ˥]
+          * ɗana: [ɗ aː˥ n aː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -207,37 +214,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Ejective`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * cʼ
-        * Occurances: 55
-        * Examples
-          * ƙin: [cʼ ɪ˥ ŋ]
-          * damƙe: [d a˥ m cʼ eː˩]
-          * iraƙi: [ʔ ɪ˩ r aː˥˦ cʼ ɪ˩]
-          * ƙirji: [cʼ ɪ˩ ɽ dʒ iː˥]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʼ
-        * Occurances: 134
-        * Examples
-          * ƙauye: [kʼ aw˥ j eː˩]
-          * ƙashi: [kʼ ə˩ ʃ iː˥]
-          * ƙasan: [kʼ ə˥ s a˩ ŋ]
-          * ƙarfe: [kʼ a˥ r ɸ eː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -251,18 +227,18 @@
       * tʃ
         * Occurances: 475
         * Examples
-          * dace: [d ə˩ tʃ eː˩]
-          * cif: [tʃ ɪ˥ p]
-          * cikin: [tʃ ɪ˥ c ɪ˥ ŋ]
-          * ciki: [tʃ ɪ˥ c iː˩]
+          * kwace: [kʷ ə˥ tʃ eː˩]
+          * yaci: [j aː˩ tʃ iː˥]
+          * caca: [tʃ aː˩ tʃ aː˩]
+          * cuci: [tʃ ɪ˥ tʃ iː˥]
     * voiced
       * dʒ
         * Occurances: 488
         * Examples
-          * jaki: [dʒ aː˩ c iː˥]
-          * kajin: [k aː˥ dʒ ɪ˩ ŋ]
-          * neja: [n eː˥ dʒ ə˩]
-          * juna': [dʒ ʊ˩ n aː˥ ʔ]
+          * jabu: [dʒ ə˥ b ʊ˩]
+          * kaji: [k a˥ dʒ iː˥]
+          * jun: [dʒ ɪ˥ ŋ]
+          * jama: [dʒ aː˥ m aː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -280,28 +256,28 @@
       * s
         * Occurances: 1288
         * Examples
-          * busa: [b ʊ˥ s aː˩]
-          * sulhu: [s ɪ˥ l h ʊ˩]
-          * hasan: [h a˥ s a˩ ŋ]
-          * rasu: [r ə˩ s ɪ˥]
+          * hausa: [h aw˥ s ə˥]
+          * same: [s a˥ m eː˩]
+          * siɗik: [s ɪ˥ ɗ ɪ˥ k]
+          * sukan: [s ɪ˥ k a˩ ŋ]
     * voiced
       * z
         * Occurances: 328
         * Examples
-          * kazak: [k ə˥ z ə˥ k]
-          * yanzu: [j ɛ˥ ɲ z ɪ˩]
-          * zube: [z ɪ˩ b e˩]
-          * zaɓe: [z ɓ e˩]
+          * zaria: [z aː˥ ɽ ɪ˥ aː˩]
+          * zaba: [z aː˩ b ə˥]
+          * zab'e: [z ə˩ b ʔ eː˩]
+          * biza: [b iː˥ z aː˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 399
         * Examples
-          * yashi: [j ɛ˩ ə˩ ʃ iː˥]
-          * shehu: [ʃ eː˥ h uː˩]
-          * shaho: [ʃ aː˥ h oː˩]
-          * saleh: [s ə˩ l e˥ ʃ]
+          * shago: [ʃ ə˥ ɡʷ oː˥]
+          * shun: [ʃ ɪ˥ ŋ]
+          * flash: [ɸ l ə˩ ʃ]
+          * shafe: [ʃ aː˥ ɸ e˥]
     ```
   - ```{ipa_cell}
     ```
@@ -319,10 +295,10 @@
       * sʼ
         * Occurances: 195
         * Examples
-          * fatsa: [ɸ ə˥ sʼ ə˥]
-          * yatsa: [j aː˥ sʼ aː˩]
+          * watsi: [w ə˥ sʼ iː˥]
+          * tsoho: [sʼ oː˥ h oː˥]
+          * fatsi: [ɸ ə˥ sʼ iː˥]
           * tsaro: [sʼ ə˥ r o˩]
-          * tsayi: [sʼ aː˩ j iː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -340,10 +316,10 @@
       * ɸ
         * Occurances: 630
         * Examples
-          * karfe: [k a˥ r ɸ eː˩]
-          * tifa: [t iː˥ ɸ aː˩]
+          * lifta: [l ɪ˩ ɸ t aː˩]
+          * flash: [ɸ l ə˩ ʃ]
+          * shafe: [ʃ aː˥ ɸ e˥]
           * asefi: [ʔ ɛ˥ ɸ iː˥]
-          * fatsa: [ɸ ə˥ sʼ ə˥]
     ```
   - ```{ipa_cell}
     ```
@@ -360,13 +336,21 @@
       * h
         * Occurances: 655
         * Examples
-          * sulhu: [s ɪ˥ l h ʊ˩]
-          * hana: [h aː˥ n aː˩]
-          * hasan: [h a˥ s a˩ ŋ]
-          * hau: [h aw˥˦]
+          * hausa: [h aw˥ s ə˥]
+          * hadu: [h a˩ d ɪ˩]
+          * tsoho: [sʼ oː˥ h oː˥]
+          * duhu: [d uː˥ h ʊ˩]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 831
+        * Examples
+          * mowa: [m oː˥ w aː˩]
+          * watsi: [w ə˥ sʼ iː˥]
+          * wanda: [w a˩ n d aː˥]
+          * yawo: [j ɛ˥ w oː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -379,10 +363,10 @@
       * j
         * Occurances: 1044
         * Examples
-          * gyara: [ɡʷ j aː˥ r aː˩]
-          * yashi: [j ɛ˩ ə˩ ʃ iː˥]
-          * yanzu: [j ɛ˥ ɲ z ɪ˩]
-          * tayan: [t aː˩ j ŋ]
+          * yaci: [j aː˩ tʃ iː˥]
+          * ɗaya: [ɗ ɛ˥ j ɛ˥]
+          * yang: [j ɛ˥ ŋ]
+          * biyu: [b ɪ˥ j ʊ˥]
     ```
   - ```{ipa_cell}
     ```
@@ -400,10 +384,10 @@
       * ɽ
         * Occurances: 742
         * Examples
-          * kurar: [kʷ ʊ˩ ɽ r]
-          * yari: [j ɛ˩ ɽ iː˥]
-          * pedro: [p eː˥ d ɽ oː˩]
-          * rige: [ɽ ɪ˥ ɟ e˥]
+          * zaria: [z aː˥ ɽ ɪ˥ aː˩]
+          * kera: [c eː˥ ɽ aː˩]
+          * yarda: [j aː˥ ɽ d aː˩]
+          * red: [ɽ eː˥ d]
     ```
   - ```{ipa_cell}
     ```
@@ -419,10 +403,10 @@
       * r
         * Occurances: 1679
         * Examples
-          * gyara: [ɡʷ j aː˥ r aː˩]
-          * karfe: [k a˥ r ɸ eː˩]
-          * lebur: [l eː˩ b ʊ˥ r]
-          * rasu: [r ə˩ s ɪ˥]
+          * karon: [k a˥ r ɔ˩ ŋ]
+          * tebur: [t eː˥ b ʊ˥ r]
+          * dakar: [d ə˥ k a˩ r]
+          * tutar: [t uː˥ t a˩ r]
     ```
   - ```{ipa_cell}
     ```
@@ -442,10 +426,10 @@
       * l
         * Occurances: 1135
         * Examples
-          * sulhu: [s ɪ˥ l h ʊ˩]
-          * kilo: [c ɪ˩ l oː˩]
-          * lebur: [l eː˩ b ʊ˥ r]
-          * mali: [m aː˥ l iː˥]
+          * nepal: [n eː˥ p a˥˦ l]
+          * enlai: [ʔ ɛ˥ n l aj˥]
+          * lifta: [l ɪ˩ ɸ t aː˩]
+          * liu: [l ɪ˩ uː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -461,6 +445,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -479,10 +465,10 @@
       * iː
         * Occurances: 1257
         * Examples
-          * babi: [b ə˩ b iː˥]
-          * sili: [s iː˥ l iː˩]
-          * jaki: [dʒ aː˩ c iː˥]
-          * anini: [ʔ a˩ n iː˥ n iː˥]
+          * kili: [c ɪ˩ l iː˥˦]
+          * muni: [m ʊ˩ n iː˩]
+          * kaji: [k a˥ dʒ iː˥]
+          * lami: [l aː˩ m iː˥˦]
     ```
   - ```{ipa_cell}
     ```
@@ -495,10 +481,10 @@
       * uː
         * Occurances: 520
         * Examples
-          * muzi: [m uː˥ z iː˥]
-          * mugu: [m uː˥ ɡʷ uː˩]
-          * shehu: [ʃ eː˥ h uː˩]
           * kanmu: [k a˩ n m uː˩]
+          * gandu: [ɡ a˥ n d uː˥]
+          * hou: [h oː˥ uː˩]
+          * tutar: [t uː˥ t a˩ r]
     ```
 * -
   - ```{ipa_cell}
@@ -508,10 +494,10 @@
       * ɪ
         * Occurances: 3012
         * Examples
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * tik: [t ɪ˥˦ k]
-          * sulhu: [s ɪ˥ l h ʊ˩]
-          * yanzu: [j ɛ˥ ɲ z ɪ˩]
+          * lifta: [l ɪ˩ ɸ t aː˩]
+          * yii: [j ɪ˥˦ iː˩]
+          * asia: [ʔ a˥ s ɪ˩ aː˩]
+          * batu: [b ə˥ t ɪ˩]
     ```
   - ```{ipa_cell}
     ```
@@ -520,10 +506,10 @@
       * ʊ
         * Occurances: 1010
         * Examples
-          * kurar: [kʷ ʊ˩ ɽ r]
-          * busa: [b ʊ˥ s aː˩]
-          * bugun: [b ʊ˩ ɡʷ ʊ˩ ŋ]
-          * gunda: [ɡʷ ʊ˥ n d aː˩]
+          * baku: [b ə˥ kʷ ʊ˩]
+          * biyu: [b ɪ˥ j ʊ˥]
+          * mur: [m ʊ˥˦ r]
+          * duhu: [d uː˥ h ʊ˩]
     ```
   - ```{ipa_cell}
     ```
@@ -533,17 +519,17 @@
       * e
         * Occurances: 183
         * Examples
+          * dade: [d ə˩ d e˩]
+          * shafe: [ʃ aː˥ ɸ e˥]
           * sef: [s e˥˦ ɸ]
-          * bene: [b eː˥ n e˥]
-          * rige: [ɽ ɪ˥ ɟ e˥]
-          * zaɓe: [z ɓ e˩]
+          * utane: [ʔ ʊ˥ t aː˥ n e˥]
       * eː
         * Occurances: 869
         * Examples
-          * ƙauye: [kʼ aw˥ j eː˩]
-          * kebe: [c eː˥ b e˩]
-          * karfe: [k a˥ r ɸ eː˩]
-          * dace: [d ə˩ tʃ eː˩]
+          * ceton: [tʃ eː˩ t a˥ ŋ]
+          * same: [s a˥ m eː˩]
+          * zab'e: [z ə˩ b ʔ eː˩]
+          * tebur: [t eː˥ b ʊ˥ r]
     ```
   - ```{ipa_cell}
     ```
@@ -556,17 +542,17 @@
       * o
         * Occurances: 88
         * Examples
-          * mago: [m ə˥ ɡʷ o˥]
-          * kaɗo: [k aː˥ ɗ o˩]
+          * dao: [d a˥ o˥]
+          * goro: [ɡʷ oː˥ r o˩]
+          * faro: [ɸ ə˥ r o˩]
           * tsaro: [sʼ ə˥ r o˩]
-          * tsoro: [sʼ oː˥ r o˩]
       * oː
         * Occurances: 950
         * Examples
-          * sayo: [s aː˩ j oː˥˦]
-          * tilo: [t iː˩ l oː˥]
-          * oto: [ʔ oː˥ t o˥]
-          * dodon: [d oː˥ d oː˩ ŋ]
+          * iyo: [ʔ ɪ˩ j oː˥˦]
+          * mako: [m aː˥ kʷ oː˩]
+          * bako: [b ə˥ kʷ oː˩]
+          * mowa: [m oː˥ w aː˩]
     ```
 * -
   - ```{ipa_cell}
@@ -578,10 +564,10 @@
       * ə
         * Occurances: 2453
         * Examples
-          * dakta: [d ə˥ k t aː˩]
-          * wadan: [w ə˩ d a˥˦ ŋ]
-          * rasu: [r ə˩ s ɪ˥]
-          * babi: [b ə˩ b iː˥]
+          * zab'e: [z ə˩ b ʔ eː˩]
+          * ada: [ʔ a˥ d ə˩]
+          * jabu: [dʒ ə˥ b ʊ˩]
+          * hausa: [h aw˥ s ə˥]
     ```
   - ```{ipa_cell}
     ```
@@ -593,10 +579,10 @@
       * ɛ
         * Occurances: 454
         * Examples
-          * yanci: [j ɛ˩ a˥ n tʃ iː˥]
-          * kya: [c ɛ˥]
-          * yadda: [j ɛ˥˦ d ə˩]
-          * waya: [w ɛ˥ j aː˩]
+          * ayan: [ʔ ɛ˩ j ŋ]
+          * yaman: [j ɛ˥ m a˩ ŋ]
+          * yang: [j ɛ˥ ŋ]
+          * fanke: [ɸ ɛ˩ ɲ c eː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -610,9 +596,9 @@
         * Occurances: 55
         * Examples
           * karon: [k a˥ r ɔ˩ ŋ]
+          * gabon: [ɡ ə˥ b ɔ˩ ŋ]
+          * renon: [ɽ eː˥ n ɔ˩ ŋ]
           * dokta: [d ɔ˥ k t aː˩]
-          * kogon: [kʷ oː˩ ɟ ɔ˩ ŋ]
-          * allon: [ʔ a˥ l ɔ˩ ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -635,17 +621,17 @@
       * a
         * Occurances: 2650
         * Examples
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * jalal: [dʒ aː˩ l a˥˦ l]
-          * wakan: [w ə˥ k a˩ ŋ]
-          * gawar: [ɡ ə˥ w a˥ r]
+          * limam: [l iː˩ m a˥˦ ŋ]
+          * kaji: [k a˥ dʒ iː˥]
+          * dakar: [d ə˥ k a˩ r]
+          * ban: [b a˩ ŋ]
       * aː
         * Occurances: 3783
         * Examples
-          * busa: [b ʊ˥ s aː˩]
           * iraki: [ʔ ɪ˩ r aː˥˦ c iː˥]
-          * mali: [m aː˥ l iː˥]
-          * hana: [h aː˥ n aː˩]
+          * iraƙi: [ʔ ɪ˩ r aː˥˦ cʼ ɪ˩]
+          * yarda: [j aː˥ ɽ d aː˩]
+          * zaria: [z aː˥ ɽ ɪ˥ aː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -654,12 +640,12 @@
 ``````
 
 
-### Diphthongs
+#### Diphthongs
 
 * {ipa_inline}`aj`
 * {ipa_inline}`aw`
 
-### Tones
+#### Tones
 
 * {ipa_inline}`˥`
 * {ipa_inline}`˥˦`

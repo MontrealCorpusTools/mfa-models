@@ -17,3 +17,4 @@ Hausa
    :hidden:
 
    Hausa CV acoustic model v2_0_0.md
+   Hausa MFA acoustic model v2_0_0.md

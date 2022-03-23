@@ -60,8 +60,8 @@
         "\u028a",
         "\u028f"
     ],
-    "word_count": 281983,
-    "train_date": "2022-03-12",
+    "word_count": 281962,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_german_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={German MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/German/German MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

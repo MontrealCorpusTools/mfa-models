@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Uyghur_v7_0`:
-  * **Hours:** `41.00`
-  * **Speakers:** `281`
-  * **Utterances:** `24,970`
+   * {ref}`Common_Voice_Uyghur_v7_0`:
+     * **Hours:** `41.00`
+     * **Speakers:** `281`
+     * **Utterances:** `24,970`
    ```
 
 

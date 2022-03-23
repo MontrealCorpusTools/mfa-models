@@ -1,5 +1,5 @@
 
-# kurmanji.cv
+# Kurmanji CV acoustic model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/kurmanji_cv.html)
 
@@ -18,11 +18,12 @@ Jump to section:
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Kurmanji](https://en.wikipedia.org/wiki/Kurmanji)
 - **Dialect:** N/A
-- **Trained date:** `02-11-2022`
-- **Model type:** `Acoustic model`
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
-- **Model version:** `v2.0.0`
+- **Model type:** `Acoustic model`
+- **Features:** `MFCC`
 - **Architecture:** `gmm-hmm`
+- **Model version:** `v2.0.0`
+- **Trained date:** `02-11-2022`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Citation:**
@@ -78,7 +79,7 @@ You should assume every machine learning model has demographic bias unless prove
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in may countries. You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 
 ## Troubleshooting issues
 
@@ -93,11 +94,11 @@ demographics, and recording conditions are. If you encounter issues in alignment
 
 2. Add pronunciations to the pronunciation dictionary
 
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment
+   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
 
 3. Check the quality of your data
 
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset
+   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
    * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
 
 4. Adapt the model to your data
@@ -110,7 +111,7 @@ This model was trained on the following corpora:
 
 
 
-* [Common Voice Kurmanji](../../../../corpus/kurmanji/common_voice_kurmanji/7.0/README.md):
-  * **Hours:** `45.00`
-  * **Speakers:** `258`
-  * **Utterances:** `37,019`
+   * [Common Voice Kurmanji](../../../../corpus/kurmanji/common_voice_kurmanji/7.0/README.md):
+     * **Hours:** `45.00`
+     * **Speakers:** `258`
+     * **Utterances:** `37,019`

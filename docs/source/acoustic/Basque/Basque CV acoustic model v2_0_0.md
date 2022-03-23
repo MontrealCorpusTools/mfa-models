@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Basque_v7_0`:
-  * **Hours:** `91.00`
-  * **Speakers:** `842`
-  * **Utterances:** `63,916`
+   * {ref}`Common_Voice_Basque_v7_0`:
+     * **Hours:** `91.00`
+     * **Speakers:** `842`
+     * **Utterances:** `63,916`
    ```
 
 

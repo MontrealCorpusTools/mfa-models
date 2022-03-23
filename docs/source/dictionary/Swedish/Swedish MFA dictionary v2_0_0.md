@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -50,170 +52,129 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 11780
+        * Occurances: 14317
         * Examples
-          * mödan: [m øː d̪ a n̪]
-          * metos: [m ɛ t̪ ʊ s̪]
-          * mazor: [m a˧˩ s̪ uː r]
-          * mico: [m iː k ʊ]
+          * match: [m a˧˩ ɕ]
+          * varma: [ʋ a r m a]
+          * mätte: [m ɛ t̪ʰ ɛ]
+          * mpla: [ɛ m pʰ eː ɛ l ɑː]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * n̪
+        * Occurances: 39682
+        * Examples
+          * nähä: [n̪ ɛ˧˩ h ɛː]
+          * juryn: [j ɵ r ʏ n̪]
+          * åsen: [ɔ˧˩ s̪ ɛ n̪]
+          * natan: [n̪ a t̪ʰ a n̪]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ɳ
-        * Occurances: 1842
+        * Occurances: 2292
         * Examples
-          * ahern: [ɑː ɛ ɳ]
-          * erna: [ɛ ɳ a]
-          * garn: [ɡ a ɳ]
+          * öarna: [øː a ɳ a]
           * hearn: [h ɛ a ɳ]
+          * garn: [ɡ a ɳ]
+          * åarna: [ɔ˧˩ a˥˩ ɳ a]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 6040
+        * Occurances: 7498
         * Examples
-          * slang: [s̪ l a ŋ]
-          * kongo: [kʰ ɔ ŋ ɡ ʊ]
-          * ånger: [ɔ˧˩ ŋ ɛ r]
-          * änka: [ɛ ŋ k a]
+          * inget: [ɪ ŋ ɛ t̪]
+          * sing: [s̪ ɪ˥˩ ŋ]
+          * lång: [l ɔ˧˩ ŋ]
+          * sänkt: [s̪ ɛ ŋ k t̪]
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 5831
+        * Occurances: 7258
         * Examples
-          * gapen: [j ɑː˥˧ p ɛ˩ n̪]
-          * spred: [s̪ p r eː d̪]
-          * super: [s̪ ʉː˧˩ p ɛ˥˩ r]
-          * ropar: [r uː p a r]
+          * hopes: [h uː p ɛ˥˩ s̪]
+          * plagg: [p l a˧˩ ɡ]
+          * kapp: [kʰ a p]
+          * apor: [a p ʊ r]
     * voiced
       * b
-        * Occurances: 8024
+        * Occurances: 9730
         * Examples
-          * bären: [b ɛ r ɛ n̪]
-          * busig: [b ʉː s̪ ɪ ɡ]
-          * gabbe: [ɡ a˧˩ b ɛ˥˩]
-          * boom: [b uː ʊ m]
+          * bleck: [b l ɛ k]
+          * byrån: [b ʏ r oː n̪]
+          * burit: [b ʉː r ɪ t̪]
+          * basen: [b a s̪ ɛ n̪]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t̪
-        * Occurances: 25677
+        * Occurances: 31064
         * Examples
-          * sålt: [s̪ oː l t̪]
-          * metos: [m ɛ t̪ ʊ s̪]
-          * galet: [ɡ a l ɛ t̪]
-          * koyot: [kʰ ʊ j oː t̪]
+          * tots: [t̪ʰ ɔ t̪ s̪]
+          * inget: [ɪ ŋ ɛ t̪]
+          * sats: [s̪ a t̪ s̪]
+          * burit: [b ʉː r ɪ t̪]
     * voiced
       * d̪
-        * Occurances: 16165
+        * Occurances: 19536
         * Examples
-          * ridån: [r iː˧˩ d̪ oː n̪]
-          * mödan: [m øː d̪ a n̪]
-          * spred: [s̪ p r eː d̪]
-          * soda: [s̪ uː˧˩ d̪ a˥˩]
+          * fäder: [f ɛː d̪ ɛ r]
+          * flöde: [f l øː d̪ ɛ]
+          * dög: [d̪ øː ɡ]
+          * odlar: [uː˧˩ d̪ l a r]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈ
-        * Occurances: 1087
+        * Occurances: 1325
         * Examples
-          * hjort: [j ʊ ʈ]
-          * kärt: [ɕ ɛ ʈ]
-          * törst: [t̪ ɵ˥˩ ʂ ʈ]
-          * gert: [j ɛ ʈ]
+          * hertz: [h ɛ ʈ s̪]
+          * lärt: [l ɛ ʈ]
+          * spurt: [s̪ p ɵ ʈ]
+          * ert: [ɛ ʈ]
     * voiced
       * ɖ
-        * Occurances: 1465
+        * Occurances: 1760
         * Examples
-          * störd: [s̪ t̪ øː ɖ]
-          * hyrde: [h yː˥˩ ɖ ɛ]
-          * mörda: [m øː ɖ a]
-          * laird: [l ɛ j ɖ]
+          * flärd: [f l ɛː ɖ]
+          * iförd: [ɪ f ɵ ɖ]
+          * nord: [n̪ uː ɖ]
+          * fjärd: [f j ɛː ɖ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 14834
+        * Occurances: 18094
         * Examples
-          * kaksi: [kʰ ɑː k s̪ iː]
-          * lekar: [l ɛ k a r]
-          * saké: [s̪ ɑː k eː]
-          * ryka: [r ʏ k a]
+          * bleck: [b l ɛ k]
+          * klev: [k l eː ʋ]
+          * öken: [øː k ɛ n̪]
+          * vrak: [ʋ r a k]
     * voiced
       * ɡ
-        * Occurances: 8262
+        * Occurances: 10087
         * Examples
-          * jagar: [j ɑː ɡ a r]
-          * galet: [ɡ a l ɛ t̪]
-          * busig: [b ʉː s̪ ɪ ɡ]
-          * kongo: [kʰ ɔ ŋ ɡ ʊ]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 2438
-        * Examples
-          * pys: [pʰ yː s̪]
-          * knp: [kʰ oː ɛ n̪ pʰ eː]
-          * peru: [pʰ ɛ r ɵ]
-          * pompa: [pʰ ɔ˥˧ m p a]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t̪ʰ
-        * Occurances: 5950
-        * Examples
-          * item: [ɪ t̪ʰ eː m]
-          * intog: [ɪ˧˩ n̪ t̪ʰ uː ɡ]
-          * qatar: [k ɑː t̪ʰ a r]
-          * takt: [t̪ʰ a k t̪]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * ʈʰ
-        * Occurances: 355
-        * Examples
-          * rton: [ʈʰ ɔ n̪]
-          * årta: [oː ʈʰ a]
-          * orten: [ʊ ʈʰ eː n̪]
-          * arter: [a ʈʰ eː r]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 3592
-        * Examples
-          * kaksi: [kʰ ɑː k s̪ iː]
-          * koyot: [kʰ ʊ j oː t̪]
-          * kanna: [kʰ a˧˩ n̪ a˥˩]
-          * knp: [kʰ oː ɛ n̪ pʰ eː]
+          * groll: [ɡ r ɔ l]
+          * egga: [ɛ˧˩ ɡ a˥˩]
+          * mtgs: [ɛ m t̪ʰ eː ɡ eː s̪]
+          * dög: [d̪ øː ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -223,28 +184,36 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * voiceless
+      * s̪
+        * Occurances: 38194
+        * Examples
+          * tots: [t̪ʰ ɔ t̪ s̪]
+          * vissa: [ʋ ɪ s̪ a]
+          * sats: [s̪ a t̪ s̪]
+          * lewis: [l eː ʋ ɪ˩ s̪]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
-        * Occurances: 1977
+        * Occurances: 2359
         * Examples
-          * omars: [ɔ˧˩ m a ʂ]
-          * vers: [ʋ ɛ ʂ]
-          * törst: [t̪ ɵ˥˩ ʂ ʈ]
-          * varse: [ʋ a˧˩ ʂ ɛ˥˩]
+          * förse: [f œ ʂ ɛ˥˩]
+          * versa: [ʋ ɛ ʂ a˥˩]
+          * fars: [f ɑː ʂ]
+          * arsel: [a ʂ ɛ l]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
-        * Occurances: 1159
+        * Occurances: 1376
         * Examples
-          * källa: [ɕ ɛ l a]
-          * känna: [ɕ ɛ n̪ a]
-          * kärva: [ɕ ɛ r ʋ a˥˩]
-          * tjusa: [ɕ ʉː˧˩ s̪ a˥˩]
+          * match: [m a˧˩ ɕ]
+          * kyrka: [ɕ ʏ r k a]
+          * könen: [ɕ øː n̪ ɛ n̪]
+          * känts: [ɕ ɛ n̪ t̪ s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -256,12 +225,12 @@
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 8978
+        * Occurances: 10927
         * Examples
-          * felet: [f eː l ɛ t̪]
-          * frun: [f r ɵ n̪]
-          * flin: [f l iː n̪]
-          * rafal: [r a f a l]
+          * fäder: [f ɛː d̪ ɛ r]
+          * flöde: [f l øː d̪ ɛ]
+          * förse: [f œ ʂ ɛ˥˩]
+          * föll: [f œ l]
     ```
   - ```{ipa_cell}
     ```
@@ -276,12 +245,12 @@
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 5299
+        * Occurances: 6227
         * Examples
-          * hugo: [h ɵ]
-          * håv: [h oː ʋ]
-          * hen: [h eː n̪]
-          * härpå: [h ɛː r p oː˥˩]
+          * nähä: [n̪ ɛ˧˩ h ɛː]
+          * hal: [h ɑː l]
+          * hopes: [h uː p ɛ˥˩ s̪]
+          * hertz: [h ɛ ʈ s̪]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -289,12 +258,12 @@
   - ```{ipa_cell}
     * other
       * ʋ
-        * Occurances: 9769
+        * Occurances: 11757
         * Examples
-          * juver: [j ʉː ʋ ɛ r]
-          * håv: [h oː ʋ]
-          * weens: [ʋ ɛ ɛ n̪ s̪]
-          * ääven: [ɛ ɛː ʋ ɛ n̪]
+          * vissa: [ʋ ɪ s̪ a]
+          * varma: [ʋ a r m a]
+          * lewis: [l eː ʋ ɪ˩ s̪]
+          * klev: [k l eː ʋ]
     ```
   - ```{ipa_cell}
     ```
@@ -305,12 +274,12 @@
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 4830
+        * Occurances: 5785
         * Examples
-          * juver: [j ʉː ʋ ɛ r]
-          * gapen: [j ɑː˥˧ p ɛ˩ n̪]
-          * jagar: [j ɑː ɡ a r]
-          * koyot: [kʰ ʊ j oː t̪]
+          * juryn: [j ɵ r ʏ n̪]
+          * säljs: [s̪ ɛ l j s̪]
+          * görel: [j øː r ɛ l]
+          * jacke: [j a˧˩ k ɛ˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -326,12 +295,12 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 35553
+        * Occurances: 43405
         * Examples
-          * rulla: [r ɵ l a]
-          * juver: [j ʉː ʋ ɛ r]
-          * lekar: [l ɛ k a r]
-          * ridån: [r iː˧˩ d̪ oː n̪]
+          * fäder: [f ɛː d̪ ɛ r]
+          * juryn: [j ɵ r ʏ n̪]
+          * groll: [ɡ r ɔ l]
+          * varma: [ʋ a r m a]
     ```
   - ```{ipa_cell}
     ```
@@ -351,12 +320,12 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 20560
+        * Occurances: 25226
         * Examples
-          * rulla: [r ɵ l a]
-          * lekar: [l ɛ k a r]
-          * sålt: [s̪ oː l t̪]
-          * galet: [ɡ a l ɛ t̪]
+          * hal: [h ɑː l]
+          * groll: [ɡ r ɔ l]
+          * lill: [l ɪ l]
+          * bleck: [b l ɛ k]
     ```
   - ```{ipa_cell}
     ```
@@ -366,7 +335,7 @@
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Lateral_Tap`
+* - {manner}`Lateral Tap`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -378,12 +347,12 @@
   - ```{ipa_cell}
     * other
       * ɭ
-        * Occurances: 349
+        * Occurances: 407
         * Examples
           * jarro: [j ɑː ɭ s̪ r ʊ]
-          * girls: [j ɪ ɭ s̪]
-          * carl: [kʰ ɑː ɭ]
+          * jarl: [j ɑː ɭ]
           * gurli: [ɡ ɵ ɭ ɪ]
+          * arla: [ɑː ɭ a]
     ```
   - ```{ipa_cell}
     ```
@@ -395,6 +364,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -411,44 +382,44 @@
   - ```{ipa_cell}
     * unrounded
       * iː
-        * Occurances: 4918
+        * Occurances: 7102
         * Examples
-          * fein: [f ɛ iː n̪]
-          * flin: [f l iː n̪]
-          * kaksi: [kʰ ɑː k s̪ iː]
-          * mico: [m iː k ʊ]
+          * idet: [iː˧˩ d̪ ɛ t̪]
+          * wee: [ʋ iː]
+          * giva: [j iː ʋ a]
+          * krita: [k r iː˧˩ t̪ a˥˩]
     * rounded
       * yː
-        * Occurances: 1513
+        * Occurances: 1348
         * Examples
-          * bytas: [b yː˧˩ t̪ a˥˩ s̪]
-          * klyva: [k l yː˧˩ ʋ a˥˩]
-          * syret: [s̪ yː r ɛ t̪]
-          * flyga: [f l yː ɡ a]
+          * dryg: [d̪ r yː ɡ]
+          * peggy: [pʰ ɛ ɡ yː]
+          * sony: [s̪ ɔ n̪ yː]
+          * young: [yː uː ɵ ŋ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ʉː
-        * Occurances: 3290
+        * Occurances: 4347
         * Examples
-          * utgår: [ʉː t̪ ɡ oː r]
-          * slugt: [s̪ l ʉː˥˧ k t̪]
-          * tjusa: [ɕ ʉː˧˩ s̪ a˥˩]
-          * buren: [b ʉː˥˧ r ɛ˩ n̪]
+          * lau: [l a˥˧ ʉː˥˩]
+          * judar: [j ʉː˥˩ d̪ a r]
+          * kuta: [kʰ ʉː t̪ʰ a]
+          * oau: [uː˧˩ ɑː˧˩ ʉː]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * uː
-        * Occurances: 4556
+        * Occurances: 4064
         * Examples
-          * sjok: [ɧ uː k]
-          * mazor: [m a˧˩ s̪ uː r]
-          * ropar: [r uː p a r]
-          * soda: [s̪ uː˧˩ d̪ a˥˩]
+          * hopes: [h uː p ɛ˥˩ s̪]
+          * kor: [kʰ uː r]
+          * snoka: [s̪ n̪ uː k a]
+          * visor: [ʋ iː˥˩ s̪ uː r]
     ```
 * -
   - ```{ipa_cell}
@@ -456,32 +427,32 @@
   - ```{ipa_cell}
     * unrounded
       * ɪ
-        * Occurances: 14939
+        * Occurances: 18153
         * Examples
-          * busig: [b ʉː s̪ ɪ ɡ]
-          * aktie: [a k t̪ s̪ ɪ ɛ]
-          * dike: [d̪ ɪ kʰ ɛ]
-          * filt: [f ɪ l t̪]
+          * vissa: [ʋ ɪ s̪ a]
+          * inget: [ɪ ŋ ɛ t̪]
+          * lill: [l ɪ l]
+          * pims: [pʰ ɪ m s̪]
     * rounded
       * ʏ
-        * Occurances: 2354
+        * Occurances: 2942
         * Examples
-          * gymma: [j ʏ˧˩ m a˥˩]
-          * lobby: [l ɔ b ʏ˥˩]
-          * berry: [b ɛ r ʏ]
-          * rysch: [r ʏ˧˩ ɧ]
+          * lyfte: [l ʏ˧˩ f t̪ ɛ]
+          * benny: [b ɛ n̪ ʏ˩]
+          * täby: [t̪ʰ ɛ˧˩ b ʏ˥˩]
+          * royce: [r uː˧˩ ʏ˥˩]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ʊ
-        * Occurances: 5368
+        * Occurances: 6389
         * Examples
-          * metos: [m ɛ t̪ ʊ s̪]
-          * koyot: [kʰ ʊ j oː t̪]
-          * mico: [m iː k ʊ]
-          * kongo: [kʰ ɔ ŋ ɡ ʊ]
+          * sorts: [s̪ ʊ ʈʰ s̪]
+          * apor: [a p ʊ r]
+          * pweto: [pʰ ʋ ɛ t̪ ʊ]
+          * jacob: [j a k ʊ b]
     ```
   - ```{ipa_cell}
     ```
@@ -489,43 +460,43 @@
   - ```{ipa_cell}
     * unrounded
       * eː
-        * Occurances: 9425
+        * Occurances: 11382
         * Examples
-          * kuben: [kʰ ʉː b eː˥˩ n̪]
-          * spred: [s̪ p r eː d̪]
-          * leva: [l eː˧˩ ʋ a˥˩]
-          * bredd: [b r eː˥˩ d̪]
+          * ikeas: [ɪ kʰ eː˧˩ a˥˩ s̪]
+          * vetat: [ʋ eː˧˩ t̪ a˥˩ t̪]
+          * klev: [k l eː ʋ]
+          * mpla: [ɛ m pʰ eː ɛ l ɑː]
     * rounded
       * øː
-        * Occurances: 4383
+        * Occurances: 5287
         * Examples
-          * störd: [s̪ t̪ øː ɖ]
-          * mödan: [m øː d̪ a n̪]
-          * bössa: [b øː˥˧ ɑː]
-          * muskö: [m ɵ s̪ k øː]
+          * möta: [m øː˧˩ t̪ a˥˩]
+          * strös: [s̪ t̪ r øː˥˩ s̪]
+          * dög: [d̪ øː ɡ]
+          * slösa: [s̪ l øː˧˩ s̪ a˥˩]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ɵ
-        * Occurances: 6269
+        * Occurances: 7317
         * Examples
-          * ännu: [ɛ˧˩ n̪ ɵ˥˩]
-          * frun: [f r ɵ n̪]
-          * yusuf: [yː ɵ˥˩ s̪ ʉː f]
-          * louis: [l uː˧˩ ɵ˥˩ ɪ˩ s̪]
+          * juryn: [j ɵ r ʏ n̪]
+          * näsum: [n̪ ɛ˧˩ s̪ ɵ m]
+          * minus: [m iː n̪ ɵ s̪]
+          * lvu: [l ʋ ɵ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * oː
-        * Occurances: 3420
+        * Occurances: 4813
         * Examples
-          * robot: [r oː˥˧ b ɔ t̪]
-          * svåra: [s̪ ʋ oː˥˧ r a˥˩]
-          * koyot: [kʰ ʊ j oː t̪]
+          * kåkar: [kʰ oː k a r]
+          * båge: [b oː˧˩ ɡ ɛ˥˩]
+          * robin: [r oː˥˧ b iː n̪]
           * uppå: [ɵ˥˧ p oː˩]
     ```
 * -
@@ -543,27 +514,27 @@
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 35705
+        * Occurances: 40807
         * Examples
-          * svep: [s̪ ʋ ɛ˥˧ p]
-          * juver: [j ʉː ʋ ɛ r]
-          * nere: [n̪ ɛ˥˧ r ɛ˥˩]
-          * nähä: [n̪ ɛ˧˩ h ɛː]
+          * fäder: [f ɛː d̪ ɛ r]
+          * inget: [ɪ ŋ ɛ t̪]
+          * bleck: [b l ɛ k]
+          * flöde: [f l øː d̪ ɛ]
       * ɛː
-        * Occurances: 2621
+        * Occurances: 2509
         * Examples
-          * räd: [r ɛː d̪]
-          * ära: [ɛː˧˩ r a˥˩]
-          * träta: [t̪ r ɛː t̪ a]
-          * härpå: [h ɛː r p oː˥˩]
+          * nähä: [n̪ ɛ˧˩ h ɛː]
+          * fäder: [f ɛː d̪ ɛ r]
+          * lär: [l ɛː r]
+          * kväsa: [k ʋ ɛː s̪ a]
     * rounded
       * œ
-        * Occurances: 2297
+        * Occurances: 3159
         * Examples
-          * dörr: [d̪ œ r]
-          * rönet: [r œ n̪ ɛ t̪]
-          * ström: [s̪ t̪ r œ m]
-          * söner: [s̪ œ n̪ ɛ r]
+          * drömt: [d̪ r œ n̪ t̪]
+          * förse: [f œ ʂ ɛ˥˩]
+          * rösta: [r œ s̪ t̪ a˥˩]
+          * rört: [r œ˥˩ ʈ]
     ```
   - ```{ipa_cell}
     ```
@@ -574,12 +545,12 @@
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 6575
+        * Occurances: 10160
         * Examples
-          * koja: [kʰ ɔ j a]
-          * kongo: [kʰ ɔ ŋ ɡ ʊ]
-          * leos: [l ɛ ɔ s̪]
-          * donna: [d̪ ɔ n̪ a]
+          * olof: [uː˧˩ l ɔ˥˩ f]
+          * tots: [t̪ʰ ɔ t̪ s̪]
+          * åsen: [ɔ˧˩ s̪ ɛ n̪]
+          * rutor: [r ʉː˧˩ t̪ ɔ˥˩ r]
     ```
 * -
   - ```{ipa_cell}
@@ -600,29 +571,29 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 34224
+        * Occurances: 38968
         * Examples
-          * mlay: [m l a˩ j]
-          * day: [d̪ a˩ j]
-          * mödan: [m øː d̪ a n̪]
-          * aska: [a˧˩ s̪ k a]
+          * sats: [s̪ a t̪ s̪]
+          * vissa: [ʋ ɪ s̪ a]
+          * varma: [ʋ a r m a]
+          * natan: [n̪ a t̪ʰ a n̪]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
       * ɑː
-        * Occurances: 10341
+        * Occurances: 12338
         * Examples
-          * gapen: [j ɑː˥˧ p ɛ˩ n̪]
-          * datum: [d̪ ɑː˧˩ t̪ ɵ m]
-          * arton: [ɑː˧˩ ʈ ɔ˥˩ n̪]
-          * broar: [b r ʊ ɑː˥˩ r]
+          * kaka: [kʰ ɑː˧˩ k a]
+          * sak: [s̪ ɑː k]
+          * otal: [uː˧˩ t̪ ɑː˥˩ l]
+          * oau: [uː˧˩ ɑː˧˩ ʉː]
     ```
 ``````
 
 
-### Tones
+#### Tones
 
 * {ipa_inline}`˥˧`
 * {ipa_inline}`˥˩`

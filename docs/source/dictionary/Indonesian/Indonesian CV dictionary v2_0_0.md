@@ -29,6 +29,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -45,24 +47,24 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 4931
+        * Occurances: 4930
         * Examples
-          * temui: [t ə m u i]
-          * sama: [s a m a]
-          * mesir: [m ə s i r]
-          * mahal: [m a h a l]
+          * mary: [m a r j]
+          * minat: [m i n a t]
+          * tom?: [t o m]
+          * asam: [a s a m]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 6994
+        * Occurances: 6993
         * Examples
-          * heran: [h ə r a n]
-          * ynez”: [j n ə z]
-          * kevin: [k ə f i n]
-          * racun: [r a t͡ɕ u n]
+          * minat: [m i n a t]
+          * pagan: [p a ɡ a n]
+          * dukun: [d u k u n]
+          * alan: [a l a n]
     ```
   - ```{ipa_cell}
     * other
@@ -71,18 +73,18 @@
         * Examples
           * hanya: [h a ɲ a]
           * nancy: [n a ɲ t͡ɕ j]
-          * denys: [d ə ɲ s]
-          * pliny: [p l i ɲ]
+          * inco: [i ɲ t͡ɕ o]
+          * bunyi: [b u ɲ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2085
         * Examples
-          * elang: [ə l a ŋ]
-          * ungu: [u ŋ u]
-          * ulang: [u l a ŋ]
-          * orang: [o r a ŋ]
+          * deng: [d ə ŋ]
+          * uang,: [u a ŋ]
+          * inang: [i n a ŋ]
+          * ming: [m i ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -92,67 +94,67 @@
       * p
         * Occurances: 3272
         * Examples
-          * putra: [p u t r a]
+          * pagan: [p a ɡ a n]
+          * lupa: [l u p a]
+          * tiup: [t i u p]
           * peggy: [p ə ɡ ɡ j]
-          * petir: [p ə t i r]
-          * pagi: [p a ɡ i]
     * voiced
       * b
-        * Occurances: 2985
+        * Occurances: 2984
         * Examples
-          * babak: [b a b a k]
-          * heber: [h ə b ə r]
-          * kubu: [k u b u]
-          * buta.: [b u t a]
+          * ubik: [u b i k]
+          * besok: [b ə s o k]
+          * badai: [b a d a i]
+          * bisa.: [b i s a]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 5488
+        * Occurances: 5487
         * Examples
-          * fatal: [f a t a l]
-          * touch: [t o u t͡ɕ h]
-          * putra: [p u t r a]
-          * temui: [t ə m u i]
+          * minat: [m i n a t]
+          * satir: [s a t i r]
+          * tom?: [t o m]
+          * tulis: [t u l i s]
     * voiced
       * d
-        * Occurances: 2918
+        * Occurances: 2917
         * Examples
-          * dana.: [d a n a]
-          * sedih: [s ə d i h]
-          * data: [d a t a]
-          * aldi: [a l d i]
+          * dukun: [d u k u n]
+          * deng: [d ə ŋ]
+          * badai: [b a d a i]
+          * dish: [d i s h]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 5173
+        * Occurances: 5172
         * Examples
-          * babak: [b a b a k]
-          * sakti: [s a k t i]
-          * kevin: [k ə f i n]
-          * peak: [p ə a k]
+          * ubik: [u b i k]
+          * besok: [b ə s o k]
+          * dukun: [d u k u n]
+          * aku,: [a k u]
     * voiced
       * ɡ
         * Occurances: 1440
         * Examples
+          * pagan: [p a ɡ a n]
+          * gay,: [ɡ a j]
           * peggy: [p ə ɡ ɡ j]
-          * pagi: [p a ɡ i]
-          * eugen: [ə u ɡ ə n]
-          * lagi.: [l a ɡ i]
+          * guru,: [ɡ u r u]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 46
         * Examples
           * 'kan?: [ʔ k a n]
-          * o'day: [o ʔ d a j]
           * 'kan: [ʔ k a n]
+          * o'day: [o ʔ d a j]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -164,20 +166,20 @@
   - ```{ipa_cell}
     * voiceless
       * t͡ɕ
-        * Occurances: 1364
+        * Occurances: 1361
         * Examples
-          * acer,: [a t͡ɕ ə r]
-          * touch: [t o u t͡ɕ h]
-          * racun: [r a t͡ɕ u n]
-          * local: [l o t͡ɕ a l]
+          * vetch: [f ə t t͡ɕ h]
+          * force: [f o r t͡ɕ ə]
+          * lucu.: [l u t͡ɕ u]
+          * jack: [d͡ʑ a t͡ɕ k]
     * voiced
       * d͡ʑ
         * Occurances: 899
         * Examples
-          * fiji: [f i d͡ʑ i]
-          * josh: [d͡ʑ o s h]
-          * gaji: [ɡ a d͡ʑ i]
-          * jasad: [d͡ʑ a s a d]
+          * jadi.: [d͡ʑ a d i]
+          * saja!: [s a d͡ʑ a]
+          * jack: [d͡ʑ a t͡ɕ k]
+          * jules: [d͡ʑ u l ə s]
     ```
   - ```{ipa_cell}
     ```
@@ -191,20 +193,20 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 5253
+        * Occurances: 5252
         * Examples
-          * "saya: [s a j a]
-          * sakti: [s a k t i]
-          * surut: [s u r u t]
-          * hos: [h o s]
+          * besok: [b ə s o k]
+          * satir: [s a t i r]
+          * seri: [s ə r i]
+          * tulis: [t u l i s]
     * voiced
       * z
         * Occurances: 135
         * Examples
-          * ynez”: [j n ə z]
-          * liz: [l i z]
-          * zeus: [z ə u s]
-          * pizza: [p i z z a]
+          * katz: [k a t z]
+          * jazz,: [d͡ʑ a z z]
+          * lezat: [l ə z a t]
+          * izin?: [i z i n]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -226,37 +228,37 @@
       * f
         * Occurances: 1011
         * Examples
-          * fatal: [f a t a l]
-          * kevin: [k ə f i n]
-          * fiji: [f i d͡ʑ i]
-          * for: [f o r]
+          * vetch: [f ə t t͡ɕ h]
+          * force: [f o r t͡ɕ ə]
+          * buffy: [b u f f j]
+          * fisik: [f i s i k]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 59
-        * Examples
-          * khas,: [x a s]
-          * akhir: [a x i r]
-          * khas: [x a s]
-          * khas.: [x a s]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 2390
+        * Occurances: 2389
         * Examples
-          * heran: [h ə r a n]
-          * touch: [t o u t͡ɕ h]
-          * hos: [h o s]
-          * sedih: [s ə d i h]
+          * vetch: [f ə t t͡ɕ h]
+          * dish: [d i s h]
+          * hasil: [h a s i l]
+          * ayah?: [a j a h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 653
+        * Examples
+          * awal,: [a w a l]
+          * anwar: [a n w a r]
+          * miaow: [m i a o w]
+          * wujud: [w u d͡ʑ u d]
     ```
   - ```{ipa_cell}
     ```
@@ -267,10 +269,10 @@
       * j
         * Occurances: 645
         * Examples
-          * ynez”: [j n ə z]
-          * peggy: [p ə ɡ ɡ j]
-          * "saya: [s a j a]
-          * ya,": [j a]
+          * mary: [m a r j]
+          * gay,: [ɡ a j]
+          * ayah?: [a j a h]
+          * buffy: [b u f f j]
     ```
   - ```{ipa_cell}
     ```
@@ -284,12 +286,12 @@
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 6758
+        * Occurances: 6756
         * Examples
-          * heran: [h ə r a n]
-          * acer,: [a t͡ɕ ə r]
-          * putra: [p u t r a]
-          * petir: [p ə t i r]
+          * mary: [m a r j]
+          * satir: [s a t i r]
+          * seri: [s ə r i]
+          * air,: [a i r]
     ```
   - ```{ipa_cell}
     ```
@@ -305,12 +307,12 @@
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 4308
+        * Occurances: 4306
         * Examples
-          * fatal: [f a t a l]
-          * plato: [p l a t o]
-          * mahal: [m a h a l]
-          * liz: [l i z]
+          * lupa: [l u p a]
+          * alan: [a l a n]
+          * tulis: [t u l i s]
+          * lurus: [l u r u s]
     ```
   - ```{ipa_cell}
     ```
@@ -322,6 +324,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -338,12 +342,12 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 8319
+        * Occurances: 8316
         * Examples
-          * temui: [t ə m u i]
-          * sakti: [s a k t i]
-          * petir: [p ə t i r]
-          * kevin: [k ə f i n]
+          * minat: [m i n a t]
+          * ubik: [u b i k]
+          * satir: [s a t i r]
+          * seri: [s ə r i]
     ```
   - ```{ipa_cell}
     ```
@@ -354,12 +358,12 @@
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 5056
+        * Occurances: 5055
         * Examples
-          * touch: [t o u t͡ɕ h]
-          * putra: [p u t r a]
-          * temui: [t ə m u i]
-          * surut: [s u r u t]
+          * ubik: [u b i k]
+          * lupa: [l u p a]
+          * dukun: [d u k u n]
+          * aku,: [a k u]
     ```
 * -
   - ```{ipa_cell}
@@ -384,12 +388,12 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 3757
+        * Occurances: 3756
         * Examples
-          * touch: [t o u t͡ɕ h]
-          * plato: [p l a t o]
-          * for: [f o r]
-          * hos: [h o s]
+          * besok: [b ə s o k]
+          * tom?: [t o m]
+          * aoi: [a o i]
+          * force: [f o r t͡ɕ ə]
     ```
 * -
   - ```{ipa_cell}
@@ -399,12 +403,12 @@
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 9702
+        * Occurances: 9701
         * Examples
-          * heran: [h ə r a n]
-          * ynez”: [j n ə z]
-          * acer,: [a t͡ɕ ə r]
-          * peggy: [p ə ɡ ɡ j]
+          * besok: [b ə s o k]
+          * seri: [s ə r i]
+          * deng: [d ə ŋ]
+          * vetch: [f ə t t͡ɕ h]
     ```
   - ```{ipa_cell}
     ```
@@ -440,22 +444,15 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 17036
+        * Occurances: 17034
         * Examples
-          * heran: [h ə r a n]
-          * babak: [b a b a k]
-          * fatal: [f a t a l]
-          * acer,: [a t͡ɕ ə r]
+          * mary: [m a r j]
+          * minat: [m i n a t]
+          * pagan: [p a ɡ a n]
+          * satir: [s a t i r]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`á`
-* {ipa_inline}`ł`
-* {ipa_inline}`ń`

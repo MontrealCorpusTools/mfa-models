@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -50,17 +52,17 @@
       * m
         * Occurances: 21952
         * Examples
-          * папам: [p a p a m]
-          * маны: [m a n i]
-          * ядомы: [j a d o m i]
-          * маёра: [m a j o r a]
+          * памрэ: [p a m r ɛ]
+          * дам: [d a m]
+          * кінем: [kʲ i nʲ ɛ m]
+          * лімфу: [lʲ i m f u]
       * mʲ
         * Occurances: 12176
         * Examples
-          * змяў: [z mʲ a u]
-          * мяжы: [mʲ a ʒ i]
-          * прыме: [p r i mʲ ɛ]
-          * імідж: [j i mʲ i dʒ]
+          * зніме: [z nʲ i mʲ ɛ]
+          * імені: [j i mʲ ɛ nʲ i]
+          * мінах: [mʲ i n a x]
+          * мін: [mʲ i n]
     ```
   - ```{ipa_cell}
     ```
@@ -69,31 +71,31 @@
       * n
         * Occurances: 45504
         * Examples
-          * сану: [s a n u]
-          * воіна: [v o j i n a]
-          * маны: [m a n i]
-          * серна: [sʲ ɛ r n a]
+          * ноты: [n o t i]
+          * аднак: [a d n a k]
+          * нафты: [n a f t i]
+          * мінах: [mʲ i n a x]
       * nʲ
         * Occurances: 14086
         * Examples
-          * манет: [m a nʲ ɛ t]
-          * нерон: [nʲ ɛ r o n]
-          * пеўня: [pʲ ɛ u nʲ a]
-          * неон: [nʲ ɛ o n]
+          * ранец: [r a nʲ ɛ ts]
+          * кінем: [kʲ i nʲ ɛ m]
+          * ніхто: [nʲ i x t o]
+          * гнёт: [ɣ nʲ o t]
       * nʲː
         * Occurances: 4253
         * Examples
-          * рунню: [r u nʲː u]
           * панне: [p a nʲː ɛ]
           * ранні: [r a nʲː i]
-          * сінню: [sʲ i nʲː u]
+          * ланню: [l a nʲː u]
+          * рунню: [r u nʲː u]
       * nː
         * Occurances: 1253
         * Examples
-          * панны: [p a nː i]
-          * ганны: [ɣ a nː i]
-          * сонны: [s o nː i]
-          * танны: [t a nː i]
+          * вінны: [vʲ i nː i]
+          * анна: [a nː a]
+          * конны: [k o nː i]
+          * ганна: [ɣ a nː a]
     ```
   - ```{ipa_cell}
     ```
@@ -107,32 +109,18 @@
       * p
         * Occurances: 27004
         * Examples
-          * полба: [p o l b a]
-          * папам: [p a p a m]
-          * паелі: [p a j ɛ lʲ i]
-          * стэп: [s t ɛ p]
-      * pʲ
-        * Occurances: 6280
-        * Examples
-          * пеўня: [pʲ ɛ u nʲ a]
-          * кіпеў: [kʲ i pʲ ɛ u]
-          * пісар: [pʲ i s a r]
-          * пены: [pʲ ɛ n i]
+          * шпалу: [ʃ p a l u]
+          * памрэ: [p a m r ɛ]
+          * слеп: [s lʲ ɛ p]
+          * апачы: [a p a tʃ i]
     * voiced
       * b
         * Occurances: 11154
         * Examples
-          * полба: [p o l b a]
-          * бала: [b a l a]
-          * байцы: [b a j ts i]
-          * дамбу: [d a m b u]
-      * bʲ
-        * Occurances: 3554
-        * Examples
-          * бед: [bʲ ɛ d]
-          * бедна: [bʲ ɛ d n a]
-          * обер: [o bʲ ɛ r]
-          * бюро: [bʲ u r o]
+          * забыў: [z a b i u]
+          * брэша: [b r ɛ ʃ a]
+          * баеце: [b a j ɛ tsʲ ɛ]
+          * небу: [nʲ ɛ b u]
     ```
   - ```{ipa_cell}
     ```
@@ -141,10 +129,10 @@
       * t
         * Occurances: 33269
         * Examples
-          * фарты: [f a r t i]
-          * дыету: [d i j ɛ t u]
-          * ратуй: [r a t u j]
-          * трум: [t r u m]
+          * стрэў: [s t r ɛ u]
+          * піхту: [pʲ i x t u]
+          * торф: [t o r f]
+          * ветах: [vʲ ɛ t a x]
       * tː
         * Occurances: 7
         * Examples
@@ -152,10 +140,10 @@
       * d
         * Occurances: 21655
         * Examples
-          * док: [d o k]
-          * дыету: [d i j ɛ t u]
-          * ядомы: [j a d o m i]
-          * пудру: [p u d r u]
+          * яду: [j a d u]
+          * слюду: [s lʲ u d u]
+          * дроў: [d r o u]
+          * дам: [d a m]
     ```
   - ```{ipa_cell}
     ```
@@ -166,17 +154,10 @@
       * k
         * Occurances: 32671
         * Examples
-          * цырк: [ts i r k]
-          * док: [d o k]
-          * лытку: [l i t k u]
-          * камун: [k a m u n]
-      * kʲ
-        * Occurances: 6056
-        * Examples
-          * вузкі: [v u z kʲ i]
-          * сцёкі: [s tsʲ o kʲ i]
-          * кіпеў: [kʲ i pʲ ɛ u]
-          * соткі: [s o t kʲ i]
+          * крыле: [k r i lʲ ɛ]
+          * акрыю: [a k r i j u]
+          * пекле: [pʲ ɛ k lʲ ɛ]
+          * сказ: [s k a z]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -188,73 +169,49 @@
       * ts
         * Occurances: 8260
         * Examples
-          * цырк: [ts i r k]
-          * байцы: [b a j ts i]
-          * цэлая: [ts ɛ l a j a]
-          * ніцая: [nʲ i ts a j a]
-      * tsʲ
-        * Occurances: 12607
-        * Examples
-          * сцёкі: [s tsʲ o kʲ i]
-          * зысці: [z i s tsʲ i]
-          * рвіце: [r vʲ i tsʲ ɛ]
-          * раўці: [r a u tsʲ i]
-      * tsʲː
-        * Occurances: 305
-        * Examples
-          * шыцця: [ʃ i tsʲː a]
-          * куццю: [k u tsʲː u]
-          * быццё: [b i tsʲː o]
-          * біццю: [bʲ i tsʲː u]
+          * ранец: [r a nʲ ɛ ts]
+          * жрыцы: [ʒ r i ts i]
+          * жрэц: [ʒ r ɛ ts]
+          * мацай: [m a ts a j]
       * tsː
         * Occurances: 3252
         * Examples
           * жыцца: [ʒ i tsː a]
-          * біцца: [bʲ i tsː a]
-          * уецца: [u j ɛ tsː a]
           * мецца: [mʲ ɛ tsː a]
+          * уецца: [u j ɛ tsː a]
+          * мыцца: [m i tsː a]
     * voiced
       * dz
         * Occurances: 148
         * Examples
-          * дзвюм: [dz vʲ u m]
-          * дзве: [dz vʲ ɛ]
-          * дзвюх: [dz vʲ u x]
           * дзвух: [dz v u x]
-      * dzʲ
-        * Occurances: 4168
-        * Examples
-          * вадзі: [v a dzʲ i]
-          * медзі: [mʲ ɛ dzʲ i]
-          * сядзь: [sʲ a dzʲ]
-          * вядзі: [vʲ a dzʲ i]
-      * dzʲː
-        * Occurances: 131
-        * Examples
+          * дзоту: [dz o t u]
+          * дзонг: [dz o n ɣ]
+          * дзота: [dz o t a]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 15059
         * Examples
-          * матчы: [m a t tʃ i]
-          * чэсці: [tʃ ɛ s tsʲ i]
-          * нечай: [nʲ ɛ tʃ a j]
-          * рэчкі: [r ɛ tʃ kʲ i]
+          * чэхаў: [tʃ ɛ x a u]
+          * адчуе: [a d tʃ u j ɛ]
+          * апачы: [a p a tʃ i]
+          * чало: [tʃ a l o]
       * tʃː
         * Occurances: 23
         * Examples
-          * печчу: [pʲ ɛ tʃː u]
-          * сучча: [s u tʃː a]
           * ноччу: [n o tʃː u]
+          * сучча: [s u tʃː a]
+          * печчу: [pʲ ɛ tʃː u]
     * voiced
       * dʒ
         * Occurances: 960
         * Examples
           * імідж: [j i mʲ i dʒ]
-          * джаз: [dʒ a z]
-          * саджу: [s a dʒ u]
-          * джаза: [dʒ a z a]
+          * дождж: [d o ʒ dʒ]
+          * джыу: [dʒ i u]
+          * аджаў: [a dʒ a u]
     ```
   - ```{ipa_cell}
     ```
@@ -270,24 +227,24 @@
       * s
         * Occurances: 33484
         * Examples
-          * сану: [s a n u]
-          * сцёкі: [s tsʲ o kʲ i]
-          * зысці: [z i s tsʲ i]
-          * сваей: [s v a j ɛ j]
+          * стрэў: [s t r ɛ u]
+          * слюду: [s lʲ u d u]
+          * солі: [s o lʲ i]
+          * сорту: [s o r t u]
       * sʲ
         * Occurances: 10102
         * Examples
-          * серна: [sʲ ɛ r n a]
-          * сілам: [sʲ i l a m]
-          * пёрся: [pʲ o r sʲ a]
-          * сенам: [sʲ ɛ n a m]
+          * сексу: [sʲ ɛ k s u]
+          * рысь: [r i sʲ]
+          * сяго: [sʲ a ɣ o]
+          * сянец: [sʲ a nʲ ɛ ts]
       * sʲː
         * Occurances: 134
         * Examples
+          * ссек: [sʲː ɛ k]
+          * нёсся: [nʲ o sʲː a]
           * рыссю: [r i sʲː u]
           * воссю: [v o sʲː u]
-          * нёсся: [nʲ o sʲː a]
-          * ссек: [sʲː ɛ k]
       * sː
         * Occurances: 159
         * Examples
@@ -297,24 +254,24 @@
       * z
         * Occurances: 17056
         * Examples
-          * змяў: [z mʲ a u]
-          * вузкі: [v u z kʲ i]
-          * зысці: [z i s tsʲ i]
-          * злуеш: [z l u j ɛ ʃ]
+          * забыў: [z a b i u]
+          * сказ: [s k a z]
+          * зніме: [z nʲ i mʲ ɛ]
+          * звяк: [z vʲ a k]
       * zʲ
         * Occurances: 1827
         * Examples
-          * дузе: [d u zʲ ɛ]
-          * ўнізе: [u nʲ i zʲ ɛ]
-          * вузей: [v u zʲ ɛ j]
-          * мюзік: [mʲ u zʲ i k]
+          * ўзяў: [u zʲ a u]
+          * смузе: [s m u zʲ ɛ]
+          * узяць: [u zʲ a tsʲ]
+          * зяць: [zʲ a tsʲ]
       * zʲː
         * Occurances: 28
         * Examples
-          * рыззя: [r i zʲː a]
-          * рыззі: [r i zʲː i]
           * маззю: [m a zʲː u]
-          * ззялі: [zʲː a lʲ i]
+          * ззяў: [zʲː a u]
+          * ззяе: [zʲː a j ɛ]
+          * ззяла: [zʲː a l a]
       * zː
         * Occurances: 23
         * Examples
@@ -325,10 +282,10 @@
       * ʃ
         * Occurances: 9236
         * Examples
-          * машны: [m a ʃ n i]
-          * машэ: [m a ʃ ɛ]
-          * злуеш: [z l u j ɛ ʃ]
-          * шнапс: [ʃ n a p s]
+          * брэша: [b r ɛ ʃ a]
+          * шпалу: [ʃ p a l u]
+          * шылам: [ʃ i l a m]
+          * шпулю: [ʃ p u lʲ u]
       * ʃː
         * Occurances: 20
         * Examples
@@ -337,10 +294,10 @@
       * ʒ
         * Occurances: 5349
         * Examples
-          * мяжы: [mʲ a ʒ i]
-          * ляжы: [lʲ a ʒ i]
-          * жадаю: [ʒ a d a j u]
-          * жыло: [ʒ i l o]
+          * жрыцы: [ʒ r i ts i]
+          * жрэц: [ʒ r ɛ ts]
+          * ножка: [n o ʒ k a]
+          * важны: [v a ʒ n i]
       * ʒː
         * Occurances: 46
         * Examples
@@ -358,32 +315,32 @@
       * f
         * Occurances: 2407
         * Examples
-          * фарты: [f a r t i]
-          * флоры: [f l o r i]
-          * фауна: [f a u n a]
-          * шэфа: [ʃ ɛ f a]
+          * торф: [t o r f]
+          * лімфу: [lʲ i m f u]
+          * нафты: [n a f t i]
+          * туф: [t u f]
       * fʲ
         * Occurances: 1626
         * Examples
-          * шафе: [ʃ a fʲ ɛ]
-          * сфера: [s fʲ ɛ r a]
-          * фініш: [fʲ i nʲ i ʃ]
-          * ферм: [fʲ ɛ r m]
+          * фіялы: [fʲ i j a l i]
+          * нефе: [nʲ ɛ fʲ ɛ]
+          * фён: [fʲ o n]
+          * фінал: [fʲ i n a l]
     * voiced
       * v
         * Occurances: 26867
         * Examples
-          * воіна: [v o j i n a]
-          * вузкі: [v u z kʲ i]
-          * сваей: [s v a j ɛ j]
-          * свой: [s v o j]
+          * ваяр: [v a j a r]
+          * яловы: [j a l o v i]
+          * рваць: [r v a tsʲ]
+          * важны: [v a ʒ n i]
       * vʲ
         * Occurances: 7717
         * Examples
-          * рвіце: [r vʲ i tsʲ ɛ]
-          * вялеў: [vʲ a lʲ ɛ u]
-          * ўвяла: [u vʲ a l a]
-          * верыш: [vʲ ɛ r i ʃ]
+          * ветах: [vʲ ɛ t a x]
+          * века: [vʲ ɛ k a]
+          * рэвю: [r ɛ vʲ u]
+          * звяк: [z vʲ a k]
     ```
   - ```{ipa_cell}
     ```
@@ -392,36 +349,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 12129
-        * Examples
-          * горах: [ɣ o r a x]
-          * барах: [b a r a x]
-          * імху: [j i m x u]
-          * болях: [b o lʲ a x]
-      * xʲ
-        * Occurances: 774
-        * Examples
-          * схема: [s xʲ ɛ m a]
-          * рухі: [r u xʲ i]
-          * вухі: [v u xʲ i]
-          * сухім: [s u xʲ i m]
-    * voiced
-      * ɣ
-        * Occurances: 15394
-        * Examples
-          * горах: [ɣ o r a x]
-          * чаго: [tʃ a ɣ o]
-          * гаруй: [ɣ a r u j]
-          * гуд: [ɣ u d]
-      * ɣʲ
-        * Occurances: 2388
-        * Examples
-          * гідру: [ɣʲ i d r u]
-          * дагер: [d a ɣʲ ɛ r]
-          * гіпсу: [ɣʲ i p s u]
-          * геній: [ɣʲ ɛ nʲ i j]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -437,10 +364,10 @@
       * j
         * Occurances: 40798
         * Examples
-          * раялі: [r a j a lʲ i]
-          * воіна: [v o j i n a]
-          * дыету: [d i j ɛ t u]
-          * ратуй: [r a t u j]
+          * яду: [j a d u]
+          * ваяр: [v a j a r]
+          * баеце: [b a j ɛ tsʲ ɛ]
+          * лілей: [lʲ i lʲ ɛ j]
     ```
   - ```{ipa_cell}
     ```
@@ -454,10 +381,10 @@
       * r
         * Occurances: 53725
         * Examples
-          * раялі: [r a j a lʲ i]
-          * цырк: [ts i r k]
-          * фарты: [f a r t i]
-          * флоры: [f l o r i]
+          * стрэў: [s t r ɛ u]
+          * торф: [t o r f]
+          * ранец: [r a nʲ ɛ ts]
+          * дроў: [d r o u]
     ```
   - ```{ipa_cell}
     ```
@@ -475,24 +402,24 @@
       * l
         * Occurances: 17188
         * Examples
-          * полба: [p o l b a]
-          * флоры: [f l o r i]
-          * лытку: [l i t k u]
-          * бала: [b a l a]
+          * шпалу: [ʃ p a l u]
+          * яловы: [j a l o v i]
+          * шылам: [ʃ i l a m]
+          * луня: [l u nʲ a]
       * lʲ
         * Occurances: 26097
         * Examples
-          * раялі: [r a j a lʲ i]
-          * паелі: [p a j ɛ lʲ i]
-          * вялеў: [vʲ a lʲ ɛ u]
-          * клёну: [k lʲ o n u]
+          * слюду: [s lʲ u d u]
+          * солі: [s o lʲ i]
+          * крыле: [k r i lʲ ɛ]
+          * лілей: [lʲ i lʲ ɛ j]
       * lʲː
         * Occurances: 149
         * Examples
-          * валля: [v a lʲː a]
-          * вуллі: [v u lʲː i]
-          * галлё: [ɣ a lʲː o]
-          * раллі: [r a lʲː i]
+          * галля: [ɣ a lʲː a]
+          * голля: [ɣ o lʲː a]
+          * жыллё: [ʒ i lʲː o]
+          * золлю: [z o lʲː u]
     ```
   - ```{ipa_cell}
     ```
@@ -504,6 +431,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -522,10 +451,10 @@
       * i
         * Occurances: 100163
         * Examples
-          * раялі: [r a j a lʲ i]
-          * цырк: [ts i r k]
-          * фарты: [f a r t i]
-          * воіна: [v o j i n a]
+          * забыў: [z a b i u]
+          * піхту: [pʲ i x t u]
+          * солі: [s o lʲ i]
+          * жрыцы: [ʒ r i ts i]
     ```
   - ```{ipa_cell}
     ```
@@ -538,10 +467,10 @@
       * u
         * Occurances: 57198
         * Examples
-          * змяў: [z mʲ a u]
-          * сану: [s a n u]
-          * вузкі: [v u z kʲ i]
-          * дыету: [d i j ɛ t u]
+          * стрэў: [s t r ɛ u]
+          * ўзяў: [u zʲ a u]
+          * забыў: [z a b i u]
+          * яду: [j a d u]
     ```
 * -
   - ```{ipa_cell}
@@ -568,10 +497,10 @@
       * o
         * Occurances: 26354
         * Examples
-          * полба: [p o l b a]
-          * воіна: [v o j i n a]
-          * док: [d o k]
-          * сцёкі: [s tsʲ o kʲ i]
+          * торф: [t o r f]
+          * дроў: [d r o u]
+          * солі: [s o lʲ i]
+          * сорту: [s o r t u]
     ```
 * -
   - ```{ipa_cell}
@@ -590,10 +519,10 @@
       * ɛ
         * Occurances: 46580
         * Examples
-          * дыету: [d i j ɛ t u]
-          * сваей: [s v a j ɛ j]
-          * серна: [sʲ ɛ r n a]
-          * паелі: [p a j ɛ lʲ i]
+          * стрэў: [s t r ɛ u]
+          * чэхаў: [tʃ ɛ x a u]
+          * ранец: [r a nʲ ɛ ts]
+          * брэша: [b r ɛ ʃ a]
     ```
   - ```{ipa_cell}
     ```
@@ -624,10 +553,10 @@
       * a
         * Occurances: 211979
         * Examples
-          * змяў: [z mʲ a u]
-          * раялі: [r a j a lʲ i]
-          * сану: [s a n u]
-          * полба: [p o l b a]
+          * ўзяў: [u zʲ a u]
+          * забыў: [z a b i u]
+          * яду: [j a d u]
+          * чэхаў: [tʃ ɛ x a u]
     ```
   - ```{ipa_cell}
     ```

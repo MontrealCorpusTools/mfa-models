@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Uzbek_v7_0`:
-  * **Hours:** `0.24`
-  * **Speakers:** `5`
-  * **Utterances:** `161`
+   * {ref}`Common_Voice_Uzbek_v7_0`:
+     * **Hours:** `0.24`
+     * **Speakers:** `5`
+     * **Utterances:** `161`
    ```
 
 

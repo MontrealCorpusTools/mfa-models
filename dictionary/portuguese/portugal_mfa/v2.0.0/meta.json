@@ -52,8 +52,8 @@
         "\u0292",
         "\u03b2"
     ],
-    "word_count": 89066,
-    "train_date": "2022-03-12",
+    "word_count": 91730,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_portuguese_portugal_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Portuguese (Portugal) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Portuguese/Portuguese (Portugal) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

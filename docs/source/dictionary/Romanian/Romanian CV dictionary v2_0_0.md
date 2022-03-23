@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,14 +53,22 @@
       * m
         * Occurances: 2862
         * Examples
-          * l-am: [l̪ a m]
-          * mi-aș: [m i a ʃ]
-          * mi-ar: [m i a r̪]
-          * inima: [i n̪ i m a]
+          * mori: [m o r̪ i]
+          * umplu: [u m p l̪ u]
+          * mafia: [m a f i a]
+          * marfa: [m a r̪ f a]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * n̪
+        * Occurances: 5638
+        * Examples
+          * china: [k i n̪ a]
+          * neagă: [n̪ e a ɡ ɜ]
+          * întâi: [ɨ n̪ t̪ ɨ i]
+          * carne: [k a r̪ n̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -74,18 +84,18 @@
       * p
         * Occurances: 2747
         * Examples
-          * aspre: [a s̪ p r̪ e]
-          * parcă: [p a r̪ k ɜ]
-          * nopți: [n̪ o p t̪s i]
-          * parte: [p a r̪ t̪ e]
+          * pic: [p i k]
+          * pilot: [p i l̪ o t̪]
+          * pace: [p a tʃ e]
+          * plină: [p l̪ i n̪ ɜ]
     * voiced
       * b
         * Occurances: 1074
         * Examples
+          * boală: [b o a l̪ ɜ]
           * boltă: [b o l̪ t̪ ɜ]
-          * bogat: [b o ɡ a t̪]
-          * bazez: [b a z̪ e z̪]
-          * iubea: [i u b e a]
+          * sub: [s̪ u b]
+          * liber: [l̪ i b e r̪]
     ```
   - ```{ipa_cell}
     ```
@@ -94,18 +104,18 @@
       * t̪
         * Occurances: 7193
         * Examples
-          * front: [f r̪ o n̪ t̪]
-          * acte: [a k t̪ e]
-          * boltă: [b o l̪ t̪ ɜ]
-          * legat: [l̪ e ɡ a t̪]
+          * întâi: [ɨ n̪ t̪ ɨ i]
+          * rugat: [r̪ u ɡ a t̪]
+          * pilot: [p i l̪ o t̪]
+          * tenis: [t̪ e n̪ i s̪]
     * voiced
       * d̪
         * Occurances: 2058
         * Examples
-          * nord: [n̪ o r̪ d̪]
-          * doar: [d̪ o a r̪]
+          * cred: [k r̪ e d̪]
+          * cădem: [k ɜ d̪ e m]
+          * deţin: [d̪ e t̪ s i n̪]
           * ordin: [o r̪ d̪ i n̪]
-          * kurdă: [k u r̪ d̪ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -116,18 +126,18 @@
       * k
         * Occurances: 3532
         * Examples
-          * parcă: [p a r̪ k ɜ]
-          * acte: [a k t̪ e]
-          * fizic: [f i z̪ i k]
-          * texte: [t̪ e k s̪ t̪ e]
+          * china: [k i n̪ a]
+          * pic: [p i k]
+          * cred: [k r̪ e d̪]
+          * lucru: [l̪ u k r̪ u]
     * voiced
       * ɡ
         * Occurances: 706
         * Examples
-          * legat: [l̪ e ɡ a t̪]
-          * glas: [ɡ l̪ a s̪]
-          * greş: [ɡ r̪ e ʃ]
-          * bogat: [b o ɡ a t̪]
+          * gruia: [ɡ r̪ u i a]
+          * gaze: [ɡ a z̪ e]
+          * neagă: [n̪ e a ɡ ɜ]
+          * rugat: [r̪ u ɡ a t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -145,18 +155,18 @@
       * tʃ
         * Occurances: 1025
         * Examples
-          * citez: [tʃ i t̪ e z̪]
-          * zice: [z̪ i tʃ e]
+          * pace: [p a tʃ e]
           * ceea: [tʃ e e a]
-          * încep: [ɨ n̪ tʃ e p]
+          * cei: [tʃ e i]
+          * plece: [p l̪ e tʃ e]
     * voiced
       * dʒ
         * Occurances: 387
         * Examples
-          * gigi: [dʒ i dʒ i]
-          * regim: [r̪ e dʒ i m]
-          * fugi: [f u dʒ i]
-          * legea: [l̪ e dʒ a]
+          * fuge: [f u dʒ e]
+          * eugen: [e u dʒ e n̪]
+          * mingi: [m i n̪ dʒ i]
+          * magic: [m a dʒ i k]
     ```
   - ```{ipa_cell}
     ```
@@ -168,34 +178,50 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * voiceless
+      * s̪
+        * Occurances: 3328
+        * Examples
+          * sau: [s̪ a u]
+          * house: [h o u s̪ e]
+          * sală: [s̪ a l̪ ɜ]
+          * seară: [s̪ e a r̪ ɜ]
+    * voiced
+      * z̪
+        * Occurances: 965
+        * Examples
+          * gaze: [ɡ a z̪ e]
+          * fraze: [f r̪ a z̪ e]
+          * liz: [l̪ i z̪]
+          * ziua: [z̪ i u a]
     ```
   - ```{ipa_cell}
     * voiceless
       * s
         * Occurances: 933
         * Examples
-          * toţii: [t̪ o t̪ s i i]
-          * ţară: [t̪ s a r̪ ɜ]
-          * l-aţi: [l̪ a t̪ s i]
-          * ierţi: [i e r̪ t̪ s i]
+          * puţin: [p u t̪ s i n̪]
+          * deţin: [d̪ e t̪ s i n̪]
+          * faţă: [f a t̪ s ɜ]
+          * daţi: [d̪ a t̪ s i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 808
         * Examples
-          * lașă: [l̪ a ʃ ɜ]
-          * mi-aș: [m i a ʃ]
-          * greş: [ɡ r̪ e ʃ]
-          * șefi: [ʃ e f i]
+          * șef: [ʃ e f]
+          * naşul: [n̪ a ʃ u l̪]
+          * ieși: [i e ʃ i]
+          * nașul: [n̪ a ʃ u l̪]
     * voiced
       * ʒ
         * Occurances: 256
         * Examples
+          * jucam: [ʒ u k a m]
+          * ajuta: [a ʒ u t̪ a]
           * junta: [ʒ u n̪ t̪ a]
-          * major: [m a ʒ o r̪]
-          * ajuns: [a ʒ u n̪ s̪]
-          * jiu: [ʒ i u]
+          * juca: [ʒ u k a]
     ```
   - ```{ipa_cell}
     ```
@@ -209,18 +235,18 @@
       * f
         * Occurances: 1037
         * Examples
-          * front: [f r̪ o n̪ t̪]
-          * fizic: [f i z̪ i k]
-          * afara: [a f a r̪ a]
-          * flori: [f l̪ o r̪ i]
+          * refer: [r̪ e f e r̪]
+          * șef: [ʃ e f]
+          * fraze: [f r̪ a z̪ e]
+          * fuge: [f u dʒ e]
     * voiced
       * v
         * Occurances: 1220
         * Examples
-          * van: [v a n̪]
-          * valea: [v a l̪ e a]
-          * vedem: [v e d̪ e m]
-          * aveam: [a v e a m]
+          * vag: [v a ɡ]
+          * vis: [v i s̪]
+          * vechi: [v e k]
+          * vrut: [v r̪ u t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -235,15 +261,40 @@
       * h
         * Occurances: 106
         * Examples
-          * mihai: [m i h a i]
-          * hrană: [h r̪ a n̪ ɜ]
-          * honda: [h o n̪ d̪ a]
+          * house: [h o u s̪ e]
+          * hotel: [h o t̪ e l̪]
+          * cehia: [tʃ e h i a]
           * catch: [k a t̪ k h]
+    ```
+* - {manner}`Lateral`
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
+    * other
+      * l̪
+        * Occurances: 4380
+        * Examples
+          * reale: [r̪ e a l̪ e]
+          * sală: [s̪ a l̪ ɜ]
+          * lucru: [l̪ u k r̪ u]
+          * pilot: [p i l̪ o t̪]
+    ```
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
     ```
 ``````
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -262,10 +313,10 @@
       * i
         * Occurances: 11051
         * Examples
-          * nopți: [n̪ o p t̪s i]
-          * fizic: [f i z̪ i k]
-          * ordin: [o r̪ d̪ i n̪]
-          * iute: [i u t̪ e]
+          * gruia: [ɡ r̪ u i a]
+          * china: [k i n̪ a]
+          * mori: [m o r̪ i]
+          * pic: [p i k]
     ```
   - ```{ipa_cell}
     ```
@@ -274,10 +325,10 @@
       * ɨ
         * Occurances: 812
         * Examples
-          * atât: [a t̪ ɨ t̪]
-          * atâta: [a t̪ ɨ t̪ a]
-          * prânz: [p r̪ ɨ n̪ z̪]
-          * bâte: [b ɨ t̪ e]
+          * întâi: [ɨ n̪ t̪ ɨ i]
+          * câți: [k ɨ t̪s i]
+          * până: [p ɨ n̪ ɜ]
+          * râs: [r̪ ɨ s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -286,10 +337,10 @@
       * u
         * Occurances: 4264
         * Examples
-          * iute: [i u t̪ e]
-          * unesc: [u n̪ e s̪ k]
-          * iunie: [i u n̪ i e]
-          * kurdă: [k u r̪ d̪ ɜ]
+          * sau: [s̪ a u]
+          * house: [h o u s̪ e]
+          * gruia: [ɡ r̪ u i a]
+          * rugat: [r̪ u ɡ a t̪]
     ```
 * -
   - ```{ipa_cell}
@@ -308,10 +359,10 @@
       * e
         * Occurances: 10432
         * Examples
-          * aspre: [a s̪ p r̪ e]
-          * acte: [a k t̪ e]
-          * legat: [l̪ e ɡ a t̪]
-          * parte: [p a r̪ t̪ e]
+          * refer: [r̪ e f e r̪]
+          * house: [h o u s̪ e]
+          * șef: [ʃ e f]
+          * reale: [r̪ e a l̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -324,10 +375,10 @@
       * o
         * Occurances: 4432
         * Examples
-          * front: [f r̪ o n̪ t̪]
-          * nord: [n̪ o r̪ d̪]
-          * nopți: [n̪ o p t̪s i]
-          * boltă: [b o l̪ t̪ ɜ]
+          * house: [h o u s̪ e]
+          * mori: [m o r̪ i]
+          * pilot: [p i l̪ o t̪]
+          * boală: [b o a l̪ ɜ]
     ```
 * -
   - ```{ipa_cell}
@@ -350,10 +401,10 @@
       * ɜ
         * Occurances: 2840
         * Examples
-          * parcă: [p a r̪ k ɜ]
-          * boltă: [b o l̪ t̪ ɜ]
-          * lașă: [l̪ a ʃ ɜ]
-          * kurdă: [k u r̪ d̪ ɜ]
+          * sală: [s̪ a l̪ ɜ]
+          * neagă: [n̪ e a ɡ ɜ]
+          * seară: [s̪ e a r̪ ɜ]
+          * plină: [p l̪ i n̪ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -380,10 +431,10 @@
       * a
         * Occurances: 8125
         * Examples
-          * aspre: [a s̪ p r̪ e]
-          * parcă: [p a r̪ k ɜ]
-          * acte: [a k t̪ e]
-          * legat: [l̪ e ɡ a t̪]
+          * sau: [s̪ a u]
+          * gruia: [ɡ r̪ u i a]
+          * china: [k i n̪ a]
+          * reale: [r̪ e a l̪ e]
     ```
   - ```{ipa_cell}
     ```

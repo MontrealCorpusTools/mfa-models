@@ -7,7 +7,7 @@
 :tags: German;PROSODYLAB;PROSODYLAB;MFA
 :language: "German"
 :dialect: N/A
-:layout: not_mfa
+:layout: mfa
 :template: dictionary_template
 :phoneset: "PROSODYLAB"
 :license: "CC BY 4.0"

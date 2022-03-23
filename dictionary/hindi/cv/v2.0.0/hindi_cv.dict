@@ -4,7 +4,6 @@
 "आज	aː d͡ʒ
 "आप	aː p
 "इज़वेस्तीया"।	i z v e s t iː j aː
-"ऑपरेशन	ऑ p ə r e ʃ ə n
 "कब	k ə b
 "कुकी"	k u k iː
 "कुछ	k u t͡ʃʰ
@@ -36,8 +35,8 @@
 "सेक्स	s e k s ə
 "स्लोवेन्स्को"	s l o v e n s k o
 "हम	ɦ ə m
-"हाँ"	ɦ ã ː
-"हाँ,	ɦ ã ː
+"हाँ"	ɦ ãː
+"हाँ,	ɦ ãː
 ''राष्ट्रीय	r aː ʂ ʈ r iː j
 '...अल्पसंख्यकों	a l p ə s ə ŋ kʰ j ə k o n
 'अक्षरधाम'	a k ʂ ə r d̤ aː m
@@ -65,7 +64,6 @@
 'एक्स	e k s ə
 'एम.	e m
 'एमटीवी	e m ʈ iː v iː
-'ऑपरेशन	ऑ p ə r e ʃ ə n
 'कजरिया'	k ə d͡ʒ r i j aː
 'कथा'	k ə tʰ aː
 'कपूर	k ə p uː r
@@ -314,27 +312,13 @@
 'हिन्दू	ɦ i n d uː
 'हुंडई'	ɦ u n ɖ ə i
 'हैदर'	ɦ æː d ə r
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
 -प्रतिभा	p r ə t i b̤ aː
 ...और	ɔː r
 ...जब	d͡ʒ ə b
 ...ताकि	t aː k i
 ...तो	t o
 ...ये	j e
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	ə
 airpod,	ɛ ɹ p ɑ d
 amazon	æ m ə z ɑ n
@@ -469,10 +453,6 @@ xiaomi	z i ɑ o w m i
 youtube	j u t u b
 zero	z ɪ ɹ o w
 zomatoशुरू	z o w m ɑ t o w ʃ u r uː
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 अँगूठी	ã ɡ uː ʈʰ iː
 अँडे	ã ɖ e
 अँधेरा	ã d̤ e r aː
@@ -548,7 +528,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 अखरोट	a kʰ r o ʈ
 अख़बार	a x b aː r
 अखाड़े	a kʰ aː ɽ e
-अखाड़े	a kʰ aː ड़ e
 अखिलेश	a kʰ i l e ʃ
 अखिलेश-राहुल	a kʰ i l e ʃ r aː ɦ u l
 अखिलेश:	a kʰ i l e ʃ
@@ -877,15 +856,14 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 अहमदाबाद:	a ɦ m ə d aː b aː d
 अहमदीनेजाद	a ɦ m ə d iː n e d͡ʒ aː d
 अहलूवालिया	a ɦ l uː v aː l i j aː
-अड़ंगा	a ड़ ŋ ɡ aː
 आ	aː
-आँखे	ã ː kʰ e
-आँखें	ã ː kʰ e n
-आँखों	ã ː kʰ o n
-आँत्वाँ	ã ː t v ã ː
-आँसुओं	ã ː s u o n
-आँसू	ã ː s uː
-आँही	ã ː ɦ iː
+आँखे	ãː kʰ e
+आँखें	ãː kʰ e n
+आँखों	ãː kʰ o n
+आँत्वाँ	ãː t v ãː
+आँसुओं	ãː s u o n
+आँसू	ãː s uː
+आँही	ãː ɦ iː
 आंख	aː ŋ kʰ ə
 आंखें	aː ŋ kʰ e n
 आंखों	aː ŋ kʰ o n
@@ -929,8 +907,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 आउंगी।	aː u ŋ ɡ iː
 आउट	aː u ʈ
 आउट,	aː u ʈ
-आऊँगा	aː ũ ː ɡ aː
-आऊँगा।	aː ũ ː ɡ aː
+आऊँगा	aː ũː ɡ aː
+आऊँगा।	aː ũː ɡ aː
 आऊंगा-	aː uː ŋ ɡ aː
 आऊट	aː uː ʈ
 आए	aː e
@@ -1014,7 +992,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 आता!	aː t aː
 आता?	aː t aː
 आता।	aː t aː
-आतिशबाजियाँ	aː t i ʃ b aː d͡ʒ i j ã ː
+आतिशबाजियाँ	aː t i ʃ b aː d͡ʒ i j ãː
 आती	aː t iː
 आती।	aː t iː
 आते	aː t e
@@ -1183,7 +1161,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 आहना	aː ɦ n aː
 आहूजा	aː ɦ uː d͡ʒ aː
 आह्वान	aː ɦ v aː n
-आढ़त	aː ढ़ t ə
 इंकार	i ŋ k aː r
 इंग्लिश	i ŋ ɡ l i ʃ
 इंग्लैंड	i ŋ ɡ l æː n ɖ ə
@@ -1509,11 +1486,9 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 उसीको	u s iː k o
 उसे	u s e
 उसेन	u s e n
-उड़द	u ड़ d ə
-उड़ाई	u ड़ aː iː
-ऊँगली	ũ ː ɡ ə l iː
-ऊँचा	ũ ː t͡ʃ aː
-ऊँची	ũ ː t͡ʃ iː
+ऊँगली	ũː ɡ ə l iː
+ऊँचा	ũː t͡ʃ aː
+ऊँची	ũː t͡ʃ iː
 ऊंचा	uː ɲ t͡ʃ aː
 ऊंचाई	uː ɲ t͡ʃ aː iː
 ऊंची	uː ɲ t͡ʃ iː
@@ -1683,38 +1658,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ऐसा	æː s aː
 ऐसी	æː s iː
 ऐसे	æː s e
-ऑक्सफ़र्ड	ऑ k s ə f r ɖ ə
-ऑक्सिटन	ऑ k s i ʈ ə n
-ऑटो	ऑ ʈ o
-ऑटो-टैक्सी	ऑ ʈ o ʈ æː k s iː
-ऑटोग्राफ	ऑ ʈ o ɡ r aː pʰ
-ऑडिट	ऑ ɖ i ʈ
-ऑडियो	ऑ ɖ i j o
-ऑनर	ऑ n ə r
-ऑनलाइन	ऑ n ə l aː i n
-ऑपरेटर	ऑ p ə r e ʈ ə r
-ऑपरेशन	ऑ p ə r e ʃ ə n
-ऑपेरा	ऑ p e r aː
-ऑफ	ऑ pʰ ə
-ऑफर	ऑ pʰ ə r
-ऑफर,	ऑ pʰ ə r
-ऑफर्स	ऑ pʰ ə r s ə
-ऑफलाइन	ऑ pʰ ə l aː i n
-ऑफस्क्रीन	ऑ pʰ ə s k r iː n
-ऑफिशियल	ऑ pʰ i ʃ i j ə l
-ऑफिस	ऑ pʰ i s
-ऑफिस,	ऑ pʰ i s
-ऑफिसर	ऑ pʰ i s ə r
-ऑयल	ऑ j ə l
-ऑर्गनाइजर्स	ऑ r ɡ ə n aː i d͡ʒ r s ə
-ऑर्डर'	ऑ r ɖ ə r
-ऑल	ऑ l ə
-ऑस्कर	ऑ s k ə r
-ऑस्ट्रिया	ऑ s ʈ r i j aː
-ऑस्ट्रेलियन	ऑ s ʈ r e l i j ə n
-ऑस्ट्रेलिया	ऑ s ʈ r e l i j aː
-ऑस्ट्रेलिया,	ऑ s ʈ r e l i j aː
-ऑस्ट्रेलियाई	ऑ s ʈ r e l i j aː iː
 ओ	o
 ओकोनोमियाकी	o k o n o m i j aː k iː
 ओखला	o kʰ l aː
@@ -1781,7 +1724,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कटवाता	k ə ʈ v aː t aː
 कटवाना	k ə ʈ v aː n aː
 कटा	k ə ʈ aː
-कटोरियाँ	k ə ʈ o r i j ã ː
+कटोरियाँ	k ə ʈ o r i j ãː
 कटौती	k ə ʈ ɔː t iː
 कठिन	k ə ʈʰ i n
 कठुआ	k ə ʈʰ u aː
@@ -1822,7 +1765,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कप्तान	k ə p t aː n
 कप्तानी	k ə p t aː n iː
 कप्तानी?	k ə p t aː n iː
-कपड़ों	k ə p ड़ o n
 कब	k ə b
 कबड्डी	k ə b ɖ ɖ iː
 कबाब	k ə b aː b
@@ -1961,12 +1903,12 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 करुणा	k ə r u ɳ aː
 करुणाकरण	k ə r u ɳ aː k r ə ɳ
 करुणानिधि	k ə r u ɳ aː n i d̤ i
-करूँ?"	k ə r ũ ː
-करूँगा,	k ə r ũ ː ɡ aː
-करूँगा।	k ə r ũ ː ɡ aː
-करूँगी,	k ə r ũ ː ɡ iː
-करूँगी।	k ə r ũ ː ɡ iː
-करूँ।	k ə r ũ ː
+करूँ?"	k ə r ũː
+करूँगा,	k ə r ũː ɡ aː
+करूँगा।	k ə r ũː ɡ aː
+करूँगी,	k ə r ũː ɡ iː
+करूँगी।	k ə r ũː ɡ iː
+करूँ।	k ə r ũː
 करूं'	k ə r uː n
 करूंगा	k ə r uː ŋ ɡ aː
 करूंगा:	k ə r uː ŋ ɡ aː
@@ -2001,7 +1943,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 करोड़	k ə r o ɽ
 करोड़पति	k ə r o ɽ p ə t i
 करोड़ों	k ə r o ɽ o n
-करोड़	k ə r o ड़
 करो।	k ə r o
 कर्ज	k ə r d͡ʒ ə
 कर्जमाफी	k ə r d͡ʒ ə m aː pʰ iː
@@ -2074,11 +2015,11 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कहा..	k ə ɦ aː
 कहा:	k ə ɦ aː
 कहा?	k ə ɦ aː
-कहाँ	k ə ɦ ã ː
-कहाँ?	k ə ɦ ã ː
+कहाँ	k ə ɦ ãː
+कहाँ?	k ə ɦ ãː
 कहां	k ə ɦ aː n
 कहां-किसने	k ə ɦ aː n k i s n e
-कहानियाँ	k ə ɦ aː n i j ã ː
+कहानियाँ	k ə ɦ aː n i j ãː
 कहानियों	k ə ɦ aː n i j o n
 कहानी	k ə ɦ aː n iː
 कहानी!	k ə ɦ aː n iː
@@ -2090,7 +2031,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कहिएगा!	k ə ɦ i e ɡ aː
 कही	k ə ɦ iː
 कहीं	k ə ɦ iː n
-कहूँ।	k ə ɦ ũ ː
+कहूँ।	k ə ɦ ũː
 कहे	k ə ɦ e
 कहेंगी	k ə ɦ e ŋ ɡ iː
 कहेंगी?	k ə ɦ e ŋ ɡ iː
@@ -2116,7 +2057,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 का'	k aː
 का,	k aː
 का?	k aː
-काँग	k ã ː ɡ ə
+काँग	k ãː ɡ ə
 कांग्रेस	k aː ŋ ɡ r e s
 कांग्रेस,	k aː ŋ ɡ r e s
 कांग्रेस-सपा	k aː ŋ ɡ r e s s ə p aː
@@ -2354,7 +2295,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कुलबुलाते	k u l b u l aː t e
 कुलभूषण	k u l b̤ uː ʂ ə ɳ
 कुल्फी	k u l pʰ iː
-कुल्हाड़ी	k u l ɦ aː ड़ iː
 कुशल	k u ʃ ə l
 कुशवाहा	k u ʃ v aː ɦ aː
 कुश्ती	k u ʃ t iː
@@ -2367,7 +2307,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कूदा	k uː d aː
 कूदी	k uː d iː
 कूलर	k uː l ə r
-कूड़े	k uː ड़ e
 कृंतक	k r̩ n t ə k
 कृति	k r̩ t i
 कृपया	k r̩ p j aː
@@ -2460,7 +2399,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 कॉन्फ्रेंसिंग	k ɔ n pʰ r e n s i ŋ ɡ ə
 कॉन्सेप्ट	k ɔ n s e p ʈ ə
 कॉन्स्टेबल	k ɔ n s ʈ e b ə l
-कॉपियाँ	k ɔ p i j ã ː
+कॉपियाँ	k ɔ p i j ãː
 कॉपी	k ɔ p iː
 कॉफ़ी	k ɔ f iː
 कॉफ़ी?	k ɔ f iː
@@ -2596,7 +2535,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 क्षमा	k ʂ ə m aː
 क्षेत्र	k ʂ e t r ə
 क्षेत्रों	k ʂ e t r o n
-कड़वा-सा	k ə ड़ v aː s aː
 खंड-खंड	kʰ ə n ɖ ə kʰ ə n ɖ ə
 खटखटाने	kʰ ə ʈ kʰ ə ʈ aː n e
 खटखटाया।	kʰ ə ʈ kʰ ə ʈ aː j aː
@@ -2674,7 +2612,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ख़ून	x uː n
 ख़ूब	x uː b
 खा	kʰ aː
-खाँसी	kʰ ã ː s iː
+खाँसी	kʰ ãː s iː
 खां	kʰ aː n
 खाइए	kʰ aː i e
 खाइए!	kʰ aː i e
@@ -2717,7 +2655,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 खासियत	kʰ aː s i j ə t
 खासियत:	kʰ aː s i j ə t
 खिंचाईं	kʰ i ɲ t͡ʃ aː iː n
-खिड़कियाँ	kʰ i ɽ k i j ã ː
+खिड़कियाँ	kʰ i ɽ k i j ãː
 खिड़की	kʰ i ɽ k iː
 खिताब	kʰ i t aː b
 खिल	kʰ i l
@@ -2730,7 +2668,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 खिलाने	kʰ i l aː n e
 खिलाफ	kʰ i l aː pʰ
 खिलाफ़	kʰ i l aː f
-खिलाड़ियों	kʰ i l aː ड़ i j o n
 खींच	kʰ iː ɲ t͡ʃ ə
 खींचा,	kʰ iː ɲ t͡ʃ aː
 खींची।	kʰ iː ɲ t͡ʃ iː
@@ -2905,7 +2842,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 गर्भवती	ɡ ə r b̤ ə v t iː
 गर्भावस्था	ɡ ə r b̤ aː v s tʰ aː
 गर्म	ɡ ə r m ə
-गर्मियाँ	ɡ ə r m i j ã ː
+गर्मियाँ	ɡ ə r m i j ãː
 गर्मियों	ɡ ə r m i j o n
 गर्मी	ɡ ə r m iː
 गर्ल	ɡ ə r l ə
@@ -2935,7 +2872,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ग़रीबी	ɣ ə r iː b iː
 ग़लत	ɣ ə l ə t
 ग़लतफ़ैमी	ɣ ə l t ə f æː m iː
-ग़लतियाँ	ɣ ə l t i j ã ː
+ग़लतियाँ	ɣ ə l t i j ãː
 ग़लतियों	ɣ ə l t i j o n
 ग़लती	ɣ ə l t iː
 ग़ायब	ɣ aː j ə b
@@ -2945,7 +2882,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ग़ोता	ɣ o t aː
 ग़ौर	ɣ ɔː r
 गा	ɡ aː
-गाँव	ɡ ã ː v ə
+गाँव	ɡ ãː v ə
 गांगुली	ɡ aː ŋ ɡ u l iː
 गांगुली,	ɡ aː ŋ ɡ u l iː
 गांजे	ɡ aː ɲ d͡ʒ e
@@ -2958,7 +2895,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 गांव	ɡ aː n v ə
 गाइड	ɡ aː i ɖ
 गाइडेड	ɡ aː i ɖ e ɖ
-गाऊँगी।	ɡ aː ũ ː ɡ iː
+गाऊँगी।	ɡ aː ũː ɡ iː
 गाएंगे	ɡ aː e ŋ ɡ e
 गाएंगे।	ɡ aː e ŋ ɡ e
 गाजियाबाद	ɡ aː d͡ʒ i j aː b aː d
@@ -2966,12 +2903,12 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 गाजी	ɡ aː d͡ʒ iː
 गाजीपुर	ɡ aː d͡ʒ iː p u r
 गाड़ना	ɡ aː ɽ n aː
-गाड़ियाँ	ɡ aː ɽ i j ã ː
+गाड़ियाँ	ɡ aː ɽ i j ãː
 गाड़ियां!	ɡ aː ɽ i j aː n
 गाड़ियों	ɡ aː ɽ i j o n
 गाड़ी	ɡ aː ɽ iː
 गाड़ी'	ɡ aː ɽ iː
-गाडीयाँ	ɡ aː ɖ iː j ã ː
+गाडीयाँ	ɡ aː ɖ iː j ãː
 गाता	ɡ aː t aː
 गाती	ɡ aː t iː
 गाते	ɡ aː t e
@@ -3184,7 +3121,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ग्लैमरस	ɡ l æː m r ə s
 ग्लोबल	ɡ l o b ə l
 ग्वालियर	ɡ v aː l i j ə r
-गज़ल	ɡ ə ज़ l ə
 घंटी	ɡ̤ ə n ʈ iː
 घंटे	ɡ̤ ə n ʈ e
 घंटो	ɡ̤ ə n ʈ o
@@ -3271,7 +3207,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चक्रवाती	t͡ʃ ə k r ə v aː t iː
 चक्रव्यूह	t͡ʃ ə k r ə v j uː ɦ
 चखकर	t͡ʃ ə kʰ k ə r
-चखाऊँगा।	t͡ʃ ə kʰ aː ũ ː ɡ aː
+चखाऊँगा।	t͡ʃ ə kʰ aː ũː ɡ aː
 चटाती	t͡ʃ ə ʈ aː t iː
 चट्टान	t͡ʃ ə ʈ ʈ aː n
 चढ़ते	t͡ʃ ə ɽ̥ ə t e
@@ -3343,7 +3279,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चश्मे	t͡ʃ ə ʃ m e
 चहिए	t͡ʃ ə ɦ i e
 चहिए।	t͡ʃ ə ɦ i e
-चाँद	t͡ʃ ã ː d ə
+चाँद	t͡ʃ ãː d ə
 चांडी	t͡ʃ aː n ɖ iː
 चांदी	t͡ʃ aː n d iː
 चांस	t͡ʃ aː n s ə
@@ -3398,8 +3334,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चाहिएँ।	t͡ʃ aː ɦ i ẽ
 चाहिए।	t͡ʃ aː ɦ i e
 चाहिये?	t͡ʃ aː ɦ i j e
-चाहूँगा।	t͡ʃ aː ɦ ũ ː ɡ aː
-चाहूँगी।	t͡ʃ aː ɦ ũ ː ɡ iː
+चाहूँगा।	t͡ʃ aː ɦ ũː ɡ aː
+चाहूँगी।	t͡ʃ aː ɦ ũː ɡ iː
 चाहे	t͡ʃ aː ɦ e
 चाहेंगे	t͡ʃ aː ɦ e ŋ ɡ e
 चाहेंगे?	t͡ʃ aː ɦ e ŋ ɡ e
@@ -3425,7 +3361,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चिट्ठी	t͡ʃ i ʈ ʈʰ iː
 चिट्ठी-	t͡ʃ i ʈ ʈʰ iː
 चिड़िया	t͡ʃ i ɽ i j aː
-चिड़ियाँ	t͡ʃ i ɽ i j ã ː
+चिड़ियाँ	t͡ʃ i ɽ i j ãː
 चिढ़	t͡ʃ i ɽ̥ ə
 चित	t͡ʃ i t
 चित्रकूट:	t͡ʃ i t r ə k uː ʈ
@@ -3462,7 +3398,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चीर	t͡ʃ iː r
 चुंबन	t͡ʃ u m b ə n
 चुकता	t͡ʃ u k t aː
-चुकताऊँगा।	t͡ʃ u k t aː ũ ː ɡ aː
+चुकताऊँगा।	t͡ʃ u k t aː ũː ɡ aː
 चुका	t͡ʃ u k aː
 चुकी	t͡ʃ u k iː
 चुकीं	t͡ʃ u k iː n
@@ -3540,7 +3476,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 चोदने	t͡ʃ o d n e
 चोदा।	t͡ʃ o d aː
 चोपड़ा	t͡ʃ o p ɽ aː
-चोपड़ा	t͡ʃ o p ड़ aː
 चोर	t͡ʃ o r
 चोर,	t͡ʃ o r
 चोरी	t͡ʃ o r iː
@@ -3580,17 +3515,15 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 छत्तीसगढ़-	t͡ʃʰ ə t t iː s ɡ ə ɽ̥ ə
 छत्तीसगढ़:	t͡ʃʰ ə t t iː s ɡ ə ɽ̥ ə
 छत्तीसगढ़ः	t͡ʃʰ ə t t iː s ɡ ə ɽ̥ ə h
-छत्तीसगढ़	t͡ʃʰ ə t t iː s ə ɡ ढ़
-छत्तीसगढ़:	t͡ʃʰ ə t t iː s ə ɡ ढ़
 छब्बीस	t͡ʃʰ ə b b iː s
 छल	t͡ʃʰ ə l
 छला	t͡ʃʰ ə l aː
-छलाँग	t͡ʃʰ ə l ã ː ɡ ə
+छलाँग	t͡ʃʰ ə l ãː ɡ ə
 छवि	t͡ʃʰ ə v i
 छह	t͡ʃʰ ə ɦ
 छा	t͡ʃʰ aː
-छाँओं	t͡ʃʰ ã ː o n
-छाँव	t͡ʃʰ ã ː v ə
+छाँओं	t͡ʃʰ ãː o n
+छाँव	t͡ʃʰ ãː v ə
 छाई	t͡ʃʰ aː iː
 छाए	t͡ʃʰ aː e
 छाता	t͡ʃʰ aː t aː
@@ -3635,7 +3568,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 छेड़छाड़,	t͡ʃʰ e ɽ t͡ʃʰ aː ɽ
 छेड़छाड़:	t͡ʃʰ e ɽ t͡ʃʰ aː ɽ
 छेद!	t͡ʃʰ e d
-छेड़छाड़	t͡ʃʰ e ड़ t͡ʃʰ aː ड़
 छोटा	t͡ʃʰ o ʈ aː
 छोटी	t͡ʃʰ o ʈ iː
 छोटू	t͡ʃʰ o ʈ uː
@@ -3656,8 +3588,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 छोड़ो	t͡ʃʰ o ɽ o
 छोड़ो।	t͡ʃʰ o ɽ o
 छोड़।	t͡ʃʰ o ɽ
-छोड़	t͡ʃʰ o ड़
-छोड़े	t͡ʃʰ o ड़ e
 जँचता	d͡ʒ ə̃ t͡ʃ ə t aː
 जंग	d͡ʒ ə ŋ ɡ ə
 जंग!	d͡ʒ ə ŋ ɡ ə
@@ -3806,7 +3736,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 जस्टिस	d͡ʒ ə s ʈ i s
 जहर!	d͡ʒ ə ɦ ə r
 जहरीले	d͡ʒ ə ɦ r iː l e
-जहाँ	d͡ʒ ə ɦ ã ː
+जहाँ	d͡ʒ ə ɦ ãː
 जहां	d͡ʒ ə ɦ aː n
 जहां,	d͡ʒ ə ɦ aː n
 जहाज	d͡ʒ ə ɦ aː d͡ʒ
@@ -3842,15 +3772,15 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 जा	d͡ʒ aː
 जा!	d͡ʒ aː
 जा'	d͡ʒ aː
-जाँच-पड़ताल	d͡ʒ ã ː t͡ʃ ə p ə ɽ t aː l
+जाँच-पड़ताल	d͡ʒ ãː t͡ʃ ə p ə ɽ t aː l
 जांच	d͡ʒ aː ɲ t͡ʃ ə
 जांचकर्ता	d͡ʒ aː ɲ t͡ʃ k ə r t aː
 जाइए	d͡ʒ aː i e
 जाइए!	d͡ʒ aː i e
 जाइये	d͡ʒ aː i j e
-जाऊँगा।	d͡ʒ aː ũ ː ɡ aː
-जाऊँगी।	d͡ʒ aː ũ ː ɡ iː
-जाऊँ।	d͡ʒ aː ũ ː
+जाऊँगा।	d͡ʒ aː ũː ɡ aː
+जाऊँगी।	d͡ʒ aː ũː ɡ iː
+जाऊँ।	d͡ʒ aː ũː
 जाऊंगा।	d͡ʒ aː uː ŋ ɡ aː
 जाऊंगी।	d͡ʒ aː uː ŋ ɡ iː
 जाए	d͡ʒ aː e
@@ -4127,13 +4057,11 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ज्वालामुखी	d͡ʒ v aː l aː m u kʰ iː
 ज्वैलरी	d͡ʒ v æː l r iː
 ज्वॉइन	d͡ʒ v ɔ i n
-जड़ते	d͡ʒ ə ड़ t e
 झंडा	d͡ʒ̤ ə n ɖ aː
 झंडा।	d͡ʒ̤ ə n ɖ aː
 झंडी	d͡ʒ̤ ə n ɖ iː
 झंडे	d͡ʒ̤ ə n ɖ e
 झगड़	d͡ʒ̤ ə ɡ ə ɽ
-झगड़ा	d͡ʒ̤ ə ɡ ड़ aː
 झटका	d͡ʒ̤ ə ʈ k aː
 झटका,	d͡ʒ̤ ə ʈ k aː
 झटके	d͡ʒ̤ ə ʈ k e
@@ -4185,7 +4113,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 टला,	ʈ ə l aː
 टली	ʈ ə l iː
 टली,	ʈ ə l iː
-टाँगा	ʈ ã ː ɡ aː
+टाँगा	ʈ ãː ɡ aː
 टांग	ʈ aː ŋ ɡ ə
 टांगकर	ʈ aː ŋ ɡ k ə r
 टाइगर	ʈ aː i ɡ ə r
@@ -4227,7 +4155,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 टुकड़ा	ʈ u k ɽ aː
 टुकड़ो	ʈ u k ɽ o
 टुकड़ों	ʈ u k ɽ o n
-टुकड़े	ʈ u k ड़ e
 टुडे	ʈ u ɖ e
 टू	ʈ uː
 टू,	ʈ uː
@@ -4369,9 +4296,9 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 डरे	ɖ ə r e
 डरो	ɖ ə r o
 डरो।	ɖ ə r o
-डाँट	ɖ ã ː ʈ ə
-डाँटा।	ɖ ã ː ʈ aː
-डाँवाडोल	ɖ ã ː v aː ɖ o l
+डाँट	ɖ ãː ʈ ə
+डाँटा।	ɖ ãː ʈ aː
+डाँवाडोल	ɖ ãː v aː ɖ o l
 डांस	ɖ aː n s ə
 डांस,	ɖ aː n s ə
 डांसर	ɖ aː n s ə r
@@ -4510,10 +4437,10 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ढालना	ɖ̤ aː l n aː
 ढिलाई	ɖ̤ i l aː iː
 ढीले	ɖ̤ iː l e
-ढूँढ	ɖ̤ ũ ː ɖ̤ ə
-ढूँढता	ɖ̤ ũ ː ɖ̤ ə t aː
-ढूँढना	ɖ̤ ũ ː ɖ̤ ə n aː
-ढूँढने	ɖ̤ ũ ː ɖ̤ ə n e
+ढूँढ	ɖ̤ ũː ɖ̤ ə
+ढूँढता	ɖ̤ ũː ɖ̤ ə t aː
+ढूँढना	ɖ̤ ũː ɖ̤ ə n aː
+ढूँढने	ɖ̤ ũː ɖ̤ ə n e
 ढूंढ	ɖ̤ uː n ɖ̤ ə
 ढूंढने	ɖ̤ uː n ɖ̤ n e
 ढेर	ɖ̤ e r
@@ -4617,7 +4544,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ताने	t aː n e
 तापमान	t aː p m aː n
 तापसी	t aː p s iː
-ताबड़तोड़	t aː b ड़ t o ड़
 तामुलपुर	t aː m u l p u r
 तार	t aː r
 तारणहार	t aː r ɳ ə ɦ aː r
@@ -4893,7 +4819,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 दही	d ə ɦ iː
 दहेज	d ə ɦ e d͡ʒ
 दा	d aː
-दाँतों	d ã ː t o n
+दाँतों	d ãː t o n
 दांडी	d aː n ɖ iː
 दांव	d aː n v ə
 दांव,	d aː n v ə
@@ -4928,7 +4854,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 दास्तां	d aː s t aː n
 दास्तान	d aː s t aː n
 दाहिना	d aː ɦ i n aː
-दाग़	d aː ग़
 दिए	d i e
 दिए।	d i e
 दिक्कत	d i k k ə t
@@ -4942,7 +4867,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 दिखाई	d i kʰ aː iː
 दिखाईए।	d i kʰ aː iː e
 दिखाई।	d i kʰ aː iː
-दिखाऊँगा	d i kʰ aː ũ ː ɡ aː
+दिखाऊँगा	d i kʰ aː ũː ɡ aː
 दिखाए	d i kʰ aː e
 दिखाएँ।	d i kʰ aː ẽ
 दिखाएंगे	d i kʰ aː e ŋ ɡ e
@@ -5049,10 +4974,10 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 दुष्यंत	d u ʂ j ə n t ə
 दुसरे	d u s r e
 दुहा,	d u ɦ aː
-दूँ	d ũ ː
-दूँ,	d ũ ː
-दूँगा।	d ũ ː ɡ aː
-दूँगी।	d ũ ː ɡ iː
+दूँ	d ũː
+दूँ,	d ũː
+दूँगा।	d ũː ɡ aː
+दूँगी।	d ũː ɡ iː
 दूं?	d uː n
 दूंगा:	d uː ŋ ɡ aː
 दूंगा।	d uː ŋ ɡ aː
@@ -5192,7 +5117,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 द्रमुक	d r ə m u k
 द्रविड़	d r ə v i ɽ
 द्रविड़,	d r ə v i ɽ
-द्रविड़	d r ə v i ड़
 द्रिश्य	d r i ʃ j ə
 द्वारिकाधीश	d v aː r i k aː d̤ iː ʃ
 द्विअर्थी	d v i a r tʰ iː
@@ -5260,7 +5184,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 धोओ।	d̤ o o
 धोका	d̤ o k aː
 धोखा	d̤ o kʰ aː
-धोखाधड़ी,	d̤ o kʰ aː d̤ ड़ iː
 धोखे	d̤ o kʰ e
 धोनी	d̤ o n iː
 धोनी,	d̤ o n iː
@@ -5286,7 +5209,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 नक्शा	n ə k ʃ aː
 नक्शे	n ə k ʃ e
 नक्सल	n ə k s ə l
-नक्सलगढ़	n ə k s ə l ə ɡ ढ़
 नक्सलवाद	n ə k s ə l v aː d
 नक्सलियों	n ə k s ə l i j o n
 नक्सली	n ə k s ə l iː
@@ -5677,8 +5599,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पक्ष'	p ə k ʂ ə
 पक्षियों	p ə k ʂ i j o n
 पक्षी	p ə k ʂ iː
-पकड़	p ə k ड़
-पकड़े	p ə k ड़ e
 पगड़ी	p ə ɡ ɽ iː
 पचड़े	p ə t͡ʃ ɽ e
 पचास	p ə t͡ʃ aː s
@@ -5751,7 +5671,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पती	p ə t iː
 पतीता	p ə t iː t aː
 पत्तागोभी,	p ə t t aː ɡ o b̤ iː
-पत्तियाँ	p ə t t i j ã ː
+पत्तियाँ	p ə t t i j ãː
 पत्तियों	p ə t t i j o n
 पत्थर	p ə t tʰ ə r
 पत्नी	p ə t n iː
@@ -5893,8 +5813,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पहाड़	p ə ɦ aː ɽ
 पहाड़ी	p ə ɦ aː ɽ iː
 पहाना,	p ə ɦ aː n aː
-पहाड़	p ə ɦ aː ड़
-पहाड़ी	p ə ɦ aː ड़ iː
 पहुँच	p ə ɦ ũ t͡ʃ ə
 पहुँचना	p ə ɦ ũ t͡ʃ ə n aː
 पहुँचने	p ə ɦ ũ t͡ʃ ə n e
@@ -5921,10 +5839,10 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पहुंचेंगे	p ə ɦ u ɲ t͡ʃ e ŋ ɡ e
 पहुंचेगा	p ə ɦ u ɲ t͡ʃ e ɡ aː
 पा	p aː
-पाँच	p ã ː t͡ʃ ə
-पाँच,	p ã ː t͡ʃ ə
-पाँचगुना	p ã ː t͡ʃ ə ɡ u n aː
-पाँचधारी	p ã ː t͡ʃ ə d̤ aː r iː
+पाँच	p ãː t͡ʃ ə
+पाँच,	p ãː t͡ʃ ə
+पाँचगुना	p ãː t͡ʃ ə ɡ u n aː
+पाँचधारी	p ãː t͡ʃ ə d̤ aː r iː
 पांच	p aː ɲ t͡ʃ ə
 पांचवी	p aː ɲ t͡ʃ v iː
 पांचवीं	p aː ɲ t͡ʃ v iː n
@@ -5938,7 +5856,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पाइए	p aː i e
 पाइपलाईन	p aː i p l aː iː n
 पाउडर	p aː u ɖ ə r
-पाऊँगा।	p aː ũ ː ɡ aː
+पाऊँगा।	p aː ũː ɡ aː
 पाऊंड	p aː uː n ɖ ə
 पाए	p aː e
 पाएं	p aː e n
@@ -6140,8 +6058,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पुष्प	p u ʂ p ə
 पुस्तक	p u s t ə k
 पुस्तकालय	p u s t ə k aː l ə j
-पूँछा?	p ũ ː t͡ʃʰ aː
-पूँजीवादी	p ũ ː d͡ʒ iː v aː d iː
+पूँछा?	p ũː t͡ʃʰ aː
+पूँजीवादी	p ũː d͡ʒ iː v aː d iː
 पूंजीवाद	p uː ɲ d͡ʒ iː v aː d
 पूछ	p uː t͡ʃʰ
 पूछताछ	p uː t͡ʃʰ t aː t͡ʃʰ
@@ -6154,7 +6072,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पूछा:	p uː t͡ʃʰ aː
 पूछा।	p uː t͡ʃʰ aː
 पूछिए,	p uː t͡ʃʰ i e
-पूछूँगा।	p uː t͡ʃʰ ũ ː ɡ aː
+पूछूँगा।	p uː t͡ʃʰ ũː ɡ aː
 पूजन	p uː d͡ʒ ə n
 पूजा	p uː d͡ʒ aː
 पूजा,	p uː d͡ʒ aː
@@ -6210,7 +6128,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 पेस,	p e s
 पेस-वेस्नीना	p e s v e s n iː n aː
 पेस-स्टेपानेक	p e s s ʈ e p aː n e k
-पेड़	p e ड़
 पैंट	p æː n ʈ ə
 पैंतरा,	p æː n t r aː
 पैक	p æː k
@@ -6416,20 +6333,12 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 प्लान	p l aː n
 प्लान,	p l aː n
 प्लास्टिक	p l aː s ʈ i k
-प्लेऑफ	p l e ऑ pʰ ə
 प्लेन	p l e n
 प्लेन,	p l e n
 प्लेस	p l e s
 प्लेसमेंट	p l e s m e n ʈ ə
 प्लेसिस	p l e s i s
 प्वॉइंट	p v ɔ i n ʈ ə
-पड़	p ə ड़
-पड़ता	p ə ड़ t aː
-पड़ती	p ə ड़ t iː
-पड़ी	p ə ड़ iː
-पड़ोसी	p ə ड़ o s iː
-पढ़ी	p ə ढ़ iː
-पढ़ें	p ə ढ़ e n
 फँस	pʰ ə̃ s ə
 फंडिंग!	pʰ ə n ɖ i ŋ ɡ ə
 फंस	pʰ ə n s ə
@@ -6646,7 +6555,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 फ्लू	pʰ l uː
 फ्लेमिंग	pʰ l e m i ŋ ɡ ə
 फ्लैटों	pʰ l æː ʈ o n
-फड़नीस	pʰ ə ड़ n iː s
 बंगले	b ə ŋ ɡ l e
 बंगलों	b ə ŋ ɡ l o n
 बंगाल	b ə ŋ ɡ aː l
@@ -6784,7 +6692,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बतायें।	b ə t aː j e n
 बता।	b ə t aː
 बतौर	b ə t ɔː r
-बत्तियाँ	b ə t t i j ã ː
+बत्तियाँ	b ə t t i j ãː
 बत्ती	b ə t t iː
 बदतमीजी,	b ə d t ə m iː d͡ʒ iː
 बदतर	b ə d t ə r
@@ -6811,7 +6719,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बदाम	b ə d aː m
 बदायूं	b ə d aː j uː n
 बधाई	b ə d̤ aː iː
-बधाईंयाँ।	b ə d̤ aː iː n j ã ː
+बधाईंयाँ।	b ə d̤ aː iː n j ãː
 बन	b ə n
 बनकर	b ə n k ə r
 बनता	b ə n t aː
@@ -6953,8 +6861,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बहुरूपिये	b ə ɦ u r uː p i j e
 बहुरेंगे	b ə ɦ u r e ŋ ɡ e
 बहू	b ə ɦ uː
-बाँट	b ã ː ʈ ə
-बाँटा।	b ã ː ʈ aː
+बाँट	b ãː ʈ ə
+बाँटा।	b ãː ʈ aː
 बांग्ला	b aː ŋ ɡ l aː
 बांग्लादेश	b aː ŋ ɡ l aː d e ʃ
 बांग्लादेशी	b aː ŋ ɡ l aː d e ʃ iː
@@ -6994,8 +6902,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बात...	b aː t
 बात:	b aː t
 बातचीत	b aː t t͡ʃ iː t
-बाताऊँगा,	b aː t aː ũ ː ɡ aː
-बाताऊँगी।	b aː t aː ũ ː ɡ iː
+बाताऊँगा,	b aː t aː ũː ɡ aː
+बाताऊँगी।	b aː t aː ũː ɡ iː
 बाती	b aː t iː
 बातें	b aː t e n
 बातों	b aː t o n
@@ -7080,7 +6988,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बिलाल-उर	b i l aː l u r
 बिलियन	b i l i j ə n
 बिल्कुल	b i l k u l
-बिल्लियाँ	b i l l i j ã ː
+बिल्लियाँ	b i l l i j ãː
 बिल्लियों	b i l l i j o n
 बिल्ली	b i l l iː
 बिस्तर	b i s t ə r
@@ -7171,7 +7079,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 बुलाया।	b u l aː j aː
 बुल्ला,	b u l l aː
 बुश	b u ʃ
-बूँद	b ũ ː d ə
+बूँद	b ũː d ə
 बूंद	b uː n d ə
 बूंदें?	b uː n d e n
 बूझो	b uː d͡ʒ̤ o
@@ -7401,17 +7309,9 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 ब्वायफ्रेंड	b v aː j pʰ r e n ɖ ə
 ब्वॉय	b v ɔ j
 ब्वॉयफ्रेंड	b v ɔ j pʰ r e n ɖ ə
-बड़ा	b ə ड़ aː
-बड़ी	b ə ड़ iː
-बड़े	b ə ड़ e
-बढ़ते	b ə ढ़ t e
-बढ़ने	b ə ढ़ n e
-बढ़ाएं:	b ə ढ़ aː e n
-बढ़ी	b ə ढ़ iː
 भंग	b̤ ə ŋ ɡ ə
 भंडाफोड	b̤ ə n ɖ aː pʰ o ɖ
 भंडाफोड़	b̤ ə n ɖ aː pʰ o ɽ
-भंडाफोड़	b̤ ə n ɖ aː pʰ o ड़
 भंडारकर	b̤ ə n ɖ aː r k ə r
 भंसाली	b̤ ə n s aː l iː
 भइया'	b̤ ə i j aː
@@ -7518,7 +7418,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 भिंडरावाले	b̤ i n ɖ r aː v aː l e
 भिखारियों	b̤ i kʰ aː r i j o n
 भिखारी,	b̤ i kʰ aː r iː
-भिजवादूँगा।	b̤ i d͡ʒ v aː d ũ ː ɡ aː
+भिजवादूँगा।	b̤ i d͡ʒ v aː d ũː ɡ aː
 भिड़े!	b̤ i ɽ e
 भिड़ेंगे	b̤ i ɽ e ŋ ɡ e
 भिलाई	b̤ i l aː iː
@@ -7560,7 +7460,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 भूलना।	b̤ uː l n aː
 भूलिएगा।	b̤ uː l i e ɡ aː
 भूलीं	b̤ uː l iː n
-भूलूँगा।	b̤ uː l ũ ː ɡ aː
+भूलूँगा।	b̤ uː l ũː ɡ aː
 भूले	b̤ uː l e
 भूषण	b̤ uː ʂ ə ɳ
 भेंट	b̤ e n ʈ ə
@@ -7592,13 +7492,12 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 भ्रम	b̤ r ə m
 भ्रष्ट	b̤ r ə ʂ ʈ ə
 भ्रष्टाचार	b̤ r ə ʂ ʈ aː t͡ʃ aː r
-भड़कीं	b̤ ə ड़ k iː n
 मंगल	m ə ŋ ɡ ə l
 मंगलयान	m ə ŋ ɡ l ə j aː n
 मंगलवार	m ə ŋ ɡ l ə v aː r
 मंगलूर	m ə ŋ ɡ l uː r
 मंगवाया	m ə ŋ ɡ v aː j aː
-मंगाऊँ?	m ə ŋ ɡ aː ũ ː
+मंगाऊँ?	m ə ŋ ɡ aː ũː
 मंगाते	m ə ŋ ɡ aː t e
 मंगेतर	m ə ŋ ɡ e t ə r
 मंगेशकर	m ə ŋ ɡ e ʃ k ə r
@@ -7648,7 +7547,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 मच्छर	m ə t͡ʃ t͡ʃʰ ə r
 मच्छर...	m ə t͡ʃ t͡ʃʰ ə r
 मच्छरों	m ə t͡ʃ t͡ʃʰ ə r o n
-मछलियाँ	m ə t͡ʃʰ l i j ã ː
+मछलियाँ	m ə t͡ʃʰ l i j ãː
 मछलियां	m ə t͡ʃʰ l i j aː n
 मछलियों	m ə t͡ʃʰ l i j o n
 मछली	m ə t͡ʃʰ l iː
@@ -7829,17 +7728,17 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 महेन्द्र	m ə ɦ e n d r ə
 महेश	m ə ɦ e ʃ
 महोत्सव	m ə ɦ o t s ə v
-माँ	m ã ː
-माँ,	m ã ː
-माँ-बाप	m ã ː b aː p
-माँग	m ã ː ɡ ə
-माँगता	m ã ː ɡ ə t aː
-माँगनी	m ã ː ɡ ə n iː
-माँगने	m ã ː ɡ ə n e
-माँगी	m ã ː ɡ iː
-माँगी।	m ã ː ɡ iː
-माँगे।	m ã ː ɡ e
-माँगो।	m ã ː ɡ o
+माँ	m ãː
+माँ,	m ãː
+माँ-बाप	m ãː b aː p
+माँग	m ãː ɡ ə
+माँगता	m ãː ɡ ə t aː
+माँगनी	m ãː ɡ ə n iː
+माँगने	m ãː ɡ ə n e
+माँगी	m ãː ɡ iː
+माँगी।	m ãː ɡ iː
+माँगे।	m ãː ɡ e
+माँगो।	m ãː ɡ o
 मां	m aː n
 मां!	m aː n
 मां,	m aː n
@@ -7883,7 +7782,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 माधवराव	m aː d̤ v ə r aː v
 माधुरी	m aː d̤ u r iː
 मान	m aː n
-मानगढ़	m aː n ə ɡ ढ़
 मानता	m aː n t aː
 मानते	m aː n t e
 माननी	m aː n n iː
@@ -7972,7 +7870,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 मिटिनेक	m i ʈ i n e k
 मिट्टी	m i ʈ ʈ iː
 मिठाई	m i ʈʰ aː iː
-मिठाईयाँ	m i ʈʰ aː iː j ã ː
+मिठाईयाँ	m i ʈʰ aː iː j ãː
 मिठास	m i ʈʰ aː s
 मिड	m i ɖ
 मिड-डे	m i ɖ ɖ e
@@ -8024,7 +7922,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 मिलीं?	m i l iː n
 मिलीभगत	m i l iː b̤ ɡ ə t
 मिली।	m i l iː
-मिलूँ।	m i l ũ ː
+मिलूँ।	m i l ũː
 मिले	m i l e
 मिलेंगी	m i l e ŋ ɡ iː
 मिलेंगीं।	m i l e ŋ ɡ iː n
@@ -8179,14 +8077,14 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 मुहर्रम	m u ɦ r r ə m
 मुहिम	m u ɦ i m
 मुहूर्त	m u ɦ uː r t ə
-मूँगफली	m ũ ː ɡ ə pʰ l iː
-मूँह	m ũ ː ɦ ə
+मूँगफली	m ũː ɡ ə pʰ l iː
+मूँह	m ũː ɦ ə
 मूड	m uː ɖ
 मूर्ख	m uː r kʰ ə
 मूर्ख?	m uː r kʰ ə
 मूर्ति	m uː r t i
 मूर्ति,	m uː r t i
-मूर्तियाँ	m uː r t i j ã ː
+मूर्तियाँ	m uː r t i j ãː
 मूल	m uː l
 मूल्य	m uː l j ə
 मूल्यवृद्धि	m uː l j ə v r̩ d d̤ i
@@ -8350,8 +8248,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 यह	j ə ɦ
 यह!	j ə ɦ
 यह?	j ə ɦ
-यहाँ	j ə ɦ ã ː
-यहाँ-वहाँ	j ə ɦ ã ː v ə ɦ ã ː
+यहाँ	j ə ɦ ãː
+यहाँ-वहाँ	j ə ɦ ãː v ə ɦ ãː
 यहां	j ə ɦ aː n
 यहां,	j ə ɦ aː n
 यही	j ə ɦ iː
@@ -8565,7 +8463,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 रहीम,	r ə ɦ iː m
 रहीम?	r ə ɦ iː m
 रही।	r ə ɦ iː
-रहूँगा।	r ə ɦ ũ ː ɡ aː
+रहूँगा।	r ə ɦ ũː ɡ aː
 रहे	r ə ɦ e
 रहे'-कमल	r ə ɦ e k ə m ə l
 रहे,	r ə ɦ e
@@ -8810,7 +8708,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 रेस	r e s
 रेसिंग	r e s i ŋ ɡ ə
 रेस्क्यू	r e s k j uː
-रेस्तराँ	r e s t ə r ã ː
+रेस्तराँ	r e s t ə r ãː
 रेहम	r e ɦ ə m
 रैंकिंग	r æː ŋ k i ŋ ɡ ə
 रैकेट	r æː k e ʈ
@@ -8919,7 +8817,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लगाई	l ə ɡ aː iː
 लगाईः	l ə ɡ aː iː ə h
 लगाई।	l ə ɡ aː iː
-लगाऊँगा	l ə ɡ aː ũ ː ɡ aː
+लगाऊँगा	l ə ɡ aː ũː ɡ aː
 लगाऊंगा	l ə ɡ aː uː ŋ ɡ aː
 लगाए	l ə ɡ aː e
 लगाएं	l ə ɡ aː e n
@@ -9012,7 +8910,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लाईं।	l aː iː n
 लाईन	l aː iː n
 लाईसेंस	l aː iː s e n s ə
-लाऊँ?	l aː ũ ː
+लाऊँ?	l aː ũː
 लाएँ	l aː ẽ
 लाएंगे	l aː e ŋ ɡ e
 लाएगा	l aː e ɡ aː
@@ -9139,7 +9037,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लुभाएंगी	l u b̤ aː e ŋ ɡ iː
 लुभाने	l u b̤ aː n e
 लुमिया	l u m i j aː
-लूँगा।	l ũ ː ɡ aː
+लूँगा।	l ũː ɡ aː
 लूट	l uː ʈ
 लूट,	l uː ʈ
 लूटपाट	l uː ʈ p aː ʈ
@@ -9155,7 +9053,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लेंगर	l e ŋ ɡ ə r
 लेंगी	l e ŋ ɡ iː
 लेंगे	l e ŋ ɡ e
-लेआऊँ?	l e aː ũ ː
+लेआऊँ?	l e aː ũː
 लेकर	l e k ə r
 लेकिन	l e k i n
 लेख	l e kʰ
@@ -9186,7 +9084,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लेफ्टिनेंट	l e pʰ ʈ i n e n ʈ ə
 लेबल	l e b ə l
 लेलिया।	l e l i j aː
-लेलूँगा।	l e l ũ ː ɡ aː
+लेलूँगा।	l e l ũː ɡ aː
 लेलो।	l e l o
 लेस्बियन	l e s b i j ə n
 ले।	l e
@@ -9229,7 +9127,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लोया	l o j aː
 लोहा	l o ɦ aː
 लोहान	l o ɦ aː n
-लोढ़ा	l o ढ़ aː
 लो।	l o
 लौंडे	l ɔː n ɖ e
 लौकी	l ɔː k iː
@@ -9250,8 +9147,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 लौटेंगे	l ɔː ʈ e ŋ ɡ e
 लौटेंगे।	l ɔː ʈ e ŋ ɡ e
 लौरी	l ɔː r iː
-लड़की	l ə ड़ k iː
-लड़ता	l ə ड़ t aː
 व	v ə
 वंजारा	v ə ɲ d͡ʒ aː r aː
 वंशवृक्ष:	v ə n ʃ v r̩ k ʂ ə
@@ -9280,7 +9175,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 वर्क	v ə r k ə
 वर्कआउट	v ə r k ə a u ʈ
 वर्ग	v ə r ɡ ə
-वर्गीज़	v ə r ɡ iː ज़
 वर्णिका	v ə r ɳ i k aː
 वर्तमान	v ə r t ə m aː n
 वर्दी	v ə r d iː
@@ -9301,7 +9195,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 वसूली	v ə s uː l iː
 वस्तु	v ə s t u
 वह	v ə ɦ
-वहाँ	v ə ɦ ã ː
+वहाँ	v ə ɦ ãː
 वही	v ə ɦ iː
 वहीं	v ə ɦ iː n
 वहीदा	v ə ɦ iː d aː
@@ -9998,7 +9892,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 सफेद	s ə pʰ e d
 सब	s ə b
 सब-इंस्पेक्टर	s ə b i n s p e k ʈ ə r
-सब-ऑर्डिनेट	s ə b ऑ r ɖ i n e ʈ
 सब-कुछ	s ə b k u t͡ʃʰ
 सबक	s ə b ə k
 सबकुछ	s ə b k u t͡ʃʰ
@@ -10007,8 +9900,8 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 सबसे	s ə b s e
 सबूत	s ə b uː t
 सबूतों	s ə b uː t o n
-सब्ज़ियाँ	s ə b z i j ã ː
-सब्ज़ीयाँ	s ə b z iː j ã ː
+सब्ज़ियाँ	s ə b z i j ãː
+सब्ज़ीयाँ	s ə b z iː j ãː
 सब्जियां	s ə b d͡ʒ i j aː n
 सब्जियों	s ə b d͡ʒ i j o n
 सब्जी	s ə b d͡ʒ iː
@@ -10191,7 +10084,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 सहेलियों	s ə ɦ e l i j o n
 सहेलीयों	s ə ɦ e l iː j o n
 सा	s aː
-साँस	s ã ː s ə
+साँस	s ãː s ə
 सांख्यिक	s aː ŋ kʰ j i k
 सांठगांठ	s aː n ʈʰ ɡ aː n ʈʰ ə
 सांता	s aː n t aː
@@ -10233,7 +10126,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 साढ़े-आठ	s aː ɽ̥ e aː ʈʰ
 सात	s aː t
 सात,	s aː t
-सातवाँ	s aː t v ã ː
+सातवाँ	s aː t v ãː
 सातवें	s aː t v e n
 साथ	s aː tʰ
 साथतानी	s aː tʰ t aː n iː
@@ -10290,7 +10183,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 साहब	s aː ɦ ə b
 साहित्य	s aː ɦ i t j ə
 साहेब	s aː ɦ e b
-साढ़े	s aː ढ़ e
 सिंगर	s i ŋ ɡ ə r
 सिंगल	s i ŋ ɡ ə l
 सिंगापुर	s i ŋ ɡ aː p u r
@@ -10364,7 +10256,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 सिर्फ	s i r pʰ ə
 सिलसिले	s i l s i l e
 सिलाफ़न	s i l aː f ə n
-सिलीगुड़ी	s i l iː ɡ u ड़ iː
 सिलेंडर	s i l e n ɖ ə r
 सिलेबस	s i l e b ə s
 सिल्क',	s i l k ə
@@ -10519,7 +10410,7 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 सुसाइड	s u s aː i ɖ
 सुहावने	s u ɦ aː v n e
 सुहैल	s u ɦ æː l
-सूँघ	s ũ ː ɡ̤ ə
+सूँघ	s ũː ɡ̤ ə
 सूंघते	s uː ŋ ɡ̤ t e
 सूख	s uː kʰ
 सूखा	s uː kʰ aː
@@ -10815,7 +10706,6 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 स्वीप'	s v iː p
 स्वीपर	s v iː p ə r
 स्वेटर	s v e ʈ ə r
-सड़क	s ə ड़ k ə
 हँसमुख	ɦ ə̃ s ə m u kʰ
 हँसे।	ɦ ə̃ s e
 हंगामा	ɦ ə ŋ ɡ aː m aː
@@ -10956,9 +10846,9 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 हस्तियां	ɦ ə s t i j aː n
 हस्तियों	ɦ ə s t i j o n
 हस्पताल	ɦ ə s p ə t aː l
-हाँ	ɦ ã ː
-हाँ,	ɦ ã ː
-हाँग	ɦ ã ː ɡ ə
+हाँ	ɦ ãː
+हाँ,	ɦ ãː
+हाँग	ɦ ãː ɡ ə
 हांगकांग	ɦ aː ŋ ɡ k aː ŋ ɡ ə
 हाइप	ɦ aː i p
 हाइब्रिड	ɦ aː i b r i ɖ
@@ -11083,13 +10973,13 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 हुड्डा	ɦ u ɖ ɖ aː
 हुसैन	ɦ u s æː n
 हुस्न	ɦ u s n ə
-हूँ	ɦ ũ ː
-हूँ!	ɦ ũ ː
-हूँ"	ɦ ũ ː
-हूँ,	ɦ ũ ː
-हूँ?	ɦ ũ ː
-हूँगा	ɦ ũ ː ɡ aː
-हूँ।	ɦ ũ ː
+हूँ	ɦ ũː
+हूँ!	ɦ ũː
+हूँ"	ɦ ũː
+हूँ,	ɦ ũː
+हूँ?	ɦ ũː
+हूँगा	ɦ ũː ɡ aː
+हूँ।	ɦ ũː
 हूं	ɦ uː n
 हूं'	ɦ uː n
 हूं,	ɦ uː n
@@ -11221,8 +11111,3 @@ zomatoशुरू	z o w m ɑ t o w ʃ u r uː
 हौसले	ɦ ɔː s l e
 ह्यु	ɦ j u
 ह्यूमनॉएड	ɦ j uː m n ɔ e ɖ
-क़तील	क़ t iː l
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

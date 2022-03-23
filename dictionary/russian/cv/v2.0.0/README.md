@@ -1,5 +1,5 @@
 
-# russian.cv
+# Russian CV dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/russian_cv.html)
 
@@ -14,8 +14,9 @@ Jump to section:
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Russian](https://en.wikipedia.org/wiki/Russian_language)
-- **Number of words:** `52,795`
+- **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
+- **Number of words:** `52,774`
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`bʲ`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dʲ`, {ipa_inline}`d͡ʒ`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`fʲ`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʲ`, {ipa_inline}`l`, {ipa_inline}`lʲ`, {ipa_inline}`m`, {ipa_inline}`mʲ`, {ipa_inline}`n`, {ipa_inline}`nʲ`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`pʲ`, {ipa_inline}`r`, {ipa_inline}`rʲ`, {ipa_inline}`s`, {ipa_inline}`sʲ`, {ipa_inline}`t`, {ipa_inline}`tʲ`, {ipa_inline}`t͡s`, {ipa_inline}`t͡sʲ`, {ipa_inline}`t͡ɕʲ`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`vʲ`, {ipa_inline}`x`, {ipa_inline}`xʲ`, {ipa_inline}`z`, {ipa_inline}`zʲ`, {ipa_inline}`ɕː`, {ipa_inline}`ɕːʲ`, {ipa_inline}`ɡ`, {ipa_inline}`ɨ`, {ipa_inline}`ʂ`, {ipa_inline}`ʂʲː`, {ipa_inline}`ʒ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
@@ -54,9 +55,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

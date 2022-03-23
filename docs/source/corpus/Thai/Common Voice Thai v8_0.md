@@ -20,4 +20,9 @@
    * {ref}`thai_cv_dictionary_v2_0_0`
 * {ref}`thai_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`thai_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

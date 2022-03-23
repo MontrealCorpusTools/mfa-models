@@ -7,8 +7,8 @@
     "license": "CC BY 4.0",
     "phone_set": "CV",
     "phones": [
-        "_",
         "a",
+        "a\u028a",
         "a\u02d0",
         "b",
         "d",
@@ -38,15 +38,9 @@
         "v",
         "w",
         "z",
-        "\u00bd",
-        "\u00be",
-        "\u00e1",
         "\u00e6",
-        "\u00e9",
         "\u00f0",
-        "\u00f4",
         "\u014b",
-        "\u0161",
         "\u0251",
         "\u0254",
         "\u0259",
@@ -67,13 +61,10 @@
         "\u028b",
         "\u028c",
         "\u0292",
-        "\u03b8",
-        "\u0b83",
-        "\u0b94",
-        "\u0d25"
+        "\u03b8"
     ],
-    "word_count": 135762,
-    "train_date": "2022-03-12",
+    "word_count": 135738,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}"
 }

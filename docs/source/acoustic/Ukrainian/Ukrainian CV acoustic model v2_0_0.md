@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Ukrainian_v7_0`:
-  * **Hours:** `56.00`
-  * **Speakers:** `580`
-  * **Utterances:** `41,056`
+   * {ref}`Common_Voice_Ukrainian_v7_0`:
+     * **Hours:** `56.00`
+     * **Speakers:** `580`
+     * **Utterances:** `41,056`
    ```
 
 

@@ -17,3 +17,4 @@ Ukrainian
    :hidden:
 
    Ukrainian CV acoustic model v2_0_0.md
+   Ukrainian MFA acoustic model v2_0_0.md

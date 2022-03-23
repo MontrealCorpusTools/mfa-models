@@ -1,5 +1,5 @@
 
-# abkhaz.cv
+# Abkhaz CV dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/abkhaz_cv.html)
 
@@ -14,8 +14,9 @@ Jump to section:
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)
-- **Number of words:** `3,692`
+- **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
+- **Number of words:** `3,671`
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dz`, {ipa_inline}`dʒʲ`, {ipa_inline}`dʷ`, {ipa_inline}`f`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʲ`, {ipa_inline}`kʲʼ`, {ipa_inline}`kʷ`, {ipa_inline}`kʷʼ`, {ipa_inline}`kʼ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`p`, {ipa_inline}`pʼ`, {ipa_inline}`qʲʼ`, {ipa_inline}`qʷʼ`, {ipa_inline}`qʼ`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsʼ`, {ipa_inline}`tʃ`, {ipa_inline}`tʃʲ`, {ipa_inline}`tʃʲʼ`, {ipa_inline}`tʃʷ`, {ipa_inline}`tʃʼ`, {ipa_inline}`tʷ`, {ipa_inline}`tʷʼ`, {ipa_inline}`tʼ`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`z`, {ipa_inline}`ħ`, {ipa_inline}`ħʷ`, {ipa_inline}`ə`, {ipa_inline}`ɡ`, {ipa_inline}`ɡʲ`, {ipa_inline}`ɡʷ`, {ipa_inline}`ʁ`, {ipa_inline}`ʁʲ`, {ipa_inline}`ʁʷ`, {ipa_inline}`ʃ`, {ipa_inline}`ʃʲ`, {ipa_inline}`ʃʷ`, {ipa_inline}`ʒ`, {ipa_inline}`ʒʲ`, {ipa_inline}`ʒʷ`, {ipa_inline}`ʡ`, {ipa_inline}`χ`, {ipa_inline}`χʲ`, {ipa_inline}`χʷ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
@@ -54,9 +55,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

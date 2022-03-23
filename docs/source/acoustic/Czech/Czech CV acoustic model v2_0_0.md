@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Czech_v7_0`:
-  * **Hours:** `49.00`
-  * **Speakers:** `475`
-  * **Utterances:** `41,567`
+   * {ref}`Common_Voice_Czech_v7_0`:
+     * **Hours:** `49.00`
+     * **Speakers:** `475`
+     * **Utterances:** `41,567`
    ```
 
 

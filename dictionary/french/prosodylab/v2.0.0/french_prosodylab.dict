@@ -1,18 +1,4 @@
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a	a
 aa	a a
 abaca	a b a k a
@@ -121116,10 +121102,6 @@ zézaye	z e z e j
 zézayer	z e z e j e
 zézette	z e z E t
 zézettes	z e z E t
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 à	a
 à-coup	a k u
 à-coups	a k u
@@ -125470,7 +125452,3 @@ zézettes	z e z E t
 ôtée	o t e
 ôtées	o t e
 ôtés	o t e
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

@@ -17,3 +17,4 @@ Thai
    :hidden:
 
    Thai CV acoustic model v2_0_0.md
+   Thai MFA acoustic model v2_0_0.md

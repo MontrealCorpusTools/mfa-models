@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -51,10 +53,10 @@
       * m
         * Occurances: 4048
         * Examples
-          * amara: [a m a ɾ a]
-          * motz: [m o t̪ s̻]
-          * gram: [ɡ r a m]
-          * semea: [s̺ e m e a]
+          * man: [m a n]
+          * atomo: [a t̪ o m o]
+          * mia: [m i a]
+          * mila: [m i l a]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +67,10 @@
       * n
         * Occurances: 17553
         * Examples
-          * osoan: [o s̺ o a n]
-          * zuen: [s̻ u e n]
-          * lagun: [l a ɡ u n]
-          * anjel: [a n x e l]
+          * zidan: [s̻ i d̪ a n]
+          * gelen: [ɡ e l e n]
+          * man: [m a n]
+          * jonek: [x o n e k]
     ```
   - ```{ipa_cell}
     ```
@@ -87,18 +89,18 @@
       * p
         * Occurances: 3480
         * Examples
-          * pago: [p a ɡ o]
-          * porno: [p o r n o]
-          * nepal: [n e p a l]
-          * epea: [e p e a]
+          * parte: [p a r t̪ e]
+          * parez: [p a ɾ e s̻]
+          * pozik: [p o s̻ i k]
+          * harpe: [a r p e]
     * voiced
       * b
         * Occurances: 5449
         * Examples
-          * labur: [l a b u r]
-          * berri: [b e r i]
-          * berau: [b e ɾ a u]
-          * banka: [b a n k a]
+          * bila: [b i l a]
+          * bidea: [b i d̪ e a]
+          * jabe: [x a b e]
+          * barik: [b a ɾ i k]
     ```
   - ```{ipa_cell}
     ```
@@ -107,18 +109,18 @@
       * t̪
         * Occurances: 18430
         * Examples
-          * txiro: [t̪ ʃ i ɾ o]
-          * motz: [m o t̪ s̻]
-          * ukitu: [u k i t̪ u]
-          * flota: [f l o t̪ a]
+          * uzten: [u s̻ t̪ e n]
+          * jetzi: [x e t̪ s̻ i]
+          * parte: [p a r t̪ e]
+          * ostia: [o s̺ t̪ i a]
     * voiced
       * d̪
         * Occurances: 6004
         * Examples
-          * jende: [x e n d̪ e]
-          * mordo: [m o r d̪ o]
-          * dok: [d̪ o k]
-          * diezu: [d̪ i e s̻ u]
+          * zaude: [s̻ a u d̪ e]
+          * zidan: [s̻ i d̪ a n]
+          * aldiz: [a l d̪ i s̻]
+          * bidea: [b i d̪ e a]
     ```
   - ```{ipa_cell}
     ```
@@ -141,18 +143,18 @@
       * k
         * Occurances: 16966
         * Examples
-          * eski: [e s̺ k i]
-          * zuk: [s̻ u k]
-          * xakea: [ʃ a k e a]
-          * banka: [b a n k a]
+          * jonek: [x o n e k]
+          * barik: [b a ɾ i k]
+          * jokoz: [x o k o s̻]
+          * pozik: [p o s̻ i k]
     * voiced
       * ɡ
         * Occurances: 5689
         * Examples
-          * fagor: [f a ɡ o r]
-          * lagun: [l a ɡ u n]
-          * gram: [ɡ r a m]
-          * pago: [p a ɡ o]
+          * gelen: [ɡ e l e n]
+          * gaixo: [ɡ a i ʃ o]
+          * gona: [ɡ o n a]
+          * goi: [ɡ o i]
     ```
 * - {manner}`Sibilant`
   - ```{ipa_cell}
@@ -166,27 +168,27 @@
       * s̺
         * Occurances: 7201
         * Examples
-          * eski: [e s̺ k i]
-          * osoan: [o s̺ o a n]
-          * sari: [s̺ a ɾ i]
-          * semea: [s̺ e m e a]
+          * arras: [a r a s̺]
+          * ostia: [o s̺ t̪ i a]
+          * sarea: [s̺ a ɾ e a]
+          * dosia: [d̪ o s̺ i a]
       * s̻
         * Occurances: 9925
         * Examples
-          * zuen: [s̻ u e n]
-          * zuk: [s̻ u k]
-          * motz: [m o t̪ s̻]
-          * diezu: [d̪ i e s̻ u]
+          * zaude: [s̻ a u d̪ e]
+          * zidan: [s̻ i d̪ a n]
+          * aldiz: [a l d̪ i s̻]
+          * ziona: [s̻ i o n a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1059
         * Examples
-          * txiro: [t̪ ʃ i ɾ o]
-          * xakea: [ʃ a k e a]
-          * taxi: [t̪ a ʃ i]
-          * baxu: [b a ʃ u]
+          * gaixo: [ɡ a i ʃ o]
+          * juxtu: [x u ʃ t̪ u]
+          * xume: [ʃ u m e]
+          * laxoa: [l a ʃ o a]
     ```
   - ```{ipa_cell}
     ```
@@ -200,10 +202,10 @@
       * f
         * Occurances: 1169
         * Examples
+          * surf: [s̺ u r f]
           * flora: [f l o ɾ a]
-          * fagor: [f a ɡ o r]
-          * flota: [f l o t̪ a]
-          * olaf: [o l a f]
+          * fama: [f a m a]
+          * finko: [f i n k o]
     ```
   - ```{ipa_cell}
     ```
@@ -214,14 +216,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 728
-        * Examples
-          * anjel: [a n x e l]
-          * jende: [x e n d̪ e]
-          * jaio: [x a i o]
-          * jaten: [x a t̪ e n]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -239,10 +233,10 @@
       * j
         * Occurances: 23
         * Examples
-          * kenya: [k e n j a]
-          * dylan: [d̪ j l a n]
+          * yate: [j a t̪ e]
           * mary: [m a r j]
-          * yemen: [j e m e n]
+          * gay: [ɡ a j]
+          * skype: [s̺ k j p e]
     ```
   - ```{ipa_cell}
     ```
@@ -258,10 +252,10 @@
       * ɾ
         * Occurances: 9292
         * Examples
-          * txiro: [t̪ ʃ i ɾ o]
-          * flora: [f l o ɾ a]
-          * amara: [a m a ɾ a]
-          * sari: [s̺ a ɾ i]
+          * barik: [b a ɾ i k]
+          * euren: [e u ɾ e n]
+          * lora: [l o ɾ a]
+          * parez: [p a ɾ e s̻]
     ```
   - ```{ipa_cell}
     ```
@@ -281,10 +275,10 @@
       * r
         * Occurances: 9842
         * Examples
-          * errua: [e r u a]
-          * labur: [l a b u r]
-          * fagor: [f a ɡ o r]
-          * oilar: [o i l a r]
+          * arras: [a r a s̺]
+          * reno: [r e n o]
+          * parte: [p a r t̪ e]
+          * surf: [s̺ u r f]
     ```
   - ```{ipa_cell}
     ```
@@ -304,10 +298,10 @@
       * l
         * Occurances: 8865
         * Examples
-          * flora: [f l o ɾ a]
-          * labur: [l a b u r]
-          * oilar: [o i l a r]
-          * alelo: [a l e l o]
+          * gelen: [ɡ e l e n]
+          * bila: [b i l a]
+          * aldiz: [a l d̪ i s̻]
+          * delhi: [d̪ e l i]
     ```
   - ```{ipa_cell}
     ```
@@ -316,10 +310,10 @@
       * ʎ
         * Occurances: 76
         * Examples
-          * sella: [s̺ e ʎ a]
-          * ellis: [e ʎ i s̺]
           * pella: [p e ʎ a]
-          * wall: [a ʎ]
+          * ollo: [o ʎ o]
+          * mello: [m e ʎ o]
+          * pello: [p e ʎ o]
     ```
   - ```{ipa_cell}
     ```
@@ -327,6 +321,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -345,10 +341,10 @@
       * i
         * Occurances: 23285
         * Examples
-          * txiro: [t̪ ʃ i ɾ o]
-          * eski: [e s̺ k i]
-          * oilar: [o i l a r]
-          * sari: [s̺ a ɾ i]
+          * zidan: [s̻ i d̪ a n]
+          * bila: [b i l a]
+          * aldiz: [a l d̪ i s̻]
+          * bidea: [b i d̪ e a]
     ```
   - ```{ipa_cell}
     ```
@@ -361,10 +357,10 @@
       * u
         * Occurances: 10927
         * Examples
-          * errua: [e r u a]
-          * labur: [l a b u r]
-          * zuen: [s̻ u e n]
-          * lagun: [l a ɡ u n]
+          * zaude: [s̻ a u d̪ e]
+          * euren: [e u ɾ e n]
+          * dubai: [d̪ u b a i]
+          * uzten: [u s̻ t̪ e n]
     ```
 * -
   - ```{ipa_cell}
@@ -383,10 +379,10 @@
       * e
         * Occurances: 27142
         * Examples
-          * eski: [e s̺ k i]
-          * errua: [e r u a]
-          * zuen: [s̻ u e n]
-          * alelo: [a l e l o]
+          * zaude: [s̻ a u d̪ e]
+          * gelen: [ɡ e l e n]
+          * jonek: [x o n e k]
+          * bidea: [b i d̪ e a]
     ```
   - ```{ipa_cell}
     ```
@@ -399,10 +395,10 @@
       * o
         * Occurances: 16540
         * Examples
-          * txiro: [t̪ ʃ i ɾ o]
-          * flora: [f l o ɾ a]
-          * fagor: [f a ɡ o r]
-          * osoan: [o s̺ o a n]
+          * jonek: [x o n e k]
+          * gaixo: [ɡ a i ʃ o]
+          * reno: [r e n o]
+          * gona: [ɡ o n a]
     ```
 * -
   - ```{ipa_cell}
@@ -447,10 +443,10 @@
       * a
         * Occurances: 40600
         * Examples
-          * flora: [f l o ɾ a]
-          * errua: [e r u a]
-          * labur: [l a b u r]
-          * fagor: [f a ɡ o r]
+          * zaude: [s̻ a u d̪ e]
+          * zidan: [s̻ i d̪ a n]
+          * man: [m a n]
+          * bila: [b i l a]
     ```
   - ```{ipa_cell}
     ```

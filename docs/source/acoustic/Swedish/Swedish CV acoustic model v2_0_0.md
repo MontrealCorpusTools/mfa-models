@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Swedish_v7_0`:
-  * **Hours:** `35.00`
-  * **Speakers:** `594`
-  * **Utterances:** `32,626`
+   * {ref}`Common_Voice_Swedish_v7_0`:
+     * **Hours:** `35.00`
+     * **Speakers:** `594`
+     * **Utterances:** `32,626`
    ```
 
 

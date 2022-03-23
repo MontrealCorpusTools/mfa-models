@@ -1,5 +1,5 @@
 
-# korean.mfa
+# Korean MFA G2P model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/korean_mfa.html)
 
@@ -19,11 +19,11 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Korean](https://en.wikipedia.org/wiki/Korean_language)
 - **Dialect:** N/A
-- **Trained date:** `2022-03-01`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
 - **Model type:** `G2P model`
 - **Architecture:** `pynini`
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-03-21`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/korean/MFA/v2.0.0/LICENSE)
 - **Citation:**
@@ -72,18 +72,18 @@ The model was trained on 90% of the dictionary and evaluated on a held-out 10% a
 This model was trained on the following data set:
 
 
-* **Words:** `43,839`
+* **Words:** `48,665`
 * **Phones:** `56`
-* **Graphemes:** `1,901`
+* **Graphemes:** `2,059`
 
 ## Evaluation
 
 This model was evaluated on the following data set:
 
 
-* **Words:** `4,870`
-* **WER:** `11.60%`
-* **PER:** `2.61%`
+* **Words:** `5,407`
+* **WER:** `10.25%`
+* **PER:** `2.26%`
 
 ## Ethical considerations
 
@@ -98,6 +98,6 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

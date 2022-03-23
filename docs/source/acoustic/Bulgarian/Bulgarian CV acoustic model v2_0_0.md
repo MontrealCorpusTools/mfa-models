@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Bulgarian_v7_0`:
-  * **Hours:** `5.00`
-  * **Speakers:** `35`
-  * **Utterances:** `3,459`
+   * {ref}`Common_Voice_Bulgarian_v7_0`:
+     * **Hours:** `5.00`
+     * **Speakers:** `35`
+     * **Utterances:** `3,459`
    ```
 
 

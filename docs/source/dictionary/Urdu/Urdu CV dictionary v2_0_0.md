@@ -29,6 +29,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * m
         * Occurances: 386
         * Examples
-          * مال: [m ɑː l]
-          * قومیں: [q ɔː m ẽː]
-          * مرجع: [m ə ɾ d͡ʒ ɑː]
-          * ٹیم: [ʈ iː m]
+          * حامی: [ɦ ɑː m iː]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * شمیم: [ʃ m eː m]
+          * یوم: [j ə uː m]
     ```
   - ```{ipa_cell}
     ```
@@ -66,16 +68,16 @@
       * n
         * Occurances: 350
         * Examples
-          * نوٹ: [n ə oː ʈ]
-          * اعلان: [ə ɑː l ɑː n]
-          * نقشہ: [n ʊ q ʃ ɑː]
-          * پسینے: [p ə s iː n eː]
+          * بتا: [b ə t̪ ə n]
+          * اپنے: [ʊ p n eː]
+          * نواب: [n ə ʋ ɑː b]
+          * نبرد: [n ə b ə ɾ d̪]
       * nː
         * Occurances: 3
         * Examples
           * جناح: [d͡ʒ ə nː ɑː]
-          * جنتی: [d͡ʒ ə nː ə t̪ iː]
           * جنونی: [d͡ʒ ə nː oː n iː]
+          * جنتی: [d͡ʒ ə nː ə t̪ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -84,10 +86,10 @@
       * ɳ
         * Occurances: 18
         * Examples
-          * لنڈا: [l ɳ ɖ ɑː]
-          * ٹھنڈا: [ʈʰ ɳ ɖ ɑː]
-          * ٹھنڈی: [ʈʰ ɳ ɖ iː]
-          * انڈیز: [ə ɳ ɖ iː z]
+          * ٹھنڈے: [ʈʰ ɳ ɖ eː]
+          * ہنڈا: [ɦ ɳ ɖ ɑː]
+          * رانڈ: [ɾ ɑː ɳ ɖ]
+          * انڈیل: [ə ɳ ɖ eː l]
     ```
   - ```{ipa_cell}
     ```
@@ -96,10 +98,10 @@
       * ŋ
         * Occurances: 26
         * Examples
+          * جنگ: [d͡ʒ ə ŋ ɡ]
+          * جنگیں: [d͡ʒ ə ŋ ɡ ẽː]
           * لنکا: [l ə ŋ k ɑː]
-          * رنز: [ɾ ə ŋ z]
-          * بنگلہ: [b ə ŋ ɡ l ɑː]
-          * رنگار: [ɾ ə ŋ ɡ ɑː ɾ]
+          * رنگ: [ɾ ə ŋ ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -107,16 +109,16 @@
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
         * Occurances: 115
         * Examples
-          * پسینے: [p ə s iː n eː]
-          * پاک: [p ɑː k]
-          * پہلو: [p ə ɦ l uː]
           * اپنے: [ʊ p n eː]
+          * پائے: [p ɑː eː]
+          * پلاو: [p ə l ɑː ʋ]
+          * پسند: [p ə s ə n d̪]
       * pː
         * Occurances: 1
         * Examples
@@ -125,10 +127,10 @@
       * b
         * Occurances: 226
         * Examples
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * بکرے: [b ə k ɾ eː]
-          * احباب: [ə ɦ b ɑː b]
-          * لیوبک: [l eː ʋ b k]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * بتا: [b ə t̪ ə n]
+          * نواب: [n ə ʋ ɑː b]
+          * نبرد: [n ə b ə ɾ d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -137,10 +139,10 @@
       * t̪
         * Occurances: 330
         * Examples
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * طرز: [t̪ ə ɾ z]
-          * شہادت: [ʃ ə ɦ ɑː d̪ t̪]
-          * فتووں: [f t̪ uː ũː]
+          * بتا: [b ə t̪ ə n]
+          * رکھتے: [ɾ kʰ t̪ eː]
+          * شرکت: [ʃ ə ɾ k ə ə t̪]
+          * حالت: [ɦ ɑː l ə t̪]
       * t̪ː
         * Occurances: 1
         * Examples
@@ -149,10 +151,10 @@
       * d̪
         * Occurances: 213
         * Examples
-          * خود: [x ʊ d̪ .]
-          * شہادت: [ʃ ə ɦ ɑː d̪ t̪]
-          * شدت: [ʃ d̪ ə t̪]
-          * جلدی: [d͡ʒ ə l d̪ iː]
+          * نبرد: [n ə b ə ɾ d̪]
+          * صدام: [s ə d̪ ɑː m]
+          * بعد: [b ə ʔ d̪]
+          * عمدہ: [ə m d̪ ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -163,18 +165,18 @@
       * ʈ
         * Occurances: 81
         * Examples
-          * نوٹ: [n ə oː ʈ]
-          * ٹیم: [ʈ iː m]
-          * ایونٹ: [ɛː ʋ ʈ]
-          * بجٹ: [b ɪ d͡ʒ ʈ]
+          * فلیٹس: [f l eː ʈ s]
+          * کرکٹ: [k ə ɾ k ɪ ʈ]
+          * ٹینس: [ʈ iː n s]
+          * منٹ: [m ɪ n ə ʈ]
     * voiced
       * ɖ
         * Occurances: 47
         * Examples
+          * ٹھنڈے: [ʈʰ ɳ ɖ eː]
+          * ہنڈا: [ɦ ɳ ɖ ɑː]
+          * ڈائی: [ɖ ɑː iː]
           * کارڈ: [k ɑː ɾ ʊ ɖ]
-          * ورلڈ: [uː ɾ l ʊ ɖ]
-          * ایڈ: [iː ʊ ɖ]
-          * لنڈا: [l ɳ ɖ ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -183,126 +185,42 @@
       * k
         * Occurances: 247
         * Examples
-          * سکتے: [s ə k t̪ eː]
-          * کوریا: [k oː ɾ ɪ j ɑː]
-          * بکرے: [b ə k ɾ eː]
-          * مسلک: [m ʊ s ə l k]
+          * شرکت: [ʃ ə ɾ k ə ə t̪]
+          * کرکٹ: [k ə ɾ k ɪ ʈ]
+          * کرتے: [k ɾ ɪ t̪ eː]
+          * امکان: [ə m k ɑː n]
     * voiced
       * ɡ
         * Occurances: 102
         * Examples
-          * ہوگیا: [ɦ oː ɪ ɡ j ɑː]
-          * گول: [ɡ oː l]
-          * گوشت: [ɡ oː ʃ ə t̪]
-          * گزارے: [ɡ ʊ z ɑː ɾ eː]
+          * لگے: [l ə ɡ eː]
+          * گلیاں: [ɡ l ɪ j ɑ̃ː]
+          * الگ: [ə l ə ɡ]
+          * لگتی: [l ə ɡ t̪ iː]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 91
         * Examples
-          * قومیں: [q ɔː m ẽː]
-          * واقع: [ʋ ɑː q ʔ]
-          * نقشہ: [n ʊ q ʃ ɑː]
-          * طبقات: [t̪ ə b q ɑː t̪]
+          * قرار: [q ɾ ɑː ɾ]
+          * اقوام: [ɪ q ʋ ɑː m]
+          * قاصر: [q ɑː s ə ə ɾ]
+          * مقدر: [m ɪ q d̪ ə ɾ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 33
         * Examples
-          * واقع: [ʋ ɑː q ʔ]
-          * تعارف: [t̪ ʔ ɑː ɾ ɪ f]
-          * باعث: [b ɑː ʔ s eː]
           * بعد: [b ə ʔ d̪]
+          * معاشی: [m ʊ ʔ ɑː ʃ ɪ iː]
+          * معیشت: [m ə ʔ iː ʃ ə t̪]
+          * تعصب: [t̪ ʔ s ʊ b]
     ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 6
-        * Examples
-          * پھول: [pʰ uː l]
-          * پھر: [pʰ ə ɾ]
-          * پھل: [pʰ ə l]
-          * پھنسے: [pʰ n s eː]
-    * voiced
-      * bʱ
-        * Occurances: 15
-        * Examples
-          * ابھی: [ə bʱ iː]
-          * بھول: [bʱ uː l]
-          * بھرم: [bʱ ɾ ə m]
-          * بھٹو: [bʱ ʈ oː]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t̪ʰ
-        * Occurances: 12
-        * Examples
-          * تھی: [t̪ʰ iː]
-          * تھا: [t̪ʰ ɑː]
-          * ویلتھ: [ʋ j l t̪ʰ]
-          * ساتھ: [s ɑː t̪ʰ]
-    * voiced
-      * d̪ʱ
-        * Occurances: 5
-        * Examples
-          * دھلا: [d̪ʱ l ɑː]
-          * الدھر: [ə l d̪ʱ ə ɾ]
-          * گدھ: [ɡ ɪ d̪ d̪ʱ]
-          * دودھ: [d̪ uː d̪ʱ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * ʈʰ
-        * Occurances: 13
-        * Examples
-          * ٹھنڈا: [ʈʰ ɳ ɖ ɑː]
-          * ٹھیک: [ʈʰ iː k]
-          * ٹھنڈی: [ʈʰ ɳ ɖ iː]
-          * بیٹھا: [b iː ʈʰ ɑː]
-    * voiced
-      * ɖʱ
-        * Occurances: 2
-        * Examples
-          * ڈھاکہ: [ɖʱ ɑː k ɪ ɑː]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 28
-        * Examples
-          * کھیل: [kʰ eː l]
-          * لکھتے: [l ɪ kʰ t̪ eː]
-          * کھارے: [kʰ ɑː ɾ eː]
-          * کھلا: [kʰ ə l ɑː]
-    * voiced
-      * ɡʱ
-        * Occurances: 6
-        * Examples
-          * گھر: [ɡʱ ə ɾ]
-          * گھنٹے: [ɡʱ ʈ eː]
-          * گھنٹہ: [ɡʱ ʈ ɑː]
-          * گھسا: [ɡʱ s ɑː]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Affricate` {submanner}`Plain`
+* - {manner}`Affricate`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -320,57 +238,18 @@
       * t͡ʃ
         * Occurances: 60
         * Examples
-          * چالو: [t͡ʃ ɑː l uː]
-          * ہوچکی: [ɦ oː t͡ʃ k iː]
-          * چلے: [t͡ʃ ə l eː]
-          * مرچ: [m ə ɾ t͡ʃ]
+          * چیزوں: [t͡ʃ iː z ũː]
+          * چوری: [t͡ʃ oː ɾ iː]
+          * چیز: [t͡ʃ iː z]
+          * چاہیے: [t͡ʃ ɑː ɦ iː eː]
     * voiced
       * d͡ʒ
         * Occurances: 123
         * Examples
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * مرجع: [m ə ɾ d͡ʒ ɑː]
+          * بجائے: [b ɪ d͡ʒ ɑː eː]
           * حجم: [ɦ ə d͡ʒ m]
-          * جلدی: [d͡ʒ ə l d̪ iː]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t͡ʃʰ
-        * Occurances: 18
-        * Examples
-          * پچھلی: [p ə t͡ʃʰ l iː]
-          * پچھلے: [p ə t͡ʃʰ l eː]
-          * پیچھے: [p ɛː t͡ʃʰ eː]
-          * چھپ: [t͡ʃʰ p]
-    * voiced
-      * d͡ʒʱ
-        * Occurances: 11
-        * Examples
-          * جھونک: [d͡ʒʱ õː k]
-          * جھوٹ: [d͡ʒʱ oː ʈ]
-          * مجھ: [m ə d͡ʒʱ]
-          * سمجھا: [s ə m ə d͡ʒʱ ɑː]
+          * جہاں: [d͡ʒ ə ɦ ɑ̃ː]
+          * پنجاب: [p ə n d͡ʒ ɑː b]
     ```
   - ```{ipa_cell}
     ```
@@ -396,28 +275,28 @@
       * s
         * Occurances: 314
         * Examples
-          * سکتے: [s ə k t̪ eː]
-          * فیصلہ: [f iː s ə l ɑː]
-          * اثر: [ɪ s ə ɾ]
-          * مسلک: [m ʊ s ə l k]
+          * فلیٹس: [f l eː ʈ s]
+          * خاص: [x ɑː s]
+          * ٹینس: [ʈ iː n s]
+          * صدام: [s ə d̪ ɑː m]
     * voiced
       * z
         * Occurances: 146
         * Examples
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * اضافہ: [ɪ z ɑː f ə]
-          * طرز: [t̪ ə ɾ z]
-          * نظر: [n ə z ə ɾ]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * چیزوں: [t͡ʃ iː z ũː]
+          * غرض: [ɣ ʊ ɾ z]
+          * زاویے: [z ɑː ʋ j eː]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 85
         * Examples
-          * شہادت: [ʃ ə ɦ ɑː d̪ t̪]
-          * شدت: [ʃ d̪ ə t̪]
-          * نقشہ: [n ʊ q ʃ ɑː]
-          * شعور: [ʃ eː uː ɾ]
+          * شمیم: [ʃ m eː m]
+          * شرکت: [ʃ ə ɾ k ə ə t̪]
+          * بیش: [b ə eː ʃ]
+          * معاشی: [m ʊ ʔ ɑː ʃ ɪ iː]
     * voiced
       * ʒ
         * Occurances: 1
@@ -444,10 +323,10 @@
       * f
         * Occurances: 94
         * Examples
-          * اضافہ: [ɪ z ɑː f ə]
-          * فتووں: [f t̪ uː ũː]
+          * فلیٹس: [f l eː ʈ s]
+          * مختلف: [m ʊ x t̪ ə l f]
+          * یوسف: [j oː s f]
           * فیصلہ: [f iː s ə l ɑː]
-          * تعارف: [t̪ ʔ ɑː ɾ ɪ f]
     ```
   - ```{ipa_cell}
     ```
@@ -460,22 +339,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 53
-        * Examples
-          * خود: [x ʊ d̪ .]
-          * لخت: [l ə x t̪]
-          * شخصی: [ʃ ə x s iː]
-          * تاریخ: [t̪ ɑː ˈɾ eː x]
-    * voiced
-      * ɣ
-        * Occurances: 20
-        * Examples
-          * غذائی: [ɣ ʊ z ɑː iː]
-          * اغاز: [ə ɣ ɑː z]
-          * غاز: [ɣ ɑː z]
-          * مغلیہ: [m ə ɣ l ɪ j ə]
     ```
   - ```{ipa_cell}
     ```
@@ -497,23 +360,27 @@
       * ɦ
         * Occurances: 222
         * Examples
-          * شہادت: [ʃ ə ɦ ɑː d̪ t̪]
-          * ہوگیا: [ɦ oː ɪ ɡ j ɑː]
-          * احباب: [ə ɦ b ɑː b]
-          * ہوچکی: [ɦ oː t͡ʃ k iː]
+          * حامی: [ɦ ɑː m iː]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * ہوئی: [ɦ oː iː]
+          * حالت: [ɦ ɑː l ə t̪]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 1
+        * Examples
     ```
   - ```{ipa_cell}
     * other
       * ʋ
         * Occurances: 119
         * Examples
-          * واقع: [ʋ ɑː q ʔ]
-          * لیوبک: [l eː ʋ b k]
-          * ایونٹ: [ɛː ʋ ʈ]
-          * وزوال: [ʋ ə z ʋ ɑː l]
+          * نواب: [n ə ʋ ɑː b]
+          * پلاو: [p ə l ɑː ʋ]
+          * زاویے: [z ɑː ʋ j eː]
+          * ہوائی: [ɦ ə ʋ ɑː iː]
     ```
   - ```{ipa_cell}
     ```
@@ -528,10 +395,10 @@
       * j
         * Occurances: 127
         * Examples
-          * کوریا: [k oː ɾ ɪ j ɑː]
-          * ہوگیا: [ɦ oː ɪ ɡ j ɑː]
+          * یوم: [j ə uː m]
+          * زاویے: [z ɑː ʋ j eː]
+          * بتایا: [b ə t̪ ɑː j ɑː]
           * کيميا: [k j ə m ɪ j ɑː]
-          * دریا: [d̪ ɾ ɪ j ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -553,10 +420,10 @@
       * ɾ
         * Occurances: 531
         * Examples
-          * طرز: [t̪ ə ɾ z]
-          * کوریا: [k oː ɾ ɪ j ɑː]
-          * مرجع: [m ə ɾ d͡ʒ ɑː]
-          * بکرے: [b ə k ɾ eː]
+          * روئے: [ɾ oː eː]
+          * رکھتے: [ɾ kʰ t̪ eː]
+          * نبرد: [n ə b ə ɾ d̪]
+          * شرکت: [ʃ ə ɾ k ə ə t̪]
       * ˈɾ
         * Occurances: 1
         * Examples
@@ -569,10 +436,10 @@
       * ɽ
         * Occurances: 21
         * Examples
+          * گاڑی: [ɡ ɑː ɽ iː]
           * پڑی: [p ɽ iː]
-          * پڑتا: [p ɽ t̪ ɑː]
-          * لڑنا: [l ə ɽ n ɑː]
-          * چوپڑا: [t͡ʃ uː p ɽ ɑː]
+          * سڑک: [s ə ɽ ə k]
+          * پڑوس: [p ɽ uː s]
     ```
   - ```{ipa_cell}
     ```
@@ -600,10 +467,10 @@
       * ɽʱ
         * Occurances: 6
         * Examples
-          * بڑھ: [b ə ɽʱ]
-          * چڑھتے: [t͡ʃ ə ɽʱ t̪ eː]
-          * بڑھتے: [b ə ɽʱ t̪ eː]
           * بڑھے: [b ə ɽʱ eː]
+          * بڑھتے: [b ə ɽʱ t̪ eː]
+          * بڑھتا: [b ə ɽʱ t̪ ɑː]
+          * بڑھ: [b ə ɽʱ]
     ```
   - ```{ipa_cell}
     ```
@@ -648,16 +515,22 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
+    * other
+      * l̪
+        * Occurances: 2
+        * Examples
+          * تلے: [t̪ ə l̪ eː]
+          * مرحلے: [m ə ɾ ɦ ɛ l̪ eː]
     ```
   - ```{ipa_cell}
     * other
       * l
         * Occurances: 307
         * Examples
-          * مال: [m ɑː l]
-          * چالو: [t͡ʃ ɑː l uː]
-          * کھیل: [kʰ eː l]
-          * فیصلہ: [f iː s ə l ɑː]
+          * فلیٹس: [f l eː ʈ s]
+          * لگے: [l ə ɡ eː]
+          * حالت: [ɦ ɑː l ə t̪]
+          * پلاو: [p ə l ɑː ʋ]
       * lː
         * Occurances: 1
         * Examples
@@ -680,7 +553,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -703,10 +580,10 @@
       * iː
         * Occurances: 420
         * Examples
-          * تھی: [t̪ʰ iː]
-          * ٹیم: [ʈ iː m]
-          * فیصلہ: [f iː s ə l ɑː]
-          * پسینے: [p ə s iː n eː]
+          * حامی: [ɦ ɑː m iː]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * ہوئی: [ɦ oː iː]
+          * چیزوں: [t͡ʃ iː z ũː]
     ```
   - ```{ipa_cell}
     ```
@@ -719,10 +596,10 @@
       * uː
         * Occurances: 108
         * Examples
-          * چالو: [t͡ʃ ɑː l uː]
-          * فتووں: [f t̪ uː ũː]
-          * صوتی: [s uː t̪ iː]
+          * یوم: [j ə uː m]
+          * ریلوے: [ɾ eː l uː eː]
           * پھول: [pʰ uː l]
+          * کرو: [k ə ɾ uː]
     ```
 * -
   - ```{ipa_cell}
@@ -732,10 +609,10 @@
       * ɪ
         * Occurances: 256
         * Examples
-          * اضافہ: [ɪ z ɑː f ə]
-          * کوریا: [k oː ɾ ɪ j ɑː]
-          * ہوگیا: [ɦ oː ɪ ɡ j ɑː]
-          * اثر: [ɪ s ə ɾ]
+          * کرکٹ: [k ə ɾ k ɪ ʈ]
+          * کرتے: [k ɾ ɪ t̪ eː]
+          * کيميا: [k j ə m ɪ j ɑː]
+          * نابلد: [n ɑː b l ɪ d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -744,10 +621,10 @@
       * ʊ
         * Occurances: 117
         * Examples
-          * خود: [x ʊ d̪ .]
-          * مسلک: [m ʊ s ə l k]
-          * نقشہ: [n ʊ q ʃ ɑː]
-          * ممکن: [m ʊ m m ə n]
+          * اپنے: [ʊ p n eː]
+          * غرض: [ɣ ʊ ɾ z]
+          * مختلف: [m ʊ x t̪ ə l f]
+          * صبح: [s ʊ b ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -758,8 +635,8 @@
         * Occurances: 6
         * Examples
           * اکشے: [ɑː k e ʃ eː]
-          * انتہا: [ɪ n t̪ e ɦ ɑː]
           * فاتح: [f ɪ t̪ː e ɦ]
+          * انتہا: [ɪ n t̪ e ɦ ɑː]
       * eʱ
         * Occurances: 2
         * Examples
@@ -767,10 +644,10 @@
       * eː
         * Occurances: 280
         * Examples
-          * کھیل: [kʰ eː l]
-          * سکتے: [s ə k t̪ eː]
-          * بکرے: [b ə k ɾ eː]
-          * پسینے: [p ə s iː n eː]
+          * فلیٹس: [f l eː ʈ s]
+          * روئے: [ɾ oː eː]
+          * شمیم: [ʃ m eː m]
+          * رکھتے: [ɾ kʰ t̪ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -784,15 +661,15 @@
         * Occurances: 4
         * Examples
           * معمہ: [m o ɪ m ɑː]
-          * معطل: [m o ɪ t̪ ə l]
           * معرفت: [m o ɪ ɾ ɪ f ə t̪]
+          * معطل: [m o ɪ t̪ ə l]
       * oː
         * Occurances: 86
         * Examples
-          * نوٹ: [n ə oː ʈ]
-          * کوریا: [k oː ɾ ɪ j ɑː]
-          * ہوگیا: [ɦ oː ɪ ɡ j ɑː]
-          * ہوچکی: [ɦ oː t͡ʃ k iː]
+          * ہوئی: [ɦ oː iː]
+          * روئے: [ɾ oː eː]
+          * ہوئیں: [ɦ oː ẽː]
+          * چوری: [t͡ʃ oː ɾ iː]
     ```
 * -
   - ```{ipa_cell}
@@ -804,10 +681,10 @@
       * ə
         * Occurances: 934
         * Examples
-          * نوٹ: [n ə oː ʈ]
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * اضافہ: [ɪ z ɑː f ə]
-          * طرز: [t̪ ə ɾ z]
+          * مذہبی: [m ə z ɦ ə b iː]
+          * بتا: [b ə t̪ ə n]
+          * یوم: [j ə uː m]
+          * نواب: [n ə ʋ ɑː b]
       * ə̯
         * Occurances: 2
         * Examples
@@ -828,10 +705,10 @@
       * ɛː
         * Occurances: 35
         * Examples
-          * ایونٹ: [ɛː ʋ ʈ]
+          * پیکار: [p ɛː k ɑː ɾ]
+          * رہے: [ɾ ɛː]
+          * ضائع: [z ɑː ɪ ɛː n]
           * کےنام: [k ɛː n ɑː m]
-          * پیدل: [p ɛː d̪ ə l]
-          * پیچھے: [p ɛː t͡ʃʰ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -844,10 +721,10 @@
       * ɔː
         * Occurances: 44
         * Examples
-          * قومیں: [q ɔː m ẽː]
-          * کونسا: [k ɔː n s ɑː]
-          * جوہر: [d͡ʒ ɔː ɦ ə ɾ]
+          * موجود: [m ɔː d͡ʒ uː d̪ᵊ]
           * موقع: [m ɔː q oː]
+          * کھولا: [kʰ ə ɔː l ɑː]
+          * نوحہ: [n ɔː ɦ ɑː]
     ```
 * -
   - ```{ipa_cell}
@@ -879,15 +756,15 @@
       * ɑː
         * Occurances: 876
         * Examples
-          * مال: [m ɑː l]
-          * جذبات: [d͡ʒ ə z b ɑː t̪]
-          * اضافہ: [ɪ z ɑː f ə]
-          * چالو: [t͡ʃ ɑː l uː]
+          * حامی: [ɦ ɑː m iː]
+          * خاص: [x ɑː s]
+          * نواب: [n ə ʋ ɑː b]
+          * پائے: [p ɑː eː]
     ```
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -918,10 +795,10 @@
       * ũː
         * Occurances: 39
         * Examples
-          * فتووں: [f t̪ uː ũː]
-          * کاموں: [k ɑː m ũː]
+          * چیزوں: [t͡ʃ iː z ũː]
+          * انہوں: [ɪ n ɦ ũː]
           * ہوں: [ɦ ũː]
-          * دونوں: [d̪ uː n ũː]
+          * جگہوں: [d͡ʒ ʊ ɡ ɦ ũː]
     ```
 * -
   - ```{ipa_cell}
@@ -944,10 +821,10 @@
       * ẽː
         * Occurances: 33
         * Examples
-          * قومیں: [q ɔː m ẽː]
-          * قوتیں: [q uː t̪ ẽː]
           * ہوئیں: [ɦ oː ẽː]
-          * فلمیں: [f ə l m ẽː]
+          * ہیں: [ɦ ẽː]
+          * کیں: [k ẽː]
+          * انہیں: [ɪ n ɦ ẽː]
     ```
   - ```{ipa_cell}
     ```
@@ -960,10 +837,10 @@
       * õː
         * Occurances: 16
         * Examples
-          * جھونک: [d͡ʒʱ õː k]
           * یوں: [ɪ j õː]
           * پہنچ: [p ə ɦ õː t͡ʃ]
-          * گاؤں: [ɡ ɑː õː]
+          * جھونک: [d͡ʒʱ õː k]
+          * پہنچی: [p ə ɦ õː t͡ʃ iː]
     ```
 * -
   - ```{ipa_cell}
@@ -1021,14 +898,9 @@
       * ɑ̃ː
         * Occurances: 25
         * Examples
-          * کلاں: [k ə l ɑ̃ː]
-          * مانے: [m ɑ̃ː eː]
-          * پاؤں: [p ɑ̃ː uː]
-          * پارٹی: [p ɑ̃ː ɾ ʊ ʈ iː]
+          * گلیاں: [ɡ l ɪ j ɑ̃ː]
+          * ناں: [n ə ɑ̃ː]
+          * کہاں: [k ə ɦ ɑ̃ː]
+          * جہاں: [d͡ʒ ə ɦ ɑ̃ː]
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`.`

@@ -1,22 +1,4 @@
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 آ	ɑː
 آئرلینڈ	ɑː ɾ l eː ɳ ɖ
 آئی	ɑː iː
@@ -502,7 +484,7 @@
 خوانی	x ɑː n iː
 خواہ	x ɑː ɦ
 خوبصورتی	x uː b s uː ɾ t̪ iː
-خود	x ʊ d̪ .
+خود	x ʊ d̪
 خوش	x ʊ ʃ
 خوشقسمتی	x ʊ ʃ q ɪ s m t̪ iː
 خوشگوار	x ʊ ʃ ə ɡ ʋ ɑː ɾ
@@ -693,7 +675,7 @@
 سماج	s ə m ɑː d͡ʒ
 سماجی	s ə m ɑː d͡ʒ iː
 سمت	s ə m ə t̪
-سمجھ	s ə m ə d͡ʒʱ .
+سمجھ	s ə m ə d͡ʒʱ
 سمجھا	s ə m ə d͡ʒʱ ɑː
 سمجھتے	s ə m ə d͡ʒʱ t̪ eː
 سمجھے	s ə m ə d͡ʒʱ eː
@@ -849,7 +831,7 @@
 غذائی	ɣ ʊ z ɑː iː
 غرض	ɣ ʊ ɾ z
 غزہ	ɣ ʊ z ɑː
-غلط	ɣ ə l ə .
+غلط	ɣ ə l ə
 غیاث	ɣ ʊ j ɑː s eː
 فاتح	f ɪ t̪ː e ɦ
 فتنہ	f t̪ n ɑː
@@ -1425,7 +1407,7 @@
 کرنا	k ə ɾ n ɑː
 کرنے	k ə ɾ n eː
 کرو	k ə ɾ uː
-کروائئ	k ə ɾ ʋ ɑː ɪ .
+کروائئ	k ə ɾ ʋ ɑː ɪ
 کرواتی	k ə ɾ ʋ ɑː t̪ iː
 کروشیا	k ə ɾ oː ʃ ɪ j ɑː
 کروڑوں	k ə ɾ oː ɽ ũː
@@ -1613,7 +1595,3 @@
 یہاں	j ə ɦ ɑ̃ː
 یہودی	j ə ɦ uː d̪ iː
 یہی	j ə ɦ iː
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

@@ -1,5 +1,5 @@
 
-# thai.cv
+# Thai CV dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/thai_cv.html)
 
@@ -14,9 +14,10 @@ Jump to section:
 
 - **Maintainer:** [Vox Communis](https://osf.io/t957v/)
 - **Language:** [Thai](https://en.wikipedia.org/wiki/Thai_language)
-- **Number of words:** `52,212`
+- **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`aː`, {ipa_inline}`a̯`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʰ`, {ipa_inline}`t͡ɕ`, {ipa_inline}`t͡ɕʰ`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y`, {ipa_inline}`ŋ`, {ipa_inline}`ɔ`, {ipa_inline}`ɔː`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɤ`, {ipa_inline}`ɤː`, {ipa_inline}`ɯ`, {ipa_inline}`ɯː`, {ipa_inline}`ʔ`, {ipa_inline}`ฤ`, {ipa_inline}`ฯ`, {ipa_inline}`ำ`, {ipa_inline}`ๅ`, {ipa_inline}`ๆ`
+- **Number of words:** `51,630`
+- **Phones:** {ipa_inline}`a`, {ipa_inline}`aː`, {ipa_inline}`a̯`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʰ`, {ipa_inline}`t͡ɕ`, {ipa_inline}`t͡ɕʰ`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y`, {ipa_inline}`ŋ`, {ipa_inline}`ɔ`, {ipa_inline}`ɔː`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɤ`, {ipa_inline}`ɤː`, {ipa_inline}`ɯ`, {ipa_inline}`ɯː`, {ipa_inline}`ʔ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
@@ -54,9 +55,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

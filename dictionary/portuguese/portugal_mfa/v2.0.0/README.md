@@ -1,5 +1,5 @@
 
-# portuguese.portugal.mfa
+# Portuguese (Portugal) MFA dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/portuguese_portugal_mfa.html)
 
@@ -7,7 +7,6 @@ Jump to section:
 
 - [Dictionary details](#dictionary-details)
 - [Intended use](#intended-use)
-- [IPA charts](#ipa-charts)
 - [Performance Factors](#performance-factors)
 - [Ethical considerations](#ethical-considerations)
 
@@ -16,8 +15,8 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)
 - **Dialect:** [European Portuguese](https://en.wikipedia.org/wiki/European_Portuguese)
-- **Number of words:** `89,066`
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#portuguese)
+- **Number of words:** `91,730`
 - **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`e`, {ipa_inline}`ẽ`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`ĩ`, {ipa_inline}`j`, {ipa_inline}`j̃`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`õ`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`ũ`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`w̃`, {ipa_inline}`z`, {ipa_inline}`ð`, {ipa_inline}`ɐ`, {ipa_inline}`ɐ̃`, {ipa_inline}`ɔ`, {ipa_inline}`ɛ`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɨ`, {ipa_inline}`ɲ`, {ipa_inline}`ɾ`, {ipa_inline}`ʁ`, {ipa_inline}`ʃ`, {ipa_inline}`ʎ`, {ipa_inline}`ʒ`, {ipa_inline}`β`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/portuguese/portugal_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
@@ -55,9 +54,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

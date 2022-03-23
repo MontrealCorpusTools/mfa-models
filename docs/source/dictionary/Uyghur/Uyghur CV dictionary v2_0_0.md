@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,10 +54,10 @@
       * m
         * Occurances: 7434
         * Examples
-          * ئاسما: [a s m a]
-          * كەم: [k ɛ m]
-          * ماڭا:: [m a ŋ a]
-          * دام: [d a m]
+          * بادام: [b a d a m]
+          * گېلىم: [ɡ e l i m]
+          * ئىمىن: [i m i n]
+          * گەپمۇ: [ɡ ɛ p m u]
     ```
   - ```{ipa_cell}
     ```
@@ -64,10 +66,10 @@
       * n
         * Occurances: 11429
         * Examples
-          * ئاتنى: [a t n i]
-          * سېنى: [s e n i]
-          * قانچە: [q a n t͡ʃ ɛ]
-          * جاننى: [d͡ʒ a n n i]
+          * ئىمىن: [i m i n]
+          * رەنا: [r ɛ n a]
+          * نىياز: [n i j a z]
+          * كەنت،: [k ɛ n t]
     ```
   - ```{ipa_cell}
     ```
@@ -78,10 +80,10 @@
       * ŋ
         * Occurances: 3064
         * Examples
-          * رەڭگە: [r ɛ ŋ ɡ ɛ]
-          * قىزىڭ: [q i z i ŋ]
-          * ماڭا:: [m a ŋ a]
-          * كېڭەش: [k e ŋ ɛ ʃ]
+          * ئوڭدا: [o ŋ d a]
+          * سەتەڭ: [s ɛ t ɛ ŋ]
+          * قوڭى.: [q o ŋ i]
+          * نېنىڭ: [n e n i ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -93,18 +95,18 @@
       * p
         * Occurances: 3575
         * Examples
-          * قۇرۇپ: [q u r u p]
-          * كۈچەپ: [k y t͡ʃ ɛ p]
-          * كۆپۈك: [k ø p y k]
-          * قوپۇپ: [q o p u p]
+          * پىل: [p i l]
+          * پۇل.: [p u l]
+          * كۆپ.: [k ø p]
+          * گەپمۇ: [ɡ ɛ p m u]
     * voiced
       * b
         * Occurances: 2680
         * Examples
-          * بۇرنى: [b u r n i]
-          * شەنبە: [ʃ ɛ n b ɛ]
-          * بېشى،: [b e ʃ i]
-          * بەدەل: [b ɛ d ɛ l]
+          * بادام: [b a d a m]
+          * باش: [b a ʃ]
+          * بارى: [b a r i]
+          * باي.: [b a j]
     ```
   - ```{ipa_cell}
     ```
@@ -113,18 +115,18 @@
       * t
         * Occurances: 9288
         * Examples
-          * ئاتنى: [a t n i]
-          * قۇت: [q u t]
-          * تاسلا: [t a s l a]
-          * تېگى: [t e ɡ i]
+          * تېز!: [t e z]
+          * كەنت،: [k ɛ n t]
+          * تاش،: [t a ʃ]
+          * تەرز: [t ɛ r z]
     * voiced
       * d
         * Occurances: 6616
         * Examples
-          * قالدى: [q a l d i]
-          * يود: [j o d]
-          * قەدرى: [q ɛ d r i]
-          * قويدى: [q o j d i]
+          * بادام: [b a d a m]
+          * ياد: [j a d]
+          * ئوڭدا: [o ŋ d a]
+          * گاداي: [ɡ a d a j]
     ```
   - ```{ipa_cell}
     ```
@@ -135,28 +137,28 @@
       * k
         * Occurances: 5754
         * Examples
-          * كۈچەپ: [k y t͡ʃ ɛ p]
-          * كۆپۈك: [k ø p y k]
-          * كىشى.: [k i ʃ i]
-          * كېتەر: [k e t ɛ r]
+          * كۆپ.: [k ø p]
+          * كۆكسى: [k ø k s i]
+          * كىرا: [k i r a]
+          * كەنت،: [k ɛ n t]
     * voiced
       * ɡ
         * Occurances: 1998
         * Examples
-          * تېگى: [t e ɡ i]
-          * رەڭگە: [r ɛ ŋ ɡ ɛ]
-          * سۆزگە: [s ø z ɡ ɛ]
-          * ئەلگە: [ɛ l ɡ ɛ]
+          * گېلىم: [ɡ e l i m]
+          * گەپمۇ: [ɡ ɛ p m u]
+          * ئۆگەي: [ø ɡ ɛ j]
+          * بېگى،: [b e ɡ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 7051
         * Examples
-          * قۇرۇپ: [q u r u p]
-          * جىق.: [d͡ʒ i q]
-          * قالدى: [q a l d i]
-          * قۇت: [q u t]
+          * يوق.: [j o q]
+          * ياق!: [j a q]
+          * قىياق: [q i j a q]
+          * قىل،: [q i l]
     ```
   - ```{ipa_cell}
     ```
@@ -172,18 +174,18 @@
       * t͡ʃ
         * Occurances: 2769
         * Examples
-          * كۈچەپ: [k y t͡ʃ ɛ p]
-          * قانچە: [q a n t͡ʃ ɛ]
-          * يۈزچە: [j y z t͡ʃ ɛ]
-          * ئوۋچى: [o w t͡ʃ i]
+          * ئۇچۇپ: [u t͡ʃ u p]
+          * چۆلدە: [t͡ʃ ø l d ɛ]
+          * قاچان: [q a t͡ʃ a n]
+          * چالا: [t͡ʃ a l a]
     * voiced
       * d͡ʒ
         * Occurances: 675
         * Examples
-          * جىق.: [d͡ʒ i q]
-          * جالا: [d͡ʒ a l a]
-          * جاننى: [d͡ʒ a n n i]
-          * ئەجەل: [ɛ d͡ʒ ɛ l]
+          * ئاجىز: [a d͡ʒ i z]
+          * جىملا: [d͡ʒ i m l a]
+          * جايدا: [d͡ʒ a j d a]
+          * جۇخار: [d͡ʒ u χ a r]
     ```
   - ```{ipa_cell}
     ```
@@ -203,28 +205,28 @@
       * s
         * Occurances: 5063
         * Examples
-          * تاسلا: [t a s l a]
-          * سېنى: [s e n i]
-          * سىلى: [s i l i]
-          * سىنا،: [s i n a]
+          * كۆكسى: [k ø k s i]
+          * ئاشسا: [a ʃ s a]
+          * سورا،: [s o r a]
+          * سەتەڭ: [s ɛ t ɛ ŋ]
     * voiced
       * z
         * Occurances: 2967
         * Examples
-          * يۈزچە: [j y z t͡ʃ ɛ]
-          * ئاز.: [a z]
-          * نېپىز: [n e p i z]
-          * زىيەك: [z i j ɛ k]
+          * يۈزى: [j y z i]
+          * تېز!: [t e z]
+          * نىياز: [n i j a z]
+          * تەرز: [t ɛ r z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 3861
         * Examples
-          * كىشى.: [k i ʃ i]
-          * شەنبە: [ʃ ɛ n b ɛ]
-          * قاش،: [q a ʃ]
-          * بېشى،: [b e ʃ i]
+          * باش: [b a ʃ]
+          * ئاشسا: [a ʃ s a]
+          * مۇشۇ: [m u ʃ u]
+          * تاش،: [t a ʃ]
     * voiced
       * ʒ
         * Occurances: 23
@@ -247,10 +249,10 @@
       * f
         * Occurances: 78
         * Examples
-          * لىفت: [l i f t]
-          * فوتو: [f o t o]
           * فوكۇس: [f o k u s]
+          * فوتو: [f o t o]
           * فىلىم: [f i l i m]
+          * نېفىت: [n e f i t]
     ```
   - ```{ipa_cell}
     ```
@@ -265,31 +267,39 @@
       * χ
         * Occurances: 1024
         * Examples
-          * خىتاب: [χ i t a b]
-          * خۇمار: [χ u m a r]
-          * خەس: [χ ɛ s]
-          * توخۇ: [t o χ u]
-    * other
+          * شىخو: [ʃ i χ o]
+          * ناخشا: [n a χ ʃ a]
+          * خەتمۇ: [χ ɛ t m u]
+          * جۇخار: [d͡ʒ u χ a r]
+    * voiced
       * ʁ
         * Occurances: 3254
         * Examples
-          * قولغا: [q o l ʁ a]
-          * ئوۋغا: [o w ʁ a]
-          * تورغا: [t o r ʁ a]
+          * يوغان: [j o ʁ a n]
           * يولغا: [j o l ʁ a]
+          * داغى: [d a ʁ i]
+          * غايە: [ʁ a j ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 1293
         * Examples
-          * روھ: [r o h]
-          * ھۆل: [h ø l]
-          * ھەئە،: [h ɛ ɛ]
-          * ھەرە: [h ɛ r ɛ]
+          * ھورى: [h o r i]
+          * ھوي،: [h o j]
+          * ھۆسن: [h ø s n]
+          * ھەلەپ: [h ɛ l ɛ p]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 1730
+        * Examples
+          * پەرۋا: [p ɛ r w a]
+          * ئاۋات: [a w a t]
+          * ۋىڭ: [w i ŋ]
+          * پۈۋ: [p y w]
     ```
   - ```{ipa_cell}
     ```
@@ -302,10 +312,10 @@
       * j
         * Occurances: 5722
         * Examples
-          * «ۋۇي،: [w u j]
-          * يۈزچە: [j y z t͡ʃ ɛ]
-          * يود: [j o d]
-          * زىيەك: [z i j ɛ k]
+          * يۈزى: [j y z i]
+          * يوق.: [j o q]
+          * ياق!: [j a q]
+          * ياد: [j a d]
     ```
   - ```{ipa_cell}
     ```
@@ -323,10 +333,10 @@
       * r
         * Occurances: 9266
         * Examples
-          * قۇرۇپ: [q u r u p]
-          * روھ: [r o h]
-          * ئاران: [a r a n]
-          * رەڭگە: [r ɛ ŋ ɡ ɛ]
+          * رەنا: [r ɛ n a]
+          * ھورى: [h o r i]
+          * بارى: [b a r i]
+          * كىرا: [k i r a]
     ```
   - ```{ipa_cell}
     ```
@@ -348,10 +358,10 @@
       * l
         * Occurances: 11486
         * Examples
-          * قالدى: [q a l d i]
-          * تاسلا: [t a s l a]
-          * جالا: [d͡ʒ a l a]
-          * قولغا: [q o l ʁ a]
+          * پىل: [p i l]
+          * ئۇلى: [u l i]
+          * گېلىم: [ɡ e l i m]
+          * پۇل.: [p u l]
     ```
   - ```{ipa_cell}
     ```
@@ -367,6 +377,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -385,17 +397,17 @@
       * i
         * Occurances: 29982
         * Examples
-          * جىق.: [d͡ʒ i q]
-          * قالدى: [q a l d i]
-          * ئاتنى: [a t n i]
-          * سېنى: [s e n i]
+          * پىل: [p i l]
+          * ئۇلى: [u l i]
+          * يۈزى: [j y z i]
+          * گېلىم: [ɡ e l i m]
     * rounded
       * y
         * Occurances: 2821
         * Examples
-          * كۈچەپ: [k y t͡ʃ ɛ p]
-          * كۆپۈك: [k ø p y k]
-          * يۈزچە: [j y z t͡ʃ ɛ]
+          * يۈزى: [j y z i]
+          * يۈرە: [j y r ɛ]
+          * تۆكۈپ: [t ø k y p]
           * پۈۋ: [p y w]
     ```
   - ```{ipa_cell}
@@ -409,10 +421,10 @@
       * u
         * Occurances: 7311
         * Examples
-          * قۇرۇپ: [q u r u p]
-          * «ۋۇي،: [w u j]
-          * قۇت: [q u t]
-          * قوپۇپ: [q o p u p]
+          * ئۇلى: [u l i]
+          * پۇل.: [p u l]
+          * گەپمۇ: [ɡ ɛ p m u]
+          * يورۇپ: [j o r u p]
     ```
 * -
   - ```{ipa_cell}
@@ -431,18 +443,18 @@
       * e
         * Occurances: 3060
         * Examples
-          * سېنى: [s e n i]
-          * تېگى: [t e ɡ i]
-          * كېتەر: [k e t ɛ r]
-          * نېپىز: [n e p i z]
+          * گېلىم: [ɡ e l i m]
+          * تېز!: [t e z]
+          * بېگى،: [b e ɡ i]
+          * ئېشى،: [e ʃ i]
     * rounded
       * ø
         * Occurances: 1747
         * Examples
-          * كۆپۈك: [k ø p y k]
-          * سۆزگە: [s ø z ɡ ɛ]
-          * سۆي.: [s ø j]
-          * ھۆل: [h ø l]
+          * كۆپ.: [k ø p]
+          * كۆكسى: [k ø k s i]
+          * ئۆگەي: [ø ɡ ɛ j]
+          * كۆر،: [k ø r]
     ```
   - ```{ipa_cell}
     ```
@@ -455,10 +467,10 @@
       * o
         * Occurances: 3277
         * Examples
-          * روھ: [r o h]
-          * قوپۇپ: [q o p u p]
-          * قولغا: [q o l ʁ a]
-          * يود: [j o d]
+          * يوق.: [j o q]
+          * ھورى: [h o r i]
+          * سورا،: [s o r a]
+          * ئوڭدا: [o ŋ d a]
     ```
 * -
   - ```{ipa_cell}
@@ -477,10 +489,10 @@
       * ɛ
         * Occurances: 11320
         * Examples
-          * كۈچەپ: [k y t͡ʃ ɛ p]
-          * قانچە: [q a n t͡ʃ ɛ]
-          * رەڭگە: [r ɛ ŋ ɡ ɛ]
-          * يۈزچە: [j y z t͡ʃ ɛ]
+          * رەنا: [r ɛ n a]
+          * گەپمۇ: [ɡ ɛ p m u]
+          * ئۆگەي: [ø ɡ ɛ j]
+          * كەنت،: [k ɛ n t]
     ```
   - ```{ipa_cell}
     ```
@@ -511,10 +523,10 @@
       * a
         * Occurances: 17947
         * Examples
-          * قالدى: [q a l d i]
-          * ئاتنى: [a t n i]
-          * تاسلا: [t a s l a]
-          * جالا: [d͡ʒ a l a]
+          * بادام: [b a d a m]
+          * باش: [b a ʃ]
+          * ياق!: [j a q]
+          * رەنا: [r ɛ n a]
     ```
   - ```{ipa_cell}
     ```

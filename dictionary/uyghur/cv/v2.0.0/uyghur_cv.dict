@@ -6,10 +6,6 @@
 "يۇقىرىغىمۇ	j u q i r i ʁ i m u
 "يېنىش	j e n i ʃ
 "ۋات"	w a t
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
 -ئات	a t
 -ئاتا-ئاناڭلارنى	a t a a n a ŋ l a r n i
 -ئاتا-ئانىسىنىڭ	a t a a n i s i n i ŋ
@@ -125,21 +121,7 @@
 -ھەممىڭلار	h ɛ m m i ŋ l a r
 -ۋاقىت	w a q i t
 .تۆۋەندىكى	t ø w ɛ n d i k i
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
 «ئادەم	a d ɛ m
 «ئاق	a q
 «ئاكا»	a k a
@@ -23915,7 +23897,3 @@
 ۋەھىمە،	w ɛ h i m ɛ
 “ھازىرقى	h a z i r q i
 ‹چىدايمەن›	t͡ʃ i d a j m ɛ n
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

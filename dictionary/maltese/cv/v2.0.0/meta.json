@@ -42,7 +42,6 @@
         "y",
         "z",
         "z\u02e4\u02d0",
-        "\u0107",
         "\u0127",
         "\u0127\u02d0",
         "\u0250",
@@ -56,14 +55,15 @@
         "\u026a\u02e4\u02d0",
         "\u0283",
         "\u0283\u02d0",
+        "\u0283\u02e4\u02d0",
         "\u028a",
         "\u028a\u02e4\u02d0",
         "\u0294",
-        "\u02d0",
-        "\u02e4"
+        "\u0294\u02e4\u02d0",
+        "\u02e4\u02d0"
     ],
-    "word_count": 12274,
-    "train_date": "2022-03-12",
+    "word_count": 12252,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}"
 }

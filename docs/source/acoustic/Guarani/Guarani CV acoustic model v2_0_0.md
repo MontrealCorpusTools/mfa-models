@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Guarani_v7_0`:
-  * **Hours:** `0.53`
-  * **Speakers:** `32`
-  * **Utterances:** `432`
+   * {ref}`Common_Voice_Guarani_v7_0`:
+     * **Hours:** `0.53`
+     * **Speakers:** `32`
+     * **Utterances:** `432`
    ```
 
 

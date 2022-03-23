@@ -18,5 +18,6 @@ Korean
 
    Pansori TEDxKR.md
    Zeroth Korean.md
+   Deeply Korean read speech corpus public sample.md
    Seoul Corpus.md
    GlobalPhone Korean v3_1.md

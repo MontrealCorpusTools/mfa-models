@@ -7,14 +7,14 @@
     "license": "CC BY 4.0",
     "architecture": "pynini",
     "training": {
-        "num_words": 43856,
+        "num_words": 48682,
         "num_graphemes": 55,
         "num_phones": 56
     },
     "evaluation": {
-        "num_words": 4872,
-        "word_error_rate": 3.858784893267652,
-        "phone_error_rate": 0.6191369606003753
+        "num_words": 5409,
+        "word_error_rate": 3.9009058975781103,
+        "phone_error_rate": 0.6430149705802031
     },
     "phone_set": "MFA",
     "phones": [
@@ -58,13 +58,13 @@
         "\u0250",
         "\u0255\u02b0",
         "\u0255\u0348",
-        "\u025b\u02d0",
         "\u0261",
         "\u0263",
         "\u0265",
+        "\u0266",
+        "\u0268",
+        "\u0268\u02d0",
         "\u026d",
-        "\u026f",
-        "\u026f\u02d0",
         "\u0270",
         "\u0272",
         "\u0278",
@@ -76,6 +76,6 @@
         "\u03b2"
     ],
     "version": "2.0.0",
-    "train_date": "2022-02-28",
-    "citation": "@techreport{\n\tmfa_korean_jamo_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Korean (Jamo) MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Korean/Korean (Jamo) MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Feb},\n}"
+    "train_date": "2022-03-20",
+    "citation": "@techreport{\n\tmfa_korean_jamo_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Korean (Jamo) MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Korean/Korean (Jamo) MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

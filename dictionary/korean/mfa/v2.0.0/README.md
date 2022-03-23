@@ -1,5 +1,5 @@
 
-# korean.mfa
+# Korean MFA dictionary v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/korean_mfa.html)
 
@@ -7,7 +7,6 @@ Jump to section:
 
 - [Dictionary details](#dictionary-details)
 - [Intended use](#intended-use)
-- [IPA charts](#ipa-charts)
 - [Performance Factors](#performance-factors)
 - [Ethical considerations](#ethical-considerations)
 
@@ -16,9 +15,9 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Korean](https://en.wikipedia.org/wiki/Korean_language)
 - **Dialect:** N/A
-- **Number of words:** `48,731`
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
-- **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dʑ`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`k̚`, {ipa_inline}`k͈`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`p̚`, {ipa_inline}`p͈`, {ipa_inline}`s`, {ipa_inline}`sʰ`, {ipa_inline}`s͈`, {ipa_inline}`t`, {ipa_inline}`tɕ`, {ipa_inline}`tɕʰ`, {ipa_inline}`tɕ͈`, {ipa_inline}`tʰ`, {ipa_inline}`t̚`, {ipa_inline}`t͈`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`ç`, {ipa_inline}`ŋ`, {ipa_inline}`ɐ`, {ipa_inline}`ɕʰ`, {ipa_inline}`ɕ͈`, {ipa_inline}`ɛː`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɥ`, {ipa_inline}`ɭ`, {ipa_inline}`ɯ`, {ipa_inline}`ɯː`, {ipa_inline}`ɰ`, {ipa_inline}`ɲ`, {ipa_inline}`ɸ`, {ipa_inline}`ɾ`, {ipa_inline}`ʌ`, {ipa_inline}`ʌː`, {ipa_inline}`ʎ`, {ipa_inline}`ʝ`, {ipa_inline}`β`
+- **Number of words:** `54,074`
+- **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dʑ`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`k̚`, {ipa_inline}`k͈`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`p̚`, {ipa_inline}`p͈`, {ipa_inline}`s`, {ipa_inline}`sʰ`, {ipa_inline}`s͈`, {ipa_inline}`t`, {ipa_inline}`tɕ`, {ipa_inline}`tɕʰ`, {ipa_inline}`tɕ͈`, {ipa_inline}`tʰ`, {ipa_inline}`t̚`, {ipa_inline}`t͈`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`ç`, {ipa_inline}`ŋ`, {ipa_inline}`ɐ`, {ipa_inline}`ɕʰ`, {ipa_inline}`ɕ͈`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɥ`, {ipa_inline}`ɦ`, {ipa_inline}`ɨ`, {ipa_inline}`ɨː`, {ipa_inline}`ɭ`, {ipa_inline}`ɰ`, {ipa_inline}`ɲ`, {ipa_inline}`ɸ`, {ipa_inline}`ɾ`, {ipa_inline}`ʌ`, {ipa_inline}`ʌː`, {ipa_inline}`ʎ`, {ipa_inline}`ʝ`, {ipa_inline}`β`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/korean/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
@@ -55,9 +54,10 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.  The most impactful will be reductions that
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
+The most impactful improvements will generally be felt when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If you have a multisyllable word going to a single syllable, it will be very hard for MFA to fit all the segments in,
+a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations

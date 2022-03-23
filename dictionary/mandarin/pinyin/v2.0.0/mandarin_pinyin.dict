@@ -1,18 +1,4 @@
-(lachen)	spn
-(laugh)	spn
-(laughter)	spn
-(lg)	spn
-<eps>	sil
-<lachen>	spn
-<laugh>	spn
-<laughter>	spn
-<lg>	spn
 <unk>	spn
-[bracketed]	spn
-[lachen]	spn
-[laugh]	spn
-[laughter]	spn
-[lg]	spn
 a1	a1
 a2	a2
 a3	a3
@@ -2016,11 +2002,3 @@ zuo2	z uo2
 zuo3	z uo3
 zuo4	z uo4
 zuo5	z uo5
-{lachen}	spn
-{laughter}	spn
-{laugh}	spn
-{lg}	spn
-＜lachen＞	spn
-＜laughter＞	spn
-＜laugh＞	spn
-＜lg＞	spn

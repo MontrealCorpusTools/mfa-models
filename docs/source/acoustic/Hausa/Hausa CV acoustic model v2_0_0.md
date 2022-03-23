@@ -21,10 +21,10 @@
    ```{admonition} Training corpora
 
 
-* {ref}`Common_Voice_Hausa_v7_0`:
-  * **Hours:** `1.00`
-  * **Speakers:** `13`
-  * **Utterances:** `1,535`
+   * {ref}`Common_Voice_Hausa_v7_0`:
+     * **Hours:** `1.00`
+     * **Speakers:** `13`
+     * **Utterances:** `1,535`
    ```
 
 

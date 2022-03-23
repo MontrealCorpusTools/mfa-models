@@ -1,5 +1,5 @@
 
-# korean.jamo.mfa
+# Korean (Jamo) MFA G2P model v2.0.0
 
 [Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/korean_jamo_mfa.html)
 
@@ -19,11 +19,11 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Korean](https://en.wikipedia.org/wiki/Korean_language)
 - **Dialect:** N/A
-- **Trained date:** `2022-02-28`
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
 - **Model type:** `G2P model`
 - **Architecture:** `pynini`
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
 - **Model version:** `v2.0.0`
+- **Trained date:** `2022-03-20`
 - **Compatible MFA version:** `v2.0.0`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/korean/jamo_mfa/v2.0.0/LICENSE)
 - **Citation:**
@@ -35,7 +35,7 @@ Jump to section:
 	title={Korean (Jamo) MFA G2P model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/G2P model/Korean/Korean (Jamo) MFA G2P model v2_0_0.html}},
 	year={2022},
-	month={Feb},
+	month={Mar},
 }
 ```
 
@@ -72,7 +72,7 @@ The model was trained on 90% of the dictionary and evaluated on a held-out 10% a
 This model was trained on the following data set:
 
 
-* **Words:** `43,856`
+* **Words:** `48,682`
 * **Phones:** `56`
 * **Graphemes:** `55`
 
@@ -81,9 +81,9 @@ This model was trained on the following data set:
 This model was evaluated on the following data set:
 
 
-* **Words:** `4,872`
-* **WER:** `3.86%`
-* **PER:** `0.62%`
+* **Words:** `5,409`
+* **WER:** `3.90%`
+* **PER:** `0.64%`
 
 ## Ethical considerations
 
@@ -98,6 +98,6 @@ If you are using this model in production, you should acknowledge this as a pote
 
 ### Surveillance
 
-Speech-to-Text technologies may be mis-used to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in may countries.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
+This kind of individual privacy is protected by law in many countries.
 You should not assume consent to record and analyze private speech.

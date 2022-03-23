@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -50,10 +52,10 @@
       * m
         * Occurances: 1667
         * Examples
-          * могат: [m o ɡ a t]
-          * метла: [m e t ɫ a]
-          * ума: [u m a]
-          * знам: [z n a m]
+          * оттам: [o tː a m]
+          * темпа: [t e m p a]
+          * лумна: [ɫ u m n a]
+          * малък: [m a ɫ ɤ k]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +64,10 @@
       * n
         * Occurances: 4262
         * Examples
-          * одрин: [o d r i n]
-          * плюна: [p ɫ j u n a]
-          * хасан: [x a s a n]
-          * знам: [z n a m]
+          * равен: [r a v e n]
+          * тесни: [t e s n i]
+          * бавно: [b a v n o]
+          * лумна: [ɫ u m n a]
       * nː
         * Occurances: 42
         * Examples
@@ -83,18 +85,18 @@
       * p
         * Occurances: 2437
         * Examples
-          * пръв: [p r ɤ v]
-          * плюна: [p ɫ j u n a]
-          * птица: [p t i ts a]
-          * псето: [p s e t o]
+          * темпа: [t e m p a]
+          * пост: [p o s t]
+          * полка: [p o ɫ k a]
+          * почти: [p o tʃ t i]
     * voiced
       * b
         * Occurances: 1273
         * Examples
-          * бави: [b a v i]
-          * бае: [b a e]
-          * обзе: [o b z e]
-          * бъде: [b ɤ d e]
+          * гръб: [ɡ r ɤ b]
+          * бавно: [b a v n o]
+          * проба: [p r o b a]
+          * биеха: [b i e x a]
     ```
   - ```{ipa_cell}
     ```
@@ -103,10 +105,10 @@
       * t
         * Occurances: 4835
         * Examples
-          * шест: [ʃ e s t]
-          * лют: [ɫ j u t]
-          * могат: [m o ɡ a t]
-          * отде: [o t d e]
+          * темпа: [t e m p a]
+          * пост: [p o s t]
+          * чиито: [tʃ iː t o]
+          * тесни: [t e s n i]
       * tː
         * Occurances: 42
         * Examples
@@ -116,10 +118,10 @@
       * d
         * Occurances: 2036
         * Examples
-          * изяде: [i z j a d e]
-          * одрин: [o d r i n]
-          * владя: [v ɫ a d j a]
-          * отде: [o t d e]
+          * вожд: [v o ʒ d]
+          * души: [d u ʃ i]
+          * седял: [s e d j a ɫ]
+          * идеш: [i d e ʃ]
       * dː
         * Occurances: 1
         * Examples
@@ -133,18 +135,18 @@
       * k
         * Occurances: 2350
         * Examples
-          * варак: [v a r a k]
-          * кръв: [k r ɤ v]
-          * точка: [t o tʃ k a]
-          * инак: [i n a k]
+          * полка: [p o ɫ k a]
+          * веке: [v e k e]
+          * искат: [i s k a t]
+          * малък: [m a ɫ ɤ k]
     * voiced
       * ɡ
         * Occurances: 1114
         * Examples
+          * гръб: [ɡ r ɤ b]
+          * гугла: [ɡ u ɡ ɫ a]
           * могат: [m o ɡ a t]
-          * гъста: [ɡ ɤ s t a]
-          * богат: [b o ɡ a t]
-          * негов: [n e ɡ o v]
+          * глави: [ɡ ɫ a v i]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -156,10 +158,10 @@
       * ts
         * Occurances: 524
         * Examples
-          * птица: [p t i ts a]
-          * цели: [ts e ɫ i]
-          * рояци: [r o j a ts i]
-          * враца: [v r a ts a]
+          * ръце: [r ɤ ts e]
+          * турци: [t u r ts i]
+          * цоню: [ts o n j u]
+          * лица: [ɫ i ts a]
       * tsː
         * Occurances: 1
         * Examples
@@ -173,18 +175,18 @@
       * tʃ
         * Occurances: 1347
         * Examples
-          * точка: [t o tʃ k a]
-          * щом: [ʃ tʃ o m]
-          * човек: [tʃ o v e k]
-          * бойчо: [b o j tʃ o]
+          * елече: [e ɫ e tʃ e]
+          * число: [tʃ i s ɫ o]
+          * чиито: [tʃ iː t o]
+          * час: [tʃ a s]
     * voiced
       * dʒ
         * Occurances: 49
         * Examples
           * джеба: [dʒ e b a]
+          * ходжа: [x o dʒ a]
+          * хаджи: [x a dʒ i]
           * джоба: [dʒ o b a]
-          * индже: [i n dʒ e]
-          * джубе: [dʒ u b e]
     ```
   - ```{ipa_cell}
     ```
@@ -200,18 +202,18 @@
       * s
         * Occurances: 2833
         * Examples
-          * шест: [ʃ e s t]
-          * хасан: [x a s a n]
-          * сухо: [s u x o]
-          * псето: [p s e t o]
+          * седял: [s e d j a ɫ]
+          * число: [tʃ i s ɫ o]
+          * пост: [p o s t]
+          * час: [tʃ a s]
     * voiced
       * z
         * Occurances: 1700
         * Examples
-          * изяде: [i z j a d e]
-          * знам: [z n a m]
-          * заем: [z a e m]
-          * обзе: [o b z e]
+          * озова: [o z o v a]
+          * здрав: [z d r a v]
+          * казал: [k a z a ɫ]
+          * завит: [z a v i t]
       * zː
         * Occurances: 4
         * Examples
@@ -222,18 +224,18 @@
       * ʃ
         * Occurances: 1150
         * Examples
-          * шест: [ʃ e s t]
-          * лош: [ɫ o ʃ]
-          * щом: [ʃ tʃ o m]
+          * души: [d u ʃ i]
           * идеш: [i d e ʃ]
+          * дошли: [d o ʃ ɫ i]
+          * плещи: [p ɫ e ʃ tʃ i]
     * voiced
       * ʒ
         * Occurances: 574
         * Examples
-          * книжа: [k n i ʒ a]
-          * жадно: [ʒ a d n o]
-          * жажда: [ʒ a ʒ d a]
-          * жив: [ʒ i v]
+          * вожд: [v o ʒ d]
+          * ожени: [o ʒ e n i]
+          * тъжна: [t ɤ ʒ n a]
+          * нужно: [n u ʒ n o]
     ```
   - ```{ipa_cell}
     ```
@@ -247,18 +249,18 @@
       * f
         * Occurances: 151
         * Examples
-          * фана: [f a n a]
-          * фронт: [f r o n t]
-          * чифта: [tʃ i f t a]
-          * йосиф: [j o s i f]
+          * анифе: [a n i f e]
+          * фют: [f j u t]
+          * чифт: [tʃ i f t]
+          * софка: [s o f k a]
     * voiced
       * v
         * Occurances: 3013
         * Examples
-          * пръв: [p r ɤ v]
-          * владя: [v ɫ a d j a]
-          * варак: [v a r a k]
-          * кръв: [k r ɤ v]
+          * вожд: [v o ʒ d]
+          * равен: [r a v e n]
+          * веке: [v e k e]
+          * бавно: [b a v n o]
     ```
   - ```{ipa_cell}
     ```
@@ -267,14 +269,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 1039
-        * Examples
-          * хасан: [x a s a n]
-          * сухо: [s u x o]
-          * ходил: [x o d i ɫ]
-          * дрехи: [d r e x i]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -290,10 +284,10 @@
       * j
         * Occurances: 1913
         * Examples
-          * изяде: [i z j a d e]
-          * плюна: [p ɫ j u n a]
-          * лют: [ɫ j u t]
-          * владя: [v ɫ a d j a]
+          * седял: [s e d j a ɫ]
+          * вървя: [v ɤ r v j a]
+          * който: [k o j t o]
+          * цоню: [ts o n j u]
     ```
   - ```{ipa_cell}
     ```
@@ -307,10 +301,10 @@
       * r
         * Occurances: 3850
         * Examples
-          * одрин: [o d r i n]
-          * пръв: [p r ɤ v]
-          * варак: [v a r a k]
-          * кръв: [k r ɤ v]
+          * равен: [r a v e n]
+          * гръб: [ɡ r ɤ b]
+          * ръце: [r ɤ ts e]
+          * турци: [t u r ts i]
     ```
   - ```{ipa_cell}
     ```
@@ -328,10 +322,10 @@
       * ɫ
         * Occurances: 3081
         * Examples
-          * плюна: [p ɫ j u n a]
-          * лют: [ɫ j u t]
-          * владя: [v ɫ a d j a]
-          * лош: [ɫ o ʃ]
+          * елече: [e ɫ e tʃ e]
+          * седял: [s e d j a ɫ]
+          * число: [tʃ i s ɫ o]
+          * полка: [p o ɫ k a]
       * ɫː
         * Occurances: 4
         * Examples
@@ -348,6 +342,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -366,10 +362,10 @@
       * i
         * Occurances: 5760
         * Examples
-          * изяде: [i z j a d e]
-          * одрин: [o d r i n]
-          * птица: [p t i ts a]
-          * бави: [b a v i]
+          * души: [d u ʃ i]
+          * число: [tʃ i s ɫ o]
+          * идеш: [i d e ʃ]
+          * тесни: [t e s n i]
       * iː
         * Occurances: 24
         * Examples
@@ -386,10 +382,10 @@
       * u
         * Occurances: 1461
         * Examples
-          * плюна: [p ɫ j u n a]
-          * лют: [ɫ j u t]
-          * ума: [u m a]
-          * сухо: [s u x o]
+          * души: [d u ʃ i]
+          * турци: [t u r ts i]
+          * лумна: [ɫ u m n a]
+          * умре: [u m r e]
       * uː
         * Occurances: 1
         * Examples
@@ -411,16 +407,16 @@
       * e
         * Occurances: 5835
         * Examples
-          * изяде: [i z j a d e]
-          * шест: [ʃ e s t]
-          * отде: [o t d e]
-          * метла: [m e t ɫ a]
+          * равен: [r a v e n]
+          * темпа: [t e m p a]
+          * елече: [e ɫ e tʃ e]
+          * седял: [s e d j a ɫ]
       * eː
         * Occurances: 30
         * Examples
-          * излее: [i z ɫ eː]
+          * пееха: [p eː x a]
+          * смее: [s m eː]
           * пее: [p eː]
-          * живее: [ʒ i v eː]
           * пееше: [p eː ʃ e]
     ```
   - ```{ipa_cell}
@@ -434,13 +430,20 @@
       * o
         * Occurances: 5451
         * Examples
-          * одрин: [o d r i n]
-          * могат: [m o ɡ a t]
-          * отде: [o t d e]
-          * лош: [ɫ o ʃ]
+          * вожд: [v o ʒ d]
+          * оттам: [o tː a m]
+          * число: [tʃ i s ɫ o]
+          * пост: [p o s t]
       * oː
         * Occurances: 12
         * Examples
+      * ɤ
+        * Occurances: 1525
+        * Examples
+          * гръб: [ɡ r ɤ b]
+          * ръце: [r ɤ ts e]
+          * вървя: [v ɤ r v j a]
+          * малък: [m a ɫ ɤ k]
     ```
 * -
   - ```{ipa_cell}
@@ -485,10 +488,10 @@
       * a
         * Occurances: 10283
         * Examples
-          * изяде: [i z j a d e]
-          * плюна: [p ɫ j u n a]
-          * владя: [v ɫ a d j a]
-          * могат: [m o ɡ a t]
+          * равен: [r a v e n]
+          * оттам: [o tː a m]
+          * темпа: [t e m p a]
+          * седял: [s e d j a ɫ]
       * aː
         * Occurances: 4
         * Examples

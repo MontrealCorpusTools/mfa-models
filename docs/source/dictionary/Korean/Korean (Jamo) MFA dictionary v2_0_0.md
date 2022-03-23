@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -48,83 +50,83 @@
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 13902
+        * Occurances: 15143
         * Examples
-          * ㅁㅏㄷㅇㅣ: [m ɐ dʑ i]
-          * ㄴㅗㅁㅕㄴ: [n o m j ʌ n]
-          * ㅁㅣㄴㅎㅏ: [m i n h ɐ]
-          * ㅁㅐㅈ: [m ɛː t̚]
+          * ㄱㅟㄸㅢㅁ: [k ɥ i t͈ i m]
+          * ㅁㅐㅇㄱㅓ: [m eː ŋ ɡ ʌ]
+          * ㅈㅓㄴㅁㅗ: [tɕ ʌ n m o]
+          * ㅁㅜㄴㅔ: [m uː n e]
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 26830
+        * Occurances: 28729
         * Examples
-          * ㅊㅗㅇㅣㄴ: [tɕʰ o i n]
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌ n sʰ e]
-          * ㅅㅜㄴㅎㅚ: [sʰ u n β w e]
-          * ㅇㅠㄴㅎㅚ: [j u n β w e]
+          * ㅇㅣㄴㅂㅜ: [i n b u]
+          * ㅇㅓㄹㅏㄴ: [ʌ ɾ ɐ n]
+          * ㅈㅓㄴㅁㅗ: [tɕ ʌ n m o]
+          * ㅁㅜㄴㅔ: [m uː n e]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 3216
+        * Occurances: 3463
         * Examples
-          * ㄱㅕㄱㄹㅕ: [k j ʌ ŋ ɲ j ʌ]
-          * ㅅㅜㄴㅕ: [sʰ u ɲ j ʌ]
-          * ㅂㅓㄴㅈㅣ: [p ʌ ɲ dʑ i]
-          * ㅁㅣㄴㅈㅜ: [m i ɲ dʑ u]
+          * ㅁㅕㄴㅈㅔ: [m j ʌ ɲ dʑ e]
+          * ㄴㅑㅁ: [ɲ ɐ m]
+          * ㅋㅔㄴㅑ: [kʰ e ɲ ɐ]
+          * ㄴㅑㄴ: [ɲ ɐ n]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 14477
+        * Occurances: 15801
         * Examples
-          * ㅊㅓㅂㅏㅇ: [tɕʰ ʌ b ɐ ŋ]
-          * ㄱㅕㄱㄹㅕ: [k j ʌ ŋ ɲ j ʌ]
-          * ㄷㅏㅇㄷㅗ: [t ɐ ŋ d o]
-          * ㅊㅣㅇ: [tɕʰ i ŋ]
+          * ㅁㅐㅇㄱㅓ: [m eː ŋ ɡ ʌ]
+          * ㄷㅜㅇㅊㅣ: [t u ŋ tɕʰ i]
+          * ㅎㅓㅁㅏㅇ: [h ʌ m ɐ ŋ]
+          * ㅈㅓㅇㅂㅣ: [tɕ ʌː ŋ b i]
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Stop` {submanner}`Plain`
+* - {manner}`Stop`
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 4970
+        * Occurances: 5399
         * Examples
-          * ㅂㅏㄷㄱㅣ: [p ɐ t̚ kʰ i]
-          * ㅂㅓㄹㄹㅣ: [p ʌː ʎ ʎ i]
-          * ㅂㅏㄴㅇㅚ: [p ɐ n w e]
-          * ㅂㅕㄱ: [p j ʌ k̚]
+          * ㅂㅏㄲㅟ: [p ɐ k͈ ɥ i]
+          * ㅂㅔㅇㅣㄹ: [p e i ɭ]
+          * ㅂㅗㅇㅏㄴ: [p oː ɐ n]
+          * ㅂㅗㄴㅡㄴ: [p o n ɨ n]
     * voiced
       * b
-        * Occurances: 3895
+        * Occurances: 4167
         * Examples
-          * ㅊㅓㅂㅏㅇ: [tɕʰ ʌ b ɐ ŋ]
-          * ㅇㅠㅂㅏㄹ: [j u b ɐ ɭ]
-          * ㅅㅓㄹㅂㅣ: [sʰ ʌ ɭ b i]
-          * ㅇㅣㅂㅕㄴ: [iː b j ʌ n]
+          * ㅇㅣㄴㅂㅜ: [i n b u]
+          * ㅈㅓㅇㅂㅣ: [tɕ ʌː ŋ b i]
+          * ㅇㅓㅂㅠㅁ: [ʌ b j u m]
+          * ㄱㅏㅂㅓㄹ: [k ɐ b ʌ ɭ]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 3555
+        * Occurances: 3929
         * Examples
-          * ㄷㅏㄹㄷㅗ: [t ɐ ɭ d o]
-          * ㄷㅏㅇㄷㅗ: [t ɐ ŋ d o]
-          * ㄷㅐㅁㅏㄴ: [t ɛː m ɐ n]
-          * ㄷㅐㅂㅜㄱ: [t ɛː b u k̚]
+          * ㄷㅜㅇㅊㅣ: [t u ŋ tɕʰ i]
+          * ㄷㅏㅇㅊㅗ: [t ɐ ŋ tɕʰ o]
+          * ㄷㅓㅂ: [t ʌ p̚]
+          * ㄱㅗㅇㄷㅐ: [k oː ŋ t eː]
     * voiced
       * d
-        * Occurances: 9059
+        * Occurances: 9538
         * Examples
-          * ㄹㅣㄷㅗ: [ɾ i d o]
-          * ㄷㅏㄹㄷㅗ: [t ɐ ɭ d o]
-          * ㄷㅏㅇㄷㅗ: [t ɐ ŋ d o]
-          * ㅈㅔㄷㅏ: [tɕ eː d ɐ]
+          * ㅋㅏㄷㅡ: [kʰ ɐ d ɨ]
+          * ㄱㅜㄷㅗㅇ: [k u d o ŋ]
+          * ㅅㅏㄷㅐ: [sʰ ɐ d eː]
+          * ㄷㅓㄹㄷㅏ: [t ʌː ɭ d ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -133,135 +135,24 @@
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 8183
+        * Occurances: 8928
         * Examples
-          * ㄱㅕㄱㄹㅕ: [k j ʌ ŋ ɲ j ʌ]
-          * ㄱㅓㅅㅔㅆ: [k ʌ sʰ e t̚]
-          * ㅇㅠㄱㅅㅓ: [j u k s ʌ]
-          * ㄱㅚㅉㅏ: [k w eː tɕ͈ ɐ]
+          * ㄱㅟㄸㅢㅁ: [k ɥ i t͈ i m]
+          * ㄱㅛㅇㅜ: [k j oː u]
+          * ㄱㅜㄷㅎㅣ: [k u tʰ i]
+          * ㄱㅜㄷㅗㅇ: [k u d o ŋ]
     * voiced
       * ɡ
-        * Occurances: 12012
+        * Occurances: 12741
         * Examples
-          * ㅇㅣㄱㅛ: [iː ɡ j o]
-          * ㅊㅗㄱㅡㅂ: [tɕʰ o ɡ ɯ p̚]
-          * ㅈㅣㄱㅏㅂ: [tɕ i ɡ ɐ p̚]
+          * ㅁㅐㅇㄱㅓ: [m eː ŋ ɡ ʌ]
+          * ㅈㅣㄱㅏㄱ: [tɕ i ɡ ɐ k̚]
+          * ㅍㅏㄱㅕㄴ: [pʰ ɐ ɡ j ʌ n]
           * ㅊㅏㅁㄱㅏ: [tɕʰ ɐ m ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
-* - {submanner}`Tense`
-  - ```{ipa_cell}
-    * voiceless
-      * p͈
-        * Occurances: 589
-        * Examples
-          * ㅅㅚㅃㅕ: [sʰ w e p͈ j ʌ]
-          * ㅃㅕㅇ: [p͈ j ʌ ŋ]
-          * ㅅㅏㅃㅜㄴ: [sʰ ɐ p͈ u n]
-          * ㅃㅔㄷ: [p͈ e t̚]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t͈
-        * Occurances: 744
-        * Examples
-          * ㄸㅐㄱㅏ: [t͈ ɛː ɡ ɐ]
-          * ㄸㅗㄹㅐ: [t͈ o ɾ ɛː]
-          * ㄸㅟㅊㅕ: [t͈ ɥ i tɕʰ ʌ]
-          * ㄸㅐㄴ: [t͈ ɛː n]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * k͈
-        * Occurances: 1309
-        * Examples
-          * ㄲㅡㄴ: [k͈ ɯ n]
-          * ㄲㅣㄹㅣ: [k͈ i ɾ i]
-          * ㄱㅐㄲㅜㅁ: [k ɛː k͈ u m]
-          * ㄲㅐㄷㅏㄹ: [k͈ ɛː d ɐ ɭ]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    * voiceless
-      * pʰ
-        * Occurances: 3999
-        * Examples
-          * ㅍㅕㅂ: [pʰ j ʌ p̚]
-          * ㅈㅣㅍㅓ: [tɕ i pʰ ʌ]
-          * ㅍㅐㅅㅕㄴ: [pʰ ɛː ɕʰ ʌ n]
-          * ㅍㅏㄱㅚ: [pʰ ɐ ɡ w e]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tʰ
-        * Occurances: 5241
-        * Examples
-          * ㅊㅏㅌㅏㄴ: [tɕʰ ɐ tʰ ɐ n]
-          * ㅁㅓㄹㅌㅣ: [m ʌ ɭ tʰ i]
-          * ㅌㅜㅎㅏ: [tʰ u h ɐ]
-          * ㄴㅏㄱㅌㅏ: [n ɐ k̚ tʰ ɐ]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * kʰ
-        * Occurances: 3465
-        * Examples
-          * ㅂㅏㄷㄱㅣ: [p ɐ t̚ kʰ i]
-          * ㅋㅣㅇㅜ: [kʰ i u]
-          * ㄱㅡㄱㄱㅜ: [k ɯ k̚ kʰ u]
-          * ㅇㅑㄱㅎㅏ: [j ɐ kʰ ɐ]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Unreleased`
-  - ```{ipa_cell}
-    * voiceless
-      * p̚
-        * Occurances: 1919
-        * Examples
-          * ㅍㅕㅂ: [pʰ j ʌ p̚]
-          * ㅊㅗㄱㅡㅂ: [tɕʰ o ɡ ɯ p̚]
-          * ㅈㅣㄱㅏㅂ: [tɕ i ɡ ɐ p̚]
-          * ㅎㅡㅄ: [x ɯ p̚]
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * t̚
-        * Occurances: 3057
-        * Examples
-          * ㅂㅏㄷㄱㅣ: [p ɐ t̚ kʰ i]
-          * ㄱㅓㅅㅔㅆ: [k ʌ sʰ e t̚]
-          * ㅁㅐㅈ: [m ɛː t̚]
-          * ㅁㅗㅅㅈㅣ: [m oː t̚ tɕʰ i]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * k̚
-        * Occurances: 4919
-        * Examples
-          * ㅂㅕㄱ: [p j ʌ k̚]
-          * ㅅㅜㅊㅣㄱ: [sʰ u tɕʰ i k̚]
-          * ㄴㅏㄱㅌㅏ: [n ɐ k̚ tʰ ɐ]
-          * ㄱㅡㄱㄱㅜ: [k ɯ k̚ kʰ u]
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Affricate` {submanner}`Plain`
+* - {manner}`Affricate`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -271,62 +162,20 @@
   - ```{ipa_cell}
     * voiceless
       * tɕ
-        * Occurances: 5896
+        * Occurances: 6425
         * Examples
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌ n sʰ e]
-          * ㅈㅐㅇㅑ: [tɕ ɛː j ɐ]
-          * ㅈㅣㅍㅓ: [tɕ i pʰ ʌ]
-          * ㅈㅣㄱㅏㅂ: [tɕ i ɡ ɐ p̚]
+          * ㅈㅓㄴㅁㅗ: [tɕ ʌ n m o]
+          * ㅈㅣㄱㅏㄱ: [tɕ i ɡ ɐ k̚]
+          * ㅈㅓㅇㅂㅣ: [tɕ ʌː ŋ b i]
+          * ㅈㅣㅌㅡ: [tɕ i tʰ ɨ]
     * voiced
       * dʑ
-        * Occurances: 7912
+        * Occurances: 8444
         * Examples
-          * ㅁㅏㄷㅇㅣ: [m ɐ dʑ i]
-          * ㅎㅐㅈㅣㄴ: [h ɛː dʑ i n]
-          * ㅍㅛㅈㅓㄹ: [pʰ j o dʑ ʌ ɭ]
-          * ㅍㅏㅈㅓㄴ: [pʰ ɐ dʑ ʌ n]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Tense`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tɕ͈
-        * Occurances: 341
-        * Examples
-          * ㄱㅚㅉㅏ: [k w eː tɕ͈ ɐ]
-          * ㅉㅗㅊㄱㅗ: [tɕ͈ o t̚ kʰ o]
-          * ㅉㅗㅊㅇㅏ: [tɕ͈ o t̚ ɐ]
-          * ㅅㅔㅅㅉㅐ: [sʰ eː t̚ tɕ͈ ɛː]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {submanner}`Aspirated`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * tɕʰ
-        * Occurances: 6176
-        * Examples
-          * ㅊㅗㅇㅣㄴ: [tɕʰ o i n]
-          * ㅊㅓㅂㅏㅇ: [tɕʰ ʌ b ɐ ŋ]
-          * ㅊㅏㅌㅏㄴ: [tɕʰ ɐ tʰ ɐ n]
-          * ㅊㅗㄱㅡㅂ: [tɕʰ o ɡ ɯ p̚]
+          * ㅊㅐㅈㅣㅂ: [tɕʰ eː dʑ i p̚]
+          * ㅂㅓㅈㅓㄴ: [p ʌ dʑ ʌ n]
+          * ㅁㅕㄴㅈㅔ: [m j ʌ ɲ dʑ e]
+          * ㄱㅘㅈㅓㅇ: [k w ɐ dʑ ʌ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -338,12 +187,12 @@
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 1947
+        * Occurances: 2055
         * Examples
-          * ㅇㅠㄱㅅㅓ: [j u k s ʌ]
-          * ㄹㅕㄱㅅㅏ: [ɾ j ʌ k s ɐ]
-          * ㅁㅗㄹㅅㅜ: [m o ɭ s u]
-          * ㅂㅕㄹㅅㅔ: [p j ʌ ɭ s e]
+          * ㅅㅔㄹㅋㅏ: [s e ɭ kʰ ɐ]
+          * ㅎㅕㄹㅅㅔ: [ç ʌ ɭ s e]
+          * ㄱㅗㅂㅅㅏ: [k o p s ɐ]
+          * ㅈㅣㄹㅅㅓ: [tɕ i ɭ s ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -359,24 +208,24 @@
   - ```{ipa_cell}
     * voiceless
       * s͈
-        * Occurances: 994
+        * Occurances: 1094
         * Examples
-          * ㅆㅏㅎㅇㅕ: [s͈ ɐ ʌ]
-          * ㅆㅡㄴㅡㄴ: [s͈ ɯ n ɯ n]
-          * ㅆㅓㅆ: [s͈ ʌ t̚]
-          * ㅆㅏㅇㅜㄹ: [s͈ ɐ u ɭ]
+          * ㅃㅓㅆㅡ: [p͈ ʌ s͈ ɨ]
+          * ㅆㅐㅇ: [s͈ eː ŋ]
+          * ㅆㅏㅇㅜ: [s͈ ɐ u]
+          * ㅆㅡㄴㅡㄴ: [s͈ ɨ n ɨ n]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ͈
-        * Occurances: 715
+        * Occurances: 765
         * Examples
-          * ㅆㅣㄹㅡㅁ: [ɕ͈ i ɾ ɯ m]
-          * ㅂㅏㄱㅆㅣ: [p ɐ ŋ ɕ͈ i]
+          * ㅆㅣㄱ: [ɕ͈ i k̚]
+          * ㅅㅣㄴ: [ɕ͈ i n]
+          * ㅅㅛㅍㅣㅇ: [ɕ͈ o pʰ i ŋ]
           * ㅁㅜㄴㅆㅣ: [m uː ɭ ɕ͈ i]
-          * ㅇㅓㅄㅈㅏ: [ʌː p ɕ͈ dʑ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -388,24 +237,24 @@
   - ```{ipa_cell}
     * voiceless
       * sʰ
-        * Occurances: 10955
+        * Occurances: 11829
         * Examples
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌ n sʰ e]
-          * ㅅㅜㄴㅎㅚ: [sʰ u n β w e]
-          * ㄱㅓㅅㅔㅆ: [k ʌ sʰ e t̚]
-          * ㅅㅔㄹㅠㅁ: [sʰ e ɾ j u m]
+          * ㅅㅜㅂ: [sʰ u p̚]
+          * ㅈㅗㅅㅓㄴ: [tɕ o sʰ ʌ n]
+          * ㅈㅘㅅㅓㄱ: [tɕ w ɐ sʰ ʌ k̚]
+          * ㅅㅜㅎㅐㅇ: [sʰ uː ɦ eː ŋ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕʰ
-        * Occurances: 3115
+        * Occurances: 3428
         * Examples
-          * ㅍㅐㅅㅕㄴ: [pʰ ɛː ɕʰ ʌ n]
-          * ㅈㅗㅅㅣㅁ: [tɕ oː ɕʰ i m]
-          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
-          * ㄱㅜㅅㅣㅁ: [k u ɕʰ i m]
+          * ㅅㅛㅅ: [ɕʰ o t̚]
+          * ㅅㅣㄹㅎㅛ: [ɕʰ i ɾ ʝ o]
+          * ㅇㅏㅁㅅㅣ: [ɐ m ɕʰ i]
+          * ㅅㅣㅊㅐㄱ: [ɕʰ iː tɕʰ eː k̚]
     ```
   - ```{ipa_cell}
     ```
@@ -415,12 +264,12 @@
   - ```{ipa_cell}
     * voiceless
       * ɸ
-        * Occurances: 937
+        * Occurances: 1000
         * Examples
-          * ㅎㅞㅅㅗㄴ: [ɸ w eː sʰ o n]
-          * ㅎㅘㅂㅗ: [ɸ w ɐ b o]
-          * ㅎㅘㅅㅏ: [ɸ w ɐ sʰ ɐ]
-          * ㅎㅜㄴㅏㄴ: [ɸ u n ɐ n]
+          * ㅎㅚㅎㅘ: [ɸ w eː β w ɐ]
+          * ㅎㅘㅇㅇㅓ: [ɸ w ɐ ŋ ʌ]
+          * ㅎㅗㄹㅏㅇ: [ɸ o ɾ ɐ ŋ]
+          * ㅎㅘㄴㄱㅜ: [ɸ w ɐ n ɡ u]
     ```
   - ```{ipa_cell}
     ```
@@ -429,51 +278,51 @@
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 411
+        * Occurances: 447
         * Examples
-          * ㅎㅕㄴㅈㅓ: [ç j ʌ ɲ tɕ ʌ]
-          * ㅎㅕㅇ: [ç j ʌ ŋ]
-          * ㅎㅛㅇㅛㅇ: [ç j o j o ŋ]
-          * ㅎㅕㄴㄷㅐ: [ç j ʌ n d ɛː]
+          * ㅎㅕㄹㅅㅔ: [ç ʌ ɭ s e]
+          * ㅎㅣㄴㅗ: [ç i n o]
+          * ㅎㅢㅁㅏㅇ: [ç i m ɐ ŋ]
+          * ㅎㅠㄱㅛ: [ç u ɡ j o]
     * voiced
       * ʝ
-        * Occurances: 773
+        * Occurances: 829
         * Examples
-          * ㅇㅠㅎㅕㅇ: [j uː ʝ j ʌ ŋ]
-          * ㅂㅏㅇㅎㅐ: [p ɐ ŋ ʝ ɛː]
-          * ㄷㅐㅎㅕㅇ: [t ɛː ʝ j ʌ ŋ]
-          * ㄱㅜㅎㅕㅇ: [k u ʝ j ʌ ŋ]
+          * ㅅㅣㄹㅎㅛ: [ɕʰ i ɾ ʝ o]
+          * ㅇㅠㅎㅕㅇ: [j uː ʝ ʌ ŋ]
+          * ㅇㅕㄴㅎㅠ: [j ʌ n ʝ u]
+          * ㅈㅣㅎㅕㄹ: [tɕ i ʝ ʌ ɭ]
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 176
-        * Examples
-          * ㅎㅡㅄ: [x ɯ p̚]
-          * ㅎㅡㅂ: [x ɯ p̚]
-          * ㅎㅡㄷㄷㅡ: [x ɯ t̚ tʰ ɯ]
-          * ㅎㅡㄽ: [x ɯ ɭ]
-    * voiced
-      * ɣ
-        * Occurances: 79
-        * Examples
-          * ㄴㅏㅎㅡㄹ: [n ɐ ɣ ɯ ɭ]
-          * ㅁㅣㅎㅡㅂ: [m iː ɣ ɯ p̚]
-          * ㅁㅏㅎㅡㄴ: [m ɐ ɣ ɯ n]
-          * ㅎㅗㅎㅡㅂ: [ɸ o ɣ ɯ p̚]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 6152
+        * Occurances: 4340
         * Examples
-          * ㅁㅣㄴㅎㅏ: [m i n h ɐ]
-          * ㅌㅜㅎㅏ: [tʰ u h ɐ]
-          * ㅅㅏㄴㅎㅏ: [sʰ ɐ n h ɐ]
-          * ㅎㅐㅈㅣㄴ: [h ɛː dʑ i n]
+          * ㅎㅓㅁㅏㅇ: [h ʌ m ɐ ŋ]
+          * ㅎㅏㅈㅜ: [h ɐ dʑ u]
+          * ㅎㅐㅇㅇㅟ: [h eː ŋ ɥ i]
+          * ㅎㅏㄱㄱㅣ: [h ɐ k̚ kʰ i]
+    * voiced
+      * ɦ
+        * Occurances: 2079
+        * Examples
+          * ㅅㅜㅎㅐㅇ: [sʰ uː ɦ eː ŋ]
+          * ㅎㅐㅇㅎㅏ: [h eː ɦ ɐ]
+          * ㅇㅛㅎㅏ: [j o ɦ ɐ]
+          * ㄷㅐㅎㅏㄴ: [t eː ɦ ɐ n]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 7116
+        * Examples
+          * ㅈㅘㅅㅓㄱ: [tɕ w ɐ sʰ ʌ k̚]
+          * ㅂㅜㅅㄱㅘ: [p u t̚ kʰ w ɐ]
+          * ㄱㅘㅈㅓㅇ: [k w ɐ dʑ ʌ ŋ]
+          * ㅅㅗㅇㅝㄴ: [sʰ o w ʌ n]
     ```
   - ```{ipa_cell}
     ```
@@ -482,29 +331,29 @@
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 13358
+        * Occurances: 11681
         * Examples
-          * ㄱㅕㄱㄹㅕ: [k j ʌ ŋ ɲ j ʌ]
-          * ㅈㅐㅇㅑ: [tɕ ɛː j ɐ]
-          * ㅇㅠㄴㅎㅚ: [j u n β w e]
-          * ㄴㅗㅁㅕㄴ: [n o m j ʌ n]
+          * ㅇㅛㄹㅣ: [j o ɾ i]
+          * ㄱㅛㅇㅜ: [k j oː u]
+          * ㅇㅛㅇㅜ: [j oː u]
+          * ㅇㅕㄴㅏㅁ: [j ʌː n ɐ m]
       * ɥ
-        * Occurances: 1031
+        * Occurances: 1108
         * Examples
-          * ㅅㅗㅇㅟ: [sʰ oː ɥ i]
-          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
-          * ㄸㅟㅊㅕ: [t͈ ɥ i tɕʰ ʌ]
-          * ㅇㅟㅌㅐ: [ɥ i tʰ ɛː]
+          * ㄱㅟㄸㅢㅁ: [k ɥ i t͈ i m]
+          * ㅂㅏㄲㅟ: [p ɐ k͈ ɥ i]
+          * ㅎㅐㅇㅇㅟ: [h eː ŋ ɥ i]
+          * ㄸㅏㅅㅈㅟ: [t͈ ɐ t̚ tɕʰ ɥ i]
     ```
   - ```{ipa_cell}
     * other
       * ɰ
-        * Occurances: 1656
+        * Occurances: 1682
         * Examples
-          * ㄱㅡㅇㅢ: [k ɯ ɰ i]
-          * ㄱㅕㄱㅇㅢ: [k j ʌ ɡ ɰ i]
-          * ㅇㅢㄱㅕㄹ: [ɰ iː ɡ j ʌ ɭ]
-          * ㅊㅗㅇㅢ: [tɕʰ o ɰ i]
+          * ㅅㅓㄱㅇㅢ: [sʰ ʌ ɡ ɰ i]
+          * ㅇㅢㅇㅚ: [ɰ i w e]
+          * ㅈㅗㅇㅇㅢ: [tɕ oː ŋ ɰ i]
+          * ㅌㅢㅇㅝ: [tʰ ɰ i w ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -514,12 +363,12 @@
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 10898
+        * Occurances: 11736
         * Examples
-          * ㄹㅣㄷㅗ: [ɾ i d o]
-          * ㅅㅔㄹㅠㅁ: [sʰ e ɾ j u m]
-          * ㅈㅣㄹㅕㄱ: [tɕ iː ɾ j ʌ k̚]
-          * ㅆㅣㄹㅡㅁ: [ɕ͈ i ɾ ɯ m]
+          * ㅇㅓㄹㅏㄴ: [ʌ ɾ ɐ n]
+          * ㅇㅛㄹㅣ: [j o ɾ i]
+          * ㄹㅔㅍㅣㅇ: [ɾ e pʰ i ŋ]
+          * ㄹㅣㅁㅗ: [ɾ i m o]
     ```
   - ```{ipa_cell}
     ```
@@ -539,18 +388,18 @@
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 2949
+        * Occurances: 3213
         * Examples
-          * ㅂㅓㄹㄹㅣ: [p ʌː ʎ ʎ i]
-          * ㅈㅓㄹㅈㅔ: [tɕ ʌ ʎ dʑ e]
-          * ㄱㅣㄹㅈㅣ: [k i ʎ dʑ i]
-          * ㄷㅚㄹㅈㅣ: [t w e ʎ dʑ i]
+          * ㄱㅜㄹㄹㅕ: [k u ʎ ʎ ʌ]
+          * ㅁㅜㄹㅊㅔ: [m u ʎ tɕʰ e]
+          * ㄸㅓㄹㅈㅣ: [t͈ ʌː ʎ dʑ i]
+          * ㄲㅏㄹㄹㅕ: [k͈ ɐ ʎ ʎ ʌ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     ```
-* - {manner}`Lateral_Tap`
+* - {manner}`Lateral Tap`
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
@@ -558,12 +407,12 @@
   - ```{ipa_cell}
     * other
       * ɭ
-        * Occurances: 10184
+        * Occurances: 10883
         * Examples
-          * ㅁㅓㄹㅌㅣ: [m ʌ ɭ tʰ i]
-          * ㄷㅏㄹㄷㅗ: [t ɐ ɭ d o]
-          * ㅇㅠㅂㅏㄹ: [j u b ɐ ɭ]
-          * ㅇㅣㅀ: [i ɭ]
+          * ㅂㅔㅇㅣㄹ: [p e i ɭ]
+          * ㅇㅠㅊㅏㄹ: [j u tɕʰ ɐ ɭ]
+          * ㄷㅓㄹㄷㅏ: [t ʌː ɭ d ɐ]
+          * ㄱㅡㄹㅣㄹ: [k ɨ ɾ i ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -575,6 +424,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -591,57 +442,57 @@
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 25543
+        * Occurances: 27539
         * Examples
-          * ㅂㅏㄷㄱㅣ: [p ɐ t̚ kʰ i]
-          * ㅊㅗㅇㅣㄴ: [tɕʰ o i n]
-          * ㅁㅏㄷㅇㅣ: [m ɐ dʑ i]
-          * ㄹㅣㄷㅗ: [ɾ i d o]
+          * ㅇㅣㄴㅂㅜ: [i n b u]
+          * ㄱㅟㄸㅢㅁ: [k ɥ i t͈ i m]
+          * ㅇㅛㄹㅣ: [j o ɾ i]
+          * ㅂㅏㄲㅟ: [p ɐ k͈ ɥ i]
       * iː
-        * Occurances: 1616
+        * Occurances: 1730
         * Examples
-          * ㅇㅣㄱㅛ: [iː ɡ j o]
-          * ㅈㅣㄹㅕㄱ: [tɕ iː ɾ j ʌ k̚]
-          * ㅇㅣㅂㅕㄴ: [iː b j ʌ n]
-          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
+          * ㅅㅣㅊㅐㄱ: [ɕʰ iː tɕʰ eː k̚]
+          * ㅂㅣㅇㅠㄹ: [p iː j u ɭ]
+          * ㅅㅣㅈㅏㄱ: [ɕʰ iː dʑ ɐ k̚]
+          * ㅅㅣㅊㅓㅇ: [ɕʰ iː tɕʰ ʌ ŋ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * unrounded
-      * ɯ
-        * Occurances: 15728
+      * ɨ
+        * Occurances: 16928
         * Examples
-          * ㅊㅗㄱㅡㅂ: [tɕʰ o ɡ ɯ p̚]
-          * ㄲㅡㄴ: [k͈ ɯ n]
-          * ㄱㅡㄱㄱㅜ: [k ɯ k̚ kʰ u]
-          * ㄱㅡㅇㅢ: [k ɯ ɰ i]
-      * ɯː
-        * Occurances: 207
+          * ㅎㅡㅌ: [x ɨ t̚]
+          * ㅁㅗㅇㅡ: [m o ɨ]
+          * ㅈㅣㅌㅡ: [tɕ i tʰ ɨ]
+          * ㅃㅓㅆㅡ: [p͈ ʌ s͈ ɨ]
+      * ɨː
+        * Occurances: 233
         * Examples
-          * ㄱㅡㄴㄱㅛ: [k ɯː n ɡ j o]
-          * ㄲㅡㄹㄱㅗ: [k͈ ɯː ɭ ɡ o]
-          * ㄲㅡㄹㅇㅓ: [k͈ ɯː ɾ ʌ]
-          * ㄱㅡㅅㄷㅏ: [k ɯː t̚ tʰ ɐ]
+          * ㄱㅡㅇㄷㅔ: [k ɨː ŋ d e]
+          * ㄱㅡㄴㅅㅏ: [k ɨː n sʰ ɐ]
+          * ㄱㅡㄴㅅㅣ: [k ɨː n ɕʰ i]
+          * ㅌㅡㄹㅣㅁ: [tʰ ɨː ɾ i m]
+    ```
+  - ```{ipa_cell}
+    ```
+  - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 12829
+        * Occurances: 13991
         * Examples
-          * ㅅㅜㄴㅎㅚ: [sʰ u n β w e]
-          * ㅇㅠㄴㅎㅚ: [j u n β w e]
-          * ㅇㅠㄱㅅㅓ: [j u k s ʌ]
-          * ㅅㅔㄹㅠㅁ: [sʰ e ɾ j u m]
+          * ㅇㅣㄴㅂㅜ: [i n b u]
+          * ㅅㅜㅂ: [sʰ u p̚]
+          * ㄱㅛㅇㅜ: [k j oː u]
+          * ㅇㅣㅂㅈㅜ: [i p̚ tɕʰ u]
       * uː
-        * Occurances: 960
+        * Occurances: 1038
         * Examples
-          * ㄱㅜㅎㅐㅆ: [k uː h ɛː t̚]
-          * ㅇㅠㅎㅕㅇ: [j uː ʝ j ʌ ŋ]
-          * ㄱㅜㅊㅜㄹ: [k uː tɕʰ u ɭ]
-          * ㅂㅜㄱㅓㅁ: [p uː ɡ ʌ m]
+          * ㅁㅜㄴㅔ: [m uː n e]
+          * ㅅㅜㅎㅐㅇ: [sʰ uː ɦ eː ŋ]
+          * ㅇㅠㄷㅗㄱ: [j uː d o k̚]
+          * ㅇㅠㅎㅕㅇ: [j uː ʝ ʌ ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -658,19 +509,19 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 8433
+        * Occurances: 9056
         * Examples
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌ n sʰ e]
-          * ㅅㅜㄴㅎㅚ: [sʰ u n β w e]
-          * ㄱㅓㅅㅔㅆ: [k ʌ sʰ e t̚]
-          * ㅇㅠㄴㅎㅚ: [j u n β w e]
+          * ㅁㅜㄴㅔ: [m uː n e]
+          * ㅂㅔㅇㅣㄹ: [p e i ɭ]
+          * ㄹㅔㅍㅣㅇ: [ɾ e pʰ i ŋ]
+          * ㅁㅕㄴㅈㅔ: [m j ʌ ɲ dʑ e]
       * eː
-        * Occurances: 943
+        * Occurances: 8707
         * Examples
-          * ㄱㅚㅉㅏ: [k w eː tɕ͈ ɐ]
-          * ㅎㅞㅅㅗㄴ: [ɸ w eː sʰ o n]
-          * ㅇㅖㄱㅜ: [j eː k u]
-          * ㅈㅔㄷㅏ: [tɕ eː d ɐ]
+          * ㅁㅐㅇㄱㅓ: [m eː ŋ ɡ ʌ]
+          * ㅊㅐㅈㅣㅂ: [tɕʰ eː dʑ i p̚]
+          * ㅅㅜㅎㅐㅇ: [sʰ uː ɦ eː ŋ]
+          * ㄱㅗㅇㄷㅐ: [k oː ŋ t eː]
     ```
   - ```{ipa_cell}
     ```
@@ -681,19 +532,19 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 16926
+        * Occurances: 18232
         * Examples
-          * ㅊㅗㅇㅣㄴ: [tɕʰ o i n]
-          * ㄹㅣㄷㅗ: [ɾ i d o]
-          * ㄴㅗㅁㅕㄴ: [n o m j ʌ n]
-          * ㅇㅣㄱㅛ: [iː ɡ j o]
+          * ㅇㅛㄹㅣ: [j o ɾ i]
+          * ㅈㅓㄴㅁㅗ: [tɕ ʌ n m o]
+          * ㅁㅗㅇㅡ: [m o ɨ]
+          * ㄷㅏㅇㅊㅗ: [t ɐ ŋ tɕʰ o]
       * oː
-        * Occurances: 1620
+        * Occurances: 1742
         * Examples
-          * ㅅㅗㅇㅟ: [sʰ oː ɥ i]
-          * ㅁㅗㅅㅈㅣ: [m oː t̚ tɕʰ i]
-          * ㅈㅗㅅㅣㅁ: [tɕ oː ɕʰ i m]
-          * ㅅㅗㄷㅏㅁ: [sʰ oː d ɐ m]
+          * ㄱㅛㅇㅜ: [k j oː u]
+          * ㅇㅛㅇㅜ: [j oː u]
+          * ㅂㅗㅇㅏㄴ: [p oː ɐ n]
+          * ㅈㅗㅅㅓㄴ: [tɕ oː sʰ ʌ n]
     ```
 * -
   - ```{ipa_cell}
@@ -708,14 +559,6 @@
     ```
 * - Open-Mid
   - ```{ipa_cell}
-    * unrounded
-      * ɛː
-        * Occurances: 6870
-        * Examples
-          * ㅈㅐㅇㅑ: [tɕ ɛː j ɐ]
-          * ㅁㅐㅈ: [m ɛː t̚]
-          * ㅎㅐㅈㅣㄴ: [h ɛː dʑ i n]
-          * ㄸㅐㄱㅏ: [t͈ ɛː ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -726,19 +569,19 @@
   - ```{ipa_cell}
     * unrounded
       * ʌ
-        * Occurances: 22602
+        * Occurances: 24653
         * Examples
-          * ㅊㅓㅂㅏㅇ: [tɕʰ ʌ b ɐ ŋ]
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌ n sʰ e]
-          * ㄱㅕㄱㄹㅕ: [k j ʌ ŋ ɲ j ʌ]
-          * ㄱㅓㅅㅔㅆ: [k ʌ sʰ e t̚]
+          * ㅇㅓㄹㅏㄴ: [ʌ ɾ ɐ n]
+          * ㅁㅐㅇㄱㅓ: [m eː ŋ ɡ ʌ]
+          * ㅈㅓㄴㅁㅗ: [tɕ ʌ n m o]
+          * ㅎㅓㅁㅏㅇ: [h ʌ m ɐ ŋ]
       * ʌː
-        * Occurances: 2178
+        * Occurances: 2398
         * Examples
-          * ㅈㅓㄴㅅㅔ: [tɕ ʌː n sʰ e]
-          * ㅂㅓㄹㄹㅣ: [p ʌː ʎ ʎ i]
-          * ㅅㅓㄴㄱㅜ: [sʰ ʌː n ɡ u]
-          * ㄱㅕㅇㄱㅜ: [k j ʌː ŋ k u]
+          * ㅈㅓㅇㅂㅣ: [tɕ ʌː ŋ b i]
+          * ㅇㅕㄴㅏㅁ: [j ʌː n ɐ m]
+          * ㄷㅓㄹㄷㅏ: [t ʌː ɭ d ɐ]
+          * ㅇㅕㅇㅅㅣ: [j ʌː ŋ ɕʰ i]
     ```
 * -
   - ```{ipa_cell}
@@ -748,12 +591,12 @@
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 39410
+        * Occurances: 42211
         * Examples
-          * ㅂㅏㄷㄱㅣ: [p ɐ t̚ kʰ i]
-          * ㅁㅏㄷㅇㅣ: [m ɐ dʑ i]
-          * ㅊㅓㅂㅏㅇ: [tɕʰ ʌ b ɐ ŋ]
-          * ㅈㅐㅇㅑ: [tɕ ɛː j ɐ]
+          * ㅇㅓㄹㅏㄴ: [ʌ ɾ ɐ n]
+          * ㅂㅏㄲㅟ: [p ɐ k͈ ɥ i]
+          * ㅌㅏㄱㅈㅏ: [tʰ ɐ k̚ tɕʰ ɐ]
+          * ㅈㅣㄱㅏㄱ: [tɕ i ɡ ɐ k̚]
     ```
   - ```{ipa_cell}
     ```

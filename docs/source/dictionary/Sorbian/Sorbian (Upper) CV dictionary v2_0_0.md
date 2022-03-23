@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -52,17 +54,17 @@
       * m
         * Occurances: 1312
         * Examples
-          * mocy: [m o ts ɨ]
-          * změnu: [z m ɪ n u]
-          * móhli: [m ʊ h l i]
-          * mitri: [m i t ʀ i]
+          * wšěm: [w ʃ ɪ m]
+          * klimu: [k l i m u]
+          * jamow: [j a m o w]
+          * jemu: [j e m u]
       * mʲ
         * Occurances: 104
         * Examples
           * zemje: [z e mʲ e]
-          * rumje: [ʀ u mʲ e]
+          * zymje: [z ɨ mʲ e]
+          * mjeno: [mʲ e n o]
           * domje: [d o mʲ e]
-          * mjezy: [mʲ e z ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -71,17 +73,17 @@
       * n
         * Occurances: 2205
         * Examples
-          * běrny: [b ɪ ʀ n ɨ]
-          * znaja: [z n a j a]
-          * tón: [t ʊ n]
-          * organ: [o ʀ ɡ a n]
+          * rjany: [ʀʲ a n ɨ]
+          * nowy: [n o w ɨ]
+          * tónle: [t ʊ n l e]
+          * nabyć: [n a b ɨ tʃ]
       * nʲ
         * Occurances: 725
         * Examples
-          * ćerń: [tʃ e ʀ nʲ]
-          * dnjow: [d nʲ o w]
-          * dźeń: [dʒ e nʲ]
-          * konje: [k o nʲ e]
+          * dnju: [d nʲ u]
+          * dnja: [d nʲ a]
+          * dóńdu: [d ʊ nʲ d u]
+          * njebě: [nʲ e b ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -99,32 +101,18 @@
       * p
         * Occurances: 1142
         * Examples
-          * prěc: [p ʀ ɪ ts]
-          * pomoc: [p o m o ts]
-          * pomha: [p o m h a]
-          * polu: [p o l u]
-      * pʲ
-        * Occurances: 52
-        * Examples
-          * pjeć: [pʲ e tʃ]
-          * pjata: [pʲ a t a]
-          * lěpje: [l ɪ pʲ e]
-          * lipju: [l i pʲ u]
+          * pušći: [p u ʃ tʃ i]
+          * pódla: [p ʊ d l a]
+          * stupa: [s t u p a]
+          * prawu: [p ʀ a w u]
     * voiced
       * b
         * Occurances: 671
         * Examples
-          * běrny: [b ɪ ʀ n ɨ]
-          * bajki: [b a j k i]
-          * busom: [b u s o m]
-          * bórze: [b ʊ ʀ z e]
-      * bʲ
-        * Occurances: 48
-        * Examples
-          * lubja: [l u bʲ a]
-          * bjez: [bʲ e z]
-          * sebje: [s e bʲ e]
-          * wabja: [w a bʲ a]
+          * bliža: [b l i ʒ a]
+          * nabyć: [n a b ɨ tʃ]
+          * być: [b ɨ tʃ]
+          * wabić: [w a b i tʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -133,18 +121,18 @@
       * t
         * Occurances: 1644
         * Examples
-          * takle: [t a k l e]
-          * lóšt: [l ʊ ʃ t]
-          * tutu: [t u t u]
-          * tón: [t ʊ n]
+          * awtor: [a w t o ʀ]
+          * karty: [k a ʀ t ɨ]
+          * stwu: [s t w u]
+          * husto: [h u s t o]
     * voiced
       * d
         * Occurances: 1065
         * Examples
-          * ideje: [i d e j e]
-          * dnjow: [d nʲ o w]
-          * dar: [d a ʀ]
-          * lědma: [l ɪ d m a]
+          * druhu: [d ʀ u h u]
+          * dnju: [d nʲ u]
+          * dnja: [d nʲ a]
+          * dróhi: [d ʀ ʊ h i]
     ```
   - ```{ipa_cell}
     ```
@@ -155,18 +143,18 @@
       * k
         * Occurances: 1662
         * Examples
-          * takle: [t a k l e]
-          * bajki: [b a j k i]
-          * majka: [m a j k a]
-          * hajko: [h a j k o]
+          * rěčki: [ʀ ɪ tʃ k i]
+          * karty: [k a ʀ t ɨ]
+          * klimu: [k l i m u]
+          * koho: [k o h o]
     * voiced
       * ɡ
         * Occurances: 149
         * Examples
-          * organ: [o ʀ ɡ a n]
-          * blogu: [b l o ɡ u]
-          * graty: [ɡ ʀ a t ɨ]
           * liga: [l i ɡ a]
+          * graty: [ɡ ʀ a t ɨ]
+          * organ: [o ʀ ɡ a n]
+          * gipsa: [ɡ i p s a]
     ```
   - ```{ipa_cell}
     ```
@@ -182,28 +170,28 @@
       * ts
         * Occurances: 526
         * Examples
-          * mocy: [m o ts ɨ]
-          * prěc: [p ʀ ɪ ts]
+          * chceš: [x ts e ʃ]
+          * wěcow: [w ɪ ts o w]
+          * wěcy: [w ɪ ts ɨ]
           * pomoc: [p o m o ts]
-          * nic: [n i ts]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1037
         * Examples
-          * pjeć: [pʲ e tʃ]
-          * ćerń: [tʃ e ʀ nʲ]
-          * rěčow: [ʀ ɪ tʃ o w]
-          * witać: [w i t a tʃ]
+          * ćěła: [tʃ ɪ w a]
+          * rěčki: [ʀ ɪ tʃ k i]
+          * wróćo: [w ʀ ʊ tʃ o]
+          * časa: [tʃ a s a]
     * voiced
       * dʒ
         * Occurances: 371
         * Examples
-          * dźeń: [dʒ e nʲ]
-          * hdźe: [h dʒ e]
-          * dźiwa: [dʒ i w a]
-          * dźeš: [dʒ e ʃ]
+          * hodźi: [h o dʒ i]
+          * dźak: [dʒ a k]
+          * hudźi: [h u dʒ i]
+          * hodźa: [h o dʒ a]
     ```
   - ```{ipa_cell}
     ```
@@ -223,36 +211,36 @@
       * s
         * Occurances: 1987
         * Examples
-          * wsow: [w s o w]
-          * swoju: [s w o j u]
-          * busom: [b u s o m]
-          * kwas: [k w a s]
+          * časa: [tʃ a s a]
+          * słód: [s w ʊ d]
+          * stwu: [s t w u]
+          * husto: [h u s t o]
     * voiced
       * z
         * Occurances: 844
         * Examples
+          * zemi: [z e m i]
+          * zbožo: [z b o ʒ o]
+          * zaměr: [z a m ɪ ʀ]
           * zemje: [z e mʲ e]
-          * znaja: [z n a j a]
-          * změnu: [z m ɪ n u]
-          * jězor: [j ɪ z o ʀ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 816
         * Examples
-          * lóšt: [l ʊ ʃ t]
-          * dóšła: [d ʊ ʃ w a]
-          * štóž: [ʃ t ʊ ʒ]
-          * dźeš: [dʒ e ʃ]
+          * chceš: [x ts e ʃ]
+          * wšěm: [w ʃ ɪ m]
+          * šula: [ʃ u l a]
+          * pušći: [p u ʃ tʃ i]
     * voiced
       * ʒ
         * Occurances: 335
         * Examples
-          * žiwu: [ʒ i w u]
-          * žada: [ʒ a d a]
-          * židow: [ʒ i d o w]
-          * kiž: [k i ʒ]
+          * słuži: [s w u ʒ i]
+          * bliža: [b l i ʒ a]
+          * žiwa: [ʒ i w a]
+          * štož: [ʃ t o ʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -270,10 +258,10 @@
       * f
         * Occurances: 130
         * Examples
-          * kopf: [k o p f]
-          * foće: [f o tʃ e]
-          * tafle: [t a f l e]
-          * tyfus: [t ɨ f u s]
+          * farar: [f a ʀ a ʀ]
+          * afd: [a f d]
+          * facit: [f a ts i t]
+          * wolf: [w o l f]
     * voiced
       * v
         * Occurances: 3
@@ -286,14 +274,6 @@
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 545
-        * Examples
-          * chór: [x ʊ ʀ]
-          * ćiche: [tʃ i x e]
-          * wšěch: [w ʃ ɪ x]
-          * bych: [b ɨ x]
     ```
   - ```{ipa_cell}
     ```
@@ -302,13 +282,28 @@
       * h
         * Occurances: 549
         * Examples
-          * toho: [t o h o]
-          * móhli: [m ʊ h l i]
-          * horow: [h o ʀ o w]
-          * hajko: [h a j k o]
+          * druhu: [d ʀ u h u]
+          * koho: [k o h o]
+          * hodźi: [h o dʒ i]
+          * dróhi: [d ʀ ʊ h i]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
+    * other
+      * w
+        * Occurances: 2786
+        * Examples
+          * ćěła: [tʃ ɪ w a]
+          * awtor: [a w t o ʀ]
+          * wróćo: [w ʀ ʊ tʃ o]
+          * wšěm: [w ʃ ɪ m]
+      * wʲ
+        * Occurances: 190
+        * Examples
+          * wjesć: [wʲ e s tʃ]
+          * wjele: [wʲ e l e]
+          * sowjo: [s o wʲ o]
+          * wjac: [wʲ a ts]
     ```
   - ```{ipa_cell}
     ```
@@ -321,10 +316,10 @@
       * j
         * Occurances: 1179
         * Examples
-          * jury: [j u ʀ ɨ]
-          * ideje: [i d e j e]
-          * znaja: [z n a j a]
-          * bajki: [b a j k i]
+          * aleje: [a l e j e]
+          * rejow: [ʀ e j o w]
+          * jamow: [j a m o w]
+          * jemu: [j e m u]
     ```
   - ```{ipa_cell}
     ```
@@ -350,17 +345,17 @@
       * ʀ
         * Occurances: 1667
         * Examples
-          * jury: [j u ʀ ɨ]
-          * běrny: [b ɪ ʀ n ɨ]
-          * organ: [o ʀ ɡ a n]
-          * ćerń: [tʃ e ʀ nʲ]
+          * druhu: [d ʀ u h u]
+          * rěčki: [ʀ ɪ tʃ k i]
+          * awtor: [a w t o ʀ]
+          * wróćo: [w ʀ ʊ tʃ o]
       * ʀʲ
         * Occurances: 247
         * Examples
-          * derje: [d e ʀʲ e]
+          * rjany: [ʀʲ a n ɨ]
+          * marje: [m a ʀʲ e]
+          * jurja: [j u ʀʲ a]
           * morjo: [m o ʀʲ o]
-          * rjad: [ʀʲ a d]
-          * měrje: [m ɪ ʀʲ e]
     ```
   - ```{ipa_cell}
     ```
@@ -374,10 +369,10 @@
       * l
         * Occurances: 977
         * Examples
-          * takle: [t a k l e]
-          * lóšt: [l ʊ ʃ t]
-          * móhli: [m ʊ h l i]
-          * lědma: [l ɪ d m a]
+          * aleje: [a l e j e]
+          * klimu: [k l i m u]
+          * šula: [ʃ u l a]
+          * pódla: [p ʊ d l a]
     ```
   - ```{ipa_cell}
     ```
@@ -393,6 +388,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -411,10 +408,10 @@
       * i
         * Occurances: 2437
         * Examples
-          * ideje: [i d e j e]
-          * móhli: [m ʊ h l i]
-          * mitri: [m i t ʀ i]
-          * witać: [w i t a tʃ]
+          * rěčki: [ʀ ɪ tʃ k i]
+          * klimu: [k l i m u]
+          * pušći: [p u ʃ tʃ i]
+          * hodźi: [h o dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -423,10 +420,10 @@
       * ɨ
         * Occurances: 968
         * Examples
-          * jury: [j u ʀ ɨ]
-          * mocy: [m o ts ɨ]
-          * běrny: [b ɪ ʀ n ɨ]
-          * tysac: [t ɨ s a ts]
+          * rjany: [ʀʲ a n ɨ]
+          * karty: [k a ʀ t ɨ]
+          * nowy: [n o w ɨ]
+          * nabyć: [n a b ɨ tʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -435,10 +432,10 @@
       * u
         * Occurances: 1646
         * Examples
-          * jury: [j u ʀ ɨ]
-          * tutu: [t u t u]
-          * změnu: [z m ɪ n u]
-          * rumow: [ʀ u m o w]
+          * druhu: [d ʀ u h u]
+          * dnju: [d nʲ u]
+          * klimu: [k l i m u]
+          * šula: [ʃ u l a]
     ```
 * -
   - ```{ipa_cell}
@@ -448,10 +445,10 @@
       * ɪ
         * Occurances: 694
         * Examples
-          * běrny: [b ɪ ʀ n ɨ]
-          * změnu: [z m ɪ n u]
-          * prěc: [p ʀ ɪ ts]
-          * rěčow: [ʀ ɪ tʃ o w]
+          * ćěła: [tʃ ɪ w a]
+          * rěčki: [ʀ ɪ tʃ k i]
+          * wšěm: [w ʃ ɪ m]
+          * wěcow: [w ɪ ts o w]
     ```
   - ```{ipa_cell}
     ```
@@ -460,10 +457,10 @@
       * ʊ
         * Occurances: 285
         * Examples
-          * lóšt: [l ʊ ʃ t]
-          * tón: [t ʊ n]
-          * móhli: [m ʊ h l i]
-          * nóc: [n ʊ ts]
+          * wróćo: [w ʀ ʊ tʃ o]
+          * dróhi: [d ʀ ʊ h i]
+          * pódla: [p ʊ d l a]
+          * dóšła: [d ʊ ʃ w a]
     ```
   - ```{ipa_cell}
     ```
@@ -473,10 +470,10 @@
       * e
         * Occurances: 3569
         * Examples
-          * zemje: [z e mʲ e]
-          * takle: [t a k l e]
-          * ideje: [i d e j e]
-          * pjeć: [pʲ e tʃ]
+          * chceš: [x ts e ʃ]
+          * aleje: [a l e j e]
+          * rejow: [ʀ e j o w]
+          * jemu: [j e m u]
     ```
   - ```{ipa_cell}
     ```
@@ -489,10 +486,10 @@
       * o
         * Occurances: 3405
         * Examples
-          * mocy: [m o ts ɨ]
-          * organ: [o ʀ ɡ a n]
-          * toho: [t o h o]
-          * wsow: [w s o w]
+          * awtor: [a w t o ʀ]
+          * wróćo: [w ʀ ʊ tʃ o]
+          * wěcow: [w ɪ ts o w]
+          * koho: [k o h o]
     ```
 * -
   - ```{ipa_cell}
@@ -537,10 +534,10 @@
       * a
         * Occurances: 4075
         * Examples
-          * takle: [t a k l e]
-          * znaja: [z n a j a]
-          * organ: [o ʀ ɡ a n]
-          * witać: [w i t a tʃ]
+          * ćěła: [tʃ ɪ w a]
+          * awtor: [a w t o ʀ]
+          * rjany: [ʀʲ a n ɨ]
+          * karty: [k a ʀ t ɨ]
     ```
   - ```{ipa_cell}
     ```

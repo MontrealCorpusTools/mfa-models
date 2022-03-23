@@ -56,8 +56,8 @@
         "\u0282\u02b2\u02d0",
         "\u0292"
     ],
-    "word_count": 52795,
-    "train_date": "2022-03-12",
+    "word_count": 52774,
+    "train_date": "2022-03-22",
     "version": "2.0.0",
     "citation": "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor},\n\ttitle={VoxCommunis Corpus},\n\taddress={\\url{https://osf.io/t957v}},\n\tpublisher={OSF},\n\tyear={2022}, \n\tmonth={Jan}\n}"
 }

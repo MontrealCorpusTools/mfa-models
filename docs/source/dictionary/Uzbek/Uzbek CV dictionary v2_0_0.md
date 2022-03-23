@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -53,10 +55,10 @@
       * m
         * Occurances: 214
         * Examples
-          * hamas: [h a m a s]
-          * nima: [n i m a]
-          * umid: [u m i d̪]
-          * odam: [ɒ d̪ a m]
+          * kam: [k a m]
+          * mavzu: [m a v z u]
+          * ilmiy: [i l m i j]
+          * xurmo: [χ u r m ɒ]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +69,10 @@
       * n
         * Occurances: 344
         * Examples
-          * sen: [s e n]
-          * nima: [n i m a]
-          * sinov: [s i n ɒ v]
-          * tinch: [t̪ i n t͡ʃ]
+          * aniq: [a n i q]
+          * buni: [b u n i]
+          * onasi: [ɒ n a s i]
+          * nikoh: [n i k ɒ h]
     ```
   - ```{ipa_cell}
     ```
@@ -81,10 +83,10 @@
       * ŋ
         * Occurances: 50
         * Examples
+          * ming: [m i ŋ]
           * bunga: [b u ŋ a]
-          * uning: [u n i ŋ]
           * eng: [e ŋ]
-          * teng: [t̪ e ŋ]
+          * o'ng: [o ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -97,17 +99,17 @@
         * Occurances: 35
         * Examples
           * chop: [t͡ʃ ɒ p]
-          * ko'p: [k o p]
+          * gap: [ɡ a p]
           * sopol: [s ɒ p ɒ l]
-          * parvo: [p a r v ɒ]
+          * to'p: [t̪ o p]
     * voiced
       * b
         * Occurances: 201
         * Examples
-          * birov: [b i r ɒ v]
-          * bekor: [b e k ɒ r]
-          * bois: [b ɒ i s]
-          * kitob: [k i t̪ ɒ b]
+          * buni: [b u n i]
+          * raqib: [r a q i b]
+          * xabar: [χ a b a r]
+          * qilib: [q i l i b]
     ```
   - ```{ipa_cell}
     ```
@@ -116,18 +118,18 @@
       * t̪
         * Occurances: 315
         * Examples
-          * tinch: [t̪ i n t͡ʃ]
-          * kitob: [k i t̪ ɒ b]
-          * bitdi: [b i t̪ d̪ i]
-          * xitoy: [χ i t̪ ɒ j]
+          * hafta: [h a ɸ t̪ a]
+          * bitta: [b i t̪ t̪ a]
+          * qayta: [q a j t̪ a]
+          * ovqat: [ɒ v q a t̪]
     * voiced
       * d̪
         * Occurances: 269
         * Examples
-          * devor: [d̪ e v ɒ r]
+          * sudya: [s u d̪ j a]
           * qoida: [q ɒ i d̪ a]
-          * umid: [u m i d̪]
-          * odam: [ɒ d̪ a m]
+          * naqd: [n a q d̪]
+          * juda: [d͡ʒ u d̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -140,31 +142,31 @@
       * k
         * Occurances: 179
         * Examples
+          * kam: [k a m]
+          * yoki: [j ɒ k i]
+          * ko'z: [k o z]
           * bekor: [b e k ɒ r]
-          * kishi: [k i ʃ i]
-          * kitob: [k i t̪ ɒ b]
-          * ukam!: [u k a m]
     * voiced
       * ɡ
         * Occurances: 156
         * Examples
-          * sigir: [s i ɡ i r]
-          * olgan: [ɒ l ɡ a n]
-          * nega: [n e ɡ a]
-          * ishga: [i ʃ ɡ a]
+          * go'yo: [ɡ o j ɒ]
+          * yilgi: [j i l ɡ i]
+          * ega: [e ɡ a]
+          * gap: [ɡ a p]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 176
         * Examples
+          * aniq: [a n i q]
+          * raqib: [r a q i b]
+          * qilib: [q i l i b]
           * qoida: [q ɒ i d̪ a]
-          * qolib: [q ɒ l i b]
-          * uyqu: [u j q u]
-          * qo'l: [q o l]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 11
         * Examples
@@ -188,17 +190,17 @@
       * t͡ʃ
         * Occurances: 55
         * Examples
+          * chop: [t͡ʃ ɒ p]
+          * uchun: [u t͡ʃ u n]
           * och: [ɒ t͡ʃ]
           * tinch: [t̪ i n t͡ʃ]
-          * chop: [t͡ʃ ɒ p]
-          * necha: [n e t͡ʃ a]
     * voiced
       * d͡ʒ
         * Occurances: 25
         * Examples
+          * juda: [d͡ʒ u d̪ a]
           * jahd: [d͡ʒ a h d̪]
-          * jihat: [d͡ʒ i h a t̪]
-          * juvon: [d͡ʒ u v ɒ n]
+          * joriy: [d͡ʒ ɒ r i j]
           * javob: [d͡ʒ a v ɒ b]
     ```
   - ```{ipa_cell}
@@ -221,28 +223,28 @@
       * s
         * Occurances: 178
         * Examples
-          * sigir: [s i ɡ i r]
-          * sen: [s e n]
-          * hamas: [h a m a s]
-          * sinov: [s i n ɒ v]
+          * hosil: [h ɒ s i l]
+          * sudya: [s u d̪ j a]
+          * onasi: [ɒ n a s i]
+          * xos.: [χ ɒ s]
     * voiced
       * z
         * Occurances: 84
         * Examples
-          * so'zi: [s o z i]
-          * o'z: [o z]
-          * so'z: [s o z]
-          * bozor: [b ɒ z ɒ r]
+          * mavzu: [m a v z u]
+          * hozir: [h ɒ z i r]
+          * ko'z: [k o z]
+          * o'zi: [o z i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 147
         * Examples
-          * kishi: [k i ʃ i]
-          * ushbu: [u ʃ b u]
-          * ishga: [i ʃ ɡ a]
-          * nashr: [n a ʃ r]
+          * shu: [ʃ u]
+          * yoshi: [j ɒ ʃ i]
+          * shaxs: [ʃ a χ s]
+          * shu.: [ʃ u]
     ```
   - ```{ipa_cell}
     ```
@@ -259,19 +261,19 @@
         * Occurances: 36
         * Examples
           * hafta: [h a ɸ t̪ a]
-          * safar: [s a ɸ a r]
-          * nafar: [n a ɸ a r]
           * fikr: [ɸ i k r]
+          * sof: [s ɒ ɸ]
+          * faqat: [ɸ a q a t̪]
     ```
   - ```{ipa_cell}
     * voiced
       * v
         * Occurances: 60
         * Examples
-          * birov: [b i r ɒ v]
-          * devor: [d̪ e v ɒ r]
+          * mavzu: [m a v z u]
+          * ovqat: [ɒ v q a t̪]
           * sinov: [s i n ɒ v]
-          * juvon: [d͡ʒ u v ɒ n]
+          * aldov: [a l d̪ ɒ v]
     ```
   - ```{ipa_cell}
     ```
@@ -288,11 +290,11 @@
       * χ
         * Occurances: 44
         * Examples
-          * xitoy: [χ i t̪ ɒ j]
-          * taxta: [t̪ a χ t̪ a]
-          * xalq: [χ a l q]
+          * xabar: [χ a b a r]
           * xos.: [χ ɒ s]
-    * other
+          * xurmo: [χ u r m ɒ]
+          * shaxs: [ʃ a χ s]
+    * voiced
       * ʁ
         * Occurances: 19
         * Examples
@@ -303,10 +305,10 @@
       * h
         * Occurances: 70
         * Examples
-          * hamas: [h a m a s]
-          * har: [h a r]
-          * jahd: [d͡ʒ a h d̪]
-          * hisob: [h i s ɒ b]
+          * hosil: [h ɒ s i l]
+          * hafta: [h a ɸ t̪ a]
+          * hozir: [h ɒ z i r]
+          * nikoh: [n i k ɒ h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -324,10 +326,10 @@
       * j
         * Occurances: 210
         * Examples
-          * mayda: [m a j d̪ a]
-          * sinay: [s i n a j]
-          * xitoy: [χ i t̪ ɒ j]
-          * aynan: [a j n a n]
+          * sudya: [s u d̪ j a]
+          * yoki: [j ɒ k i]
+          * yoshi: [j ɒ ʃ i]
+          * ilmiy: [i l m i j]
     ```
   - ```{ipa_cell}
     ```
@@ -347,9 +349,9 @@
       * r
         * Occurances: 381
         * Examples
-          * sigir: [s i ɡ i r]
-          * birov: [b i r ɒ v]
-          * har: [h a r]
+          * raqib: [r a q i b]
+          * xabar: [χ a b a r]
+          * hozir: [h ɒ z i r]
           * bekor: [b e k ɒ r]
     ```
   - ```{ipa_cell}
@@ -374,10 +376,10 @@
       * l
         * Occurances: 413
         * Examples
-          * sol.: [s ɒ l]
-          * olgan: [ɒ l ɡ a n]
-          * bo'la: [b o l a]
+          * hosil: [h ɒ s i l]
+          * qilib: [q i l i b]
           * ilmiy: [i l m i j]
+          * olib,: [ɒ l i b]
     ```
   - ```{ipa_cell}
     ```
@@ -393,6 +395,8 @@
 
 
 ### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
 ``````{list-table}
 :header-rows: 1
@@ -411,10 +415,10 @@
       * i
         * Occurances: 891
         * Examples
-          * sigir: [s i ɡ i r]
-          * birov: [b i r ɒ v]
-          * kishi: [k i ʃ i]
-          * nima: [n i m a]
+          * hosil: [h ɒ s i l]
+          * aniq: [a n i q]
+          * buni: [b u n i]
+          * yoki: [j ɒ k i]
     ```
   - ```{ipa_cell}
     ```
@@ -427,10 +431,10 @@
       * u
         * Occurances: 181
         * Examples
-          * umid: [u m i d̪]
-          * ukam!: [u k a m]
-          * ular: [u l a r]
-          * dunyo: [d̪ u n j ɒ]
+          * mavzu: [m a v z u]
+          * buni: [b u n i]
+          * sudya: [s u d̪ j a]
+          * shu: [ʃ u]
     ```
 * -
   - ```{ipa_cell}
@@ -447,12 +451,12 @@
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 131
+        * Occurances: 133
         * Examples
-          * sen: [s e n]
           * bekor: [b e k ɒ r]
-          * devor: [d̪ e v ɒ r]
-          * esa: [e s a]
+          * ega: [e ɡ a]
+          * dedi: [d̪ e d̪ i]
+          * yer: [j e r]
     ```
   - ```{ipa_cell}
     ```
@@ -463,12 +467,12 @@
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 102
+        * Occurances: 103
         * Examples
-          * so'zi: [s o z i]
-          * bo'la: [b o l a]
-          * o'z: [o z]
-          * so'z: [s o z]
+          * ko'z: [k o z]
+          * o'zi: [o z i]
+          * qo'l: [q o l]
+          * go'yo: [ɡ o j ɒ]
     ```
 * -
   - ```{ipa_cell}
@@ -511,12 +515,12 @@
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 1010
+        * Occurances: 1015
         * Examples
-          * hamas: [h a m a s]
-          * har: [h a r]
-          * nima: [n i m a]
-          * qoida: [q ɒ i d̪ a]
+          * kam: [k a m]
+          * mavzu: [m a v z u]
+          * aniq: [a n i q]
+          * sudya: [s u d̪ j a]
     ```
   - ```{ipa_cell}
     ```
@@ -525,16 +529,9 @@
       * ɒ
         * Occurances: 369
         * Examples
-          * och: [ɒ t͡ʃ]
-          * birov: [b i r ɒ v]
-          * bekor: [b e k ɒ r]
-          * devor: [d̪ e v ɒ r]
+          * hosil: [h ɒ s i l]
+          * yoki: [j ɒ k i]
+          * onasi: [ɒ n a s i]
+          * hozir: [h ɒ z i r]
     ```
 ``````
-
-
-### Other phones
-
-* {ipa_inline}`а`
-* {ipa_inline}`е`
-* {ipa_inline}`о`

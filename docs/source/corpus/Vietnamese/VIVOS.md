@@ -19,4 +19,9 @@
    ```{admonition} Pronunciation dictionaries
    * {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`vietnamese_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

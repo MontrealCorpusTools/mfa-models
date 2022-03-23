@@ -32,6 +32,8 @@
 
 ### Consonants
 
+Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to the right are voiced.
+
 ``````{list-table}
 :header-rows: 1
 :stub-columns: 1
@@ -50,10 +52,10 @@
       * p
         * Occurances: 430
         * Examples
-          * ype: [ɯ p e]
-          * opa: [o p a]
-          * arýpa: [a ɾ ɯ p a]
-          * upéva: [u p e ʋ a]
+          * árape: [a ɾ a p e]
+          * jepe: [dʒ e p e]
+          * opu'ã: [o p u ʔ ã]
+          * rupi: [ɾ u p i]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +64,10 @@
       * t
         * Occurances: 281
         * Examples
-          * añete: [a dʒ e t e]
-          * térã: [t e ɾ ã]
-          * yvate: [ɯ ʋ a t e]
-          * tuja: [t u dʒ a]
+          * gotyo: [ɰ o t ɯ o]
+          * teko: [t e k o]
+          * aháta: [a x a t a]
+          * retã: [ɾ e t ã]
     ```
   - ```{ipa_cell}
     ```
@@ -75,19 +77,19 @@
         * Occurances: 349
         * Examples
           * akói: [a k o i]
+          * eiko: [e i k o]
+          * teko: [t e k o]
           * uruku: [u ɾ u k u]
-          * reko: [ɾ e k o]
-          * ko'ã: [k o ʔ ã]
     ```
   - ```{ipa_cell}
-    * other
+    * voiceless
       * ʔ
         * Occurances: 259
         * Examples
-          * ha'e: [x a ʔ e]
-          * hi'a: [x i ʔ a]
-          * ko'ã: [k o ʔ ã]
-          * ra'a: [ɾ a ʔ a]
+          * ro'y: [ɾ o ʔ ɯ]
+          * opu'ã: [o p u ʔ ã]
+          * iko'ẽ: [i k o ʔ ẽ]
+          * hy'ái: [x ɯ ʔ a i]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -101,10 +103,10 @@
       * dʒ
         * Occurances: 302
         * Examples
-          * ajuhu: [a dʒ u x u]
-          * añete: [a dʒ e t e]
-          * ñana: [dʒ a ⁿd a]
-          * jaha: [dʒ a x a]
+          * heñói: [x e dʒ o i]
+          * jepe: [dʒ e p e]
+          * ojahu: [o dʒ a x u]
+          * reju: [ɾ e dʒ u]
     ```
   - ```{ipa_cell}
     ```
@@ -120,43 +122,22 @@
       * s
         * Occurances: 120
         * Examples
-          * osẽ: [o s ẽ]
-          * ehasa: [e x a s a]
-          * isy: [i s ɯ]
-          * vosa: [ʋ o s a]
+          * pizza: [p i t s a]
+          * asẽ: [a s ẽ]
+          * ohasa: [o x a s a]
+          * isýpe: [i s ɯ p e]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 67
         * Examples
-          * che: [ʃ e]
-          * luchi: [l u ʃ i]
-          * michĩ: [ᵐb i ʃ ĩ]
+          * chéve: [ʃ e ʋ e]
+          * chipa: [ʃ i p a]
           * chupe: [ʃ u p e]
+          * luchi: [l u ʃ i]
     ```
   - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-* - {manner}`Fricative`
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    ```
-  - ```{ipa_cell}
-    * voiceless
-      * x
-        * Occurances: 276
-        * Examples
-          * ehasa: [e x a s a]
-          * ajuhu: [a dʒ u x u]
-          * helen: [x e l e ⁿd]
-          * ha'e: [x a ʔ e]
     ```
   - ```{ipa_cell}
     ```
@@ -168,10 +149,10 @@
       * ʋ
         * Occurances: 283
         * Examples
-          * guive: [ɰ u i ʋ e]
-          * ndive: [ⁿd i ʋ e]
-          * vosa: [ʋ o s a]
-          * ryvy: [ɾ ɯ ʋ ɯ]
+          * chéve: [ʃ e ʋ e]
+          * ivai: [i ʋ a i]
+          * vove: [ʋ o ʋ e]
+          * ijyva: [i dʒ ɯ ʋ a]
     ```
   - ```{ipa_cell}
     ```
@@ -182,10 +163,10 @@
       * ɰ
         * Occurances: 128
         * Examples
-          * guive: [ɰ u i ʋ e]
-          * ogami: [o ɰ a ᵐb i]
-          * haguã: [x a ɰ u ã]
           * gotyo: [ɰ o t ɯ o]
+          * ág̃a: [a ɰ a]
+          * guyra: [ɰ u ɯ ɾ a]
+          * oga'i: [o ɰ a ʔ i]
     ```
   - ```{ipa_cell}
     ```
@@ -199,10 +180,10 @@
       * ɾ
         * Occurances: 517
         * Examples
-          * ryvy: [ɾ ɯ ʋ ɯ]
-          * arýpa: [a ɾ ɯ p a]
-          * rysýi: [ɾ ɯ s ɯ i]
-          * térã: [t e ɾ ã]
+          * ro'y: [ɾ o ʔ ɯ]
+          * árape: [a ɾ a p e]
+          * uruku: [u ɾ u k u]
+          * clari: [k l a ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -237,10 +218,10 @@
       * l
         * Occurances: 31
         * Examples
-          * helen: [x e l e ⁿd]
-          * luchi: [l u ʃ i]
+          * clari: [k l a ɾ i]
           * leõ: [l e õ]
-          * kalo: [k a l o]
+          * helen: [x e l e ⁿd]
+          * pláta: [p l a t a]
     ```
   - ```{ipa_cell}
     ```
@@ -251,7 +232,11 @@
 ``````
 
 
-### Oral Vowels
+### Vowels
+
+Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to the right are rounded.
+
+#### Oral Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -270,10 +255,10 @@
       * i
         * Occurances: 578
         * Examples
-          * guive: [ɰ u i ʋ e]
           * akói: [a k o i]
-          * ndive: [ⁿd i ʋ e]
-          * isy: [i s ɯ]
+          * heñói: [x e dʒ o i]
+          * néi: [ⁿd e i]
+          * eiko: [e i k o]
     ```
   - ```{ipa_cell}
     ```
@@ -286,18 +271,18 @@
       * ɯ
         * Occurances: 311
         * Examples
-          * ype: [ɯ p e]
-          * isy: [i s ɯ]
-          * ryvy: [ɾ ɯ ʋ ɯ]
-          * arýpa: [a ɾ ɯ p a]
+          * mayma: [ᵐb a ɯ ᵐb a]
+          * gotyo: [ɰ o t ɯ o]
+          * ro'y: [ɾ o ʔ ɯ]
+          * yke: [ɯ k e]
     * rounded
       * u
         * Occurances: 487
         * Examples
-          * guive: [ɰ u i ʋ e]
-          * ajuhu: [a dʒ u x u]
-          * upéva: [u p e ʋ a]
+          * ambue: [a ᵐb u e]
+          * ojahu: [o dʒ a x u]
           * uruku: [u ɾ u k u]
+          * opu'ã: [o p u ʔ ã]
     ```
 * -
   - ```{ipa_cell}
@@ -316,10 +301,10 @@
       * e
         * Occurances: 1039
         * Examples
-          * ype: [ɯ p e]
-          * guive: [ɰ u i ʋ e]
-          * ehasa: [e x a s a]
-          * ndive: [ⁿd i ʋ e]
+          * heñói: [x e dʒ o i]
+          * árape: [a ɾ a p e]
+          * ambue: [a ᵐb u e]
+          * néi: [ⁿd e i]
     ```
   - ```{ipa_cell}
     ```
@@ -332,10 +317,10 @@
       * o
         * Occurances: 738
         * Examples
-          * osẽ: [o s ẽ]
           * akói: [a k o i]
-          * vosa: [ʋ o s a]
-          * opa: [o p a]
+          * heñói: [x e dʒ o i]
+          * gotyo: [ɰ o t ɯ o]
+          * ro'y: [ɾ o ʔ ɯ]
     ```
 * -
   - ```{ipa_cell}
@@ -381,9 +366,9 @@
         * Occurances: 1255
         * Examples
           * akói: [a k o i]
-          * ehasa: [e x a s a]
-          * vosa: [ʋ o s a]
-          * ajuhu: [a dʒ u x u]
+          * mayma: [ᵐb a ɯ ᵐb a]
+          * árape: [a ɾ a p e]
+          * ambue: [a ᵐb u e]
     ```
   - ```{ipa_cell}
     ```
@@ -392,7 +377,7 @@
 ``````
 
 
-### Nasal Vowels
+#### Nasal Vowels
 
 ``````{list-table}
 :header-rows: 1
@@ -411,10 +396,10 @@
       * ĩ
         * Occurances: 16
         * Examples
-          * michĩ: [ᵐb i ʃ ĩ]
+          * peteĩ: [p e t e ĩ]
           * oĩva: [o ĩ ʋ a]
           * omoĩ: [o ᵐb o ĩ]
-          * peteĩ: [p e t e ĩ]
+          * michĩ: [ᵐb i ʃ ĩ]
     ```
   - ```{ipa_cell}
     ```
@@ -447,9 +432,9 @@
       * ẽ
         * Occurances: 49
         * Examples
-          * osẽ: [o s ẽ]
+          * iko'ẽ: [i k o ʔ ẽ]
+          * asẽ: [a s ẽ]
           * peẽme: [p e ẽ ᵐb e]
-          * osẽva: [o s ẽ ʋ a]
           * oñe'ẽ: [o dʒ e ʔ ẽ]
     ```
   - ```{ipa_cell}
@@ -463,10 +448,10 @@
       * õ
         * Occurances: 43
         * Examples
-          * mokõi: [ᵐb o k õ i]
-          * pokõi: [p o k õ i]
           * leõ: [l e õ]
-          * moõpa: [ᵐb o õ p a]
+          * pokõi: [p o k õ i]
+          * ñavõ: [dʒ a ʋ õ]
+          * mokõi: [ᵐb o k õ i]
     ```
 * -
   - ```{ipa_cell}
@@ -511,10 +496,10 @@
       * ã
         * Occurances: 100
         * Examples
-          * térã: [t e ɾ ã]
-          * ko'ã: [k o ʔ ã]
+          * opu'ã: [o p u ʔ ã]
+          * retã: [ɾ e t ã]
           * ru'ã: [ɾ u ʔ ã]
-          * epu'ã: [e p u ʔ ã]
+          * ko'ã: [k o ʔ ã]
     ```
   - ```{ipa_cell}
     ```
