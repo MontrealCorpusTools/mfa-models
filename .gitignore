@@ -7,4 +7,10 @@ docs/build/
 
 dictionary/temp/
 
+staging/
+generated/
+
 dictionary/filter_lists/
+
+scripts/temp/
+/scripts/token

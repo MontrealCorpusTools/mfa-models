@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="242.14" version="1.1" viewBox="0 0 132.29 64.065" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-22.479 -8.0698)" stroke="#ffc300">
+  <g>
+   <path d="m33.205 39.82h46.474" fill="none" stroke-linecap="round" stroke-width=".28631px"/>
+   <path d="m33.205 39.82c6.6146 0 6.6146-13.229 6.6146-13.229s0 13.229 6.6146 13.229c-6.6146 0-6.6146 13.229-6.6146 13.229s0-13.229-6.6146-13.229z" fill="#ffc300" stroke-width=".26458px"/>
+   <path d="m46.434 39.82c6.6146 0 13.229-13.229 13.229-26.458 0 13.229 6.6146 26.458 13.229 26.458-6.6146 0-13.229 13.229-13.229 26.458 0-13.229-6.6146-26.458-13.229-26.458z" fill="#ffc300" stroke-width=".26458px"/>
+   <g fill="none" stroke-width=".26458px">
+    <path d="m74.216 31.883v15.874"/>
+    <path d="m75.539 31.883v15.874"/>
+    <path d="m79.679 13.361v52.917"/>
+   </g>
+  </g>
+  <text x="85.978722" y="24.812078" fill="#ffc300" font-family="'Gentium Basic'" font-size="15.13px" font-weight="bold" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal" xml:space="preserve"><tspan x="85.978722" y="24.812078" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Montreal</tspan><tspan x="85.978722" y="43.724079" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Forced </tspan><tspan x="85.978722" y="62.636078" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Aligner</tspan></text>
+ </g>
+</svg>

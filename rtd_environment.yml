@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - pip
+  - pip:
+      - sphinxemoji
+      - pydata-sphinx-theme
+      - sphinx-panels
+      - sphinxcontrib-needs
+      - sphinxcontrib-plantuml
+      - sphinxcontrib-programoutput
+      - sphinx
+      - myst-parser
+      - numpydoc
