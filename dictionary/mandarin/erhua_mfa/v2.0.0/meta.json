@@ -128,7 +128,7 @@
         "\u0294"
     ],
     "word_count": 75259,
-    "train_date": "2022-03-22",
+    "train_date": "2022-03-24",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_mandarin_erhua_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Mandarin (Erhua) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Mandarin/Mandarin (Erhua) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

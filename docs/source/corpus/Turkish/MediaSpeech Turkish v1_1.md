@@ -20,4 +20,9 @@
    * {ref}`turkish_cv_dictionary_v2_0_0`
 * {ref}`turkish_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`turkish_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

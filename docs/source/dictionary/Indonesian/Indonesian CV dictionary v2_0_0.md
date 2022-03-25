@@ -49,10 +49,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4930
         * Examples
-          * mary: [m a r j]
-          * minat: [m i n a t]
-          * tom?: [t o m]
-          * asam: [a s a m]
+          * masak: [m a s a k]
+          * umpan: [u m p a n]
+          * umat: [u m a t]
+          * mavor: [m a f o r]
     ```
   - ```{ipa_cell}
     ```
@@ -61,30 +61,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 6993
         * Examples
-          * minat: [m i n a t]
-          * pagan: [p a ɡ a n]
-          * dukun: [d u k u n]
-          * alan: [a l a n]
+          * lynne: [l j n n ə]
+          * umpan: [u m p a n]
+          * unta: [u n t a]
+          * green: [ɡ r ə ə n]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 1560
         * Examples
-          * hanya: [h a ɲ a]
+          * rinci: [r i ɲ t͡ɕ i]
+          * funny: [f u n ɲ]
           * nancy: [n a ɲ t͡ɕ j]
-          * inco: [i ɲ t͡ɕ o]
-          * bunyi: [b u ɲ i]
+          * kunci: [k u ɲ t͡ɕ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2085
         * Examples
-          * deng: [d ə ŋ]
-          * uang,: [u a ŋ]
-          * inang: [i n a ŋ]
-          * ming: [m i ŋ]
+          * aung.: [a u ŋ]
+          * angus: [a ŋ u s]
+          * siang: [s i a ŋ]
+          * denga: [d ə ŋ a]
     ```
   - ```{ipa_cell}
     ```
@@ -94,18 +94,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 3272
         * Examples
-          * pagan: [p a ɡ a n]
-          * lupa: [l u p a]
-          * tiup: [t i u p]
-          * peggy: [p ə ɡ ɡ j]
+          * pecah: [p ə t͡ɕ a h]
+          * umpan: [u m p a n]
+          * rapat: [r a p a t]
+          * kappa: [k a p p a]
     * voiced
       * b
         * Occurances: 2984
         * Examples
-          * ubik: [u b i k]
-          * besok: [b ə s o k]
-          * badai: [b a d a i]
-          * bisa.: [b i s a]
+          * gaib.: [ɡ a i b]
+          * bau.: [b a u]
+          * bebek: [b ə b ə k]
+          * tabel: [t a b ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -114,18 +114,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 5487
         * Examples
-          * minat: [m i n a t]
-          * satir: [s a t i r]
-          * tom?: [t o m]
-          * tulis: [t u l i s]
+          * ketua: [k ə t u a]
+          * rapat: [r a p a t]
+          * unta: [u n t a]
+          * umat: [u m a t]
     * voiced
       * d
         * Occurances: 2917
         * Examples
-          * dukun: [d u k u n]
-          * deng: [d ə ŋ]
-          * badai: [b a d a i]
-          * dish: [d i s h]
+          * kedua: [k ə d u a]
+          * dada: [d a d a]
+          * andy: [a n d j]
+          * ahad.: [a h a d]
     ```
   - ```{ipa_cell}
     ```
@@ -134,27 +134,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 5172
         * Examples
-          * ubik: [u b i k]
-          * besok: [b ə s o k]
-          * dukun: [d u k u n]
-          * aku,: [a k u]
+          * kedua: [k ə d u a]
+          * ketua: [k ə t u a]
+          * masak: [m a s a k]
+          * krewe: [k r ə w ə]
     * voiced
       * ɡ
         * Occurances: 1440
         * Examples
-          * pagan: [p a ɡ a n]
-          * gay,: [ɡ a j]
-          * peggy: [p ə ɡ ɡ j]
-          * guru,: [ɡ u r u]
+          * gaib.: [ɡ a i b]
+          * green: [ɡ r ə ə n]
+          * "get": [ɡ ə t]
+          * great: [ɡ r ə a t]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 46
         * Examples
+          * o'day: [o ʔ d a j]
           * 'kan?: [ʔ k a n]
           * 'kan: [ʔ k a n]
-          * o'day: [o ʔ d a j]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -168,18 +168,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ɕ
         * Occurances: 1361
         * Examples
-          * vetch: [f ə t t͡ɕ h]
-          * force: [f o r t͡ɕ ə]
-          * lucu.: [l u t͡ɕ u]
-          * jack: [d͡ʑ a t͡ɕ k]
+          * pecah: [p ə t͡ɕ a h]
+          * rinci: [r i ɲ t͡ɕ i]
+          * cara: [t͡ɕ a r a]
+          * chef: [t͡ɕ h ə f]
     * voiced
       * d͡ʑ
         * Occurances: 899
         * Examples
-          * jadi.: [d͡ʑ a d i]
-          * saja!: [s a d͡ʑ a]
-          * jack: [d͡ʑ a t͡ɕ k]
-          * jules: [d͡ʑ u l ə s]
+          * jamin: [d͡ʑ a m i n]
+          * jauh: [d͡ʑ a u h]
+          * jean: [d͡ʑ ə a n]
+          * jazz.: [d͡ʑ a z z]
     ```
   - ```{ipa_cell}
     ```
@@ -195,18 +195,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 5252
         * Examples
-          * besok: [b ə s o k]
-          * satir: [s a t i r]
-          * seri: [s ə r i]
-          * tulis: [t u l i s]
+          * masak: [m a s a k]
+          * angus: [a ŋ u s]
+          * kasih: [k a s i h]
+          * istri: [i s t r i]
     * voiced
       * z
         * Occurances: 135
         * Examples
-          * katz: [k a t z]
-          * jazz,: [d͡ʑ a z z]
-          * lezat: [l ə z a t]
-          * izin?: [i z i n]
+          * zasu: [z a s u]
+          * jazz.: [d͡ʑ a z z]
+          * gratz: [ɡ r a t z]
+          * ynez”: [j n ə z]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -228,10 +228,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1011
         * Examples
-          * vetch: [f ə t t͡ɕ h]
-          * force: [f o r t͡ɕ ə]
-          * buffy: [b u f f j]
-          * fisik: [f i s i k]
+          * mavor: [m a f o r]
+          * elf: [ə l f]
+          * chef: [t͡ɕ h ə f]
+          * vik: [f i k]
     ```
   - ```{ipa_cell}
     ```
@@ -244,10 +244,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 2389
         * Examples
-          * vetch: [f ə t t͡ɕ h]
-          * dish: [d i s h]
-          * hasil: [h a s i l]
-          * ayah?: [a j a h]
+          * pecah: [p ə t͡ɕ a h]
+          * oleh:: [o l ə h]
+          * phk.: [p h k]
+          * kasih: [k a s i h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -255,10 +255,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 653
         * Examples
-          * awal,: [a w a l]
-          * anwar: [a n w a r]
-          * miaow: [m i a o w]
-          * wujud: [w u d͡ʑ u d]
+          * krewe: [k r ə w ə]
+          * weda.: [w ə d a]
+          * watak: [w a t a k]
+          * siswa: [s i s w a]
     ```
   - ```{ipa_cell}
     ```
@@ -269,10 +269,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 645
         * Examples
-          * mary: [m a r j]
-          * gay,: [ɡ a j]
-          * ayah?: [a j a h]
-          * buffy: [b u f f j]
+          * lynne: [l j n n ə]
+          * andy: [a n d j]
+          * harry: [h a r r j]
+          * ayo,: [a j o]
     ```
   - ```{ipa_cell}
     ```
@@ -288,10 +288,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 6756
         * Examples
-          * mary: [m a r j]
-          * satir: [s a t i r]
-          * seri: [s ə r i]
-          * air,: [a i r]
+          * krewe: [k r ə w ə]
+          * rapat: [r a p a t]
+          * rinci: [r i ɲ t͡ɕ i]
+          * cara: [t͡ɕ a r a]
     ```
   - ```{ipa_cell}
     ```
@@ -309,10 +309,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 4306
         * Examples
-          * lupa: [l u p a]
-          * alan: [a l a n]
-          * tulis: [t u l i s]
-          * lurus: [l u r u s]
+          * liu: [l i u]
+          * lynne: [l j n n ə]
+          * oleh:: [o l ə h]
+          * allan: [a l l a n]
     ```
   - ```{ipa_cell}
     ```
@@ -344,10 +344,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 8316
         * Examples
-          * minat: [m i n a t]
-          * ubik: [u b i k]
-          * satir: [s a t i r]
-          * seri: [s ə r i]
+          * liu: [l i u]
+          * gaib.: [ɡ a i b]
+          * rinci: [r i ɲ t͡ɕ i]
+          * kasih: [k a s i h]
     ```
   - ```{ipa_cell}
     ```
@@ -360,10 +360,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 5055
         * Examples
-          * ubik: [u b i k]
-          * lupa: [l u p a]
-          * dukun: [d u k u n]
-          * aku,: [a k u]
+          * liu: [l i u]
+          * kedua: [k ə d u a]
+          * ketua: [k ə t u a]
+          * aung.: [a u ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -390,10 +390,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3756
         * Examples
-          * besok: [b ə s o k]
-          * tom?: [t o m]
-          * aoi: [a o i]
-          * force: [f o r t͡ɕ ə]
+          * oleh:: [o l ə h]
+          * oak: [o a k]
+          * mavor: [m a f o r]
+          * korea: [k o r ə a]
     ```
 * -
   - ```{ipa_cell}
@@ -405,10 +405,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 9701
         * Examples
-          * besok: [b ə s o k]
-          * seri: [s ə r i]
-          * deng: [d ə ŋ]
-          * vetch: [f ə t t͡ɕ h]
+          * kedua: [k ə d u a]
+          * ketua: [k ə t u a]
+          * lynne: [l j n n ə]
+          * pecah: [p ə t͡ɕ a h]
     ```
   - ```{ipa_cell}
     ```
@@ -446,10 +446,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 17034
         * Examples
-          * mary: [m a r j]
-          * minat: [m i n a t]
-          * pagan: [p a ɡ a n]
-          * satir: [s a t i r]
+          * gaib.: [ɡ a i b]
+          * kedua: [k ə d u a]
+          * ketua: [k ə t u a]
+          * masak: [m a s a k]
     ```
   - ```{ipa_cell}
     ```

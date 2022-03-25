@@ -54,10 +54,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 386
         * Examples
-          * حامی: [ɦ ɑː m iː]
-          * مذہبی: [m ə z ɦ ə b iː]
-          * شمیم: [ʃ m eː m]
-          * یوم: [j ə uː m]
+          * لازم: [l ɑː z m]
+          * تکمیل: [t̪ k m iː l]
+          * کلیمز: [k ə l iː m ə z]
+          * امیر: [ə m iː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -68,16 +68,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 350
         * Examples
-          * بتا: [b ə t̪ ə n]
-          * اپنے: [ʊ p n eː]
-          * نواب: [n ə ʋ ɑː b]
-          * نبرد: [n ə b ə ɾ d̪]
+          * سنا: [s ə n ɑː]
+          * بچپن: [b ə t͡ʃ p ə n]
+          * انہیں: [ɪ n ɦ ẽː]
+          * نظیر: [n ə z iː ɾ]
       * nː
         * Occurances: 3
         * Examples
+          * جنتی: [d͡ʒ ə nː ə t̪ iː]
           * جناح: [d͡ʒ ə nː ɑː]
           * جنونی: [d͡ʒ ə nː oː n iː]
-          * جنتی: [d͡ʒ ə nː ə t̪ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -86,10 +86,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɳ
         * Occurances: 18
         * Examples
-          * ٹھنڈے: [ʈʰ ɳ ɖ eː]
           * ہنڈا: [ɦ ɳ ɖ ɑː]
-          * رانڈ: [ɾ ɑː ɳ ɖ]
-          * انڈیل: [ə ɳ ɖ eː l]
+          * انڈیز: [ə ɳ ɖ iː z]
+          * ونڈوز: [ʋ ə ɳ ɖ ə ʋ z]
+          * ٹھنڈے: [ʈʰ ɳ ɖ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -98,10 +98,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 26
         * Examples
-          * جنگ: [d͡ʒ ə ŋ ɡ]
+          * فنکار: [f ə ŋ k ɑː ɾ]
           * جنگیں: [d͡ʒ ə ŋ ɡ ẽː]
-          * لنکا: [l ə ŋ k ɑː]
-          * رنگ: [ɾ ə ŋ ɡ]
+          * ہنگری: [ɦ ŋ ɡ ɾ iː]
+          * رنگار: [ɾ ə ŋ ɡ ɑː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -115,10 +115,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 115
         * Examples
-          * اپنے: [ʊ p n eː]
-          * پائے: [p ɑː eː]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * بچپن: [b ə t͡ʃ p ə n]
+          * پکارا: [p ɪ k ɑː ɾ ɑː]
           * پلاو: [p ə l ɑː ʋ]
-          * پسند: [p ə s ə n d̪]
       * pː
         * Occurances: 1
         * Examples
@@ -127,10 +127,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * b
         * Occurances: 226
         * Examples
-          * مذہبی: [m ə z ɦ ə b iː]
-          * بتا: [b ə t̪ ə n]
-          * نواب: [n ə ʋ ɑː b]
-          * نبرد: [n ə b ə ɾ d̪]
+          * بچپن: [b ə t͡ʃ p ə n]
+          * اخبار: [ə x b ɑː ɾ]
+          * بعض: [b ə ʔ z]
+          * صلیبی: [s ə l iː b iː]
     ```
   - ```{ipa_cell}
     ```
@@ -139,10 +139,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 330
         * Examples
-          * بتا: [b ə t̪ ə n]
-          * رکھتے: [ɾ kʰ t̪ eː]
-          * شرکت: [ʃ ə ɾ k ə ə t̪]
-          * حالت: [ɦ ɑː l ə t̪]
+          * خطیر: [x t̪ iː ɾ]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * ارتقا: [ɪ ɾ t̪ q ɑː]
+          * درجات: [d̪ ɾ d͡ʒ ɑː t̪]
       * t̪ː
         * Occurances: 1
         * Examples
@@ -151,10 +151,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * d̪
         * Occurances: 213
         * Examples
-          * نبرد: [n ə b ə ɾ d̪]
-          * صدام: [s ə d̪ ɑː m]
-          * بعد: [b ə ʔ d̪]
-          * عمدہ: [ə m d̪ ɑː]
+          * دلیل: [d̪ ɪ lː iː l]
+          * درجات: [d̪ ɾ d͡ʒ ɑː t̪]
+          * اقدار: [ə q d̪ ɑː ɾ]
+          * دوست: [d̪ oː s t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -165,18 +165,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʈ
         * Occurances: 81
         * Examples
-          * فلیٹس: [f l eː ʈ s]
-          * کرکٹ: [k ə ɾ k ɪ ʈ]
-          * ٹینس: [ʈ iː n s]
-          * منٹ: [m ɪ n ə ʈ]
+          * آہٹ: [ɑː ɦ ʈ]
+          * اونٹ: [ũː ʈ]
+          * ٹیمیں: [ʈ iː m ẽː]
+          * سیٹ: [s ɛː ʈ]
     * voiced
       * ɖ
         * Occurances: 47
         * Examples
-          * ٹھنڈے: [ʈʰ ɳ ɖ eː]
+          * لیڈر: [l eː ɖ ə ɾ]
+          * ڈیرے: [ɖ eː ɾ eː]
           * ہنڈا: [ɦ ɳ ɖ ɑː]
-          * ڈائی: [ɖ ɑː iː]
-          * کارڈ: [k ɑː ɾ ʊ ɖ]
+          * ڈالے: [ɖ ɑː l ɪ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -185,28 +185,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 247
         * Examples
-          * شرکت: [ʃ ə ɾ k ə ə t̪]
-          * کرکٹ: [k ə ɾ k ɪ ʈ]
-          * کرتے: [k ɾ ɪ t̪ eː]
-          * امکان: [ə m k ɑː n]
+          * ایکس: [iː k s]
+          * کررہے: [k ə ɾ ɾ ɛː]
+          * تکمیل: [t̪ k m iː l]
+          * کودو: [k oː d̪ uː]
     * voiced
       * ɡ
         * Occurances: 102
         * Examples
-          * لگے: [l ə ɡ eː]
-          * گلیاں: [ɡ l ɪ j ɑ̃ː]
-          * الگ: [ə l ə ɡ]
-          * لگتی: [l ə ɡ t̪ iː]
+          * گیس: [ɡ eː s]
+          * لگا: [l ə ɡ ɑː]
+          * گزارو: [ɡ ʊ z ɑː ɾ uː]
+          * گاؤں: [ɡ ɑː õː]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 91
         * Examples
-          * قرار: [q ɾ ɑː ɾ]
-          * اقوام: [ɪ q ʋ ɑː m]
-          * قاصر: [q ɑː s ə ə ɾ]
-          * مقدر: [m ɪ q d̪ ə ɾ]
+          * ارتقا: [ɪ ɾ t̪ q ɑː]
+          * اقدار: [ə q d̪ ɑː ɾ]
+          * مقاصد: [m ə q ɑː s ə d̪]
+          * نقشہ: [n ʊ q ʃ ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -215,10 +215,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʔ
         * Occurances: 33
         * Examples
-          * بعد: [b ə ʔ d̪]
+          * بعض: [b ə ʔ z]
           * معاشی: [m ʊ ʔ ɑː ʃ ɪ iː]
           * معیشت: [m ə ʔ iː ʃ ə t̪]
-          * تعصب: [t̪ ʔ s ʊ b]
+          * باعث: [b ɑː ʔ s eː]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -238,18 +238,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 60
         * Examples
-          * چیزوں: [t͡ʃ iː z ũː]
-          * چوری: [t͡ʃ oː ɾ iː]
           * چیز: [t͡ʃ iː z]
+          * بچپن: [b ə t͡ʃ p ə n]
+          * چیزوں: [t͡ʃ iː z ũː]
           * چاہیے: [t͡ʃ ɑː ɦ iː eː]
     * voiced
       * d͡ʒ
         * Occurances: 123
         * Examples
-          * بجائے: [b ɪ d͡ʒ ɑː eː]
+          * درجات: [d̪ ɾ d͡ʒ ɑː t̪]
+          * جسک: [d͡ʒ ə s k]
+          * سرتاج: [s ə ɾ t̪ ɑː d͡ʒ]
           * حجم: [ɦ ə d͡ʒ m]
-          * جہاں: [d͡ʒ ə ɦ ɑ̃ː]
-          * پنجاب: [p ə n d͡ʒ ɑː b]
     ```
   - ```{ipa_cell}
     ```
@@ -275,28 +275,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 314
         * Examples
-          * فلیٹس: [f l eː ʈ s]
-          * خاص: [x ɑː s]
-          * ٹینس: [ʈ iː n s]
-          * صدام: [s ə d̪ ɑː m]
+          * شخص: [ʃ ə x s]
+          * سنا: [s ə n ɑː]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * ایکس: [iː k s]
     * voiced
       * z
         * Occurances: 146
         * Examples
-          * مذہبی: [m ə z ɦ ə b iː]
-          * چیزوں: [t͡ʃ iː z ũː]
-          * غرض: [ɣ ʊ ɾ z]
-          * زاویے: [z ɑː ʋ j eː]
+          * لازم: [l ɑː z m]
+          * ظاہر: [z ɑː ɦ ɪ ɾ]
+          * چیز: [t͡ʃ iː z]
+          * کلیمز: [k ə l iː m ə z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 85
         * Examples
-          * شمیم: [ʃ m eː m]
+          * شخص: [ʃ ə x s]
           * شرکت: [ʃ ə ɾ k ə ə t̪]
-          * بیش: [b ə eː ʃ]
-          * معاشی: [m ʊ ʔ ɑː ʃ ɪ iː]
+          * شخصی: [ʃ ə x s iː]
+          * سوشل: [s uː ʃ ə l]
     * voiced
       * ʒ
         * Occurances: 1
@@ -323,10 +323,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 94
         * Examples
-          * فلیٹس: [f l eː ʈ s]
-          * مختلف: [m ʊ x t̪ ə l f]
-          * یوسف: [j oː s f]
-          * فیصلہ: [f iː s ə l ɑː]
+          * فیصلے: [f iː s ə l eː]
+          * فنکار: [f ə ŋ k ɑː ɾ]
+          * فرانس: [f ɾ ɑː n s]
+          * وفا: [ʋ ə f ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -360,10 +360,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɦ
         * Occurances: 222
         * Examples
-          * حامی: [ɦ ɑː m iː]
-          * مذہبی: [m ə z ɦ ə b iː]
-          * ہوئی: [ɦ oː iː]
-          * حالت: [ɦ ɑː l ə t̪]
+          * روح: [ɾ ɔː ɦ]
+          * خواہ: [x ɑː ɦ]
+          * ہوئیں: [ɦ oː ẽː]
+          * ظاہر: [z ɑː ɦ ɪ ɾ]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -377,10 +377,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʋ
         * Occurances: 119
         * Examples
-          * نواب: [n ə ʋ ɑː b]
           * پلاو: [p ə l ɑː ʋ]
-          * زاویے: [z ɑː ʋ j eː]
-          * ہوائی: [ɦ ə ʋ ɑː iː]
+          * نواز: [n ə ʋ ɑː z]
+          * وفا: [ʋ ə f ɑː]
+          * زوال: [z ɪ ʋ ɑː l]
     ```
   - ```{ipa_cell}
     ```
@@ -395,10 +395,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 127
         * Examples
-          * یوم: [j ə uː m]
-          * زاویے: [z ɑː ʋ j eː]
-          * بتایا: [b ə t̪ ɑː j ɑː]
-          * کيميا: [k j ə m ɪ j ɑː]
+          * تیار: [t̪ j ɑː ɾ]
+          * کیا: [k j ɑː]
+          * ویمنز: [ʋ j m ə n z]
+          * ویلتھ: [ʋ j l t̪ʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -420,10 +420,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 531
         * Examples
-          * روئے: [ɾ oː eː]
-          * رکھتے: [ɾ kʰ t̪ eː]
-          * نبرد: [n ə b ə ɾ d̪]
-          * شرکت: [ʃ ə ɾ k ə ə t̪]
+          * خطیر: [x t̪ iː ɾ]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * ارتقا: [ɪ ɾ t̪ q ɑː]
+          * درجات: [d̪ ɾ d͡ʒ ɑː t̪]
       * ˈɾ
         * Occurances: 1
         * Examples
@@ -436,10 +436,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɽ
         * Occurances: 21
         * Examples
+          * کھڑی: [kʰ ə ɽ iː]
+          * چوپڑا: [t͡ʃ uː p ɽ ɑː]
           * گاڑی: [ɡ ɑː ɽ iː]
-          * پڑی: [p ɽ iː]
-          * سڑک: [s ə ɽ ə k]
-          * پڑوس: [p ɽ uː s]
+          * پڑتا: [p ɽ t̪ ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -467,10 +467,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɽʱ
         * Occurances: 6
         * Examples
-          * بڑھے: [b ə ɽʱ eː]
+          * چڑھتے: [t͡ʃ ə ɽʱ t̪ eː]
           * بڑھتے: [b ə ɽʱ t̪ eː]
           * بڑھتا: [b ə ɽʱ t̪ ɑː]
-          * بڑھ: [b ə ɽʱ]
+          * بڑھے: [b ə ɽʱ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -527,10 +527,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 307
         * Examples
-          * فلیٹس: [f l eː ʈ s]
-          * لگے: [l ə ɡ eː]
-          * حالت: [ɦ ɑː l ə t̪]
-          * پلاو: [p ə l ɑː ʋ]
+          * دلیل: [d̪ ɪ lː iː l]
+          * لازم: [l ɑː z m]
+          * تکمیل: [t̪ k m iː l]
+          * فیصلے: [f iː s ə l eː]
       * lː
         * Occurances: 1
         * Examples
@@ -580,10 +580,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 420
         * Examples
-          * حامی: [ɦ ɑː m iː]
-          * مذہبی: [m ə z ɦ ə b iː]
-          * ہوئی: [ɦ oː iː]
-          * چیزوں: [t͡ʃ iː z ũː]
+          * دلیل: [d̪ ɪ lː iː l]
+          * خطیر: [x t̪ iː ɾ]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * ایکس: [iː k s]
     ```
   - ```{ipa_cell}
     ```
@@ -596,10 +596,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * uː
         * Occurances: 108
         * Examples
-          * یوم: [j ə uː m]
-          * ریلوے: [ɾ eː l uː eː]
-          * پھول: [pʰ uː l]
-          * کرو: [k ə ɾ uː]
+          * کودو: [k oː d̪ uː]
+          * گزارو: [ɡ ʊ z ɑː ɾ uː]
+          * سوشل: [s uː ʃ ə l]
+          * پورے: [p uː ɾ eː]
     ```
 * -
   - ```{ipa_cell}
@@ -609,10 +609,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 256
         * Examples
-          * کرکٹ: [k ə ɾ k ɪ ʈ]
-          * کرتے: [k ɾ ɪ t̪ eː]
-          * کيميا: [k j ə m ɪ j ɑː]
-          * نابلد: [n ɑː b l ɪ d̪]
+          * دلیل: [d̪ ɪ lː iː l]
+          * ارتقا: [ɪ ɾ t̪ q ɑː]
+          * ظاہر: [z ɑː ɦ ɪ ɾ]
+          * عصری: [ɪ s ɾ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -621,10 +621,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 117
         * Examples
-          * اپنے: [ʊ p n eː]
-          * غرض: [ɣ ʊ ɾ z]
-          * مختلف: [m ʊ x t̪ ə l f]
-          * صبح: [s ʊ b ɑː]
+          * گزارو: [ɡ ʊ z ɑː ɾ uː]
+          * مسلم: [m ʊ s ə l m]
+          * ادیب: [ʊ d̪ iː b]
+          * کچھ: [k ʊ t͡ʃʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -634,8 +634,8 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 6
         * Examples
-          * اکشے: [ɑː k e ʃ eː]
           * فاتح: [f ɪ t̪ː e ɦ]
+          * اکشے: [ɑː k e ʃ eː]
           * انتہا: [ɪ n t̪ e ɦ ɑː]
       * eʱ
         * Occurances: 2
@@ -644,10 +644,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 280
         * Examples
-          * فلیٹس: [f l eː ʈ s]
-          * روئے: [ɾ oː eː]
-          * شمیم: [ʃ m eː m]
-          * رکھتے: [ɾ kʰ t̪ eː]
+          * فیصلے: [f iː s ə l eː]
+          * گیس: [ɡ eː s]
+          * لیڈر: [l eː ɖ ə ɾ]
+          * ڈیرے: [ɖ eː ɾ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -660,16 +660,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 4
         * Examples
+          * معطل: [m o ɪ t̪ ə l]
           * معمہ: [m o ɪ m ɑː]
           * معرفت: [m o ɪ ɾ ɪ f ə t̪]
-          * معطل: [m o ɪ t̪ ə l]
       * oː
         * Occurances: 86
         * Examples
-          * ہوئی: [ɦ oː iː]
-          * روئے: [ɾ oː eː]
+          * دوست: [d̪ oː s t̪]
           * ہوئیں: [ɦ oː ẽː]
-          * چوری: [t͡ʃ oː ɾ iː]
+          * کودو: [k oː d̪ uː]
+          * ہوکر: [ɦ oː k ɾ]
     ```
 * -
   - ```{ipa_cell}
@@ -681,10 +681,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 934
         * Examples
-          * مذہبی: [m ə z ɦ ə b iː]
-          * بتا: [b ə t̪ ə n]
-          * یوم: [j ə uː m]
-          * نواب: [n ə ʋ ɑː b]
+          * شخص: [ʃ ə x s]
+          * سنا: [s ə n ɑː]
+          * پرستی: [p ə ɾ ə s t̪ iː]
+          * کررہے: [k ə ɾ ɾ ɛː]
       * ə̯
         * Occurances: 2
         * Examples
@@ -705,10 +705,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛː
         * Occurances: 35
         * Examples
+          * کررہے: [k ə ɾ ɾ ɛː]
           * پیکار: [p ɛː k ɑː ɾ]
-          * رہے: [ɾ ɛː]
-          * ضائع: [z ɑː ɪ ɛː n]
-          * کےنام: [k ɛː n ɑː m]
+          * سیٹ: [s ɛː ʈ]
+          * خیر: [x ɛː ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -721,10 +721,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔː
         * Occurances: 44
         * Examples
+          * روح: [ɾ ɔː ɦ]
+          * فوجی: [f ɔː d͡ʒ iː]
           * موجود: [m ɔː d͡ʒ uː d̪ᵊ]
-          * موقع: [m ɔː q oː]
-          * کھولا: [kʰ ə ɔː l ɑː]
-          * نوحہ: [n ɔː ɦ ɑː]
+          * محفوظ: [m eː ɦ f ɔː z]
     ```
 * -
   - ```{ipa_cell}
@@ -756,10 +756,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑː
         * Occurances: 876
         * Examples
-          * حامی: [ɦ ɑː m iː]
-          * خاص: [x ɑː s]
-          * نواب: [n ə ʋ ɑː b]
-          * پائے: [p ɑː eː]
+          * سنا: [s ə n ɑː]
+          * ارتقا: [ɪ ɾ t̪ q ɑː]
+          * درجات: [d̪ ɾ d͡ʒ ɑː t̪]
+          * لازم: [l ɑː z m]
     ```
 ``````
 
@@ -796,9 +796,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 39
         * Examples
           * چیزوں: [t͡ʃ iː z ũː]
-          * انہوں: [ɪ n ɦ ũː]
-          * ہوں: [ɦ ũː]
-          * جگہوں: [d͡ʒ ʊ ɡ ɦ ũː]
+          * اونٹ: [ũː ʈ]
+          * کروں: [k ə ɾ ũː]
+          * دونوں: [d̪ uː n ũː]
     ```
 * -
   - ```{ipa_cell}
@@ -822,9 +822,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 33
         * Examples
           * ہوئیں: [ɦ oː ẽː]
-          * ہیں: [ɦ ẽː]
-          * کیں: [k ẽː]
           * انہیں: [ɪ n ɦ ẽː]
+          * ٹیمیں: [ʈ iː m ẽː]
+          * جنگیں: [d͡ʒ ə ŋ ɡ ẽː]
     ```
   - ```{ipa_cell}
     ```
@@ -837,10 +837,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * õː
         * Occurances: 16
         * Examples
-          * یوں: [ɪ j õː]
+          * گاؤں: [ɡ ɑː õː]
           * پہنچ: [p ə ɦ õː t͡ʃ]
-          * جھونک: [d͡ʒʱ õː k]
-          * پہنچی: [p ə ɦ õː t͡ʃ iː]
+          * صدیوں: [s ə d̪ ɪ j õː]
+          * یوں: [ɪ j õː]
     ```
 * -
   - ```{ipa_cell}
@@ -899,8 +899,8 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 25
         * Examples
           * گلیاں: [ɡ l ɪ j ɑ̃ː]
-          * ناں: [n ə ɑ̃ː]
-          * کہاں: [k ə ɦ ɑ̃ː]
-          * جہاں: [d͡ʒ ə ɦ ɑ̃ː]
+          * فلاں: [f ə l ɑ̃ː]
+          * خزاں: [x ə z ɑ̃ː]
+          * مانے: [m ɑ̃ː eː]
     ```
 ``````

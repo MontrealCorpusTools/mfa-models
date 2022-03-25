@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 7728
         * Examples
-          * norm: [n ɔ r m]
-          * man!: [m ɑ n]
-          * motto: [m ɔ t t oː]
-          * kalm: [k ɑ l m]
+          * meel: [m eː l]
+          * mocht: [m ɔ x t]
+          * ruime: [r œ ɥ ɪ m eː]
+          * kwam,: [k ʋ ɑ m]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 27213
         * Examples
-          * norm: [n ɔ r m]
-          * één,: [ɛ ɛ n]
-          * lyon.: [l j ɔ n]
-          * wijn.: [ʋ ɛ j n]
+          * tante: [t ɑ n t eː]
+          * zijn!: [z ɛ j n]
+          * falen: [f aː l ɛ n]
+          * baren: [b aː r ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -79,10 +79,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 2218
         * Examples
+          * ing.: [ɪ ŋ]
           * enge: [ɛ ŋ eː]
-          * bange: [b ɑ ŋ eː]
-          * ging!: [ɣ ɪ ŋ]
-          * bang.: [b ɑ ŋ]
+          * bang,: [b ɑ ŋ]
+          * ngo's: [ŋ ɔ s]
     ```
   - ```{ipa_cell}
     ```
@@ -92,18 +92,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 7965
         * Examples
-          * piste: [p ɪ s t eː]
-          * rups.: [r ʏ p s]
-          * april: [ɑ p r ɪ l]
-          * post,: [p ɔ s t]
+          * heup.: [h øː p]
+          * sp.a: [s p aː]
+          * sloop: [s l oː p]
+          * vanop: [v aː n ɔ p]
     * voiced
       * b
         * Occurances: 5207
         * Examples
+          * baren: [b aː r ɛ n]
           * bene,: [b eː n ɛ]
-          * boden: [b oː d ɛ n]
-          * bevel: [b eː v ɛ l]
-          * baan.: [b aː n]
+          * begaf: [b eː ɣ ɑ f]
+          * bank.: [b ɑ n k]
     ```
   - ```{ipa_cell}
     ```
@@ -112,18 +112,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 25922
         * Examples
-          * kuit: [k œ ɥ t]
-          * feta: [f eː t aː]
-          * geldt: [ɣ ɛ l t t]
-          * piste: [p ɪ s t eː]
+          * tante: [t ɑ n t eː]
+          * mocht: [m ɔ x t]
+          * lente: [l ɛ n t eː]
+          * sinds: [s ɪ n t s]
     * voiced
       * d
         * Occurances: 10541
         * Examples
-          * oude: [ɑ w ʏ d eː]
-          * boden: [b oː d ɛ n]
           * geld?: [ɣ ɛ l d]
-          * raden: [r aː d ɛ n]
+          * dat.: [d ɑ t]
+          * dat: [d ɑ t]
+          * hand.: [h ɑ n d]
     ```
   - ```{ipa_cell}
     ```
@@ -132,20 +132,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 2775
         * Examples
-          * corps: [c ɔ r p s]
-          * clubs: [c l ʏ p s]
-          * cd&v: [c d v]
-          * marco: [m ɑ r c oː]
+          * claim: [c l ɑ j m]
+          * acne.: [ɑ c n ɛ]
+          * exact: [ɛ k s ɑ c t]
+          * crème: [c r ɛ m eː]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 8693
         * Examples
-          * kuit: [k œ ɥ t]
-          * klonk: [k l ɔ n k]
-          * kreeg: [k r eː x]
-          * roken: [r oː k ɛ n]
+          * gok: [ɣ ɔ k]
+          * ken: [k ɛ n]
+          * kwijt: [k ʋ ɛ j t]
+          * kwam,: [k ʋ ɑ m]
     ```
   - ```{ipa_cell}
     ```
@@ -159,28 +159,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 18602
         * Examples
-          * rasse: [r ɑ s s eː]
-          * piste: [p ɪ s t eː]
-          * iris.: [iː r ɪ s]
-          * rups.: [r ʏ p s]
+          * zoals: [z ɔ ɑ l s]
+          * reis.: [r ɛ j s]
+          * heuse: [h øː ʏ s eː]
+          * sinds: [s ɪ n t s]
     * voiced
       * z
         * Occurances: 2648
         * Examples
-          * zat,: [z ɑ t]
-          * zich?: [z ɪ x]
-          * pauze: [p a w ʏ z eː]
-          * zak: [z ɑ k]
+          * zoals: [z ɔ ɑ l s]
+          * zijn!: [z ɛ j n]
+          * ziel: [z iː l]
+          * zelf: [z ɛ l f]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 169
         * Examples
-          * sushi: [s ʏ ʃ iː]
-          * lesje: [l ɛ ʃ eː]
+          * jasje: [j ɑ ʃ eː]
           * shock: [ʃ ɔ k]
-          * sjaal: [ʃ aː l]
+          * lesje: [l ɛ ʃ eː]
+          * show: [ʃ ɔ ʋ]
     ```
   - ```{ipa_cell}
     ```
@@ -196,18 +196,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 3253
         * Examples
-          * feta: [f eː t aː]
-          * flauw: [f l a w]
-          * kaft.: [k ɑ f t]
-          * groef: [x r uː f]
+          * falen: [f aː l ɛ n]
+          * zelf: [z ɛ l f]
+          * zelf:: [z ɛ l f]
+          * free: [f r eː eː]
     * voiced
       * v
         * Occurances: 7695
         * Examples
-          * bevel: [b eː v ɛ l]
-          * ver: [v ɛ r]
-          * veel,: [v eː l]
-          * voert: [v uː r t]
+          * viel: [v iː l]
+          * veld: [v ɛ l t]
+          * van?: [v ɑ n]
+          * vanop: [v aː n ɔ p]
     ```
   - ```{ipa_cell}
     ```
@@ -222,10 +222,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 2824
         * Examples
-          * hels: [h ɛ l s]
-          * hik.: [h ɪ k]
-          * had?: [h ɑ d]
-          * huid: [h œ ɥ t]
+          * heup.: [h øː p]
+          * oh,: [ɔ h]
+          * heuse: [h øː ʏ s eː]
+          * hét: [h ɛ t]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -233,20 +233,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1204
         * Examples
-          * oude: [ɑ w ʏ d eː]
-          * flauw: [f l a w]
-          * pauze: [p a w ʏ z eː]
-          * eeuw.: [eː w]
+          * goud: [ɣ ɑ w t]
+          * nou,: [n ɑ w]
+          * lauw.: [l a w]
+          * jou?: [j ɑ w]
     ```
   - ```{ipa_cell}
     * other
       * ʋ
         * Occurances: 3679
         * Examples
-          * wijn.: [ʋ ɛ j n]
-          * wiet: [ʋ iː t]
-          * war.: [ʋ ɑ r]
-          * wiske: [ʋ ɪ s k eː]
+          * kwijt: [k ʋ ɛ j t]
+          * kwam,: [k ʋ ɑ m]
+          * we.: [ʋ ɛ]
+          * bmw,: [p m ʋ]
     ```
   - ```{ipa_cell}
     ```
@@ -257,17 +257,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 7576
         * Examples
-          * lyon.: [l j ɔ n]
-          * wijn.: [ʋ ɛ j n]
-          * train: [t r ɑ j n]
-          * ooit: [oː j t]
+          * zijn!: [z ɛ j n]
+          * reis.: [r ɛ j s]
+          * kwijt: [k ʋ ɛ j t]
+          * jong: [j ɔ n x]
       * ɥ
         * Occurances: 1513
         * Examples
-          * kuit: [k œ ɥ t]
-          * huid: [h œ ɥ t]
-          * duikt: [d œ ɥ k t]
-          * ruis: [r œ ɥ s]
+          * ruime: [r œ ɥ ɪ m eː]
+          * duits: [d œ ɥ t s]
+          * tuig: [t œ ɥ x]
+          * buis: [b œ ɥ s]
     ```
   - ```{ipa_cell}
     ```
@@ -283,10 +283,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 25183
         * Examples
-          * norm: [n ɔ r m]
-          * rasse: [r ɑ s s eː]
-          * iris.: [iː r ɪ s]
-          * kreeg: [k r eː x]
+          * reis.: [r ɛ j s]
+          * baren: [b aː r ɛ n]
+          * free: [f r eː eː]
+          * naar.: [n aː r]
     ```
   - ```{ipa_cell}
     ```
@@ -306,10 +306,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 12771
         * Examples
-          * lyon.: [l j ɔ n]
-          * geldt: [ɣ ɛ l t t]
-          * chili: [x iː l iː]
-          * klonk: [k l ɔ n k]
+          * meel: [m eː l]
+          * zoals: [z ɔ ɑ l s]
+          * ziel: [z iː l]
+          * viel: [v iː l]
     ```
   - ```{ipa_cell}
     ```
@@ -347,25 +347,25 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 7769
         * Examples
-          * chili: [x iː l iː]
-          * iris.: [iː r ɪ s]
-          * wiet: [ʋ iː t]
-          * drie:: [t r iː]
+          * ziel: [z iː l]
+          * viel: [v iː l]
+          * bier.: [b iː r]
+          * knoei: [k n u j iː]
     * rounded
       * y
         * Occurances: 150
         * Examples
-          * ruw: [r y w]
-          * nauwe: [n a w y w eː]
+          * rauwe: [r a w y w eː]
           * duwde: [d y w d eː]
-          * ruw.: [r y w]
+          * nauwe: [n a w y w eː]
+          * duwt: [d y w t]
       * yː
         * Occurances: 1440
         * Examples
-          * buur: [b yː r]
-          * uber: [yː b ɛ r]
+          * unie.: [yː n iː]
           * humor: [h yː m ɔ r]
-          * duur: [d yː r]
+          * buurt: [b yː r t]
+          * juli: [j yː l iː]
     ```
   - ```{ipa_cell}
     ```
@@ -378,17 +378,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 152
         * Examples
+          * knoei: [k n u j iː]
           * groei: [x r u j iː]
           * doei!: [d u j]
           * woei: [ʋ u j iː]
-          * bloei: [p l u j iː]
       * uː
         * Occurances: 2009
         * Examples
-          * boek: [b uː k]
-          * koele: [k uː ɛ l eː]
-          * groef: [x r uː f]
-          * voert: [v uː r t]
+          * goed,: [ɣ uː d]
+          * koek: [k uː k]
+          * doel!: [d uː l]
+          * doek: [d uː k]
     ```
 * -
   - ```{ipa_cell}
@@ -398,18 +398,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 11446
         * Examples
-          * piste: [p ɪ s t eː]
-          * iris.: [iː r ɪ s]
-          * april: [ɑ p r ɪ l]
-          * hik.: [h ɪ k]
+          * sinds: [s ɪ n t s]
+          * fiat.: [f ɪ ɑ t]
+          * ruime: [r œ ɥ ɪ m eː]
+          * lint: [l ɪ n t]
     * rounded
       * ʏ
         * Occurances: 3184
         * Examples
-          * oude: [ɑ w ʏ d eː]
-          * rups.: [r ʏ p s]
-          * durft: [d ʏ r f t]
-          * pauze: [p a w ʏ z eː]
+          * heuse: [h øː ʏ s eː]
+          * kunt,: [k ʏ n t]
+          * pus: [p ʏ s]
+          * duale: [d ʏ aː l eː]
     ```
   - ```{ipa_cell}
     ```
@@ -423,18 +423,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 17824
         * Examples
-          * rasse: [r ɑ s s eː]
-          * feta: [f eː t aː]
-          * oude: [ɑ w ʏ d eː]
-          * piste: [p ɪ s t eː]
+          * meel: [m eː l]
+          * tante: [t ɑ n t eː]
+          * free: [f r eː eː]
+          * lente: [l ɛ n t eː]
     * rounded
       * øː
         * Occurances: 553
         * Examples
-          * keus.: [k øː s]
-          * euro!: [øː ʏ r ɔ]
-          * leuk.: [l øː k]
-          * keur: [k øː r]
+          * heup.: [h øː p]
+          * heuse: [h øː ʏ s eː]
+          * leun: [l øː n]
+          * reus: [r øː s]
     ```
   - ```{ipa_cell}
     * rounded
@@ -452,10 +452,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * oː
         * Occurances: 6564
         * Examples
-          * boden: [b oː d ɛ n]
-          * roken: [r oː k ɛ n]
-          * boor: [b oː r]
-          * noors: [n oː r s]
+          * sloop: [s l oː p]
+          * kopen: [k oː p ɛ n]
+          * koren: [k oː r ɛ n]
+          * sloot: [s l oː t]
     ```
 * -
   - ```{ipa_cell}
@@ -474,18 +474,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 36397
         * Examples
-          * één,: [ɛ ɛ n]
-          * geldt: [ɣ ɛ l t t]
-          * wijn.: [ʋ ɛ j n]
-          * bene,: [b eː n ɛ]
+          * zijn!: [z ɛ j n]
+          * geld?: [ɣ ɛ l d]
+          * falen: [f aː l ɛ n]
+          * zelf: [z ɛ l f]
     * rounded
       * œ
         * Occurances: 1513
         * Examples
-          * kuit: [k œ ɥ t]
-          * huid: [h œ ɥ t]
-          * duikt: [d œ ɥ k t]
-          * ruis: [r œ ɥ s]
+          * ruime: [r œ ɥ ɪ m eː]
+          * duits: [d œ ɥ t s]
+          * tuig: [t œ ɥ x]
+          * buis: [b œ ɥ s]
     ```
   - ```{ipa_cell}
     * unrounded
@@ -507,10 +507,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 7345
         * Examples
-          * norm: [n ɔ r m]
-          * lyon.: [l j ɔ n]
-          * klonk: [k l ɔ n k]
-          * lotte: [l ɔ t t eː]
+          * zoals: [z ɔ ɑ l s]
+          * mocht: [m ɔ x t]
+          * oh,: [ɔ h]
+          * gok: [ɣ ɔ k]
     ```
 * -
   - ```{ipa_cell}
@@ -533,17 +533,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 311
         * Examples
-          * flauw: [f l a w]
-          * pauze: [p a w ʏ z eː]
-          * auto,: [a w ʏ t ɔ]
-          * audi: [a w ʏ d iː]
+          * lauw.: [l a w]
+          * auw: [a w]
+          * rauwe: [r a w y w eː]
+          * paul: [p a w l]
       * aː
         * Occurances: 9140
         * Examples
-          * feta: [f eː t aː]
-          * baan.: [b aː n]
-          * sla: [s l aː]
-          * baba: [b aː b aː]
+          * falen: [f aː l ɛ n]
+          * baren: [b aː r ɛ n]
+          * gaat?: [ɣ aː t]
+          * sp.a: [s p aː]
     ```
   - ```{ipa_cell}
     ```
@@ -552,9 +552,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 9262
         * Examples
-          * rasse: [r ɑ s s eː]
-          * oude: [ɑ w ʏ d eː]
-          * zat,: [z ɑ t]
-          * train: [t r ɑ j n]
+          * tante: [t ɑ n t eː]
+          * zoals: [z ɔ ɑ l s]
+          * van?: [v ɑ n]
+          * fiat.: [f ɪ ɑ t]
     ```
 ``````

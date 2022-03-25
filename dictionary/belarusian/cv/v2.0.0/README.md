@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
 - **Number of words:** `115,937`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`bʲ`, {ipa_inline}`d`, {ipa_inline}`dz`, {ipa_inline}`dzʲ`, {ipa_inline}`dzʲː`, {ipa_inline}`dʒ`, {ipa_inline}`f`, {ipa_inline}`fʲ`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʲ`, {ipa_inline}`l`, {ipa_inline}`lʲ`, {ipa_inline}`lʲː`, {ipa_inline}`m`, {ipa_inline}`mʲ`, {ipa_inline}`n`, {ipa_inline}`nʲ`, {ipa_inline}`nʲː`, {ipa_inline}`nː`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`pʲ`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`sʲ`, {ipa_inline}`sʲː`, {ipa_inline}`sː`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tsʲ`, {ipa_inline}`tsʲː`, {ipa_inline}`tsː`, {ipa_inline}`tʃ`, {ipa_inline}`tʃː`, {ipa_inline}`tː`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`vʲ`, {ipa_inline}`x`, {ipa_inline}`xʲ`, {ipa_inline}`z`, {ipa_inline}`zʲ`, {ipa_inline}`zʲː`, {ipa_inline}`zː`, {ipa_inline}`ɛ`, {ipa_inline}`ɣ`, {ipa_inline}`ɣʲ`, {ipa_inline}`ʃ`, {ipa_inline}`ʃː`, {ipa_inline}`ʒ`, {ipa_inline}`ʒː`
+- **Phones:** `a b bʲ d dz dzʲ dzʲː dʒ f fʲ i j k kʲ l lʲ lʲː m mʲ n nʲ nʲː nː o p pʲ r s sʲ sʲː sː t ts tsʲ tsʲː tsː tʃ tʃː tː u v vʲ x xʲ z zʲ zʲː zː ɛ ɣ ɣʲ ʃ ʃː ʒ ʒː`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

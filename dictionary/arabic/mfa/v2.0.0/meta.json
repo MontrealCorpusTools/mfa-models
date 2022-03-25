@@ -82,7 +82,7 @@
         "\u03c7\u02d0"
     ],
     "word_count": 10753,
-    "train_date": "2022-03-22",
+    "train_date": "2022-03-24",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_arabic_mfa_dictionary_2022,\n\tauthor={Shmueli, Natalia and McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Arabic MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Arabic/Arabic MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

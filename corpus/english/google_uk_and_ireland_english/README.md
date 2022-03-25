@@ -8,11 +8,11 @@
 - **Source:** [Google UK and Ireland English](https://openslr.org/83/)
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialects:** [British English](https://en.wikipedia.org/wiki/British_English)
-- **Number of hours:** `0.00`
-- **Number of utterances:** `0`
-- **Number of speakers:** `0`
-  - **Female speakers:** `0`
-  - **Male speakers:** `0`
+- **Number of hours:** `31.29`
+- **Number of utterances:** `17,877`
+- **Number of speakers:** `120`
+  - **Female speakers:** `49`
+  - **Male speakers:** `71`
   - **Unknown speakers:** `0`
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 

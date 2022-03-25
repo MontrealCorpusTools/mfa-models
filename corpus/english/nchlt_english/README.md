@@ -8,12 +8,12 @@
 - **Source:** [NCHLT English](https://repo.sadilar.org/handle/20.500.12185/274)
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialects:** N/A
-- **Number of hours:** `0.00`
-- **Number of utterances:** `0`
-- **Number of speakers:** `0`
+- **Number of hours:** `56.43`
+- **Number of utterances:** `77,412`
+- **Number of speakers:** `210`
   - **Female speakers:** `0`
   - **Male speakers:** `0`
-  - **Unknown speakers:** `0`
+  - **Unknown speakers:** `210`
 - **License:** [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 - **Citation:**

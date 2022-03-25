@@ -16,8 +16,8 @@ Jump to section:
 - **Language:** [Swahili](https://en.wikipedia.org/wiki/Swahili_language)
 - **Dialect:** N/A
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#swahili)
-- **Number of words:** `34,374`
-- **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`ð`, {ipa_inline}`ŋ`, {ipa_inline}`ɑ`, {ipa_inline}`ɑː`, {ipa_inline}`ɓ`, {ipa_inline}`ɔ`, {ipa_inline}`ɔː`, {ipa_inline}`ɗ`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɠ`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɱ`, {ipa_inline}`ɲ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʄ`, {ipa_inline}`θ`
+- **Number of words:** `34,373`
+- **Phones:** `b d dʒ f h i iː j k l m n p s t tʃ u uː v w x z ð ŋ ɑ ɑː ɓ ɔ ɔː ɗ ɛ ɛː ɠ ɡ ɣ ɱ ɲ ɾ ʃ ʄ θ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/swahili/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

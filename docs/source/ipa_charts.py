@@ -273,7 +273,45 @@ class IpaFontAwesome(FontawesomeRole):
         self.set_source_info(node)
         return [node], []
 
+
+def xref(
+    typ: str,
+    rawtext: str,
+    text: str,
+    lineno: int,
+    inliner: Inliner,
+    options: dict = None,
+    content: List[str] = None,
+) -> Tuple[List[Node], List[system_message]]:
+
+    title = target = text
+    # look if explicit title and target are given with `foo <bar>` syntax
+    brace = text.find("<")
+    if brace != -1:
+        m = caption_ref_re.match(text)
+        if m:
+            target = m.group(2)
+            title = m.group(1)
+        else:
+            # fallback: everything after '<' is the target
+            target = text[brace + 1 :]
+            title = text[:brace]
+
+    link = xref.links[target]
+
+    if brace != -1:
+        pnode = nodes.reference(target, title, refuri=link[1])
+    else:
+        pnode = nodes.reference(target, link[0], refuri=link[1])
+
+    return [pnode], []
+
+
+def get_refs(app):
+    xref.links = app.config.xref_links
+
 def setup(app: Sphinx) -> Dict[str, Any]:
+    app.add_config_value("xref_links", {}, "env")
     app.add_node(IpaPhoneCheck, html=(checkbox_html_visit, html_depart))
     app.add_node(IpaPhoneText, html=(checkbox_label_html_visit, html_depart))
     app.add_node(CircleIcon, html=(html_visit, html_depart))
@@ -286,4 +324,6 @@ def setup(app: Sphinx) -> Dict[str, Any]:
     app.add_node(IpaElement, html=(html_visit, html_depart))
     app.add_directive("ipa_cell", IpaCell)
     app.add_role("ipa_icon", IpaFontAwesome())
+    app.add_role("xref", xref)
+    app.connect("builder-inited", get_refs)
     return {"version": sphinx.__display_version__, "parallel_read_safe": True}

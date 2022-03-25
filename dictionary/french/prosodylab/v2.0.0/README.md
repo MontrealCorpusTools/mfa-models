@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [PROSODYLAB](https://github.com/prosodylab/prosodylab.dictionaries)
 - **Number of words:** `125,373`
-- **Phones:** {ipa_inline}`@`, {ipa_inline}`E`, {ipa_inline}`G`, {ipa_inline}`N`, {ipa_inline}`O`, {ipa_inline}`R`, {ipa_inline}`S`, {ipa_inline}`Z`, {ipa_inline}`^`, {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`cinq`, {ipa_inline}`d`, {ipa_inline}`deux`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`huit`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`neuf`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`to`, {ipa_inline}`u`, {ipa_inline}`un`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y`, {ipa_inline}`z`
+- **Phones:** `@ E G N O R S Z ^ a b cinq d deux e f g huit i j k l m n neuf o p s t to u un v w x y z`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/french/PROSODYLAB/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

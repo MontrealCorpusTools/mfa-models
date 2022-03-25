@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** [Peninsular Spanish](https://en.wikipedia.org/wiki/Peninsular_Spanish)
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#spanish)
 - **Number of words:** `82,355`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`d̪`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`tʃ`, {ipa_inline}`t̪`, {ipa_inline}`u`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`ç`, {ipa_inline}`ð`, {ipa_inline}`ŋ`, {ipa_inline}`ɟ`, {ipa_inline}`ɟʝ`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɲ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʎ`, {ipa_inline}`ʝ`, {ipa_inline}`β`, {ipa_inline}`θ`
+- **Phones:** `a b c d̪ e f i j k l m n o p r s tʃ t̪ u w x ç ð ŋ ɟ ɟʝ ɡ ɣ ɲ ɾ ʃ ʎ ʝ β θ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/spanish/spain_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

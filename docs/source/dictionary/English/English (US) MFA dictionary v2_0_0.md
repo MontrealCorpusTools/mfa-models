@@ -54,34 +54,34 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 17463
         * Examples
-          * yama: [j ɑ m ə]
-          * matt: [m æ t]
-          * maxi: [m æ k s i]
-          * glim: [ɟ ʎ ɪ m]
+          * makah: [m ə kʰ ɑː]
+          * denim: [d ɛ ɲ ɪ m]
+          * amahs: [ɑː m ə z]
+          * among: [ə m ɐ ŋ]
       * mʲ
         * Occurances: 979
         * Examples
-          * mummy: [m ɐ mʲ i]
-          * muted: [mʲ ʉː ɾ ɪ d]
-          * meme: [mʲ iː m]
-          * jimmy: [dʒ ɪ mʲ i]
+          * loamy: [l ow mʲ i]
+          * mommy: [m ɑ mʲ i]
+          * umami: [ʉ m ɑː mʲ i]
+          * tummy: [tʰ ɐ mʲ i]
       * m̩
         * Occurances: 1511
         * Examples
-          * arum: [ɛ ɹ m̩]
-          * yes'm: [j ɛ s m̩]
-          * madam: [m æ ɾ m̩]
-          * mhm: [m̩ h m̩]
+          * piem: [pʰ aj m̩]
+          * hum: [h m̩]
+          * einem: [aj n m̩]
+          * hmm: [h m̩]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 1090
         * Examples
-          * info: [ɪ ɱ f ow]
-          * senvy: [s ɛ ɱ vʲ i]
-          * lymph: [ʎ ɪ ɱ f]
-          * anvil: [æ ɱ v ɪ ɫ]
+          * envoy: [ɑ ɱ v ɔj]
+          * bamf: [b æ ɱ f]
+          * unfed: [ɐ ɱ f ɛ d]
+          * unfit: [ɐ ɱ f ɪ t]
     ```
   - ```{ipa_cell}
     ```
@@ -90,17 +90,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 29440
         * Examples
-          * turnt: [tʰ ɝ n t]
-          * ronde: [ɹ ɑ n d]
-          * ans: [æ n s]
-          * into: [ɪ n tʰ ʉ]
+          * rend: [ɹ ɛ n d]
+          * inner: [ɪ n ɚ]
+          * aint: [ej n t]
+          * olsen: [ow l s ə n]
       * n̩
         * Occurances: 3799
         * Examples
-          * ovens: [ɐ v n̩ z]
-          * rican: [ɹ i k n̩]
-          * aiken: [aj k n̩]
-          * orion: [ɒ ɹ aj n̩]
+          * avant: [æ v n̩ t]
+          * abrin: [ej b ɹ n̩]
+          * aaron: [ɛ ɹ n̩]
+          * oaken: [ow k n̩]
     ```
   - ```{ipa_cell}
     ```
@@ -109,20 +109,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 7059
         * Examples
-          * briny: [b ɹ aj ɲ i]
-          * gnat: [ɲ æ t]
-          * hunny: [h ɐ ɲ i]
-          * piny: [pʰ ɪ ɲ i]
+          * denim: [d ɛ ɲ ɪ m]
+          * anya: [æ ɲ ə]
+          * kanye: [kʰ ɑ ɲ ej]
+          * veiny: [v ej ɲ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 7253
         * Examples
-          * slunk: [s l ɐ ŋ k]
-          * swang: [s w æ ŋ]
-          * yank: [j æ ŋ k]
-          * linq: [ʎ ɪ ŋ k]
+          * among: [ə m ɐ ŋ]
+          * leng: [l ɛ ŋ]
+          * zhang: [dʒ æ ŋ]
+          * thang: [θ æ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -132,18 +132,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 10065
         * Examples
-          * wasps: [w ɑ s p s]
-          * hyper: [h aj p ɚ]
-          * spies: [s p aj z]
-          * spry: [s p ɹ aj]
+          * trap: [t ɹ æ p]
+          * cupid: [cʰ ʉː p ɪ d]
+          * apse: [æ p s]
+          * stipe: [s t aj p]
     * voiced
       * b
         * Occurances: 13001
         * Examples
-          * bully: [b ʊ ʎ i]
-          * bads: [b æ d z]
-          * bled: [b l ɛ d]
-          * vocab: [v ow k æ b]
+          * baby: [b ej bʲ i]
+          * rubai: [ɹ ʉ b aj]
+          * bocal: [b ow cʰ æ ɫ]
+          * bert: [b ɝ t]
     ```
   - ```{ipa_cell}
     ```
@@ -154,18 +154,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 23170
         * Examples
-          * turnt: [tʰ ɝ n t]
-          * matt: [m æ t]
-          * busto: [b ɐ s t ow]
-          * gemot: [ɟ ɪ m ow t]
+          * irate: [aj ɹ ej t]
+          * fixt: [f ɪ k s t]
+          * artsy: [ɑ ɹ t s i]
+          * alt: [ɒ ɫ t]
     * voiced
       * d
         * Occurances: 18747
         * Examples
-          * ronde: [ɹ ɑ n d]
-          * bads: [b æ d z]
-          * bled: [b l ɛ d]
-          * feud: [fʲ ʉː d]
+          * denim: [d ɛ ɲ ɪ m]
+          * rend: [ɹ ɛ n d]
+          * cupid: [cʰ ʉː p ɪ d]
+          * deter: [d ɪ tʰ ɝ]
     ```
   - ```{ipa_cell}
     ```
@@ -174,46 +174,46 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 4389
         * Examples
-          * acrid: [æ c ɹ ɪ d]
-          * crick: [c ɹ ɪ k]
-          * kriol: [c ɹ iː ow ɫ]
-          * khaki: [cʰ æ c i]
+          * kraft: [c ɹ æ f t]
+          * cooky: [kʰ ʊ c i]
+          * corky: [kʰ ɒ ɹ c i]
+          * squee: [s c w iː]
     * voiced
       * ɟ
         * Occurances: 2931
         * Examples
-          * grebe: [ɟ ɹ iː b]
-          * glim: [ɟ ʎ ɪ m]
-          * gemot: [ɟ ɪ m ow t]
-          * soggy: [s ɑ ɟ i]
+          * ogin: [ɑ ɟ ɪ n]
+          * git: [ɟ ɪ t]
+          * glam: [ɟ ʎ æ m]
+          * gris: [ɟ ɹ ɪ s]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 14457
         * Examples
-          * excel: [ɪ k s ɛ ɫ]
-          * vocab: [v ow k æ b]
-          * jaska: [dʒ æ s k ə]
-          * maxi: [m æ k s i]
+          * slake: [s l ej k]
+          * hoke: [h ow k]
+          * wicks: [w ɪ k s]
+          * fixt: [f ɪ k s t]
     * voiced
       * ɡ
         * Occurances: 5085
         * Examples
-          * guqin: [ɡ ʉː tʃ iː n]
-          * gull: [ɡ ɐ ɫ]
-          * bleg: [b l ɛ ɡ]
-          * thugs: [θ ɐ ɡ z]
+          * gough: [ɡ ow]
+          * ghazi: [ɡ ɑː z i]
+          * vug: [v ɐ ɡ]
+          * tig: [tʰ ɪ ɡ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 1282
         * Examples
-          * matt: [m æ ʔ]
-          * split: [s p ʎ ɪ ʔ]
-          * butt: [b ɐ ʔ]
-          * gnat: [ɲ æ ʔ]
+          * irate: [aj ɹ ej ʔ]
+          * soot: [s ʊ ʔ]
+          * bert: [b ɝ ʔ]
+          * taut: [tʰ ɒ ʔ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -229,18 +229,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 3230
         * Examples
-          * guqin: [ɡ ʉː tʃ iː n]
-          * zilch: [z ɪ ɫ tʃ]
-          * chair: [tʃ ɛ ɹ]
-          * chips: [tʃ ɪ p s]
+          * vouch: [v aw tʃ]
+          * chub: [tʃ ɐ b]
+          * chand: [tʃ æ n d]
+          * ketch: [cʰ ɛ tʃ]
     * voiced
       * dʒ
         * Occurances: 4938
         * Examples
-          * parge: [pʰ ɑ ɹ dʒ]
-          * jaska: [dʒ æ s k ə]
-          * jizz: [dʒ ɪ z]
-          * urged: [ɝ dʒ d]
+          * jheel: [dʒ iː ɫ]
+          * legco: [l ɛ dʒ k ow]
+          * fudge: [f ɐ dʒ]
+          * juco: [dʒ ʉː k ow]
     ```
   - ```{ipa_cell}
     ```
@@ -260,36 +260,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 36172
         * Examples
-          * wasps: [w ɑ s p s]
-          * ans: [æ n s]
-          * excel: [ɪ k s ɛ ɫ]
-          * spies: [s p aj z]
+          * slake: [s l ej k]
+          * wicks: [w ɪ k s]
+          * fixt: [f ɪ k s t]
+          * artsy: [ɑ ɹ t s i]
     * voiced
       * z
         * Occurances: 15465
         * Examples
-          * ans: [æ n z]
-          * calls: [kʰ ɒ ɫ z]
-          * bads: [b æ d z]
-          * spies: [s p aj z]
+          * amahs: [ɑː m ə z]
+          * hoise: [h ɔj z]
+          * zed: [z ɛ d]
+          * hades: [ç ej dʲ iː z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 6752
         * Examples
-          * shore: [ʃ ɒ ɹ]
-          * shall: [ʃ æ ɫ]
-          * niche: [ɲ i ʃ]
-          * wash: [w ɑ ʃ]
+          * misha: [m ɪ ʃ ɑː]
+          * smash: [s m æ ʃ]
+          * ashed: [æ ʃ t]
+          * flesh: [f l ɛ ʃ]
     * voiced
       * ʒ
         * Occurances: 551
         * Examples
-          * usury: [j ʉː ʒ ə ɹ i]
-          * taj: [tʰ ɑ ʒ]
-          * osier: [ow ʒ ɚ]
-          * gigot: [ʒ i ɡ ow]
+          * zhang: [ʒ æ ŋ]
+          * ush: [j ʉː ʒ]
+          * jete: [ʒ ɛ tʰ ej]
+          * gyro: [ʒ ɪ ɹ ow]
     ```
   - ```{ipa_cell}
     ```
@@ -305,50 +305,50 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 9599
         * Examples
-          * free: [f ɹ iː]
-          * fluke: [f l ʉ k]
-          * swarf: [s w ɒ ɹ f]
-          * aflow: [ə f l ow]
+          * fixt: [f ɪ k s t]
+          * kraft: [c ɹ æ f t]
+          * fbi: [ɛ f bʲ iː aj]
+          * fudge: [f ɐ dʒ]
       * fʲ
         * Occurances: 688
         * Examples
-          * feud: [fʲ ʉː d]
-          * mcfee: [m ə k fʲ iː]
-          * fees: [fʲ iː z]
-          * fils: [fʲ iː z]
+          * fiche: [fʲ iː ʃ]
+          * fuse: [fʲ ʉː z]
+          * fever: [fʲ i v ɚ]
+          * cfe: [s iː ɛ fʲ iː]
     * voiced
       * v
         * Occurances: 6907
         * Examples
-          * vocab: [v ow k æ b]
-          * skive: [s k aj v]
-          * voter: [v ow ɾ ɚ]
-          * ovens: [ɐ v n̩ z]
+          * larva: [l ɑ ɹ v ə]
+          * veiny: [v ej ɲ i]
+          * vouch: [v aw tʃ]
+          * levi: [ʎ iː v aj]
       * vʲ
         * Occurances: 437
         * Examples
-          * senvy: [s ɛ ɱ vʲ i]
-          * heavy: [h ɛ vʲ i]
+          * revue: [ɹ ə vʲ ʉː]
+          * povey: [pʰ ow vʲ i]
+          * levy: [l ɛ vʲ i]
           * ravey: [ɹ ej vʲ i]
-          * aviv: [ə vʲ i v]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 2506
         * Examples
-          * thugs: [θ ɐ ɡ z]
-          * stith: [s t ɪ θ]
-          * thou: [θ aw]
-          * both: [b ow θ]
+          * sith: [s iː θ]
+          * loath: [l ow θ]
+          * plath: [p l æ θ]
+          * thang: [θ æ ŋ]
     * voiced
       * ð
         * Occurances: 633
         * Examples
-          * these: [ð iː z]
-          * thou: [ð aw]
-          * lathe: [l ej ð]
-          * that: [ð æ t]
+          * rethe: [ɹ iː ð]
+          * thy: [ð aj]
+          * the: [ð i]
+          * tithe: [tʰ aj ð]
     ```
   - ```{ipa_cell}
     ```
@@ -359,10 +359,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 924
         * Examples
-          * hayes: [ç ej z]
-          * hitt: [ç i t]
+          * hades: [ç ej dʲ iː z]
+          * hema: [ç i m ə]
+          * hinny: [ç ɪ ɲ i]
           * hir: [ç ɪ ɹ]
-          * haye: [ç ej]
     ```
   - ```{ipa_cell}
     ```
@@ -371,10 +371,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 3736
         * Examples
-          * hyper: [h aj p ɚ]
-          * hab: [h æ b]
-          * hai: [h aj]
-          * ahind: [ə h aj n d]
+          * hoke: [h ow k]
+          * hoise: [h ɔj z]
+          * hode: [h ow d]
+          * hocks: [h ɑ k s]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -382,10 +382,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 5661
         * Examples
-          * wasps: [w ɑ s p s]
-          * swarf: [s w ɒ ɹ f]
-          * ware: [w ɛ ɹ]
-          * weald: [w i ɫ d]
+          * wabi: [w ɑː bʲ i]
+          * wicks: [w ɪ k s]
+          * ymca: [w aj ɛ m s iː ej]
+          * squee: [s c w iː]
     ```
   - ```{ipa_cell}
     ```
@@ -396,10 +396,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɹ
         * Occurances: 35096
         * Examples
-          * ronde: [ɹ ɑ n d]
-          * parge: [pʰ ɑ ɹ dʒ]
-          * free: [f ɹ iː]
-          * arum: [ɛ ɹ m̩]
+          * irate: [aj ɹ ej t]
+          * rend: [ɹ ɛ n d]
+          * artsy: [ɑ ɹ t s i]
+          * larva: [l ɑ ɹ v ə]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1188
         * Examples
-          * yama: [j ɑ m ə]
-          * yearn: [j ɝ n]
-          * yes'm: [j ɛ s m̩]
-          * usury: [j ʉː ʒ ə ɹ i]
+          * yams: [j æ m z]
+          * ewe: [j ʉː]
+          * jds: [j ɑ d z]
+          * yin: [j ɪ n]
     ```
   - ```{ipa_cell}
     ```
@@ -429,10 +429,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 10275
         * Examples
-          * voter: [v ow ɾ ɚ]
-          * idled: [aj ɾ ɫ̩ d]
-          * vidal: [v aj ɾ ɫ̩]
-          * madam: [m æ ɾ m̩]
+          * agita: [æ dʒ ɪ ɾ ə]
+          * metic: [m ɛ ɾ ə k]
+          * nato: [ɲ ej ɾ ow]
+          * kota: [kʰ ow ɾ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -454,24 +454,24 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 12159
         * Examples
-          * bled: [b l ɛ d]
-          * arler: [ɑ ɹ l ɚ]
-          * bolo: [b ow l ow]
-          * fluke: [f l ʉ k]
+          * slake: [s l ej k]
+          * loamy: [l ow mʲ i]
+          * larva: [l ɑ ɹ v ə]
+          * legco: [l ɛ dʒ k ow]
       * ɫ
         * Occurances: 6181
         * Examples
-          * calls: [kʰ ɒ ɫ z]
-          * excel: [ɪ k s ɛ ɫ]
-          * elsie: [ɛ ɫ s i]
-          * royle: [ɹ ɔj ɫ]
+          * alt: [ɒ ɫ t]
+          * ulcer: [ɐ ɫ s ɚ]
+          * jheel: [dʒ iː ɫ]
+          * soil: [s ɔj ɫ]
       * ɫ̩
         * Occurances: 4993
         * Examples
-          * camel: [cʰ æ m ɫ̩]
-          * idled: [aj ɾ ɫ̩ d]
-          * vidal: [v aj ɾ ɫ̩]
-          * daryl: [d ɑ ɹ ɫ̩]
+          * bocal: [b ow k ɫ̩]
+          * gable: [ɟ ej b ɫ̩]
+          * focal: [f ow k ɫ̩]
+          * tuple: [tʰ ɐ p ɫ̩]
     ```
   - ```{ipa_cell}
     ```
@@ -480,10 +480,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 9688
         * Examples
-          * bully: [b ʊ ʎ i]
-          * glim: [ɟ ʎ ɪ m]
-          * split: [s p ʎ ɪ t]
-          * leu: [ʎ ʉː]
+          * coyly: [kʰ ɔj ʎ i]
+          * early: [ɝ ʎ i]
+          * levi: [ʎ iː v aj]
+          * glam: [ɟ ʎ æ m]
     ```
   - ```{ipa_cell}
     ```
@@ -513,17 +513,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 16484
         * Examples
-          * bully: [b ʊ ʎ i]
-          * elsie: [ɛ ɫ s i]
-          * maxi: [m æ k s i]
-          * briny: [b ɹ aj ɲ i]
+          * baby: [b ej bʲ i]
+          * wabi: [w ɑː bʲ i]
+          * loamy: [l ow mʲ i]
+          * artsy: [ɑ ɹ t s i]
       * iː
         * Occurances: 6275
         * Examples
-          * free: [f ɹ iː]
-          * eta: [iː tʲ iː ej]
-          * guqin: [ɡ ʉː tʃ iː n]
-          * grebe: [ɟ ɹ iː b]
+          * sith: [s iː θ]
+          * ipc: [aj pʰ iː s iː]
+          * jheel: [dʒ iː ɫ]
+          * aaad: [ej ej ej dʲ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -532,17 +532,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʉ
         * Occurances: 2353
         * Examples
-          * into: [ɪ n tʰ ʉ]
-          * fluke: [f l ʉ k]
-          * sooey: [s ʉ i]
-          * tute: [tʰ ʉ t]
+          * rubai: [ɹ ʉ b aj]
+          * nauru: [n aw ɹ ʉ]
+          * maru: [m ɑ ɹ ʉ]
+          * tutus: [tʰ ʉ ɾ ə s]
       * ʉː
         * Occurances: 4564
         * Examples
-          * feud: [fʲ ʉː d]
-          * guqin: [ɡ ʉː tʃ iː n]
-          * zoom: [z ʉː m]
-          * usury: [j ʉː ʒ ə ɹ i]
+          * cupid: [cʰ ʉː p ɪ d]
+          * nauru: [n ɑː ʉː ɹ ʉː]
+          * juco: [dʒ ʉː k ow]
+          * pews: [pʲ ʉː z]
     ```
   - ```{ipa_cell}
     ```
@@ -556,10 +556,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 43918
         * Examples
-          * excel: [ɪ k s ɛ ɫ]
-          * acrid: [æ c ɹ ɪ d]
-          * into: [ɪ n tʰ ʉ]
-          * acid: [æ s ɪ d]
+          * wicks: [w ɪ k s]
+          * fixt: [f ɪ k s t]
+          * denim: [d ɛ ɲ ɪ m]
+          * sith: [s ɪ θ]
     ```
   - ```{ipa_cell}
     ```
@@ -568,10 +568,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 2532
         * Examples
-          * bully: [b ʊ ʎ i]
-          * uriah: [j ʊ ɹ aj ə]
-          * wolve: [w ʊ ɫ v]
-          * blvd: [b ʊ l ə v ɑ ɹ d]
+          * soot: [s ʊ t]
+          * broom: [b ɹ ʊ m]
+          * cooky: [kʰ ʊ c i]
+          * wood: [w ʊ d]
     ```
   - ```{ipa_cell}
     ```
@@ -581,10 +581,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ej
         * Occurances: 11362
         * Examples
-          * eta: [iː tʲ iː ej]
-          * babe: [b ej b]
-          * hayes: [ç ej z]
-          * kail: [cʰ ej ɫ]
+          * baby: [b ej bʲ i]
+          * irate: [aj ɹ ej t]
+          * slake: [s l ej k]
+          * kanye: [kʰ ɑ ɲ ej]
     ```
   - ```{ipa_cell}
     ```
@@ -597,10 +597,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ow
         * Occurances: 10115
         * Examples
-          * vocab: [v ow k æ b]
-          * busto: [b ɐ s t ow]
-          * voter: [v ow ɾ ɚ]
-          * bolo: [b ow l ow]
+          * hoke: [h ow k]
+          * loamy: [l ow mʲ i]
+          * hode: [h ow d]
+          * legco: [l ɛ dʒ k ow]
     ```
 * -
   - ```{ipa_cell}
@@ -612,17 +612,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 36789
         * Examples
-          * jaska: [dʒ æ s k ə]
-          * yama: [j ɑ m ə]
-          * emesa: [ɛ m ə s ə]
-          * rosin: [ɹ ɑ z ə n]
+          * makah: [m ə kʰ ɑː]
+          * anya: [æ ɲ ə]
+          * amahs: [ɑː m ə z]
+          * larva: [l ɑ ɹ v ə]
       * ɚ
         * Occurances: 9416
         * Examples
-          * hyper: [h aj p ɚ]
-          * arler: [ɑ ɹ l ɚ]
-          * voter: [v ow ɾ ɚ]
-          * gayer: [ɟ ej ɚ]
+          * inner: [ɪ n ɚ]
+          * ulcer: [ɐ ɫ s ɚ]
+          * mixer: [m ɪ k s ɚ]
+          * loser: [ʎ ʉ z ɚ]
     ```
   - ```{ipa_cell}
     ```
@@ -634,10 +634,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 18685
         * Examples
-          * excel: [ɪ k s ɛ ɫ]
-          * bled: [b l ɛ d]
-          * arum: [ɛ ɹ m̩]
-          * elsie: [ɛ ɫ s i]
+          * denim: [d ɛ ɲ ɪ m]
+          * rend: [ɹ ɛ n d]
+          * zed: [z ɛ d]
+          * legco: [l ɛ dʒ k ow]
     ```
   - ```{ipa_cell}
     ```
@@ -646,10 +646,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɝ
         * Occurances: 3470
         * Examples
-          * turnt: [tʰ ɝ n t]
-          * yearn: [j ɝ n]
-          * nerd: [n ɝ d]
-          * perdu: [pʰ ɝ dʲ ʉː]
+          * deter: [d ɪ tʰ ɝ]
+          * early: [ɝ ʎ i]
+          * bert: [b ɝ t]
+          * squir: [s k w ɝ]
     ```
   - ```{ipa_cell}
     ```
@@ -661,10 +661,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * æ
         * Occurances: 15937
         * Examples
-          * ans: [æ n s]
-          * bads: [b æ d z]
-          * vocab: [v ow k æ b]
-          * jaska: [dʒ æ s k ə]
+          * anya: [æ ɲ ə]
+          * trap: [t ɹ æ p]
+          * bocal: [b ow cʰ æ ɫ]
+          * mass: [m æ s]
     ```
   - ```{ipa_cell}
     ```
@@ -673,10 +673,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 7321
         * Examples
-          * busto: [b ɐ s t ow]
-          * ovens: [ɐ v n̩ z]
-          * gull: [ɡ ɐ ɫ]
-          * thugs: [θ ɐ ɡ z]
+          * ulcer: [ɐ ɫ s ɚ]
+          * among: [ə m ɐ ŋ]
+          * fudge: [f ɐ dʒ]
+          * chub: [tʃ ɐ b]
     ```
   - ```{ipa_cell}
     ```
@@ -696,32 +696,32 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 10815
         * Examples
-          * wasps: [w ɑ s p s]
-          * ronde: [ɹ ɑ n d]
-          * parge: [pʰ ɑ ɹ dʒ]
-          * yama: [j ɑ m ə]
+          * artsy: [ɑ ɹ t s i]
+          * kanye: [kʰ ɑ ɲ ej]
+          * larva: [l ɑ ɹ v ə]
+          * ogin: [ɑ ɟ ɪ n]
       * ɑː
         * Occurances: 1919
         * Examples
-          * suona: [s w ow n ɑː]
-          * quale: [k w ɑː ɫ]
-          * lager: [l ɑː ɡ ɚ]
-          * iran: [ɪ ɹ ɑː n]
+          * wabi: [w ɑː bʲ i]
+          * makah: [m ə kʰ ɑː]
+          * amahs: [ɑː m ə z]
+          * nauru: [n ɑː ʉː ɹ ʉː]
     * rounded
       * ɒ
         * Occurances: 5574
         * Examples
-          * calls: [kʰ ɒ ɫ z]
-          * poor: [pʰ ɒ ɹ]
-          * swarf: [s w ɒ ɹ f]
-          * forte: [f ɒ ɹ t]
+          * alt: [ɒ ɫ t]
+          * raw: [ɹ ɒ]
+          * taut: [tʰ ɒ t]
+          * corky: [kʰ ɒ ɹ c i]
       * ɒː
         * Occurances: 1369
         * Examples
-          * pawns: [pʰ ɒː n z]
-          * zori: [z ɒː ɹ i]
-          * spawl: [s p ɒː ɫ]
-          * caw: [kʰ ɒː]
+          * halt: [h ɒː ɫ t]
+          * aura: [ɒː ɹ ə]
+          * esau: [iː s ɒː]
+          * mori: [m ɒː ɹ i]
     ```
 ``````
 

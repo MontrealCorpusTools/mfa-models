@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
 - **Number of words:** `22,664`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`u`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`y`, {ipa_inline}`z`, {ipa_inline}`ø`, {ipa_inline}`ŋ`, {ipa_inline}`ɑ`, {ipa_inline}`ɕ`, {ipa_inline}`ɡ`, {ipa_inline}`ɤ`, {ipa_inline}`ɯ`, {ipa_inline}`ʃ`, {ipa_inline}`ʑ`, {ipa_inline}`ʒ`, {ipa_inline}`ʔ`
+- **Phones:** `a b d e f h i j k l m n o p r s t u w x y z ø ŋ ɑ ɕ ɡ ɤ ɯ ʃ ʑ ʒ ʔ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

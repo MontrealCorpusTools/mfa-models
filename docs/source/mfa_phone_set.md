@@ -15,7 +15,35 @@ This page is under heavy construction as more languages get trained, so many lan
   * {ipa_inline}`pʷʼ`
   * {ipa_inline}`pʲ̚`
   * {ipa_inline}`ⁿd̪ʷʱː`
+* **Removal of narrow transcription diacritics:**
+  * Height markers on vowels and consonants
+    * {ipa_inline}`[o̞]` {ipa_icon}`right-arrow` {ipa_inline}`[o]` in various languages
+    * {ipa_inline}`[ɾ̝̊]` {ipa_icon}`right-arrow` {ipa_inline}`[ɾ]` in Turkish
+    * {ipa_inline}`[ɯ̟̃ᵝ ɨ̥ᵝ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɯ]` or {ipa_inline}`[ɨ]` depending on surrounding context in Japanese
+  * Removal of nasality in languages where it's not phonemic
+  * Merging some non-phonemic or dialectal contrasts
+    * {ipa_inline}`[ʍ]` {ipa_icon}`right-arrow`  {ipa_inline}`[w]` in English
+    * {ipa_inline}`[r]` {ipa_icon}`right-arrow` {ipa_inline}`[ʁ]` in French
+    * {ipa_inline}`[ʁ ɹ ɻ χ ɦ h r]` {ipa_icon}`right-arrow` {ipa_inline}`[x]` in Brazilian Portuguese
+  * Standardizing diphthongs, afficates, etc
+    * Merging sequences of {ipa_inline}`[a ʊ]` into a single {ipa_inline}`[aw]` phone
+    * Merging sequences of vowels in Mandarin to single nucleus
+  * Standardizing tones
+    * Transforming all tones to Chao system (i.e. Mandarin: {ipa_inline}`[k w a²¹⁴ n]` {ipa_icon}`right-arrow` {ipa_inline}`[k w a˨˩˦ n]`)
+    * Placing tone diacritics on the vowel nucleus rather than on the final segment in the syllable
+  * Fixing up character glyphs
+    * {ipa_inline}`[õ ẽ ũ ĩ ã]` {ipa_icon}`right-arrow` {ipa_inline}`[õ ẽ ũ ĩ ɐ̃]` in Portuguese (single glyph to compound characters with nasality diacritic)
+  * Correcting many mistranscriptions
+    * {ipa_inline}`[r]` {ipa_icon}`right-arrow` {ipa_inline}`[ɹ]` in US English
+    * {ipa_inline}`[cʰ]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕʰ]` in Thai
+    * {ipa_inline}`[tʃ]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕ]` in Tamil
+    * {ipa_inline}`[ç]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ]` in Swedish
 
+```{note}
+
+I am unfamiliar with many of the languages and dialects below, and have largely based my systems on publicly available resources, relying heavily on any phonology information on {xref}`wikipedia`, as well as {xref}`phoible` and {xref}`xpf`. If you have any suggestions for improvements, please open [a discussion topic](https://github.com/MontrealCorpusTools/mfa-models/discussions/categories/pronunciation-dictionaries).
+
+```
 ## Consonants
 
 * **Palatalized consonants:** If a language has palatalized consonants, these have been replaced by palatal consonats:
@@ -29,7 +57,7 @@ This page is under heavy construction as more languages get trained, so many lan
   * {ipa_inline}`[t̪ d̪ t̪s̪ n̪]`
 * **Homorganic nasal place assimilation:** If a language has this (and let's be real, which ones don't?[^except_maybe_Russian]), then the following transformations are done:
   * {ipa_inline}`[m]` {ipa_icon}`right-arrow` {ipa_inline}`[ɱ]` before labiodental consonants
-  * {ipa_inline}`[n]` and {ipa_inline}`[ŋ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɲ]` before palatal consonants
+  * {ipa_inline}`[n ŋ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɲ]` before palatal consonants
 
 ## Vowels
 
@@ -45,7 +73,7 @@ This page is under heavy construction as more languages get trained, so many lan
 
 The Arabic MFA dictionary was created by [Natalia Shmueli](https://twitter.com/NataliaShmueli).
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`arabic_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -66,7 +94,7 @@ The Arabic MFA dictionary was created by [Natalia Shmueli](https://twitter.com/N
 
 The primary deviations from standard symbols have been to bring English more in line with other languages.
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`english_(nigeria)_mfa_dictionary_v2_0_0`, {ref}`english_(uk)_mfa_dictionary_v2_0_0`, and {ref}`english_(us)_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -117,7 +145,7 @@ The primary deviations from standard symbols have been to bring English more in 
 
 The Nigerian English was based on the UK dictionary, with some significant modifications. I have tried to largely follow Ulrike B. Gut's book chapter on Nigerian English phonology[^Gut_2008], as that is what is predominately cited in other resources like the [OED](https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/pronunciations-for-world-englishes/pronunciation-model-west-african-english/).
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`english_(nigeria)_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -165,7 +193,7 @@ The Nigerian English was based on the UK dictionary, with some significant modif
 
 Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_language#Phonology).
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`hausa_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -177,7 +205,7 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 ### Japanese
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`japanese_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -223,7 +251,7 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 I have largely followed the [Korean Phonology Wikipedia page](https://en.wikipedia.org/wiki/Korean_phonology).
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`korean_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -258,7 +286,7 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
 
 ### Polish
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`polish_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -272,7 +300,7 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
 
 ### Portuguese
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`portuguese_(brazil)_mfa_dictionary_v2_0_0` and {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -292,7 +320,7 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
 
 ### Russian
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`russian_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -307,7 +335,7 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/blob/master/data/sc
 
 ### Spanish
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0` and {ref}`spanish_(spain)_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -326,7 +354,7 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 ### Swahili
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`swahili_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -343,7 +371,7 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 ### Thai
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`thai_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -362,7 +390,7 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 Largely followed the [Turkish phonology Wikipedia page](https://en.wikipedia.org/wiki/Turkish_phonology), following their list of phonetic realizations.
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`turkish_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -386,7 +414,7 @@ Largely followed the [Turkish phonology Wikipedia page](https://en.wikipedia.org
 
 ### Ukrainian
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`ukrainian_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 
@@ -409,7 +437,7 @@ Largely unchanged from their [Wikipron](https://github.com/CUNY-CL/wikipron/blob
 
 Generally I have followed James Kirby's [vPhon](https://github.com/kirbyj/vPhon) for generating transcriptions of Vietnamese words across three dialects.  The points where I have diverged from Kirby's system are below.
 
-```{admonition} Pronunciation Dictionary
+```{admonition} Pronunciation dictionaries
    See {ref}`vietnamese_(hanoi)_mfa_dictionary_v2_0_0`, {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0`, and {ref}`vietnamese_(hue)_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
 

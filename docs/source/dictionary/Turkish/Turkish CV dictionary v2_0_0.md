@@ -53,16 +53,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 6131
         * Examples
-          * kampı: [k a m p ɯ]
-          * macar: [m a dʒ a ɾ]
-          * evim: [e v i m]
-          * dönem: [d œ n e m]
+          * madde: [m a dː e]
+          * mor: [m o ɾ]
+          * rahme: [ɾ a h m e]
+          * mark: [m a ɾ k]
       * mː
         * Occurances: 18
         * Examples
+          * hmm: [h mː]
           * mmhmm: [mː h mː]
           * jimmy: [ʒ i mː j]
-          * hmm: [h mː]
     ```
   - ```{ipa_cell}
     ```
@@ -71,10 +71,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 9197
         * Examples
-          * binin: [b i n i n]
-          * sabun: [s a b u n]
-          * çoban: [tʃ o b a n]
-          * öğren: [œ ɾ e n]
+          * ölen: [œ l e n]
+          * janet: [ʒ a n e t]
+          * şeyin: [ʃ e j i n]
+          * ona: [o n a]
       * nː
         * Occurances: 39
         * Examples
@@ -95,10 +95,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 1259
         * Examples
-          * yatıp: [j a t ɯ p]
-          * pasiç: [p a s i tʃ]
-          * kampı: [k a m p ɯ]
-          * tutup: [t u t u p]
+          * köpek: [k œ p e k]
+          * sebep: [s e b e p]
+          * çıkıp: [tʃ ɯ k ɯ p]
+          * açıp: [a tʃ ɯ p]
       * pː
         * Occurances: 3
         * Examples
@@ -108,10 +108,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * b
         * Occurances: 2244
         * Examples
-          * bağlı: [b a l ɯ]
-          * binin: [b i n i n]
-          * sabun: [s a b u n]
-          * çoban: [tʃ o b a n]
+          * beşer: [b e ʃ e ɾ]
+          * beyaz: [b e j a z]
+          * sebep: [s e b e p]
+          * bitti: [b i tː i]
       * bː
         * Occurances: 4
         * Examples
@@ -123,32 +123,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 4858
         * Examples
-          * şişti: [ʃ i ʃ t i]
-          * katık: [k a t ɯ k]
-          * yatıp: [j a t ɯ p]
-          * çifte: [tʃ i f t e]
+          * janet: [ʒ a n e t]
+          * davet: [d a v e t]
+          * ötesi: [œ t e s i]
+          * boştu: [b o ʃ t u]
       * tː
         * Occurances: 210
         * Examples
-          * etten: [e tː e n]
-          * attı: [a tː ɯ]
-          * tuttu: [t u tː u]
+          * bitti: [b i tː i]
+          * ettik: [e tː i k]
+          * etti: [e tː i]
           * yetti: [j e tː i]
     * voiced
       * d
         * Occurances: 6052
         * Examples
-          * idare: [i d a ɾ e]
-          * daire: [d a i ɾ e]
-          * dene: [d e n e]
-          * bizde: [b i z d e]
+          * dördü: [d œ ɾ d y]
+          * davet: [d a v e t]
+          * güldü: [ɡ y l d y]
+          * kondu: [k o n d u]
       * dː
         * Occurances: 76
         * Examples
+          * madde: [m a dː e]
           * ddik: [dː i k]
-          * addis: [a dː i s]
+          * redde: [ɾ e dː e]
           * seddi: [s e dː i]
-          * ciddi: [dʒ i dː i]
     ```
   - ```{ipa_cell}
     ```
@@ -159,10 +159,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 6160
         * Examples
-          * ikiye: [i k i j e]
-          * katık: [k a t ɯ k]
-          * çokça: [tʃ o k tʃ a]
-          * koyar: [k o j a ɾ]
+          * kukla: [k u k l a]
+          * kralı: [k ɾ a l ɯ]
+          * köpek: [k œ p e k]
+          * çıkıp: [tʃ ɯ k ɯ p]
       * kː
         * Occurances: 39
         * Examples
@@ -172,10 +172,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɡ
         * Occurances: 1639
         * Examples
-          * gücü: [ɡ y dʒ y]
-          * gir: [ɡ i ɾ]
-          * gayet: [ɡ a j e t]
-          * göze: [ɡ œ z e]
+          * güzel: [ɡ y z e l]
+          * güldü: [ɡ y l d y]
+          * gözlü: [ɡ œ z l y]
+          * engel: [e n ɡ e l]
       * ɡː
         * Occurances: 1
         * Examples
@@ -194,18 +194,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 1299
         * Examples
-          * üçer: [y tʃ e ɾ]
-          * çoban: [tʃ o b a n]
-          * çokça: [tʃ o k tʃ a]
-          * çifte: [tʃ i f t e]
+          * çıkıp: [tʃ ɯ k ɯ p]
+          * açıp: [a tʃ ɯ p]
+          * uçmuş: [u tʃ m u ʃ]
+          * ağaç: [a a tʃ]
     * voiced
       * dʒ
         * Occurances: 1422
         * Examples
-          * gücü: [ɡ y dʒ y]
-          * macar: [m a dʒ a ɾ]
-          * can: [dʒ a n]
-          * ince: [i n dʒ e]
+          * ivica: [i v i dʒ a]
+          * borca: [b o ɾ dʒ a]
+          * gece: [ɡ e dʒ e]
+          * acil: [a dʒ i l]
       * dʒː
         * Occurances: 2
         * Examples
@@ -226,10 +226,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 4509
         * Examples
-          * sörfü: [s œ ɾ f y]
-          * sabun: [s a b u n]
-          * eşsiz: [e ʃ s i z]
-          * pasiç: [p a s i tʃ]
+          * yasa: [j a s a]
+          * sebep: [s e b e p]
+          * son: [s o n]
+          * ötesi: [œ t e s i]
       * sː
         * Occurances: 48
         * Examples
@@ -238,10 +238,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * z
         * Occurances: 2054
         * Examples
-          * eşsiz: [e ʃ s i z]
-          * bizde: [b i z d e]
-          * zanlı: [z a n l ɯ]
-          * teyze: [t e j z e]
+          * huzur: [h u z u ɾ]
+          * güzel: [ɡ y z e l]
+          * beyaz: [b e j a z]
+          * gözlü: [ɡ œ z l y]
       * zː
         * Occurances: 7
         * Examples
@@ -251,10 +251,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʃ
         * Occurances: 2495
         * Examples
-          * şişti: [ʃ i ʃ t i]
-          * eşsiz: [e ʃ s i z]
-          * koşar: [k o ʃ a ɾ]
-          * akışı: [a k ɯ ʃ ɯ]
+          * şeyin: [ʃ e j i n]
+          * beşer: [b e ʃ e ɾ]
+          * şşş: [ʃː ʃ]
+          * şahin: [ʃ a h i n]
       * ʃː
         * Occurances: 1
         * Examples
@@ -263,10 +263,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʒ
         * Occurances: 127
         * Examples
-          * mesaj: [m e s a ʒ]
+          * janet: [ʒ a n e t]
+          * maja: [m a ʒ a]
           * jamel: [ʒ a m e l]
-          * bekaj: [b e k a ʒ]
-          * jani: [ʒ a n i]
+          * bajec: [b a ʒ e dʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -282,10 +282,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 733
         * Examples
-          * sörfü: [s œ ɾ f y]
-          * çifte: [tʃ i f t e]
-          * refah: [ɾ e f a h]
-          * lafı: [l a f ɯ]
+          * final: [f i n a l]
+          * füze: [f y z e]
+          * fena: [f e n a]
+          * telif: [t e l i f]
       * fː
         * Occurances: 10
         * Examples
@@ -294,10 +294,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * v
         * Occurances: 1040
         * Examples
-          * oval: [o v a l]
-          * evim: [e v i m]
-          * verir: [v e ɾ i ɾ]
-          * tivat: [t i v a t]
+          * davet: [d a v e t]
+          * ivica: [i v i dʒ a]
+          * sava: [s a v a]
+          * çevik: [tʃ e v i k]
       * vː
         * Occurances: 21
         * Examples
@@ -316,16 +316,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 1313
         * Examples
-          * yahu: [j a h u]
-          * haber: [h a b e ɾ]
-          * ahlak: [a h l a k]
-          * hey: [h e j]
+          * huzur: [h u z u ɾ]
+          * rahme: [ɾ a h m e]
+          * şahin: [ʃ a h i n]
+          * siyah: [s i j a h]
       * hː
         * Occurances: 6
         * Examples
           * uhhuh: [u hː u h]
-          * ohh: [o hː]
           * ahh: [a hː]
+          * ohh: [o hː]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -341,10 +341,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 4973
         * Examples
-          * yahu: [j a h u]
-          * ikiye: [i k i j e]
-          * araya: [a ɾ a j a]
-          * yatıp: [j a t ɯ p]
+          * yasa: [j a s a]
+          * şeyin: [ʃ e j i n]
+          * beyaz: [b e j a z]
+          * öyle: [œ j l e]
       * jː
         * Occurances: 4
         * Examples
@@ -363,15 +363,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 10142
         * Examples
-          * üçer: [y tʃ e ɾ]
-          * idare: [i d a ɾ e]
-          * daire: [d a i ɾ e]
-          * sörfü: [s œ ɾ f y]
+          * huzur: [h u z u ɾ]
+          * dördü: [d œ ɾ d y]
+          * kralı: [k ɾ a l ɯ]
+          * beşer: [b e ʃ e ɾ]
       * ɾː
         * Occurances: 22
         * Examples
-          * larry: [l a ɾː j]
           * sırrı: [s ɯ ɾː ɯ]
+          * larry: [l a ɾː j]
           * harry: [h a ɾː j]
     ```
   - ```{ipa_cell}
@@ -392,17 +392,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 9014
         * Examples
-          * oval: [o v a l]
-          * bağlı: [b a l ɯ]
-          * tatil: [t a t i l]
-          * kabul: [k a b u l]
+          * ölen: [œ l e n]
+          * kukla: [k u k l a]
+          * güzel: [ɡ y z e l]
+          * kralı: [k ɾ a l ɯ]
       * lː
         * Occurances: 276
         * Examples
-          * elli: [e lː i]
-          * elle: [e lː e]
-          * allen: [a lː e n]
+          * all: [a lː]
           * eller: [e lː e ɾ]
+          * hall: [h a lː]
+          * dille: [d i lː e]
     ```
   - ```{ipa_cell}
     ```
@@ -436,18 +436,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 10861
         * Examples
-          * idare: [i d a ɾ e]
-          * daire: [d a i ɾ e]
-          * şişti: [ʃ i ʃ t i]
-          * ikiye: [i k i j e]
+          * şeyin: [ʃ e j i n]
+          * ivica: [i v i dʒ a]
+          * final: [f i n a l]
+          * ötesi: [œ t e s i]
     * rounded
       * y
         * Occurances: 2423
         * Examples
-          * üçer: [y tʃ e ɾ]
-          * sörfü: [s œ ɾ f y]
-          * gücü: [ɡ y dʒ y]
-          * türün: [t y ɾ y n]
+          * güzel: [ɡ y z e l]
+          * dördü: [d œ ɾ d y]
+          * güldü: [ɡ y l d y]
+          * gözlü: [ɡ œ z l y]
     ```
   - ```{ipa_cell}
     ```
@@ -460,18 +460,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɯ
         * Occurances: 7751
         * Examples
-          * bağlı: [b a l ɯ]
-          * katık: [k a t ɯ k]
-          * yatıp: [j a t ɯ p]
-          * kampı: [k a m p ɯ]
+          * kralı: [k ɾ a l ɯ]
+          * çıkıp: [tʃ ɯ k ɯ p]
+          * açıp: [a tʃ ɯ p]
+          * kış: [k ɯ ʃ]
     * rounded
       * u
         * Occurances: 4501
         * Examples
-          * yahu: [j a h u]
-          * sabun: [s a b u n]
-          * kabul: [k a b u l]
-          * somut: [s o m u t]
+          * kukla: [k u k l a]
+          * huzur: [h u z u ɾ]
+          * kondu: [k o n d u]
+          * ordu: [o ɾ d u]
     ```
 * -
   - ```{ipa_cell}
@@ -490,10 +490,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 12057
         * Examples
-          * üçer: [y tʃ e ɾ]
-          * idare: [i d a ɾ e]
-          * daire: [d a i ɾ e]
-          * ikiye: [i k i j e]
+          * ölen: [œ l e n]
+          * janet: [ʒ a n e t]
+          * güzel: [ɡ y z e l]
+          * şeyin: [ʃ e j i n]
     ```
   - ```{ipa_cell}
     ```
@@ -506,10 +506,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3644
         * Examples
-          * oval: [o v a l]
-          * çoban: [tʃ o b a n]
-          * çokça: [tʃ o k tʃ a]
-          * koyar: [k o j a ɾ]
+          * ona: [o n a]
+          * mor: [m o ɾ]
+          * son: [s o n]
+          * kondu: [k o n d u]
     ```
 * -
   - ```{ipa_cell}
@@ -528,10 +528,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * œ
         * Occurances: 1060
         * Examples
-          * sörfü: [s œ ɾ f y]
-          * öğren: [œ ɾ e n]
-          * öğlen: [œ l e n]
-          * döner: [d œ n e ɾ]
+          * ölen: [œ l e n]
+          * dördü: [d œ ɾ d y]
+          * köpek: [k œ p e k]
+          * öyle: [œ j l e]
     ```
   - ```{ipa_cell}
     ```
@@ -562,10 +562,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 16739
         * Examples
-          * yahu: [j a h u]
-          * idare: [i d a ɾ e]
-          * daire: [d a i ɾ e]
-          * oval: [o v a l]
+          * janet: [ʒ a n e t]
+          * kukla: [k u k l a]
+          * yasa: [j a s a]
+          * davet: [d a v e t]
     ```
   - ```{ipa_cell}
     ```

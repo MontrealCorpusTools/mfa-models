@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
 - **Number of words:** `29,965`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`j̃`, {ipa_inline}`k`, {ipa_inline}`kʷ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`w̃`, {ipa_inline}`z`, {ipa_inline}`õ`, {ipa_inline}`ĩ`, {ipa_inline}`ũ`, {ipa_inline}`ɐ`, {ipa_inline}`ɐ̃`, {ipa_inline}`ɔ`, {ipa_inline}`ɛ`, {ipa_inline}`ɛ̃`, {ipa_inline}`ɡ`, {ipa_inline}`ɡʷ`, {ipa_inline}`ɡ̃`, {ipa_inline}`ɾ`, {ipa_inline}`ʁ`, {ipa_inline}`ʃ`, {ipa_inline}`ʒ`, {ipa_inline}`ẽ`
+- **Phones:** `a b d e f i j j̃ k kʷ l m n o p s t u v w w̃ z õ ĩ ũ ɐ ɐ̃ ɔ ɛ ɛ̃ ɡ ɡʷ ɡ̃ ɾ ʁ ʃ ʒ ẽ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

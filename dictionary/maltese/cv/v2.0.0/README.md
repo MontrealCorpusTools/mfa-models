@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
 - **Number of words:** `12,252`
-- **Phones:** {ipa_inline}`b`, {ipa_inline}`bˤː`, {ipa_inline}`c`, {ipa_inline}`d`, {ipa_inline}`dˤː`, {ipa_inline}`d͡ʒ`, {ipa_inline}`d͡ʒˤː`, {ipa_inline}`f`, {ipa_inline}`fˤː`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`jˤː`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`lˤː`, {ipa_inline}`m`, {ipa_inline}`mˤː`, {ipa_inline}`n`, {ipa_inline}`nˤː`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`rˤː`, {ipa_inline}`s`, {ipa_inline}`sˤː`, {ipa_inline}`t`, {ipa_inline}`tˤː`, {ipa_inline}`t͡s`, {ipa_inline}`t͡sˤː`, {ipa_inline}`t͡ʃ`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`y`, {ipa_inline}`z`, {ipa_inline}`zˤː`, {ipa_inline}`ħ`, {ipa_inline}`ħː`, {ipa_inline}`ɐ`, {ipa_inline}`ɐˤː`, {ipa_inline}`ɔ`, {ipa_inline}`ɔˤː`, {ipa_inline}`ɛ`, {ipa_inline}`ɛˤː`, {ipa_inline}`ɡ`, {ipa_inline}`ɪ`, {ipa_inline}`ɪˤː`, {ipa_inline}`ʃ`, {ipa_inline}`ʃː`, {ipa_inline}`ʃˤː`, {ipa_inline}`ʊ`, {ipa_inline}`ʊˤː`, {ipa_inline}`ʔ`, {ipa_inline}`ʔˤː`, {ipa_inline}`ˤː`
+- **Phones:** `b bˤː c d dˤː d͡ʒ d͡ʒˤː f fˤː h i j jˤː k l lˤː m mˤː n nˤː p r rˤː s sˤː t tˤː t͡s t͡sˤː t͡ʃ v w y z zˤː ħ ħː ɐ ɐˤː ɔ ɔˤː ɛ ɛˤː ɡ ɪ ɪˤː ʃ ʃː ʃˤː ʊ ʊˤː ʔ ʔˤː ˤː`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

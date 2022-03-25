@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#croatian)
 - **Number of words:** `39,653`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`aː`, {ipa_inline}`aː˦˨`, {ipa_inline}`aː˨˦`, {ipa_inline}`a˦˨`, {ipa_inline}`a˨˦`, {ipa_inline}`b`, {ipa_inline}`dʐ`, {ipa_inline}`dʑ`, {ipa_inline}`d̪`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`eː˦˨`, {ipa_inline}`eː˨˦`, {ipa_inline}`e˦˨`, {ipa_inline}`e˨˦`, {ipa_inline}`f`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`iː˦˨`, {ipa_inline}`iː˨˦`, {ipa_inline}`i˦˨`, {ipa_inline}`i˨˦`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`oː˦˨`, {ipa_inline}`oː˨˦`, {ipa_inline}`o˦˨`, {ipa_inline}`o˨˦`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`rː`, {ipa_inline}`r̩`, {ipa_inline}`r̩ː˦˨`, {ipa_inline}`r̩ː˨˦`, {ipa_inline}`r̩˦˨`, {ipa_inline}`r̩˨˦`, {ipa_inline}`s̪`, {ipa_inline}`tɕ`, {ipa_inline}`tʂ`, {ipa_inline}`t̪`, {ipa_inline}`t̪s̪`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`uː˦˨`, {ipa_inline}`uː˨˦`, {ipa_inline}`u˦˨`, {ipa_inline}`u˨˦`, {ipa_inline}`v`, {ipa_inline}`x`, {ipa_inline}`z̪`, {ipa_inline}`ɕ`, {ipa_inline}`ɡ`, {ipa_inline}`ɲ`, {ipa_inline}`ʂ`, {ipa_inline}`ʎ`, {ipa_inline}`ʐ`, {ipa_inline}`ʑ`
+- **Phones:** `a aː aː˦˨ aː˨˦ a˦˨ a˨˦ b dʐ dʑ d̪ e eː eː˦˨ eː˨˦ e˦˨ e˨˦ f i iː iː˦˨ iː˨˦ i˦˨ i˨˦ j k l m n o oː oː˦˨ oː˨˦ o˦˨ o˨˦ p r rː r̩ r̩ː˦˨ r̩ː˨˦ r̩˦˨ r̩˨˦ s̪ tɕ tʂ t̪ t̪s̪ u uː uː˦˨ uː˨˦ u˦˨ u˨˦ v x z̪ ɕ ɡ ɲ ʂ ʎ ʐ ʑ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/croatian/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

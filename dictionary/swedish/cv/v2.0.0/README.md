@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
 - **Number of words:** `22,202`
-- **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`g`, {ipa_inline}`h`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`q`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`yː`, {ipa_inline}`z`, {ipa_inline}`øː`, {ipa_inline}`ŋ`, {ipa_inline}`œ`, {ipa_inline}`ɐ`, {ipa_inline}`ɑː`, {ipa_inline}`ɔ`, {ipa_inline}`ɕ`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɡ`, {ipa_inline}`ɧ`, {ipa_inline}`ɪ`, {ipa_inline}`ɵ`, {ipa_inline}`ʉː`, {ipa_inline}`ʏ`
+- **Phones:** `b d eː f g h iː j k l m n oː p q r s t uː v yː z øː ŋ œ ɐ ɑː ɔ ɕ ɛ ɛː ɡ ɧ ɪ ɵ ʉː ʏ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

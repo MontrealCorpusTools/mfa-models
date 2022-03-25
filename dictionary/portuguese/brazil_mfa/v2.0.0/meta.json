@@ -49,7 +49,7 @@
         "\u0292"
     ],
     "word_count": 32841,
-    "train_date": "2022-03-22",
+    "train_date": "2022-03-24",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_portuguese_brazil_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Portuguese (Brazil) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Portuguese/Portuguese (Brazil) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

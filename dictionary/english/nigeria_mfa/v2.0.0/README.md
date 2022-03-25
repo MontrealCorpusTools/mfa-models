@@ -16,8 +16,8 @@ Jump to section:
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialect:** [Nigerian English](https://en.wikipedia.org/wiki/Nigerian_English)
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#english)
-- **Number of words:** `51,553`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`aj`, {ipa_inline}`aw`, {ipa_inline}`aː`, {ipa_inline}`b`, {ipa_inline}`bʲ`, {ipa_inline}`c`, {ipa_inline}`cʰ`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`dʲ`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`fʲ`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`mʲ`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`pʲ`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`tʃ`, {ipa_inline}`tʰ`, {ipa_inline}`tʲ`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`vʲ`, {ipa_inline}`w`, {ipa_inline}`z`, {ipa_inline}`ç`, {ipa_inline}`ð`, {ipa_inline}`ŋ`, {ipa_inline}`ɔ`, {ipa_inline}`ɔj`, {ipa_inline}`ɛ`, {ipa_inline}`ɛː`, {ipa_inline}`ɜ`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɫ`, {ipa_inline}`ɱ`, {ipa_inline}`ɲ`, {ipa_inline}`ɹ`, {ipa_inline}`ʃ`, {ipa_inline}`ʊ`, {ipa_inline}`ʎ`, {ipa_inline}`ʒ`, {ipa_inline}`ʔ`, {ipa_inline}`θ`
+- **Number of words:** `51,551`
+- **Phones:** `a aj aw aː b bʲ c cʰ d dʒ dʲ e f fʲ h i iː j k kʰ l m mʲ n o p pʰ pʲ s t tʃ tʰ tʲ u uː v vʲ w z ç ð ŋ ɔ ɔj ɛ ɛː ɜ ɟ ɡ ɫ ɱ ɲ ɹ ʃ ʊ ʎ ʒ ʔ θ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/english/nigeria_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

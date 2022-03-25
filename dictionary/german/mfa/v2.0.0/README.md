@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#german)
 - **Number of words:** `281,962`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`aj`, {ipa_inline}`aw`, {ipa_inline}`aː`, {ipa_inline}`b`, {ipa_inline}`c`, {ipa_inline}`cʰ`, {ipa_inline}`d`, {ipa_inline}`eː`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`l`, {ipa_inline}`l̩`, {ipa_inline}`m`, {ipa_inline}`m̩`, {ipa_inline}`n`, {ipa_inline}`n̩`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pf`, {ipa_inline}`pʰ`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tʃ`, {ipa_inline}`tʰ`, {ipa_inline}`uː`, {ipa_inline}`v`, {ipa_inline}`x`, {ipa_inline}`yː`, {ipa_inline}`z`, {ipa_inline}`ç`, {ipa_inline}`øː`, {ipa_inline}`ŋ`, {ipa_inline}`œ`, {ipa_inline}`ɐ`, {ipa_inline}`ɔ`, {ipa_inline}`ɔʏ`, {ipa_inline}`ə`, {ipa_inline}`ɛ`, {ipa_inline}`ɟ`, {ipa_inline}`ɡ`, {ipa_inline}`ɪ`, {ipa_inline}`ɲ`, {ipa_inline}`ʁ`, {ipa_inline}`ʃ`, {ipa_inline}`ʊ`, {ipa_inline}`ʏ`
+- **Phones:** `a aj aw aː b c cʰ d eː f h iː j k kʰ l l̩ m m̩ n n̩ oː p pf pʰ s t ts tʃ tʰ uː v x yː z ç øː ŋ œ ɐ ɔ ɔʏ ə ɛ ɟ ɡ ɪ ɲ ʁ ʃ ʊ ʏ`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/MFA/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

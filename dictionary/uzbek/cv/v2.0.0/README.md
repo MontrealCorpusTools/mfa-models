@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
 - **Number of words:** `910`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`d̪`, {ipa_inline}`d͡ʒ`, {ipa_inline}`e`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`q`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t̪`, {ipa_inline}`t͡s`, {ipa_inline}`t͡ʃ`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`z`, {ipa_inline}`ŋ`, {ipa_inline}`ɒ`, {ipa_inline}`ɡ`, {ipa_inline}`ɸ`, {ipa_inline}`ʁ`, {ipa_inline}`ʃ`, {ipa_inline}`ʔ`, {ipa_inline}`χ`
+- **Phones:** `a b d̪ d͡ʒ e h i j k l m n o p q r s t̪ t͡s t͡ʃ u v z ŋ ɒ ɡ ɸ ʁ ʃ ʔ χ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

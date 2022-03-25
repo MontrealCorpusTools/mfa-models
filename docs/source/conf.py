@@ -40,6 +40,7 @@ extensions = [
     "sphinx_design",
     "sphinx.ext.viewcode",
     "sphinxemoji.sphinxemoji",
+    "sphinx.ext.extlinks",
     'myst_parser',
     'sphinx.ext.autosectionlabel',
     'ipa_charts'
@@ -106,6 +107,12 @@ needs_role_need_max_title_length = 0
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+
+xref_links = {
+    "wikipedia": ("Wikipedia", "https://en.wikipedia.org/wiki/Main_Page"),
+    "phoible": ("Phoible", "https://phoible.org/"),
+    "xpf": ("XPF", "https://cohenpr-xpf.github.io/XPF/"),
+}
 
 needs_extra_links = [
     {

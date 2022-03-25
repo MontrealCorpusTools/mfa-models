@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#korean)
 - **Number of words:** `54,093`
-- **Phones:** {ipa_inline}`b`, {ipa_inline}`d`, {ipa_inline}`dʑ`, {ipa_inline}`e`, {ipa_inline}`eː`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`iː`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`kʰ`, {ipa_inline}`k̚`, {ipa_inline}`k͈`, {ipa_inline}`m`, {ipa_inline}`n`, {ipa_inline}`o`, {ipa_inline}`oː`, {ipa_inline}`p`, {ipa_inline}`pʰ`, {ipa_inline}`p̚`, {ipa_inline}`p͈`, {ipa_inline}`s`, {ipa_inline}`sʰ`, {ipa_inline}`s͈`, {ipa_inline}`t`, {ipa_inline}`tɕ`, {ipa_inline}`tɕʰ`, {ipa_inline}`tɕ͈`, {ipa_inline}`tʰ`, {ipa_inline}`t̚`, {ipa_inline}`t͈`, {ipa_inline}`u`, {ipa_inline}`uː`, {ipa_inline}`w`, {ipa_inline}`x`, {ipa_inline}`ç`, {ipa_inline}`ŋ`, {ipa_inline}`ɐ`, {ipa_inline}`ɕʰ`, {ipa_inline}`ɕ͈`, {ipa_inline}`ɡ`, {ipa_inline}`ɣ`, {ipa_inline}`ɥ`, {ipa_inline}`ɦ`, {ipa_inline}`ɨ`, {ipa_inline}`ɨː`, {ipa_inline}`ɭ`, {ipa_inline}`ɰ`, {ipa_inline}`ɲ`, {ipa_inline}`ɸ`, {ipa_inline}`ɾ`, {ipa_inline}`ʌ`, {ipa_inline}`ʌː`, {ipa_inline}`ʎ`, {ipa_inline}`ʝ`, {ipa_inline}`β`
+- **Phones:** `b d dʑ e eː h i iː j k kʰ k̚ k͈ m n o oː p pʰ p̚ p͈ s sʰ s͈ t tɕ tɕʰ tɕ͈ tʰ t̚ t͈ u uː w x ç ŋ ɐ ɕʰ ɕ͈ ɡ ɣ ɥ ɦ ɨ ɨː ɭ ɰ ɲ ɸ ɾ ʌ ʌː ʎ ʝ β`
 - **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/korean/jamo_mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

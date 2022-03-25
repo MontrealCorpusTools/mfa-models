@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
 - **Number of words:** `1,103`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`dʒ`, {ipa_inline}`e`, {ipa_inline}`i`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`r`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`u`, {ipa_inline}`x`, {ipa_inline}`ã`, {ipa_inline}`õ`, {ipa_inline}`ĩ`, {ipa_inline}`ũ`, {ipa_inline}`ɯ`, {ipa_inline}`ɰ`, {ipa_inline}`ɾ`, {ipa_inline}`ʃ`, {ipa_inline}`ʋ`, {ipa_inline}`ʔ`, {ipa_inline}`̃`, {ipa_inline}`ᵐb`, {ipa_inline}`ᵑɡ`, {ipa_inline}`ẽ`, {ipa_inline}`ⁿd`
+- **Phones:** `a dʒ e i k l o p r s t u x ã õ ĩ ũ ɯ ɰ ɾ ʃ ʋ ʔ ̃ ᵐb ᵑɡ ẽ ⁿd`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

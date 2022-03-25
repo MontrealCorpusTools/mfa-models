@@ -40,6 +40,7 @@ Acoustic models
    Romanian/index.rst
    Russian/index.rst
    Sorbian/index.rst
+   Swahili/index.rst
    Swedish/index.rst
    Tamil/index.rst
    Tatar/index.rst

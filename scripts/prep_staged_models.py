@@ -557,7 +557,7 @@ Jump to section:
 - **Dialect:** {dialect_link}
 - **Phone set:** {phone_set_link}
 - **Number of words:** `{word_count:,}`
-- **Phones:** {phones}
+- **Phones:** `{phones}`
 - **License:** {license_link}
 - **Compatible MFA version:** `v{mfa_version}`
 - **Citation:**
@@ -623,7 +623,7 @@ Jump to section:
 - **Dialect:** {dialect_link}
 - **Phone set:** {phone_set_link}
 - **Number of words:** `{word_count:,}`
-- **Phones:** {phones}
+- **Phones:** `{phones}`
 - **License:** {license_link}
 - **Compatible MFA version:** `v{mfa_version}`
 - **Citation:**
@@ -1284,7 +1284,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'phone_set': meta_data['phone_set'],
-                'phones': ', '.join(f"{{ipa_inline}}`{x}`" for x in meta_data['phones']),
+                'phones': ' '.join(sorted(meta_data['phones'])),
                 'word_count': meta_data['word_count'],
                 'phone_set_link': phone_set_link,
             }
@@ -2130,7 +2130,7 @@ model_corpus_mapping = {
     "Croatian MFA acoustic model v2_0_0": ['Common Voice Serbian v8_0', 'GlobalPhone Croatian v3_1'],
     "Czech MFA acoustic model v2_0_0": ['Common Voice Czech v8_0', 'GlobalPhone Czech v3_1',
                                         "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
-    "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish', 'GlobalPhone Turkish v3_1'],
+    "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
     "Ukrainian MFA acoustic model v2_0_0": ['Common Voice Ukrainian v8_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
     "Vietnamese MFA acoustic model v2_0_0": ['Common Voice Vietnamese v8_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
 }

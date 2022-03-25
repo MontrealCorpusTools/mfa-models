@@ -19,4 +19,9 @@
    ```{admonition} Pronunciation dictionaries
    * {ref}`swahili_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`swahili_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

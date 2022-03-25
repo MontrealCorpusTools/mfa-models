@@ -15,6 +15,8 @@ from montreal_forced_aligner.data import voiced_variants, voiceless_variants, Ph
 
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+UPDATE = True
+
 with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
     token = f.read()
 
@@ -33,6 +35,8 @@ model_type_names ={
 print(manager.remote_models)
 
 base_dict_template = 'https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/{language}/{phone_set}/{version}/{model_name}.dict'
+
+acoustic_mfas = set()
 
 for model_type, model_class in MODEL_TYPES.items():
     if model_type == 'ivector':
@@ -60,14 +64,19 @@ for model_type, model_class in MODEL_TYPES.items():
                 with open(os.path.join(version_dir, 'README.md'), 'r', encoding='utf8') as f:
                     readme = f.read()
                 tag = tag_template.format(model_type=model_type, model_name=model_name, version=version)
+                if 'mfa' in tag and model_type == 'acoustic':
+                    acoustic_mfas.add(lang)
+                elif 'mfa' in tag and lang not in acoustic_mfas:
+                    continue
                 if ('mfa' in tag or 'arpa' in tag) and model_type == 'dictionary':
                     dict_url = base_dict_template.format(language=lang,phone_set=phone_set, version=v, model_name=model_name)
                     readme = readme.replace('\n\n## Installation', f'\n- The dictionary downloadable from this release has trained pronunciation and silence probabilities. The base dictionary is available [here]({dict_url})\n\n##Installation')
-                if 'mfa' in tag:
-                    continue
                 existing_releases= manager.remote_models[model_type]
                 if model_name in existing_releases:
-                    if existing_releases[model_name].version.replace('v', '') == version:
+                    existing = existing_releases[model_name]
+                    if existing.version.replace('v', '') == version:
+                        if UPDATE:
+                            r = requests.patch(existing.release_link, json={'body': readme})
                         continue
                 release = ModelRelease(model_name,tag, version, '','')
                 if model_type == 'dictionary':

@@ -8,12 +8,12 @@
 - **Source:** [ARU English corpus](http://datacat.liverpool.ac.uk/681/)
 - **Language:** [English](https://en.wikipedia.org/wiki/English_language)
 - **Dialects:** [British English](https://en.wikipedia.org/wiki/British_English)
-- **Number of hours:** `0.00`
-- **Number of utterances:** `0`
-- **Number of speakers:** `0`
+- **Number of hours:** `7.13`
+- **Number of utterances:** `8,640`
+- **Number of speakers:** `12`
   - **Female speakers:** `0`
   - **Male speakers:** `0`
-  - **Unknown speakers:** `0`
+  - **Unknown speakers:** `12`
 - **License:** [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 - **Citation:**

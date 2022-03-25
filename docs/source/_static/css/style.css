@@ -129,9 +129,16 @@ white-space: nowrap;
 margin-left:10px;
 }
 
-.ipa-phone-text, .ipa-transcription, .ipa-bracket, ipa-inline {
+.ipa-phone-text, .ipa-transcription, .ipa-bracket, ipa-inline, table.need code.docutils.literal {
   font-family: "GentiumPlusW";
+  font-size: 1.1em;
+  font-weight: 500;
  }
+
+table.need code.docutils.literal span.pre {
+margin: 0em 0.2em
+color: #7AB5E6;
+}
 
 .ipa-transcription, .ipa-bracket {
 color: #7AB5E6;
@@ -212,7 +219,7 @@ color: #003566 !important;
     --pst-color-link-hover: var(--dark-blue);
 
     --pst-color-active-navigation: var(--dark-blue);
-    --pst-color-hover-navigation: var(--light-blue);
+    --pst-color-hover-navigation: var(--base-yellow);
 
     --pst-color-navbar-link: var(--base-blue);
     --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
@@ -236,7 +243,7 @@ table-layout: fixed;
 }
 
 table.need a,
-div.admonition.admonition-pronunciation-dictionary a {
+div.admonition a {
 color: #7AB5E6;
 }
 
@@ -267,21 +274,23 @@ color:#003566;
     font-size:0.5em;
     }
 
-table.need .admonition, div.admonition.admonition-pronunciation-dictionary {
+div.admonition {
 background-color: #000814;
 color: #FFC300;
 }
 
-table.need .admonition-title::before,
-div.admonition.admonition-pronunciation-dictionary .admonition-title::before {
+.admonition.warning > .admonition-title::before,
+.admonition.note > .admonition-title::before,
+div.admonition.warning > .admonition-title::before,
+div.admonition.note > .admonition-title::before,
+div.admonition > .admonition-title::before {
 color: #003566;
 width: 1em;
 height: 1em;
 left: 0.5em;
 }
 
-div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before,
-div.admonition.admonition-pronunciation-dictionary .admonition-title::before{
+div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before{
 content: "\f891"
 }
 
@@ -298,18 +307,20 @@ content: "\f1ab"
 }
 
 table.need .admonition-title,
-div.admonition.admonition-pronunciation-dictionary .admonition-title {
+div.admonition.warning > .admonition-title,
+div.admonition.note > .admonition-title,
+div.admonition p.admonition-title {
 background-color: #FFC300;
 color: #000814;
 }
 
 table.need p,
-div.admonition.admonition-pronunciation-dictionary p {
+div.admonition p {
 color: #FFFFFF;
 }
 
 table.need a:hover,
-div.admonition.admonition-pronunciation-dictionary a:hover {
+div.admonition a:hover {
 color: #7AB5E6;
 }
 
@@ -321,6 +332,7 @@ table.need.head {
 background-color: #003566;
 color: #FFC300;
 }
+
 .sd-btn-navigation{
     background-color: #0E63B3;
     border-color: #0E63B3;

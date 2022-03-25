@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** [Upper Sorbian](https://en.wikipedia.org/wiki/Upper_Sorbian_language)
 - **Phone set:** [XPF](https://github.com/CohenPr-XPF/XPF)
 - **Number of words:** `5,685`
-- **Phones:** {ipa_inline}`a`, {ipa_inline}`b`, {ipa_inline}`bʲ`, {ipa_inline}`d`, {ipa_inline}`dʒ`, {ipa_inline}`e`, {ipa_inline}`f`, {ipa_inline}`h`, {ipa_inline}`i`, {ipa_inline}`j`, {ipa_inline}`k`, {ipa_inline}`l`, {ipa_inline}`m`, {ipa_inline}`mʲ`, {ipa_inline}`n`, {ipa_inline}`nʲ`, {ipa_inline}`o`, {ipa_inline}`p`, {ipa_inline}`pʲ`, {ipa_inline}`s`, {ipa_inline}`t`, {ipa_inline}`ts`, {ipa_inline}`tʃ`, {ipa_inline}`u`, {ipa_inline}`v`, {ipa_inline}`w`, {ipa_inline}`wʲ`, {ipa_inline}`x`, {ipa_inline}`z`, {ipa_inline}`ɡ`, {ipa_inline}`ɨ`, {ipa_inline}`ɪ`, {ipa_inline}`ʀ`, {ipa_inline}`ʀʲ`, {ipa_inline}`ʃ`, {ipa_inline}`ʊ`, {ipa_inline}`ʒ`
+- **Phones:** `a b bʲ d dʒ e f h i j k l m mʲ n nʲ o p pʲ s t ts tʃ u v w wʲ x z ɡ ɨ ɪ ʀ ʀʲ ʃ ʊ ʒ`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**

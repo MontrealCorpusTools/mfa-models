@@ -8,12 +8,12 @@
 - **Source:** [MediaSpeech Turkish](https://openslr.org/108/)
 - **Language:** [Turkish](https://en.wikipedia.org/wiki/Turkish_language)
 - **Dialects:** N/A
-- **Number of hours:** `0.00`
-- **Number of utterances:** `0`
-- **Number of speakers:** `0`
+- **Number of hours:** `10.00`
+- **Number of utterances:** `2,513`
+- **Number of speakers:** `1`
   - **Female speakers:** `0`
   - **Male speakers:** `0`
-  - **Unknown speakers:** `0`
+  - **Unknown speakers:** `1`
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Version:** `1.1`
 - **Citation:**

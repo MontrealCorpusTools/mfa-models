@@ -77,7 +77,7 @@
         "\u03b8"
     ],
     "word_count": 74898,
-    "train_date": "2022-03-22",
+    "train_date": "2022-03-24",
     "version": "2.0.0",
     "citation": "@techreport{\n\tmfa_english_uk_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={English (UK) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/English/English (UK) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }
