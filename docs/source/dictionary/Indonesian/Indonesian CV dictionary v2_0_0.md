@@ -49,10 +49,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4930
         * Examples
-          * menit: [m ə n i t]
-          * manna: [m a n n a]
-          * merah: [m ə r a h]
-          * dama: [d a m a]
+          * camp: [t͡ɕ a m p]
+          * assam: [a s s a m]
+          * maria: [m a r i a]
+          * meja!: [m ə d͡ʑ a]
     ```
   - ```{ipa_cell}
     ```
@@ -61,30 +61,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 6993
         * Examples
-          * menit: [m ə n i t]
-          * count: [t͡ɕ o u n t]
-          * manna: [m a n n a]
-          * uni: [u n i]
+          * diane: [d i a n ə]
+          * can: [t͡ɕ a n]
+          * niles: [n i l ə s]
+          * nikel: [n i k ə l]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 1560
         * Examples
-          * tanya: [t a ɲ a]
-          * bunyi: [b u ɲ i]
-          * bunny: [b u n ɲ]
-          * -nya.: [ɲ a]
+          * punya: [p u ɲ a]
+          * nyala: [ɲ a l a]
+          * rinci: [r i ɲ t͡ɕ i]
+          * inco: [i ɲ t͡ɕ o]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2085
         * Examples
-          * luang: [l u a ŋ]
-          * emang: [ə m a ŋ]
-          * buang: [b u a ŋ]
-          * deng: [d ə ŋ]
+          * range: [r a ŋ ə]
+          * denga: [d ə ŋ a]
+          * ungu.: [u ŋ u]
+          * ingat: [i ŋ a t]
     ```
   - ```{ipa_cell}
     ```
@@ -94,18 +94,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 3272
         * Examples
-          * pria: [p r i a]
-          * sapu.: [s a p u]
-          * palm: [p a l m]
-          * sirip: [s i r i p]
+          * apa?": [a p a]
+          * lupa,: [l u p a]
+          * pipih: [p i p i h]
+          * pulau: [p u l a u]
     * voiced
       * b
         * Occurances: 2984
         * Examples
-          * bebek: [b ə b ə k]
-          * bekas: [b ə k a s]
-          * bawah: [b a w a h]
-          * obyek: [o b j ə k]
+          * hobi: [h o b i]
+          * bukit: [b u k i t]
+          * berat: [b ə r a t]
+          * bon?: [b o n]
     ```
   - ```{ipa_cell}
     ```
@@ -114,18 +114,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 5487
         * Examples
-          * menit: [m ə n i t]
-          * count: [t͡ɕ o u n t]
-          * tanya: [t a ɲ a]
-          * “kita: [k i t a]
+          * situ.: [s i t u]
+          * turis: [t u r i s]
+          * ikut: [i k u t]
+          * three: [t h r ə ə]
     * voiced
       * d
         * Occurances: 2917
         * Examples
-          * idar: [i d a r]
-          * dama: [d a m a]
-          * muda!: [m u d a]
-          * dulu,: [d u l u]
+          * diane: [d i a n ə]
+          * slide: [s l i d ə]
+          * denga: [d ə ŋ a]
+          * dales: [d a l ə s]
     ```
   - ```{ipa_cell}
     ```
@@ -134,27 +134,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 5172
         * Examples
-          * bebek: [b ə b ə k]
-          * bekas: [b ə k a s]
-          * “kita: [k i t a]
-          * kuno: [k u n o]
+          * ikut: [i k u t]
+          * kala: [k a l a]
+          * bukit: [b u k i t]
+          * nikel: [n i k ə l]
     * voiced
       * ɡ
         * Occurances: 1440
         * Examples
-          * gila?: [ɡ i l a]
-          * laga: [l a ɡ a]
-          * gulat: [ɡ u l a t]
-          * lagi,: [l a ɡ i]
+          * gaul: [ɡ a u l]
+          * gigi,: [ɡ i ɡ i]
+          * peggy: [p ə ɡ ɡ j]
+          * gemar: [ɡ ə m a r]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 46
         * Examples
+          * o'day: [o ʔ d a j]
           * 'kan: [ʔ k a n]
           * 'kan?: [ʔ k a n]
-          * o'day: [o ʔ d a j]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -168,18 +168,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ɕ
         * Occurances: 1361
         * Examples
-          * count: [t͡ɕ o u n t]
-          * tracy: [t r a t͡ɕ j]
-          * kaca!: [k a t͡ɕ a]
+          * camp: [t͡ɕ a m p]
+          * can: [t͡ɕ a n]
+          * cam: [t͡ɕ a m]
           * cek.: [t͡ɕ ə k]
     * voiced
       * d͡ʑ
         * Occurances: 899
         * Examples
-          * june: [d͡ʑ u n ə]
-          * joe: [d͡ʑ o ə]
-          * ejaan: [ə d͡ʑ a a n]
-          * jamin: [d͡ʑ a m i n]
+          * meja!: [m ə d͡ʑ a]
+          * jane: [d͡ʑ a n ə]
+          * wujud: [w u d͡ʑ u d]
+          * jika: [d͡ʑ i k a]
     ```
   - ```{ipa_cell}
     ```
@@ -195,18 +195,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 5252
         * Examples
-          * susan: [s u s a n]
-          * bekas: [b ə k a s]
-          * santo: [s a n t o]
-          * sapu.: [s a p u]
+          * usah: [u s a h]
+          * situ.: [s i t u]
+          * turis: [t u r i s]
+          * saat: [s a a t]
     * voiced
       * z
         * Occurances: 135
         * Examples
-          * lezat: [l ə z a t]
           * enzim: [ə n z i m]
-          * azov.: [a z o f]
-          * zeus: [z ə u s]
+          * ynez”: [j n ə z]
+          * liz: [l i z]
+          * oz.: [o z]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -228,10 +228,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1011
         * Examples
-          * staf: [s t a f]
-          * maaf,: [m a a f]
-          * adolf: [a d o l f]
-          * t.v.": [t f]
+          * larva: [l a r f a]
+          * maaf.: [m a a f]
+          * fokus: [f o k u s]
+          * seven: [s ə f ə n]
     ```
   - ```{ipa_cell}
     ```
@@ -244,10 +244,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 2389
         * Examples
-          * merah: [m ə r a h]
-          * bawah: [b a w a h]
-          * lah: [l a h]
-          * hal.: [h a l]
+          * usah: [u s a h]
+          * hobi: [h o b i]
+          * pipih: [p i p i h]
+          * three: [t h r ə ə]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -255,10 +255,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 653
         * Examples
-          * "awan: [a w a n]
-          * bawah: [b a w a h]
-          * win: [w i n]
-          * waktu: [w a k t u]
+          * woo.: [w o o]
+          * hawa: [h a w a]
+          * wujud: [w u d͡ʑ u d]
+          * cawan: [t͡ɕ a w a n]
     ```
   - ```{ipa_cell}
     ```
@@ -269,10 +269,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 645
         * Examples
-          * tracy: [t r a t͡ɕ j]
-          * obyek: [o b j ə k]
-          * raya: [r a j a]
-          * setya: [s ə t j a]
+          * tokyo: [t o k j o]
+          * peggy: [p ə ɡ ɡ j]
+          * you",: [j o u]
+          * buffy: [b u f f j]
     ```
   - ```{ipa_cell}
     ```
@@ -288,10 +288,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 6756
         * Examples
-          * idar: [i d a r]
-          * pria: [p r i a]
-          * merah: [m ə r a h]
-          * tracy: [t r a t͡ɕ j]
+          * larva: [l a r f a]
+          * turis: [t u r i s]
+          * three: [t h r ə ə]
+          * maria: [m a r i a]
     ```
   - ```{ipa_cell}
     ```
@@ -309,10 +309,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 4306
         * Examples
-          * luang: [l u a ŋ]
-          * palm: [p a l m]
-          * lah: [l a h]
-          * alam.: [a l a m]
+          * larva: [l a r f a]
+          * lupa,: [l u p a]
+          * gaul: [ɡ a u l]
+          * pulau: [p u l a u]
     ```
   - ```{ipa_cell}
     ```
@@ -344,10 +344,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 8316
         * Examples
-          * menit: [m ə n i t]
-          * idar: [i d a r]
-          * uni: [u n i]
-          * pria: [p r i a]
+          * situ.: [s i t u]
+          * turis: [t u r i s]
+          * ikut: [i k u t]
+          * hobi: [h o b i]
     ```
   - ```{ipa_cell}
     ```
@@ -360,10 +360,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 5055
         * Examples
-          * count: [t͡ɕ o u n t]
-          * uni: [u n i]
-          * luang: [l u a ŋ]
-          * susan: [s u s a n]
+          * usah: [u s a h]
+          * situ.: [s i t u]
+          * lupa,: [l u p a]
+          * turis: [t u r i s]
     ```
 * -
   - ```{ipa_cell}
@@ -390,10 +390,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3756
         * Examples
-          * count: [t͡ɕ o u n t]
-          * santo: [s a n t o]
-          * kuno: [k u n o]
-          * obyek: [o b j ə k]
+          * woo.: [w o o]
+          * hobi: [h o b i]
+          * fokus: [f o k u s]
+          * “loa: [l o a]
     ```
 * -
   - ```{ipa_cell}
@@ -405,10 +405,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 9701
         * Examples
-          * menit: [m ə n i t]
-          * bebek: [b ə b ə k]
-          * bekas: [b ə k a s]
-          * merah: [m ə r a h]
+          * three: [t h r ə ə]
+          * teh.: [t ə h]
+          * diane: [d i a n ə]
+          * apel: [a p ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -446,10 +446,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 17034
         * Examples
-          * manna: [m a n n a]
-          * idar: [i d a r]
-          * pria: [p r i a]
-          * luang: [l u a ŋ]
+          * usah: [u s a h]
+          * larva: [l a r f a]
+          * apa?": [a p a]
+          * lupa,: [l u p a]
     ```
   - ```{ipa_cell}
     ```

@@ -31,8 +31,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_hausa_mfa_acoustic_2022,
+@techreport{mfa_hausa_mfa_acoustic_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Hausa MFA acoustic model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/acoustic/Hausa/Hausa MFA acoustic model v2_0_0.html}},

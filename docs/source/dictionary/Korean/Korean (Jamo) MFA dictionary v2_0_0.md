@@ -52,20 +52,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 15143
         * Examples
-          * ㄱㅛㅁㅛ: [k j o m j o]
-          * ㅉㅡㅁ: [tɕ͈ ɨ m]
-          * ㅅㅜㅅㅣㅁ: [sʰ u ɕʰ i m]
-          * ㅅㅜㅁㅏㄹ: [sʰ u m ɐ ɭ]
+          * ㄹㅏㅁㅏ: [ɾ ɐ m ɐ]
+          * ㅁㅔㅇㅜㄴ: [m e u n]
+          * ㅍㅗㅁㅏㄹ: [pʰ oː m ɐ ɭ]
+          * ㅁㅏㅇㅠ: [m ɐ j u]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 28729
         * Examples
-          * ㅂㅓㄴㄷㅏ: [p ʌ n d ɐ]
-          * ㅌㅏㄴㅎㅘ: [tʰ ɐ n β w ɐ]
-          * ㄹㅏㄴㅜ: [ɾ ɐ n u]
-          * ㄱㅜㅇㅝㄴ: [k uː w ʌ n]
+          * ㅎㅗㅇㅝㄴ: [ɸ o w ʌ n]
+          * ㅉㅣㄷㅡㄴ: [tɕ͈ i d ɨ n]
+          * ㅌㅣㄴ: [tʰ i n]
+          * ㄴㅡㅍ: [n ɨ p̚]
     ```
   - ```{ipa_cell}
     ```
@@ -74,20 +74,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 3463
         * Examples
-          * ㄴㅛㅇ: [ɲ o ŋ]
-          * ㅂㅔㄴㅊㅣ: [p e ɲ tɕʰ i]
-          * ㅎㅗㄴㅈㅐ: [ɸ o ɲ tɕ eː]
-          * ㅈㅗㄴㅈㅐ: [tɕ o ɲ tɕ eː]
+          * ㅂㅗㄴㅊㅔ: [p o ɲ tɕʰ e]
+          * ㅇㅠㄴㅕㄴ: [j u ɲ ʌ n]
+          * ㅅㅏㄴㅈㅐ: [sʰ ɐ ɲ tɕ eː]
+          * ㅂㅣㄴㄴㅛ: [p i n ɲ o]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 15801
         * Examples
-          * ㄷㅐㅊㅜㅇ: [t eː tɕʰ u ŋ]
-          * ㅇㅜㅂㅏㅇ: [uː b ɐ ŋ]
-          * ㅈㅏㅇㅂㅣ: [tɕ ɐ ŋ b i]
-          * ㅈㅏㅇㄹㅡ: [tɕ ɐ ŋ n ɨ]
+          * ㄱㅕㅇㅂㅣ: [k j ʌː ŋ b i]
+          * ㅍㅏㅅㅐㅇ: [pʰ ɐ sʰ eː ŋ]
+          * ㄱㅐㅊㅣㅇ: [k eː tɕʰ i ŋ]
+          * ㄱㅗㄷㅡㅇ: [k o d ɨ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -97,36 +97,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 5399
         * Examples
-          * ㅂㅓㄴㄷㅏ: [p ʌ n d ɐ]
-          * ㅂㅏㄷㅜㄱ: [p ɐ d u k̚]
-          * ㅂㅗㅅㅏㄱ: [p o sʰ ɐ k̚]
-          * ㅂㅐㄴㅏ: [p eː n ɐ]
+          * ㅂㅏㄷㄱㅗ: [p ɐ t̚ kʰ o]
+          * ㅂㅐㄱㅈㅔ: [p eː k̚ tɕʰ e]
+          * ㅂㅏㅂㅣ: [p ɐ b i]
+          * ᆸㅅㅣㄷㅏ: [p ɕ͈ i d ɐ]
     * voiced
       * b
         * Occurances: 4167
         * Examples
-          * ㅇㅜㅂㅏㅇ: [uː b ɐ ŋ]
-          * ㅈㅏㅇㅂㅣ: [tɕ ɐ ŋ b i]
-          * ㄱㅠㅂㅓㅁ: [k j u b ʌ m]
-          * ㅈㅏㅂㅏ: [tɕ ɐ b ɐ]
+          * ㅂㅏㅂㅣ: [p ɐ b i]
+          * ㄱㅕㅇㅂㅣ: [k j ʌː ŋ b i]
+          * ㅇㅠㅂㅣ: [j uː b i]
+          * ㅈㅗㅂㅜ: [tɕ o b u]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 3929
         * Examples
-          * ㄷㅐㅊㅜㅇ: [t eː tɕʰ u ŋ]
-          * ㄷㅡㄹㅣ: [t ɨ ɾ i]
-          * ㄷㅡㅁㅜㄹ: [t ɨ m u ɭ]
-          * ㄷㅏㄹㄱㅔ: [t ɐ ɭ k e]
+          * ㄷㅓㅍㅊㅕ: [t ʌ p̚ tɕʰ ʌ]
+          * ㄷㅡㅇㅃㅕ: [t ɨ ŋ p͈ j ʌ]
+          * ㄷㅐㄱㅜㄴ: [t eː ɡ u n]
+          * ㄷㅡㄴㄱㅏ: [t ɨ n ɡ ɐ]
     * voiced
       * d
         * Occurances: 9538
         * Examples
-          * ㅂㅓㄴㄷㅏ: [p ʌ n d ɐ]
-          * ㅂㅏㄷㅜㄱ: [p ɐ d u k̚]
-          * ㅅㅏㄷㅗㄴ: [sʰ ɐ d o n]
-          * ㅍㅏㄷㅗ: [pʰ ɐ d o]
+          * ㅉㅣㄷㅡㄴ: [tɕ͈ i d ɨ n]
+          * ᆸㅅㅣㄷㅏ: [p ɕ͈ i d ɐ]
+          * ㅈㅔㄷㅗ: [tɕ e d o]
+          * ㅇㅓㄷㅣ: [ʌ d i]
     ```
   - ```{ipa_cell}
     ```
@@ -137,18 +137,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 8928
         * Examples
-          * ㄱㅖㄹㅠ: [k j eː ɾ j u]
-          * ㄱㅛㅁㅛ: [k j o m j o]
-          * ㄱㅡㄹㅕ: [k ɨ ɾ j ʌ]
-          * ㄱㅜㅇㅝㄴ: [k uː w ʌ n]
+          * ㅇㅗㄱㅐ: [o k eː]
+          * ㄱㅡㅈㅓ: [k ɨ dʑ ʌ]
+          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
+          * ㄱㅕㅇㅂㅣ: [k j ʌː ŋ b i]
     * voiced
       * ɡ
         * Occurances: 12741
         * Examples
-          * ㄲㅏㄹㄱㅗ: [k͈ ɐ ɭ ɡ o]
-          * ㄱㅐㄱㅛ: [k eː ɡ j o]
-          * ㄴㅏㄱㅇㅣ: [n ɐ ɡ i]
-          * ㄹㅑㄱㅇㅓ: [ɾ j ɐ ɡ ʌ]
+          * ㅇㅏㄱㅝㄴ: [ɐ ɡ w ʌ n]
+          * ㅌㅏㄱㅕㄹ: [tʰ ɐ ɡ j ʌ ɭ]
+          * ㅈㅓㄴㄱㅘ: [tɕ ʌ n ɡ w ɐ]
+          * ㅈㅜㄱㅇㅕ: [tɕ u ɡ j ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -164,18 +164,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 6425
         * Examples
-          * ㅈㅏㅇㅂㅣ: [tɕ ɐ ŋ b i]
-          * ㅈㅏㅇㄹㅡ: [tɕ ɐ ŋ n ɨ]
-          * ㅈㅏㅂㅏ: [tɕ ɐ b ɐ]
-          * ㅈㅟㄴ: [tɕ ɥ i n]
+          * ㅈㅣㄴㅣㄴ: [tɕ i n i n]
+          * ㅈㅔㄷㅗ: [tɕ e d o]
+          * ㅈㅓㄴㄱㅘ: [tɕ ʌ n ɡ w ɐ]
+          * ㅈㅣㄴㅅㅣ: [tɕ i n ɕʰ i]
     * voiced
       * dʑ
         * Occurances: 8444
         * Examples
-          * ㅅㅣㅈㅣㅂ: [ɕʰ i dʑ i p̚]
-          * ㅎㅠㅈㅣ: [ç u dʑ i]
-          * ㅅㅏㅇㅈㅜ: [sʰ ɐ ŋ dʑ u]
-          * ㄹㅠㅈㅏ: [ɾ j u dʑ ɐ]
+          * ㄱㅡㅈㅓ: [k ɨ dʑ ʌ]
+          * ㄲㅐㅈㅣ: [k͈ eː dʑ i]
+          * ㅈㅗㅈㅗㅇ: [tɕ o dʑ o ŋ]
+          * ㄹㅗㅈㅡ: [ɾ o dʑ ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -189,10 +189,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 2055
         * Examples
-          * ㅅㅡㅂㄴㅣ: [s ɨ m n i]
-          * ㅅㅔㄱㅅㅡ: [s e k s ɨ]
-          * ㅅㅓㅂㅓ: [s ʌ b ʌ]
-          * ㄹㅣㄴㅅㅡ: [ɾ i n s ɨ]
+          * ㄷㅗㄱㅅㅗ: [t o k s o]
+          * ㅅㅗㅅㅕㄹ: [s o ɕʰ ʌ ɭ]
+          * ㅅㅗㄱㅎㅣ: [s o kʰ i]
+          * ㅇㅣㅂㅅㅜ: [i p s u]
     ```
   - ```{ipa_cell}
     ```
@@ -210,10 +210,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s͈
         * Occurances: 1094
         * Examples
-          * ㅆㅔㅁ: [s͈ e m]
-          * ㅆㅏㅇㅁㅜ: [s͈ ɐ ŋ m u]
-          * ㅆㅡㄹㅔ: [s͈ ɨ ɾ e]
-          * ㅆㅡㄴㅡㄴ: [s͈ ɨ n ɨ n]
+          * ㅆㅡㄸㅗㄹ: [s͈ ɨ t͈ o ɭ]
+          * ㅆㅔㄴㅌㅓ: [s͈ e n tʰ ʌ]
+          * ㅆㅏㄴㅡㄹ: [s͈ ɐ n ɨ ɭ]
+          * ㅆㅡㅁㅕㄴ: [s͈ ɨ m j ʌ n]
     ```
   - ```{ipa_cell}
     ```
@@ -222,10 +222,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕ͈
         * Occurances: 765
         * Examples
-          * ㄱㅣㅁㅆㅣ: [k i m ɕ͈ i]
-          * ㅇㅓㅄㄱㅗ: [ʌː p ɕ͈ ɡ o]
-          * ㅆㅣㅅ: [ɕ͈ i t̚]
-          * ㅇㅓㅄㄱㅣ: [ʌː p ɕ͈ ɡ i]
+          * ᆸㅅㅣㄷㅏ: [p ɕ͈ i d ɐ]
+          * ㅊㅏㅇㅆㅣ: [tɕʰ ɐ ŋ ɕ͈ i]
+          * ㅆㅣㄱㅡㄴ: [ɕ͈ i ɡ ɨ n]
+          * ㅁㅏㅆㅣ: [m ɐ ɕ͈ i]
     ```
   - ```{ipa_cell}
     ```
@@ -239,10 +239,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * sʰ
         * Occurances: 11829
         * Examples
-          * ㅅㅜㅅㅣㅁ: [sʰ u ɕʰ i m]
-          * ㅅㅜㅁㅏㄹ: [sʰ u m ɐ ɭ]
-          * ㅅㅗㅅㅓ: [sʰ oː sʰ ʌ]
-          * ㅂㅗㅅㅏㄱ: [p o sʰ ɐ k̚]
+          * ㅅㅔㅇㅢ: [sʰ eː ɰ i]
+          * ㅊㅏㅅㅜ: [tɕʰ ɐ sʰ u]
+          * ㄹㅗㅅㅡ: [ɾ o sʰ ɨ]
+          * ㅎㅚㅅㅜ: [ɸ w eː sʰ u]
     ```
   - ```{ipa_cell}
     ```
@@ -251,10 +251,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕʰ
         * Occurances: 3428
         * Examples
-          * ㅅㅜㅅㅣㅁ: [sʰ u ɕʰ i m]
-          * ㅅㅣㅈㅣㅂ: [ɕʰ i dʑ i p̚]
-          * ㅅㅣㅇㅘㅇ: [ɕʰ i w ɐ ŋ]
-          * ㄷㅡㅅㅣ: [t ɨ ɕʰ i]
+          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
+          * ㅁㅗㅅㅣ: [m oː ɕʰ i]
+          * ㅈㅣㄴㅅㅣ: [tɕ i n ɕʰ i]
+          * ㅇㅗㅅㅣㅇ: [oː ɕʰ i ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -266,10 +266,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 1000
         * Examples
-          * ㅎㅚㄹㅏㅇ: [ɸ w e ɾ ɐ ŋ]
-          * ㅎㅘㄴ: [ɸ w ɐ n]
-          * ㅎㅜㄴㅏㄴ: [ɸ u n ɐ n]
+          * ㅎㅗㅇㅝㄴ: [ɸ o w ʌ n]
           * ㅎㅗㄹ: [ɸ o ɭ]
+          * ㅎㅚㅅㅜ: [ɸ w eː sʰ u]
+          * ㅎㅜㅂㅏㄹ: [ɸ u b ɐ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -280,18 +280,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 447
         * Examples
-          * ㅎㅠㅈㅣ: [ç u dʑ i]
-          * ㅎㅛㄱㅘ: [ç o ɡ w ɐ]
-          * ㅎㅣㅁㅇㅣ: [ç i m i]
-          * ㅎㅕㄴㅇㅢ: [ç ʌ n ɰ i]
+          * ㅎㅛㅈㅏ: [ç o dʑ ɐ]
+          * ㅎㅢㅂㅣ: [ç i b i]
+          * ㅎㅑㅇ: [ç ɐ ŋ]
+          * ㅎㅕㅂㅊㅣ: [ç ʌ p̚ tɕʰ i]
     * voiced
       * ʝ
         * Occurances: 829
         * Examples
-          * ㄱㅗㅎㅢ: [k o ʝ i]
-          * ㅇㅓㅎㅕㅇ: [ʌ ʝ ʌ ŋ]
-          * ㅈㅓㅎㅢ: [tɕ ʌ ʝ i]
-          * ㅇㅓㄺㅎㅣ: [ʌ k̚ ʝ i]
+          * ㅈㅗㅎㅕㅇ: [tɕ o ʝ ʌ ŋ]
+          * ㄴㅓㅎㅣ: [n ʌ ʝ i]
+          * ㅇㅣㄴㅎㅐ: [i n ʝ eː]
+          * ㅁㅜㅎㅕㅂ: [m uː ʝ ʌ p̚]
     ```
   - ```{ipa_cell}
     ```
@@ -300,18 +300,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 4340
         * Examples
-          * ㅊㅓㅇㅎㅏ: [tɕʰ ʌ ŋ h ɐ]
-          * ㅎㅔㅈㅣㅂ: [h e dʑ i p̚]
-          * ㅎㅓㄹㄷㅏ: [h ʌː ɭ d ɐ]
-          * ㅎㅏㅁㅕㅇ: [h ɐ m j ʌ ŋ]
+          * ㅎㅏㄹㄹㅕ: [h ɐ ʎ ʎ ʌ]
+          * ㅉㅏㄴㅎㅏ: [tɕ͈ ɐ n h ɐ]
+          * ㅎㅏㄴㅏㄹ: [h ɐ n ɐ ɭ]
+          * ㅎㅏㄹㅡ: [h ɐ ɾ ɨ]
     * voiced
       * ɦ
         * Occurances: 2079
         * Examples
-          * ㅅㅏㅎㅏ: [sʰ ɐ ɦ ɐ]
-          * ㄴㅐㅎㅏㄴ: [n eː ɦ ɐ n]
-          * ㅅㅜㅎㅏㄱ: [sʰ u ɦ ɐ k̚]
-          * ㅎㅐㅇㅎㅏ: [h eː ɦ ɐ]
+          * ㄷㅐㅎㅏㄱ: [t eː ɦ ɐ k̚]
+          * ㅂㅗㅎㅐㅇ: [p oː ɦ eː ŋ]
+          * ㅈㅜㅎㅏㅂ: [tɕ u ɦ ɐ p̚]
+          * ㄱㅣㅎㅏㄴ: [k i ɦ ɐ n]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -319,10 +319,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 7116
         * Examples
-          * ㅌㅏㄴㅎㅘ: [tʰ ɐ n β w ɐ]
-          * ㅇㅜㅎㅘ: [uː β w ɐ]
-          * ㄱㅜㅇㅝㄴ: [k uː w ʌ n]
-          * ㄱㅓㄷㅝ: [k ʌː t̚ w ʌ]
+          * ㅎㅗㅇㅝㄴ: [ɸ o w ʌ n]
+          * ㅇㅏㄱㅝㄴ: [ɐ ɡ w ʌ n]
+          * ㅌㅚㅊㅣ: [tʰ w eː tɕʰ i]
+          * ㅎㅚㅅㅜ: [ɸ w eː sʰ u]
     ```
   - ```{ipa_cell}
     ```
@@ -333,27 +333,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 11681
         * Examples
-          * ㄱㅖㄹㅠ: [k j eː ɾ j u]
-          * ㄱㅛㅁㅛ: [k j o m j o]
-          * ㄱㅡㄹㅕ: [k ɨ ɾ j ʌ]
-          * ㄱㅐㄱㅛ: [k eː ɡ j o]
+          * ㅌㅏㄱㅕㄹ: [tʰ ɐ ɡ j ʌ ɭ]
+          * ㄱㅕㅇㅂㅣ: [k j ʌː ŋ b i]
+          * ㅁㅏㅇㅠ: [m ɐ j u]
+          * ㅈㅜㄱㅇㅕ: [tɕ u ɡ j ʌ]
       * ɥ
         * Occurances: 1108
         * Examples
-          * ㅈㅟㄴ: [tɕ ɥ i n]
-          * ㅅㅗㄴㅇㅟ: [sʰ oː n ɥ i]
-          * ㅅㅟㄷㅏ: [sʰ ɥ iː d ɐ]
-          * ㅊㅟㅇㅑㄱ: [tɕʰ ɥ iː j ɐ k̚]
+          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
+          * ㅇㅘㅇㅇㅟ: [w ɐ ŋ ɥ i]
+          * ㄱㅟㅈㅐ: [k ɥ iː dʑ eː]
+          * ㅇㅟㅊㅡㅇ: [ɥ i tɕʰ ɨ ŋ]
     ```
   - ```{ipa_cell}
     * other
       * ɰ
         * Occurances: 1682
         * Examples
-          * ㄱㅗㅅㅇㅢ: [k oː sʰ ɰ i]
-          * ㅇㅢㅈㅓㅇ: [ɰ i dʑ ʌ ŋ]
-          * ㅅㅏㅇㅢ: [sʰ ɐ ɰ i]
-          * ㅋㅗㅇㅇㅢ: [kʰ o ŋ ɰ i]
+          * ㅅㅔㅇㅢ: [sʰ eː ɰ i]
+          * ㄴㅕㄴㅇㅢ: [ɲ ʌ n ɰ i]
+          * ㅅㅓㄱㅇㅢ: [sʰ ʌ ɡ ɰ i]
+          * ㄱㅕㄹㅇㅢ: [k j ʌ ɾ ɰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -365,10 +365,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 11736
         * Examples
-          * ㄹㅏㅇㅔ: [ɾ ɐ e]
-          * ㄱㅖㄹㅠ: [k j eː ɾ j u]
-          * ㄱㅡㄹㅕ: [k ɨ ɾ j ʌ]
-          * ㄹㅏㄴㅜ: [ɾ ɐ n u]
+          * ㄹㅏㅁㅏ: [ɾ ɐ m ɐ]
+          * ㅇㅏㄹㅔ: [ɐ ɾ e]
+          * ㄹㅗㅅㅡ: [ɾ o sʰ ɨ]
+          * ㄸㅏㄹㅡㅁ: [t͈ ɐ ɾ ɨ m]
     ```
   - ```{ipa_cell}
     ```
@@ -390,10 +390,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 3213
         * Examples
-          * ㄱㅓㄹㅊㅕ: [k ʌː ʎ tɕʰ ʌ]
-          * ㄱㅓㄹㄹㅕ: [k ʌː ʎ ʎ ʌ]
-          * ㄱㅏㄹㄹㅕ: [k ɐ ʎ ʎ ʌ]
-          * ㅇㅗㄹㄹㅕ: [o ʎ ʎ ʌ]
+          * ㅎㅏㄹㄹㅕ: [h ɐ ʎ ʎ ʌ]
+          * ㅇㅣㄹㅈㅣ: [i ʎ dʑ i]
+          * ㄱㅡㄹㅈㅏ: [k ɨ ʎ tɕ ɐ]
+          * ㄴㅏㄴㄹㅣ: [n ɐ ʎ ʎ i]
     ```
   - ```{ipa_cell}
     ```
@@ -409,10 +409,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 10883
         * Examples
-          * ㄲㅏㄹㄱㅗ: [k͈ ɐ ɭ ɡ o]
-          * ㅅㅜㅁㅏㄹ: [sʰ u m ɐ ɭ]
-          * ㅇㅣㄹㄹㅜ: [i ɭ ɭ u]
-          * ㄲㅘㄹ: [k͈ w ɐ ɭ]
+          * ㅌㅏㄱㅕㄹ: [tʰ ɐ ɡ j ʌ ɭ]
+          * ㅎㅗㄹ: [ɸ o ɭ]
+          * ㅆㅡㄸㅗㄹ: [s͈ ɨ t͈ o ɭ]
+          * ㅃㅐㄴㅐㄹ: [p͈ eː n eː ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -444,17 +444,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 27539
         * Examples
-          * ㅇㅜㅅㄱㅣ: [u t̚ kʰ i]
-          * ㄷㅡㄹㅣ: [t ɨ ɾ i]
-          * ㅉㅗㅊㄱㅣ: [tɕ͈ o t̚ kʰ i]
-          * ㅅㅜㅅㅣㅁ: [sʰ u ɕʰ i m]
+          * ㅉㅣㄷㅡㄴ: [tɕ͈ i d ɨ n]
+          * ㅌㅣㄴ: [tʰ i n]
+          * ㅅㅔㅇㅢ: [sʰ eː ɰ i]
+          * ㅂㅏㅂㅣ: [p ɐ b i]
       * iː
         * Occurances: 1730
         * Examples
-          * ㅅㅟㄷㅏ: [sʰ ɥ iː d ɐ]
-          * ㅊㅟㅇㅑㄱ: [tɕʰ ɥ iː j ɐ k̚]
+          * ㄱㅟㅅㅣ: [k ɥ iː ɕʰ i]
+          * ㄱㅟㅈㅐ: [k ɥ iː dʑ eː]
+          * ㅇㅣㅈㅜㅇ: [iː dʑ u ŋ]
           * ㅅㅣㅁㄱㅣ: [ɕʰ iː m ɡ i]
-          * ㅅㅣㄹㅕㄱ: [ɕʰ iː ɾ j ʌ k̚]
     ```
   - ```{ipa_cell}
     ```
@@ -463,17 +463,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 16928
         * Examples
-          * ㅉㅡㅁ: [tɕ͈ ɨ m]
-          * ㄱㅡㄹㅕ: [k ɨ ɾ j ʌ]
-          * ㄷㅡㄹㅣ: [t ɨ ɾ i]
-          * ㅈㅏㅇㄹㅡ: [tɕ ɐ ŋ n ɨ]
+          * ㅉㅣㄷㅡㄴ: [tɕ͈ i d ɨ n]
+          * ㄴㅡㅍ: [n ɨ p̚]
+          * ㄱㅡㅈㅓ: [k ɨ dʑ ʌ]
+          * ㄹㅗㅅㅡ: [ɾ o sʰ ɨ]
       * ɨː
         * Occurances: 233
         * Examples
-          * ㄱㅡㅇㅈㅣ: [k ɨː ŋ dʑ i]
-          * ㅇㅡㅇㅣ: [ɨː i]
-          * ㄲㅡㄹㄱㅔ: [k͈ ɨː ɭ k e]
-          * ㅎㅡㅇㅁㅣ: [x ɨː ŋ m i]
+          * ㅇㅡㅇㅡㅁ: [ɨː ɨ m]
+          * ㅇㅡㅁㄹㅛ: [ɨː m ɲ o]
+          * ㄱㅡㄴㅊㅓ: [k ɨː ɲ tɕʰ ʌ]
+          * ㅇㅡㅇㅇㅐ: [ɨː ŋ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -482,17 +482,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 13991
         * Examples
-          * ㅇㅜㅅㄱㅣ: [u t̚ kʰ i]
-          * ㄱㅖㄹㅠ: [k j eː ɾ j u]
-          * ㅂㅏㄷㅜㄱ: [p ɐ d u k̚]
-          * ㄷㅐㅊㅜㅇ: [t eː tɕʰ u ŋ]
+          * ㅁㅔㅇㅜㄴ: [m e u n]
+          * ㅊㅏㅅㅜ: [tɕʰ ɐ sʰ u]
+          * ㅎㅚㅅㅜ: [ɸ w eː sʰ u]
+          * ㅁㅏㅇㅠ: [m ɐ j u]
       * uː
         * Occurances: 1038
         * Examples
-          * ㅇㅜㅎㅘ: [uː β w ɐ]
-          * ㄱㅜㅇㅝㄴ: [k uː w ʌ n]
-          * ㅇㅜㅂㅏㅇ: [uː b ɐ ŋ]
-          * ㅈㅜㅈㅓㅇ: [tɕ uː dʑ ʌ ŋ]
+          * ㅁㅜㄷㅈㅏ: [m uː t̚ tɕʰ ɐ]
+          * ㅇㅠㅂㅣ: [j uː b i]
+          * ㅈㅜㄴㅎㅗ: [tɕ uː n β o]
+          * ㅈㅜㅈㅐ: [tɕ uː tɕ eː]
     ```
 * -
   - ```{ipa_cell}
@@ -511,17 +511,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 9056
         * Examples
-          * ㄹㅏㅇㅔ: [ɾ ɐ e]
-          * ㅇㅑㅎㅚ: [j ɐ β w e]
-          * ㅂㅏㅋㅔ: [p ɐ kʰ e]
-          * ㄴㅏㄱㅈㅔ: [n ɐ k̚ tɕʰ e]
+          * ㅂㅐㄱㅈㅔ: [p eː k̚ tɕʰ e]
+          * ㅁㅔㅇㅜㄴ: [m e u n]
+          * ㅇㅏㄹㅔ: [ɐ ɾ e]
+          * ㅂㅗㄴㅊㅔ: [p o ɲ tɕʰ e]
       * eː
         * Occurances: 8707
         * Examples
-          * ㄱㅖㄹㅠ: [k j eː ɾ j u]
-          * ㄷㅐㅊㅜㅇ: [t eː tɕʰ u ŋ]
-          * ㄱㅐㄱㅛ: [k eː ɡ j o]
-          * ㄱㅐㄹㅑㅇ: [k eː ɾ j ɐ ŋ]
+          * ㅇㅗㄱㅐ: [o k eː]
+          * ㅂㅐㄱㅈㅔ: [p eː k̚ tɕʰ e]
+          * ㅅㅔㅇㅢ: [sʰ eː ɰ i]
+          * ㅌㅚㅊㅣ: [tʰ w eː tɕʰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -534,17 +534,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 18232
         * Examples
-          * ㄲㅏㄹㄱㅗ: [k͈ ɐ ɭ ɡ o]
-          * ㄱㅛㅁㅛ: [k j o m j o]
-          * ㅉㅗㅊㄱㅣ: [tɕ͈ o t̚ kʰ i]
-          * ㄱㅐㄱㅛ: [k eː ɡ j o]
+          * ㅎㅗㅇㅝㄴ: [ɸ o w ʌ n]
+          * ㅂㅏㄷㄱㅗ: [p ɐ t̚ kʰ o]
+          * ㅇㅗㄱㅐ: [o k eː]
+          * ㅂㅗㄴㅊㅔ: [p o ɲ tɕʰ e]
       * oː
         * Occurances: 1742
         * Examples
-          * ㅅㅗㅅㅓ: [sʰ oː sʰ ʌ]
-          * ㄴㅗㅇㅣㄴ: [n oː i n]
-          * ㅅㅗㅅㅏ: [sʰ oː sʰ ɐ]
-          * ㄱㅗㅅㅇㅢ: [k oː sʰ ɰ i]
+          * ㅍㅗㅁㅏㄹ: [pʰ oː m ɐ ɭ]
+          * ㅁㅗㅅㅣ: [m oː ɕʰ i]
+          * ㅇㅗㅅㅣㅇ: [oː ɕʰ i ŋ]
+          * ㅈㅗㅎㅈㅣ: [tɕ oː tɕʰ i]
     ```
 * -
   - ```{ipa_cell}
@@ -571,17 +571,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 24653
         * Examples
-          * ㅂㅓㄴㄷㅏ: [p ʌ n d ɐ]
-          * ㄱㅡㄹㅕ: [k ɨ ɾ j ʌ]
-          * ㄱㅜㅇㅝㄴ: [k uː w ʌ n]
-          * ㄱㅓㄹㅊㅕ: [k ʌː ʎ tɕʰ ʌ]
+          * ㅎㅗㅇㅝㄴ: [ɸ o w ʌ n]
+          * ㄱㅡㅈㅓ: [k ɨ dʑ ʌ]
+          * ㅇㅏㄱㅝㄴ: [ɐ ɡ w ʌ n]
+          * ㅌㅏㄱㅕㄹ: [tʰ ɐ ɡ j ʌ ɭ]
       * ʌː
         * Occurances: 2398
         * Examples
-          * ㄱㅓㄹㅊㅕ: [k ʌː ʎ tɕʰ ʌ]
-          * ㄱㅓㄷㅝ: [k ʌː t̚ w ʌ]
-          * ㄱㅓㄹㄹㅕ: [k ʌː ʎ ʎ ʌ]
-          * ㅎㅓㄹㄷㅏ: [h ʌː ɭ d ɐ]
+          * ㄱㅕㅇㅂㅣ: [k j ʌː ŋ b i]
+          * ㄸㅓㄹ: [t͈ ʌː ɭ]
+          * ㄱㅓㅁㅌㅗ: [k ʌː m tʰ o]
+          * ㅇㅕㄴㄱㅜ: [j ʌː n ɡ u]
     ```
 * -
   - ```{ipa_cell}
@@ -593,10 +593,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 42211
         * Examples
-          * ㅂㅓㄴㄷㅏ: [p ʌ n d ɐ]
-          * ㄲㅏㄹㄱㅗ: [k͈ ɐ ɭ ɡ o]
-          * ㄹㅏㅇㅔ: [ɾ ɐ e]
-          * ㅂㅏㄷㅜㄱ: [p ɐ d u k̚]
+          * ㄹㅏㅁㅏ: [ɾ ɐ m ɐ]
+          * ㅂㅏㄷㄱㅗ: [p ɐ t̚ kʰ o]
+          * ㅇㅏㄱㅝㄴ: [ɐ ɡ w ʌ n]
+          * ㅇㅏㄹㅔ: [ɐ ɾ e]
     ```
   - ```{ipa_cell}
     ```

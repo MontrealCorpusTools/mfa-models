@@ -44,5 +44,5 @@
     "word_count": 69523,
     "train_date": "2022-03-24",
     "version": "2.0.0",
-    "citation": "@techreport{\n\tmfa_spanish_latin_america_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Spanish (Latin America) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Spanish/Spanish (Latin America) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
+    "citation": "@techreport{mfa_spanish_latin_america_mfa_dictionary_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Spanish (Latin America) MFA dictionary v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Spanish/Spanish (Latin America) MFA dictionary v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

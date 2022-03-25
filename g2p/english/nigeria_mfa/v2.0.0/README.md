@@ -29,8 +29,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_english_nigeria_mfa_g2p_2022,
+@techreport{mfa_english_nigeria_mfa_g2p_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={English (Nigeria) MFA G2P model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/G2P model/English/English (Nigeria) MFA G2P model v2_0_0.html}},

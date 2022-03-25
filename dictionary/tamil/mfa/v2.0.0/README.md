@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_tamil_mfa_dictionary_2022,
+@techreport{mfa_tamil_mfa_dictionary_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Tamil MFA dictionary v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Tamil/Tamil MFA dictionary v2_0_0.html}},

@@ -5,7 +5,7 @@
     "phone_set": "MFA",
     "version": "2.0.0",
     "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
-    "citation": "@techreport{\n\tmfa_croatian_mfa_acoustic_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Croatian MFA acoustic model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Croatian/Croatian MFA acoustic model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}",
+    "citation": "@techreport{mfa_croatian_mfa_acoustic_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Croatian MFA acoustic model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Croatian/Croatian MFA acoustic model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}",
     "license": "CC BY 4.0",
     "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/croatian/mfa/v2.0.0/LICENSE)",
     "architecture": "gmm-hmm",

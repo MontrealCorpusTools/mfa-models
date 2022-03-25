@@ -62,5 +62,5 @@
     ],
     "version": "2.0.0",
     "train_date": "2022-03-21",
-    "citation": "@techreport{\n\tmfa_swahili_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Swahili MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Swahili/Swahili MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
+    "citation": "@techreport{mfa_swahili_mfa_g2p_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Swahili MFA G2P model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/G2P model/Swahili/Swahili MFA G2P model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Mar},\n}"
 }

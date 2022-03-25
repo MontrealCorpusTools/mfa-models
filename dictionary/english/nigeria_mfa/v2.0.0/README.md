@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_english_nigeria_mfa_dictionary_2022,
+@techreport{mfa_english_nigeria_mfa_dictionary_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={English (Nigeria) MFA dictionary v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/English/English (Nigeria) MFA dictionary v2_0_0.html}},

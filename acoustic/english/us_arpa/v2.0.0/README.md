@@ -31,8 +31,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_english_us_arpa_acoustic_2022,
+@techreport{mfa_english_us_arpa_acoustic_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={English (US) ARPA acoustic model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/acoustic/English/English (US) ARPA acoustic model v2_0_0.html}},

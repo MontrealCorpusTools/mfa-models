@@ -50,10 +50,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 7105
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 米奇老鼠: [m i˨˩˦ tɕʰ i˧˥ l au˨˩˦ ʂ u˨˩˦]
-          * 沒意思: [m ei˧˥ i˥˩ s z̩˩]
-          * 梅拉尼婭: [m ei˧˥ l a˥˥ n i˧˥ j a˥˩]
+          * 大韓民國: [t a˥˩ x a˧˥ n m i˧˥ n k w o˧˥]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 黃麴黴: [x w a˧˥ ŋ tɕʰ y˥˥ m ei˧˥]
+          * 油麻地: [j ou˧˥ m a˧˥ t i˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 39160
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 波士頓: [p w o˥˥ ʂ ʐ̩˥˩ t w ə˥˩ n]
-          * 開天闢地: [kʰ ai˥˥ tʰ j e˥˥ n pʰ i˥˩ t i˥˩]
+          * 咖啡鹼: [kʰ a˥˥ f ei˥˥ tɕ j e˨˩˦ n]
+          * 大韓民國: [t a˥˩ x a˧˥ n m i˧˥ n k w o˧˥]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 文德甲: [w ə˧˥ n t o˧˥ tɕ j a˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -76,10 +76,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 30436
         * Examples
-          * 紅豆沙: [x u˧˥ ŋ t ou˥˩ ʂ a˥˥]
-          * 從今以後: [tsʰ u˧˥ ŋ tɕ i˥˥ n i˨˩˦ x ou˥˩]
-          * 邦邦牙: [p a˥˥ ŋ p a˥˥ ŋ j a˧˥]
-          * 調和平均數: [tʰ j au˧˥ x o˧˥ pʰ i˧˥ ŋ tɕ y˥˥ n ʂ u˥˩]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 循環經濟: [ɕ y˧˥ n x w a˧˥ n tɕ i˥˥ ŋ tɕ i˥˩]
+          * 取景器: [tɕʰ y˨˩˦ tɕ i˨˩˦ ŋ tɕʰ i˥˩]
       * ŋ̍
         * Occurances: 2
         * Examples
@@ -92,10 +92,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 9354
         * Examples
-          * 波士頓: [p w o˥˥ ʂ ʐ̩˥˩ t w ə˥˩ n]
-          * 邦邦牙: [p a˥˥ ŋ p a˥˥ ŋ j a˧˥]
-          * 北達科他: [p ei˨˩˦ t a˧˥ kʰ o˥˥ tʰ a˥˥]
-          * 送鞦波: [s u˥˩ ŋ tɕʰ j ou˥˥ p w o˥˥]
+          * 靶細胞: [p a˨˩˦ ɕ i˥˩ p au˥˥]
+          * 西部時代: [ɕ i˥˥ p u˥˩ ʂ ʐ̩˧˥ t ai˥˩]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 半路夫妻: [p a˥˩ n l u˥˩ f u˥˥ tɕʰ i˥˥]
     ```
   - ```{ipa_cell}
     ```
@@ -104,10 +104,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 11030
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 紅豆沙: [x u˧˥ ŋ t ou˥˩ ʂ a˥˥]
-          * 波士頓: [p w o˥˥ ʂ ʐ̩˥˩ t w ə˥˩ n]
-          * 開天闢地: [kʰ ai˥˥ tʰ j e˥˥ n pʰ i˥˩ t i˥˩]
+          * 大韓民國: [t a˥˩ x a˧˥ n m i˧˥ n k w o˧˥]
+          * 西部時代: [ɕ i˥˥ p u˥˩ ʂ ʐ̩˧˥ t ai˥˩]
+          * 文德甲: [w ə˧˥ n t o˧˥ tɕ j a˨˩˦]
+          * 替代醫學: [tʰ i˥˩ t ai˥˩ i˥˥ ɕ ɥ e˧˥]
     ```
   - ```{ipa_cell}
     ```
@@ -118,20 +118,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 8160
         * Examples
-          * 歸根到底: [k w ei˥˥ k ə˥˥ n t au˥˩ t i˨˩˦]
-          * 供求關係: [k u˥˥ ŋ tɕʰ j ou˧˥ k w a˥˥ n ɕ i˥˩]
-          * 蘑菇醬: [m w o˧˥ k u˥˥]
-          * 黃金分割: [x w a˧˥ ŋ tɕ i˥˥ n f ə˥˥ n k o˥˥]
+          * 大韓民國: [t a˥˩ x a˧˥ n m i˧˥ n k w o˧˥]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 古氣候學傢: [k u˨˩˦ tɕʰ i˥˩ x ou˥˩ ɕ ɥ e˧˥ tɕ j a˥˥]
+          * 草根性: [tsʰ au˨˩˦ k ə˥˥ n ɕ i˥˩ ŋ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 3497
         * Examples
-          * 愛爾蘭咖啡: [ʔ ai˥˩ ʔ o˨˩˦ ɻ l a˧˥ n kʰ a˥˥ f ei˥˥]
-          * 皮爾遜: [pʰ i˧˥ ʔ o˨˩˦ ɻ ɕ y˥˩ n]
-          * 厄裏亞: [ʔ o˥˩ l i˨˩˦ j a˥˩]
-          * 帕爾馬: [pʰ a˥˩ ʔ o˨˩˦ ɻ m a˨˩˦]
+          * 阿斯旺高壩: [ʔ a˥˥ s z̩˥˥ w a˥˩ ŋ k au˥˥ p a˥˩]
+          * 錫爾河: [ɕ i˥˥ ʔ o˨˩˦ ɻ x o˧˥]
+          * 兩岸三地: [l j a˨˩˦ ŋ ʔ a˥˩ n s a˥˥ n t i˥˩]
+          * 梵阿玲: [f a˥˩ n ʔ a˥˥ l i˧˥ ŋ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -143,30 +143,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 5010
         * Examples
-          * 讚美詩: [ts a˥˩ n m ei˨˩˦ ʂ ʐ̩˥˥]
-          * 韓非子: [x a˧˥ n f ei˥˥ ts z̩˨˩˦]
-          * 恨賊勒: [x ə˥˩ n ts ei˧˥ l o˥˩]
-          * 知識分子: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˥˩ f ə˥˩ n ts z̩˨˩˦]
+          * 小夥子: [ɕ j au˨˩˦ x w o˨˩˦ ts z̩˦]
+          * 獅子山: [ʂ ʐ̩˥˥ ts z̩˨˩˦ ʂ a˥˥ n]
+          * 皮揣子: [pʰ i˧˥ ʈʂʰ w ai˥˥ ts z̩˨]
+          * 仿造詞: [f a˨˩˦ ŋ ts au˥˩ tsʰ z̩˧˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈʂ
         * Occurances: 9431
         * Examples
-          * 抗日戰爭: [kʰ a˥˩ ŋ ʐ̩˥˩ ʈʂ a˥˩ n ʈʂ o˥˥ ŋ]
-          * 指揮部: [ʈʂ ʐ̩˨˩˦ x w ei˥˥ p u˥˩]
-          * 珠穆朗瑪峰: [ʈʂ u˥˥ m u˥˩ l a˨˩˦ ŋ m a˨˩˦ f o˥˥ ŋ]
-          * 被害者: [p ei˥˩ x ai˥˩ ʈʂ o˨˩˦]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 手指頭: [ʂ ou˨˩˦ ʈʂ ʐ̩˨˩˦ tʰ ou˦]
+          * 拉普山小種: [l a˥˥ pʰ u˨˩˦ ʂ a˥˥ n ɕ j au˨˩˦ ʈʂ u˨˩˦ ŋ]
+          * 多元宇宙: [t w o˥˥ ɥ e˧˥ n y˨˩˦ ʈʂ ou˥˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * tɕ
         * Occurances: 13254
         * Examples
-          * 從今以後: [tsʰ u˧˥ ŋ tɕ i˥˥ n i˨˩˦ x ou˥˩]
-          * 九尾狐: [tɕ j ou˨˩˦ w ei˨˩˦ x u˧˥]
-          * 小金門: [ɕ j au˨˩˦ tɕ i˥˥ n m ə˧˥ n]
-          * 調和平均數: [tʰ j au˧˥ x o˧˥ pʰ i˧˥ ŋ tɕ y˥˥ n ʂ u˥˩]
+          * 咖啡鹼: [kʰ a˥˥ f ei˥˥ tɕ j e˨˩˦ n]
+          * 文德甲: [w ə˧˥ n t o˧˥ tɕ j a˨˩˦]
+          * 循環經濟: [ɕ y˧˥ n x w a˧˥ n tɕ i˥˥ ŋ tɕ i˥˩]
+          * 取景器: [tɕʰ y˨˩˦ tɕ i˨˩˦ ŋ tɕʰ i˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -182,53 +182,53 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 4814
         * Examples
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 沒意思: [m ei˧˥ i˥˩ s z̩˩]
-          * 送鞦波: [s u˥˩ ŋ tɕʰ j ou˥˥ p w o˥˥]
-          * 三角窗: [s a˥˥ n tɕ j au˨˩˦ ʈʂʰ w a˥˥ ŋ]
+          * 桑螵蛸: [s a˥˥ ŋ pʰ j au˥˥ ɕ j au˥˥]
+          * 阿斯旺高壩: [ʔ a˥˥ s z̩˥˥ w a˥˩ ŋ k au˥˥ p a˥˩]
+          * 天下九塞: [tʰ j e˥˥ n ɕ j a˥˩ tɕ j ou˨˩˦ s ai˥˩]
+          * 鹹酸甜: [ɕ j e˧˥ n s w a˥˥ n tʰ j e˧˥ n]
     * voiced
       * z̩
         * Occurances: 4182
         * Examples
-          * 屯子山: [tʰ w ə˧˥ n ts z̩˨ ʂ a˥˥ n]
-          * 老頭子: [l au˨˩˦ tʰ ou˧˥ ts z̩˨]
-          * 曾孫子: [ts o˥˥ ŋ s w ə˥˥ n ts z̩˨]
-          * 吉爾吉斯: [tɕ i˧˥ ʔ o˨˩˦ ɻ tɕ i˧˥ s z̩˥˥]
+          * 四點火: [s z̩˥˩ t j e˨˩˦ n x w o˨˩˦]
+          * 椰子油: [j e˥˥ ts z̩˨ j ou˧˥]
+          * 果子酒: [k w o˨˩˦ ts z̩˦ tɕ j ou˨˩˦]
+          * 皮揣子: [pʰ i˧˥ ʈʂʰ w ai˥˥ ts z̩˨]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 12045
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 紅豆沙: [x u˧˥ ŋ t ou˥˩ ʂ a˥˥]
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 波士頓: [p w o˥˥ ʂ ʐ̩˥˩ t w ə˥˩ n]
+          * 西部時代: [ɕ i˥˥ p u˥˩ ʂ ʐ̩˧˥ t ai˥˩]
+          * 手指頭: [ʂ ou˨˩˦ ʈʂ ʐ̩˨˩˦ tʰ ou˦]
+          * 柳樹𨟠: [l j ou˨˩˦ ʂ u˥˩ tɕʰ ɥ e˥˥ n]
+          * 拉普山小種: [l a˥˥ pʰ u˨˩˦ ʂ a˥˥ n ɕ j au˨˩˦ ʈʂ u˨˩˦ ŋ]
     * voiced
       * ʐ
         * Occurances: 2738
         * Examples
-          * 被收養人: [p ei˥˩ ʂ ou˥˥ j a˨˩˦ ŋ ʐ ə˧˥ n]
-          * 平上去入: [pʰ i˧˥ ŋ ʂ a˥˩ ŋ tɕʰ y˥˩ ʐ u˥˩]
-          * 納稅人: [n a˥˩ ʂ w ei˥˩ ʐ ə˧˥ n]
-          * 人畜無害: [ʐ ə˧˥ n ʈʂʰ u˥˩ u˧˥ x ai˥˩]
+          * 薏苡仁: [i˥˩ i˨˩˦ ʐ ə˧˥ n]
+          * 肉燥飯: [ʐ ou˥˩ s au˥˩ f a˥˩ n]
+          * 拉讓江: [l a˥˥ ʐ a˥˩ ŋ tɕ j a˥˥ ŋ]
+          * 嘉絨語: [tɕ j a˥˥ ʐ u˧˥ ŋ y˨˩˦]
       * ʐ̩
         * Occurances: 7056
         * Examples
-          * 鑰匙扣: [j au˥˩ ʂ ʐ̩˩ kʰ ou˥˩]
-          * 知識麵: [ʈʂ ʐ̩˥˥ ʂ ʐ̩˨ m j e˥˩ n]
-          * 禮儀之邦: [l i˨˩˦ i˧˥ ʈʂ ʐ̩˥˥ p a˥˥ ŋ]
-          * 民間故事: [m i˧˥ n tɕ j e˥˥ n k u˥˩ ʂ ʐ̩˩]
+          * 棉拭子: [m j e˧˥ n ʂ ʐ̩˥˩ ts z̩˩]
+          * 故事片: [k u˥˩ ʂ ʐ̩˩ pʰ j e˥˩ n]
+          * 無事可做: [u˧˥ ʂ ʐ̩˥˩ kʰ o˨˩˦ ts w o˥˩]
+          * 訂婚戒指: [t i˥˩ ŋ x w ə˥˥ n tɕ j e˥˩ ʈʂ ʐ̩˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 11432
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 小金門: [ɕ j au˨˩˦ tɕ i˥˥ n m ə˧˥ n]
-          * 皮爾遜: [pʰ i˧˥ ʔ o˨˩˦ ɻ ɕ y˥˩ n]
-          * 剋氏線: [kʰ o˥˩ ʂ ʐ̩˥˩ ɕ j e˥˩ n]
+          * 靶細胞: [p a˨˩˦ ɕ i˥˩ p au˥˥]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 西部時代: [ɕ i˥˥ p u˥˩ ʂ ʐ̩˧˥ t ai˥˩]
+          * 循環經濟: [ɕ y˧˥ n x w a˧˥ n tɕ i˥˥ ŋ tɕ i˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -242,10 +242,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 5888
         * Examples
-          * 愛爾蘭咖啡: [ʔ ai˥˩ ʔ o˨˩˦ ɻ l a˧˥ n kʰ a˥˥ f ei˥˥]
-          * 長音符: [ʈʂʰ a˧˥ ŋ i˥˥ n f u˧˥]
-          * 口風琴: [kʰ ou˨˩˦ f o˥˥ ŋ tɕʰ i˧˥ n]
-          * 韓非子: [x a˧˥ n f ei˥˥ ts z̩˨˩˦]
+          * 咖啡鹼: [kʰ a˥˥ f ei˥˥ tɕ j e˨˩˦ n]
+          * 半路夫妻: [p a˥˩ n l u˥˩ f u˥˥ tɕʰ i˥˥]
+          * 方艙醫院: [f a˥˥ ŋ tsʰ a˥˥ ŋ i˥˥ ɥ e˥˩ n]
+          * 德律風: [t o˧˥ l y˥˩ f o˥˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -263,10 +263,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 22265
         * Examples
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 波士頓: [p w o˥˥ ʂ ʐ̩˥˩ t w ə˥˩ n]
-          * 九尾狐: [tɕ j ou˨˩˦ w ei˨˩˦ x u˧˥]
-          * 呂溫侯: [l y˨˩˦ w ə˥˥ n x ou˧˥]
+          * 大韓民國: [t a˥˩ x a˧˥ n m i˧˥ n k w o˧˥]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 文德甲: [w ə˧˥ n t o˧˥ tɕ j a˨˩˦]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -277,27 +277,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɻ
         * Occurances: 1414
         * Examples
-          * 愛爾蘭咖啡: [ʔ ai˥˩ ʔ o˨˩˦ ɻ l a˧˥ n kʰ a˥˥ f ei˥˥]
-          * 皮爾遜: [pʰ i˧˥ ʔ o˨˩˦ ɻ ɕ y˥˩ n]
-          * 帕爾馬: [pʰ a˥˩ ʔ o˨˩˦ ɻ m a˨˩˦]
-          * 埃爾布隆格: [ʔ ai˥˥ ʔ o˨˩˦ ɻ p u˥˩ l u˧˥ ŋ k o˧˥]
+          * 錫爾河: [ɕ i˥˥ ʔ o˨˩˦ ɻ x o˧˥]
+          * 混血兒: [x w ə˥˩ n ɕ j e˨˩˦ ʔ o˧˥ ɻ]
+          * 兒童福利院: [ʔ o˧˥ ɻ tʰ u˧˥ ŋ f u˧˥ l i˥˩ ɥ e˥˩ n]
+          * 高爾基: [k au˥˥ ʔ o˨˩˦ ɻ tɕ i˥˥]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 27399
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 開天闢地: [kʰ ai˥˥ tʰ j e˥˥ n pʰ i˥˩ t i˥˩]
-          * 九尾狐: [tɕ j ou˨˩˦ w ei˨˩˦ x u˧˥]
-          * 邦邦牙: [p a˥˥ ŋ p a˥˥ ŋ j a˧˥]
+          * 咖啡鹼: [kʰ a˥˥ f ei˥˥ tɕ j e˨˩˦ n]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 文德甲: [w ə˧˥ n t o˧˥ tɕ j a˨˩˦]
+          * 古氣候學傢: [k u˨˩˦ tɕʰ i˥˩ x ou˥˩ ɕ ɥ e˧˥ tɕ j a˥˥]
       * ɥ
         * Occurances: 4285
         * Examples
-          * 樹木年代學: [ʂ u˥˩ m u˥˩ n j e˧˥ n t ai˥˩ ɕ ɥ e˧˥]
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 閱覽室: [ɥ e˥˩ l a˨˩˦ n ʂ ʐ̩˥˩]
-          * 朋友圈: [pʰ o˧˥ ŋ j ou˨ tɕʰ ɥ e˥˥ n]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 古氣候學傢: [k u˨˩˦ tɕʰ i˥˩ x ou˥˩ ɕ ɥ e˧˥ tɕ j a˥˥]
+          * 替代醫學: [tʰ i˥˩ t ai˥˩ i˥˥ ɕ ɥ e˧˥]
+          * 柳樹𨟠: [l j ou˨˩˦ ʂ u˥˩ tɕʰ ɥ e˥˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -313,10 +313,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 11655
         * Examples
-          * 米奇老鼠: [m i˨˩˦ tɕʰ i˧˥ l au˨˩˦ ʂ u˨˩˦]
-          * 呂溫侯: [l y˨˩˦ w ə˥˥ n x ou˧˥]
-          * 閱覽室: [ɥ e˥˩ l a˨˩˦ n ʂ ʐ̩˥˩]
-          * 愛爾蘭咖啡: [ʔ ai˥˩ ʔ o˨˩˦ ɻ l a˧˥ n kʰ a˥˥ f ei˥˥]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 半路夫妻: [p a˥˩ n l u˥˩ f u˥˥ tɕʰ i˥˥]
+          * 加泰隆尼亞: [tɕ j a˥˥ tʰ ai˥˩ l u˧˥ ŋ n i˧˥ j a˥˩]
+          * 高利貸: [k au˥˥ l i˥˩ t ai˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -350,18 +350,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 28680
         * Examples
-          * 從今以後: [tsʰ u˧˥ ŋ tɕ i˥˥ n i˨˩˦ x ou˥˩]
-          * 沒意思: [m ei˧˥ i˥˩ s z̩˩]
-          * 飲水思源: [i˨˩˦ n ʂ w ei˨˩˦ s z̩˥˥ ɥ e˧˥ n]
-          * 土地老: [tʰ u˨˩˦ t i˦ l au˨˩˦]
+          * 半路夫妻: [p a˥˩ n l u˥˩ f u˥˥ tɕʰ i˥˥]
+          * 替代醫學: [tʰ i˥˩ t ai˥˩ i˥˥ ɕ ɥ e˧˥]
+          * 皮揣子: [pʰ i˧˥ ʈʂʰ w ai˥˥ ts z̩˨]
+          * 土地爺: [tʰ u˨˩˦ t i˦ j e˧˥]
     * rounded
       * y
         * Occurances: 5772
         * Examples
-          * 皮爾遜: [pʰ i˧˥ ʔ o˨˩˦ ɻ ɕ y˥˩ n]
-          * 香砂六君丸: [ɕ j a˥˥ ŋ ʂ a˥˥ l j ou˥˩ tɕ y˥˥ n w a˧˥ n]
-          * 豁齣去: [x w o˥˥ ʈʂʰ u˨ tɕʰ y˩]
-          * 愉景灣: [y˧˥ tɕ i˨˩˦ ŋ w a˥˥ n]
+          * 黃麴黴: [x w a˧˥ ŋ tɕʰ y˧˥ m ei˧˥]
+          * 菊苣根: [tɕ y˧˥ tɕ y˥˩ k ə˥˥ n]
+          * 外甥女婿: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦ ɕ y˦]
+          * 站街女: [ʈʂ a˥˩ n tɕ j e˥˥ n y˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -374,10 +374,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 22611
         * Examples
-          * 珠穆朗瑪峰: [ʈʂ u˥˥ m u˥˩ l a˨˩˦ ŋ m a˨˩˦ f o˥˥ ŋ]
-          * 燈籠果: [t o˥˥ ŋ l u˨ ŋ k w o˨˩˦]
-          * 打鐵師傅: [t a˨˩˦ tʰ j e˨˩˦ ʂ ʐ̩˥˥ f u˨]
-          * 喘不過氣: [ʈʂʰ w a˨˩˦ n p u˦ k w o˥˩ tɕʰ i˥˩]
+          * 土地爺: [tʰ u˨˩˦ t i˥˩ j e˧˥]
+          * 保不定: [p au˨˩˦ p u˦ t i˥˩ ŋ]
+          * 拉普山小種: [l a˥˥ pʰ u˨˩˦ ʂ a˥˥ n ɕ j au˨˩˦ ʈʂ u˨˩˦ ŋ]
+          * 保不齊: [p au˨˩˦ p u˦ tɕʰ i˧˥]
     ```
 * -
   - ```{ipa_cell}
@@ -396,10 +396,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 16156
         * Examples
-          * 信天遊: [ɕ i˥˩ n tʰ j e˥˥ n j ou˧˥]
-          * 開天闢地: [kʰ ai˥˥ tʰ j e˥˥ n pʰ i˥˩ t i˥˩]
-          * 老大爺: [l au˨˩˦ t a˥˩ j e˩]
-          * 新姑爺: [ɕ i˥˥ n k u˥˥ j e˨]
+          * 古氣候學傢: [k u˨˩˦ tɕʰ i˥˩ x ou˥˩ ɕ ɥ e˧˥ tɕ j a˥˥]
+          * 長時間: [ʈʂʰ a˧˥ ŋ ʂ ʐ̩˧˥ tɕ j e˥˥ n]
+          * 關老爺: [k w a˥˥ n l au˨˩˦ j e˦]
+          * 吉野川: [tɕ i˧˥ j e˨˩˦ ʈʂʰ w a˥˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -412,10 +412,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 19882
         * Examples
-          * 皮爾遜: [pʰ i˧˥ ʔ o˨˩˦ ɻ ɕ y˥˩ n]
-          * 愛爾蘭咖啡: [ʔ ai˥˩ ʔ o˨˩˦ ɻ l a˧˥ n kʰ a˥˥ f ei˥˥]
-          * 鬍蘿蔔蛋糕: [x u˧˥ l w o˧˥ p w o˨ t a˥˩ n k au˥˥]
-          * 外甥女婿: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦ ɕ y˦]
+          * 中國崩潰論: [ʈʂ u˥˥ ŋ k w o˧˥ p o˥˥ ŋ kʰ w ei˥˩ l w ə˥˩ n]
+          * 榴連果: [l j ou˧˥ l j e˧˥ n k w o˨˩˦]
+          * 外甥女: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦]
+          * 老婆餅: [l au˨˩˦ pʰ w o˦ p i˨˩˦ ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -427,10 +427,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 7328
         * Examples
-          * 打鐵的: [t a˨˩˦ tʰ j e˨˩˦ t ə˦]
-          * 哥們兒: [k o˥˥ m ə˨ ɻ]
-          * 小金門: [ɕ j au˨˩˦ tɕ i˥˥ n m ə˧˥ n]
-          * 精神分裂癥: [tɕ i˥˥ ŋ ʂ ə˧˥ n f ə˥˥ n l j e˥˩ ʈʂ o˥˩ ŋ]
+          * 劍門關: [tɕ j e˥˩ n m ə˧˥ n k w a˥˥ n]
+          * 四個現代化: [s z̩˥˩ k ə˩ ɕ j e˥˩ n t ai˥˩ x w a˥˩]
+          * 薄荷醇: [p w o˥˩ x ə˩ ʈʂʰ w ə˧˥ n]
+          * 同分異構體: [tʰ u˧˥ ŋ f ə˥˥ n i˥˩ k ou˥˩ tʰ i˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -468,10 +468,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 36127
         * Examples
-          * 梅拉尼婭: [m ei˧˥ l a˥˥ n i˧˥ j a˥˩]
-          * 娃娃臉: [w a˧˥ w a˨ l j e˨˩˦ n]
-          * 呼吸睏難: [x u˥˥ ɕ i˥˥ kʰ w ə˥˩ n n a˩ n]
-          * 脊樑骨: [tɕ i˨˩˦ l j a˦ ŋ k u˨˩˦]
+          * 相模原: [ɕ j a˥˩ ŋ m w o˧˥ ɥ e˧˥ n]
+          * 哈巴狗: [x a˥˩ p a˩ k ou˨˩˦]
+          * 灰指甲: [x w ei˥˥ ʈʂ ʐ̩˨˩˦ tɕ j a˦]
+          * 古氣候學傢: [k u˨˩˦ tɕʰ i˥˩ x ou˥˩ ɕ ɥ e˧˥ tɕ j a˥˥]
     ```
   - ```{ipa_cell}
     ```

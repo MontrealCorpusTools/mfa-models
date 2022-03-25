@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_spanish_spain_mfa_dictionary_2022,
+@techreport{mfa_spanish_spain_mfa_dictionary_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Spanish (Spain) MFA dictionary v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Spanish/Spanish (Spain) MFA dictionary v2_0_0.html}},

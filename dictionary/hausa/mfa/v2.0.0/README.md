@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_hausa_mfa_dictionary_2022,
+@techreport{mfa_hausa_mfa_dictionary_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Hausa MFA dictionary v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Hausa/Hausa MFA dictionary v2_0_0.html}},

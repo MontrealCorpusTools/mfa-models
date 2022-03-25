@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 2862
         * Examples
-          * nimic: [n̪ i m i k]
-          * creăm: [k r̪ e ɜ m]
-          * admir: [a d̪ m i r̪]
-          * motor: [m o t̪ o r̪]
+          * părem: [p ɜ r̪ e m]
+          * mici: [m i tʃ]
+          * amuz: [a m u z̪]
+          * malta: [m a l̪ t̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n̪
         * Occurances: 5638
         * Examples
-          * nimic: [n̪ i m i k]
-          * anunţ: [a n̪ u n̪ t̪ s]
-          * enorm: [e n̪ o r̪ m]
-          * n-ai: [n̪ a i]
+          * linia: [l̪ i n̪ i a]
+          * opună: [o p u n̪ ɜ]
+          * scena: [s̪ tʃ e n̪ a]
+          * noroc: [n̪ o r̪ o k]
     ```
   - ```{ipa_cell}
     ```
@@ -84,18 +84,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2747
         * Examples
-          * apără: [a p ɜ r̪ ɜ]
-          * pierd: [p i e r̪ d̪]
-          * paşii: [p a ʃ i i]
-          * pilot: [p i l̪ o t̪]
+          * poti: [p o t̪ i]
+          * opună: [o p u n̪ ɜ]
+          * părem: [p ɜ r̪ e m]
+          * apel: [a p e l̪]
     * voiced
       * b
         * Occurances: 1074
         * Examples
-          * bazez: [b a z̪ e z̪]
-          * umbre: [u m b r̪ e]
-          * bar: [b a r̪]
-          * slabe: [s̪ l̪ a b e]
+          * orbi: [o r̪ b i]
+          * bloc: [b l̪ o k]
+          * bombe: [b o m b e]
+          * baza: [b a z̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -104,18 +104,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 7193
         * Examples
-          * anunţ: [a n̪ u n̪ t̪ s]
-          * ști: [ʃ t̪ i]
-          * ţării: [t̪ s ɜ r̪ i i]
-          * motor: [m o t̪ o r̪]
+          * taxă: [t̪ a k s̪ ɜ]
+          * eşuat: [e ʃ u a t̪]
+          * cet: [tʃ e t̪]
+          * rugat: [r̪ u ɡ a t̪]
     * voiced
       * d̪
         * Occurances: 2058
         * Examples
-          * admir: [a d̪ m i r̪]
-          * cade: [k a d̪ e]
-          * pierd: [p i e r̪ d̪]
-          * ucide: [u tʃ i d̪ e]
+          * drau: [d̪ r̪ a u]
+          * dați: [d̪ a t̪s i]
+          * adică: [a d̪ i k ɜ]
+          * grajd: [ɡ r̪ a ʒ d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -126,18 +126,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 3532
         * Examples
-          * nimic: [n̪ i m i k]
-          * creăm: [k r̪ e ɜ m]
-          * cade: [k a d̪ e]
-          * clase: [k l̪ a s̪ e]
+          * taxă: [t̪ a k s̪ ɜ]
+          * adică: [a d̪ i k ɜ]
+          * cota: [k o t̪ a]
+          * exact: [e k s̪ a k t̪]
     * voiced
       * ɡ
         * Occurances: 706
         * Examples
-          * gruia: [ɡ r̪ u i a]
-          * nega: [n̪ e ɡ a]
-          * grave: [ɡ r̪ a v e]
-          * greş: [ɡ r̪ e ʃ]
+          * rugat: [r̪ u ɡ a t̪]
+          * grajd: [ɡ r̪ a ʒ d̪]
+          * aprig: [a p r̪ i ɡ]
+          * găină: [ɡ ɜ i n̪ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -155,18 +155,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 1025
         * Examples
-          * ucide: [u tʃ i d̪ e]
-          * încet: [ɨ n̪ tʃ e t̪]
-          * acele: [a tʃ e l̪ e]
-          * scifo: [s̪ tʃ i f o]
+          * cet: [tʃ e t̪]
+          * scena: [s̪ tʃ e n̪ a]
+          * mici: [m i tʃ]
+          * aduce: [a d̪ u tʃ e]
     * voiced
       * dʒ
         * Occurances: 387
         * Examples
-          * trage: [t̪ r̪ a dʒ e]
-          * gen: [dʒ e n̪]
-          * fugim: [f u dʒ i m]
-          * buget: [b u dʒ e t̪]
+          * legea: [l̪ e dʒ a]
+          * lege: [l̪ e dʒ e]
+          * merge: [m e r̪ dʒ e]
+          * lungi: [l̪ u n̪ dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -182,46 +182,46 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s̪
         * Occurances: 3328
         * Examples
-          * să-ți: [s̪ ɜ t̪s i]
-          * clase: [k l̪ a s̪ e]
-          * surse: [s̪ u r̪ s̪ e]
-          * puse: [p u s̪ e]
+          * taxă: [t̪ a k s̪ ɜ]
+          * exact: [e k s̪ a k t̪]
+          * scena: [s̪ tʃ e n̪ a]
+          * cursă: [k u r̪ s̪ ɜ]
     * voiced
       * z̪
         * Occurances: 965
         * Examples
-          * fraze: [f r̪ a z̪ e]
-          * frază: [f r̪ a z̪ ɜ]
-          * bazez: [b a z̪ e z̪]
-          * zonă: [z̪ o n̪ ɜ]
+          * liz: [l̪ i z̪]
+          * vize: [v i z̪ e]
+          * amuz: [a m u z̪]
+          * faze: [f a z̪ e]
     ```
   - ```{ipa_cell}
     * voiceless
       * s
         * Occurances: 933
         * Examples
-          * anunţ: [a n̪ u n̪ t̪ s]
-          * ţării: [t̪ s ɜ r̪ i i]
-          * toţii: [t̪ o t̪ s i i]
-          * piaţa: [p i a t̪ s a]
+          * feţe: [f e t̪ s e]
+          * fiţi: [f i t̪ s i]
+          * reţea: [r̪ e t̪ s e a]
+          * forţa: [f o r̪ t̪ s a]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 808
         * Examples
-          * ști: [ʃ t̪ i]
-          * ieși: [i e ʃ i]
-          * paşii: [p a ʃ i i]
-          * așa: [a ʃ a]
+          * eşuat: [e ʃ u a t̪]
+          * orașe: [o r̪ a ʃ e]
+          * pășim: [p ɜ ʃ i m]
+          * șeful: [ʃ e f u l̪]
     * voiced
       * ʒ
         * Occurances: 256
         * Examples
-          * ajute: [a ʒ u t̪ e]
-          * jucam: [ʒ u k a m]
-          * ajută: [a ʒ u t̪ ɜ]
-          * deja: [d̪ e ʒ a]
+          * jurul: [ʒ u r̪ u l̪]
+          * grajd: [ɡ r̪ a ʒ d̪]
+          * jos: [ʒ o s̪]
+          * grijă: [ɡ r̪ i ʒ ɜ]
     ```
   - ```{ipa_cell}
     ```
@@ -235,18 +235,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1037
         * Examples
-          * fraze: [f r̪ a z̪ e]
-          * frază: [f r̪ a z̪ ɜ]
-          * forme: [f o r̪ m e]
-          * scifo: [s̪ tʃ i f o]
+          * afară: [a f a r̪ ɜ]
+          * fire: [f i r̪ e]
+          * fiți: [f i t̪s i]
+          * faze: [f a z̪ e]
     * voiced
       * v
         * Occurances: 1220
         * Examples
-          * avec: [a v e k]
-          * vină: [v i n̪ ɜ]
-          * avons: [a v o n̪ s̪]
-          * aveam: [a v e a m]
+          * vize: [v i z̪ e]
+          * vinde: [v i n̪ d̪ e]
+          * veți: [v e t̪s i]
+          * vrut: [v r̪ u t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -261,10 +261,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 106
         * Examples
-          * horia: [h o r̪ i a]
+          * hrana: [h r̪ a n̪ a]
+          * catch: [k a t̪ k h]
+          * hotel: [h o t̪ e l̪]
           * harry: [h a r̪ r̪ i]
-          * cehia: [tʃ e h i a]
-          * hain: [h a i n̪]
     ```
 * - {manner}`Lateral`
   - ```{ipa_cell}
@@ -276,10 +276,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l̪
         * Occurances: 4380
         * Examples
-          * ele: [e l̪ e]
-          * clase: [k l̪ a s̪ e]
-          * mele: [m e l̪ e]
-          * acele: [a tʃ e l̪ e]
+          * jurul: [ʒ u r̪ u l̪]
+          * linia: [l̪ i n̪ i a]
+          * liz: [l̪ i z̪]
+          * alt: [a l̪ t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -313,10 +313,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 11051
         * Examples
-          * nimic: [n̪ i m i k]
-          * admir: [a d̪ m i r̪]
-          * să-ți: [s̪ ɜ t̪s i]
-          * ști: [ʃ t̪ i]
+          * linia: [l̪ i n̪ i a]
+          * liz: [l̪ i z̪]
+          * poti: [p o t̪ i]
+          * dați: [d̪ a t̪s i]
     ```
   - ```{ipa_cell}
     ```
@@ -325,10 +325,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 812
         * Examples
-          * încet: [ɨ n̪ tʃ e t̪]
-          * avînd: [a v ɨ n̪ d̪]
-          * fân: [f ɨ n̪]
-          * rămâi: [r̪ ɜ m ɨ i]
+          * întâi: [ɨ n̪ t̪ ɨ i]
+          * întru: [ɨ n̪ t̪ r̪ u]
+          * mânca: [m ɨ n̪ k a]
+          * tânăr: [t̪ ɨ n̪ ɜ r̪]
     ```
   - ```{ipa_cell}
     ```
@@ -337,10 +337,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 4264
         * Examples
-          * anunţ: [a n̪ u n̪ t̪ s]
-          * uit: [u i t̪]
-          * ucide: [u tʃ i d̪ e]
-          * gruia: [ɡ r̪ u i a]
+          * eşuat: [e ʃ u a t̪]
+          * jurul: [ʒ u r̪ u l̪]
+          * drau: [d̪ r̪ a u]
+          * rugat: [r̪ u ɡ a t̪]
     ```
 * -
   - ```{ipa_cell}
@@ -359,10 +359,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 10432
         * Examples
-          * creăm: [k r̪ e ɜ m]
-          * fraze: [f r̪ a z̪ e]
-          * ele: [e l̪ e]
-          * cade: [k a d̪ e]
+          * eşuat: [e ʃ u a t̪]
+          * cet: [tʃ e t̪]
+          * părem: [p ɜ r̪ e m]
+          * exact: [e k s̪ a k t̪]
     ```
   - ```{ipa_cell}
     ```
@@ -375,10 +375,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 4432
         * Examples
-          * motor: [m o t̪ o r̪]
+          * poti: [p o t̪ i]
+          * opună: [o p u n̪ ɜ]
           * cota: [k o t̪ a]
-          * enorm: [e n̪ o r̪ m]
-          * forme: [f o r̪ m e]
+          * noroc: [n̪ o r̪ o k]
     ```
 * -
   - ```{ipa_cell}
@@ -401,10 +401,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɜ
         * Occurances: 2840
         * Examples
-          * creăm: [k r̪ e ɜ m]
-          * să-ți: [s̪ ɜ t̪s i]
-          * ţării: [t̪ s ɜ r̪ i i]
-          * apără: [a p ɜ r̪ ɜ]
+          * taxă: [t̪ a k s̪ ɜ]
+          * opună: [o p u n̪ ɜ]
+          * adică: [a d̪ i k ɜ]
+          * părem: [p ɜ r̪ e m]
     ```
   - ```{ipa_cell}
     ```
@@ -431,10 +431,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 8125
         * Examples
-          * fraze: [f r̪ a z̪ e]
-          * anunţ: [a n̪ u n̪ t̪ s]
-          * admir: [a d̪ m i r̪]
-          * cade: [k a d̪ e]
+          * taxă: [t̪ a k s̪ ɜ]
+          * eşuat: [e ʃ u a t̪]
+          * linia: [l̪ i n̪ i a]
+          * drau: [d̪ r̪ a u]
     ```
   - ```{ipa_cell}
     ```

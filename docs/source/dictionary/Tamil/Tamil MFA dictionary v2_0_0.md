@@ -54,10 +54,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1115
         * Examples
-          * பலம்: [p a l a m]
-          * ஆலயம்: [ʔ aː l a j a m]
-          * மேரை: [m eː ɾ aj]
-          * ஆமை: [ʔ aː m aj]
+          * வளம்: [ʋ a ɭ a m]
+          * மலம்: [m a l a m]
+          * மொழி: [m o ɻ i]
+          * ஜீதம்: [dʑ iː d̪ a m]
       * mː
         * Occurances: 9
         * Examples
@@ -70,10 +70,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n̪
         * Occurances: 257
         * Examples
-          * நெசவு: [n̪ e s a ʋ u]
-          * நவில்: [n̪ a ʋ i l]
-          * நந்தி: [n̪ a n̪ d̪ i]
-          * நடனம்: [n̪ a ɖ a n a m]
+          * இந்தி: [ʔ i n̪ d̪ i]
+          * நாமம்: [n̪ aː m a m]
+          * நான்: [n̪ aː n]
+          * நாய்: [n̪ aː j]
       * n̪ː
         * Occurances: 2
         * Examples
@@ -83,16 +83,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 324
         * Examples
-          * தீனம்: [t̪ iː n a m]
-          * யோசனை: [j oː s a n aj]
-          * இனம்: [ʔ i n a m]
-          * தேன்: [t̪ eː n]
+          * தீனி: [t̪ iː n i]
+          * பயனர்: [p a j a n a ɾ]
+          * தனியா: [t̪ a n i j aː]
+          * நான்: [n̪ aː n]
       * nː
         * Occurances: 31
         * Examples
-          * என்ன: [ʔ e nː a]
-          * உன்னு: [ʔ u nː u]
           * சின்ன: [tɕ i nː a]
+          * உன்னு: [ʔ u nː u]
+          * என்ன: [ʔ e nː a]
     ```
   - ```{ipa_cell}
     * other
@@ -100,40 +100,40 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 205
         * Examples
           * கண்: [k a ɳ]
-          * தோணி: [t̪ oː ɳ i]
-          * உண்: [ʔ u ɳ]
-          * அவண்: [ʔ a ʋ a ɳ]
+          * கருணை: [k a ɾ u ɳ aj]
+          * பணவன்: [p a ɳ a ʋ a n]
+          * துணி: [t̪ u ɳ i]
       * ɳː
         * Occurances: 21
         * Examples
+          * அண்ணா: [ʔ a ɳː aː]
           * அண்ணி: [ʔ a ɳː i]
           * உண்ணி: [ʔ u ɳː i]
-          * அண்ணா: [ʔ a ɳː aː]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 22
         * Examples
-          * ஞானம்: [ɲ aː n a m]
           * பஞ்சை: [p a ɲ dʑ aj]
-          * இஞ்சி: [ʔ i ɲ dʑ i]
           * கஞ்சா: [k a ɲ dʑ aː]
+          * இஞ்சி: [ʔ i ɲ dʑ i]
+          * ஞானம்: [ɲ aː n a m]
       * ɲː
         * Occurances: 2
         * Examples
-          * அஞ்ஞை: [ʔ a ɲː aj]
           * மஞ்ஞை: [m a ɲː aj]
+          * அஞ்ஞை: [ʔ a ɲː aj]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 113
         * Examples
-          * இங்கே: [ʔ i ŋ ɡ eː]
-          * வங்கி: [ʋ a ŋ ɡ i]
-          * அங்கே: [ʔ a ŋ ɡ eː]
+          * நீங்க: [n̪ iː ŋ ɡ a]
+          * இங்கு: [ʔ i ŋ ɡ u]
           * எங்கே: [ʔ e ŋ ɡ eː]
+          * எங்கு: [ʔ e ŋ ɡ u]
       * ŋː
         * Occurances: 2
         * Examples
@@ -146,25 +146,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 412
         * Examples
-          * பலம்: [p a l a m]
-          * பரிவு: [p a ɾ i ʋ u]
+          * பிறை: [p i r aj]
+          * பக்தி: [p a k t̪ i]
           * பாகு: [p aː ɡ u]
-          * பெயர்: [p e j a ɾ]
+          * பசளி: [p a s a ɭ i]
       * pː
         * Occurances: 189
         * Examples
-          * உப்பு: [ʔ u pː u]
           * தப்பு: [t̪ a pː u]
-          * அப்பா: [ʔ a pː aː]
           * ஒப்பு: [ʔ o pː u]
+          * அப்பா: [ʔ a pː aː]
+          * உப்பு: [ʔ u pː u]
     * voiced
       * b
         * Occurances: 122
         * Examples
+          * செபம்: [tɕ e b a m]
           * கபடம்: [k a b a ɖ a m]
-          * ஆம்பி: [ʔ aː m b i]
-          * கம்பி: [k a m b i]
-          * அம்பு: [ʔ a m b u]
+          * காபி: [k aː b i]
+          * தூபி: [t̪ uː b i]
     ```
   - ```{ipa_cell}
     ```
@@ -173,25 +173,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 224
         * Examples
-          * தேவதை: [t̪ eː ʋ a d̪ aj]
-          * தாதை: [t̪ aː d̪ aj]
-          * தோணி: [t̪ oː ɳ i]
-          * தீனம்: [t̪ iː n a m]
+          * பக்தி: [p a k t̪ i]
+          * தீனி: [t̪ iː n i]
+          * ஜகத்: [dʑ a ɡ a t̪]
+          * தனியா: [t̪ a n i j aː]
       * t̪ː
         * Occurances: 134
         * Examples
-          * கத்தி: [k a t̪ː i]
-          * சத்து: [tɕ a t̪ː u]
+          * ஏத்து: [ʔ eː t̪ː u]
           * பத்து: [p a t̪ː u]
+          * சத்து: [tɕ a t̪ː u]
           * அத்தை: [ʔ a t̪ː aj]
     * voiced
       * d̪
         * Occurances: 307
         * Examples
-          * தேவதை: [t̪ eː ʋ a d̪ aj]
-          * தாதை: [t̪ aː d̪ aj]
-          * நந்தி: [n̪ a n̪ d̪ i]
-          * கவிதை: [k a ʋ i d̪ aj]
+          * உதடு: [ʔ u d̪ a ɖ u]
+          * ஜீதம்: [dʑ iː d̪ a m]
+          * இந்தி: [ʔ i n̪ d̪ i]
+          * சிதர்: [tɕ i d̪ a ɾ]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -206,24 +206,24 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 48
         * Examples
           * இட்லி: [ʔ i ʈ l i]
-          * பட்சி: [p a ʈ tɕ i]
           * சட்னி: [tɕ a ʈ n i]
-          * ஔடதம்: [ʔ aw ʈ a d̪ a m]
+          * ஆட்சி: [ʔ aː ʈ tɕ i]
+          * பட்சி: [p a ʈ tɕ i]
       * ʈː
         * Occurances: 109
         * Examples
-          * கிட்ட: [k i ʈː a]
           * அட்டை: [ʔ a ʈː aj]
-          * கட்டு: [k a ʈː u]
-          * இட்டு: [ʔ i ʈː u]
+          * பட்டை: [p a ʈː aj]
+          * பட்டு: [p a ʈː u]
+          * லட்டு: [l a ʈː u]
     * voiced
       * ɖ
         * Occurances: 311
         * Examples
-          * படகு: [p a ɖ a ɡ u]
-          * வரடம்: [ʋ a ɾ a ɖ a m]
-          * தடி: [t̪ a ɖ i]
-          * நடனம்: [n̪ a ɖ a n a m]
+          * உதடு: [ʔ u d̪ a ɖ u]
+          * உடனே: [ʔ u ɖ a n eː]
+          * குடி: [k u ɖ i]
+          * விடர்: [ʋ i ɖ a ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -232,35 +232,35 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 395
         * Examples
-          * கோழி: [k oː ɻ i]
           * கண்: [k a ɳ]
-          * கறி: [k a r i]
-          * கிட்ட: [k i ʈː a]
+          * பக்தி: [p a k t̪ i]
+          * கருணை: [k a ɾ u ɳ aj]
+          * கெழு: [k e ɻ u]
       * kː
         * Occurances: 212
         * Examples
-          * அக்கி: [ʔ a kː i]
-          * நக்கு: [n̪ a kː u]
+          * இக்கு: [ʔ i kː u]
           * அக்கா: [ʔ a kː aː]
           * அக்கு: [ʔ a kː u]
+          * அக்கி: [ʔ a kː i]
     * voiced
       * ɡ
         * Occurances: 355
         * Examples
           * பாகு: [p aː ɡ u]
-          * அகழி: [ʔ a ɡ a ɻ i]
-          * முகம்: [m u ɡ a m]
-          * பாகம்: [p aː ɡ a m]
+          * அகம்: [ʔ a ɡ a m]
+          * ஜகத்: [dʑ a ɡ a t̪]
+          * பகர்: [p a ɡ a ɾ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 582
         * Examples
-          * இட்லி: [ʔ i ʈ l i]
-          * ஆலயம்: [ʔ aː l a j a m]
-          * ஊற்று: [ʔ uː tː ɾ u]
-          * உப்பு: [ʔ u pː u]
+          * அளவை: [ʔ a ɭ a ʋ aj]
+          * உதடு: [ʔ u d̪ a ɖ u]
+          * இயைபு: [ʔ i j aj p u]
+          * இந்தி: [ʔ i n̪ d̪ i]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -278,23 +278,23 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 259
         * Examples
-          * செவி: [tɕ e ʋ i]
-          * சேவல்: [tɕ eː ʋ a l]
-          * செம்: [tɕ e m]
-          * சீனா: [tɕ iː n aː]
+          * சின்ன: [tɕ i nː a]
+          * சாளம்: [tɕ aː ɭ a m]
+          * சிதர்: [tɕ i d̪ a ɾ]
+          * சீழ்: [tɕ iː ɻ]
       * tɕː
         * Occurances: 76
         * Examples
-          * பச்சை: [p a tɕː aj]
           * உச்சி: [ʔ u tɕː i]
+          * பச்சை: [p a tɕː aj]
     * voiced
       * dʑ
         * Occurances: 50
         * Examples
+          * ஜீதம்: [dʑ iː d̪ a m]
+          * ஜகத்: [dʑ a ɡ a t̪]
           * பஞ்சை: [p a ɲ dʑ aj]
           * ஜலம்: [dʑ a l a m]
-          * ஜந்து: [dʑ a n̪ d̪ u]
-          * ஜனவரி: [dʑ a n a ʋ a ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -312,20 +312,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 196
         * Examples
-          * நெசவு: [n̪ e s a ʋ u]
-          * அசர்: [ʔ a s a ɾ]
-          * இசை: [ʔ i s aj]
-          * யோசனை: [j oː s a n aj]
+          * பசளி: [p a s a ɭ i]
+          * காசு: [k aː s u]
+          * ஸ்ரீ: [s ɾ iː]
+          * முரசு: [m u ɾ a s u]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 24
         * Examples
+          * ரஷ்யா: [ɾ a ʂ j aː]
           * பவிஷு: [p a ʋ i ʂ u]
           * க்ஷ: [k ʂ a]
           * ரிஷி: [ɾ i ʂ i]
-          * ரஷ்யா: [ɾ a ʂ j aː]
     ```
   - ```{ipa_cell}
     ```
@@ -364,10 +364,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʋ
         * Occurances: 577
         * Examples
-          * செவி: [tɕ e ʋ i]
-          * தேவதை: [t̪ eː ʋ a d̪ aj]
-          * பரிவு: [p a ɾ i ʋ u]
-          * நெசவு: [n̪ e s a ʋ u]
+          * வளம்: [ʋ a ɭ a m]
+          * அளவை: [ʔ a ɭ a ʋ aj]
+          * வேதம்: [ʋ eː d̪ a m]
+          * வால்: [ʋ aː l]
       * ʋː
         * Occurances: 16
         * Examples
@@ -383,20 +383,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɻ
         * Occurances: 166
         * Examples
-          * கோழி: [k oː ɻ i]
-          * அகழி: [ʔ a ɡ a ɻ i]
-          * கனமழை: [k a n a m a ɻ aj]
-          * மழை: [m a ɻ aj]
+          * மொழி: [m o ɻ i]
+          * பழமை: [p a ɻ a m aj]
+          * கெழு: [k e ɻ u]
+          * சீழ்: [tɕ iː ɻ]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 353
         * Examples
-          * ஆலயம்: [ʔ aː l a j a m]
+          * பேய்: [p eː j]
+          * இயைபு: [ʔ i j aj p u]
           * பெயர்: [p e j a ɾ]
-          * இயம்: [ʔ i j a m]
-          * யோசனை: [j oː s a n aj]
+          * பயனர்: [p a j a n a ɾ]
       * jː
         * Occurances: 6
         * Examples
@@ -417,10 +417,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 749
         * Examples
-          * பரிவு: [p a ɾ i ʋ u]
-          * ஊற்று: [ʔ uː tː ɾ u]
-          * மேரை: [m eː ɾ aj]
           * பெயர்: [p e j a ɾ]
+          * ஊற்று: [ʔ uː tː ɾ u]
+          * கருணை: [k a ɾ u ɳ aj]
+          * சிதர்: [tɕ i d̪ a ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -442,10 +442,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 212
         * Examples
-          * கறி: [k a r i]
-          * கூறு: [k uː r u]
           * பிறை: [p i r aj]
-          * அறு: [ʔ a r u]
+          * அறம்: [ʔ a r a m]
+          * சோறு: [tɕ oː r u]
+          * குறி: [k u r i]
     ```
   - ```{ipa_cell}
     ```
@@ -467,17 +467,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 470
         * Examples
-          * பலம்: [p a l a m]
-          * இட்லி: [ʔ i ʈ l i]
-          * ஆலயம்: [ʔ aː l a j a m]
-          * நவில்: [n̪ a ʋ i l]
+          * மலம்: [m a l a m]
+          * கலயம்: [k a l a j a m]
+          * வால்: [ʋ aː l]
+          * மயில்: [m a j i l]
       * lː
         * Occurances: 38
         * Examples
-          * எல்லை: [ʔ e lː aj]
-          * வல்லை: [ʋ a lː aj]
           * வல்ல: [ʋ a lː a]
+          * வல்லை: [ʋ a lː aj]
           * இல்லை: [ʔ i lː aj]
+          * எல்லை: [ʔ e lː aj]
     ```
   - ```{ipa_cell}
     ```
@@ -501,15 +501,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 193
         * Examples
-          * மீள்: [m iː ɭ]
-          * முளரி: [m u ɭ a ɾ i]
-          * ஏவாள்: [ʔ eː ʋ aː ɭ]
-          * தவளை: [t̪ a ʋ a ɭ aj]
+          * வளம்: [ʋ a ɭ a m]
+          * அளவை: [ʔ a ɭ a ʋ aj]
+          * பசளி: [p a s a ɭ i]
+          * சாளம்: [tɕ aː ɭ a m]
       * ɭː
         * Occurances: 24
         * Examples
-          * பள்ளி: [p a ɭː i]
           * தள்ளை: [t̪ a ɭː aj]
+          * பள்ளி: [p a ɭː i]
     ```
   - ```{ipa_cell}
     ```
@@ -541,17 +541,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 1301
         * Examples
-          * செவி: [tɕ e ʋ i]
-          * பரிவு: [p a ɾ i ʋ u]
-          * கோழி: [k oː ɻ i]
-          * இட்லி: [ʔ i ʈ l i]
+          * பிறை: [p i r aj]
+          * பக்தி: [p a k t̪ i]
+          * மொழி: [m o ɻ i]
+          * பசளி: [p a s a ɭ i]
       * iː
         * Occurances: 103
         * Examples
-          * தீனம்: [t̪ iː n a m]
-          * சீனா: [tɕ iː n aː]
-          * மீள்: [m iː ɭ]
-          * வீடு: [ʋ iː ɖ u]
+          * ஜீதம்: [dʑ iː d̪ a m]
+          * தீனி: [t̪ iː n i]
+          * சீழ்: [tɕ iː ɻ]
+          * ஸ்ரீ: [s ɾ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -564,17 +564,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 1173
         * Examples
-          * பரிவு: [p a ɾ i ʋ u]
-          * ஊற்று: [ʔ uː tː ɾ u]
-          * உப்பு: [ʔ u pː u]
+          * உதடு: [ʔ u d̪ a ɖ u]
           * பாகு: [p aː ɡ u]
+          * இயைபு: [ʔ i j aj p u]
+          * ஊற்று: [ʔ uː tː ɾ u]
       * uː
         * Occurances: 107
         * Examples
           * ஊற்று: [ʔ uː tː ɾ u]
-          * கூறு: [k uː r u]
-          * கூரை: [k uː ɾ aj]
-          * ஊடகம்: [ʔ uː ɖ a ɡ a m]
+          * மூலம்: [m uː l a m]
+          * மூது: [m uː d̪ u]
+          * சூழல்: [tɕ uː ɻ a l]
     ```
 * -
   - ```{ipa_cell}
@@ -593,17 +593,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 205
         * Examples
-          * செவி: [tɕ e ʋ i]
-          * நெசவு: [n̪ e s a ʋ u]
           * பெயர்: [p e j a ɾ]
-          * செம்: [tɕ e m]
+          * கெழு: [k e ɻ u]
+          * செபம்: [tɕ e b a m]
+          * எழுது: [ʔ e ɻ u d̪ u]
       * eː
         * Occurances: 167
         * Examples
-          * தேவதை: [t̪ eː ʋ a d̪ aj]
-          * மேரை: [m eː ɾ aj]
-          * சேவல்: [tɕ eː ʋ a l]
-          * தேன்: [t̪ eː n]
+          * பேய்: [p eː j]
+          * வேதம்: [ʋ eː d̪ a m]
+          * உடனே: [ʔ u ɖ a n eː]
+          * கேள்: [k eː ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -616,17 +616,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 121
         * Examples
-          * மொய்: [m o j]
-          * கொசு: [k o s u]
-          * சொல்: [tɕ o l]
-          * பொன்: [p o n]
+          * மொழி: [m o ɻ i]
+          * ஒப்பு: [ʔ o pː u]
+          * தொடு: [t̪ o ɖ u]
+          * ஒரு: [ʔ o ɾ u]
       * oː
         * Occurances: 126
         * Examples
-          * கோழி: [k oː ɻ i]
-          * தோணி: [t̪ oː ɳ i]
-          * யோசனை: [j oː s a n aj]
-          * கோலம்: [k oː l a m]
+          * மோசம்: [m oː s a m]
+          * ஓடு: [ʔ oː ɖ u]
+          * சோறு: [tɕ oː r u]
+          * நோய்: [n̪ oː j]
     ```
 * -
   - ```{ipa_cell}
@@ -671,17 +671,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 2594
         * Examples
-          * பலம்: [p a l a m]
-          * தேவதை: [t̪ eː ʋ a d̪ aj]
-          * பரிவு: [p a ɾ i ʋ u]
-          * ஆலயம்: [ʔ aː l a j a m]
+          * வளம்: [ʋ a ɭ a m]
+          * அளவை: [ʔ a ɭ a ʋ aj]
+          * மலம்: [m a l a m]
+          * கண்: [k a ɳ]
       * aː
         * Occurances: 724
         * Examples
-          * ஆலயம்: [ʔ aː l a j a m]
-          * தாதை: [t̪ aː d̪ aj]
           * பாகு: [p aː ɡ u]
-          * ஆமை: [ʔ aː m aj]
+          * நாமம்: [n̪ aː m a m]
+          * சாளம்: [tɕ aː ɭ a m]
+          * காசு: [k aː s u]
     ```
   - ```{ipa_cell}
     ```

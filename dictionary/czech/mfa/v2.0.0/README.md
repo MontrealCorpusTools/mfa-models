@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_czech_mfa_dictionary_2022,
+@techreport{mfa_czech_mfa_dictionary_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Czech MFA dictionary v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Czech/Czech MFA dictionary v2_0_0.html}},

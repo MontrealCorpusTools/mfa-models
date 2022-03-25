@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4048
         * Examples
-          * mateo: [m a t̪ e o]
-          * maior: [m a i o r]
-          * mural: [m u ɾ a l]
-          * media: [m e d̪ i a]
+          * migel: [m i ɡ e l]
+          * mia: [m i a]
+          * kimu: [k i m u]
+          * misto: [m i s̺ t̪ o]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +67,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 17553
         * Examples
-          * barne: [b a r n e]
-          * zinta: [s̻ i n t̪ a]
-          * ondo: [o n d̪ o]
-          * izana: [i s̻ a n a]
+          * nekez: [n e k e s̻]
+          * unea: [u n e a]
+          * seian: [s̺ e i a n]
+          * luna: [l u n a]
     ```
   - ```{ipa_cell}
     ```
@@ -89,18 +89,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 3480
         * Examples
-          * piztu: [p i s̻ t̪ u]
-          * kepak: [k e p a k]
-          * pena: [p e n a]
-          * palo: [p a l o]
+          * aipa: [a i p a]
+          * epe: [e p e]
+          * pixka: [p i ʃ k a]
+          * pauen: [p a u e n]
     * voiced
       * b
         * Occurances: 5449
         * Examples
-          * barne: [b a r n e]
-          * tebas: [t̪ e b a s̺]
-          * gabe: [ɡ a b e]
-          * orban: [o r b a n]
+          * buruz: [b u ɾ u s̻]
+          * bideo: [b i d̪ e o]
+          * bila: [b i l a]
+          * barik: [b a ɾ i k]
     ```
   - ```{ipa_cell}
     ```
@@ -109,18 +109,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 18430
         * Examples
-          * mateo: [m a t̪ e o]
-          * txori: [t̪ ʃ o ɾ i]
-          * tebas: [t̪ e b a s̺]
-          * ikatz: [i k a t̪ s̻]
+          * ateko: [a t̪ e k o]
+          * zutik: [s̻ u t̪ i k]
+          * turku: [t̪ u r k u]
+          * hertz: [e r t̪ s̻]
     * voiced
       * d̪
         * Occurances: 6004
         * Examples
-          * geldi: [ɡ e l d̪ i]
-          * ondo: [o n d̪ o]
-          * media: [m e d̪ i a]
-          * iodoa: [i o d̪ o a]
+          * gudu: [ɡ u d̪ u]
+          * bideo: [b i d̪ e o]
+          * duen: [d̪ u e n]
+          * idatz: [i d̪ a t̪ s̻]
     ```
   - ```{ipa_cell}
     ```
@@ -143,18 +143,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 16966
         * Examples
-          * hark: [a r k]
-          * ikatz: [i k a t̪ s̻]
-          * zeuk: [s̻ e u k]
-          * dakit: [d̪ a k i t̪]
+          * arzak: [a r s̻ a k]
+          * nekez: [n e k e s̻]
+          * ateko: [a t̪ e k o]
+          * zutik: [s̻ u t̪ i k]
     * voiced
       * ɡ
         * Occurances: 5689
         * Examples
-          * geldi: [ɡ e l d̪ i]
-          * gur: [ɡ u r]
-          * gabe: [ɡ a b e]
-          * gata: [ɡ a t̪ a]
+          * gudu: [ɡ u d̪ u]
+          * giro: [ɡ i ɾ o]
+          * migel: [m i ɡ e l]
+          * gaian: [ɡ a i a n]
     ```
 * - {manner}`Sibilant`
   - ```{ipa_cell}
@@ -168,27 +168,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s̺
         * Occurances: 7201
         * Examples
-          * tebas: [t̪ e b a s̺]
-          * sutsu: [s̺ u t̪ s̺ u]
-          * akats: [a k a t̪ s̺]
-          * sanz: [s̺ a n s̻]
+          * oso: [o s̺ o]
+          * seian: [s̺ e i a n]
+          * osoki: [o s̺ o k i]
+          * sous: [s̺ o u s̺]
       * s̻
         * Occurances: 9925
         * Examples
-          * haziz: [a s̻ i s̻]
-          * ikatz: [i k a t̪ s̻]
-          * zeuk: [s̻ e u k]
-          * lezo: [l e s̻ o]
+          * arzak: [a r s̻ a k]
+          * nekez: [n e k e s̻]
+          * buruz: [b u ɾ u s̻]
+          * zutik: [s̻ u t̪ i k]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1059
         * Examples
-          * txori: [t̪ ʃ o ɾ i]
-          * xuxen: [ʃ u ʃ e n]
-          * xedez: [ʃ e d̪ e s̻]
-          * etxe: [e t̪ ʃ e]
+          * xede: [ʃ e d̪ e]
+          * pixka: [p i ʃ k a]
+          * txoko: [t̪ ʃ o k o]
+          * sexta: [s̺ e ʃ t̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -202,10 +202,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1169
         * Examples
-          * final: [f i n a l]
-          * ninfa: [n i n f a]
-          * finko: [f i n k o]
-          * zi-fi: [s̻ i f i]
+          * adif: [a d̪ i f]
+          * fosil: [f o s̺ i l]
+          * faila: [f a i l a]
+          * sofa: [s̺ o f a]
     ```
   - ```{ipa_cell}
     ```
@@ -233,10 +233,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 23
         * Examples
-          * yemen: [j e m e n]
+          * gay: [ɡ a j]
           * mary: [m a r j]
-          * yate: [j a t̪ e]
-          * kenya: [k e n j a]
+          * skype: [s̺ k j p e]
+          * dylan: [d̪ j l a n]
     ```
   - ```{ipa_cell}
     ```
@@ -252,10 +252,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 9292
         * Examples
-          * txori: [t̪ ʃ o ɾ i]
+          * buruz: [b u ɾ u s̻]
+          * giro: [ɡ i ɾ o]
           * ori: [o ɾ i]
-          * mural: [m u ɾ a l]
-          * irina: [i ɾ i n a]
+          * barik: [b a ɾ i k]
     ```
   - ```{ipa_cell}
     ```
@@ -275,10 +275,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 9842
         * Examples
-          * barne: [b a r n e]
-          * gur: [ɡ u r]
-          * hark: [a r k]
-          * maior: [m a i o r]
+          * arzak: [a r s̻ a k]
+          * turku: [t̪ u r k u]
+          * hertz: [e r t̪ s̻]
+          * artoa: [a r t̪ o a]
     ```
   - ```{ipa_cell}
     ```
@@ -298,10 +298,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 8865
         * Examples
-          * geldi: [ɡ e l d̪ i]
-          * mural: [m u ɾ a l]
-          * lezo: [l e s̻ o]
-          * lurra: [l u r a]
+          * migel: [m i ɡ e l]
+          * luna: [l u n a]
+          * eliza: [e l i s̻ a]
+          * karl: [k a r l]
     ```
   - ```{ipa_cell}
     ```
@@ -310,10 +310,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 76
         * Examples
-          * ollo: [o ʎ o]
           * pella: [p e ʎ a]
-          * sella: [s̺ e ʎ a]
-          * mello: [m e ʎ o]
+          * pello: [p e ʎ o]
+          * ellis: [e ʎ i s̺]
+          * ollo: [o ʎ o]
     ```
   - ```{ipa_cell}
     ```
@@ -341,10 +341,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 23285
         * Examples
-          * geldi: [ɡ e l d̪ i]
-          * haziz: [a s̻ i s̻]
-          * txori: [t̪ ʃ o ɾ i]
-          * ori: [o ɾ i]
+          * haiei: [a i e i]
+          * zutik: [s̻ u t̪ i k]
+          * giro: [ɡ i ɾ o]
+          * ezki: [e s̻ k i]
     ```
   - ```{ipa_cell}
     ```
@@ -357,10 +357,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 10927
         * Examples
-          * gur: [ɡ u r]
-          * mural: [m u ɾ a l]
-          * zeuk: [s̻ e u k]
-          * piztu: [p i s̻ t̪ u]
+          * buruz: [b u ɾ u s̻]
+          * zutik: [s̻ u t̪ i k]
+          * gudu: [ɡ u d̪ u]
+          * turku: [t̪ u r k u]
     ```
 * -
   - ```{ipa_cell}
@@ -379,10 +379,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 27142
         * Examples
-          * geldi: [ɡ e l d̪ i]
-          * mateo: [m a t̪ e o]
-          * barne: [b a r n e]
-          * tebas: [t̪ e b a s̺]
+          * nekez: [n e k e s̻]
+          * haiei: [a i e i]
+          * ateko: [a t̪ e k o]
+          * ezki: [e s̻ k i]
     ```
   - ```{ipa_cell}
     ```
@@ -395,10 +395,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 16540
         * Examples
-          * mateo: [m a t̪ e o]
-          * txori: [t̪ ʃ o ɾ i]
-          * ori: [o ɾ i]
-          * maior: [m a i o r]
+          * ateko: [a t̪ e k o]
+          * giro: [ɡ i ɾ o]
+          * oso: [o s̺ o]
+          * joa: [x o a]
     ```
 * -
   - ```{ipa_cell}
@@ -443,10 +443,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 40600
         * Examples
-          * mateo: [m a t̪ e o]
-          * barne: [b a r n e]
-          * haziz: [a s̻ i s̻]
-          * tebas: [t̪ e b a s̺]
+          * arzak: [a r s̻ a k]
+          * haiei: [a i e i]
+          * ateko: [a t̪ e k o]
+          * joa: [x o a]
     ```
   - ```{ipa_cell}
     ```

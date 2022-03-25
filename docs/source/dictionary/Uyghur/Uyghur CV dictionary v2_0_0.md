@@ -54,10 +54,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 7434
         * Examples
-          * ماددا: [m a d d a]
-          * خەمىت: [χ ɛ m i t]
-          * كۈچمۇ: [k y t͡ʃ m u]
-          * خىلمۇ: [χ i l m u]
+          * مۆھۈر: [m ø h y r]
+          * كىيىم: [k i j i m]
+          * خام: [χ a m]
+          * شامال: [ʃ a m a l]
     ```
   - ```{ipa_cell}
     ```
@@ -66,10 +66,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 11429
         * Examples
-          * شېرىن: [ʃ e r i n]
-          * ئاناڭ: [a n a ŋ]
-          * تونۇپ: [t o n u p]
-          * يانار: [j a n a r]
+          * سىنا.: [s i n a]
+          * تازنى: [t a z n i]
+          * بىنى: [b i n i]
+          * نۇرنى: [n u r n i]
     ```
   - ```{ipa_cell}
     ```
@@ -80,10 +80,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 3064
         * Examples
-          * ئاناڭ: [a n a ŋ]
-          * تەڭ،: [t ɛ ŋ]
-          * قوڭى.: [q o ŋ i]
-          * مېنىڭ: [m e n i ŋ]
+          * ئوڭى: [o ŋ i]
+          * دەڭ.: [d ɛ ŋ]
+          * رەڭ،: [r ɛ ŋ]
+          * تۇڭى: [t u ŋ i]
     ```
   - ```{ipa_cell}
     ```
@@ -95,18 +95,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 3575
         * Examples
-          * تونۇپ: [t o n u p]
-          * كۆيۈپ: [k ø j y p]
-          * ئېزىپ: [e z i p]
-          * دوپپا: [d o p p a]
+          * چۆچۈپ: [t͡ʃ ø t͡ʃ y p]
+          * ياپسا: [j a p s a]
+          * سۆرەپ: [s ø r ɛ p]
+          * ئاپەت: [a p ɛ t]
     * voiced
       * b
         * Occurances: 2680
         * Examples
-          * بېقىش: [b e q i ʃ]
-          * بۇ،: [b u]
-          * بالا.: [b a l a]
-          * تاناب: [t a n a b]
+          * بەھرە: [b ɛ h r ɛ]
+          * بىنى: [b i n i]
+          * بىزگە: [b i z ɡ ɛ]
+          * بەل،: [b ɛ l]
     ```
   - ```{ipa_cell}
     ```
@@ -115,18 +115,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 9288
         * Examples
-          * تونۇپ: [t o n u p]
-          * خەمىت: [χ ɛ m i t]
-          * تاناب: [t a n a b]
-          * بەخت: [b ɛ χ t]
+          * تاجى: [t a d͡ʒ i]
+          * تازنى: [t a z n i]
+          * تۆگە.: [t ø ɡ ɛ]
+          * كەچتە: [k ɛ t͡ʃ t ɛ]
     * voiced
       * d
         * Occurances: 6616
         * Examples
-          * ماددا: [m a d d a]
-          * دوپپا: [d o p p a]
-          * -دېدى: [d e d i]
-          * دېگەن: [d e ɡ ɛ n]
+          * دە،: [d ɛ]
+          * دۇرۇس: [d u r u s]
+          * دەڭ.: [d ɛ ŋ]
+          * دېتال: [d e t a l]
     ```
   - ```{ipa_cell}
     ```
@@ -137,28 +137,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 5754
         * Examples
-          * كۆيۈپ: [k ø j y p]
-          * كۈچمۇ: [k y t͡ʃ m u]
-          * پاكار: [p a k a r]
-          * كۈت.: [k y t]
+          * كىيىم: [k i j i m]
+          * كىر: [k i r]
+          * كۆزگە: [k ø z ɡ ɛ]
+          * چېچەك: [t͡ʃ e t͡ʃ ɛ k]
     * voiced
       * ɡ
         * Occurances: 1998
         * Examples
-          * ئىگە؟: [i ɡ ɛ]
-          * ئەگىر: [ɛ ɡ i r]
-          * دېگەن: [d e ɡ ɛ n]
-          * گاس: [ɡ a s]
+          * كۆزگە: [k ø z ɡ ɛ]
+          * تۆگە.: [t ø ɡ ɛ]
+          * گىلەم: [ɡ i l ɛ m]
+          * بىزگە: [b i z ɡ ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 7051
         * Examples
-          * بېقىش: [b e q i ʃ]
-          * قوڭى.: [q o ŋ i]
-          * ياقا،: [j a q a]
-          * مۇقىم: [m u q i m]
+          * يورۇق: [j o r u q]
+          * ئاق»: [a q]
+          * قۇش،: [q u ʃ]
+          * قىش: [q i ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -174,18 +174,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 2769
         * Examples
-          * كۈچمۇ: [k y t͡ʃ m u]
-          * چالا: [t͡ʃ a l a]
-          * رۇسچە: [r u s t͡ʃ ɛ]
-          * كۈچنى: [k y t͡ʃ n i]
+          * چېچەك: [t͡ʃ e t͡ʃ ɛ k]
+          * چۆچۈپ: [t͡ʃ ø t͡ʃ y p]
+          * كەچتە: [k ɛ t͡ʃ t ɛ]
+          * چۈشتە: [t͡ʃ y ʃ t ɛ]
     * voiced
       * d͡ʒ
         * Occurances: 675
         * Examples
-          * جۇۋان: [d͡ʒ u w a n]
-          * غېجەك: [ʁ e d͡ʒ ɛ k]
-          * جاۋاب: [d͡ʒ a w a b]
-          * جىق: [d͡ʒ i q]
+          * تاجى: [t a d͡ʒ i]
+          * جىقنى: [d͡ʒ i q n i]
+          * ھاجىپ: [h a d͡ʒ i p]
+          * ھەجىم: [h ɛ d͡ʒ i m]
     ```
   - ```{ipa_cell}
     ```
@@ -205,28 +205,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 5063
         * Examples
-          * سۆي.: [s ø j]
-          * سېخىي: [s e χ i j]
-          * سال،: [s a l]
-          * يەسلى: [j ɛ s l i]
+          * ئىس: [i s]
+          * سىز،: [s i z]
+          * سىنا.: [s i n a]
+          * دۇرۇس: [d u r u s]
     * voiced
       * z
         * Occurances: 2967
         * Examples
-          * ئېزىپ: [e z i p]
-          * پەرەز: [p ɛ r ɛ z]
-          * مىرزا: [m i r z a]
-          * يازما: [j a z m a]
+          * كۆزگە: [k ø z ɡ ɛ]
+          * سىز،: [s i z]
+          * تازنى: [t a z n i]
+          * بىزگە: [b i z ɡ ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 3861
         * Examples
-          * شېرىن: [ʃ e r i n]
-          * بېقىش: [b e q i ʃ]
-          * ياشاش: [j a ʃ a ʃ]
-          * يۆلەش: [j ø l ɛ ʃ]
+          * شېئىر: [ʃ e i r]
+          * شامال: [ʃ a m a l]
+          * قۇش،: [q u ʃ]
+          * قىش: [q i ʃ]
     * voiced
       * ʒ
         * Occurances: 23
@@ -249,10 +249,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 78
         * Examples
-          * لىفت: [l i f t]
-          * فوكۇس: [f o k u s]
           * فوتو: [f o t o]
-          * فىلىم: [f i l i m]
+          * فوكۇس: [f o k u s]
+          * لىفت: [l i f t]
+          * نېفىت: [n e f i t]
     ```
   - ```{ipa_cell}
     ```
@@ -267,28 +267,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * χ
         * Occurances: 1024
         * Examples
-          * سېخىي: [s e χ i j]
-          * خەمىت: [χ ɛ m i t]
-          * خىلمۇ: [χ i l m u]
-          * بەخت: [b ɛ χ t]
+          * خام: [χ a m]
+          * خېنىم: [χ e n i m]
+          * خەلقى: [χ ɛ l q i]
+          * خوتەن: [χ o t ɛ n]
     * voiced
       * ʁ
         * Occurances: 3254
         * Examples
-          * تۇغ: [t u ʁ]
-          * غۇرۇر: [ʁ u r u r]
-          * تامغا: [t a m ʁ a]
-          * يولغا: [j o l ʁ a]
+          * ھالغا: [h a l ʁ a]
+          * غولى: [ʁ o l i]
+          * غېمى: [ʁ e m i]
+          * پارغا: [p a r ʁ a]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 1293
         * Examples
-          * ھالى: [h a l i]
-          * ھەرە: [h ɛ r ɛ]
-          * ھاسىل: [h a s i l]
-          * ھەدەپ: [h ɛ d ɛ p]
+          * مۆھۈر: [m ø h y r]
+          * بەھرە: [b ɛ h r ɛ]
+          * ھالنى: [h a l n i]
+          * ھالغا: [h a l ʁ a]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -296,10 +296,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1730
         * Examples
-          * جۇۋان: [d͡ʒ u w a n]
-          * داۋا.: [d a w a]
-          * تەۋە: [t ɛ w ɛ]
-          * ئوۋ: [o w]
+          * سوۋېت: [s o w e t]
+          * ھەۋەس: [h ɛ w ɛ s]
+          * ۋوي،: [w o j]
+          * پۈۋ: [p y w]
     ```
   - ```{ipa_cell}
     ```
@@ -312,10 +312,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 5722
         * Examples
-          * كۆيۈپ: [k ø j y p]
+          * كىيىم: [k i j i m]
+          * يورۇق: [j o r u q]
           * سۆي.: [s ø j]
-          * يوللا: [j o l l a]
-          * يانار: [j a n a r]
+          * ياپسا: [j a p s a]
     ```
   - ```{ipa_cell}
     ```
@@ -333,10 +333,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 9266
         * Examples
-          * شېرىن: [ʃ e r i n]
-          * يانار: [j a n a r]
-          * پاكار: [p a k a r]
-          * بورا.: [b o r a]
+          * مۆھۈر: [m ø h y r]
+          * كىر: [k i r]
+          * شېئىر: [ʃ e i r]
+          * بەھرە: [b ɛ h r ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -358,10 +358,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 11486
         * Examples
-          * ھالى: [h a l i]
-          * يوللا: [j o l l a]
-          * بالا.: [b a l a]
-          * يۆلەش: [j ø l ɛ ʃ]
+          * شامال: [ʃ a m a l]
+          * گىلەم: [ɡ i l ɛ m]
+          * يولنى: [j o l n i]
+          * دېتال: [d e t a l]
     ```
   - ```{ipa_cell}
     ```
@@ -397,18 +397,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 29982
         * Examples
-          * شېرىن: [ʃ e r i n]
-          * ھالى: [h a l i]
-          * ئېزىپ: [e z i p]
-          * سېخىي: [s e χ i j]
+          * كىيىم: [k i j i m]
+          * كىر: [k i r]
+          * ئىس: [i s]
+          * شېئىر: [ʃ e i r]
     * rounded
       * y
         * Occurances: 2821
         * Examples
-          * كۆيۈپ: [k ø j y p]
-          * كۈچمۇ: [k y t͡ʃ m u]
-          * كۈت.: [k y t]
-          * كۈچنى: [k y t͡ʃ n i]
+          * مۆھۈر: [m ø h y r]
+          * چۆچۈپ: [t͡ʃ ø t͡ʃ y p]
+          * ئۈنۈم: [y n y m]
+          * سۆيۈش: [s ø j y ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -421,10 +421,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 7311
         * Examples
-          * تونۇپ: [t o n u p]
-          * بۇ،: [b u]
-          * كۈچمۇ: [k y t͡ʃ m u]
-          * خىلمۇ: [χ i l m u]
+          * دۇرۇس: [d u r u s]
+          * يورۇق: [j o r u q]
+          * قۇش،: [q u ʃ]
+          * نۇرنى: [n u r n i]
     ```
 * -
   - ```{ipa_cell}
@@ -443,18 +443,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 3060
         * Examples
-          * شېرىن: [ʃ e r i n]
-          * ئېزىپ: [e z i p]
-          * سېخىي: [s e χ i j]
-          * بېقىش: [b e q i ʃ]
+          * شېئىر: [ʃ e i r]
+          * چېچەك: [t͡ʃ e t͡ʃ ɛ k]
+          * خېنىم: [χ e n i m]
+          * دېتال: [d e t a l]
     * rounded
       * ø
         * Occurances: 1747
         * Examples
-          * كۆيۈپ: [k ø j y p]
+          * مۆھۈر: [m ø h y r]
+          * كۆزگە: [k ø z ɡ ɛ]
+          * تۆگە.: [t ø ɡ ɛ]
           * سۆي.: [s ø j]
-          * يۆلەش: [j ø l ɛ ʃ]
-          * سۆيەر: [s ø j ɛ r]
     ```
   - ```{ipa_cell}
     ```
@@ -467,10 +467,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3277
         * Examples
-          * تونۇپ: [t o n u p]
-          * يوللا: [j o l l a]
-          * دوپپا: [d o p p a]
-          * بورا.: [b o r a]
+          * يورۇق: [j o r u q]
+          * ئوڭى: [o ŋ i]
+          * يولنى: [j o l n i]
+          * موم: [m o m]
     ```
 * -
   - ```{ipa_cell}
@@ -489,10 +489,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 11320
         * Examples
-          * ئىگە؟: [i ɡ ɛ]
-          * خەمىت: [χ ɛ m i t]
-          * يۆلەش: [j ø l ɛ ʃ]
-          * بەخت: [b ɛ χ t]
+          * كۆزگە: [k ø z ɡ ɛ]
+          * بەھرە: [b ɛ h r ɛ]
+          * چېچەك: [t͡ʃ e t͡ʃ ɛ k]
+          * دە،: [d ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -523,10 +523,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 17947
         * Examples
-          * ھالى: [h a l i]
-          * ئاناڭ: [a n a ŋ]
-          * يوللا: [j o l l a]
-          * يانار: [j a n a r]
+          * تاجى: [t a d͡ʒ i]
+          * سىنا.: [s i n a]
+          * تازنى: [t a z n i]
+          * خام: [χ a m]
     ```
   - ```{ipa_cell}
     ```

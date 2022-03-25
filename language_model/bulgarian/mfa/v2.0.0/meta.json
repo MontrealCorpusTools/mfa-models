@@ -18,5 +18,5 @@
         "medium_perplexity": 18.8193,
         "small_perplexity": 24.6932
     },
-    "citation": "@techreport{\n\tmfa_bulgarian_lm_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Bulgarian language model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/language model/Bulgarian/Bulgarian language model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Jan},\n}"
+    "citation": "@techreport{mfa_bulgarian_lm_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Bulgarian language model v2.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/language model/Bulgarian/Bulgarian language model v2_0_0.html}},\n\tyear={2022},\n\tmonth={Jan},\n}"
 }

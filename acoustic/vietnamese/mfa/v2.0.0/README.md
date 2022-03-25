@@ -31,8 +31,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_vietnamese_mfa_acoustic_2022,
+@techreport{mfa_vietnamese_mfa_acoustic_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Vietnamese MFA acoustic model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/acoustic/Vietnamese/Vietnamese MFA acoustic model v2_0_0.html}},

@@ -50,10 +50,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 10590
         * Examples
-          * 电视屏幕: [t j e˥˩ n ʂ ʐ̩˥˩ pʰ i˧˥ ŋ m u˥˩]
-          * 免疫力: [m j e˨˩˦ n i˥˩ l i˥˩]
-          * 夏马勒巴格: [ɕ j a˥˩ m a˨˩˦ l o˥˩ p a˥˥ k o˧˥]
-          * 咖黄敏: [kʰ a˥˥ x w a˧˥ ŋ m i˨˩˦ n]
+          * 喝闷酒: [x o˥˥ m ə˥˩ n tɕ j ou˨˩˦]
+          * 自由贸易: [ts z̩˥˩ j ou˧˥ m au˥˩ i˥˩]
+          * 沐浴露: [m u˥˩ y˥˩ l u˥˩]
+          * 每分钟: [m ei˨˩˦ f ə˥˥ n ʈʂ u˥˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -62,10 +62,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 62422
         * Examples
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 限定词: [ɕ j e˥˩ n t i˥˩ ŋ tsʰ z̩˧˥]
-          * 噪音污染: [ts au˥˩ i˥˥ n u˥˥ ʐ a˨˩˦ n]
-          * 电解池: [t j e˥˩ n tɕ j e˨˩˦ ʈʂʰ ʐ̩˧˥]
+          * 武南铁路: [u˨˩˦ n a˧˥ n tʰ j e˨˩˦ l u˥˩]
+          * 那也好: [n a˥˩ j e˨˩˦ x au˨˩˦]
+          * 喝闷酒: [x o˥˥ m ə˥˩ n tɕ j ou˨˩˦]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -76,10 +76,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 49692
         * Examples
-          * 再充盈: [ts ai˥˩ ʈʂʰ u˥˥ ŋ i˧˥ ŋ]
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 限定词: [ɕ j e˥˩ n t i˥˩ ŋ tsʰ z̩˧˥]
-          * 宋春玲: [s u˥˩ ŋ ʈʂʰ w ə˥˥ n l i˧˥ ŋ]
+          * 丁凯阳: [t i˥˥ ŋ kʰ ai˨˩˦ j a˧˥ ŋ]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
+          * 主动权: [ʈʂ u˨˩˦ t u˥˩ ŋ tɕʰ ɥ e˧˥ n]
+          * 生理需要: [ʂ o˥˥ ŋ l i˨˩˦ ɕ y˥˥ j au˥˩]
       * ŋ̍
         * Occurances: 2
         * Examples
@@ -92,10 +92,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 15018
         * Examples
-          * 下班时间: [ɕ j a˥˩ p a˥˥ n ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 百叶窗: [p ai˨˩˦ j e˥˩ ʈʂʰ w a˥˥ ŋ]
-          * 不出意外: [p u˥˩ ʈʂʰ u˥˥ i˥˩ w ai˥˩]
-          * 颈椎病: [tɕ i˨˩˦ ŋ ʈʂ w ei˥˥ p i˥˩ ŋ]
+          * 博茨瓦纳: [p w o˧˥ tsʰ z̩˧˥ w a˨˩˦ n a˥˩]
+          * 天气报告: [tʰ j e˥˥ n tɕʰ i˥˩ p au˥˩ k au˥˩]
+          * 南冰洋: [n a˧˥ n p i˥˥ ŋ j a˧˥ ŋ]
+          * 中小板: [ʈʂ u˥˥ ŋ ɕ j au˨˩˦ p a˨˩˦ n]
     ```
   - ```{ipa_cell}
     ```
@@ -104,10 +104,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 17251
         * Examples
-          * 限定词: [ɕ j e˥˩ n t i˥˩ ŋ tsʰ z̩˧˥]
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 电解池: [t j e˥˩ n tɕ j e˨˩˦ ʈʂʰ ʐ̩˧˥]
-          * 亲耐的: [tɕʰ i˥˥ n n ai˥˩ t ə˩]
+          * 丁凯阳: [t i˥˥ ŋ kʰ ai˨˩˦ j a˧˥ ŋ]
+          * 主动权: [ʈʂ u˨˩˦ t u˥˩ ŋ tɕʰ ɥ e˧˥ n]
+          * 第二语言: [t i˥˩ ʔ o˥˩ ɻ y˨˩˦ j e˧˥ n]
+          * 订购电话: [t i˥˩ ŋ k ou˥˩ t j e˥˩ n x w a˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -118,20 +118,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 12473
         * Examples
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 第三个: [t i˥˩ s a˥˥ n k o˥˩]
-          * 工字钢: [k u˥˥ ŋ ts z̩˥˩ k a˥˥ ŋ]
+          * 分公司: [f ə˥˥ n k u˥˥ ŋ s z̩˥˥]
+          * 订购电话: [t i˥˩ ŋ k ou˥˩ t j e˥˩ n x w a˥˩]
+          * 角弓反张: [tɕ j au˨˩˦ k u˥˥ ŋ f a˨˩˦ n ʈʂ a˥˥ ŋ]
+          * 天气报告: [tʰ j e˥˥ n tɕʰ i˥˩ p au˥˩ k au˥˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 5838
         * Examples
-          * 档案法: [t a˥˩ ŋ ʔ a˥˩ n f a˨˩˦]
-          * 一百零二: [i˥˥ p ai˨˩˦ l i˧˥ ŋ ʔ o˥˩ ɻ]
-          * 高尔基: [k au˥˥ ʔ o˨˩˦ ɻ tɕ i˥˥]
-          * 努尔苏丹: [n u˨˩˦ ʔ o˨˩˦ ɻ s u˥˥ t a˥˥ n]
+          * 一九六二: [i˥˥ tɕ j ou˨˩˦ l j ou˥˩ ʔ o˥˩ ɻ]
+          * 歇会儿: [ɕ j e˥˥ x w ei˥˩ ʔ o˧˥ ɻ]
+          * 第二语言: [t i˥˩ ʔ o˥˩ ɻ y˨˩˦ j e˧˥ n]
+          * 港澳台: [k a˨˩˦ ŋ ʔ au˥˩ tʰ ai˧˥]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -143,30 +143,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 7195
         * Examples
-          * 再充盈: [ts ai˥˩ ʈʂʰ u˥˥ ŋ i˧˥ ŋ]
-          * 噪音污染: [ts au˥˩ i˥˥ n u˥˥ ʐ a˨˩˦ n]
-          * 工字钢: [k u˥˥ ŋ ts z̩˥˩ k a˥˥ ŋ]
-          * 香港仔: [ɕ j a˥˥ ŋ k a˨˩˦ ŋ ts ai˨˩˦]
+          * 法律咨询: [f a˨˩˦ l y˥˩ ts z̩˥˥ ɕ y˧˥ n]
+          * 自由贸易: [ts z̩˥˩ j ou˧˥ m au˥˩ i˥˩]
+          * 钻钱眼: [ts w a˥˥ n tɕʰ j e˧˥ n j e˨˩˦ n]
+          * 小孩子: [ɕ j au˨˩˦ x ai˧˥ ts z̩˨]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈʂ
         * Occurances: 15021
         * Examples
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 周华健: [ʈʂ ou˥˥ x w a˧˥ tɕ j e˥˩ n]
-          * 真心实意: [ʈʂ ə˥˥ n ɕ i˥˥ n ʂ ʐ̩˧˥ i˥˩]
-          * 屈折语: [tɕʰ y˥˥ ʈʂ o˧˥ y˨˩˦]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
+          * 主动权: [ʈʂ u˨˩˦ t u˥˩ ŋ tɕʰ ɥ e˧˥ n]
+          * 专利权: [ʈʂ w a˥˥ n l i˥˩ tɕʰ ɥ e˧˥ n]
+          * 五联征: [u˨˩˦ l j e˧˥ n ʈʂ o˥˥ ŋ]
     ```
   - ```{ipa_cell}
     * voiceless
       * tɕ
         * Occurances: 20526
         * Examples
-          * 电解池: [t j e˥˩ n tɕ j e˨˩˦ ʈʂʰ ʐ̩˧˥]
-          * 周华健: [ʈʂ ou˥˥ x w a˧˥ tɕ j e˥˩ n]
-          * 下班时间: [ɕ j a˥˩ p a˥˥ n ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 集体经济: [tɕ i˧˥ tʰ i˨˩˦ tɕ i˥˥ ŋ tɕ i˥˩]
+          * 一九六二: [i˥˥ tɕ j ou˨˩˦ l j ou˥˩ ʔ o˥˩ ɻ]
+          * 喝闷酒: [x o˥˥ m ə˥˩ n tɕ j ou˨˩˦]
+          * 新近纪: [ɕ i˥˥ n tɕ i˥˩ n tɕ i˥˩]
+          * 花鸡坡: [x w a˥˥ tɕ i˥˥ pʰ w o˥˥]
     ```
   - ```{ipa_cell}
     ```
@@ -182,53 +182,53 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 7824
         * Examples
-          * 宋春玲: [s u˥˩ ŋ ʈʂʰ w ə˥˥ n l i˧˥ ŋ]
-          * 第三个: [t i˥˩ s a˥˥ n k o˥˩]
-          * 思想意识: [s z̩˥˥ ɕ j a˨˩˦ ŋ i˥˩ ʂ ʐ̩˧˥]
-          * 莱斯特: [l ai˧˥ s z̩˥˥ tʰ o˥˩]
+          * 分公司: [f ə˥˥ n k u˥˥ ŋ s z̩˥˥]
+          * 彩色电视: [tsʰ ai˨˩˦ s o˥˩ t j e˥˩ n ʂ ʐ̩˥˩]
+          * 七百三十九: [tɕʰ i˥˥ p ai˨˩˦ s a˥˥ n ʂ ʐ̩˧˥ tɕ j ou˨˩˦]
+          * 波佩斯库: [p w o˥˥ pʰ ei˥˩ s z̩˥˥ kʰ u˥˩]
     * voiced
       * z̩
         * Occurances: 6100
         * Examples
-          * 自由岛: [ts z̩˥˩ j ou˧˥ t au˨˩˦]
-          * 思想意识: [s z̩˥˥ ɕ j a˨˩˦ ŋ i˥˩ ʂ ʐ̩˧˥]
-          * 莱斯特: [l ai˧˥ s z̩˥˥ tʰ o˥˩]
-          * 词作家: [tsʰ z̩˧˥ ts w o˥˩ tɕ j a˥˥]
+          * 乃玛子: [n ai˨˩˦ m a˨˩˦ ts z̩˦]
+          * 法律咨询: [f a˨˩˦ l y˥˩ ts z̩˥˥ ɕ y˧˥ n]
+          * 亲电子: [tɕʰ i˥˥ n t j e˥˩ n ts z̩˨˩˦]
+          * 自动词: [ts z̩˥˩ t u˥˩ ŋ tsʰ z̩˧˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 19266
         * Examples
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 下班时间: [ɕ j a˥˩ p a˥˥ n ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 富士山: [f u˥˩ ʂ ʐ̩˥˩ ʂ a˥˥ n]
-          * 思想意识: [s z̩˥˥ ɕ j a˨˩˦ ŋ i˥˩ ʂ ʐ̩˧˥]
+          * 生理需要: [ʂ o˥˥ ŋ l i˨˩˦ ɕ y˥˥ j au˥˩]
+          * 山东泰山: [ʂ a˥˥ n t u˥˥ ŋ tʰ ai˥˩ ʂ a˥˥ n]
+          * 优等生: [j ou˥˥ t o˨˩˦ ŋ ʂ o˥˥ ŋ]
+          * 彩色电视: [tsʰ ai˨˩˦ s o˥˩ t j e˥˩ n ʂ ʐ̩˥˩]
     * voiced
       * ʐ
         * Occurances: 4256
         * Examples
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 噪音污染: [ts au˥˩ i˥˥ n u˥˥ ʐ a˨˩˦ n]
-          * 人物画: [ʐ ə˧˥ n u˥˩ x w a˥˩]
-          * 申请人: [ʂ ə˥˥ n tɕʰ i˨˩˦ ŋ ʐ ə˧˥ n]
+          * 新鲜人: [ɕ i˥˥ n ɕ j e˥˥ n ʐ ə˧˥ n]
+          * 唐人街: [tʰ a˧˥ ŋ ʐ ə˧˥ n tɕ j e˥˥]
+          * 热情果: [ʐ o˥˩ tɕʰ i˧˥ ŋ k w o˨˩˦]
+          * 欧若拉: [ʔ ou˥˥ ʐ w o˥˩ l a˥˥]
       * ʐ̩
         * Occurances: 11304
         * Examples
-          * 蔬菜汁: [ʂ u˥˥ tsʰ ai˥˩ ʈʂ ʐ̩˥˥]
-          * 饱和脂肪: [p au˨˩˦ x o˧˥ ʈʂ ʐ̩˨˩˦ f a˧˥ ŋ]
-          * 电视屏幕: [t j e˥˩ n ʂ ʐ̩˥˩ pʰ i˧˥ ŋ m u˥˩]
-          * 厌世主义: [j e˥˩ n ʂ ʐ̩˥˩ ʈʂ u˨˩˦ i˥˩]
+          * 交钥匙: [tɕ j au˥˥ j au˥˩ ʂ ʐ̩˩]
+          * 啮齿动物: [n j e˥˩ ʈʂʰ ʐ̩˨˩˦ t u˥˩ ŋ u˥˩]
+          * 现实主义: [ɕ j e˥˩ n ʂ ʐ̩˧˥ ʈʂ u˨˩˦ i˥˩]
+          * 十二指肠: [ʂ ʐ̩˧˥ ʔ o˥˩ ɻ ʈʂ ʐ̩˨˩˦ ʈʂʰ a˧˥ ŋ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 17554
         * Examples
-          * 限定词: [ɕ j e˥˩ n t i˥˩ ŋ tsʰ z̩˧˥]
-          * 下班时间: [ɕ j a˥˩ p a˥˥ n ʂ ʐ̩˧˥ tɕ j e˥˥ n]
-          * 思想意识: [s z̩˥˥ ɕ j a˨˩˦ ŋ i˥˩ ʂ ʐ̩˧˥]
-          * 洗头发: [ɕ i˨˩˦ tʰ ou˧˥ f a˥˥]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
+          * 新近纪: [ɕ i˥˥ n tɕ i˥˩ n tɕ i˥˩]
+          * 新鲜人: [ɕ i˥˥ n ɕ j e˥˥ n ʐ ə˧˥ n]
+          * 歇会儿: [ɕ j e˥˥ x w ei˥˩ ʔ o˧˥ ɻ]
     ```
   - ```{ipa_cell}
     ```
@@ -242,10 +242,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 8927
         * Examples
-          * 富士山: [f u˥˩ ʂ ʐ̩˥˩ ʂ a˥˥ n]
-          * 洗头发: [ɕ i˨˩˦ tʰ ou˧˥ f a˥˥]
-          * 运动服: [y˥˩ n t u˥˩ ŋ f u˧˥]
-          * 档案法: [t a˥˩ ŋ ʔ a˥˩ n f a˨˩˦]
+          * 法律咨询: [f a˨˩˦ l y˥˩ ts z̩˥˥ ɕ y˧˥ n]
+          * 法拉利: [f a˨˩˦ l a˥˥ l i˥˩]
+          * 分公司: [f ə˥˥ n k u˥˥ ŋ s z̩˥˥]
+          * 角弓反张: [tɕ j au˨˩˦ k u˥˥ ŋ f a˨˩˦ n ʈʂ a˥˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -263,10 +263,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 35507
         * Examples
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 宋春玲: [s u˥˩ ŋ ʈʂʰ w ə˥˥ n l i˧˥ ŋ]
-          * 周华健: [ʈʂ ou˥˥ x w a˧˥ tɕ j e˥˩ n]
-          * 百叶窗: [p ai˨˩˦ j e˥˩ ʈʂʰ w a˥˥ ŋ]
+          * 客气话: [kʰ o˥˩ tɕʰ i˥˩ x w a˥˩]
+          * 歇会儿: [ɕ j e˥˥ x w ei˥˩ ʔ o˧˥ ɻ]
+          * 专利权: [ʈʂ w a˥˥ n l i˥˩ tɕʰ ɥ e˧˥ n]
+          * 博茨瓦纳: [p w o˧˥ tsʰ z̩˧˥ w a˨˩˦ n a˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -277,27 +277,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɻ
         * Occurances: 2562
         * Examples
-          * 一百零二: [i˥˥ p ai˨˩˦ l i˧˥ ŋ ʔ o˥˩ ɻ]
-          * 高尔基: [k au˥˥ ʔ o˨˩˦ ɻ tɕ i˥˥]
-          * 努尔苏丹: [n u˨˩˦ ʔ o˨˩˦ ɻ s u˥˥ t a˥˥ n]
-          * 德尔福: [t o˧˥ ʔ o˨˩˦ ɻ f u˧˥]
+          * 一九六二: [i˥˥ tɕ j ou˨˩˦ l j ou˥˩ ʔ o˥˩ ɻ]
+          * 歇会儿: [ɕ j e˥˥ x w ei˥˩ ʔ o˧˥ ɻ]
+          * 第二语言: [t i˥˩ ʔ o˥˩ ɻ y˨˩˦ j e˧˥ n]
+          * 卑尔根: [p ei˥˥ ʔ o˨˩˦ ɻ k ə˥˥ n]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 43610
         * Examples
-          * 限定词: [ɕ j e˥˩ n t i˥˩ ŋ tsʰ z̩˧˥]
-          * 电解池: [t j e˥˩ n tɕ j e˨˩˦ ʈʂʰ ʐ̩˧˥]
-          * 周华健: [ʈʂ ou˥˥ x w a˧˥ tɕ j e˥˩ n]
-          * 雁来红: [j e˥˩ n l ai˧˥ x u˧˥ ŋ]
+          * 武南铁路: [u˨˩˦ n a˧˥ n tʰ j e˨˩˦ l u˥˩]
+          * 一九六二: [i˥˥ tɕ j ou˨˩˦ l j ou˥˩ ʔ o˥˩ ɻ]
+          * 那也好: [n a˥˩ j e˨˩˦ x au˨˩˦]
+          * 丁凯阳: [t i˥˥ ŋ kʰ ai˨˩˦ j a˧˥ ŋ]
       * ɥ
         * Occurances: 6615
         * Examples
-          * 陪审员: [pʰ ei˧˥ ʂ ə˨˩˦ n ɥ e˧˥ n]
-          * 雪翼栋: [ɕ ɥ e˨˩˦ i˥˩ t u˥˩ ŋ]
-          * 傅全有: [f u˥˩ tɕʰ ɥ e˧˥ n j ou˨˩˦]
-          * 卫生院: [w ei˥˩ ʂ o˥˥ ŋ ɥ e˥˩ n]
+          * 主动权: [ʈʂ u˨˩˦ t u˥˩ ŋ tɕʰ ɥ e˧˥ n]
+          * 专利权: [ʈʂ w a˥˥ n l i˥˩ tɕʰ ɥ e˧˥ n]
+          * 徐泉港: [ɕ y˧˥ tɕʰ ɥ e˧˥ n k a˨˩˦ ŋ]
+          * 原生生物: [ɥ e˧˥ n ʂ o˥˥ ŋ ʂ o˥˥ ŋ u˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -313,10 +313,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 18761
         * Examples
-          * 宋春玲: [s u˥˩ ŋ ʈʂʰ w ə˥˥ n l i˧˥ ŋ]
-          * 雁来红: [j e˥˩ n l ai˧˥ x u˧˥ ŋ]
-          * 梁家河: [l j a˧˥ ŋ tɕ j a˥˥ x o˧˥]
-          * 一百零二: [i˥˥ p ai˨˩˦ l i˧˥ ŋ ʔ o˥˩ ɻ]
+          * 武南铁路: [u˨˩˦ n a˧˥ n tʰ j e˨˩˦ l u˥˩]
+          * 一九六二: [i˥˥ tɕ j ou˨˩˦ l j ou˥˩ ʔ o˥˩ ɻ]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
+          * 法律咨询: [f a˨˩˦ l y˥˩ ts z̩˥˥ ɕ y˧˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -350,18 +350,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 44773
         * Examples
-          * 刷起来: [ʂ w a˥˥ tɕʰ i˩ l ai˩]
-          * 第三个: [t i˥˩ s a˥˥ n k o˥˩]
-          * 土地储备: [tʰ u˨˩˦ t i˦ ʈʂʰ u˨˩˦ p ei˥˩]
-          * 闭上眼睛: [p i˥˩ ʂ a˩ ŋ j e˨˩˦ n tɕ i˦ ŋ]
+          * 专利权: [ʈʂ w a˥˥ n l i˥˩ tɕʰ ɥ e˧˥ n]
+          * 生意人: [ʂ o˥˥ ŋ i˨ ʐ ə˧˥ n]
+          * 客气话: [kʰ o˥˩ tɕʰ i˩ x w a˥˩]
+          * 热情果: [ʐ o˥˩ tɕʰ i˧˥ ŋ k w o˨˩˦]
     * rounded
       * y
         * Occurances: 8736
         * Examples
-          * 再教育: [ts ai˥˩ tɕ j au˥˩ y˥˩]
-          * 毁于一旦: [x w ei˨˩˦ y˧˥ i˥˥ t a˥˩ n]
-          * 外甥女婿: [w ai˥˩ ʂ o˩ ŋ n y˨˩˦ ɕ y˦]
-          * 盂兰盆会: [y˧˥ l a˧˥ n pʰ ə˧˥ n x w ei˥˩]
+          * 剃须刀: [tʰ i˥˩ ɕ y˥˥ t au˥˥]
+          * 法律咨询: [f a˨˩˦ l y˥˩ ts z̩˥˥ ɕ y˧˥ n]
+          * 守恒定律: [ʂ ou˨˩˦ x o˧˥ ŋ t i˥˩ ŋ l y˥˩]
+          * 第二语言: [t i˥˩ ʔ o˥˩ ɻ y˨˩˦ j e˧˥ n]
     ```
   - ```{ipa_cell}
     ```
@@ -374,10 +374,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 34067
         * Examples
-          * 十五年: [ʂ ʐ̩˧˥ u˨˩˦ n j e˧˥ n]
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 德尔福: [t o˧˥ ʔ o˨˩˦ ɻ f u˧˥]
-          * 打孔器: [t a˨˩˦ kʰ u˨˩˦ ŋ tɕʰ i˥˩]
+          * 臭豆腐: [ʈʂʰ ou˥˩ t ou˥˩ f u˩]
+          * 群众路线: [tɕʰ y˧˥ n ʈʂ u˥˩ ŋ l u˥˩ ɕ j e˥˩ n]
+          * 停不住: [tʰ i˧˥ ŋ p u˦ ʈʂ u˥˩]
+          * 保不住: [p au˨˩˦ p u˦ ʈʂ u˥˩]
     ```
 * -
   - ```{ipa_cell}
@@ -396,10 +396,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 25091
         * Examples
-          * 傅全有: [f u˥˩ tɕʰ ɥ e˧˥ n j ou˨˩˦]
-          * 谢谢你们: [ɕ j e˥˩ ɕ j e˩ n i˨˩˦ m ə˦ n]
-          * 免疫力: [m j e˨˩˦ n i˥˩ l i˥˩]
-          * 电解池: [t j e˥˩ n tɕ j e˨˩˦ ʈʂʰ ʐ̩˧˥]
+          * 主动权: [ʈʂ u˨˩˦ t u˥˩ ŋ tɕʰ ɥ e˧˥ n]
+          * 那也好: [n a˥˩ j e˨˩˦ x au˨˩˦]
+          * 钻钱眼: [ts w a˥˥ n tɕʰ j e˧˥ n j e˨˩˦ n]
+          * 武南铁路: [u˨˩˦ n a˧˥ n tʰ j e˨˩˦ l u˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -412,10 +412,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 32056
         * Examples
-          * 五代十国: [u˨˩˦ t ai˥˩ ʂ ʐ̩˧˥ k w o˧˥]
-          * 梁家河: [l j a˧˥ ŋ tɕ j a˥˥ x o˧˥]
-          * 公证人: [k u˥˥ ŋ ʈʂ o˥˩ ŋ ʐ ə˧˥ n]
-          * 天河区: [tʰ j e˥˥ n x o˧˥ tɕʰ y˥˥]
+          * 九渡河: [tɕ j ou˨˩˦ t u˥˩ x o˧˥]
+          * 卑尔根: [p ei˥˥ ʔ o˨˩˦ ɻ k ə˥˥ n]
+          * 杨先生: [j a˧˥ ŋ ɕ j e˥˥ n ʂ o˨ ŋ]
+          * 客气话: [kʰ o˥˩ tɕʰ i˥˩ x w a˥˩]
     ```
 * -
   - ```{ipa_cell}
@@ -427,10 +427,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 11559
         * Examples
+          * 说的是: [ʂ w o˥˥ t ə˨ ʂ ʐ̩˥˩]
           * 说得好: [ʂ w o˥˥ t ə˨ x au˨˩˦]
-          * 死死的: [s z̩˨˩˦ s z̩˨˩˦ t ə˦]
-          * 吃饭问题: [ʈʂʰ ʐ̩˥˥ f a˥˩ n w ə˥˩ n tʰ i˧˥]
-          * 人物画: [ʐ ə˧˥ n u˥˩ x w a˥˩]
+          * 开车的: [kʰ ai˥˥ ʈʂʰ o˥˥ t ə˨]
+          * 日本狗: [ʐ̩˥˩ p ə˨˩˦ n k ou˨˩˦]
     ```
   - ```{ipa_cell}
     ```
@@ -468,10 +468,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 56196
         * Examples
-          * 皇帝豆: [x w a˧˥ ŋ t i˥˩ t ou˥˩]
-          * 有用吗: [j ou˨˩˦ j u˥˩ ŋ m a˩]
-          * 百叶窗: [p ai˨˩˦ j e˥˩ ʈʂʰ w a˥˥ ŋ]
-          * 思想意识: [s z̩˥˥ ɕ j a˨˩˦ ŋ i˥˩ ʂ ʐ̩˧˥]
+          * 红月亮: [x u˧˥ ŋ ɥ e˥˩ l j a˩ ŋ]
+          * 客气话: [kʰ o˥˩ tɕʰ i˥˩ x w a˥˩]
+          * 南冰洋: [n a˧˥ n p i˥˥ ŋ j a˧˥ ŋ]
+          * 专利权: [ʈʂ w a˥˥ n l i˥˩ tɕʰ ɥ e˧˥ n]
     ```
   - ```{ipa_cell}
     ```

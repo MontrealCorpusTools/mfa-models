@@ -51,17 +51,17 @@ mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OVERWRITE_METADATA = True
 OVERWRITE_MD = True
 
-mfa_citation_template = "@techreport{{\n\t{id},\n\tauthor={{{extra_authors}McAuliffe, Michael and Sonderegger, Morgan}}," \
+mfa_citation_template = "@techreport{{{id},\n\tauthor={{{extra_authors}McAuliffe, Michael and Sonderegger, Morgan}}," \
                         "\n\ttitle={{{title}}}," \
                         "\n\taddress={{\\url{{https://mfa-models.readthedocs.io/{model_type}/{language}/{link_safe_title}.html}}}}," \
                         "\n\tyear={{{year}}},\n\tmonth={{{month}}}," \
                         "\n}}"
-cv_citation = "@misc{\n\tAhn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor}," \
+cv_citation = "@misc{Ahn_Chodroff_2022,\n\tauthor={Ahn, Emily and Chodroff, Eleanor}," \
                         "\n\ttitle={VoxCommunis Corpus}," \
                         "\n\taddress={\\url{https://osf.io/t957v}}," \
                         "\n\tpublisher={OSF}," \
                         "\n\tyear={2022}, \n\tmonth={Jan}\n}"
-prosodylab_citation = "@article{\n\tgorman2011prosodylab,\n\tauthor={Gorman, Kyle and Howell, Jonathan and Wagner, Michael}," \
+prosodylab_citation = "@article{gorman2011prosodylab,\n\tauthor={Gorman, Kyle and Howell, Jonathan and Wagner, Michael}," \
                         "\n\ttitle={Prosodylab-aligner: A tool for forced alignment of laboratory speech}," \
                         "\n\tjournal={Canadian Acoustics}," \
                         "\n\tvolume={39},\n\tnumber={3},\n\tpages={192--193},\n\tyear={2011}\n}"

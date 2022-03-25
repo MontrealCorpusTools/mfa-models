@@ -29,8 +29,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@misc{
-	Ahn_Chodroff_2022,
+@misc{Ahn_Chodroff_2022,
 	author={Ahn, Emily and Chodroff, Eleanor},
 	title={VoxCommunis Corpus},
 	address={\url{https://osf.io/t957v}},

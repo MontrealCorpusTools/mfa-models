@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 2128
         * Examples
-          * खत्म,: [kʰ ə t m ə]
-          * मेटल: [m e ʈ ə l]
-          * मिला:: [m i l aː]
-          * redmi: [ɹ ɛ d m i]
+          * यमुना: [j ə m u n aː]
+          * मचाते: [m ə t͡ʃ aː t e]
+          * यामी: [j aː m iː]
+          * एमएस: [e m ə e s]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +67,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 4001
         * Examples
-          * पूजन: [p uː d͡ʒ ə n]
-          * वनों: [v ə n o n]
-          * नाइट: [n aː i ʈ]
-          * नाई: [n aː iː]
+          * क्यों: [k j o n]
+          * यमुना: [j ə m u n aː]
+          * बेचने: [b e t͡ʃ n e]
+          * धनुष: [d̤ ə n u ʂ]
     ```
   - ```{ipa_cell}
     ```
@@ -79,30 +79,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɳ
         * Occurances: 175
         * Examples
-          * किरण: [k i r ə ɳ]
-          * पुणे:: [p u ɳ e]
-          * प्राण: [p r aː ɳ]
-          * करण: [k ə r ə ɳ]
+          * रणबीर: [r ə ɳ b iː r]
+          * गुण:: [ɡ u ɳ]
+          * घोषणा: [ɡ̤ o ʂ ɳ aː]
+          * रहाणे: [r ə ɦ aː ɳ e]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 109
         * Examples
-          * मांझी: [m aː ɲ d͡ʒ̤ iː]
-          * पोंछा: [p o ɲ t͡ʃʰ aː]
-          * मंजिल: [m ə ɲ d͡ʒ i l]
           * ऊंचा: [uː ɲ t͡ʃ aː]
+          * संजू: [s ə ɲ d͡ʒ uː]
+          * रंजिश: [r ə ɲ d͡ʒ i ʃ]
+          * मांझी: [m aː ɲ d͡ʒ̤ iː]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 463
         * Examples
-          * इंकार: [i ŋ k aː r]
-          * कंगाल: [k ə ŋ ɡ aː l]
-          * पंकजा: [p ə ŋ k d͡ʒ aː]
-          * बंगले: [b ə ŋ ɡ l e]
+          * संगमा: [s ə ŋ ɡ m aː]
+          * लंकेश: [l ə ŋ k e ʃ]
+          * चौंक: [t͡ʃ ɔː ŋ k ə]
+          * 'जंगल: [d͡ʒ ə ŋ ɡ ə l]
     ```
   - ```{ipa_cell}
     ```
@@ -114,18 +114,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 1526
         * Examples
-          * पैरोल: [p æː r o l]
-          * पूजन: [p uː d͡ʒ ə n]
-          * पुल: [p u l]
-          * पूरा: [p uː r aː]
+          * पेरिस: [p e r i s]
+          * पेस,: [p e s]
+          * पैंट: [p æː n ʈ ə]
+          * पंडित: [p ə n ɖ i t]
     * voiced
       * b
         * Occurances: 1348
         * Examples
-          * बहाव: [b ə ɦ aː v]
-          * बजाये: [b ə d͡ʒ aː j e]
-          * नोबेल: [n o b e l]
-          * नवंबर: [n ə v ə m b ə r]
+          * बेचने: [b e t͡ʃ n e]
+          * बढ़ती: [b ə ɽ̥ ə t iː]
+          * बदबू: [b ə d b uː]
+          * बनती: [b ə n t iː]
     ```
   - ```{ipa_cell}
     ```
@@ -136,18 +136,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 1900
         * Examples
-          * सत्तर: [s ə t t ə r]
-          * खत्म,: [kʰ ə t m ə]
-          * जातें: [d͡ʒ aː t e n]
-          * अवतार: [a v t aː r]
+          * आते: [aː t e]
+          * पंडित: [p ə n ɖ i t]
+          * उसतक: [u s t ə k]
+          * चिंतन: [t͡ʃ i n t ə n]
     * voiced
       * d
         * Occurances: 1293
         * Examples
-          * सदस्य: [s ə d s j ə]
-          * देगा: [d e ɡ aː]
-          * देखी।: [d e kʰ iː]
-          * redmi: [ɹ ɛ d m i]
+          * नींद,: [n iː n d ə]
+          * बदबू: [b ə d b uː]
+          * दामाद: [d aː m aː d]
+          * आजाद,: [aː d͡ʒ aː d]
     ```
   - ```{ipa_cell}
     ```
@@ -156,18 +156,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʈ
         * Occurances: 1140
         * Examples
-          * सीट,: [s iː ʈ]
-          * मेटल: [m e ʈ ə l]
-          * नाइट: [n aː i ʈ]
-          * राइट: [r aː i ʈ]
+          * पैंट: [p æː n ʈ ə]
+          * काट: [k aː ʈ]
+          * नटराज: [n ə ʈ r aː d͡ʒ]
+          * कोट: [k o ʈ]
     * voiced
       * ɖ
         * Occurances: 606
         * Examples
-          * डोवाल: [ɖ o v aː l]
-          * डांसर: [ɖ aː n s ə r]
-          * मोड: [m o ɖ]
-          * डाला: [ɖ aː l aː]
+          * डोरे: [ɖ o r e]
+          * पंडित: [p ə n ɖ i t]
+          * अपलोड: [a p l o ɖ]
+          * डरा: [ɖ ə r aː]
     ```
   - ```{ipa_cell}
     ```
@@ -176,28 +176,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 2480
         * Examples
-          * कड़ा: [k ə ɽ aː]
-          * किरण: [k i r ə ɳ]
-          * कर्ज: [k ə r d͡ʒ ə]
-          * लोकल: [l o k ə l]
+          * क्यों: [k j o n]
+          * रुकी।: [r u k iː]
+          * काट: [k aː ʈ]
+          * उसतक: [u s t ə k]
     * voiced
       * ɡ
         * Occurances: 1356
         * Examples
-          * देगा: [d e ɡ aː]
-          * गली: [ɡ ə l iː]
-          * लगने: [l ə ɡ n e]
-          * युगल: [j u ɡ ə l]
+          * करेगी: [k ə r e ɡ iː]
+          * गुण:: [ɡ u ɳ]
+          * गाना: [ɡ aː n aː]
+          * सागर: [s aː ɡ ə r]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 16
         * Examples
-          * क़ब्र: [q ə b r ə]
-          * वक़्त: [v ə q t ə]
-          * क़ैदी: [q æː d iː]
           * ताक़त: [t aː q ə t]
+          * क़ब्र: [q ə b r ə]
+          * क़त्ल: [q ə t l ə]
+          * वक़्त: [v ə q t ə]
     ```
   - ```{ipa_cell}
     ```
@@ -207,10 +207,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * b̤
         * Occurances: 324
         * Examples
-          * भरने: [b̤ ə r n e]
-          * भेजना: [b̤ e d͡ʒ n aː]
-          * भीख: [b̤ iː kʰ]
-          * निभा: [n i b̤ aː]
+          * भाभी: [b̤ aː b̤ iː]
+          * कभी: [k ə b̤ iː]
+          * भगवान: [b̤ ə ɡ v aː n]
+          * भरी।: [b̤ ə r iː]
     ```
   - ```{ipa_cell}
     ```
@@ -221,10 +221,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * d̤
         * Occurances: 317
         * Examples
-          * धांसू: [d̤ aː n s uː]
-          * कंधा: [k ə n d̤ aː]
-          * सीधी: [s iː d̤ iː]
-          * धूना,: [d̤ uː n aː]
+          * धनुष: [d̤ ə n u ʂ]
+          * धुंध: [d̤ u n d̤ ə]
+          * 'धरा: [d̤ ə r aː]
+          * धन,: [d̤ ə n]
     ```
   - ```{ipa_cell}
     ```
@@ -234,9 +234,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 28
         * Examples
           * ढालना: [ɖ̤ aː l n aː]
-          * ढेर: [ɖ̤ e r]
-          * ढाई: [ɖ̤ aː iː]
-          * ढूँढ: [ɖ̤ ũː ɖ̤ ə]
+          * ढिलाई: [ɖ̤ i l aː iː]
+          * गड्ढा: [ɡ ə ɖ ɖ̤ aː]
+          * पंढेर: [p ə n ɖ̤ e r]
     ```
   - ```{ipa_cell}
     ```
@@ -245,10 +245,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɡ̤
         * Occurances: 94
         * Examples
-          * घड़ी: [ɡ̤ ə ɽ iː]
-          * बाघों: [b aː ɡ̤ o n]
-          * घाटों: [ɡ̤ aː ʈ o n]
-          * घोड़ा: [ɡ̤ o ɽ aː]
+          * शीघ्र: [ʃ iː ɡ̤ r ə]
+          * घोषणा: [ɡ̤ o ʂ ɳ aː]
+          * घायल: [ɡ̤ aː j ə l]
+          * घर-घर: [ɡ̤ ə r ɡ̤ ə r]
     ```
   - ```{ipa_cell}
     ```
@@ -268,18 +268,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 686
         * Examples
-          * चलन?: [t͡ʃ ə l ə n]
-          * चार: [t͡ʃ aː r]
-          * हिचकी: [ɦ i t͡ʃ k iː]
-          * फीचर,: [pʰ iː t͡ʃ ə r]
+          * बेचने: [b e t͡ʃ n e]
+          * चिंतन: [t͡ʃ i n t ə n]
+          * मचाते: [m ə t͡ʃ aː t e]
+          * बचाव: [b ə t͡ʃ aː v]
     * voiced
       * d͡ʒ
         * Occurances: 1197
         * Examples
-          * पूजन: [p uː d͡ʒ ə n]
-          * लीजिए: [l iː d͡ʒ i e]
-          * खारिज: [kʰ aː r i d͡ʒ]
-          * कर्ज: [k ə r d͡ʒ ə]
+          * यूज: [j uː d͡ʒ]
+          * नटराज: [n ə ʈ r aː d͡ʒ]
+          * जायज: [d͡ʒ aː j ə d͡ʒ]
+          * आजाद,: [aː d͡ʒ aː d]
     ```
   - ```{ipa_cell}
     ```
@@ -305,10 +305,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * d͡ʒ̤
         * Occurances: 90
         * Examples
-          * झटके: [d͡ʒ̤ ə ʈ k e]
-          * तुझे: [t u d͡ʒ̤ e]
-          * मुझ: [m u d͡ʒ̤]
-          * समझा।: [s ə m d͡ʒ̤ aː]
+          * झेलम,: [d͡ʒ̤ e l ə m]
+          * झंडी: [d͡ʒ̤ ə n ɖ iː]
+          * झटका,: [d͡ʒ̤ ə ʈ k aː]
+          * मुरझा: [m u r d͡ʒ̤ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -332,38 +332,38 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 2396
         * Examples
-          * सदस्य: [s ə d s j ə]
-          * सत्तर: [s ə t t ə r]
-          * सीट,: [s iː ʈ]
-          * सुलु': [s u l u]
+          * पेरिस: [p e r i s]
+          * पेस,: [p e s]
+          * उसतक: [u s t ə k]
+          * एमएस: [e m ə e s]
     * voiced
       * z
         * Occurances: 121
         * Examples
-          * तेज़ी: [t e z iː]
-          * बिज़ी: [b i z iː]
-          * ज़बान: [z ə b aː n]
-          * इज़: [i z]
+          * नज़र!: [n ə z ə r]
+          * etios: [ɛ t i o w z]
+          * ज़मीन: [z ə m iː n]
+          * ज़ेउस: [z e u s]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 705
         * Examples
-          * जश्न: [d͡ʒ ə ʃ n ə]
-          * शकील: [ʃ ə k iː l]
-          * शराब: [ʃ ə r aː b]
-          * ब्रश: [b r ə ʃ]
+          * शीशे: [ʃ iː ʃ e]
+          * शीघ्र: [ʃ iː ɡ̤ r ə]
+          * ईश्वर: [iː ʃ v ə r]
+          * मालिश: [m aː l i ʃ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʂ
         * Occurances: 202
         * Examples
-          * आशीष: [aː ʃ iː ʂ]
-          * पक्षी: [p ə k ʂ iː]
-          * दोष: [d o ʂ]
-          * विशेष: [v i ʃ e ʂ]
+          * धनुष: [d̤ ə n u ʂ]
+          * सुषमा: [s u ʂ m aː]
+          * घोषणा: [ɡ̤ o ʂ ɳ aː]
+          * परिषद: [p ə r i ʂ ə d]
     ```
   - ```{ipa_cell}
     ```
@@ -381,18 +381,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 88
         * Examples
-          * तरफ़: [t ə r ə f]
-          * photo: [f o w t o w]
+          * अफ़सर: [a f s ə r]
           * दफ़तर: [d ə f t ə r]
-          * बरफ़: [b ə r ə f]
+          * first: [f ɹ̩ s t]
+          * film: [f ɪ l m]
     * voiced
       * v
         * Occurances: 1246
         * Examples
-          * वनों: [v ə n o n]
-          * वार: [v aː r]
-          * बहाव: [b ə ɦ aː v]
-          * डोवाल: [ɖ o v aː l]
+          * हवा: [ɦ ə v aː]
+          * बचाव: [b ə t͡ʃ aː v]
+          * छाँव: [t͡ʃʰ ãː v ə]
+          * नकवी: [n ə k v iː]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -417,18 +417,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 102
         * Examples
-          * आरोपः: [aː r o p ə h]
-          * लखनऊः: [l ə kʰ n ə u ə h]
           * चीनः: [t͡ʃ iː n ə h]
-          * लगेः: [l ə ɡ e ə h]
+          * छः,: [t͡ʃʰ ə h]
+          * केरलः: [k e r l ə h]
+          * मोदीः: [m o d iː ə h]
     * voiced
       * ɦ
         * Occurances: 1163
         * Examples
-          * बहाव: [b ə ɦ aː v]
-          * हाउस: [ɦ aː u s]
-          * हो!: [ɦ o]
-          * रहेगी: [r ə ɦ e ɡ iː]
+          * हालत: [ɦ aː l ə t]
+          * हवा: [ɦ ə v aː]
+          * रहे: [r ə ɦ e]
+          * रही: [r ə ɦ iː]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -436,10 +436,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 30
         * Examples
-          * photo: [f o w t o w]
+          * etios: [ɛ t i o w z]
+          * rayo: [ɹ e j o w]
+          * zero: [z ɪ ɹ o w]
           * what: [w ʌ t]
-          * trobe: [t ɹ o w b]
-          * show:: [ʃ o w]
     ```
   - ```{ipa_cell}
     ```
@@ -450,15 +450,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɹ
         * Occurances: 34
         * Examples
-          * redmi: [ɹ ɛ d m i]
-          * trobe: [t ɹ o w b]
+          * wrap:: [ɹ æ p]
           * rayo: [ɹ e j o w]
           * zero: [z ɪ ɹ o w]
+          * trobe: [t ɹ o w b]
       * ɹ̩
         * Occurances: 12
         * Examples
-          * world: [w ɹ̩ l d]
           * first: [f ɹ̩ s t]
+          * world: [w ɹ̩ l d]
     ```
   - ```{ipa_cell}
     ```
@@ -469,10 +469,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1345
         * Examples
-          * सदस्य: [s ə d s j ə]
-          * बजाये: [b ə d͡ʒ aː j e]
-          * फायदा: [pʰ aː j d aː]
-          * युगल: [j u ɡ ə l]
+          * क्यों: [k j o n]
+          * यमुना: [j ə m u n aː]
+          * ...ये: [j e]
+          * यूज: [j uː d͡ʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -496,17 +496,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɽ
         * Occurances: 299
         * Examples
-          * कड़ा: [k ə ɽ aː]
-          * घड़ी: [ɡ̤ ə ɽ iː]
-          * सड़: [s ə ɽ]
-          * पेड़: [p e ɽ]
+          * दौड़: [d ɔː ɽ]
+          * बड़ा: [b ə ɽ aː]
+          * अड़ीं: [a ɽ iː n]
+          * चीड़: [t͡ʃ iː ɽ]
       * ɽ̥
         * Occurances: 76
         * Examples
-          * बूढ़ी: [b uː ɽ̥ iː]
           * बढ़ती: [b ə ɽ̥ ə t iː]
-          * चढ़ते: [t͡ʃ ə ɽ̥ ə t e]
           * पीढ़ी: [p iː ɽ̥ iː]
+          * पढ़ने: [p ə ɽ̥ ə n e]
+          * बढ़ा,: [b ə ɽ̥ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -528,17 +528,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 4058
         * Examples
-          * पैरोल: [p æː r o l]
-          * सत्तर: [s ə t t ə r]
-          * खारिज: [kʰ aː r i d͡ʒ]
-          * किरण: [k i r ə ɳ]
+          * पेरिस: [p e r i s]
+          * रुकी।: [r u k iː]
+          * डोरे: [ɖ o r e]
+          * पर?: [p ə r]
       * r̩
         * Occurances: 51
         * Examples
+          * कृपया: [k r̩ p j aː]
           * मातृ: [m aː t r̩]
-          * मृत: [m r̩ t]
-          * कृंतक: [k r̩ n t ə k]
-          * ऋतु: [r̩ t u]
+          * नृत्य: [n r̩ t j ə]
+          * कृति: [k r̩ t i]
     ```
   - ```{ipa_cell}
     ```
@@ -564,10 +564,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 2313
         * Examples
-          * पैरोल: [p æː r o l]
-          * मेटल: [m e ʈ ə l]
-          * मिला:: [m i l aː]
-          * गली: [ɡ ə l iː]
+          * पॉल: [p ɔ l]
+          * हालत: [ɦ aː l ə t]
+          * बोलने: [b o l n e]
+          * अपलोड: [a p l o ɖ]
     ```
   - ```{ipa_cell}
     ```
@@ -607,17 +607,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 2711
         * Examples
-          * मिला:: [m i l aː]
-          * लीजिए: [l iː d͡ʒ i e]
-          * खारिज: [kʰ aː r i d͡ʒ]
-          * किरण: [k i r ə ɳ]
+          * पेरिस: [p e r i s]
+          * पंडित: [p ə n ɖ i t]
+          * चिंतन: [t͡ʃ i n t ə n]
+          * इनाम: [i n aː m]
       * iː
         * Occurances: 2816
         * Examples
-          * सीट,: [s iː ʈ]
-          * देखी।: [d e kʰ iː]
-          * गली: [ɡ ə l iː]
-          * लीजिए: [l iː d͡ʒ i e]
+          * रुकी।: [r u k iː]
+          * नींद,: [n iː n d ə]
+          * बढ़ती: [b ə ɽ̥ ə t iː]
+          * पीठ: [p iː ʈʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -630,17 +630,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 1262
         * Examples
-          * पुल: [p u l]
-          * सुलु': [s u l u]
-          * उमा: [u m aː]
-          * हाउस: [ɦ aː u s]
+          * यमुना: [j ə m u n aː]
+          * रुकी।: [r u k iː]
+          * धनुष: [d̤ ə n u ʂ]
+          * उसतक: [u s t ə k]
       * uː
         * Occurances: 632
         * Examples
-          * पूजन: [p uː d͡ʒ ə n]
-          * वजूद: [v ə d͡ʒ uː d]
-          * धांसू: [d̤ aː n s uː]
-          * हूं,: [ɦ uː n]
+          * बदबू: [b ə d b uː]
+          * यूज: [j uː d͡ʒ]
+          * थरूर: [tʰ ə r uː r]
+          * ऊंचा: [uː ɲ t͡ʃ aː]
     ```
 * -
   - ```{ipa_cell}
@@ -650,10 +650,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 39
         * Examples
-          * bigg: [b ɪ ɡ]
-          * iulia: [ɪ u l i ə]
-          * ltd: [l ɪ m ɪ t ɪ d]
+          * zero: [z ɪ ɹ o w]
+          * kiss,: [k ɪ s]
           * film: [f ɪ l m]
+          * iulia: [ɪ u l i ə]
     ```
   - ```{ipa_cell}
     ```
@@ -672,10 +672,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 2940
         * Examples
-          * मेटल: [m e ʈ ə l]
-          * देगा: [d e ɡ aː]
-          * देखी।: [d e kʰ iː]
-          * लीजिए: [l iː d͡ʒ i e]
+          * पेरिस: [p e r i s]
+          * बेचने: [b e t͡ʃ n e]
+          * पेस,: [p e s]
+          * डोरे: [ɖ o r e]
     ```
   - ```{ipa_cell}
     ```
@@ -688,10 +688,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 1631
         * Examples
-          * पैरोल: [p æː r o l]
-          * वनों: [v ə n o n]
-          * लोकल: [l o k ə l]
-          * नोबेल: [n o b e l]
+          * क्यों: [k j o n]
+          * डोरे: [ɖ o r e]
+          * बोलने: [b o l n e]
+          * अपलोड: [a p l o ɖ]
     ```
 * -
   - ```{ipa_cell}
@@ -703,10 +703,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 6777
         * Examples
-          * सदस्य: [s ə d s j ə]
-          * सत्तर: [s ə t t ə r]
-          * खत्म,: [kʰ ə t m ə]
-          * पूजन: [p uː d͡ʒ ə n]
+          * यमुना: [j ə m u n aː]
+          * धनुष: [d̤ ə n u ʂ]
+          * पैंट: [p æː n ʈ ə]
+          * नींद,: [n iː n d ə]
     ```
   - ```{ipa_cell}
     ```
@@ -718,10 +718,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 19
         * Examples
-          * redmi: [ɹ ɛ d m i]
           * etios: [ɛ t i o w z]
+          * chetu: [t͡ʃ ɛ t u]
           * get: [ɡ ɛ t]
-          * celeb: [s ɛ l ɛ b]
+          * tech: [t ɛ k]
     ```
   - ```{ipa_cell}
     ```
@@ -734,23 +734,23 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 8
         * Examples
-          * what: [w ʌ t]
           * love: [l ʌ v]
+          * what: [w ʌ t]
     * rounded
       * ɔ
         * Occurances: 218
         * Examples
-          * बॉस: [b ɔ s]
-          * टॉम,: [ʈ ɔ m]
-          * हॉकी:: [ɦ ɔ k iː]
-          * लॉटरी: [l ɔ ʈ r iː]
+          * पॉल: [p ɔ l]
+          * एथनॉल: [e tʰ n ɔ l]
+          * मिनॉग: [m i n ɔ ɡ]
+          * जॉन: [d͡ʒ ɔ n]
       * ɔː
         * Occurances: 177
         * Examples
-          * लौरी: [l ɔː r iː]
-          * हौसला: [ɦ ɔː s l aː]
-          * चौथी: [t͡ʃ ɔː tʰ iː]
-          * तौबा: [t ɔː b aː]
+          * कौन: [k ɔː n]
+          * दौड़: [d ɔː ɽ]
+          * दौरा: [d ɔː r aː]
+          * लौंडे: [l ɔː n ɖ e]
     ```
 * -
   - ```{ipa_cell}
@@ -758,17 +758,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * æ
         * Occurances: 23
         * Examples
-          * app: [æ p]
-          * kapil: [k æ p ə l]
-          * pak: [p æ k]
+          * wrap:: [ɹ æ p]
+          * happy: [h æ p i]
           * apple: [æ p ə l]
+          * app: [æ p]
       * æː
         * Occurances: 430
         * Examples
-          * पैरोल: [p æː r o l]
-          * बैठीं: [b æː ʈʰ iː n]
-          * वैसा: [v æː s aː]
-          * हैं,: [ɦ æː n]
+          * पैंट: [p æː n ʈ ə]
+          * तैरती: [t æː r t iː]
+          * रैली: [r æː l iː]
+          * हैं?': [ɦ æː n]
     ```
   - ```{ipa_cell}
     ```
@@ -788,17 +788,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 402
         * Examples
-          * अवतार: [a v t aː r]
-          * अच्छे: [a t͡ʃ t͡ʃʰ e]
-          * अपनी: [a p n iː]
-          * अपमान: [a p m aː n]
+          * अपलोड: [a p l o ɖ]
+          * अरबन: [a r b ə n]
+          * अड़ीं: [a ɽ iː n]
+          * अकरम: [a k r ə m]
       * aː
         * Occurances: 6338
         * Examples
-          * कड़ा: [k ə ɽ aː]
-          * देगा: [d e ɡ aː]
-          * मिला:: [m i l aː]
-          * खारिज: [kʰ aː r i d͡ʒ]
+          * यमुना: [j ə m u n aː]
+          * आते: [aː t e]
+          * काट: [k aː ʈ]
+          * हालत: [ɦ aː l ə t]
     ```
   - ```{ipa_cell}
     ```
@@ -807,10 +807,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 35
         * Examples
-          * khan: [k ɑ n]
-          * loc: [l ɑ k]
-          * boss:: [b ɑ s]
+          * pok: [p ɑ k]
           * stock: [s t ɑ k]
+          * loc: [l ɑ k]
+          * box: [b ɑ k s]
     ```
 ``````
 
@@ -842,15 +842,15 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ũ
         * Occurances: 15
         * Examples
-          * मुँह: [m ũ ɦ ə]
-          * पहुँच: [p ə ɦ ũ t͡ʃ ə]
           * उँगली: [ũ ɡ ə l iː]
+          * पहुँच: [p ə ɦ ũ t͡ʃ ə]
+          * मुँह: [m ũ ɦ ə]
       * ũː
         * Occurances: 56
         * Examples
-          * बूँद: [b ũː d ə]
-          * हूँ": [ɦ ũː]
-          * ऊँगली: [ũː ɡ ə l iː]
+          * कहूँ।: [k ə ɦ ũː]
+          * हूँ।: [ɦ ũː]
+          * हूँ!: [ɦ ũː]
           * मूँह: [m ũː ɦ ə]
     ```
 * -
@@ -892,9 +892,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə̃
         * Occurances: 4
         * Examples
-          * हँसे।: [ɦ ə̃ s e]
           * जँचता: [d͡ʒ ə̃ t͡ʃ ə t aː]
           * फँस: [pʰ ə̃ s ə]
+          * हँसे।: [ɦ ə̃ s e]
     ```
   - ```{ipa_cell}
     ```
@@ -936,10 +936,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ãː
         * Occurances: 72
         * Examples
-          * माँ,: [m ãː]
-          * गाँव: [ɡ ãː v ə]
-          * माँगी: [m ãː ɡ iː]
-          * पाँच,: [p ãː t͡ʃ ə]
+          * छाँव: [t͡ʃʰ ãː v ə]
+          * बाँट: [b ãː ʈ ə]
+          * छाँओं: [t͡ʃʰ ãː o n]
+          * आँखें: [ãː kʰ e n]
     ```
   - ```{ipa_cell}
     ```

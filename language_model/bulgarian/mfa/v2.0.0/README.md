@@ -26,8 +26,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@techreport{
-	mfa_bulgarian_lm_2022,
+@techreport{mfa_bulgarian_lm_2022,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
 	title={Bulgarian language model v2.0.0},
 	address={\url{https://mfa-models.readthedocs.io/language model/Bulgarian/Bulgarian language model v2_0_0.html}},

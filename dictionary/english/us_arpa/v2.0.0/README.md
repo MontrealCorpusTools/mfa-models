@@ -23,8 +23,7 @@ Jump to section:
 - **Citation:**
 
 ```bibtex
-@article{
-	gorman2011prosodylab,
+@article{gorman2011prosodylab,
 	author={Gorman, Kyle and Howell, Jonathan and Wagner, Michael},
 	title={Prosodylab-aligner: A tool for forced alignment of laboratory speech},
 	journal={Canadian Acoustics},
