@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @misc{THCHS30_2015,
-	title={THCHS-30 : A Free Chinese Speech Corpus},
-	author={Dong Wang, Xuewei Zhang, Zhiyong Zhang},
-	year={2015},
-	url={http://arxiv.org/abs/1512.01882}
+	title = {THCHS-30 : A Free Chinese Speech Corpus},
+	author = {Dong Wang, Xuewei Zhang, Zhiyong Zhang},
+	year = {2015},
+	url = {http://arxiv.org/abs/1512.01882}
 }
 ```
 

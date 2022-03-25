@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @article{pravzak2012czech,
-  title={Czech parliament meetings},
-  author={Pra{\v{z}}{\'a}k, Ale{\v{s}} and {\v{S}}m{\'\i}dl, Lubo{\v{s}}},
-  year={2012},
-  publisher={University of West Bohemia, Department of Cybernetics}
+	title = {Czech parliament meetings},
+	author = {Pra{\v{z}}{\'a}k, Ale{\v{s}} and {\v{S}}m{\'\i}dl, Lubo{\v{s}}},
+	year = {2012},
+	publisher = {University of West Bohemia, Department of Cybernetics}
 }
 
 ```

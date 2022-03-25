@@ -19,12 +19,12 @@
 - **Citation:**
 ```bibtex
 @misc{mediaspeech2021,
-	title={MediaSpeech: Multilanguage ASR Benchmark and Dataset},
-	author={Rostislav Kolobov and Olga Okhapkina and Olga Omelchishina, Andrey Platunov and Roman Bedyakin and Vyacheslav Moshkin and Dmitry Menshikov and Nikolay Mikhaylovskiy},
-	year={2021},
-	eprint={2103.16193},
-	archivePrefix={arXiv},
-	primaryClass={eess.AS}
+	title = {MediaSpeech: Multilanguage ASR Benchmark and Dataset},
+	author = {Rostislav Kolobov and Olga Okhapkina and Olga Omelchishina, Andrey Platunov and Roman Bedyakin and Vyacheslav Moshkin and Dmitry Menshikov and Nikolay Mikhaylovskiy},
+	year = {2021},
+	eprint = {2103.16193},
+	archivePrefix = {arXiv},
+	primaryClass = {eess.AS}
 }
 ```
 

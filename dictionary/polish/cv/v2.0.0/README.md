@@ -56,7 +56,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

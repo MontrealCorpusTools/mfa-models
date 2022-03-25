@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#ukrainian)
 - **Number of words:** `64,017`
 - **Phones:** `b bʲ bʲː bː c cː dzʲ dʒ dʲ dʲː d̪ d̪z̪ d̪z̪ː d̪ː e f fʲ i j k kː l lː m mʲ mʲː n̪ n̪ː o p pʲ pʲː sʲ sʲː s̪ s̪ː tsʲ tsʲː tʃ tʃʲ tʃʲː tʃː tʲ tʲː t̪ t̪s̪ t̪s̪ː t̪ː u x zʲ zʲː z̪ z̪ː ç ɐ ɑ ɔ ɛ ɡ ɡː ɦ ɦː ɪ ɲ ɲː ɾ ɾʲ ɾʲː ɾː ʃ ʃʲ ʃʲː ʊ ʋ ʋʲ ʋʲː ʋː ʎ ʎː ʒ ʒʲ ʒʲː ʝ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/ukrainian/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/ukrainian/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

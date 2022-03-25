@@ -54,10 +54,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1921
         * Examples
-          * tehma: [t ɛ h m aː]
-          * karim: [k aː ɾ ɪ m]
-          * “em: [ɛ m]
-          * nemir: [n ɛ m ɪ ɾ]
+          * bikim: [b ɪ k ɪ m]
+          * milet: [m ɪ l ɛ t]
+          * xem: [x ɛ m]
+          * çîma: [t͡ʃ iː m aː]
     ```
   - ```{ipa_cell}
     ```
@@ -66,10 +66,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 6033
         * Examples
-          * zane.: [z aː n ɛ]
-          * bihna: [b ɪ h n aː]
-          * anî;: [aː n iː]
-          * dizan: [d ɪ z aː n]
+          * aran: [aː ɾ aː n]
+          * bûne.: [b uː n ɛ]
+          * îvan: [iː v aː n]
+          * çanda: [t͡ʃ aː n d aː]
     ```
   - ```{ipa_cell}
     ```
@@ -80,10 +80,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 184
         * Examples
-          * çeng: [t͡ʃ ɛ ŋ]
-          * xungê: [x u ŋ eː]
-          * bang: [b aː ŋ]
-          * şeng: [ʃ ɛ ŋ]
+          * bangî: [b aː ŋ iː]
+          * rengî: [ɾ ɛ ŋ iː]
+          * manga: [m aː ŋ aː]
+          * bangê: [b aː ŋ eː]
     ```
   - ```{ipa_cell}
     ```
@@ -95,18 +95,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 846
         * Examples
-          * pêlê: [p eː l eː]
-          * pirbû: [p ɪ ɾ b uː]
+          * çapê: [t͡ʃ aː p eː]
+          * apo: [aː p o]
+          * piyê: [p ɪ j eː]
           * rûspî: [ɾ uː s p iː]
-          * çîp: [t͡ʃ iː p]
     * voiced
       * b
         * Occurances: 2249
         * Examples
-          * bihna: [b ɪ h n aː]
-          * ban.: [b aː n]
-          * bêhin: [b eː h ɪ n]
-          * belaş: [b ɛ l aː ʃ]
+          * bûne.: [b uː n ɛ]
+          * bir?: [b ɪ ɾ]
+          * bangî: [b aː ŋ iː]
+          * kezeb: [k ɛ z ɛ b]
     ```
   - ```{ipa_cell}
     ```
@@ -115,18 +115,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 2361
         * Examples
-          * tehma: [t ɛ h m aː]
-          * tijî: [t ɪ ʒ iː]
-          * têxê: [t eː x eː]
-          * hate: [h aː t ɛ]
+          * ket: [k ɛ t]
+          * saet.: [s aː ɛ t]
+          * tirkî: [t ɪ ɾ k iː]
+          * milet: [m ɪ l ɛ t]
     * voiced
       * d
         * Occurances: 2694
         * Examples
-          * dizan: [d ɪ z aː n]
-          * xeyda: [x ɛ j d aː]
-          * kurd: [k u ɾ d]
-          * radyo: [ɾ aː d j o]
+          * seîd: [s ɛ iː d]
+          * dide?: [d ɪ d ɛ]
+          * erd,: [ɛ ɾ d]
+          * çanda: [t͡ʃ aː n d aː]
     ```
   - ```{ipa_cell}
     ```
@@ -137,28 +137,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 2895
         * Examples
-          * riyek: [ɾ ɪ j ɛ k]
-          * karim: [k aː ɾ ɪ m]
-          * refek: [ɾ ɛ f ɛ k]
-          * kêfa: [k eː f aː]
+          * kerê: [k ɛ ɾ eː]
+          * gerek: [ɡ ɛ ɾ ɛ k]
+          * ket: [k ɛ t]
+          * kezeb: [k ɛ z ɛ b]
     * voiced
       * ɡ
         * Occurances: 831
         * Examples
-          * gelo?: [ɡ ɛ l o]
-          * gelek: [ɡ ɛ l ɛ k]
-          * gedê: [ɡ ɛ d eː]
-          * goh: [ɡ o h]
+          * gerek: [ɡ ɛ ɾ ɛ k]
+          * gore: [ɡ o ɾ ɛ]
+          * giş: [ɡ ɪ ʃ]
+          * got.: [ɡ o t]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 496
         * Examples
-          * neqş: [n ɛ q ʃ]
-          * qîmet: [q iː m ɛ t]
-          * feqî: [f ɛ q iː]
-          * qels: [q ɛ l s]
+          * çiqas: [t͡ʃ ɪ q aː s]
+          * araq: [aː ɾ aː q]
+          * qadan: [q aː d aː n]
+          * ehmeq: [ɛ h m ɛ q]
     ```
   - ```{ipa_cell}
     ```
@@ -174,18 +174,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 538
         * Examples
-          * naçin: [n aː t͡ʃ ɪ n]
-          * çûn.: [t͡ʃ uː n]
-          * çewal: [t͡ʃ ɛ w aː l]
-          * çors: [t͡ʃ o ɾ s]
+          * çanda: [t͡ʃ aː n d aː]
+          * çîma: [t͡ʃ iː m aː]
+          * çiqas: [t͡ʃ ɪ q aː s]
+          * çapê: [t͡ʃ aː p eː]
     * voiced
       * d͡ʒ
         * Occurances: 379
         * Examples
           * cîran: [d͡ʒ iː ɾ aː n]
-          * ducar: [d u d͡ʒ aː ɾ]
-          * carên: [d͡ʒ aː ɾ eː n]
-          * cotek: [d͡ʒ o t ɛ k]
+          * cinsê: [d͡ʒ ɪ n s eː]
+          * cihê: [d͡ʒ ɪ h eː]
+          * cihan: [d͡ʒ ɪ h aː n]
     ```
   - ```{ipa_cell}
     ```
@@ -205,36 +205,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 1682
         * Examples
-          * werîs: [w ɛ ɾ iː s]
-          * çors: [t͡ʃ o ɾ s]
-          * vîrus: [v iː ɾ u s]
-          * sêva: [s eː v aː]
+          * seîd: [s ɛ iː d]
+          * îsal: [iː s aː l]
+          * heso”: [h ɛ s o]
+          * saet.: [s aː ɛ t]
     * voiced
       * z
         * Occurances: 915
         * Examples
-          * zane.: [z aː n ɛ]
-          * dizan: [d ɪ z aː n]
-          * faîza: [f aː iː z aː]
-          * “ez: [ɛ z]
+          * kezeb: [k ɛ z ɛ b]
+          * rêzan: [ɾ eː z aː n]
+          * hazir: [h aː z ɪ ɾ]
+          * nêzîk: [n eː z iː k]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1120
         * Examples
-          * xweşa: [x w ɛ ʃ aː]
-          * şaxê: [ʃ aː x eː]
-          * belaş: [b ɛ l aː ʃ]
-          * neqş: [n ɛ q ʃ]
+          * nişan: [n ɪ ʃ aː n]
+          * bişo: [b ɪ ʃ o]
+          * şînê: [ʃ iː n eː]
+          * giş: [ɡ ɪ ʃ]
     * voiced
       * ʒ
         * Occurances: 598
         * Examples
-          * tijî: [t ɪ ʒ iː]
-          * bêjî: [b eː ʒ iː]
-          * jor: [ʒ o ɾ]
-          * rojek: [ɾ o ʒ ɛ k]
+          * jiyîn: [ʒ ɪ j iː n]
+          * bêje,: [b eː ʒ ɛ]
+          * mijar: [m ɪ ʒ aː ɾ]
+          * rojî: [ɾ o ʒ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -252,18 +252,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 456
         * Examples
-          * refek: [ɾ ɛ f ɛ k]
           * kêfa: [k eː f aː]
-          * faîza: [f aː iː z aː]
-          * feqî: [f ɛ q iː]
+          * fikra: [f ɪ k ɾ aː]
+          * sorfê: [s o ɾ f eː]
+          * defa: [d ɛ f aː]
     * voiced
       * v
         * Occurances: 1115
         * Examples
-          * avê.: [aː v eː]
-          * nîv!: [n iː v]
-          * hêvî: [h eː v iː]
-          * vîrus: [v iː ɾ u s]
+          * îvan: [iː v aː n]
+          * hev?: [h ɛ v]
+          * nava: [n aː v aː]
+          * veda: [v ɛ d aː]
     ```
   - ```{ipa_cell}
     ```
@@ -280,10 +280,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 1366
         * Examples
-          * bihna: [b ɪ h n aː]
-          * tehma: [t ɛ h m aː]
-          * bêhin: [b eː h ɪ n]
-          * hêvî: [h eː v iː]
+          * heso”: [h ɛ s o]
+          * hev?: [h ɛ v]
+          * ehlê: [ɛ h l eː]
+          * sibeh: [s ɪ b ɛ h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -291,10 +291,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1061
         * Examples
-          * elewî: [ɛ l ɛ w iː]
-          * xweşa: [x w ɛ ʃ aː]
-          * çewal: [t͡ʃ ɛ w aː l]
-          * werîs: [w ɛ ɾ iː s]
+          * lawir: [l aː w ɪ ɾ]
+          * werin: [w ɛ ɾ ɪ n]
+          * xwest: [x w ɛ s t]
+          * wî.: [w iː]
     ```
   - ```{ipa_cell}
     ```
@@ -307,10 +307,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 2036
         * Examples
-          * riyek: [ɾ ɪ j ɛ k]
-          * xeyda: [x ɛ j d aː]
-          * radyo: [ɾ aː d j o]
-          * yekî: [j ɛ k iː]
+          * jiyîn: [ʒ ɪ j iː n]
+          * dayîk: [d aː j iː k]
+          * bûyî: [b uː j iː]
+          * piyê: [p ɪ j eː]
     ```
   - ```{ipa_cell}
     ```
@@ -328,10 +328,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 4718
         * Examples
-          * riyek: [ɾ ɪ j ɛ k]
-          * karim: [k aː ɾ ɪ m]
-          * refek: [ɾ ɛ f ɛ k]
-          * kurd: [k u ɾ d]
+          * aran: [aː ɾ aː n]
+          * kerê: [k ɛ ɾ eː]
+          * gerek: [ɡ ɛ ɾ ɛ k]
+          * lawir: [l aː w ɪ ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -353,10 +353,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 1533
         * Examples
-          * elewî: [ɛ l ɛ w iː]
-          * gelo?: [ɡ ɛ l o]
-          * belaş: [b ɛ l aː ʃ]
-          * belkî: [b ɛ l k iː]
+          * îsal: [iː s aː l]
+          * lawir: [l aː w ɪ ɾ]
+          * milet: [m ɪ l ɛ t]
+          * ehlê: [ɛ h l eː]
       * ɫ
         * Occurances: 13
         * Examples
@@ -396,10 +396,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 3035
         * Examples
-          * anî;: [aː n iː]
-          * elewî: [ɛ l ɛ w iː]
-          * tijî: [t ɪ ʒ iː]
-          * nîv!: [n iː v]
+          * seîd: [s ɛ iː d]
+          * îsal: [iː s aː l]
+          * îvan: [iː v aː n]
+          * bangî: [b aː ŋ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -412,17 +412,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 553
         * Examples
-          * kurd: [k u ɾ d]
-          * vîrus: [v iː ɾ u s]
-          * ducar: [d u d͡ʒ aː ɾ]
-          * kulên: [k u l eː n]
+          * kur: [k u ɾ]
+          * gund.: [ɡ u n d]
+          * buhar: [b u h aː ɾ]
+          * hun: [h u n]
       * uː
         * Occurances: 761
         * Examples
-          * çûn.: [t͡ʃ uː n]
-          * rûn: [ɾ uː n]
-          * çûme: [t͡ʃ uː m ɛ]
-          * pirbû: [p ɪ ɾ b uː]
+          * bûne.: [b uː n ɛ]
+          * axû: [aː x uː]
+          * lênûs: [l eː n uː s]
+          * bûn,: [b uː n]
     ```
 * -
   - ```{ipa_cell}
@@ -432,10 +432,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 6278
         * Examples
-          * bihna: [b ɪ h n aː]
-          * riyek: [ɾ ɪ j ɛ k]
-          * karim: [k aː ɾ ɪ m]
-          * dizan: [d ɪ z aː n]
+          * dide?: [d ɪ d ɛ]
+          * lawir: [l aː w ɪ ɾ]
+          * bir?: [b ɪ ɾ]
+          * jiyîn: [ʒ ɪ j iː n]
     * rounded
       * ʏ
         * Occurances: 1
@@ -454,10 +454,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 3578
         * Examples
-          * avê.: [aː v eː]
-          * kêfa: [k eː f aː]
-          * bêhin: [b eː h ɪ n]
-          * têxê: [t eː x eː]
+          * kerê: [k ɛ ɾ eː]
+          * serê: [s ɛ ɾ eː]
+          * rê,: [ɾ eː]
+          * rêber: [ɾ eː b ɛ ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -470,10 +470,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 1331
         * Examples
-          * gelo?: [ɡ ɛ l o]
-          * koka: [k o k aː]
-          * çors: [t͡ʃ o ɾ s]
-          * radyo: [ɾ aː d j o]
+          * heso”: [h ɛ s o]
+          * gore: [ɡ o ɾ ɛ]
+          * bişo: [b ɪ ʃ o]
+          * got.: [ɡ o t]
     ```
 * -
   - ```{ipa_cell}
@@ -492,10 +492,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 7836
         * Examples
-          * zane.: [z aː n ɛ]
-          * tehma: [t ɛ h m aː]
-          * riyek: [ɾ ɪ j ɛ k]
-          * refek: [ɾ ɛ f ɛ k]
+          * kerê: [k ɛ ɾ eː]
+          * seîd: [s ɛ iː d]
+          * dide?: [d ɪ d ɛ]
+          * bûne.: [b uː n ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -526,10 +526,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * aː
         * Occurances: 6806
         * Examples
-          * zane.: [z aː n ɛ]
-          * bihna: [b ɪ h n aː]
-          * tehma: [t ɛ h m aː]
-          * anî;: [aː n iː]
+          * aran: [aː ɾ aː n]
+          * îsal: [iː s aː l]
+          * lawir: [l aː w ɪ ɾ]
+          * saet.: [s aː ɛ t]
     ```
   - ```{ipa_cell}
     ```

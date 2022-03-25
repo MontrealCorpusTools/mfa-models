@@ -3,7 +3,7 @@
     "language": "Swahili",
     "dialect": "",
     "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
-    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/swahili/MFA/v2.0.0/LICENSE)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/swahili/mfa/v2.0.0/LICENSE)",
     "license": "CC BY 4.0",
     "architecture": "pynini",
     "training": {

@@ -59,20 +59,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 12949
         * Examples
-          * igoma: [i ɠ ɔ m ɑ]
-          * mbebe: [m b ɛ ɓ ɛ]
-          * atomu: [ɑ t ɔ m u]
-          * mita: [m i t ɑ]
+          * mkini: [m k i n i]
+          * mkosi: [m k ɔ s i]
+          * moza: [m ɔ z ɑ]
+          * mlay: [m l ɑ j]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 213
         * Examples
-          * mfupi: [ɱ f u p i]
+          * jamvi: [dʒ ɑ ɱ v i]
           * mfuko: [ɱ f u k ɔ]
-          * mvezo: [ɱ v ɛ z ɔ]
-          * mvivu: [ɱ v i v u]
+          * mfumo: [ɱ f u m ɔ]
+          * mfupa: [ɱ f u p ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -81,10 +81,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 14525
         * Examples
-          * navyo: [n ɑ v j ɔ]
-          * nike: [n i k ɛ]
-          * eline: [ɛ l i n ɛ]
-          * punju: [p u n dʒ u]
+          * ini: [i n i]
+          * iniue: [i n i u ɛ]
+          * mkini: [m k i n i]
+          * union: [u n i ɔ n]
     ```
   - ```{ipa_cell}
     ```
@@ -93,20 +93,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 1477
         * Examples
-          * nyigu: [ɲ i ɠ u]
-          * wanya: [w ɑ ɲ ɑ]
-          * wenyi: [w ɛ ɲ i]
-          * nyeri: [ɲ ɛ ɾ i]
+          * nyoma: [ɲ ɔ m ɑ]
+          * ninyi: [n i ɲ i]
+          * anya: [ɑ ɲ ɑ]
+          * yenye: [j ɛ ɲ ɛ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 3695
         * Examples
-          * wrong: [ɾ ɔ ŋ ɡ]
-          * pingu: [p i ŋ ɡ u]
-          * anga: [ɑ ŋ ɡ ɑ]
-          * ngina: [ŋ ɡ i n ɑ]
+          * lango: [l ɑ ŋ ɡ ɔ]
+          * dengi: [d ɛ ŋ ɡ i]
+          * hangi: [h ɑ ŋ ɡ i]
+          * pangu: [p ɑ ŋ ɡ u]
     ```
   - ```{ipa_cell}
     ```
@@ -116,18 +116,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 4340
         * Examples
-          * pit: [p i t]
-          * punju: [p u n dʒ u]
-          * paja: [p ɑ dʒ ɑ]
-          * nipe: [n i p ɛ]
+          * iputa: [i p u t ɑ]
+          * mkpa: [m k p ɑ]
+          * kloop: [k l ɔː p]
+          * jipe: [dʒ i p ɛ]
     * voiced
       * b
         * Occurances: 2435
         * Examples
-          * bar: [b ɑ ɾ]
-          * mbebe: [m b ɛ ɓ ɛ]
-          * boksi: [b ɔ k s i]
-          * iombe: [i ɔ m b ɛ]
+          * mbuge: [m b u ɠ ɛ]
+          * boti: [b ɔ t i]
+          * baade: [b ɑː ɗ ɛ]
+          * baada: [b ɑː ɗ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -138,18 +138,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 10702
         * Examples
-          * vyote: [v j ɔ t ɛ]
-          * tako: [t ɑ k ɔ]
-          * atomu: [ɑ t ɔ m u]
-          * mita: [m i t ɑ]
+          * iputa: [i p u t ɑ]
+          * coast: [k ɔ ɑ s t]
+          * toba: [t ɔ ɓ ɑ]
+          * style: [s t ɑ j l]
     * voiced
       * d
         * Occurances: 2643
         * Examples
-          * majid: [m ɑ dʒ i d]
-          * dini: [d i n i]
-          * mende: [m ɛ n d ɛ]
-          * doto: [d ɔ t ɔ]
+          * duka: [d u k ɑ]
+          * ndie: [n d i ɛ]
+          * pendo: [p ɛ n d ɔ]
+          * dengi: [d ɛ ŋ ɡ i]
     ```
   - ```{ipa_cell}
     ```
@@ -160,18 +160,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 18104
         * Examples
-          * kansa: [k ɑ s ɑ]
-          * chake: [tʃ ɑ k ɛ]
-          * nike: [n i k ɛ]
-          * boksi: [b ɔ k s i]
+          * mkini: [m k i n i]
+          * mkosi: [m k ɔ s i]
+          * mkpa: [m k p ɑ]
+          * kwenu: [k w ɛ n u]
     * voiced
       * ɡ
         * Occurances: 3927
         * Examples
-          * glasi: [ɡ l ɑ s i]
-          * mgumu: [m ɡ u m u]
-          * wrong: [ɾ ɔ ŋ ɡ]
-          * pingu: [p i ŋ ɡ u]
+          * lango: [l ɑ ŋ ɡ ɔ]
+          * gwiji: [ɡ w i dʒ i]
+          * dengi: [d ɛ ŋ ɡ i]
+          * hangi: [h ɑ ŋ ɡ i]
     ```
   - ```{ipa_cell}
     ```
@@ -181,10 +181,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɓ
         * Occurances: 2675
         * Examples
-          * mbebe: [m b ɛ ɓ ɛ]
-          * albam: [ɑ l ɓ ɑ m]
-          * tibet: [t i ɓ ɛ t]
-          * labre: [l ɑ ɓ ɾ ɛ]
+          * toba: [t ɔ ɓ ɑ]
+          * mabo: [m ɑ ɓ ɔ]
+          * juba: [dʒ u ɓ ɑ]
+          * abaha: [ɑ ɓ ɑ h ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -196,9 +196,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 1731
         * Examples
           * wadau: [w ɑ ɗ ɑ u]
-          * shida: [ʃ i ɗ ɑ]
-          * maida: [m ɑ i ɗ ɑ]
-          * maada: [m ɑː ɗ ɑ]
+          * jadi: [dʒ ɑ ɗ i]
+          * abdul: [ɑ ɓ ɗ u l]
+          * baade: [b ɑː ɗ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -209,10 +209,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɠ
         * Occurances: 1774
         * Examples
-          * igoma: [i ɠ ɔ m ɑ]
-          * ugala: [u ɠ ɑ l ɑ]
-          * lagos: [l ɑ ɠ ɔ s]
-          * nyigu: [ɲ i ɠ u]
+          * huoga: [h u ɔ ɠ ɑ]
+          * image: [i m ɑ ɠ ɛ]
+          * olga: [ɔ l ɠ ɑ]
+          * mbuge: [m b u ɠ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -230,18 +230,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 1998
         * Examples
-          * chake: [tʃ ɑ k ɛ]
-          * mchoo: [m tʃ ɔː]
-          * watch: [w ɑ tʃ]
-          * hacha: [h ɑ tʃ ɑ]
+          * chuwa: [tʃ u w ɑ]
+          * chote: [tʃ ɔ t ɛ]
+          * chatu: [tʃ ɑ t u]
+          * luc: [l u tʃ]
     * voiced
       * dʒ
         * Occurances: 3450
         * Examples
-          * july: [dʒ u l i]
-          * maji: [m ɑ dʒ i]
-          * punju: [p u n dʒ u]
-          * paja: [p ɑ dʒ ɑ]
+          * juba: [dʒ u ɓ ɑ]
+          * jino: [dʒ i n ɔ]
+          * jamvi: [dʒ ɑ ɱ v i]
+          * jipe: [dʒ i p ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -261,28 +261,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 5444
         * Examples
-          * kansa: [k ɑ s ɑ]
-          * glasi: [ɡ l ɑ s i]
-          * boksi: [b ɔ k s i]
-          * sethi: [s ɛ θ i]
+          * mkosi: [m k ɔ s i]
+          * coast: [k ɔ ɑ s t]
+          * style: [s t ɑ j l]
+          * siko: [s i k ɔ]
     * voiced
       * z
         * Occurances: 6430
         * Examples
           * uozo: [u ɔ z ɔ]
-          * gotze: [ɡ ɔ θ ɑ n z ɛ]
-          * zero: [z ɛ ɾ ɔ]
-          * anwez: [ɑ n w ɛ z]
+          * moza: [m ɔ z ɑ]
+          * uwezo: [u w ɛ z ɔ]
+          * nzima: [n z i m ɑ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 4258
         * Examples
+          * eshia: [ɛ ʃ i ɑ]
+          * hasha: [h ɑ ʃ ɑ]
           * she: [ʃ ɛ]
-          * shule: [ʃ u l ɛ]
-          * shida: [ʃ i ɗ ɑ]
-          * tosha: [t ɔ ʃ ɑ]
+          * shain: [ʃ ɑ i n]
     ```
   - ```{ipa_cell}
     ```
@@ -298,36 +298,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 3364
         * Examples
-          * vifua: [v i f u ɑ]
-          * ufini: [u f i n i]
-          * fimbo: [f i m b ɔ]
-          * alfan: [ɑ l f ɑ n]
+          * alfa: [ɑ l f ɑ]
+          * ihefu: [i h ɛ f u]
+          * kufa: [k u f ɑ]
+          * yusuf: [j u s u f]
     * voiced
       * v
         * Occurances: 2189
         * Examples
-          * navyo: [n ɑ v j ɔ]
-          * vifua: [v i f u ɑ]
-          * vyote: [v j ɔ t ɛ]
-          * uviko: [u v i k ɔ]
+          * jamvi: [dʒ ɑ ɱ v i]
+          * five: [f ɑ j v]
+          * vifo: [v i f ɔ]
+          * david: [d ɑ v i d]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 314
         * Examples
-          * sethi: [s ɛ θ i]
-          * gotze: [ɡ ɔ θ ɑ n z ɛ]
-          * nithi: [n i θ i]
+          * iot: [i ɔ θ ɑ]
           * smith: [s m i θ]
+          * dicot: [d i k ɔ θ ɑ]
+          * sethi: [s ɛ θ i]
     * voiced
       * ð
         * Occurances: 574
         * Examples
-          * dhabi: [ð ɑ ɓ i]
-          * jidda: [dʒ i ð ɑ ɗ ɑ]
-          * gadla: [ɡ ɑ ð ɑ l ɑ]
-          * kadha: [k ɑ ð ɑ]
+          * awadh: [ɑ w ɑ ð]
+          * nahod: [n ɑ h ɔ ð]
+          * fedha: [f ɛ ð ɑ]
+          * chad: [tʃ ɑ ð ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -342,10 +342,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 4836
         * Examples
-          * eeeh: [ɛː ɛ h]
-          * hawo: [h ɑ w ɔ]
-          * mhaya: [m h ɑ j ɑ]
-          * weah: [w ɛ ɑ h]
+          * huoga: [h u ɔ ɠ ɑ]
+          * ihefu: [i h ɛ f u]
+          * huum: [h uː m]
+          * haa: [h ɑː]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -353,10 +353,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 13210
         * Examples
-          * kwaya: [k w ɑ j ɑ]
-          * lumwe: [l u m w ɛ]
+          * kwenu: [k w ɛ n u]
           * wadau: [w ɑ ɗ ɑ u]
-          * willi: [w i l i]
+          * wawe: [w ɑ w ɛ]
+          * chuwa: [tʃ u w ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -371,10 +371,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 3913
         * Examples
-          * navyo: [n ɑ v j ɔ]
-          * vyote: [v j ɔ t ɛ]
-          * yesu: [j ɛ s u]
-          * vyeo: [v j ɛ ɔ]
+          * mlay: [m l ɑ j]
+          * style: [s t ɑ j l]
+          * otey: [ɔ t ɛ j]
+          * akyoo: [ɑ k j ɔː]
     ```
   - ```{ipa_cell}
     ```
@@ -392,10 +392,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 5273
         * Examples
-          * bar: [b ɑ ɾ]
-          * area: [ɑ ɾ ɛ ɑ]
-          * wrong: [ɾ ɔ ŋ ɡ]
-          * zero: [z ɛ ɾ ɔ]
+          * arua: [ɑ ɾ u ɑ]
+          * percy: [p ɛ ɾ s i]
+          * urefu: [u ɾ ɛ f u]
+          * sara: [s ɑ ɾ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -417,10 +417,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 13852
         * Examples
-          * ugala: [u ɠ ɑ l ɑ]
-          * glasi: [ɡ l ɑ s i]
-          * july: [dʒ u l i]
-          * eline: [ɛ l i n ɛ]
+          * alfa: [ɑ l f ɑ]
+          * mlay: [m l ɑ j]
+          * style: [s t ɑ j l]
+          * olga: [ɔ l ɠ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -454,17 +454,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 43427
         * Examples
-          * vifua: [v i f u ɑ]
-          * igoma: [i ɠ ɔ m ɑ]
-          * glasi: [ɡ l ɑ s i]
-          * nike: [n i k ɛ]
+          * ini: [i n i]
+          * iniue: [i n i u ɛ]
+          * iputa: [i p u t ɑ]
+          * mkini: [m k i n i]
       * iː
         * Occurances: 518
         * Examples
-          * rokii: [ɾ ɔ k iː]
-          * utii: [u t iː]
-          * kisii: [k i s iː]
-          * miiba: [m iː ɓ ɑ]
+          * iile: [iː l ɛ]
+          * bidii: [b i ɗ iː]
+          * iitwe: [iː t w ɛ]
+          * nii: [n iː]
     ```
   - ```{ipa_cell}
     ```
@@ -477,17 +477,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 21693
         * Examples
-          * vifua: [v i f u ɑ]
-          * ugala: [u ɠ ɑ l ɑ]
           * uozo: [u ɔ z ɔ]
-          * july: [dʒ u l i]
+          * iniue: [i n i u ɛ]
+          * iputa: [i p u t ɑ]
+          * huoga: [h u ɔ ɠ ɑ]
       * uː
         * Occurances: 289
         * Examples
-          * muuu: [m uː u]
-          * uume: [uː m ɛ]
-          * kikuu: [k i k uː]
-          * nukuu: [n u k uː]
+          * huum: [h uː m]
+          * unguu: [u ŋ ɡ uː]
+          * vikuu: [v i k uː]
+          * uhuum: [u h uː m]
     ```
 * -
   - ```{ipa_cell}
@@ -528,17 +528,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 15669
         * Examples
-          * vyote: [v j ɔ t ɛ]
-          * she: [ʃ ɛ]
-          * chake: [tʃ ɑ k ɛ]
-          * mbebe: [m b ɛ ɓ ɛ]
+          * iniue: [i n i u ɛ]
+          * kwenu: [k w ɛ n u]
+          * ihefu: [i h ɛ f u]
+          * enea: [ɛ n ɛ ɑ]
       * ɛː
         * Occurances: 171
         * Examples
           * eee: [ɛː ɛ]
+          * reem: [ɾ ɛː m]
           * eeeh: [ɛː ɛ h]
-          * neema: [n ɛː m ɑ]
-          * mzee: [m z ɛː]
+          * lee: [l ɛː]
     ```
   - ```{ipa_cell}
     ```
@@ -551,17 +551,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 12317
         * Examples
-          * navyo: [n ɑ v j ɔ]
-          * vyote: [v j ɔ t ɛ]
-          * igoma: [i ɠ ɔ m ɑ]
           * uozo: [u ɔ z ɔ]
+          * huoga: [h u ɔ ɠ ɑ]
+          * mkosi: [m k ɔ s i]
+          * moza: [m ɔ z ɑ]
       * ɔː
         * Occurances: 212
         * Examples
-          * mchoo: [m tʃ ɔː]
-          * noor: [n ɔː ɾ]
+          * kloop: [k l ɔː p]
+          * akyoo: [ɑ k j ɔː]
+          * mloo: [m l ɔː]
           * datoo: [d ɑ t ɔː]
-          * drool: [d ɾ ɔː l]
     ```
 * -
   - ```{ipa_cell}
@@ -588,16 +588,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 62585
         * Examples
-          * navyo: [n ɑ v j ɔ]
-          * vifua: [v i f u ɑ]
-          * kansa: [k ɑ s ɑ]
-          * bar: [b ɑ ɾ]
+          * alfa: [ɑ l f ɑ]
+          * iputa: [i p u t ɑ]
+          * huoga: [h u ɔ ɠ ɑ]
+          * moza: [m ɔ z ɑ]
       * ɑː
         * Occurances: 1226
         * Examples
-          * mtaa: [m t ɑː]
-          * maada: [m ɑː ɗ ɑ]
-          * eyaaa: [ɛ j ɑː]
-          * waasi: [w ɑː s i]
+          * haa: [h ɑː]
+          * kupaa: [k u p ɑː]
+          * baade: [b ɑː ɗ ɛ]
+          * kizaa: [k i z ɑː]
     ```
 ``````

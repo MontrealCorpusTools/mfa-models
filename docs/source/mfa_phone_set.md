@@ -90,6 +90,20 @@ The Arabic MFA dictionary was created by [Natalia Shmueli](https://twitter.com/N
   * {ipa_inline}`[i]` {ipa_icon}`right-arrow` {ipa_inline}`[ɪ]`, but not for {ipa_inline}`[iː]`
   * {ipa_inline}`[u]` {ipa_icon}`right-arrow` {ipa_inline}`[ʊ]`, but not for {ipa_inline}`[uː]`
 
+### Bulgarian
+
+```{admonition} Pronunciation dictionaries
+   See {ref}`bulgarian_mfa_dictionary_v2_0_0` for full IPA charts.
+```
+
+#### Bulgarian consonants
+
+* **Dental consonants:** Alveolar  obstruents and nasals are represented with dentals {ipa_inline}`[t̪ d̪ t̪s̪ s̪ z̪ n̪]`, except when palatalized
+
+#### Bulgarian vowels
+
+Unchanged from their representation in [Wikipron](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/bul_cyrl_broad_filtered.tsv).
+
 ### English
 
 The primary deviations from standard symbols have been to bring English more in line with other languages.
@@ -401,7 +415,7 @@ Largely followed the [Turkish phonology Wikipedia page](https://en.wikipedia.org
 * **Dental consonants:** Alveolar stops and nasals are transcribed as dental {ipa_inline}`[t̪ d̪ s̪ z̪ n̪]`
 * **Gemination:** Sequences of two consonants in the orthography are represented as a long consonant
   * {ipa_inline}`minnettar [m i n̪ː e t̪ː a ɾ]`
-  * Geminated {ipa_inline}`[ɾ]` is represented as {ipa_inline}`[ɾː]`, but maybe should be trilled {ipa_inline}`[r]`?
+  * Geminated {ipa_inline}`[ɾ]` is represented as {ipa_inline}`[ɾː]`, but maybe should be trilled {ipa_inline}`[r]`
 * **Realizations of {ipa_inline}`ğ /ɰ/`:** Given its quasi-phonemic status, I've followed the description of its phonetic distribution:
   * Before a consonant or word boundary, it is realized as length on the previous vowel
   * Between front vowels, it is realized as {ipa_inline}`[j]`

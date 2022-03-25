@@ -51,10 +51,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1537
         * Examples
-          * εμεις: [ɛ m i s]
-          * κορμί: [k o ɾ m i]
+          * δέμα: [ð ɛ m ɐ]
+          * μένει: [m ɛ n̪ i]
           * ώμο: [o m o]
-          * γάμος: [ɣ ɐ m o s]
+          * εμείς: [ɛ m i s]
     ```
   - ```{ipa_cell}
     ```
@@ -63,10 +63,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n̪
         * Occurances: 2275
         * Examples
-          * κείνη: [k i n̪ i]
-          * ναύτη: [n̪ ɐ f t̪ i]
-          * φωνές: [f o n̪ ɛ s]
-          * εσένα: [ɛ s ɛ n̪ ɐ]
+          * νερά: [n̪ ɛ ɾ ɐ]
+          * νέους: [n̪ ɛ u s]
+          * μένει: [m ɛ n̪ i]
+          * χήνες: [x i n̪ ɛ s]
     ```
   - ```{ipa_cell}
     ```
@@ -78,17 +78,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 1661
         * Examples
-          * σκοπό: [s k o p o]
-          * πρώτη: [p ɾ o t̪ i]
-          * πάρα: [p ɐ ɾ ɐ]
-          * σούπα: [s u p ɐ]
+          * λήψη: [l i p s i]
+          * απών: [ɐ p o n̪]
+          * πόλη: [p o l i]
+          * υπό: [i p o]
     * voiced
       * b
         * Occurances: 125
         * Examples
+          * μπα: [b ɐ]
+          * μπορώ: [b o ɾ o]
           * μπρος: [b ɾ o s]
-          * μπαμ: [b ɐ m]
-          * μπήκε: [b i k ɛ]
           * έμπα: [ɛ b ɐ]
     ```
   - ```{ipa_cell}
@@ -98,18 +98,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 2139
         * Examples
-          * τσάι: [t̪ s ɐ i]
-          * πρώτη: [p ɾ o t̪ i]
-          * ναύτη: [n̪ ɐ f t̪ i]
-          * τόση: [t̪ o s i]
+          * φτερά: [f t̪ ɛ ɾ ɐ]
+          * τόσος: [t̪ o s o s]
+          * ούτε: [u t̪ ɛ]
+          * γιατί: [ɣ i ɐ t̪ i]
     * voiced
       * d̪
         * Occurances: 383
         * Examples
           * πάντα: [p ɐ d̪ ɐ]
+          * ντυθώ: [d̪ i θ o]
           * άντε: [ɐ d̪ ɛ]
           * πέντε: [p ɛ d̪ ɛ]
-          * αντί: [ɐ d̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -118,16 +118,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 2255
         * Examples
-          * σκοπό: [s k o p o]
-          * κείνη: [k i n̪ i]
-          * ρίξει: [ɾ i k s i]
-          * κορμί: [k o ɾ m i]
+          * έξυσε: [ɛ k s i s ɛ]
+          * καίει: [k ɛ i]
+          * κόρη: [k o ɾ i]
+          * ήξερε: [i k s ɛ ɾ ɛ]
     * voiced
       * ɡ
         * Occurances: 78
         * Examples
-          * γκισέ: [ɡ i s ɛ]
           * πάγκο: [p ɐ ɡ o]
+          * γκισέ: [ɡ i s ɛ]
     ```
 * - {manner}`Sibilant`
   - ```{ipa_cell}
@@ -141,18 +141,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 4263
         * Examples
-          * βαρύς: [v ɐ ɾ i s]
-          * σκοπό: [s k o p o]
-          * τσάι: [t̪ s ɐ i]
-          * χώρας: [x o ɾ ɐ s]
+          * λήψη: [l i p s i]
+          * νέους: [n̪ ɛ u s]
+          * εσείς: [ɛ s i s]
+          * χήνες: [x i n̪ ɛ s]
     * voiced
       * z
         * Occurances: 363
         * Examples
-          * ζεστή: [z ɛ s t̪ i]
-          * βάζω: [v ɐ z o]
-          * ρίζα: [ɾ i z ɐ]
-          * ζήσει: [z i s i]
+          * ζωής: [z o i s]
+          * ζούμε: [z u m ɛ]
+          * ζώνης: [z o n̪ i s]
+          * ζουν: [z u n̪]
     ```
   - ```{ipa_cell}
     ```
@@ -164,36 +164,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 747
         * Examples
-          * ναύτη: [n̪ ɐ f t̪ i]
-          * φωνές: [f o n̪ ɛ s]
-          * σφυρί: [s f i ɾ i]
-          * αυτόν: [ɐ f t̪ o n̪]
+          * φτερά: [f t̪ ɛ ɾ ɐ]
+          * μορφή: [m o ɾ f i]
+          * τάφο: [t̪ ɐ f o]
+          * αυτής: [ɐ f t̪ i s]
     * voiced
       * v
         * Occurances: 619
         * Examples
-          * βαρύς: [v ɐ ɾ i s]
-          * βάζω: [v ɐ z o]
-          * βγήκε: [v ɣ i k ɛ]
-          * βράδυ: [v ɾ ɐ ð i]
+          * βάτος: [v ɐ t̪ o s]
+          * βρεις: [v ɾ i s]
+          * βαθύ: [v ɐ θ i]
+          * βρω: [v ɾ o]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 585
         * Examples
-          * θέλει: [θ ɛ l i]
-          * λάθος: [l ɐ θ o s]
-          * θείο: [θ i o]
-          * θέτει: [θ ɛ t̪ i]
+          * θες: [θ ɛ s]
+          * βαθύ: [v ɐ θ i]
+          * ευθύς: [ɛ f θ i s]
+          * φερθώ: [f ɛ ɾ θ o]
     * voiced
       * ð
         * Occurances: 705
         * Examples
-          * δώστε: [ð o s t̪ ɛ]
-          * δες: [ð ɛ s]
-          * δωσ': [ð o s]
-          * βράδυ: [v ɾ ɐ ð i]
+          * δέμα: [ð ɛ m ɐ]
+          * δούμε: [ð u m ɛ]
+          * ιδώ: [i ð o]
+          * δράνα: [ð ɾ ɐ n̪ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -211,10 +211,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 2458
         * Examples
-          * βαρύς: [v ɐ ɾ i s]
-          * πρώτη: [p ɾ o t̪ i]
-          * πάρα: [p ɐ ɾ ɐ]
-          * χώρας: [x o ɾ ɐ s]
+          * νερά: [n̪ ɛ ɾ ɐ]
+          * φτερά: [f t̪ ɛ ɾ ɐ]
+          * μορφή: [m o ɾ f i]
+          * κόρη: [k o ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -230,10 +230,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 1428
         * Examples
-          * τρελό: [t̪ ɾ ɛ l o]
-          * θέλει: [θ ɛ l i]
-          * λεπτά: [l ɛ p t̪ ɐ]
-          * απλός: [ɐ p l o s]
+          * λήψη: [l i p s i]
+          * λέγε: [l ɛ ɣ ɛ]
+          * πόλη: [p o l i]
+          * ψηλά: [p s i l ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -261,10 +261,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 5798
         * Examples
-          * βαρύς: [v ɐ ɾ i s]
-          * τσάι: [t̪ s ɐ i]
-          * κείνη: [k i n̪ i]
-          * πρώτη: [p ɾ o t̪ i]
+          * γεια: [ɣ i ɐ]
+          * λήψη: [l i p s i]
+          * μένει: [m ɛ n̪ i]
+          * εσείς: [ɛ s i s]
     ```
   - ```{ipa_cell}
     ```
@@ -277,10 +277,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 1069
         * Examples
-          * σούπα: [s u p ɐ]
-          * κουτί: [k u t̪ i]
-          * όλου: [o l u]
-          * αφού: [ɐ f u]
+          * νέους: [n̪ ɛ u s]
+          * ούτε: [u t̪ ɛ]
+          * δούμε: [ð u m ɛ]
+          * ζούμε: [z u m ɛ]
     ```
 * -
   - ```{ipa_cell}
@@ -307,10 +307,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3575
         * Examples
-          * σκοπό: [s k o p o]
-          * πρώτη: [p ɾ o t̪ i]
-          * χώρας: [x o ɾ ɐ s]
-          * τόση: [t̪ o s i]
+          * ώμο: [o m o]
+          * τόσος: [t̪ o s o s]
+          * μορφή: [m o ɾ f i]
+          * κόρη: [k o ɾ i]
     ```
 * -
   - ```{ipa_cell}
@@ -329,10 +329,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 4068
         * Examples
-          * εμεις: [ɛ m i s]
-          * ζεστή: [z ɛ s t̪ i]
-          * σχέση: [s x ɛ s i]
-          * δώστε: [ð o s t̪ ɛ]
+          * δέμα: [ð ɛ m ɐ]
+          * νερά: [n̪ ɛ ɾ ɐ]
+          * φτερά: [f t̪ ɛ ɾ ɐ]
+          * νέους: [n̪ ɛ u s]
     ```
   - ```{ipa_cell}
     ```
@@ -352,10 +352,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 5618
         * Examples
-          * βαρύς: [v ɐ ɾ i s]
-          * τσάι: [t̪ s ɐ i]
-          * πάρα: [p ɐ ɾ ɐ]
-          * ναύτη: [n̪ ɐ f t̪ i]
+          * δέμα: [ð ɛ m ɐ]
+          * νερά: [n̪ ɛ ɾ ɐ]
+          * γεια: [ɣ i ɐ]
+          * φτερά: [f t̪ ɛ ɾ ɐ]
     ```
   - ```{ipa_cell}
     ```

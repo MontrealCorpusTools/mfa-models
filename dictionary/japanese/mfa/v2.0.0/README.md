@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#japanese)
 - **Number of words:** `77,695`
 - **Phones:** `a aː b bʲ bː c cː d dz dzː dʑ dʑː dʲ dː e eː h hː i iː i̥ j k kː m mʲ mʲː mː n nː o oː p pʲ pʲː pː s sː t ts tsː tɕ tɕː tʲ tː v vʲ w z ç çː ŋ ɕ ɕː ɟ ɡ ɡː ɨ ɨː ɨ̥ ɯ ɯː ɯ̥ ɰ̃ ɲ ɲː ɴ ɴː ɸ ɸʲ ɸː ɾ ɾʲ ɾː ʑ ʔ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/japanese/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/japanese/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

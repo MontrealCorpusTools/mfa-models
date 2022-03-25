@@ -17,7 +17,7 @@ Jump to section:
 - **Dialect:** N/A
 - **Phone set:** [Epitran](https://github.com/dmort27/epitran)
 - **Number of words:** `12,252`
-- **Phones:** `b bˤː c d dˤː d͡ʒ d͡ʒˤː f fˤː h i j jˤː k l lˤː m mˤː n nˤː p r rˤː s sˤː t tˤː t͡s t͡sˤː t͡ʃ v w y z zˤː ħ ħː ɐ ɐˤː ɔ ɔˤː ɛ ɛˤː ɡ ɪ ɪˤː ʃ ʃː ʃˤː ʊ ʊˤː ʔ ʔˤː ˤː`
+- **Phones:** `b c d d͡ʒ f h i j k l m n p r s t t͡s t͡ʃ v w y z ħ ħː ɐ ɔ ɛ ɡ ɪ ʃ ʃː ʊ ʔ ˤː`
 - **License:** [CC-0](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
@@ -56,7 +56,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

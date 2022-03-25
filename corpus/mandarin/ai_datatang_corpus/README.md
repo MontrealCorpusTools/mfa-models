@@ -19,9 +19,9 @@
 - **Citation:**
 ```bibtex
 @misc{aidatatang_200zh,
-	title={A free {C}hinese {M}andarin speech corpus by {B}eijing {D}ata{T}ang {T}echnology {C}o., {L}td (www.datatang.com)},
-	author={Beijing DataTang Technology Co., Ltd},
-	url={www.datatang.com}}
+	title = {A free {C}hinese {M}andarin speech corpus by {B}eijing {D}ata{T}ang {T}echnology {C}o., {L}td (www.datatang.com)},
+	author = {Beijing DataTang Technology Co., Ltd},
+	url = {www.datatang.com}}
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

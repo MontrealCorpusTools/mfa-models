@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 7726
         * Examples
-          * малою: [m a l ɔ j u]
-          * муфт: [m u f t]
-          * вухом: [v u x ɔ m]
-          * вмира: [v m ɪ r a]
+          * пером: [p ɛ r ɔ m]
+          * вмре: [v m r ɛ]
+          * валом: [v a l ɔ m]
+          * ровом: [r ɔ v ɔ m]
     ```
   - ```{ipa_cell}
     ```
@@ -65,17 +65,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 12410
         * Examples
-          * повну: [p ɔ v n u]
-          * дна: [d n a]
-          * жорна: [ʒ ɔ r n a]
-          * шинку: [ʃ ɪ n k u]
+          * шин: [ʃ ɪ n]
+          * носі: [n ɔ sʲ i]
+          * нема: [n ɛ m a]
+          * надає: [n a d a j ɛ]
       * nʲ
         * Occurances: 3275
         * Examples
-          * рівні: [rʲ i v nʲ i]
-          * зняла: [z nʲ a l a]
-          * кузню: [k u z nʲ u]
-          * їхніх: [j i x nʲ i x]
+          * стані: [s t a nʲ i]
+          * їхню: [j i x nʲ u]
+          * гніту: [ɦ nʲ i t u]
+          * князю: [k nʲ a zʲ u]
     ```
   - ```{ipa_cell}
     ```
@@ -91,18 +91,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 8051
         * Examples
-          * повну: [p ɔ v n u]
-          * шпиль: [ʃ p ɪ lʲ]
-          * пашею: [p a ʃ ɛ j u]
-          * піду: [p i d u]
+          * пером: [p ɛ r ɔ m]
+          * полк: [p ɔ l k]
+          * перша: [p ɛ r ʃ a]
+          * напій: [n a p i j]
     * voiced
       * b
         * Occurances: 3679
         * Examples
-          * абзац: [a b z a t s]
-          * горбі: [ɦ ɔ r b i]
-          * тобі: [t ɔ b i]
-          * бач: [b a tʃ]
+          * боюся: [b ɔ j u sʲ a]
+          * бабцю: [b a b t sʲ u]
+          * бука: [b u k a]
+          * бiлий: [b i l ɪ j]
     ```
   - ```{ipa_cell}
     ```
@@ -111,18 +111,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 11613
         * Examples
-          * абзац: [a b z a t s]
-          * тобі: [t ɔ b i]
-          * тло: [t l ɔ]
-          * муфт: [m u f t]
+          * лити: [l ɪ t ɪ]
+          * лици: [l ɪ t s ɪ]
+          * бабцю: [b a b t sʲ u]
+          * стані: [s t a nʲ i]
     * voiced
       * d
         * Occurances: 6665
         * Examples
-          * дна: [d n a]
-          * здачі: [z d a tʃ i]
-          * піду: [p i d u]
-          * сідлі: [sʲ i d lʲ i]
+          * вдуть: [v d u tʲ]
+          * дещо: [d ɛ ʃ tʃ ɔ]
+          * надає: [n a d a j ɛ]
+          * iду: [i d u]
     ```
   - ```{ipa_cell}
     ```
@@ -133,18 +133,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 9041
         * Examples
-          * косо: [k ɔ s ɔ]
-          * усяк: [u sʲ a k]
-          * шинку: [ʃ ɪ n k u]
-          * килим: [k ɪ l ɪ m]
+          * бука: [b u k a]
+          * киць: [k ɪ t sʲ]
+          * кару: [k a r u]
+          * полк: [p ɔ l k]
     * voiced
       * ɡ
         * Occurances: 49
         * Examples
           * янґ: [j a n ɡ]
-          * фанґ: [f a n ɡ]
-          * ґміни: [ɡ m i n ɪ]
           * ґанок: [ɡ a n ɔ k]
+          * фанґ: [f a n ɡ]
+          * ґава: [ɡ a v a]
     ```
   - ```{ipa_cell}
     ```
@@ -160,18 +160,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 3847
         * Examples
-          * здачі: [z d a tʃ i]
-          * черга: [tʃ ɛ r ɦ a]
-          * човни: [tʃ ɔ v n ɪ]
-          * бач: [b a tʃ]
+          * дещо: [d ɛ ʃ tʃ ɔ]
+          * чолі: [tʃ ɔ lʲ i]
+          * човна: [tʃ ɔ v n a]
+          * рачки: [r a tʃ k ɪ]
     * voiced
       * dʒ
         * Occurances: 228
         * Examples
+          * сиджу: [s ɪ dʒ u]
           * едж: [ɛ dʒ]
+          * адже: [a dʒ ɛ]
           * мардж: [m a r dʒ]
-          * джолі: [dʒ ɔ lʲ i]
-          * джаз: [dʒ a z]
     ```
   - ```{ipa_cell}
     ```
@@ -189,50 +189,50 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 8439
         * Examples
-          * абзац: [a b z a t s]
-          * косо: [k ɔ s ɔ]
-          * серця: [s ɛ r t sʲ a]
-          * сину: [s ɪ n u]
+          * лици: [l ɪ t s ɪ]
+          * стані: [s t a nʲ i]
+          * саме: [s a m ɛ]
+          * гасло: [ɦ a s l ɔ]
       * sʲ
         * Occurances: 5102
         * Examples
-          * усяк: [u sʲ a k]
-          * серця: [s ɛ r t sʲ a]
-          * сідлі: [sʲ i d lʲ i]
-          * ціну: [t sʲ i n u]
+          * боюся: [b ɔ j u sʲ a]
+          * бабцю: [b a b t sʲ u]
+          * носі: [n ɔ sʲ i]
+          * киць: [k ɪ t sʲ]
     * voiced
       * z
         * Occurances: 5087
         * Examples
-          * абзац: [a b z a t s]
-          * здачі: [z d a tʃ i]
-          * газу: [ɦ a z u]
-          * вузду: [v u z d u]
+          * лизав: [l ɪ z a v]
+          * збила: [z b ɪ l a]
+          * задер: [z a d ɛ r]
+          * паузи: [p a u z ɪ]
       * zʲ
         * Occurances: 389
         * Examples
-          * бозю: [b ɔ zʲ u]
-          * ізіда: [i zʲ i d a]
-          * друзі: [d r u zʲ i]
-          * зійде: [zʲ i j d ɛ]
+          * увазі: [u v a zʲ i]
+          * взять: [v zʲ a tʲ]
+          * князю: [k nʲ a zʲ u]
+          * дзьоб: [d zʲ ɔ b]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 2785
         * Examples
-          * шпиль: [ʃ p ɪ lʲ]
-          * пашею: [p a ʃ ɛ j u]
-          * шинку: [ʃ ɪ n k u]
-          * перші: [p ɛ r ʃ i]
+          * дещо: [d ɛ ʃ tʃ ɔ]
+          * шин: [ʃ ɪ n]
+          * лишає: [l ɪ ʃ a j ɛ]
+          * душно: [d u ʃ n ɔ]
     * voiced
       * ʒ
         * Occurances: 1666
         * Examples
-          * жорна: [ʒ ɔ r n a]
-          * мужі: [m u ʒ i]
-          * жалів: [ʒ a lʲ i v]
-          * жоден: [ʒ ɔ d ɛ n]
+          * жони: [ʒ ɔ n ɪ]
+          * їжу: [j i ʒ u]
+          * жін: [ʒ i n]
+          * чужим: [tʃ u ʒ ɪ m]
     ```
   - ```{ipa_cell}
     ```
@@ -248,18 +248,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 660
         * Examples
-          * муфт: [m u f t]
-          * ліфта: [lʲ i f t a]
-          * гіф: [ɦ i f]
-          * ферм: [f ɛ r m]
+          * сфери: [s f ɛ r ɪ]
+          * фанів: [f a nʲ i v]
+          * фонду: [f ɔ n d u]
+          * фіна: [f i n a]
     * voiced
       * v
         * Occurances: 13901
         * Examples
-          * повну: [p ɔ v n u]
-          * вухом: [v u x ɔ m]
-          * вмира: [v m ɪ r a]
-          * випий: [v ɪ p ɪ j]
+          * лизав: [l ɪ z a v]
+          * вдуть: [v d u tʲ]
+          * вмре: [v m r ɛ]
+          * ввів: [v v i v]
     ```
   - ```{ipa_cell}
     ```
@@ -274,10 +274,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɦ
         * Occurances: 4058
         * Examples
-          * горбі: [ɦ ɔ r b i]
-          * горя: [ɦ ɔ rʲ a]
-          * газу: [ɦ a z u]
-          * глуп: [ɦ l u p]
+          * ольго: [ɔ lʲ ɦ ɔ]
+          * грати: [ɦ r a t ɪ]
+          * гасло: [ɦ a s l ɔ]
+          * гуюк: [ɦ u j u k]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -293,10 +293,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 8303
         * Examples
-          * малою: [m a l ɔ j u]
-          * пашею: [p a ʃ ɛ j u]
-          * випий: [v ɪ p ɪ j]
-          * євген: [j ɛ v ɦ ɛ n]
+          * боюся: [b ɔ j u sʲ a]
+          * бiлий: [b i l ɪ j]
+          * надає: [n a d a j ɛ]
+          * ймуть: [j m u tʲ]
     ```
   - ```{ipa_cell}
     ```
@@ -312,17 +312,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 11612
         * Examples
-          * горбі: [ɦ ɔ r b i]
-          * серця: [s ɛ r t sʲ a]
-          * вмира: [v m ɪ r a]
-          * жорна: [ʒ ɔ r n a]
+          * пером: [p ɛ r ɔ m]
+          * вмре: [v m r ɛ]
+          * грати: [ɦ r a t ɪ]
+          * ровом: [r ɔ v ɔ m]
       * rʲ
         * Occurances: 1368
         * Examples
-          * горя: [ɦ ɔ rʲ a]
-          * рівні: [rʲ i v nʲ i]
-          * уряду: [u rʲ a d u]
-          * ріс: [rʲ i s]
+          * трьох: [t rʲ ɔ x]
+          * юрія: [j u rʲ i j a]
+          * рідкі: [rʲ i d k i]
+          * луарі: [l u a rʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -342,17 +342,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 6762
         * Examples
-          * малою: [m a l ɔ j u]
-          * тло: [t l ɔ]
-          * глуп: [ɦ l u p]
-          * килим: [k ɪ l ɪ m]
+          * лити: [l ɪ t ɪ]
+          * лизав: [l ɪ z a v]
+          * лици: [l ɪ t s ɪ]
+          * бiлий: [b i l ɪ j]
       * lʲ
         * Occurances: 3089
         * Examples
-          * шпиль: [ʃ p ɪ lʲ]
-          * сідлі: [sʲ i d lʲ i]
-          * ліфта: [lʲ i f t a]
-          * жалів: [ʒ a lʲ i v]
+          * ольго: [ɔ lʲ ɦ ɔ]
+          * чолі: [tʃ ɔ lʲ i]
+          * ліві: [lʲ i v i]
+          * уклін: [u k lʲ i n]
     ```
   - ```{ipa_cell}
     ```
@@ -386,10 +386,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 14137
         * Examples
-          * горбі: [ɦ ɔ r b i]
-          * хоті: [x ɔ tʲ i]
-          * тобі: [t ɔ b i]
-          * здачі: [z d a tʃ i]
+          * стані: [s t a nʲ i]
+          * бiлий: [b i l ɪ j]
+          * ввів: [v v i v]
+          * носі: [n ɔ sʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -402,10 +402,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 10945
         * Examples
-          * повну: [p ɔ v n u]
-          * малою: [m a l ɔ j u]
-          * муфт: [m u f t]
-          * вухом: [v u x ɔ m]
+          * боюся: [b ɔ j u sʲ a]
+          * бабцю: [b a b t sʲ u]
+          * вдуть: [v d u tʲ]
+          * бука: [b u k a]
     ```
 * -
   - ```{ipa_cell}
@@ -415,10 +415,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 17683
         * Examples
-          * шпиль: [ʃ p ɪ lʲ]
-          * вмира: [v m ɪ r a]
-          * шинку: [ʃ ɪ n k u]
-          * килим: [k ɪ l ɪ m]
+          * лити: [l ɪ t ɪ]
+          * лизав: [l ɪ z a v]
+          * лици: [l ɪ t s ɪ]
+          * бiлий: [b i l ɪ j]
     ```
   - ```{ipa_cell}
     ```
@@ -445,8 +445,8 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3
         * Examples
-          * iдiть: [i d o tʲ]
           * пaблo: [p a b l o]
+          * iдiть: [i d o tʲ]
           * joki: [j o k i]
     ```
 * -
@@ -466,10 +466,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 12254
         * Examples
-          * пашею: [p a ʃ ɛ j u]
-          * серця: [s ɛ r t sʲ a]
-          * перші: [p ɛ r ʃ i]
-          * черга: [tʃ ɛ r ɦ a]
+          * пером: [p ɛ r ɔ m]
+          * вмре: [v m r ɛ]
+          * дещо: [d ɛ ʃ tʃ ɔ]
+          * нема: [n ɛ m a]
     ```
   - ```{ipa_cell}
     ```
@@ -482,10 +482,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 21542
         * Examples
-          * повну: [p ɔ v n u]
-          * малою: [m a l ɔ j u]
-          * горбі: [ɦ ɔ r b i]
-          * хоті: [x ɔ tʲ i]
+          * ольго: [ɔ lʲ ɦ ɔ]
+          * боюся: [b ɔ j u sʲ a]
+          * пером: [p ɛ r ɔ m]
+          * дещо: [d ɛ ʃ tʃ ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -508,10 +508,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 25802
         * Examples
-          * малою: [m a l ɔ j u]
-          * абзац: [a b z a t s]
-          * горя: [ɦ ɔ rʲ a]
-          * дна: [d n a]
+          * боюся: [b ɔ j u sʲ a]
+          * лизав: [l ɪ z a v]
+          * бабцю: [b a b t sʲ u]
+          * стані: [s t a nʲ i]
     ```
   - ```{ipa_cell}
     ```

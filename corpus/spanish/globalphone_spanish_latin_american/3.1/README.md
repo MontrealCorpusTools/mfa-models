@@ -18,14 +18,13 @@
 - **Version:** `3.1`
 - **Citation:**
 ```bibtex
-@inproceedings{
-	schultz2013globalphone,
-	title={Globalphone: A multilingual text \& speech database in 20 languages},
-	author={Schultz, Tanja and Vu, Ngoc Thang and Schlippe, Tim},
-	booktitle={2013 IEEE International Conference on Acoustics, Speech and Signal Processing},
-	pages={8126--8130},
-	year={2013},
-	organization={IEEE}
+@inproceedings{schultz2013globalphone,
+	title = {Globalphone: A multilingual text \& speech database in 20 languages},
+	author = {Schultz, Tanja and Vu, Ngoc Thang and Schlippe, Tim},
+	booktitle = {2013 IEEE International Conference on Acoustics, Speech and Signal Processing},
+	pages = {8126--8130},
+	year = {2013},
+	organization = {IEEE}
 }
 ```
 

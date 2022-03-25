@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @article{takamichi2019jvs,
-	title={JVS corpus: free Japanese multi-speaker voice corpus},
-	author={Takamichi, Shinnosuke and Mitsui, Kentaro and Saito, Yuki and Koriyama, Tomoki and Tanji, Naoko and Saruwatari, Hiroshi},
-	journal={arXiv preprint arXiv:1908.06248},
-	year={2019}
+	title = {JVS corpus: free Japanese multi-speaker voice corpus},
+	author = {Takamichi, Shinnosuke and Mitsui, Kentaro and Saito, Yuki and Koriyama, Tomoki and Tanji, Naoko and Saruwatari, Hiroshi},
+	journal = {arXiv preprint arXiv:1908.06248},
+	year = {2019}
 }
 
 ```

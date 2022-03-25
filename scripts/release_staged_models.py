@@ -15,7 +15,7 @@ from montreal_forced_aligner.data import voiced_variants, voiceless_variants, Ph
 
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-UPDATE = True
+UPDATE = False
 
 with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
     token = f.read()

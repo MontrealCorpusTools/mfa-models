@@ -49,32 +49,24 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 3411
+        * Occurances: 3471
         * Examples
-          * tim: [t ɪ m]
-          * umana: [ʊ m ɐ n ɐ]
-          * minn: [m ɪ n n]
-          * tmur: [t m ʊ r]
-      * mˤː
-        * Occurances: 60
-        * Examples
+          * marzu: [m ɐ r t͡s ʊ]
+          * marco: [m ɐ r c ɔ]
+          * mhu: [m ʊ]
+          * isma': [ɪ s m ɐ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 5650
+        * Occurances: 5720
         * Examples
-          * umana: [ʊ m ɐ n ɐ]
-          * minn: [m ɪ n n]
-          * handy: [ɐ n d y]
-          * oħxon: [ɔ ħ ʃ ɔ n]
-      * nˤː
-        * Occurances: 70
-        * Examples
-          * ngħix: [nˤː ɪ ʃ]
-          * ngħid: [nˤː ɪ d]
+          * hawn!: [ɐ w n]
+          * in.: [ɪ n]
+          * kane: [k ɐ n ɛ]
+          * qisni: [ʔ ɪ s n ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -92,50 +84,38 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2006
         * Examples
-          * puli: [p ʊ l ɪ]
-          * pjan: [p j ɐ n]
-          * copy: [c ɔ p y]
-          * ipad.: [ɪ p ɐ d]
+          * pool.: [p ɔ ɔ l]
+          * app: [ɐ p p]
+          * pitch: [p ɪ t c h]
+          * point: [p ɔ ɪ n t]
     * voiced
       * b
-        * Occurances: 1887
+        * Occurances: 1904
         * Examples
-          * rbaħt: [r b ɐ ħ t]
-          * sbieħ: [s b i ɛ ħ]
-          * ħabat: [ħ ɐ b ɐ t]
-          * biss,: [b ɪ s s]
-      * bˤː
-        * Occurances: 17
-        * Examples
+          * seba': [s ɛ b ɐ]
+          * kelb: [k ɛ l b]
+          * biss!: [b ɪ s s]
+          * qrib: [ʔ r ɪ b]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 7453
+        * Occurances: 7513
         * Examples
-          * xtaqu: [ʃ t ɐ ʔ ʊ]
-          * tim: [t ɪ m]
-          * rbaħt: [r b ɐ ħ t]
-          * tmur: [t m ʊ r]
-      * tˤː
-        * Occurances: 60
-        * Examples
-          * tgħin: [tˤː ɪ n]
-          * tgħix: [tˤː ɪ ʃ]
-          * tgħid: [tˤː ɪ d]
+          * qalet: [ʔ ɐ l ɛ t]
+          * żaret: [z ɐ r ɛ t]
+          * vojt: [v ɔ j t]
+          * tawna: [t ɐ w n ɐ]
     * voiced
       * d
-        * Occurances: 2627
+        * Occurances: 2633
         * Examples
-          * handy: [ɐ n d y]
-          * sodod: [s ɔ d ɔ d]
-          * rqad: [r ʔ ɐ d]
-          * iswed: [ɪ s w ɛ d]
-      * dˤː
-        * Occurances: 6
-        * Examples
+          * ħudu: [ħ ʊ d ʊ]
+          * iżjed: [ɪ z j ɛ d]
+          * iżżid: [ɪ z z ɪ d]
+          * żidtu: [z ɪ d t ʊ]
     ```
   - ```{ipa_cell}
     ```
@@ -144,43 +124,40 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 364
         * Examples
-          * copy: [c ɔ p y]
-          * facie: [f ɐ c i ɛ]
-          * com.: [c ɔ m]
-          * nicky: [n ɪ c k y]
+          * marco: [m ɐ r c ɔ]
+          * pitch: [p ɪ t c h]
+          * cup: [c ʊ p]
+          * basic: [b ɐ s ɪ c]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 2403
         * Examples
-          * skor: [s k ɔ r]
-          * skema: [s k ɛ m ɐ]
-          * aktar: [ɐ k t ɐ r]
-          * karta: [k ɐ r t ɐ]
+          * kelb: [k ɛ l b]
+          * ikel.: [ɪ k ɛ l]
+          * kane: [k ɐ n ɛ]
+          * kera.: [k ɛ r ɐ]
     * voiced
       * ɡ
         * Occurances: 678
         * Examples
-          * fgata: [f ɡ ɐ t ɐ]
-          * gost.: [ɡ ɔ s t]
-          * gaffa: [ɡ ɐ f f ɐ]
-          * gatt: [ɡ ɐ t t]
+          * gowl: [ɡ ɔ w l]
+          * agius: [ɐ ɡ ɪ ʊ s]
+          * gravi: [ɡ r ɐ v ɪ]
+          * rigal: [r ɪ ɡ ɐ l]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
-        * Occurances: 862
+        * Occurances: 902
         * Examples
-          * xtaqu: [ʃ t ɐ ʔ ʊ]
-          * ħoloq: [ħ ɔ l ɔ ʔ]
-          * triq?: [t r ɪ ʔ]
-          * rqad: [r ʔ ɐ d]
-      * ʔˤː
-        * Occurances: 40
-        * Examples
+          * serqu: [s ɛ r ʔ ʊ]
+          * qalet: [ʔ ɐ l ɛ t]
+          * qisni: [ʔ ɪ s n ɪ]
+          * qrib: [ʔ r ɪ b]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -190,36 +167,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t͡s
-        * Occurances: 1283
+        * Occurances: 1284
         * Examples
-          * zahra: [t͡s ɐ r ɐ]
-          * foloz: [f ɔ l ɔ t͡s]
-          * oroz: [ɔ r ɔ t͡s]
-          * zopp!: [t͡s ɔ p p]
-      * t͡sˤː
-        * Occurances: 1
-        * Examples
+          * marzu: [m ɐ r t͡s ʊ]
+          * ozil: [ɔ t͡s ɪ l]
+          * zampi: [t͡s ɐ m p ɪ]
+          * falz: [f ɐ l t͡s]
     ```
   - ```{ipa_cell}
     * voiceless
       * t͡ʃ
         * Occurances: 668
         * Examples
-          * wiċċ: [w ɪ t͡ʃ t͡ʃ]
-          * ċara?: [t͡ʃ ɐ r ɐ]
-          * ċipru: [t͡ʃ ɪ p r ʊ]
-          * wiċċu: [w ɪ t͡ʃ t͡ʃ ʊ]
+          * ċans: [t͡ʃ ɐ n s]
+          * ċari.: [t͡ʃ ɐ r ɪ]
+          * ċpar: [t͡ʃ p ɐ r]
+          * kowċ: [k ɔ w t͡ʃ]
     * voiced
       * d͡ʒ
-        * Occurances: 876
+        * Occurances: 882
         * Examples
-          * jiġix: [j ɪ d͡ʒ ɪ ʃ]
-          * ġelat: [d͡ʒ ɛ l ɐ t]
-          * żewġt: [z ɛ w d͡ʒ t]
-          * l-ġid: [l d͡ʒ ɪ d]
-      * d͡ʒˤː
-        * Occurances: 6
-        * Examples
+          * ġejja: [d͡ʒ ɛ j j ɐ]
+          * ġirja: [d͡ʒ ɪ r j ɐ]
+          * ġlied: [d͡ʒ l i ɛ d]
+          * ħriġt: [ħ r ɪ d͡ʒ t]
     ```
   - ```{ipa_cell}
     ```
@@ -237,44 +208,34 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 4081
+        * Occurances: 4083
         * Examples
-          * skor: [s k ɔ r]
-          * sejħa: [s ɛ j ħ ɐ]
-          * skema: [s k ɛ m ɐ]
-          * saru: [s ɐ r ʊ]
-      * sˤː
-        * Occurances: 2
-        * Examples
+          * seba': [s ɛ b ɐ]
+          * serqu: [s ɛ r ʔ ʊ]
+          * qisni: [ʔ ɪ s n ɪ]
+          * sarux: [s ɐ r ʊ ʃ]
     * voiced
       * z
-        * Occurances: 807
+        * Occurances: 831
         * Examples
-          * żmien: [z m i ɛ n]
-          * każi,: [k ɐ z ɪ]
-          * żewġt: [z ɛ w d͡ʒ t]
-          * żoni: [z ɔ n ɪ]
-      * zˤː
-        * Occurances: 24
-        * Examples
-          * żgħar: [zˤː ɐ r]
+          * żaret: [z ɐ r ɛ t]
+          * iżjed: [ɪ z j ɛ d]
+          * iżżid: [ɪ z z ɪ d]
+          * żidtu: [z ɪ d t ʊ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 821
+        * Occurances: 832
         * Examples
-          * xtaqu: [ʃ t ɐ ʔ ʊ]
-          * oħxon: [ɔ ħ ʃ ɔ n]
-          * jiġix: [j ɪ d͡ʒ ɪ ʃ]
-          * biex: [b i ɛ ʃ]
+          * hix: [ɪ ʃ]
+          * sarux: [s ɐ r ʊ ʃ]
+          * għex: [ˤː ɛ ʃ]
+          * tawx: [t ɐ w ʃ]
       * ʃː
         * Occurances: 86
         * Examples
           * taxxa: [t ɐ ʃː ɐ]
-      * ʃˤː
-        * Occurances: 11
-        * Examples
     ```
   - ```{ipa_cell}
     ```
@@ -290,23 +251,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 1782
+        * Occurances: 1792
         * Examples
-          * tfal.: [t f ɐ l]
-          * fik: [f ɪ k]
-          * fija: [f ɪ j ɐ]
-          * fgata: [f ɡ ɐ t ɐ]
-      * fˤː
-        * Occurances: 10
-        * Examples
+          * fih: [f ɪ h]
+          * ħafif: [ħ ɐ f ɪ f]
+          * fuqha: [f ʊ ʔ ɐ]
+          * kixfu: [k ɪ ʃ f ʊ]
     * voiced
       * v
         * Occurances: 693
         * Examples
-          * iva'.: [ɪ v ɐ]
-          * vera.: [v ɛ r ɐ]
-          * favur: [f ɐ v ʊ r]
-          * vera: [v ɛ r ɐ]
+          * vojt: [v ɔ j t]
+          * above: [ɐ b ɔ v ɛ]
+          * salva: [s ɐ l v ɐ]
+          * prova: [p r ɔ v ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -321,27 +279,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ħ
         * Occurances: 1124
         * Examples
-          * rbaħt: [r b ɐ ħ t]
-          * sejħa: [s ɛ j ħ ɐ]
-          * ħoloq: [ħ ɔ l ɔ ʔ]
-          * oħra!: [ɔ ħ r ɐ]
+          * ħudu: [ħ ʊ d ʊ]
+          * ħriġt: [ħ r ɪ d͡ʒ t]
+          * ħafif: [ħ ɐ f ɪ f]
+          * aħseb: [ɐ ħ s ɛ b]
       * ħː
         * Occurances: 17
         * Examples
-          * bejgħ: [b ɛ j ħː]
-          * ibigħ: [ɪ b ɪ ħː]
-          * biegħ: [b i ɛ ħː]
+          * jbigħ: [j b ɪ ħː]
+          * dmugħ: [d m ʊ ħː]
           * qligħ: [ʔ l ɪ ħː]
+          * biegħ: [b i ɛ ħː]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 70
         * Examples
-          * ħuh: [ħ ʊ h]
           * fih: [f ɪ h]
-          * youth: [y ɔ ʊ t h]
-          * narah: [n ɐ r ɐ h]
+          * pitch: [p ɪ t c h]
+          * ġabuh: [d͡ʒ ɐ b ʊ h]
+          * idejh: [ɪ d ɛ j h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -349,10 +307,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1082
         * Examples
-          * iswed: [ɪ s w ɛ d]
-          * araw: [ɐ r ɐ w]
-          * dawn.: [d ɐ w n]
-          * tiswa: [t ɪ s w ɐ]
+          * hawn!: [ɐ w n]
+          * tawna: [t ɐ w n ɐ]
+          * tawx: [t ɐ w ʃ]
+          * dawl.: [d ɐ w l]
     ```
   - ```{ipa_cell}
     ```
@@ -363,18 +321,12 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 3195
+        * Occurances: 3245
         * Examples
-          * sejħa: [s ɛ j ħ ɐ]
-          * jim: [j ɪ m]
-          * pjan: [p j ɐ n]
-          * rajtu: [r ɐ j t ʊ]
-      * jˤː
-        * Occurances: 50
-        * Examples
-          * jgħin: [jˤː ɪ n]
-          * jgħix: [jˤː ɪ ʃ]
-          * jgħid: [jˤː ɪ d]
+          * ġejja: [d͡ʒ ɛ j j ɐ]
+          * ġirja: [d͡ʒ ɪ r j ɐ]
+          * iżjed: [ɪ z j ɛ d]
+          * vojt: [v ɔ j t]
     ```
   - ```{ipa_cell}
     ```
@@ -390,15 +342,12 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 5178
+        * Occurances: 5181
         * Examples
-          * skor: [s k ɔ r]
-          * rbaħt: [r b ɐ ħ t]
-          * tmur: [t m ʊ r]
-          * saru: [s ɐ r ʊ]
-      * rˤː
-        * Occurances: 3
-        * Examples
+          * serqu: [s ɛ r ʔ ʊ]
+          * marzu: [m ɐ r t͡s ʊ]
+          * żaret: [z ɐ r ɛ t]
+          * ġirja: [d͡ʒ ɪ r j ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -418,15 +367,12 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 6706
+        * Occurances: 6771
         * Examples
-          * ħoloq: [ħ ɔ l ɔ ʔ]
-          * malti: [m ɐ l t ɪ]
-          * puli: [p ʊ l ɪ]
-          * ilhom: [ɪ l ɔ m]
-      * lˤː
-        * Occurances: 65
-        * Examples
+          * kelb: [k ɛ l b]
+          * qalet: [ʔ ɐ l ɛ t]
+          * ikel.: [ɪ k ɛ l]
+          * pool.: [p ɔ ɔ l]
     ```
   - ```{ipa_cell}
     ```
@@ -462,18 +408,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 981
         * Examples
-          * sbieħ: [s b i ɛ ħ]
-          * biex: [b i ɛ ʃ]
-          * żmien: [z m i ɛ n]
-          * ħsieb: [ħ s i ɛ b]
+          * jiena: [j i ɛ n ɐ]
+          * ġlied: [d͡ʒ l i ɛ d]
+          * tliet: [t l i ɛ t]
+          * xiex: [ʃ i ɛ ʃ]
     * rounded
       * y
         * Occurances: 94
         * Examples
-          * handy: [ɐ n d y]
-          * copy: [c ɔ p y]
-          * youth: [y ɔ ʊ t h]
-          * nicky: [n ɪ c k y]
+          * way.: [w ɐ y]
+          * sujay: [s ʊ j ɐ y]
+          * tommy: [t ɔ m m y]
+          * city: [c ɪ t y]
     ```
   - ```{ipa_cell}
     ```
@@ -489,31 +435,24 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɪ
-        * Occurances: 10781
+        * Occurances: 10789
         * Examples
-          * tim: [t ɪ m]
-          * minn: [m ɪ n n]
-          * malti: [m ɐ l t ɪ]
-          * triq?: [t r ɪ ʔ]
-      * ɪˤː
-        * Occurances: 8
-        * Examples
-          * igħid: [ɪˤː ɪ d]
+          * in.: [ɪ n]
+          * ikel.: [ɪ k ɛ l]
+          * fih: [f ɪ h]
+          * ġirja: [d͡ʒ ɪ r j ɐ]
     ```
   - ```{ipa_cell}
     ```
   - ```{ipa_cell}
     * rounded
       * ʊ
-        * Occurances: 3150
+        * Occurances: 3155
         * Examples
-          * xtaqu: [ʃ t ɐ ʔ ʊ]
-          * umana: [ʊ m ɐ n ɐ]
-          * tmur: [t m ʊ r]
-          * saru: [s ɐ r ʊ]
-      * ʊˤː
-        * Occurances: 5
-        * Examples
+          * serqu: [s ɛ r ʔ ʊ]
+          * marzu: [m ɐ r t͡s ʊ]
+          * ħudu: [ħ ʊ d ʊ]
+          * sarux: [s ɐ r ʊ ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -543,15 +482,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 6170
+        * Occurances: 6228
         * Examples
-          * sejħa: [s ɛ j ħ ɐ]
-          * skema: [s k ɛ m ɐ]
-          * sbieħ: [s b i ɛ ħ]
-          * tema,: [t ɛ m ɐ]
-      * ɛˤː
-        * Occurances: 58
-        * Examples
+          * seba': [s ɛ b ɐ]
+          * kelb: [k ɛ l b]
+          * serqu: [s ɛ r ʔ ʊ]
+          * ġejja: [d͡ʒ ɛ j j ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -562,15 +498,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 3591
+        * Occurances: 3654
         * Examples
-          * skor: [s k ɔ r]
-          * ħoloq: [ħ ɔ l ɔ ʔ]
-          * oħra!: [ɔ ħ r ɐ]
-          * ilhom: [ɪ l ɔ m]
-      * ɔˤː
-        * Occurances: 63
-        * Examples
+          * pool.: [p ɔ ɔ l]
+          * vojt: [v ɔ j t]
+          * għoli: [ˤː ɔ l ɪ]
+          * marco: [m ɐ r c ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -580,16 +513,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 10725
+        * Occurances: 10905
         * Examples
-          * xtaqu: [ʃ t ɐ ʔ ʊ]
-          * umana: [ʊ m ɐ n ɐ]
-          * rbaħt: [r b ɐ ħ t]
-          * sejħa: [s ɛ j ħ ɐ]
-      * ɐˤː
-        * Occurances: 180
-        * Examples
-          * dagħa: [d ɐˤː ɐ]
+          * hawn!: [ɐ w n]
+          * seba': [s ɛ b ɐ]
+          * marzu: [m ɐ r t͡s ʊ]
+          * ġejja: [d͡ʒ ɛ j j ɐ]
     ```
   - ```{ipa_cell}
     ```

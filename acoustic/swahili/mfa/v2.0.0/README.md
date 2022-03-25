@@ -27,7 +27,7 @@ Jump to section:
 - **Model version:** `v2.0.0`
 - **Trained date:** `2022-03-23`
 - **Compatible MFA version:** `v2.0.0`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/swahili/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/swahili/mfa/v2.0.0/LICENSE)
 - **Citation:**
 
 ```bibtex

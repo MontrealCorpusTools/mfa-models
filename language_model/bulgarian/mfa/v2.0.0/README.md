@@ -22,7 +22,7 @@ Jump to section:
 - **Model version:** `v2.0.0`
 - **Trained date:** `2022-01-28`
 - **Compatible MFA version:** `v2.0.0`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/mfa/v2.0.0/LICENSE)
 - **Citation:**
 
 ```bibtex
@@ -55,7 +55,7 @@ This model is intended for very basic language modeling [Bulgarian](https://en.w
 These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness
 and in the off chance that they're useful in bootstrapping corpus development.
 
-This language was model trained with words from the pronunciation dictionaries above.
+This language model trained with words from the pronunciation dictionaries above.
 
 ## Performance Factors
 

@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @inproceedings{barnard2014nchlt,
-	title={The NCHLT speech corpus of the South African languages},
-	author={Barnard, Etienne and Davel, Marelie H and van Heerden, Charl and De Wet, Febe and Badenhorst, Jaco},
-	year={2014},
-	organization={Workshop Spoken Language Technologies for Under-resourced Languages (SLTU)}
+	title = {The NCHLT speech corpus of the South African languages},
+	author = {Barnard, Etienne and Davel, Marelie H and van Heerden, Charl and De Wet, Febe and Badenhorst, Jaco},
+	year = {2014},
+	organization = {Workshop Spoken Language Technologies for Under-resourced Languages (SLTU)}
 }
 
 ```

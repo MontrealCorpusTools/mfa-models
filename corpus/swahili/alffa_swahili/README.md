@@ -18,7 +18,7 @@
 
 - **Citation:**
 ```bibtex
-@InProceedings {gelas:hal-00954048,
+@InProceedings{gelas:hal-00954048,
 	author = {Gelas, Hadrien and Besacier, Laurent and Pellegrino, Francois},
 	title = {{D}evelopments of {S}wahili resources for an automatic speech recognition system},
 	booktitle = {{SLTU} - {W}orkshop on {S}poken {L}anguage {T}echnologies for {U}nder-{R}esourced {L}anguages},

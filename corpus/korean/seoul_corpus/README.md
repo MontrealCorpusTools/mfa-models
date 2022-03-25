@@ -19,13 +19,13 @@
 - **Citation:**
 ```bibtex
 @article{yunetal2015,
-	title={The Korean Corpus of Spontaneous Speech},
-	author={Yun, W., Yoon, K., Park, S., Lee, J., Cho, S., Kang, D., Byun, K., Hahn, H., Kim, J.},
-	journal={Journal of the Korean Society of Speech Sciences},
-	volume={7(2)},
-	pages={103–109},
-	year={2015},
-	publisher={}
+	title = {The Korean Corpus of Spontaneous Speech},
+	author = {Yun, W., Yoon, K., Park, S., Lee, J., Cho, S., Kang, D., Byun, K., Hahn, H., Kim, J.},
+	journal = {Journal of the Korean Society of Speech Sciences},
+	volume = {7(2)},
+	pages = {103–109},
+	year = {2015},
+	publisher = {}
 }
 ```
 

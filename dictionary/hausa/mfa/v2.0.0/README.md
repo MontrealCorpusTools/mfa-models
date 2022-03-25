@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#hausa)
 - **Number of words:** `6,676`
 - **Phones:** `aj˥ aj˥˦ aj˩ aw˥ aw˥˦ aw˩ aː˥ aː˥˦ aː˩ a˥ a˥˦ a˩ b c cʼ d dʒ eː˥ eː˥˦ eː˩ e˥ e˥˦ e˩ h iː˥ iː˥˦ iː˩ j j̰ k kʷ kʷʼ kʼ l m n oː˥ oː˥˦ oː˩ o˥ o˩ p r s sʼ t tʃ uː˥ uː˥˦ uː˩ w z ŋ ɓ ɔ˥ ɔ˩ ɗ ə˥ ə˩ ɛ˥ ɛ˥˦ ɛ˩ ɟ ɡ ɡʷ ɪ˥ ɪ˥˦ ɪ˩ ɲ ɸ ɽ ʃ ʊ˥ ʊ˥˦ ʊ˩ ʔ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/hausa/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/hausa/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

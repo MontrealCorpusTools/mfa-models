@@ -19,11 +19,11 @@
 - **Citation:**
 ```bibtex
 @inproceedings{luong2016non,
-	title={A non-expert Kaldi recipe for Vietnamese speech recognition system},
-	author={Luong, Hieu-Thi and Vu, Hai-Quan},
-	booktitle={Proceedings of the Third International Workshop on Worldwide Language Service Infrastructure and Second Workshop on Open Infrastructures and Analysis Frameworks for Human Language Technologies (WLSI/OIAF4HLT2016)},
-	pages={51--55},
-	year={2016}
+	title = {A non-expert Kaldi recipe for Vietnamese speech recognition system},
+	author = {Luong, Hieu-Thi and Vu, Hai-Quan},
+	booktitle = {Proceedings of the Third International Workshop on Worldwide Language Service Infrastructure and Second Workshop on Open Infrastructures and Analysis Frameworks for Human Language Technologies (WLSI/OIAF4HLT2016)},
+	pages = {51--55},
+	year = {2016}
 }
 
 ```

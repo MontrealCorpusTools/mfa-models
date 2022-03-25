@@ -53,17 +53,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 3663
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * قديم: [q ɑ d iː m]
-          * جامع: [dʒ aː m æ ʕ æ]
-          * قضم: [q ɑ dˤ m]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * مغفل: [m ʊ ɣ æ fː æ l]
+          * منفضة: [m ɪ n f ɑ dˤ ɑ]
+          * رام: [r ɑː m æ]
       * mː
         * Occurances: 166
         * Examples
-          * لمع: [l æ mː æ ʕ æ]
-          * عْما: [ʕ æ mː aː]
-          * جُمْ: [dʒ æ mː]
-          * سمور: [s æ mː uː r]
+          * عمل: [ʕ æ mː æ l æ]
+          * أشم: [ʔ æ ʃ æ mː]
+          * حمل: [ħ æ mː æ l æ]
+          * سّمعُ: [s æ mː æ ʕ æ]
     ```
   - ```{ipa_cell}
     ```
@@ -74,17 +74,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 3417
         * Examples
-          * لسان: [l s aː n]
-          * على: [ʕ ʊ l æ n]
-          * نهب: [n æ h æ b æ]
-          * عاين: [ʕ aː j æ n æ]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * منفضة: [m ɪ n f ɑ dˤ ɑ]
+          * دهنج: [d æ h n æ dʒ]
       * nː
         * Occurances: 151
         * Examples
-          * حسنا: [ħ æ s ʊ nː aː]
-          * تمنى: [t æ m æ nː aː]
-          * مُسنِ: [m ɪ s æ nː]
-          * هِنُ: [h æ nː æ]
+          * تشنج: [t æ ʃ æ nː æ dʒ æ]
+          * أنتن: [ʔ æ n t ʊ nː æ]
+          * كأن: [k æ ʔ æ nː æ]
+          * شنع: [ʃ æ nː æ ʕ æ]
     ```
   - ```{ipa_cell}
     ```
@@ -110,17 +110,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * b
         * Occurances: 2803
         * Examples
-          * رهبوت: [r ɑ h æ b uː t]
+          * تبغ: [t æ b ɣ]
           * حاسوب: [ħ aː s uː b]
-          * بُطة: [b ɑ tˤː ɑ]
-          * نهب: [n æ h æ b æ]
+          * شبع: [ʃ æ b ɪ ʕ æ]
+          * بهائي: [b æ h aː ʔ ɪ jː]
       * bː
         * Occurances: 171
         * Examples
-          * طْبْ: [tˤ ɪ bː]
-          * أبدp: [ʔ æ bː æ d æ]
-          * عبد: [ʕ æ bː æ d æ]
-          * متكبر: [m ʊ t æ k æ bː ɪ r]
+          * أبد: [ʔ æ bː æ d æ]
+          * زبل: [z æ bː æ l æ]
+          * سْبحُ: [s æ bː æ ħ æ]
+          * إردب: [ʔ ɑ r d æ bː]
     ```
   - ```{ipa_cell}
     ```
@@ -131,60 +131,60 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 2151
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * رهبوت: [r ɑ h æ b uː t]
-          * تقيأ: [t ɑ q ɑ jː æ ʔ æ]
-          * تسامح: [t æ s aː m æ ħ æ]
+          * تبغ: [t æ b ɣ]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * عتاب: [ʕ ɪ t aː b]
+          * تزحزح: [t æ z æ ħ z æ ħ æ]
       * tː
         * Occurances: 65
         * Examples
-          * أتون: [ʔ æ tː uː n]
-          * اتحُد: [ɪ tː æ ħ æ d æ]
-          * كتان: [k æ tː aː n]
-          * اتصِل: [ɪ tː ɑ sˤ ɑ l æ]
+          * متى: [m æ tː aː]
+          * اتحاد: [ɪ tː ɪ ħ aː d]
+          * فُتٍة: [f æ tː aː t]
+          * كتانْ: [k æ tː aː n]
       * tˤ
         * Occurances: 995
         * Examples
-          * طْبْ: [tˤ ɪ bː]
-          * طالم: [tˤ ɑː l æ m]
-          * اصطك: [ɪ sˤ tˤ ɑ kː æ]
-          * طين: [tˤ iː n]
+          * قبطان: [q ʊ b tˤ ɑː n]
+          * عاطف: [ʕ ɑː tˤ ɪ f]
+          * سطَّح: [s ɑ tˤ ħ]
+          * مساطر: [m æ s ɑː tˤ ɪ r]
       * tˤː
         * Occurances: 38
         * Examples
+          * خطة: [χ ʊ tˤː ɑ]
+          * عطن: [ʕ ɑ tˤː ɑ n æ]
           * بُطة: [b ɑ tˤː ɑ]
-          * بطة: [b ɑ tˤː ɑ]
-          * قطة: [q ɪ tˤː ɑ]
-          * حطم: [ħ ɑ tˤː ɑ m æ]
+          * قطع: [q ɑ tˤː ɑ ʕ æ]
     * voiced
       * d
         * Occurances: 1902
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * قديم: [q ɑ d iː m]
-          * عند: [ʕ ɪ n d æ]
-          * نقدا: [n ɑ q d æ n]
+          * قداد: [q ɑ d aː d]
+          * تقديم: [t ɑ q d iː m]
+          * دهنج: [d æ h n æ dʒ]
+          * آدمُ: [ʔ aː d æ m]
       * dː
         * Occurances: 177
         * Examples
-          * تحدى: [t æ ħ æ dː aː]
-          * أدبي: [ʔ æ dː ɪ b iː]
-          * هدار: [h æ dː ɑː r]
-          * صدق: [sˤ ɑ dː ɑ q ɑ]
+          * قداد: [q ɪ dː aː d]
+          * ضَادّ: [dˤ ɑː dː æ]
+          * محدث: [m ʊ ħ æ dː ɪ θ]
+          * عدان: [ʕ æ dː aː n]
       * dˤ
         * Occurances: 503
         * Examples
-          * عضلة: [ʕ ɑ dˤ ɑ l æ]
-          * قضم: [q ɑ dˤ m]
-          * تقوض: [t ɑ q ɑ wː ɑ dˤ ɑ]
-          * مخاض: [m æ χ aː dˤ]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * منفضة: [m ɪ n f ɑ dˤ ɑ]
+          * أضاف: [ʔ ɑ dˤ ɑː f æ]
       * dˤː
         * Occurances: 31
         * Examples
-          * توضح: [t æ w ɑ dˤː æ ħ æ]
-          * أعض: [ʔ æ ʕ ɑ dˤː æ]
-          * وضّب: [w ɑ dˤː æ b æ]
-          * فضي: [f ɪ dˤː ɪ jː]
+          * وضب: [w ɑ dˤː æ b æ]
+          * رضةّ: [r ɑ dˤː æ]
+          * عَضٍ: [ʕ ɑ dˤː]
+          * وضاح: [w ɑ dˤː aː ħ]
     ```
   - ```{ipa_cell}
     ```
@@ -195,25 +195,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 1287
         * Examples
-          * ملكة: [m æ l ɪ k æ]
-          * كيول: [k æ jː uː l]
-          * إياكُ: [ʔ ɪ jː aː k æ]
+          * إكاف: [ʔ ɪ k aː f]
           * كرها: [k ɑ r h æ n]
+          * فلكي: [f æ l æ k ɪ jː]
+          * عكر: [ʕ æ k ɪ r ɑ]
       * kː
         * Occurances: 86
         * Examples
-          * اصطك: [ɪ sˤ tˤ ɑ kː æ]
+          * عكر: [ʕ æ kː ɑ r ɑ]
+          * أكاف: [ʔ ʊ kː aː f]
           * عكْرٍ: [ʕ æ kː ɑ r ɑ]
-          * مبكرا: [m ʊ b æ kː ɪ r ɑ n]
-          * سكن: [s æ kː æ n æ]
+          * سكر: [s ʊ kː ɑ r]
     * voiced
       * ɡ
         * Occurances: 196
         * Examples
-          * قديم: [ɡ æ d iː m]
-          * جامع: [ɡ aː m ɪ ʕ]
-          * موقف: [m æ w ɡ ɪ f]
-          * كراج: [ɡ ɑ r ɑː dʒ]
+          * جنوب: [ɡ æ n uː b]
+          * قال: [ɡ aː l]
+          * لهجة: [l æ h ɡ æ]
+          * شرق: [ʃ ɑ r ɡ]
       * ɡː
         * Occurances: 6
         * Examples
@@ -225,17 +225,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * q
         * Occurances: 1933
         * Examples
-          * قديم: [q ɑ d iː m]
-          * قضم: [q ɑ dˤ m]
-          * ساق: [s ɑː q]
-          * تقيأ: [t ɑ q ɑ jː æ ʔ æ]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * قداد: [q ɑ d aː d]
+          * تقديم: [t ɑ q d iː m]
+          * قافية: [q ɑː f ɪ j æ]
       * qː
         * Occurances: 76
         * Examples
-          * اشتق: [ɪ ʃ t ɑ qː ɑ]
-          * وقف: [w ɑ qː ɑ f æ]
-          * تلقى: [t æ l ɑ qː ɑː]
-          * وقت: [w ɑ qː ɑ t æ]
+          * محقق: [m ʊ ħ ɑ qː ɪ q]
+          * زَقُ: [z ɑ qː]
+          * وقع: [w ɑ qː ɑ ʕ æ]
+          * حَقّ: [ħ ɑ qː]
     ```
   - ```{ipa_cell}
     ```
@@ -244,10 +244,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʔ
         * Occurances: 2483
         * Examples
-          * أثرة: [ʔ æ θ r ɑ]
-          * لجِئْ: [l æ dʒ æ ʔ æ]
-          * تقيأ: [t ɑ q ɑ jː æ ʔ æ]
-          * إيقاع: [ʔ iː q ɑː ʕ]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * بهائي: [b æ h aː ʔ ɪ jː]
+          * جزّء: [dʒ ʊ z ʔ]
+          * آدمُ: [ʔ aː d æ m]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -268,17 +268,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * dʒ
         * Occurances: 1467
         * Examples
-          * جامع: [dʒ aː m æ ʕ æ]
-          * جذام: [dʒ ʊ ð aː m]
-          * لجِئْ: [l æ dʒ æ ʔ æ]
-          * برمج: [b ɑ r m æ dʒ æ]
+          * جزّء: [dʒ ʊ z ʔ]
+          * دهنج: [d æ h n æ dʒ]
+          * تشنج: [t æ ʃ æ nː æ dʒ æ]
+          * جواب: [dʒ æ w aː b]
       * dʒː
         * Occurances: 60
         * Examples
-          * عجورة: [ʕ æ dʒː uː r ɑ]
-          * هجاء: [h æ dʒː aː ʔ]
-          * رجع: [r ɑ dʒː æ ʕ æ]
           * حّجةٌ: [ħ ɪ dʒː æ]
+          * ترجى: [t ɑ r ɑ dʒː aː]
+          * رجْعُ: [r ɑ dʒː æ ʕ æ]
+          * أجل: [ʔ æ dʒː æ l æ]
     ```
   - ```{ipa_cell}
     ```
@@ -303,70 +303,70 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 2315
         * Examples
           * حاسوب: [ħ aː s uː b]
-          * لسان: [l s aː n]
-          * ساق: [s ɑː q]
-          * مراسل: [m ʊ r ɑː s ɪ l]
+          * سيل: [s æ j l]
+          * سيخية: [s iː χ ɪ jː æ]
+          * إلياس: [ʔ ɪ l j aː s]
       * sː
         * Occurances: 101
         * Examples
-          * حسنا: [ħ æ sː æ nː aː]
-          * نساب: [n æ sː aː b]
-          * أسس: [ʔ æ sː æ s æ]
+          * فسح: [f æ sː æ ħ æ]
+          * مجسمة: [m ʊ dʒ æ sː æ m æ]
           * قسيس: [q ɪ sː iː s]
+          * فسر: [f æ sː ɑ r ɑ]
       * sˤ
         * Occurances: 792
         * Examples
-          * صْفًا: [sˤ ɑ f aː]
-          * صهيون: [sˤ ɑ h j uː n]
-          * صلصال: [sˤ ɑ l sˤ ɑː l]
-          * حيصل: [ħ æ j sˤ ɑ l]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * مصباح: [m ɪ sˤ b aː ħ]
+          * مرصد: [m ɑ r sˤ ɑ d]
+          * عنصل: [ʕ æ n sˤ ɑ l]
       * sˤː
         * Occurances: 68
         * Examples
-          * غُصة: [ɣ ʊ sˤː ɑ]
-          * تعصر: [t æ ʕ ɑ sˤː ɑ r ɑ]
-          * متخصص: [m ʊ t æ χ ɑ sˤː ɪ sˤ]
-          * حُصاد: [ħ ɑ sˤː ɑː d]
+          * تعصب: [t æ ʕ ɑ sˤː ɑ b æ]
+          * عُصب: [ʕ ɑ sˤː ɑ b æ]
+          * غصة: [ɣ ʊ sˤː ɑ]
+          * مقاص: [m ɑ q ɑː sˤː]
     * voiced
       * z
         * Occurances: 796
         * Examples
-          * عُزىُ: [ʕ æ z aː]
-          * زوراء: [z æ w r ɑː ʔ]
-          * نزعة: [n æ z ʕ æ]
-          * هزيز: [h æ z iː z]
+          * تزحزح: [t æ z æ ħ z æ ħ æ]
+          * لوز: [l uː z]
+          * جزّء: [dʒ ʊ z ʔ]
+          * زانية: [z aː n ɪ j æ]
       * zː
         * Occurances: 59
         * Examples
-          * عُزىُ: [ʕ æ zː aː]
-          * تعزل: [t æ ʕ æ zː æ l æ]
           * اهُتز: [ɪ h t æ zː æ]
-          * قّزُ: [q ɑ zː]
+          * غزة: [ɣ æ zː æ]
+          * خُزّ: [χ æ zː]
+          * فَزْ: [f æ zː æ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1143
         * Examples
-          * برغش: [b ɑ r ɣ æ ʃ]
-          * شكرا: [ʃ ʊ k r ɑ n]
-          * شاء: [ʃ aː ʔ]
-          * أوشكّ: [ʔ æ w ʃ æ k æ]
+          * شبع: [ʃ æ b ɪ ʕ æ]
+          * هراش: [h ɑ rː ɑː ʃ]
+          * تشنج: [t æ ʃ æ nː æ dʒ æ]
+          * رشح: [r ɑ ʃ æ ħ æ]
       * ʃː
         * Occurances: 31
         * Examples
-          * خشاب: [χ æ ʃː aː b]
-          * مؤشر: [m ʊ ʔ æ ʃː ɪ r]
-          * تعشن: [t æ ʕ æ ʃː æ n æ]
-          * خشابْ: [χ æ ʃː aː b]
+          * عشsش: [ʕ æ ʃː æ ʃ æ]
+          * تكشف: [t æ k æ ʃː æ f æ]
+          * قْشف: [q ɑ ʃː æ f æ]
+          * مشط: [m æ ʃː ɑ tˤ ɑ]
     * voiced
       * ʒ
         * Occurances: 26
         * Examples
           * لهجة: [l æ h ʒ e]
-          * جنس: [ʒ ɪ n s]
-          * جِو: [ʒ æ wː]
           * ترجم: [t ɑ r d ʒ æ m æ]
+          * جنازة: [ʒ n aː z æ]
+          * جنس: [ʒ ɪ n s]
       * ʒː
         * Occurances: 2
         * Examples
@@ -390,17 +390,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1696
         * Examples
-          * صْفًا: [sˤ ɑ f aː]
-          * رقف: [r ɑ q ɑ f]
-          * فاتحة: [f aː t ɪ ħ æ]
-          * موقف: [m æ w q ɪ f]
+          * منفضة: [m ɪ n f ɑ dˤ ɑ]
+          * إكاف: [ʔ ɪ k aː f]
+          * قافية: [q ɑː f ɪ j æ]
+          * قافلة: [q ɑː f ɪ l æ]
       * fː
         * Occurances: 85
         * Examples
-          * ضفة: [dˤ ɑ fː æ]
-          * رْفُ: [r ɑ fː]
-          * شفاف: [ʃ æ fː aː f]
-          * حافة: [ħ aː fː æ]
+          * مغفل: [m ʊ ɣ æ fː æ l]
+          * تصفح: [t ɑ sˤ ɑ fː æ ħ æ]
+          * صفارة: [sˤ ɑ fː ɑː r ɑ]
+          * حفار: [ħ æ fː ɑː r]
     * voiced
       * v
         * Occurances: 41
@@ -414,46 +414,46 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * θ
         * Occurances: 375
         * Examples
-          * أثرة: [ʔ æ θ r ɑ]
-          * جرثوم: [dʒ ʊ r θ uː m]
-          * ثُرب: [θ ɑ r b]
-          * كوثر: [k æ w θ ɑ r]
+          * وثق: [w æ θ ɪ q ɑ]
+          * باحث: [b aː ħ æ θ æ]
+          * غافث: [ɣ aː f æ θ]
+          * ثرّى: [θ ɑ r ɑ n]
       * θː
         * Occurances: 26
         * Examples
-          * جُثة: [dʒ ʊ θː æ]
-          * قثاء: [q ɪ θː aː ʔ]
+          * وثق: [w æ θː ɑ q ɑ]
           * عثة: [ʕ ʊ θː æ]
-          * أثث: [ʔ æ θː æ θ æ]
+          * خِث: [χ ʊ θː]
+          * جثة: [dʒ ʊ θː æ]
     * voiced
       * ð
         * Occurances: 364
         * Examples
-          * جذام: [dʒ ʊ ð aː m]
-          * لاُذ: [l aː ð æ]
-          * حينئذ: [ħ iː n æ ʔ ɪ ð ɪ n]
-          * ذُوقُ: [ð æ w q]
+          * نذيرُ: [n æ ð iː r]
+          * لاذ: [l aː ð æ]
+          * خوذّة: [χ uː ð æ]
+          * الذي: [ɑ ɫː ɑ ð iː]
       * ðː
         * Occurances: 22
         * Examples
           * بُذ: [b æ ðː æ]
-          * جذابّ: [dʒ æ ðː aː b]
-          * رذُ: [r ɑ ðː æ]
-          * جذر: [dʒ æ ðː ɑ r ɑ]
+          * هذب: [h æ ðː æ b æ]
+          * كذاب: [k æ ðː aː b]
+          * قذة: [q ʊ ðː æ]
       * ðˤ
         * Occurances: 178
         * Examples
-          * نعوظ: [n ʊ ʕ uː ðˤ]
-          * حافظة: [ħ aː f ɪ ðˤ æ]
-          * قّيظّ: [q ɑ j ðˤ]
-          * نظير: [n ɑ ðˤ iː r]
+          * منتظم: [m ʊ n t ɑ ðˤ æ m]
+          * نظيف: [n ɑ ðˤ iː f]
+          * قرظُ: [q ɑ r ɑ ðˤ]
+          * ظليم: [ðˤ æ l iː m]
       * ðˤː
         * Occurances: 28
         * Examples
-          * آظظاق: [ʔ ɑː ðˤː ɑː q]
+          * عظّ: [ʕ ɑ ðˤː æ]
+          * موظف: [m ʊ w ɑ ðˤː æ f]
+          * موظفة: [m ʊ w ɑ ðˤː æ f æ]
           * نظف: [n ɑ ðˤː æ f æ]
-          * عظُمٌ: [ʕ ɑ ðˤː æ m æ]
-          * أَعّظ: [ʔ æ ʕ ɑ ðˤː æ]
     ```
   - ```{ipa_cell}
     ```
@@ -468,17 +468,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * χ
         * Occurances: 755
         * Examples
-          * رخاخ: [r ɪ χ aː χ]
-          * أُخ: [ʔ æ χ]
-          * آخن: [ʔ aː χ æ n]
-          * رخيم: [r ɑ χ iː m]
+          * سيخية: [s iː χ ɪ jː æ]
+          * مناخي: [m æ n aː χ ɪ jː]
+          * خادمُ: [χ aː d ɪ m]
+          * خصوبة: [χ ʊ sˤ uː b æ]
       * χː
         * Occurances: 31
         * Examples
-          * رّخُ: [r ʊ χː]
-          * نُخاس: [n æ χː aː s]
-          * زخات: [z æ χː aː t]
-          * دخل: [d æ χː æ l æ]
+          * فخار: [f æ χː ɑː r]
+          * شخُر: [ʃ æ χː ɑ r ɑ]
+          * نخاس: [n æ χː aː s]
+          * جخِى: [dʒ æ χː aː]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -486,34 +486,34 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 1431
         * Examples
           * حاسوب: [ħ aː s uː b]
-          * مْحْن: [m ɪ ħ æ n]
-          * تسامح: [t æ s aː m æ ħ æ]
-          * محن: [m ɪ ħ æ n]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * تزحزح: [t æ z æ ħ z æ ħ æ]
+          * مصباح: [m ɪ sˤ b aː ħ]
       * ħː
         * Occurances: 38
         * Examples
+          * رحبُ: [r ɑ ħː æ b æ]
+          * صحى: [sˤ ɑ ħː aː]
           * شحاذ: [ʃ æ ħː aː ð]
-          * رحب: [r ɑ ħː æ b æ]
-          * تنحى: [t æ n æ ħː aː]
-          * سحم: [s æ ħː æ m æ]
+          * بحر: [b æ ħː ɑ r ɑ]
     * voiced
       * ʕ
         * Occurances: 1886
         * Examples
-          * عضلة: [ʕ ɑ dˤ ɑ l æ]
-          * جامع: [dʒ aː m æ ʕ æ]
-          * عُزىُ: [ʕ æ z aː]
-          * لمع: [l æ m æ ʕ æ]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * شبع: [ʃ æ b ɪ ʕ æ]
+          * عتاب: [ʕ ɪ t aː b]
+          * متاع: [m æ t aː ʕ]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 1099
         * Examples
-          * رهبوت: [r ɑ h æ b uː t]
-          * نهب: [n æ h æ b æ]
-          * سهوة: [s æ h w æ]
-          * صهيون: [sˤ ɑ h j uː n]
+          * بهائي: [b æ h aː ʔ ɪ jː]
+          * هراش: [h ɑ rː ɑː ʃ]
+          * دهنج: [d æ h n æ dʒ]
+          * جهاُد: [dʒ æ h aː d]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -521,17 +521,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1283
         * Examples
-          * سهوة: [s æ h w æ]
-          * صهيون: [sˤ ɪ h j æ w n]
-          * زوراء: [z æ w r ɑː ʔ]
-          * موقف: [m æ w q ɪ f]
+          * لوز: [l æ w z]
+          * جواب: [dʒ æ w aː b]
+          * وضب: [w ɑ dˤː æ b æ]
+          * قبو: [q ɑ b w]
       * wː
         * Occurances: 131
         * Examples
-          * متنوع: [m ʊ t æ n æ wː ɪ ʕ]
+          * نور: [n æ wː ɑ r ɑ]
+          * كون: [k æ wː æ n æ]
+          * أولي: [ʔ æ wː æ l ɪ jː]
           * تقوض: [t ɑ q ɑ wː ɑ dˤ ɑ]
-          * جوي: [dʒ æ wː ɪ jː]
-          * طُول: [tˤ ɑ wː æ l æ]
     ```
   - ```{ipa_cell}
     ```
@@ -546,17 +546,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1139
         * Examples
-          * عاين: [ʕ aː j æ n æ]
-          * ينبوع: [j æ n b uː ʕ]
-          * صهيون: [sˤ ɑ h j uː n]
-          * بِيعة: [b æ j ʕ æ]
+          * سيل: [s æ j l]
+          * قافية: [q ɑː f ɪ j æ]
+          * إلياس: [ʔ ɪ l j aː s]
+          * يسوع: [j æ s uː ʕ]
       * jː
         * Occurances: 1045
         * Examples
-          * تقيأ: [t ɑ q ɑ jː æ ʔ æ]
-          * مِيٍ: [m æ jː]
-          * كيول: [k æ jː uː l]
-          * إياكُ: [ʔ ɪ jː aː k æ]
+          * بهائي: [b æ h aː ʔ ɪ jː]
+          * سيخية: [s iː χ ɪ jː æ]
+          * مناخي: [m æ n aː χ ɪ jː]
+          * فلكي: [f æ l æ k ɪ jː]
     ```
   - ```{ipa_cell}
     ```
@@ -578,17 +578,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 4245
         * Examples
-          * رهبوت: [r ɑ h æ b uː t]
-          * أثرة: [ʔ æ θ r ɑ]
-          * مراسل: [m ʊ r ɑː s ɪ l]
-          * باسور: [b aː s uː r]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * رام: [r ɑː m æ]
+          * هراش: [h ɪ r ɑː ʃ]
+          * نذيرُ: [n æ ð iː r]
       * rː
         * Occurances: 248
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * تفرغ: [t æ f ɑ rː ɑ ɣ æ]
-          * استمر: [ɪ s t æ m ɑ rː ɑ]
-          * بَرّي: [b ɑ rː iː]
+          * هراش: [h ɑ rː ɑː ʃ]
+          * مران: [m ʊ rː ɑː n]
+          * بريمة: [b ɑ rː iː m æ]
+          * شرعي: [ʃ ɑ rː ɪ ʕ iː]
     ```
   - ```{ipa_cell}
     ```
@@ -614,17 +614,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 2807
         * Examples
-          * عضلة: [ʕ ɑ dˤ ɑ l æ]
-          * لمع: [l æ m æ ʕ æ]
-          * لسان: [l s aː n]
-          * على: [ʕ æ l aː]
+          * مغفل: [m ʊ ɣ æ fː æ l]
+          * لمى: [l æ m aː]
+          * لوز: [l uː z]
+          * سيل: [s æ j l]
       * ɫː
         * Occurances: 268
         * Examples
-          * قِلبُ: [q ɑ ɫː ɑ b æ]
-          * مُحل: [m æ ħ ɑ ɫː]
-          * مسلة: [m ɪ s ɑ ɫː ɑ]
-          * استدل: [ɪ s t æ d ɑ ɫː ɑ]
+          * حُلفُ: [ħ ɑ ɫː ɑ f æ]
+          * الذي: [ɑ ɫː ɑ ð iː]
+          * غلب: [ɣ ɑ ɫː ɑ b æ]
+          * ملل: [m ɑ ɫː ɑ l æ]
     ```
   - ```{ipa_cell}
     ```
@@ -662,10 +662,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 1594
         * Examples
-          * قديم: [q ɑ d iː m]
-          * إيقاع: [ʔ iː q ɑː ʕ]
-          * بِيعة: [b iː ʕ æ]
-          * رخيم: [r ɑ χ iː m]
+          * تقديم: [t ɑ q d iː m]
+          * سيخية: [s iː χ ɪ jː æ]
+          * نذيرُ: [n æ ð iː r]
+          * صقيع: [sˤ ɑ q iː ʕ]
     ```
   - ```{ipa_cell}
     ```
@@ -678,10 +678,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * uː
         * Occurances: 1320
         * Examples
-          * رهبوت: [r ɑ h æ b uː t]
           * حاسوب: [ħ aː s uː b]
-          * باسور: [b aː s uː r]
-          * نعوظ: [n ʊ ʕ uː ðˤ]
+          * لوز: [l uː z]
+          * يسوع: [j æ s uː ʕ]
+          * عنوسة: [ʕ ʊ n uː s æ]
     ```
 * -
   - ```{ipa_cell}
@@ -691,10 +691,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 5233
         * Examples
-          * جامع: [dʒ aː m ɪ ʕ]
-          * قضم: [q ɑ dˤ ɪ m æ]
-          * طْبْ: [tˤ ɪ bː]
-          * لسان: [l ɪ s aː n]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * تبغ: [t ɪ b ɣ]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * قداد: [q ɪ d aː d]
     ```
   - ```{ipa_cell}
     ```
@@ -703,10 +703,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 3049
         * Examples
-          * تمرد: [t æ m ɑ rː ʊ d]
-          * أثرة: [ʔ ʊ θ r ɑ]
-          * على: [ʕ ʊ l æ n]
-          * مراسل: [m ʊ r ɑː s ɪ l]
+          * مغفل: [m ʊ ɣ æ fː æ l]
+          * قداد: [q ʊ d aː d]
+          * جزّء: [dʒ ʊ z ʔ]
+          * تشنج: [t æ ʃ æ nː ʊ dʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -716,16 +716,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 48
         * Examples
-          * جمل: [ɡ æ m e l]
           * لهجة: [l æ h ʒ e]
+          * قهوة: [k æ h w e]
           * آخرة: [ʔ aː χ r e]
-          * قارب: [ʔ ɑː r e b]
+          * قابلة: [ʔ aː b l e]
       * eː
         * Occurances: 45
         * Examples
-          * بيرو: [b eː r uː]
+          * قيطون: [ɡ eː tˤ oː n]
           * شيِك: [ʃ eː k]
-          * باليه: [b aː l eː h]
+          * قابلة: [ʔ eː b l æ]
           * شيخُ: [ʃ eː χ]
     ```
   - ```{ipa_cell}
@@ -741,15 +741,15 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Examples
           * طرمبة: [tˤ r o m b æ]
           * توبة: [t o b a]
-          * بوصلة: [b o sˤ l æ]
           * لورد: [l o r d]
+          * بوصلة: [b o sˤ l æ]
       * oː
         * Occurances: 103
         * Examples
-          * فيديو: [v iː d j oː]
-          * كوم: [k oː m]
+          * يورو: [j uː r oː]
           * صودا: [sˤ oː d aː]
-          * زوجة: [z oː dʒ æ]
+          * فيديو: [v iː d j oː]
+          * بُالِ: [b oː l]
     ```
 * -
   - ```{ipa_cell}
@@ -779,10 +779,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * æ
         * Occurances: 12024
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * عضلة: [ʕ ɑ dˤ ɑ l æ]
-          * قديم: [ɡ æ d iː m]
-          * جامع: [dʒ aː m æ ʕ æ]
+          * تبغ: [t æ b ɣ]
+          * مغفل: [m ʊ ɣ æ fː æ l]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * شبع: [ʃ æ b ɪ ʕ æ]
     ```
   - ```{ipa_cell}
     ```
@@ -802,17 +802,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 43
         * Examples
-          * فهرس: [f a h r ɑ s]
           * لهجة: [l a h dʒ a]
-          * توراة: [t a w r ɑː t]
-          * قلم: [q ɑ l a m]
+          * توبة: [t o b a]
+          * كهف: [k a h f]
+          * سكار: [s a kː ɑː r]
       * aː
         * Occurances: 3663
         * Examples
-          * جامع: [dʒ aː m æ ʕ æ]
           * حاسوب: [ħ aː s uː b]
-          * عُزىُ: [ʕ æ z aː]
-          * لسان: [l s aː n]
+          * قداد: [q ɑ d aː d]
+          * بهائي: [b æ h aː ʔ ɪ jː]
+          * عتاب: [ʕ ɪ t aː b]
     ```
   - ```{ipa_cell}
     ```
@@ -821,16 +821,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 5823
         * Examples
-          * تمرد: [t æ m ɑ rː ɑ d æ]
-          * عضلة: [ʕ ɑ dˤ ɑ l æ]
-          * قديم: [q ɑ d iː m]
-          * رهبوت: [r ɑ h æ b uː t]
+          * قداد: [q ɑ d aː d]
+          * احتضن: [ɪ ħ t ɑ dˤ ɑ n æ]
+          * منفضة: [m ɪ n f ɑ dˤ ɑ]
+          * تقديم: [t ɑ q d iː m]
       * ɑː
         * Occurances: 1855
         * Examples
-          * ساق: [s ɑː q]
-          * مراسل: [m ʊ r ɑː s ɪ l]
-          * إيقاع: [ʔ iː q ɑː ʕ]
-          * طالم: [tˤ ɑː l æ m]
+          * إنقاض: [ʔ ɪ n q ɑː dˤ]
+          * مصراع: [m ɪ sˤ r ɑː ʕ]
+          * رام: [r ɑː m æ]
+          * هراش: [h ɑ rː ɑː ʃ]
     ```
 ``````

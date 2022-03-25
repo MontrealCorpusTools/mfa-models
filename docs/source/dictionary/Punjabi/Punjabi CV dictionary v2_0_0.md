@@ -52,10 +52,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 471
         * Examples
-          * ਮੈਥੋਂ: [m ɛ t̪ʰ õ]
-          * ਮੈਨ: [m ɛ n]
-          * ਮੈਚ: [m ɛ t͡ʃ]
-          * ਮੌਤਾਂ: [m ɔ t̪ ɑ̃]
+          * ਨਾਮ: [n ɑ m]
+          * ਮਿਸ਼ੇਲ: [m ɪ ʃ e l]
+          * ਮਿਲਦੇ: [m ɪ l d̪ e]
+          * ਮਾਨ: [m ɑ n]
       * mː
         * Occurances: 1
         * Examples
@@ -70,10 +70,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 468
         * Examples
-          * ਜੀਵਨ: [d͡ʒ i ʋ ə n]
-          * ਦੁਕਾਨ: [d̪ ʊ k ɑ n]
-          * ਮੈਨ: [m ɛ n]
-          * ਨੋਚਿਆ: [n o t͡ʃ ɪ ɑ]
+          * ਨਾਮ: [n ɑ m]
+          * ਦੁਨੀ: [d̪ ʊ n i]
+          * ਇਹਨੂੰ: [ɪ ɦ n ũ]
+          * ਮਾਨ: [m ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -82,10 +82,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɳ
         * Occurances: 210
         * Examples
-          * ਵਰੁਣ: [ʋ ə ɾ ʊ ɳ]
-          * ਜਾਣੋ: [d͡ʒ ɑ ɳ o]
-          * ਭੈਣਾਂ: [p ɛ ɳ ɑ̃]
-          * ਵਿਛੜਣ: [ʋ ɪ t͡ʃʰ ɽ ə ɳ]
+          * ਰੈਣ: [ɾ ɛ ɳ]
+          * ਥਾਣੇ: [t̪ʰ ɑ ɳ e]
+          * ਆਚਰਣ: [ɑ t͡ʃ ɾ ə ɳ]
+          * ਭੂਸ਼ਣ: [p u ʃ ə ɳ]
       * ɳː
         * Occurances: 1
         * Examples
@@ -103,31 +103,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 413
         * Examples
-          * ਪਿੱਠ: [p ɪ ʈː]
-          * ਰੂਪੋਸ਼: [ɾ u p o ʃ]
-          * ਪੀਚੋ: [p i t͡ʃ o]
-          * ਰੁਪੈ: [ɾ ʊ p ɛ]
+          * ਪਰਤਿਆ: [p ə ɾ t̪ ɪ ɑ]
+          * ਪ੍ਰੀਤ: [p ɾ i t̪]
+          * ਪਾਰਟੀ: [p ɑ ɾ ʈ i]
+          * ਭਗੌੜੇ: [p ə ɡ ɔ ɽ e]
       * pː
         * Occurances: 14
         * Examples
           * ਗਰੁੱਪ: [ɡ ə ɾ ʊ pː]
-          * ਸੱਭ: [s ə pː]
           * ਚੁੱਪ: [t͡ʃ ʊ pː]
-          * ਕਲਿੱਪ: [k ə l ɪ pː]
+          * ਉੱਪਰ: [ʊ pː ə ɾ]
+          * ਸੱਭ: [s ə pː]
     * voiced
       * b
         * Occurances: 318
         * Examples
-          * ਬੰਦਾ: [b ə̃ d̪ ɑ]
-          * ਬਾਈ: [b ɑ i]
-          * ਬੱਚਿਓ: [b ə t͡ʃː ɪ o]
-          * ਬੜਾ: [b ə ɽ ɑ]
+          * ਸ਼ਰਾਬ: [ʃ ə ɾ ɑ b]
+          * ਬੱਚਾ: [b ə t͡ʃː ɑ]
+          * ਬਲਕਿ: [b ə l k ɪ]
+          * ਕਾਬੂ: [k ɑ b u]
       * bː
         * Occurances: 10
         * Examples
-          * ਰੱਬਾ: [ɾ ə bː ɑ]
-          * ਰੱਬ: [ɾ ə bː]
           * ਪੱਬ: [p ə bː]
+          * ਬੱਬਰ: [b ə bː ə ɾ]
+          * ਦੱਬੇ: [d̪ ə bː e]
           * ਸਬੱਬ: [s ə b ə bː]
     ```
   - ```{ipa_cell}
@@ -137,32 +137,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 475
         * Examples
-          * ਅਦਾਲਤ: [ə d̪ ɑ l ə t̪]
-          * ਮੌਤਾਂ: [m ɔ t̪ ɑ̃]
-          * ਸੁਰਤ: [s ʊ ɾ ə t̪]
-          * ਸਾਧ: [s ɑ t̪]
+          * ਧੁਰਿ: [t̪ ʊ ɾ ɪ]
+          * ਦੋਸਤ: [d̪ o s ə t̪]
+          * ਸੰਗੀਤ: [s ə̃ ɡ i t̪]
+          * ਤਕਰਾਰ: [t̪ ə k ɾ ɑ ɾ]
       * t̪ː
         * Occurances: 62
         * Examples
-          * ਸਿੱਧਾ: [s ɪ t̪ː ɑ]
-          * ਦੱਤਾ: [d̪ ə t̪ː ɑ]
-          * ਮੱਥਾਂ: [m ə t̪ː ɑ̃]
-          * ਛੱਤ: [t͡ʃʰ ə t̪ː]
+          * ਸਿੱਧੜ: [s ɪ t̪ː ə ɽ]
+          * ਅੱਤ: [ə t̪ː]
+          * ਲੱਤ: [l ə t̪ː]
+          * ਨਿੱਤ: [n ɪ t̪ː]
     * voiced
       * d̪
         * Occurances: 478
         * Examples
-          * ਅਦਾਲਤ: [ə d̪ ɑ l ə t̪]
-          * ਲੈਂਦੀ: [l ɛ̃ d̪ i]
-          * ਬੰਦਾ: [b ə̃ d̪ ɑ]
-          * ਦੁਕਾਨ: [d̪ ʊ k ɑ n]
+          * ਇਸਦਾ: [ɪ s d̪ ɑ]
+          * ਦੋਸਤ: [d̪ o s ə t̪]
+          * ਦੁਨੀ: [d̪ ʊ n i]
+          * ਦੇਰ: [d̪ e ɾ]
       * d̪ː
         * Occurances: 10
         * Examples
-          * ਕੱਦ: [k ə d̪ː]
-          * ਮੁੱਦਾ: [m ʊ d̪ː ɑ]
-          * ਬੇਹੱਦ: [b e ɦ ə d̪ː]
+          * ਹੱਦ: [ɦ ə d̪ː]
+          * ਸਰਹੱਦ: [s ə ɾ ɦ ə d̪ː]
           * ਮੱਦਦ: [m ə d̪ː ə d̪]
+          * ਬੇਹੱਦ: [b e ɦ ə d̪ː]
     ```
   - ```{ipa_cell}
     ```
@@ -173,32 +173,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʈ
         * Occurances: 190
         * Examples
-          * ਕਸ਼ਟ: [k ə ʃ ə ʈ]
-          * ਨੀਟਾ: [n i ʈ ɑ]
-          * ਮੋਢਾ: [m o ʈ ɑ]
-          * ਟੰਗਿਆ: [ʈ ə̃ ɡ ɪ ɑ]
+          * ਵੇਸਟ: [ʋ e s ə ʈ]
+          * ਪਾਰਟੀ: [p ɑ ɾ ʈ i]
+          * ਸਲੋਟ: [s ə l o ʈ]
+          * ਸੂਟ: [s u ʈ]
       * ʈː
         * Occurances: 39
         * Examples
-          * ਪਿੱਠ: [p ɪ ʈː]
-          * ਫੁੱਟ: [pʰ ʊ ʈː]
-          * ਛੁੱਟੀ: [t͡ʃʰ ʊ ʈː i]
-          * ਛਿੱਟਾ: [t͡ʃʰ ɪ ʈː ɑ]
+          * ਕੱਠ: [k ə ʈː]
+          * ਰੱਟੇ: [ɾ ə ʈː e]
+          * ਅੱਟੀ: [ə ʈː i]
+          * ਇੱਟਲੀ: [ɪ ʈː ə l i]
     * voiced
       * ɖ
         * Occurances: 117
         * Examples
-          * ਸੋਡਾ: [s o ɖ ɑ]
-          * ਰੀਫੰਡ: [ɾ i pʰ ə̃ ɖ]
-          * ਮੁੰਡਾ: [m ʊ̃ ɖ ɑ]
-          * ਡੌਨ: [ɖ ɔ n]
+          * ਇੰਡੀਆ: [ɪ̃ ɖ i ɑ]
+          * ਤਾਂਡਵ: [t̪ ɑ̃ ɖ ə ʋ]
+          * ਡਰੀ: [ɖ ə ɾ i]
+          * ਲਡਾਇਆ: [l ə ɖ ɑ ɪ ɑ]
       * ɖː
         * Occurances: 19
         * Examples
-          * ਹੱਡੀ: [ɦ ə ɖː i]
-          * ਗੱਡ: [ɡ ə ɖː]
+          * ਛੱਡੀਏ: [t͡ʃʰ ə ɖː i e]
           * ਲੱਡੂ: [l ə ɖː u]
-          * ਛੱਡ: [t͡ʃʰ ə ɖː]
+          * ਹੱਡੀ: [ɦ ə ɖː i]
+          * ਵੱਡਾ: [ʋ ə ɖː ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -207,32 +207,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 557
         * Examples
-          * ਸਰਕਾਰ: [s ə ɾ k ɑ ɾ]
-          * ਕਿਰਾਏ: [k ɪ ɾ ɑ e]
-          * ਕਸ਼ਟ: [k ə ʃ ə ʈ]
-          * ਦੁਕਾਨ: [d̪ ʊ k ɑ n]
+          * ਅਕਾਲ: [ə k ɑ l]
+          * ਕੋਲ: [k o l]
+          * ਕਲਾਸ: [k ə l ɑ s]
+          * ਤਕਰਾਰ: [t̪ ə k ɾ ɑ ɾ]
       * kː
         * Occurances: 86
         * Examples
-          * ਚੁੱਕ: [t͡ʃ ʊ kː]
-          * ਲੱਕੜੀ: [l ə kː ə ɽ i]
-          * ਚੱਕ: [t͡ʃ ə kː]
-          * ਲੱਖ: [l ə kː]
+          * ਤੱਕ: [t̪ ə kː]
+          * ਸ਼ੱਕ: [ʃ ə kː]
+          * ਪੱਖੇ: [p ə kː e]
+          * ਰੱਖੀ: [ɾ ə kː i]
     * voiced
       * ɡ
         * Occurances: 277
         * Examples
-          * ਅਗਲੀ: [ə ɡ l i]
-          * ਜੰਗ: [d͡ʒ ə̃ ɡ]
-          * ਗੁਲਾਮ: [ɡ ʊ l ɑ m]
-          * ਗਿਲਾਸ: [ɡ ɪ l ɑ s]
+          * ਸੰਗੀਤ: [s ə̃ ɡ i t̪]
+          * ਭਗੌੜੇ: [p ə ɡ ɔ ɽ e]
+          * ਸ਼ਗਨ: [ʃ ə ɡ ə n]
+          * ਗਹਿਰ: [ɡ ə ɦ ɪ ɾ]
       * ɡː
         * Occurances: 20
         * Examples
-          * ਲੱਗੀ: [l ə ɡː i]
-          * ਜੱਗੀ: [d͡ʒ ə ɡː i]
           * ਲੱਗ: [l ə ɡː]
-          * ਅੱਗੋਂ: [ə ɡː õ]
+          * ਯੁੱਗ: [j ʊ ɡː]
+          * ਲੱਗਦੇ: [l ə ɡː ə d̪ e]
+          * ਲੱਗਾ: [l ə ɡː ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -250,32 +250,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 194
         * Examples
-          * ਚੁੱਕ: [t͡ʃ ʊ kː]
-          * ਪੀਚੋ: [p i t͡ʃ o]
-          * ਮੈਚ: [m ɛ t͡ʃ]
-          * ਨੋਚਿਆ: [n o t͡ʃ ɪ ɑ]
+          * ਲਾਲਚ: [l ɑ l ə t͡ʃ]
+          * ਚੂਹੇ: [t͡ʃ u ɦ e]
+          * ਸਾਂਝੇ: [s ɑ̃ t͡ʃ e]
+          * ਆਚਰਣ: [ɑ t͡ʃ ɾ ə ɳ]
       * t͡ʃː
         * Occurances: 28
         * Examples
-          * ਬੱਚਿਓ: [b ə t͡ʃː ɪ o]
-          * ਮੱਚਿਆ: [m ə t͡ʃː ɪ ɑ]
-          * ਨੱਚਣਾ: [n ə t͡ʃː ə ɳ ɑ]
+          * ਬੱਚਾ: [b ə t͡ʃː ɑ]
           * ਇੱਛਾ: [ɪ t͡ʃː ɑ]
+          * ਸੱਚੇ: [s ə t͡ʃː e]
+          * ਸੱਚ: [s ə t͡ʃː]
     * voiced
       * d͡ʒ
         * Occurances: 249
         * Examples
-          * ਜੀਵਨ: [d͡ʒ i ʋ ə n]
-          * ਜਾਣੋ: [d͡ʒ ɑ ɳ o]
-          * ਜਦੋਂ: [d͡ʒ ə d̪ õ]
-          * ਜੰਗ: [d͡ʒ ə̃ ɡ]
+          * ਜੀੜਨ: [d͡ʒ i ɽ ə n]
+          * ਜਿੰਦੇ: [d͡ʒ ɪ̃ d̪ e]
+          * ਨਤੀਜਾ: [n ə t̪ i d͡ʒ ɑ]
+          * ਜਾਂਦੀ: [d͡ʒ ɑ̃ d̪ i]
       * d͡ʒː
         * Occurances: 10
         * Examples
           * ਗੁੱਜਰ: [ɡ ʊ d͡ʒː ə ɾ]
-          * ਵੱਜ: [ʋ ə d͡ʒː]
           * ਕੁੱਜੇ: [k ʊ d͡ʒː e]
           * ਅੱਜ: [ə d͡ʒː]
+          * ਵੱਜ: [ʋ ə d͡ʒː]
     ```
   - ```{ipa_cell}
     ```
@@ -297,40 +297,40 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 542
         * Examples
-          * ਸਲਾਹ: [s ə l ɑ ɦ]
-          * ਸਰਕਾਰ: [s ə ɾ k ɑ ɾ]
-          * ਸੁਰਤ: [s ʊ ɾ ə t̪]
-          * ਮੌਸਮ: [m ɔ s ə m]
+          * ਇਸਦਾ: [ɪ s d̪ ɑ]
+          * ਸਿੱਧੜ: [s ɪ t̪ː ə ɽ]
+          * ਵੇਸਟ: [ʋ e s ə ʈ]
+          * ਦੋਸਤ: [d̪ o s ə t̪]
       * sː
         * Occurances: 14
         * Examples
           * ਵੱਸਦੇ: [ʋ ə sː ə d̪ e]
-          * ਹੱਸ: [ɦ ə sː]
-          * ਦੱਸਿਆ: [d̪ ə sː ɪ ɑ]
-          * ਦੱਸ: [d̪ ə sː]
+          * ਹਿੱਸੇ: [ɦ ɪ sː e]
+          * ਗੁੱਸੇ: [ɡ ʊ sː e]
+          * ਜੱਸੀ: [d͡ʒ ə sː i]
     * voiced
       * z
         * Occurances: 82
         * Examples
-          * ਜ਼ੌਹਰ: [z ɔ ɦ ə ɾ]
-          * ਲਿਹਾਜ਼: [l ɪ ɦ ɑ z]
+          * ਸੈਲਜ਼: [s ɛ l ə z]
           * ਰਿਆਜ਼: [ɾ ɪ ɑ z]
-          * ਨਜ਼ਰੀਂ: [n ə z ɾ ĩ]
+          * ਕਰਜ਼ਾ: [k ə ɾ z ɑ]
+          * ਹਜ਼ਾਰ: [ɦ ə z ɑ ɾ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 165
         * Examples
-          * ਕਸ਼ਟ: [k ə ʃ ə ʈ]
-          * ਰੂਪੋਸ਼: [ɾ u p o ʃ]
-          * ਰਿਸ਼ਤੇ: [ɾ ɪ ʃ t̪ e]
-          * ਉਦੇਸ਼: [ʊ d̪ e ʃ]
+          * ਸ਼ੁਰੂ: [ʃ ʊ ɾ u]
+          * ਮਿਸ਼ੇਲ: [m ɪ ʃ e l]
+          * ਸ਼ਰਾਬ: [ʃ ə ɾ ɑ b]
+          * ਸ਼ੱਕ: [ʃ ə kː]
       * ʃː
         * Occurances: 2
         * Examples
-          * ਸਪੱਸ਼ਟ: [s ə p ə ʃː ə ʈ]
           * ਬੁੱਸ਼: [b ʊ ʃː]
+          * ਸਪੱਸ਼ਟ: [s ə p ə ʃː ə ʈ]
     ```
   - ```{ipa_cell}
     ```
@@ -348,10 +348,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 35
         * Examples
+          * ਤੂਫ਼ਾਨ: [t̪ u f ɑ n]
+          * ਖਿਲਾਫ਼: [kʰ ɪ l ɑ f]
+          * ਉਲਫ਼ਤ: [ʊ l f ə t̪]
           * ਫ਼ਿਲਮ: [f ɪ l ə m]
-          * ਸਫ਼ਰ: [s ə f ə ɾ]
-          * ਤਫ਼ਸੀਲ: [t̪ ə f s i l]
-          * ਫ਼ਰਜ਼ੀ: [f ə ɾ z i]
     ```
   - ```{ipa_cell}
     ```
@@ -370,10 +370,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɦ
         * Occurances: 436
         * Examples
-          * ਓਹੀ: [o ɦ i]
-          * ਸਲਾਹ: [s ə l ɑ ɦ]
-          * ਉਹੀ: [ʊ ɦ i]
-          * ਜ਼ੌਹਰ: [z ɔ ɦ ə ɾ]
+          * ਹੋਠੀਂ: [ɦ o ʈʰ ĩ]
+          * ਵਿਹਲੇ: [ʋ ɪ ɦ l e]
+          * ਹੁੰਦਾ: [ɦ ʊ̃ d̪ ɑ]
+          * ਇਹਨੂੰ: [ɪ ɦ n ũ]
       * ɦː
         * Occurances: 1
         * Examples
@@ -387,10 +387,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʋ
         * Occurances: 334
         * Examples
-          * ਵਰੁਣ: [ʋ ə ɾ ʊ ɳ]
-          * ਜੀਵਨ: [d͡ʒ i ʋ ə n]
-          * ਦੀਵੇ: [d̪ i ʋ e]
-          * ਵਾਲੀ: [ʋ ɑ l i]
+          * ਵਿਹਲੇ: [ʋ ɪ ɦ l e]
+          * ਵੇਸਟ: [ʋ e s ə ʈ]
+          * ਵੱਸਦੇ: [ʋ ə sː ə d̪ e]
+          * ਵਿਰਦਾ: [ʋ ɪ ɾ d̪ ɑ]
       * ʋː
         * Occurances: 2
         * Examples
@@ -409,10 +409,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 27
         * Examples
-          * ਯਾਦਾਂ: [j ɑ d̪ ɑ̃]
-          * ਯਕੀਨ: [j ə k i n]
-          * ਯੋਧੇ: [j o t̪ e]
-          * ਯੋਗ: [j o ɡ]
+          * ਯੋਜਨਾ: [j o d͡ʒ n ɑ]
+          * ਯੁੱਗ: [j ʊ ɡː]
+          * ਯਾਤਰੀ: [j ɑ t̪ ɾ i]
+          * ਨਿਯਮ: [n ɪ j ə m]
     ```
   - ```{ipa_cell}
     ```
@@ -430,10 +430,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 1017
         * Examples
-          * ਵਰੁਣ: [ʋ ə ɾ ʊ ɳ]
-          * ਸਰਕਾਰ: [s ə ɾ k ɑ ɾ]
-          * ਕਿਰਾਏ: [k ɪ ɾ ɑ e]
-          * ਰੂਪੋਸ਼: [ɾ u p o ʃ]
+          * ਸ਼ੁਰੂ: [ʃ ʊ ɾ u]
+          * ਧੁਰਿ: [t̪ ʊ ɾ ɪ]
+          * ਰੈਣ: [ɾ ɛ ɳ]
+          * ਦੇਰ: [d̪ e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -442,10 +442,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɽ
         * Occurances: 127
         * Examples
-          * ਲੱਕੜੀ: [l ə kː ə ɽ i]
-          * ਵਿਛੜਣ: [ʋ ɪ t͡ʃʰ ɽ ə ɳ]
+          * ਸਿੱਧੜ: [s ɪ t̪ː ə ɽ]
+          * ਭਗੌੜੇ: [p ə ɡ ɔ ɽ e]
+          * ਜੀੜਨ: [d͡ʒ i ɽ ə n]
           * ਬੜਾ: [b ə ɽ ɑ]
-          * ਕਿਹੜੈ: [k ɪ ɦ ɽ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -465,16 +465,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 520
         * Examples
-          * ਅਦਾਲਤ: [ə d̪ ɑ l ə t̪]
-          * ਸਲਾਹ: [s ə l ɑ ɦ]
-          * ਲੈਂਦੀ: [l ɛ̃ d̪ i]
-          * ਲੱਗੀ: [l ə ɡː i]
+          * ਮਿਸ਼ੇਲ: [m ɪ ʃ e l]
+          * ਵਿਹਲੇ: [ʋ ɪ ɦ l e]
+          * ਅਕਾਲ: [ə k ɑ l]
+          * ਕੋਲ: [k o l]
       * lː
         * Occurances: 42
         * Examples
-          * ਚੱਲਦੀ: [t͡ʃ ə lː ə d̪ i]
-          * ਅੱਲਾ: [ə lː ɑ]
-          * ਮਹੱਲਾ: [m ə ɦ ə lː ɑ]
+          * ਮੱਲੋ: [m ə lː o]
+          * ਸੈੱਲ: [s ɛ lː]
+          * ਝਿੱਲੀ: [t͡ʃ ɪ lː i]
           * ਬਿੱਲ: [b ɪ lː]
     ```
   - ```{ipa_cell}
@@ -503,9 +503,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 6
         * Examples
-          * ਵਾਲ਼ੀ: [ʋ ɑ ɭ i]
-          * ਨਾਲ਼: [n ɑ ɭ]
           * ਗੰਧਲ਼ੇ: [ɡ ə̃ t̪ ə ɭ e]
+          * ਵਾਲ਼ੀ: [ʋ ɑ ɭ i]
+          * ਭਾਲ਼: [p ɑ ɭ]
           * ਕੋਲ਼: [k o ɭ]
     ```
   - ```{ipa_cell}
@@ -540,10 +540,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 799
         * Examples
-          * ਓਹੀ: [o ɦ i]
-          * ਲੈਂਦੀ: [l ɛ̃ d̪ i]
-          * ਜੀਵਨ: [d͡ʒ i ʋ ə n]
-          * ਲੱਗੀ: [l ə ɡː i]
+          * ਦੁਨੀ: [d̪ ʊ n i]
+          * ਇੰਡੀਆ: [ɪ̃ ɖ i ɑ]
+          * ਸੰਗੀਤ: [s ə̃ ɡ i t̪]
+          * ਦਾਦੀ: [d̪ ɑ d̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -556,10 +556,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 125
         * Examples
-          * ਰੂਪੋਸ਼: [ɾ u p o ʃ]
-          * ਰੂਏ: [ɾ u e]
-          * ਦੂਸਰੇ: [d̪ u s ɾ e]
+          * ਸ਼ੁਰੂ: [ʃ ʊ ɾ u]
           * ਕਾਬੂ: [k ɑ b u]
+          * ਕਾਕੂ: [k ɑ k u]
+          * ਚੂਹੇ: [t͡ʃ u ɦ e]
     ```
 * -
   - ```{ipa_cell}
@@ -569,10 +569,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 683
         * Examples
-          * ਕਿਰਾਏ: [k ɪ ɾ ɑ e]
-          * ਪਿੱਠ: [p ɪ ʈː]
-          * ਫਿਰਦਾ: [pʰ ɪ ɾ d̪ ɑ]
-          * ਨੋਚਿਆ: [n o t͡ʃ ɪ ɑ]
+          * ਇਸਦਾ: [ɪ s d̪ ɑ]
+          * ਮਿਸ਼ੇਲ: [m ɪ ʃ e l]
+          * ਵਿਹਲੇ: [ʋ ɪ ɦ l e]
+          * ਸਿੱਧੜ: [s ɪ t̪ː ə ɽ]
     ```
   - ```{ipa_cell}
     ```
@@ -581,10 +581,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 384
         * Examples
-          * ਵਰੁਣ: [ʋ ə ɾ ʊ ɳ]
-          * ਦੁਕਾਨ: [d̪ ʊ k ɑ n]
-          * ਉਹੀ: [ʊ ɦ i]
-          * ਚੁੱਕ: [t͡ʃ ʊ kː]
+          * ਸ਼ੁਰੂ: [ʃ ʊ ɾ u]
+          * ਧੁਰਿ: [t̪ ʊ ɾ ɪ]
+          * ਦੁਨੀ: [d̪ ʊ n i]
+          * ਪੁਲਿਸ: [p ʊ l ɪ s]
     ```
   - ```{ipa_cell}
     ```
@@ -594,10 +594,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 584
         * Examples
-          * ਕਿਰਾਏ: [k ɪ ɾ ɑ e]
-          * ਦੀਵੇ: [d̪ i ʋ e]
-          * ਠੇਕਾ: [ʈʰ e k ɑ]
-          * ਆਪੇ: [ɑ p e]
+          * ਮਿਸ਼ੇਲ: [m ɪ ʃ e l]
+          * ਵਿਹਲੇ: [ʋ ɪ ɦ l e]
+          * ਵੇਸਟ: [ʋ e s ə ʈ]
+          * ਦੇਰ: [d̪ e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -610,10 +610,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 289
         * Examples
-          * ਓਹੀ: [o ɦ i]
-          * ਜਾਣੋ: [d͡ʒ ɑ ɳ o]
-          * ਰੂਪੋਸ਼: [ɾ u p o ʃ]
-          * ਪੀਚੋ: [p i t͡ʃ o]
+          * ਹੋਠੀਂ: [ɦ o ʈʰ ĩ]
+          * ਦੋਸਤ: [d̪ o s ə t̪]
+          * ਕੋਲ: [k o l]
+          * ਸਲੋਟ: [s ə l o ʈ]
     ```
 * -
   - ```{ipa_cell}
@@ -625,10 +625,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 1822
         * Examples
-          * ਅਦਾਲਤ: [ə d̪ ɑ l ə t̪]
-          * ਸਲਾਹ: [s ə l ɑ ɦ]
-          * ਵਰੁਣ: [ʋ ə ɾ ʊ ɳ]
-          * ਸਰਕਾਰ: [s ə ɾ k ɑ ɾ]
+          * ਸਿੱਧੜ: [s ɪ t̪ː ə ɽ]
+          * ਵੇਸਟ: [ʋ e s ə ʈ]
+          * ਦੋਸਤ: [d̪ o s ə t̪]
+          * ਅਕਾਲ: [ə k ɑ l]
     ```
   - ```{ipa_cell}
     ```
@@ -640,10 +640,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 130
         * Examples
-          * ਮੈਥੋਂ: [m ɛ t̪ʰ õ]
-          * ਮੈਨ: [m ɛ n]
-          * ਰੁਪੈ: [ɾ ʊ p ɛ]
-          * ਮੈਚ: [m ɛ t͡ʃ]
+          * ਰੈਣ: [ɾ ɛ ɳ]
+          * ਸੈਲਜ਼: [s ɛ l ə z]
+          * ਪੈਨਸ਼ਨ: [p ɛ n ʃ ə n]
+          * ਬੀਜੈ: [b i d͡ʒ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -656,10 +656,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 57
         * Examples
-          * ਜ਼ੌਹਰ: [z ɔ ɦ ə ɾ]
-          * ਮੌਤਾਂ: [m ɔ t̪ ɑ̃]
-          * ਮੌਸਮ: [m ɔ s ə m]
-          * ਔਰਤਾਂ: [ɔ ɾ t̪ ɑ̃]
+          * ਹੌਲੀ: [ɦ ɔ l i]
+          * ਮੌਕੇ: [m ɔ k e]
+          * ਭਗੌੜੇ: [p ə ɡ ɔ ɽ e]
+          * ਸ਼ੌਕੀਨ: [ʃ ɔ k i n]
     ```
 * -
   - ```{ipa_cell}
@@ -686,10 +686,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 1514
         * Examples
-          * ਅਦਾਲਤ: [ə d̪ ɑ l ə t̪]
-          * ਸਲਾਹ: [s ə l ɑ ɦ]
-          * ਸਰਕਾਰ: [s ə ɾ k ɑ ɾ]
-          * ਬੰਦਾ: [b ə̃ d̪ ɑ]
+          * ਇਸਦਾ: [ɪ s d̪ ɑ]
+          * ਨਾਮ: [n ɑ m]
+          * ਅਕਾਲ: [ə k ɑ l]
+          * ਹੁੰਦਾ: [ɦ ʊ̃ d̪ ɑ]
     ```
 ``````
 
@@ -713,10 +713,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ĩ
         * Occurances: 30
         * Examples
-          * ਨਵੀਂ: [n ə ʋ ĩ]
-          * ਨਜ਼ਰੀਂ: [n ə z ɾ ĩ]
-          * ਦਿਨੀਂ: [d̪ ɪ n ĩ]
-          * ਜੰਮੀਂ: [d͡ʒ ə̃ m ĩ]
+          * ਹੋਠੀਂ: [ɦ o ʈʰ ĩ]
+          * ਜਨਮੀਂ: [d͡ʒ ə n m ĩ]
+          * ਕਰੀਂ: [k ə ɾ ĩ]
+          * ਨੀਂ: [n ĩ]
     ```
   - ```{ipa_cell}
     ```
@@ -730,9 +730,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 30
         * Examples
           * ਇਹਨੂੰ: [ɪ ɦ n ũ]
-          * ਪੂੰਜੀ: [p ũ d͡ʒ i]
-          * ਨੂੰ: [n ũ]
-          * ਤੈਨੂੰ: [t̪ ɛ n ũ]
+          * ਧੂੰਏਂ: [t̪ ũ ẽ]
+          * ਯੂੰ: [j ũ]
+          * ਧੂੰਆਂ: [t̪ ũ ɑ̃]
     ```
 * -
   - ```{ipa_cell}
@@ -742,10 +742,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ̃
         * Occurances: 66
         * Examples
-          * ਚਿੰਤਾ: [t͡ʃ ɪ̃ t̪ ɑ]
-          * ਪਿੰਡ: [p ɪ̃ ɖ]
-          * ਹਿੰਸਾ: [ɦ ɪ̃ s ɑ]
+          * ਇੰਡੀਆ: [ɪ̃ ɖ i ɑ]
           * ਦਿੰਨੇ: [d̪ ɪ̃ n e]
+          * ਜਿੰਦੇ: [d͡ʒ ɪ̃ d̪ e]
+          * ਦਿੰਦੇ: [d̪ ɪ̃ d̪ e]
     ```
   - ```{ipa_cell}
     ```
@@ -754,10 +754,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ̃
         * Occurances: 49
         * Examples
-          * ਆਉਂਦੈ: [ɑ ʊ̃ d̪ ɛ]
+          * ਹੁੰਦਾ: [ɦ ʊ̃ d̪ ɑ]
+          * ਹੁੰਦੇ: [ɦ ʊ̃ d̪ e]
           * ਮੁੰਡਾ: [m ʊ̃ ɖ ɑ]
-          * ਪਹੁੰਚ: [p ə ɦ ʊ̃ t͡ʃ]
-          * ਕਿਉਂ: [k ɪ ʊ̃]
+          * ਆਉਂਦੈ: [ɑ ʊ̃ d̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -767,10 +767,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ẽ
         * Occurances: 19
         * Examples
+          * ਧੂੰਏਂ: [t̪ ũ ẽ]
+          * ਐਵੇਂ: [ɛ ʋ ẽ]
           * ਦੋਵੇਂ: [d̪ o ʋ ẽ]
-          * ਨਵੇਂ: [n ə ʋ ẽ]
-          * ਨੀਵੇਂ: [n i ʋ ẽ]
-          * ਨੌਵੇਂ: [n ɔ ʋ ẽ]
+          * ਜਿਨੇਂ: [d͡ʒ ɪ n ẽ]
     ```
   - ```{ipa_cell}
     ```
@@ -783,10 +783,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * õ
         * Occurances: 40
         * Examples
-          * ਜਦੋਂ: [d͡ʒ ə d̪ õ]
-          * ਮੈਥੋਂ: [m ɛ t̪ʰ õ]
-          * ਕੋਲੋਂ: [k o l õ]
-          * ਕਿਥੋਂ: [k ɪ t̪ʰ õ]
+          * ਤਨੋਂ: [t̪ ə n õ]
+          * ਕਦੋਂ: [k ə d̪ õ]
+          * ਭਲੋਂ: [p ə l õ]
+          * ਉੱਥੋਂ: [ʊ t̪ː õ]
     ```
 * -
   - ```{ipa_cell}
@@ -798,10 +798,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə̃
         * Occurances: 193
         * Examples
-          * ਬੰਦਾ: [b ə̃ d̪ ɑ]
-          * ਜੰਗ: [d͡ʒ ə̃ ɡ]
-          * ਟੰਗਿਆ: [ʈ ə̃ ɡ ɪ ɑ]
-          * ਪੰਜ: [p ə̃ d͡ʒ]
+          * ਸੰਗੀਤ: [s ə̃ ɡ i t̪]
+          * ਗੰਧਲ਼ੇ: [ɡ ə̃ t̪ ə ɭ e]
+          * ਤੁਰੰਤ: [t̪ ʊ ɾ ə̃ t̪]
+          * ਚੰਦਰਾ: [t͡ʃ ə̃ d̪ ə ɾ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -813,10 +813,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ̃
         * Occurances: 30
         * Examples
-          * ਲੈਂਦੀ: [l ɛ̃ d̪ i]
-          * ਮੈਂ: [m ɛ̃]
-          * ਸ਼ੈਂਪੂ: [ʃ ɛ̃ p u]
+          * ਮੈਂਬਰ: [m ɛ̃ b ə ɾ]
           * ਪੈਂਦੀ: [p ɛ̃ d̪ i]
+          * ਲੈਂਦਾ: [l ɛ̃ d̪ ɑ]
+          * ਪੈਂਦਾ: [p ɛ̃ d̪ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -856,9 +856,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ̃
         * Occurances: 413
         * Examples
-          * ਮੌਤਾਂ: [m ɔ t̪ ɑ̃]
+          * ਸੀਮਾਂ: [s i m ɑ̃]
+          * ਸਾਂਝੇ: [s ɑ̃ t͡ʃ e]
+          * ਜਾਂਦੀ: [d͡ʒ ɑ̃ d̪ i]
           * ਭੈਣਾਂ: [p ɛ ɳ ɑ̃]
-          * ਆਵਾਂ: [ɑ ʋ ɑ̃]
-          * ਔਰਤਾਂ: [ɔ ɾ t̪ ɑ̃]
     ```
 ``````

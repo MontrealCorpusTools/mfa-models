@@ -58,20 +58,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1516
         * Examples
-          * smith: [s m ɪ˥ t h]
-          * mazan: [m ə˥ z a˩ ŋ]
-          * gamu: [ɡ aː˥ m ʊ˩]
-          * make: [m ə˩ c eː˥]
+          * muyi: [m uː˥ j iː˥]
+          * motsa: [m oː˥ t s aː˥]
+          * ɗim: [ɗ ɪ˥˦ m]
+          * zamo: [z a˩ m oː˥]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 1703
         * Examples
-          * inci: [ʔ ɪ˥ n tʃ iː˥]
-          * sanda: [s a˩ n d ə˥]
-          * notis: [n oː˥ t ɪ˩ s]
-          * wanda: [w a˩ n d aː˥]
+          * nufin: [n ɪ˥ ɸ ɪ˩ ŋ]
+          * abune: [ʔ a˩ b ʊ˩ n e˥]
+          * hana: [h aː˥ n aː˩]
+          * finai: [ɸ ɪ˩ n aj˥]
     ```
   - ```{ipa_cell}
     ```
@@ -82,20 +82,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 106
         * Examples
-          * yanzi: [j ɛ˥ ɲ z iː˥]
-          * wanki: [w ɛ˥ ɲ c iː˩]
-          * tsiya: [sʼ ɪ˥ ɲ j aː˥]
-          * cinye: [tʃ ɪ˥ ɲ j eː˥]
+          * yanki: [j ɛ˥ ɲ c iː˩]
+          * manya: [m ɛ˥ ɲ j aː˩]
+          * yanyi: [j ɛ˥ ɲ j iː˥]
+          * banki: [b ɛ˥ ɲ c iː˩]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1559
         * Examples
-          * wan: [w a˩ ŋ]
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * ƙin: [cʼ ɪ˥ ŋ]
-          * abin: [ʔ a˩ b ɪ˩ ŋ]
+          * koken: [kʷ oː˥ c eː˥ ŋ]
+          * asham: [ʔ a˥ ʃ a˥ ŋ]
+          * nufin: [n ɪ˥ ɸ ɪ˩ ŋ]
+          * zaton: [z aː˥ t a˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -105,36 +105,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 83
         * Examples
-          * panda: [p a˩ n d aː˥]
-          * pole: [p oː˩ l eː˩]
-          * jeep: [dʒ eː˩ eː˥ p]
-          * spain: [s p ɪ˩ ŋ]
+          * kaf: [k a˥ p]
+          * pasha: [p aː˥ ʃ ə˩]
+          * piper: [p ɪ˩ p eː˥ r]
+          * japan: [dʒ ə˩ p a˥˦ ŋ]
     * voiced
       * b
         * Occurances: 1026
         * Examples
-          * babur: [b aː˩ b ʊ˥ r]
-          * bar: [b a˩ r]
-          * abin: [ʔ a˩ b ɪ˩ ŋ]
-          * baƙon: [b aː˩ kʷʼ oː˥ ŋ]
+          * rabu: [r ə˥ b ʊ˩]
+          * abune: [ʔ a˩ b ʊ˩ n e˥]
+          * babba: [b a˩ b ə˥]
+          * bora: [b oː˥ ɽ aː˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 1276
         * Examples
-          * notis: [n oː˥ t ɪ˩ s]
-          * tuƙa: [t uː˥ kʼ aː˩]
-          * smith: [s m ɪ˥ t h]
-          * sauti: [s aw˥ t iː˩]
+          * motsa: [m oː˥ t s aː˥]
+          * zaton: [z aː˥ t a˥ ŋ]
+          * wauta: [w aw˥ t aː˩]
+          * shat: [ʃ a˥˦ t]
     * voiced
       * d
         * Occurances: 991
         * Examples
-          * sanda: [s a˩ n d ə˥]
-          * fado: [ɸ ə˥ d o˥]
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * wanda: [w a˩ n d aː˥]
+          * gada: [ɡ ə˥ d aː˩]
+          * gode: [ɡʷ oː˥ d e˩]
+          * dama: [d ə˩ m aː˥]
+          * kaidi: [k aj˥ d iː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -145,46 +145,46 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 469
         * Examples
-          * kiɗa: [c ɪ˥ ɗ aː˩]
-          * make: [m ə˩ c eː˥]
-          * roki: [ɽ oː˥ c iː˩]
-          * kika: [c ɪ˥ k aː˩]
+          * koken: [kʷ oː˥ c eː˥ ŋ]
+          * aike: [ʔ aj˥ c eː˥]
+          * akin: [ʔ a˥ c ɪ˥ ŋ]
+          * yanki: [j ɛ˥ ɲ c iː˩]
     * voiced
       * ɟ
         * Occurances: 159
         * Examples
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * dage: [d ə˥ ɟ eː˥]
-          * ragi: [r ə˥ ɟ iː˩]
-          * rige: [ɽ ɪ˥ ɟ e˥]
+          * girma: [ɟ ɪ˩ r m aː˩]
+          * shige: [ʃ ɪ˥ ɟ e˥]
+          * bege: [b a˥ ɟ eː˥]
+          * jibge: [dʒ ɪ˩ b ɟ eː˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 901
         * Examples
-          * kala: [k ə˩ l aː˥]
-          * yakai: [j ɛ˥ k aj˥]
-          * kaita: [k aj˥ t ə˥]
-          * kafar: [k ə˥ ɸ a˩ r]
+          * kaya: [k aː˩ j aː˥]
+          * zaka: [z a˩ k aː˩]
+          * kaidi: [k aj˥ d iː˩]
+          * kaf: [k a˥ p]
     * voiced
       * ɡ
         * Occurances: 359
         * Examples
-          * gamu: [ɡ aː˥ m ʊ˩]
-          * gam: [ɡ a˥˦ ŋ]
-          * loga: [l oː˥ ɡ aː˩]
-          * shiga: [ʃ ɪ˥ ɡ aː˩]
+          * gada: [ɡ ə˥ d aː˩]
+          * naga: [n ə˥ ɡ aː˥]
+          * gazet: [ɡ ə˩ z a˥ t]
+          * gasu: [ɡ ə˩ s ɪ˥]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 910
         * Examples
-          * inci: [ʔ ɪ˥ n tʃ iː˥]
-          * 'za: [ʔ z aː˩]
-          * ice: [ʔ ɪ˥ tʃ eː˩]
-          * abin: [ʔ a˩ b ɪ˩ ŋ]
+          * asham: [ʔ a˥ ʃ a˥ ŋ]
+          * abune: [ʔ a˩ b ʊ˩ n e˥]
+          * usur: [ʔ ʊ˥ s ɪ˩ r]
+          * aike: [ʔ aj˥ c eː˥]
     ```
 * - {submanner}`Implosive`
   - ```{ipa_cell}
@@ -192,9 +192,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɓ
         * Occurances: 67
         * Examples
-          * taɓin: [t ə˩ ɓ ɪ˩ ŋ]
-          * raɓa: [ɽ aː˥ ɓ aː˥]
-          * ɓeran: [ɓ eː˩ r a˩ ŋ]
+          * gaɓar: [ɡ a˥ ɓ a˩ r]
+          * zaɓin: [z aː˥ ɓ ɪ˩ ŋ]
+          * karɓi: [k a˥ r ɓ ɪ˩]
           * ɓurma: [ɓ ʊ˥ ɽ m ə˥]
     ```
   - ```{ipa_cell}
@@ -202,10 +202,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɗ
         * Occurances: 145
         * Examples
-          * kiɗa: [c ɪ˥ ɗ aː˩]
-          * gyaɗa: [ɡʷ j aː˥ ɗ aː˩]
-          * ɗansa: [ɗ a˥ n s ə˩]
-          * raɗau: [r ə˥ ɗ aw˥]
+          * ɗim: [ɗ ɪ˥˦ m]
+          * ɗoyi: [ɗ oː˩ j ɪ˥]
+          * ɗayan: [ɗ ɛ˥ j ŋ]
+          * kwaɗo: [kʷ aː˩ ɗ oː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -227,18 +227,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 475
         * Examples
-          * inci: [ʔ ɪ˥ n tʃ iː˥]
-          * ice: [ʔ ɪ˥ tʃ eː˩]
-          * wacce: [w a˥ tʃ eː˩]
-          * cocin: [kʷ oː˥ tʃ ɪ˩ ŋ]
+          * chaja: [tʃ a˥ dʒ aː˩]
+          * cikon: [tʃ ɪ˥ c ɔ˩ ŋ]
+          * chin: [tʃ ɪ˥ ŋ]
+          * cutar: [tʃ uː˥ t a˩ r]
     * voiced
       * dʒ
         * Occurances: 488
         * Examples
-          * haja: [h aː˥ dʒ aː˩]
-          * jar: [dʒ a˥ r]
-          * jeka: [dʒ eː˩ k aː˩]
-          * jimla: [dʒ ɪ˥ m l aː˩]
+          * jin: [dʒ ɪ˥ ŋ]
+          * rijau: [ɽ ɪ˥ dʒ aw˥]
+          * joan: [dʒ a˩ a˥ ŋ]
+          * jilin: [dʒ ɪ˥ l ɪ˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -256,28 +256,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 1288
         * Examples
-          * sanda: [s a˩ n d ə˥]
-          * notis: [n oː˥ t ɪ˩ s]
-          * smith: [s m ɪ˥ t h]
-          * ƙasar: [kʼ ə˥ s a˩ r]
+          * motsa: [m oː˥ t s aː˥]
+          * wasan: [w ə˥ s a˩ ŋ]
+          * usur: [ʔ ʊ˥ s ɪ˩ r]
+          * nas: [n a˥˦ s]
     * voiced
       * z
         * Occurances: 328
         * Examples
-          * 'za: [ʔ z aː˩]
-          * mazan: [m ə˥ z a˩ ŋ]
-          * baza: [b ə˥ z aː˩]
-          * zata: [z aː˥ t aː˩]
+          * zaton: [z aː˥ t a˥ ŋ]
+          * zamo: [z a˩ m oː˥]
+          * gazet: [ɡ ə˩ z a˥ t]
+          * zaka: [z a˩ k aː˩]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 399
         * Examples
-          * aisha: [ʔ iː˩ ʃ aː˥]
-          * shudi: [ʃ uː˥ d iː˩]
-          * shago: [ʃ ə˥ ɡʷ oː˥]
-          * shiga: [ʃ ɪ˥ ɡ aː˩]
+          * asham: [ʔ a˥ ʃ a˥ ŋ]
+          * shat: [ʃ a˥˦ t]
+          * saleh: [s ə˩ l e˥ ʃ]
+          * toh: [t oː˥ ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -295,10 +295,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * sʼ
         * Occurances: 195
         * Examples
-          * yatsu: [j aː˥ sʼ uː˥]
-          * tsit: [sʼ ɪ˥ t]
-          * tsana: [sʼ ə˥ n ə˥]
-          * hatsi: [h aː˥ sʼ iː˥]
+          * tsai: [sʼ aj˥]
+          * dutse: [d uː˥ sʼ eː˩]
+          * motsi: [m oː˥ sʼ iː˥]
+          * tsaho: [sʼ aː˥ h oː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -316,10 +316,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 630
         * Examples
-          * fado: [ɸ ə˥ d o˥]
-          * kofur: [kʷ oː˥ ɸ ʊ˩ r]
-          * tif: [t ɪ˥˦ ɸ]
-          * kafar: [k ə˥ ɸ a˩ r]
+          * nufin: [n ɪ˥ ɸ ɪ˩ ŋ]
+          * finai: [ɸ ɪ˩ n aj˥]
+          * feda: [ɸ eː˥ d aː˩]
+          * fure: [ɸ ʊ˩ ɽ eː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -336,10 +336,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 655
         * Examples
-          * smith: [s m ɪ˥ t h]
-          * sahun: [s ə˩ h ʊ˩ ŋ]
-          * hasan: [h a˥ s a˩ ŋ]
-          * haja: [h aː˥ dʒ aː˩]
+          * hana: [h aː˥ n aː˩]
+          * harbi: [h a˩ r b iː˥]
+          * hunt: [h ʊ˥ n t]
+          * hua: [h ʊ˥ aː˩]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -347,10 +347,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 831
         * Examples
-          * wan: [w a˩ ŋ]
-          * wacce: [w a˥ tʃ eː˩]
-          * wanda: [w a˩ n d aː˥]
-          * walau: [w ə˩ l aw˩]
+          * wauta: [w aw˥ t aː˩]
+          * wasan: [w ə˥ s a˩ ŋ]
+          * wei: [w eː˥ iː˩]
+          * dawa: [d aː˥ w aː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -363,10 +363,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1044
         * Examples
-          * yolar: [j oː˩ l a˩ r]
-          * gyaɗa: [ɡʷ j aː˥ ɗ aː˩]
-          * yatsu: [j aː˥ sʼ uː˥]
-          * niyan: [n ɪ˥ j ɛ˩ ŋ]
+          * kaya: [k aː˩ j aː˥]
+          * muyi: [m uː˥ j iː˥]
+          * sally: [s a˥ l j]
+          * yanki: [j ɛ˥ ɲ c iː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -384,10 +384,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɽ
         * Occurances: 742
         * Examples
-          * roƙe: [ɽ oː˥ cʼ eː˩]
-          * kurwa: [kʷ ʊ˩ ɽ w aː˥]
-          * taure: [t aw˥ ɽ eː˩]
-          * rena: [ɽ eː˥ n aː˩]
+          * rijau: [ɽ ɪ˥ dʒ aw˥]
+          * bora: [b oː˥ ɽ aː˩]
+          * renon: [ɽ eː˥ n ɔ˩ ŋ]
+          * rabin: [ɽ ə˥ b ɪ˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -403,10 +403,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 1679
         * Examples
-          * yolar: [j oː˩ l a˩ r]
-          * babur: [b aː˩ b ʊ˥ r]
-          * bar: [b a˩ r]
-          * ƙasar: [kʼ ə˥ s a˩ r]
+          * rabu: [r ə˥ b ʊ˩]
+          * usur: [ʔ ʊ˥ s ɪ˩ r]
+          * harbi: [h a˩ r b iː˥]
+          * ragu: [r ə˥ ɡʷ ʊ˩]
     ```
   - ```{ipa_cell}
     ```
@@ -426,10 +426,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 1135
         * Examples
-          * yolar: [j oː˩ l a˩ r]
-          * kala: [k ə˩ l aː˥]
-          * walau: [w ə˩ l aw˩]
-          * wala: [w aː˥ l aː˥]
+          * lam: [l a˥ ŋ]
+          * ila: [ʔ ɪ˥ l aː˩]
+          * latti: [l a˥ t ɪ˥]
+          * dole: [d oː˩ l eː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -465,10 +465,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 1257
         * Examples
-          * shudi: [ʃ uː˥ d iː˩]
-          * inci: [ʔ ɪ˥ n tʃ iː˥]
-          * nuni: [n uː˥ n iː˩]
-          * yinwa: [j iː˥ n w aː˥]
+          * yii: [j ɪ˥˦ iː˩]
+          * muyi: [m uː˥ j iː˥]
+          * wei: [w eː˥ iː˩]
+          * yauki: [j aw˥ c iː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -481,10 +481,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * uː
         * Occurances: 520
         * Examples
-          * yunan: [j uː˩ n a˥˦ ŋ]
-          * yatsu: [j aː˥ sʼ uː˥]
-          * jiu: [dʒ ɪ˩ uː˩]
-          * salou: [s aː˥ l oː˩ uː˩]
+          * surar: [s uː˩ r a˩ r]
+          * dambu: [d a˥ m b uː˥]
+          * sharu: [ʃ ə˩ r uː˥˦]
+          * hula: [h uː˩ l aː˥]
     ```
 * -
   - ```{ipa_cell}
@@ -494,10 +494,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 3012
         * Examples
-          * ice: [ʔ ɪ˥ tʃ eː˩]
-          * tif: [t ɪ˥˦ ɸ]
-          * notis: [n oː˥ t ɪ˩ s]
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
+          * yin: [j ɪ˥˦ ŋ]
+          * ila: [ʔ ɪ˥ l aː˩]
+          * nufin: [n ɪ˥ ɸ ɪ˩ ŋ]
+          * jin: [dʒ ɪ˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -506,10 +506,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 1010
         * Examples
-          * babu: [b aː˩ b ʊ˥]
-          * uwa: [ʔ ʊ˥ w aː˥]
-          * kurma: [kʷ ʊ˥ ɽ m aː˥]
-          * kurwa: [kʷ ʊ˩ ɽ w aː˥]
+          * guba: [ɡʷ ʊ˥ b aː˩]
+          * hunt: [h ʊ˥ n t]
+          * hua: [h ʊ˥ aː˩]
+          * rabu: [r ə˥ b ʊ˩]
     ```
   - ```{ipa_cell}
     ```
@@ -519,17 +519,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 183
         * Examples
-          * kashe: [k ə˥ ʃ e˥]
-          * ƙube: [kʷʼ uː˥ b e˩]
-          * zube: [z ɪ˩ b e˩]
-          * baje: [b ə˥ dʒ e˩]
+          * cije: [tʃ ɪ˥ dʒ e˩]
+          * sef: [s e˥˦ ɸ]
+          * saleh: [s ə˩ l e˥ ʃ]
+          * tire: [t ɪ˩ r e˥]
       * eː
         * Occurances: 869
         * Examples
-          * rena: [ɽ eː˥ n aː˩]
+          * dutse: [d uː˥ sʼ eː˩]
           * el'e: [ʔ ɛ˥ l ʔ eː˥˦]
-          * ice: [ʔ ɪ˥ tʃ eː˩]
-          * roƙe: [ɽ oː˥ cʼ eː˩]
+          * koken: [kʷ oː˥ c eː˥ ŋ]
+          * nema: [n eː˥ m aː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -542,17 +542,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 88
         * Examples
-          * fado: [ɸ ə˥ d o˥]
-          * kogo: [kʷ oː˥ ɡʷ o˥]
-          * tuo: [t uː˥ o˥]
+          * ango: [ʔ a˥ ŋ ɡʷ o˩]
           * tsoro: [sʼ oː˥ r o˩]
+          * kwaɗo: [kʷ ə˥ ɗ o˩]
+          * rio: [ɽ ɪ˥ o˥]
       * oː
         * Occurances: 950
         * Examples
-          * koyo: [kʷ oː˩ j oː˥˦]
-          * boyi: [b oː˩ j ɪ˥]
-          * roƙe: [ɽ oː˥ cʼ eː˩]
-          * baƙon: [b aː˩ kʷʼ oː˥ ŋ]
+          * fijo: [ɸ ɪ˩ dʒ oː˥˦]
+          * dole: [d oː˩ l eː˩]
+          * motsa: [m oː˥ t s aː˥]
+          * gode: [ɡʷ oː˥ d e˩]
     ```
 * -
   - ```{ipa_cell}
@@ -564,10 +564,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 2453
         * Examples
-          * ƙasar: [kʼ ə˥ s a˩ r]
-          * sahun: [s ə˩ h ʊ˩ ŋ]
-          * walau: [w ə˩ l aw˩]
-          * mazan: [m ə˥ z a˩ ŋ]
+          * gada: [ɡ ə˩ d aː˥]
+          * gasu: [ɡ ə˩ s ɪ˥]
+          * dama: [d ə˩ m aː˥]
+          * wasan: [w ə˥ s a˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -579,9 +579,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 454
         * Examples
+          * erhu: [ʔ ɛ˥ ɽ h uː˩]
+          * wen: [w ɛ˥ ŋ]
           * yadda: [j ɛ˥˦ d ə˩]
-          * yakai: [j ɛ˥ k aj˥]
-          * yamai: [j ɛ˩ m aj˩]
           * niyan: [n ɪ˥ j ɛ˩ ŋ]
     ```
   - ```{ipa_cell}
@@ -595,9 +595,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 55
         * Examples
-          * aro: [ʔ a˥ r ɔ˩]
-          * kairo: [k aj˥ r ɔ˩]
-          * dokta: [d ɔ˥ k t aː˩]
+          * renon: [ɽ eː˥ n ɔ˩ ŋ]
+          * union: [ʔ ʊ˥ n ɪ˥ ɔ˩ ŋ]
+          * dokar: [d ɔ˥ k a˩ r]
           * sol: [s ɔ˥ l]
     ```
 * -
@@ -621,17 +621,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 2650
         * Examples
-          * gidan: [ɟ ɪ˩ d a˥˦ ŋ]
-          * ƙwan: [kʷʼ a˥˦ ŋ]
-          * ɗansa: [ɗ a˥ n s ə˩]
-          * alal: [ʔ a˩ l a˥˦ l]
+          * abune: [ʔ a˩ b ʊ˩ n e˥]
+          * wasan: [w ə˥ s a˩ ŋ]
+          * bas: [b a˥˦ s]
+          * babba: [b a˩ b ə˥]
       * aː
         * Occurances: 3783
         * Examples
           * abada: [ʔ a˩ b ə˩ d aː˥˦]
-          * saku: [s aː˥ kʷ ʊ˩]
-          * asuba: [ʔ a˩ s ɪ˩ b aː˥˦]
-          * babur: [b aː˩ b ʊ˥ r]
+          * iraƙi: [ʔ ɪ˩ r aː˥˦ cʼ ɪ˩]
+          * gada: [ɡ ə˩ d aː˥]
+          * kaya: [k aː˩ j aː˥]
     ```
   - ```{ipa_cell}
     ```

@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#swedish)
 - **Number of words:** `59,521`
 - **Phones:** `a a˥˧ a˥˩ a˧˩ a˩ b d̪ eː eː˥˧ eː˥˩ eː˧˩ eː˩ f h iː iː˥˧ iː˥˩ iː˧˩ j k kʰ l m n̪ oː oː˥˧ oː˥˩ oː˧˩ oː˩ p pʰ r s̪ t̪ t̪ʰ uː uː˥˧ uː˥˩ uː˧˩ yː yː˥˧ yː˥˩ yː˧˩ yː˩ øː øː˥˧ øː˥˩ øː˧˩ øː˩ ŋ œ œ˥˩ œ˧˩ ɑː ɑː˥˧ ɑː˥˩ ɑː˧˩ ɑː˩ ɔ ɔ˥˧ ɔ˥˩ ɔ˧˩ ɔ˩ ɕ ɖ ɛ ɛː ɛː˥˧ ɛː˥˩ ɛː˧˩ ɛ˥˧ ɛ˥˩ ɛ˧˩ ɛ˩ ɡ ɧ ɪ ɪ˥˧ ɪ˥˩ ɪ˧˩ ɪ˩ ɭ ɳ ɵ ɵ˥˧ ɵ˥˩ ɵ˧˩ ɵ˩ ʂ ʈ ʈʰ ʉː ʉː˥˧ ʉː˥˩ ʉː˧˩ ʊ ʊ˥˩ ʊ˧˩ ʊ˩ ʋ ʏ ʏ˥˧ ʏ˥˩ ʏ˧˩ ʏ˩`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/swedish/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/swedish/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

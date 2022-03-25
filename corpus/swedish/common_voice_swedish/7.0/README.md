@@ -19,11 +19,11 @@
 - **Citation:**
 ```bibtex
 @article{ardila2019common,
-	title={Common voice: A massively-multilingual speech corpus},
-	author={Ardila, Rosana and Branson, Megan and Davis, Kelly and Henretty, Michael and Kohler, Michael and
+	title = {Common voice: A massively-multilingual speech corpus},
+	author = {Ardila, Rosana and Branson, Megan and Davis, Kelly and Henretty, Michael and Kohler, Michael and
 		Meyer, Josh and Morais, Reuben and Saunders, Lindsay and Tyers, Francis M and Weber, Gregor},
-	journal={arXiv preprint arXiv:1912.06670},
-	year={2019}
+	journal = {arXiv preprint arXiv:1912.06670},
+	year = {2019}
 }
 
 ```

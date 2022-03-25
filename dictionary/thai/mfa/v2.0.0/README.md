@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#thai)
 - **Number of words:** `29,860`
 - **Phones:** `aː˥˩ aː˦˥ aː˧ aː˨˩ aː˩˩˦ a˥˩ a˦˥ a˧ a˨˩ a˩˩˦ b d eː˥˩ eː˦˥ eː˧ eː˨˩ eː˩˩˦ e˥˩ e˦˥ e˧ e˨˩ e˩˩˦ f h ia˥˩ ia˦˥ ia˧ ia˨˩ ia˩˩˦ iː˥˩ iː˦˥ iː˧ iː˨˩ iː˩˩˦ i˥˩ i˦˥ i˧ i˨˩ i˩˩˦ j k kʰ k̚ l m n oː˥˩ oː˦˥ oː˧ oː˨˩ oː˩˩˦ o˥˩ o˦˥ o˧ o˨˩ o˩˩˦ p pʰ p̚ r s t tɕ tɕʰ tʰ t̚ ua˥˩ ua˦˥ ua˧ ua˨˩ ua˩˩˦ uː˥˩ uː˦˥ uː˧ uː˨˩ uː˩˩˦ u˥˩ u˦˥ u˧ u˨˩ u˩˩˦ w ŋ ɔː˥˩ ɔː˦˥ ɔː˧ ɔː˨˩ ɔː˩˩˦ ɔ˥˩ ɔ˦˥ ɔ˧ ɔ˨˩ ɔ˩˩˦ ɛː˥˩ ɛː˦˥ ɛː˧ ɛː˨˩ ɛː˩˩˦ ɛ˥˩ ɛ˦˥ ɛ˧ ɛ˨˩ ɛ˩˩˦ ɤː˥˩ ɤː˦˥ ɤː˧ ɤː˨˩ ɤː˩˩˦ ɤ˥˩ ɤ˦˥ ɤ˧ ɤ˨˩ ɤ˩˩˦ ɯa˥˩ ɯa˦˥ ɯa˧ ɯa˨˩ ɯa˩˩˦ ɯː˥˩ ɯː˦˥ ɯː˧ ɯː˨˩ ɯː˩˩˦ ɯ˥˩ ɯ˦˥ ɯ˧ ɯ˨˩ ɯ˩˩˦ ʔ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/thai/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/thai/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

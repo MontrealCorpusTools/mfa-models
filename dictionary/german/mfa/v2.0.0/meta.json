@@ -3,7 +3,7 @@
     "language": "German",
     "dialect": "",
     "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
-    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/MFA/v2.0.0/LICENSE)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/german/mfa/v2.0.0/LICENSE)",
     "license": "CC BY 4.0",
     "phone_set": "MFA",
     "phones": [

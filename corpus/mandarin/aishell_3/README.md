@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @inproceedings{AISHELL-3_2020,
-	title={AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines},
-	author={Yao Shi, Hui Bu, Xin Xu, Shaoji Zhang, Ming Li},
-	year={2015},
-	url={https://arxiv.org/abs/2010.11567}
+	title = {AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines},
+	author = {Yao Shi, Hui Bu, Xin Xu, Shaoji Zhang, Ming Li},
+	year = {2015},
+	url = {https://arxiv.org/abs/2010.11567}
 }
 ```
 

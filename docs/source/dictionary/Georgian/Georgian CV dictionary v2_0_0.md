@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4791
         * Examples
-          * რემის: [ɾ ɛ m i s]
-          * მძიმე: [m dz i m ɛ]
-          * რომის: [ɾ ɔ m i s]
-          * ბრომი: [b ɾ ɔ m i]
+          * მოკლა: [m ɔ kʼ l ɑ]
+          * მინის: [m i n i s]
+          * ექიმი: [ɛ kʰ i m i]
+          * შაჰმა: [ʃ ɑ h m ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 4905
         * Examples
-          * ნიშის: [n i ʃ i s]
-          * რონის: [ɾ ɔ n i s]
-          * კანი: [kʼ ɑ n i]
-          * ხანის: [x ɑ n i s]
+          * ვანთა: [v ɑ n tʰ ɑ]
+          * მინის: [m i n i s]
+          * ელენე: [ɛ l ɛ n ɛ]
+          * უკანა: [u kʼ ɑ n ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -84,10 +84,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * b
         * Occurances: 4568
         * Examples
-          * ბრომი: [b ɾ ɔ m i]
-          * ბონოს: [b ɔ n ɔ s]
+          * არუბა: [ɑ ɾ u b ɑ]
+          * ხეები: [x ɛ ɛ b i]
           * კლუბ: [kʼ l u b]
-          * ბობ: [b ɔ b]
+          * ბასზე: [b ɑ s z ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -96,10 +96,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * d
         * Occurances: 3647
         * Examples
-          * ავად: [ɑ v ɑ d]
-          * მოხდა: [m ɔ x d ɑ]
-          * დიდმა: [d i d m ɑ]
-          * ლორდ: [l ɔ ɾ d]
+          * დათვი: [d ɑ tʰ v i]
+          * შედის: [ʃ ɛ d i s]
+          * სად: [s ɑ d]
+          * ცდა: [ts d ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -108,10 +108,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɡ
         * Occurances: 2265
         * Examples
-          * გოგის: [ɡ ɔ ɡ i s]
-          * გაგრა: [ɡ ɑ ɡ ɾ ɑ]
-          * გრილი: [ɡ ɾ i l i]
-          * იენგ: [i ɛ n ɡ]
+          * გაიღო: [ɡ ɑ i ɣ ɔ]
+          * გორას: [ɡ ɔ ɾ ɑ s]
+          * ზოგ: [z ɔ ɡ]
+          * გაყრა: [ɡ ɑ qʼ ɾ ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -127,36 +127,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 1167
         * Examples
-          * ცას: [ts ɑ s]
-          * ფიცის: [pʰ i ts i s]
-          * ცალი: [ts ɑ l i]
-          * ცხენს: [ts x ɛ n s]
+          * ციყვი: [ts i qʼ v i]
+          * ცდა: [ts d ɑ]
+          * რითიც: [ɾ i tʰ i ts]
+          * მისცა: [m i s ts ɑ]
     * voiced
       * dz
         * Occurances: 380
         * Examples
-          * მძიმე: [m dz i m ɛ]
-          * ღერძი: [ɣ ɛ ɾ dz i]
-          * საძმო: [s ɑ dz m ɔ]
-          * ქედზე: [kʰ ɛ dz ɛ]
+          * კერძო: [kʼ ɛ ɾ dz ɔ]
+          * ძალით: [dz ɑ l i tʰ]
+          * ძეგლი: [dz ɛ ɡ l i]
+          * ძალის: [dz ɑ l i s]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 421
         * Examples
-          * ჩემს: [tʃ ɛ m s]
-          * ჩვენი: [tʃ v ɛ n i]
-          * ქუჩის: [kʰ u tʃ i s]
-          * ჩიოდა: [tʃ i ɔ d ɑ]
+          * ჩარლზ: [tʃ ɑ ɾ l z]
+          * კიჩეს: [kʼ i tʃ ɛ s]
+          * ჩადის: [tʃ ɑ d i s]
+          * ჩანს: [tʃ ɑ n s]
     * voiced
       * dʒ
         * Occurances: 265
         * Examples
-          * ჯონ: [dʒ ɔ n]
-          * ოჯახი: [ɔ dʒ ɑ x i]
-          * ჯაკო: [dʒ ɑ kʼ ɔ]
-          * ჯიზის: [dʒ i z i s]
+          * ლურჯ: [l u ɾ dʒ]
+          * ჯერ: [dʒ ɛ ɾ]
+          * მსაჯი: [m s ɑ dʒ i]
+          * ჯემალ: [dʒ ɛ m ɑ l]
     ```
   - ```{ipa_cell}
     ```
@@ -174,36 +174,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 7500
         * Examples
-          * ნიშის: [n i ʃ i s]
-          * რემის: [ɾ ɛ m i s]
-          * რონის: [ɾ ɔ n i s]
-          * სკოლა: [s kʼ ɔ l ɑ]
+          * შედის: [ʃ ɛ d i s]
+          * მინის: [m i n i s]
+          * პერუს: [pʼ ɛ ɾ u s]
+          * ფილმს: [pʰ i l m s]
     * voiced
       * z
         * Occurances: 1067
         * Examples
-          * შენზე: [ʃ ɛ n z ɛ]
-          * ხაზი: [x ɑ z i]
-          * ზღვის: [z ɣ v i s]
-          * მათზე: [m ɑ tʰ z ɛ]
+          * აზრთა: [ɑ z ɾ tʰ ɑ]
+          * ჩარლზ: [tʃ ɑ ɾ l z]
+          * ფაზის: [pʰ ɑ z i s]
+          * ბასზე: [b ɑ s z ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1769
         * Examples
-          * ნიშის: [n i ʃ i s]
-          * პირში: [pʼ i ɾ ʃ i]
-          * ფერში: [pʰ ɛ ɾ ʃ i]
-          * ქვიშა: [kʰ v i ʃ ɑ]
+          * შედის: [ʃ ɛ d i s]
+          * შაჰმა: [ʃ ɑ h m ɑ]
+          * მუშა: [m u ʃ ɑ]
+          * წრუში: [tsʼ ɾ u ʃ i]
     * voiced
       * ʒ
         * Occurances: 96
         * Examples
-          * ჟორჟ: [ʒ ɔ ɾ ʒ]
-          * ვაჟთა: [v ɑ ʒ tʰ ɑ]
           * ანჟი: [ɑ n ʒ i]
-          * ჟლეტა: [ʒ l ɛ tʼ ɑ]
+          * ვაჟის: [v ɑ ʒ i s]
+          * ჟანრი: [ʒ ɑ n ɾ i]
+          * ჟანა: [ʒ ɑ n ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -219,10 +219,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * v
         * Occurances: 3222
         * Examples
-          * ავად: [ɑ v ɑ d]
-          * აქვთ: [ɑ kʰ v tʰ]
-          * ვარნა: [v ɑ ɾ n ɑ]
-          * ქვიშა: [kʰ v i ʃ ɑ]
+          * ვანთა: [v ɑ n tʰ ɑ]
+          * დათვი: [d ɑ tʰ v i]
+          * ციყვი: [ts i qʼ v i]
+          * უწევს: [u tsʼ ɛ v s]
     ```
   - ```{ipa_cell}
     ```
@@ -237,10 +237,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 179
         * Examples
-          * იოჰან: [i ɔ h ɑ n]
-          * ჰაქი: [h ɑ kʰ i]
-          * აჰმეთ: [ɑ h m ɛ tʰ]
+          * შაჰმა: [ʃ ɑ h m ɑ]
           * ჰანტ: [h ɑ n tʼ]
+          * ჰყავთ: [h qʼ ɑ v tʰ]
+          * ჰაერი: [h ɑ ɛ ɾ i]
     ```
 * - {manner}`Tap`
   - ```{ipa_cell}
@@ -252,10 +252,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 6377
         * Examples
-          * კარლო: [kʼ ɑ ɾ l ɔ]
+          * არუბა: [ɑ ɾ u b ɑ]
+          * პერუს: [pʼ ɛ ɾ u s]
+          * როტას: [ɾ ɔ tʼ ɑ s]
           * ღერო: [ɣ ɛ ɾ ɔ]
-          * რემის: [ɾ ɛ m i s]
-          * რონის: [ɾ ɔ n i s]
     ```
   - ```{ipa_cell}
     ```
@@ -275,10 +275,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 5049
         * Examples
-          * კარლო: [kʼ ɑ ɾ l ɔ]
-          * სკოლა: [s kʼ ɔ l ɑ]
-          * ფულის: [pʰ u l i s]
-          * ლომის: [l ɔ m i s]
+          * მოკლა: [m ɔ kʼ l ɑ]
+          * ელენე: [ɛ l ɛ n ɛ]
+          * თლილი: [tʰ l i l i]
+          * ფილმს: [pʰ i l m s]
     ```
   - ```{ipa_cell}
     ```
@@ -312,10 +312,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 13394
         * Examples
-          * ნიშის: [n i ʃ i s]
-          * რემის: [ɾ ɛ m i s]
-          * რონის: [ɾ ɔ n i s]
-          * მძიმე: [m dz i m ɛ]
+          * დათვი: [d ɑ tʰ v i]
+          * შედის: [ʃ ɛ d i s]
+          * მინის: [m i n i s]
+          * ციყვი: [ts i qʼ v i]
     ```
   - ```{ipa_cell}
     ```
@@ -328,10 +328,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 3340
         * Examples
-          * პურს: [pʼ u ɾ s]
-          * ფულის: [pʰ u l i s]
-          * რუკა: [ɾ u kʼ ɑ]
-          * ლუი: [l u i]
+          * არუბა: [ɑ ɾ u b ɑ]
+          * პერუს: [pʼ ɛ ɾ u s]
+          * მუშა: [m u ʃ ɑ]
+          * უკანა: [u kʼ ɑ n ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -372,10 +372,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 9885
         * Examples
-          * ღერო: [ɣ ɛ ɾ ɔ]
-          * რემის: [ɾ ɛ m i s]
-          * მძიმე: [m dz i m ɛ]
-          * ოპერა: [ɔ pʼ ɛ ɾ ɑ]
+          * შედის: [ʃ ɛ d i s]
+          * პერუს: [pʼ ɛ ɾ u s]
+          * ექიმი: [ɛ kʰ i m i]
+          * ელენე: [ɛ l ɛ n ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -388,10 +388,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 5587
         * Examples
-          * კარლო: [kʼ ɑ ɾ l ɔ]
+          * მოკლა: [m ɔ kʼ l ɑ]
+          * როტას: [ɾ ɔ tʼ ɑ s]
           * ღერო: [ɣ ɛ ɾ ɔ]
-          * რონის: [ɾ ɔ n i s]
-          * სკოლა: [s kʼ ɔ l ɑ]
+          * ფოტო: [pʰ ɔ tʼ ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -418,9 +418,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 14642
         * Examples
-          * კარლო: [kʼ ɑ ɾ l ɔ]
-          * სკოლა: [s kʼ ɔ l ɑ]
-          * ოპერა: [ɔ pʼ ɛ ɾ ɑ]
-          * კანი: [kʼ ɑ n i]
+          * ვანთა: [v ɑ n tʰ ɑ]
+          * არუბა: [ɑ ɾ u b ɑ]
+          * დათვი: [d ɑ tʰ v i]
+          * მოკლა: [m ɔ kʼ l ɑ]
     ```
 ``````

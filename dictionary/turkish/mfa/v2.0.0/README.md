@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#turkish)
 - **Number of words:** `43,305`
 - **Phones:** `a aː b bː c cː dʒ dʒː d̪ d̪ː e eː f fː h hː i iː j jː k kː m mː n̪ n̪ː o oː p pː s̪ s̪ː tʃ tʃː t̪ t̪ː u uː v vː y yː z̪ z̪ː ç çː ø øː ŋ œ ɛ ɟ ɡ ɡː ɨ ɪ ɪː ɫ ɫː ɯ ɯː ɰ ɲ ɾ ɾː ʃ ʃː ʊ ʎ ʎː ʏ ʒ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/turkish/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/turkish/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

@@ -58,10 +58,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 9333
         * Examples
-          * matej: [m a˨˦ t̪ eː j]
-          * šema: [ʂ eː˨˦ m a]
-          * mio: [m i˦˨ o]
-          * jama: [j a˦˨ m a]
+          * molim: [m o˨˦ l iː m]
+          * meh: [m eː˦˨ x]
+          * jelom: [j eː˨˦ l o m]
+          * jamci: [j a˦˨ m t̪s̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -72,10 +72,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 20674
         * Examples
-          * neće: [n eː˦˨ tɕ eː]
-          * koban: [k oː˦˨ b a n]
-          * nužni: [n u˦˨ ʐ n iː]
-          * urban: [u˦˨ r b aː n]
+          * ondje: [oː˨˦ n d̪ j e]
+          * netko: [n e˦˨ t̪ k o]
+          * hučan: [x uː˨˦ tʂ a n]
+          * ranim: [r a˦˨ n i m]
     ```
   - ```{ipa_cell}
     ```
@@ -84,10 +84,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 2371
         * Examples
-          * munja: [m uː˨˦ ɲ a]
-          * sinju: [s̪ iː˦˨ ɲ u]
-          * sunji: [s̪ u˨˦ ɲ iː]
-          * donju: [d̪ oː˦˨ ɲ u]
+          * njen: [ɲ eː˦˨ n]
+          * sanja: [s̪ a˦˨ ɲ a]
+          * njene: [ɲ e˨˦ n e]
+          * danju: [d̪ aː˨˦ ɲ u]
     ```
   - ```{ipa_cell}
     ```
@@ -97,18 +97,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 10522
         * Examples
-          * špigl: [ʂ p iː˨˦ ɡ l]
-          * pun: [p u˦˨ n]
-          * upute: [u p uː˨˦ t̪ e]
-          * panda: [p aː˨˦ n d̪ a]
+          * trupa: [t̪ r u˦˨ p a]
+          * kupa: [k u˦˨ p a]
+          * šapcu: [ʂ a˦˨ p t̪s̪ u]
+          * ponor: [p o˨˦ n o r]
     * voiced
       * b
         * Occurances: 5318
         * Examples
-          * buka: [b u˦˨ k a]
-          * buća: [b u˦˨ tɕ a]
-          * koban: [k oː˦˨ b a n]
-          * urban: [u˦˨ r b aː n]
+          * beteg: [b e˦˨ t̪ e ɡ]
+          * hljeb: [x ʎ e˦˨ b]
+          * ubog: [u˦˨ b o ɡ]
+          * debeo: [d̪ e˨˦ b e o]
     ```
   - ```{ipa_cell}
     ```
@@ -117,18 +117,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 20370
         * Examples
-          * matej: [m a˨˦ t̪ eː j]
-          * star: [s̪ t̪ a˦˨ r]
-          * karte: [k a˨˦ r t̪ e]
-          * upute: [u p uː˨˦ t̪ e]
+          * netko: [n e˦˨ t̪ k o]
+          * beteg: [b e˦˨ t̪ e ɡ]
+          * trupa: [t̪ r u˦˨ p a]
+          * etika: [e˨˦ t̪ i k a]
     * voiced
       * d̪
         * Occurances: 8678
         * Examples
-          * dovde: [d̪ oː˨˦ v d̪ eː]
-          * doza: [d̪ oː˨˦ z̪ a]
-          * panda: [p aː˨˦ n d̪ a]
-          * dim: [d̪ i˦˨ m]
+          * gradu: [ɡ r a˨˦ d̪ u]
+          * ondje: [oː˨˦ n d̪ j e]
+          * sred: [s̪ r e˦˨ d̪]
+          * debeo: [d̪ e˨˦ b e o]
     ```
   - ```{ipa_cell}
     ```
@@ -141,18 +141,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 12670
         * Examples
-          * buka: [b u˦˨ k a]
-          * koban: [k oː˦˨ b a n]
-          * krf: [k r̩˦˨ f]
-          * fokus: [f oː˨˦ k u s̪]
+          * netko: [n e˦˨ t̪ k o]
+          * čelik: [tʂ e˨˦ l i k]
+          * klas: [k l aː˦˨ s̪]
+          * kvaka: [k v a˦˨ k a]
     * voiced
       * ɡ
         * Occurances: 4907
         * Examples
-          * špigl: [ʂ p iː˨˦ ɡ l]
-          * svega: [s̪ v e˦˨ ɡ a]
-          * tezga: [t̪ e˨˦ z̪ ɡ a]
-          * našeg: [n a˦˨ ʂ e ɡ]
+          * gradu: [ɡ r a˨˦ d̪ u]
+          * gašić: [ɡ a˦˨ ʂ i tɕ]
+          * beteg: [b e˦˨ t̪ e ɡ]
+          * gluh: [ɡ l uː˦˨ x]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -164,10 +164,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪s̪
         * Occurances: 4150
         * Examples
-          * ulice: [u˦˨ l i t̪s̪ eː]
-          * tuce: [t̪ u˨˦ t̪s̪ e]
-          * venac: [v eː˨˦ n a t̪s̪]
-          * adac: [a˨˦ d̪ a t̪s̪]
+          * jamci: [j a˦˨ m t̪s̪ i]
+          * šapcu: [ʂ a˦˨ p t̪s̪ u]
+          * cluba: [t̪s̪ l u b a]
+          * tukac: [t̪ uː˨˦ k a t̪s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -178,18 +178,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 1828
         * Examples
-          * buća: [b u˦˨ tɕ a]
-          * neće: [n eː˦˨ tɕ eː]
-          * iseći: [i˨˦ s̪ e tɕ i]
-          * smeće: [s̪ m e˨˦ tɕ e]
+          * gašić: [ɡ a˦˨ ʂ i tɕ]
+          * ušće: [uː˦˨ ɕ tɕ e]
+          * šećer: [ʂ e˨˦ tɕ e r]
+          * umaći: [u˨˦ m a tɕ i]
     * voiced
       * dʑ
         * Occurances: 687
         * Examples
-          * ođe: [oː˨˦ dʑ e]
-          * riđ: [r iː˦˨ dʑ]
-          * ovđe: [oː˨˦ v dʑ e]
-          * čađav: [tʂ a˦˨ dʑ a v]
+          * đurin: [dʑ u˨˦ r iː n]
+          * dođe: [d̪ oː˨˦ dʑ e]
+          * niđe: [n i˦˨ dʑ e]
+          * đever: [dʑ e˦˨ v e r]
     ```
   - ```{ipa_cell}
     ```
@@ -203,18 +203,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s̪
         * Occurances: 14671
         * Examples
-          * sol: [s̪ oː˦˨ l]
-          * star: [s̪ t̪ a˦˨ r]
-          * svega: [s̪ v e˦˨ ɡ a]
-          * sava: [s̪ aː˦˨ v a]
+          * klas: [k l aː˦˨ s̪]
+          * sred: [s̪ r e˦˨ d̪]
+          * svoju: [s̪ v o j u]
+          * sušak: [s̪ uː˦˨ ʂ a k]
     * voiced
       * z̪
         * Occurances: 6062
         * Examples
-          * doza: [d̪ oː˨˦ z̪ a]
-          * verz: [v e˦˨ r z̪]
-          * črez: [tʂ r e˦˨ z̪]
-          * tezga: [t̪ e˨˦ z̪ ɡ a]
+          * kozar: [k o˨˦ z̪ aː r]
+          * ćumez: [tɕ u˨˦ m e z̪]
+          * uvoza: [uː˨˦ v o z̪ a]
+          * zvale: [z̪ v aː˨˦ l e]
     ```
   - ```{ipa_cell}
     ```
@@ -223,28 +223,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʂ
         * Occurances: 3471
         * Examples
-          * špigl: [ʂ p iː˨˦ ɡ l]
-          * šema: [ʂ eː˨˦ m a]
-          * višu: [v i˦˨ ʂ u]
-          * šina: [ʂ i˦˨ n a]
+          * gašić: [ɡ a˦˨ ʂ i tɕ]
+          * vrša: [v r̩˦˨ ʂ a]
+          * šećer: [ʂ e˨˦ tɕ e r]
+          * šapcu: [ʂ a˦˨ p t̪s̪ u]
     * voiced
       * ʐ
         * Occurances: 1782
         * Examples
-          * nužni: [n u˦˨ ʐ n iː]
-          * živom: [ʐ i˦˨ v oː m]
-          * želi: [ʐ e˨˦ l i]
-          * nužan: [n u˦˨ ʐ a n]
+          * bježe: [b j e˨˦ ʐ e]
+          * dažd: [d̪ a˦˨ ʐ d̪]
+          * važne: [v aː˨˦ ʐ n e]
+          * svež: [s̪ v e˦˨ ʐ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 395
         * Examples
-          * pasji: [p a˦˨ ɕ i]
-          * śesti: [ɕ e˦˨ s̪ t̪ i]
-          * trsje: [t̪ r̩ː˦˨ ɕ e]
           * ušće: [uː˦˨ ɕ tɕ e]
+          * sjeme: [ɕ e˦˨ m e]
+          * sijed: [ɕ eː˦˨ d̪]
+          * sjeta: [ɕ e˦˨ t̪ a]
     * voiced
       * ʑ
         * Occurances: 55
@@ -263,18 +263,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1314
         * Examples
-          * krf: [k r̩˦˨ f]
-          * fokus: [f oː˨˦ k u s̪]
-          * lauf: [l a˨˦ u f]
-          * sef: [s̪ e˦˨ f]
+          * foka: [f o˦˨ k a]
+          * fajda: [f a˨˦ j d̪ a]
+          * selfi: [s̪ e˨˦ l f iː]
+          * fjord: [f j o˦˨ r d̪]
     * voiced
       * v
         * Occurances: 11740
         * Examples
-          * dovde: [d̪ oː˨˦ v d̪ eː]
-          * svega: [s̪ v e˦˨ ɡ a]
-          * sava: [s̪ aː˦˨ v a]
-          * uvo: [u˦˨ v o]
+          * vrša: [v r̩˦˨ ʂ a]
+          * svoju: [s̪ v o j u]
+          * čuva: [tʂ u˨˦ v a]
+          * kvaka: [k v a˦˨ k a]
     ```
   - ```{ipa_cell}
     ```
@@ -302,10 +302,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 8108
         * Examples
-          * matej: [m a˨˦ t̪ eː j]
-          * jama: [j a˦˨ m a]
-          * pjeti: [p j e˦˨ t̪ i]
-          * tja: [t̪ j a]
+          * ondje: [oː˨˦ n d̪ j e]
+          * jelom: [j eː˨˦ l o m]
+          * svoju: [s̪ v o j u]
+          * jamci: [j a˦˨ m t̪s̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -321,28 +321,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 19425
         * Examples
-          * star: [s̪ t̪ a˦˨ r]
-          * urban: [u˦˨ r b aː n]
-          * ubir: [u˨˦ b i r]
-          * karte: [k a˨˦ r t̪ e]
+          * gradu: [ɡ r a˨˦ d̪ u]
+          * trupa: [t̪ r u˦˨ p a]
+          * sred: [s̪ r e˦˨ d̪]
+          * šećer: [ʂ e˨˦ tɕ e r]
       * rː
         * Occurances: 32
         * Examples
           * ubrzo: [u˦˨ b rː z̪ o]
       * r̩
-        * Occurances: 322
+        * Occurances: 555
         * Examples
-          * krku: [k r̩˨˦ k u]
-          * zrnat: [z̪ r̩˨˦ n a t̪]
-          * vrha: [v r̩˨˦ x a]
-          * prvog: [p r̩˨˦ v o ɡ]
+          * pršut: [p r̩˨˦ ʂ u t̪]
+          * zbrka: [z̪ b r̩˦˨ k a]
+          * mrkov: [m r̩˨˦ k o v]
+          * prkos: [p r̩˨˦ k o s̪]
       * r̩ː
         * Occurances: 169
         * Examples
-          * grd: [ɡ r̩ː˦˨ d̪]
-          * skrbi: [s̪ k r̩ː˨˦ b i]
-          * tvrd: [t̪ v r̩ː˦˨ d̪]
-          * trsje: [t̪ r̩ː˦˨ ɕ e]
+          * drvni: [d̪ r̩ː˦˨ v n iː]
+          * krmak: [k r̩ː˨˦ m a k]
+          * skrb: [s̪ k r̩ː˦˨ b]
+          * grdan: [ɡ r̩ː˦˨ d̪ a n]
     ```
   - ```{ipa_cell}
     ```
@@ -362,10 +362,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 10376
         * Examples
-          * špigl: [ʂ p iː˨˦ ɡ l]
-          * ulice: [u˦˨ l i t̪s̪ eː]
-          * sol: [s̪ oː˦˨ l]
-          * imela: [i m e˨˦ l a]
+          * čelik: [tʂ e˨˦ l i k]
+          * klas: [k l aː˦˨ s̪]
+          * molim: [m o˨˦ l iː m]
+          * jelom: [j eː˨˦ l o m]
     ```
   - ```{ipa_cell}
     ```
@@ -374,10 +374,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 2460
         * Examples
-          * ljeta: [ʎ e˦˨ t̪ a]
-          * šljem: [ʂ ʎ e˦˨ m]
-          * bolje: [b o˦˨ ʎ eː]
-          * ljude: [ʎ u˨˦ d̪ e]
+          * hljeb: [x ʎ e˦˨ b]
+          * bljak: [b ʎ a˦˨ k]
+          * šljam: [ʂ ʎ a˦˨ m]
+          * ljuto: [ʎ uː˦˨ t̪ o]
     ```
   - ```{ipa_cell}
     ```
@@ -403,19 +403,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 22690
+        * Occurances: 24305
         * Examples
-          * ulice: [u˦˨ l i t̪s̪ eː]
-          * ubir: [u˨˦ b i r]
-          * imela: [i m e˨˦ l a]
-          * iseći: [i˨˦ s̪ e tɕ i]
+          * mišji: [m i˦˨ ʂ j iː]
+          * pile: [p i˦˨ l e]
+          * viši: [v i˦˨ ʂ i]
+          * jamci: [j a˦˨ m t̪s̪ i]
       * iː
-        * Occurances: 8141
+        * Occurances: 5856
         * Examples
-          * koji: [k o˨˦ j iː]
-          * kći: [k tɕ iː˦˨]
-          * brizi: [b r i˨˦ z̪ iː]
-          * nika: [n iː˨˦ k a]
+          * nimfa: [n iː˦˨ m f a]
+          * mišji: [m i˦˨ ʂ j iː]
+          * zimi: [z̪ iː˦˨ m i]
+          * kičma: [k iː˦˨ tʂ m a]
     ```
   - ```{ipa_cell}
     ```
@@ -426,19 +426,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 6235
+        * Occurances: 9282
         * Examples
-          * fokus: [f oː˨˦ k u s̪]
-          * upute: [u p uː˨˦ t̪ e]
-          * višu: [v i˦˨ ʂ u]
-          * lauf: [l a˨˦ u f]
+          * čuva: [tʂ u˨˦ v a]
+          * gradu: [ɡ r a˨˦ d̪ u]
+          * kupa: [k u˦˨ p a]
+          * svoju: [s̪ v o j u]
       * uː
-        * Occurances: 728
+        * Occurances: 990
         * Examples
-          * arbun: [a˨˦ r b uː n]
-          * iduće: [i˨˦ d̪ uː tɕ e]
-          * hranu: [x r a˨˦ n uː]
-          * kožun: [k o˨˦ ʐ uː n]
+          * račun: [r a tʂ uː n]
+          * sušak: [s̪ uː˦˨ ʂ a k]
+          * oluji: [o˨˦ l uː j iː]
+          * usput: [u˨˦ s̪ p uː t̪]
     ```
 * -
   - ```{ipa_cell}
@@ -455,19 +455,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 19139
+        * Occurances: 13215
         * Examples
-          * črez: [tʂ r e˦˨ z̪]
-          * ljeta: [ʎ e˦˨ t̪ a]
-          * želi: [ʐ e˨˦ l i]
-          * svega: [s̪ v e˦˨ ɡ a]
+          * ondje: [oː˨˦ n d̪ j e]
+          * beteg: [b e˦˨ t̪ e ɡ]
+          * ušće: [uː˦˨ ɕ tɕ e]
+          * šećer: [ʂ e˨˦ tɕ e r]
       * eː
-        * Occurances: 2415
+        * Occurances: 2029
         * Examples
-          * matej: [m a˨˦ t̪ eː j]
-          * neće: [n eː˦˨ tɕ eː]
-          * rez: [r eː˦˨ z̪]
-          * preći: [p r eː˦˨ tɕ i]
+          * oteti: [o˨˦ t̪ eː t̪ i]
+          * ntv: [e n t̪ eː v eː]
+          * vide: [v i˨˦ d̪ eː]
+          * neke: [n e˨˦ k eː]
     ```
   - ```{ipa_cell}
     ```
@@ -478,19 +478,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 16880
+        * Occurances: 14803
         * Examples
-          * osuda: [o˦˨ s̪ u d̪ a]
-          * božo: [b o˦˨ ʐ o]
-          * kopča: [k o˦˨ p tʂ a]
-          * mio: [m i˦˨ o]
+          * netko: [n e˦˨ t̪ k o]
+          * jelom: [j eː˨˦ l o m]
+          * svoju: [s̪ v o j u]
+          * ubog: [u˦˨ b o ɡ]
       * oː
-        * Occurances: 3347
+        * Occurances: 2327
         * Examples
-          * živom: [ʐ i˦˨ v oː m]
-          * doza: [d̪ oː˨˦ z̪ a]
-          * koban: [k oː˦˨ b a n]
-          * petom: [p e˨˦ t̪ oː m]
+          * topom: [t̪ o˨˦ p oː m]
+          * horoz: [x o˦˨ r oː z̪]
+          * salon: [s̪ a˨˦ l oː n]
+          * gorom: [ɡ o˨˦ r oː m]
     ```
 * -
   - ```{ipa_cell}
@@ -533,19 +533,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 31196
+        * Occurances: 28990
         * Examples
-          * buka: [b u˦˨ k a]
-          * buća: [b u˦˨ tɕ a]
-          * šema: [ʂ eː˨˦ m a]
-          * lauf: [l a˨˦ u f]
+          * ada: [a˨˦ d̪ a]
+          * trupa: [t̪ r u˦˨ p a]
+          * hučan: [x uː˨˦ tʂ a n]
+          * gradu: [ɡ r a˨˦ d̪ u]
       * aː
         * Occurances: 3936
         * Examples
-          * urban: [u˦˨ r b aː n]
-          * organ: [o˨˦ r ɡ aː n]
-          * kupač: [k u˨˦ p aː tʂ]
-          * annan: [a n aː n]
+          * kozar: [k o˨˦ z̪ aː r]
+          * imamo: [i˨˦ m aː m o]
+          * oleat: [o l e˨˦ aː t̪]
+          * ćevap: [tɕ e˨˦ v aː p]
     ```
   - ```{ipa_cell}
     ```

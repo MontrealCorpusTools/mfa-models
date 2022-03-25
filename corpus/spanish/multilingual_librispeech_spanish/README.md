@@ -18,13 +18,12 @@
 
 - **Citation:**
 ```bibtex
-@article{
-	Pratap2020MLSAL,
-	title={MLS: A Large-Scale Multilingual Dataset for Speech Research},
-	author={Vineel Pratap and Qiantong Xu and Anuroop Sriram and Gabriel Synnaeve and Ronan Collobert},
-	journal={ArXiv},
-	year={2020},
-	volume={abs/2012.03411}
+@article{Pratap2020MLSAL,
+	title = {MLS: A Large-Scale Multilingual Dataset for Speech Research},
+	author = {Vineel Pratap and Qiantong Xu and Anuroop Sriram and Gabriel Synnaeve and Ronan Collobert},
+	journal = {ArXiv},
+	year = {2020},
+	volume = {abs/2012.03411}
 }
 ```
 

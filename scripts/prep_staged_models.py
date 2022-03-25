@@ -493,7 +493,7 @@ This model is intended for very basic language modeling {language_link} transcri
 These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness
 and in the off chance that they're useful in bootstrapping corpus development.
 
-This language was model trained with words from the pronunciation dictionaries above.
+This language model trained with words from the pronunciation dictionaries above.
 
 ## Performance Factors
 
@@ -588,7 +588,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
@@ -654,7 +654,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.
@@ -1036,7 +1036,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
         phone_set_folder = f'{dialect}_{phone_set}'.replace(' ', '_').lower()
         citation_details['dialect'] = dialect
     else:
-        phone_set_folder = phone_set
+        phone_set_folder = phone_set.lower()
     license = 'CC BY 4.0'
     license_link = f'[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/{model_type}/{language.lower()}/{phone_set_folder}/v{version}/LICENSE)'
     if model_type == 'acoustic':

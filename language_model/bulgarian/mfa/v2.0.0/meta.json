@@ -4,7 +4,7 @@
     "dialect": "",
     "phone_set": "MFA",
     "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
-    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/MFA/v2.0.0/LICENSE)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/bulgarian/mfa/v2.0.0/LICENSE)",
     "license": "CC BY 4.0",
     "architecture": "ngram",
     "version": "2.0.0",

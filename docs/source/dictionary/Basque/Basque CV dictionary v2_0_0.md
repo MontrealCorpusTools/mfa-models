@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4048
         * Examples
-          * marin: [m a ɾ i n]
-          * kimua: [k i m u a]
-          * mutur: [m u t̪ u r]
-          * asmoa: [a s̺ m o a]
+          * mutil: [m u t̪ i l]
+          * drama: [d̪ r a m a]
+          * umel: [u m e l]
+          * luma: [l u m a]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +67,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 17553
         * Examples
-          * marin: [m a ɾ i n]
-          * duena: [d̪ u e n a]
-          * zeina: [s̻ e i n a]
-          * zigun: [s̻ i ɡ u n]
+          * onura: [o n u ɾ a]
+          * nioke: [n i o k e]
+          * bonba: [b o n b a]
+          * kanoi: [k a n o i]
     ```
   - ```{ipa_cell}
     ```
@@ -89,18 +89,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 3480
         * Examples
-          * pisu: [p i s̺ u]
-          * pozik: [p o s̻ i k]
-          * tropa: [t̪ r o p a]
-          * pasta: [p a s̺ t̪ a]
+          * polo: [p o l o]
+          * apal: [a p a l]
+          * sapa: [s̺ a p a]
+          * apnea: [a p n e a]
     * voiced
       * b
         * Occurances: 5449
         * Examples
-          * habe: [a b e]
-          * beira: [b e i ɾ a]
-          * benta: [b e n t̪ a]
-          * tiber: [t̪ i b e r]
+          * ebro: [e b r o]
+          * bakar: [b a k a r]
+          * bonba: [b o n b a]
+          * ibar: [i b a r]
     ```
   - ```{ipa_cell}
     ```
@@ -109,18 +109,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 18430
         * Examples
-          * aitor: [a i t̪ o r]
-          * tropa: [t̪ r o p a]
-          * mutur: [m u t̪ u r]
-          * pasta: [p a s̺ t̪ a]
+          * mutil: [m u t̪ i l]
+          * jetzi: [x e t̪ s̻ i]
+          * zutik: [s̻ u t̪ i k]
+          * gaita: [ɡ a i t̪ a]
     * voiced
       * d̪
         * Occurances: 6004
         * Examples
-          * duena: [d̪ u e n a]
-          * alde: [a l d̪ e]
-          * diozu: [d̪ i o s̻ u]
-          * lodia: [l o d̪ i a]
+          * zaldi: [s̻ a l d̪ i]
+          * duzu: [d̪ u s̻ u]
+          * drama: [d̪ r a m a]
+          * exodo: [e ʃ o d̪ o]
     ```
   - ```{ipa_cell}
     ```
@@ -143,18 +143,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 16966
         * Examples
-          * pozik: [p o s̻ i k]
-          * kimua: [k i m u a]
-          * ileak: [i l e a k]
-          * nasak: [n a s̺ a k]
+          * hiruk: [i ɾ u k]
+          * aroko: [a ɾ o k o]
+          * guk: [ɡ u k]
+          * nioke: [n i o k e]
     * voiced
       * ɡ
         * Occurances: 5689
         * Examples
-          * graf: [ɡ r a f]
-          * zigun: [s̻ i ɡ u n]
-          * ageri: [a ɡ e ɾ i]
-          * nagia: [n a ɡ i a]
+          * guk: [ɡ u k]
+          * zigor: [s̻ i ɡ o r]
+          * zaigu: [s̻ a i ɡ u]
+          * geroa: [ɡ e ɾ o a]
     ```
 * - {manner}`Sibilant`
   - ```{ipa_cell}
@@ -168,27 +168,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s̺
         * Occurances: 7201
         * Examples
-          * sarea: [s̺ a ɾ e a]
-          * pisu: [p i s̺ u]
-          * sen: [s̺ e n]
-          * asmoa: [a s̺ m o a]
+          * asia: [a s̺ i a]
+          * sukar: [s̺ u k a r]
+          * sapa: [s̺ a p a]
+          * ausaz: [a u s̺ a s̻]
       * s̻
         * Occurances: 9925
         * Examples
-          * pozik: [p o s̻ i k]
-          * zeina: [s̻ e i n a]
-          * zigun: [s̻ i ɡ u n]
-          * hilez: [i l e s̻]
+          * ilez: [i l e s̻]
+          * zaldi: [s̻ a l d̪ i]
+          * duzu: [d̪ u s̻ u]
+          * zigor: [s̻ i ɡ o r]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1059
         * Examples
-          * itxi: [i t̪ ʃ i]
-          * gutxi: [ɡ u t̪ ʃ i]
-          * linux: [l i n u ʃ]
-          * laxoa: [l a ʃ o a]
+          * baxua: [b a ʃ u a]
+          * exodo: [e ʃ o d̪ o]
+          * koxka: [k o ʃ k a]
+          * xakea: [ʃ a k e a]
     ```
   - ```{ipa_cell}
     ```
@@ -202,10 +202,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 1169
         * Examples
-          * graf: [ɡ r a f]
-          * fagor: [f a ɡ o r]
-          * ninfa: [n i n f a]
-          * fite: [f i t̪ e]
+          * fisio: [f i s̺ i o]
+          * surf: [s̺ u r f]
+          * froga: [f r o ɡ a]
+          * efe: [e f e]
     ```
   - ```{ipa_cell}
     ```
@@ -233,10 +233,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 23
         * Examples
-          * skype: [s̺ k j p e]
-          * yemen: [j e m e n]
           * dylan: [d̪ j l a n]
           * gay: [ɡ a j]
+          * skype: [s̺ k j p e]
+          * kenya: [k e n j a]
     ```
   - ```{ipa_cell}
     ```
@@ -252,10 +252,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 9292
         * Examples
-          * sarea: [s̺ a ɾ e a]
-          * marin: [m a ɾ i n]
-          * beira: [b e i ɾ a]
-          * ageri: [a ɡ e ɾ i]
+          * hiruk: [i ɾ u k]
+          * onura: [o n u ɾ a]
+          * aroko: [a ɾ o k o]
+          * geroa: [ɡ e ɾ o a]
     ```
   - ```{ipa_cell}
     ```
@@ -275,10 +275,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 9842
         * Examples
-          * aitor: [a i t̪ o r]
-          * graf: [ɡ r a f]
-          * tropa: [t̪ r o p a]
-          * mutur: [m u t̪ u r]
+          * ebro: [e b r o]
+          * zigor: [s̻ i ɡ o r]
+          * arrak: [a r a k]
+          * sukar: [s̺ u k a r]
     ```
   - ```{ipa_cell}
     ```
@@ -298,10 +298,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 8865
         * Examples
-          * alde: [a l d̪ e]
-          * olioa: [o l i o a]
-          * ileak: [i l e a k]
-          * lapur: [l a p u r]
+          * ilez: [i l e s̻]
+          * zaldi: [s̻ a l d̪ i]
+          * polo: [p o l o]
+          * mutil: [m u t̪ i l]
     ```
   - ```{ipa_cell}
     ```
@@ -310,10 +310,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 76
         * Examples
+          * pello: [p e ʎ o]
+          * villa: [i ʎ a]
+          * ellis: [e ʎ i s̺]
           * wall: [a ʎ]
-          * ollo: [o ʎ o]
-          * pella: [p e ʎ a]
-          * sella: [s̺ e ʎ a]
     ```
   - ```{ipa_cell}
     ```
@@ -341,10 +341,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 23285
         * Examples
-          * pisu: [p i s̺ u]
-          * aitor: [a i t̪ o r]
-          * pozik: [p o s̻ i k]
-          * marin: [m a ɾ i n]
+          * hiruk: [i ɾ u k]
+          * ilez: [i l e s̻]
+          * zaldi: [s̻ a l d̪ i]
+          * nioke: [n i o k e]
     ```
   - ```{ipa_cell}
     ```
@@ -357,10 +357,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 10927
         * Examples
-          * pisu: [p i s̺ u]
-          * duena: [d̪ u e n a]
-          * kimua: [k i m u a]
-          * mutur: [m u t̪ u r]
+          * hiruk: [i ɾ u k]
+          * onura: [o n u ɾ a]
+          * duzu: [d̪ u s̻ u]
+          * guk: [ɡ u k]
     ```
 * -
   - ```{ipa_cell}
@@ -379,10 +379,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 27142
         * Examples
-          * sarea: [s̺ a ɾ e a]
-          * habe: [a b e]
-          * duena: [d̪ u e n a]
-          * zeina: [s̻ e i n a]
+          * ilez: [i l e s̻]
+          * nioke: [n i o k e]
+          * ebro: [e b r o]
+          * jetzi: [x e t̪ s̻ i]
     ```
   - ```{ipa_cell}
     ```
@@ -395,10 +395,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 16540
         * Examples
-          * aitor: [a i t̪ o r]
-          * pozik: [p o s̻ i k]
-          * tropa: [t̪ r o p a]
-          * olioa: [o l i o a]
+          * onura: [o n u ɾ a]
+          * aroko: [a ɾ o k o]
+          * nioke: [n i o k e]
+          * ebro: [e b r o]
     ```
 * -
   - ```{ipa_cell}
@@ -443,10 +443,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 40600
         * Examples
-          * sarea: [s̺ a ɾ e a]
-          * aitor: [a i t̪ o r]
-          * graf: [ɡ r a f]
-          * habe: [a b e]
+          * onura: [o n u ɾ a]
+          * zaldi: [s̻ a l d̪ i]
+          * aroko: [a ɾ o k o]
+          * asia: [a s̺ i a]
     ```
   - ```{ipa_cell}
     ```

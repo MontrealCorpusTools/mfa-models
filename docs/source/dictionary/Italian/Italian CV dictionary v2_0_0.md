@@ -55,17 +55,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 14908
         * Examples
-          * mig: [m i ɡ]
-          * stima: [s t i m a]
-          * comer: [k o m e r]
-          * mosul: [m o s u l]
+          * alma: [a l m a]
+          * lime: [l i m e]
+          * ramo: [r a m o]
+          * palms: [p a l m s]
       * mː
         * Occurances: 724
         * Examples
-          * simms: [s i mː s]
-          * krumm: [k r u mː]
-          * amman: [a mː a n]
-          * comme: [k o mː e]
+          * dimmu: [d i mː u]
+          * tommy: [t o mː y]
+          * somme: [s o mː e]
+          * comma: [k o mː a]
     ```
   - ```{ipa_cell}
     ```
@@ -76,17 +76,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 36542
         * Examples
-          * nella: [n e lː a]
-          * 'in: [i n]
-          * klien: [k l i e n]
-          * frank: [f r a n k]
+          * canoe: [k a n o e]
+          * goon: [ɡ o o n]
+          * nicki: [n i k k i]
+          * vinci: [v i n t͡ʃ i]
       * nː
         * Occurances: 1082
         * Examples
-          * bonn: [b o nː]
-          * penn: [p e nː]
-          * nonno: [n o nː o]
-          * kenna: [k e nː a]
+          * dunn: [d u nː]
+          * annis: [a nː i s]
+          * gunn: [ɡ u nː]
+          * brann: [b r a nː]
     ```
   - ```{ipa_cell}
     ```
@@ -95,10 +95,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 794
         * Examples
-          * ogni: [o ɲ i]
-          * legno: [l e ɲ o]
-          * fogna: [f o ɲ a]
-          * sognò: [s o ɲ ɔ]
+          * sogna: [s o ɲ a]
+          * agnès: [a ɲ ɛ s]
+          * pigne: [p i ɲ e]
+          * regni: [r e ɲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -112,32 +112,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 11927
         * Examples
-          * pavia: [p a v i a]
-          * pesce: [p e s t͡ʃ e]
-          * pho: [p o]
-          * penn: [p e nː]
+          * apici: [a p i t͡ʃ i]
+          * cupra: [k u p r a]
+          * pia: [p i a]
+          * pera: [p e r a]
       * pː
         * Occurances: 910
         * Examples
           * nappe: [n a pː e]
-          * mappa: [m a pː a]
-          * cappi: [k a pː i]
+          * kappa: [k a pː a]
+          * ceppo: [t͡ʃ e pː o]
           * poppy: [p o pː y]
     * voiced
       * b
         * Occurances: 7082
         * Examples
-          * zubov: [s u b o v]
-          * giuba: [d͡ʒ u b a]
-          * gambi: [ɡ a m b i]
-          * bonn: [b o nː]
+          * bills: [b i lː s]
+          * beer: [b e e r]
+          * baa: [b a a]
+          * brama: [b r a m a]
       * bː
         * Occurances: 484
         * Examples
+          * sabba: [s a bː a]
+          * abbi: [a bː i]
+          * rabbi: [r a bː i]
           * gabby: [ɡ a bː y]
-          * grubb: [ɡ r u bː]
-          * libby: [l i bː y]
-          * bbc: [bː k]
     ```
   - ```{ipa_cell}
     ```
@@ -148,31 +148,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 32674
         * Examples
-          * stima: [s t i m a]
-          * tolta: [t o l t a]
-          * altea: [a l t e a]
-          * folti: [f o l t i]
+          * gert: [d͡ʒ e r t]
+          * tilly: [t i lː y]
+          * yeti: [y e t i]
+          * after: [a f t e r]
       * tː
         * Occurances: 3787
         * Examples
-          * litta: [l i tː a]
-          * fitti: [f i tː i]
-          * batto: [b a tː o]
-          * sitta: [s i tː a]
+          * nutt: [n u tː]
+          * butts: [b u tː s]
+          * rotte: [r o tː e]
+          * attis: [a tː i s]
     * voiced
       * d
         * Occurances: 14646
         * Examples
-          * dryas: [d r y a s]
-          * dvd: [d v d]
-          * dirci: [d i r t͡ʃ i]
-          * udì: [u d i]
+          * cloud: [k l o u d]
+          * cdi: [k d i]
+          * edo: [e d o]
+          * drag: [d r a ɡ]
       * dː
         * Occurances: 268
         * Examples
-          * kidd: [k i dː]
-          * cadde: [k a dː e]
-          * redd: [r e dː]
+          * edd: [e dː]
+          * radda: [r a dː a]
+          * buddy: [b u dː y]
           * iddio: [i dː i o]
     ```
   - ```{ipa_cell}
@@ -184,32 +184,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 18336
         * Examples
-          * kidd: [k i dː]
-          * comer: [k o m e r]
-          * klien: [k l i e n]
-          * frank: [f r a n k]
+          * canoe: [k a n o e]
+          * claw: [k l a w]
+          * cloud: [k l o u d]
+          * cupra: [k u p r a]
       * kː
         * Occurances: 1186
         * Examples
-          * zucca: [s u kː a]
-          * micca: [m i kː a]
-          * picca: [p i kː a]
           * recco: [r e kː o]
+          * picco: [p i kː o]
+          * becco: [b e kː o]
+          * zucca: [s u kː a]
     * voiced
       * ɡ
         * Occurances: 5714
         * Examples
-          * mig: [m i ɡ]
-          * glove: [ɡ l o v e]
-          * gambi: [ɡ a m b i]
-          * fuga: [f u ɡ a]
+          * goon: [ɡ o o n]
+          * drag: [d r a ɡ]
+          * nag: [n a ɡ]
+          * ying: [y i n ɡ]
       * ɡː
         * Occurances: 123
         * Examples
-          * riggs: [r i ɡː s]
-          * biggs: [b i ɡː s]
-          * grigg: [ɡ r i ɡː]
-          * legg: [l e ɡː]
+          * ziggy: [s i ɡː y]
+          * dogg: [d o ɡː]
+          * oggy: [o ɡː y]
+          * regga: [r e ɡː a]
     ```
   - ```{ipa_cell}
     ```
@@ -227,42 +227,42 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡s
         * Occurances: 1183
         * Examples
-          * rizzo: [r i t͡s o]
-          * razze: [r a t͡s e]
-          * gazzo: [ɡ a t͡s o]
-          * razzi: [r a t͡s i]
+          * mazza: [m a t͡s a]
+          * pozzo: [p o t͡s o]
+          * pazzi: [p a t͡s i]
+          * nizza: [n i t͡s a]
     ```
   - ```{ipa_cell}
     * voiceless
       * t͡ʃ
         * Occurances: 5288
         * Examples
-          * dirci: [d i r t͡ʃ i]
-          * pesce: [p e s t͡ʃ e]
-          * cirio: [t͡ʃ i r i o]
-          * croce: [k r o t͡ʃ e]
+          * apici: [a p i t͡ʃ i]
+          * vinci: [v i n t͡ʃ i]
+          * cedri: [t͡ʃ e d r i]
+          * once: [o n t͡ʃ e]
       * t͡ʃː
         * Occurances: 690
         * Examples
-          * gocce: [ɡ o t͡ʃː e]
           * lecce: [l e t͡ʃː e]
+          * gucci: [ɡ u t͡ʃː i]
+          * rocce: [r o t͡ʃː e]
           * facce: [f a t͡ʃː e]
-          * ricci: [r i t͡ʃː i]
     * voiced
       * d͡ʒ
         * Occurances: 3203
         * Examples
-          * giuba: [d͡ʒ u b a]
-          * sarge: [s a r d͡ʒ e]
-          * gestì: [d͡ʒ e s t i]
-          * auge: [a u d͡ʒ e]
+          * gert: [d͡ʒ e r t]
+          * fregi: [f r e d͡ʒ i]
+          * biagi: [b i a d͡ʒ i]
+          * eger: [e d͡ʒ e r]
       * d͡ʒː
         * Occurances: 891
         * Examples
-          * fugge: [f u d͡ʒː e]
-          * leggi: [l e d͡ʒː i]
+          * logge: [l o d͡ʒː e]
           * faggi: [f a d͡ʒː i]
-          * raggi: [r a d͡ʒː i]
+          * saggi: [s a d͡ʒː i]
+          * poggi: [p o d͡ʒː i]
     ```
   - ```{ipa_cell}
     ```
@@ -284,35 +284,35 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 26008
         * Examples
-          * stima: [s t i m a]
-          * ai-s: [a i s]
-          * arese: [a r e s e]
-          * dryas: [d r y a s]
+          * bills: [b i lː s]
+          * sofía: [s o f i a]
+          * palms: [p a l m s]
+          * humus: [u m u s]
       * sː
         * Occurances: 2793
         * Examples
-          * russe: [r u sː e]
-          * asse: [a sː e]
-          * jesse: [j e sː e]
-          * tesse: [t e sː e]
+          * esse: [e sː e]
+          * ossei: [o sː e i]
+          * assam: [a sː a m]
+          * assur: [a sː u r]
     * voiced
       * z
         * Occurances: 1224
         * Examples
-          * smoke: [z m o k e]
-          * cosma: [k o z m a]
-          * srl: [z r l]
-          * slave: [z l a v e]
+          * snap: [z n a p]
+          * slavo: [z l a v o]
+          * swizz: [z w i t͡s]
+          * slam: [z l a m]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1485
         * Examples
-          * scot: [ʃ o t]
-          * esco: [e ʃ o]
-          * esca: [e ʃ a]
-          * scalo: [ʃ a l o]
+          * scapa: [ʃ a p a]
+          * štúr: [ʃ t u r]
+          * disc: [d i ʃ]
+          * lusco: [l u ʃ o]
     ```
   - ```{ipa_cell}
     ```
@@ -330,31 +330,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 5733
         * Examples
-          * folti: [f o l t i]
-          * frank: [f r a n k]
-          * fata: [f a t a]
-          * feo: [f e o]
+          * sofía: [s o f i a]
+          * after: [a f t e r]
+          * vul'f: [v u l f]
+          * fink: [f i n k]
       * fː
         * Occurances: 804
         * Examples
-          * caffé: [k a fː e]
-          * tuffi: [t u fː i]
-          * buffy: [b u fː y]
-          * gruff: [ɡ r u fː]
+          * tuffo: [t u fː o]
+          * tuffa: [t u fː a]
+          * offra: [o fː r a]
+          * buffe: [b u fː e]
     * voiced
       * v
         * Occurances: 8589
         * Examples
-          * glove: [ɡ l o v e]
-          * zubov: [s u b o v]
-          * villi: [v i lː i]
-          * dvd: [d v d]
+          * järvi: [j a r v i]
+          * vul'f: [v u l f]
+          * vinci: [v i n t͡ʃ i]
+          * vanda: [v a n d a]
       * vː
         * Occurances: 281
         * Examples
+          * ovvia: [o vː i a]
           * ovvi: [o vː i]
-          * avviò: [a vː i ɔ]
-          * ovve: [o vː e]
+          * avvia: [a vː i a]
           * ovvio: [o vː i o]
     ```
   - ```{ipa_cell}
@@ -390,10 +390,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 1232
         * Examples
-          * ewen: [e w e n]
-          * bower: [b o w e r]
-          * iwata: [i w a t a]
-          * award: [a w a r d]
+          * claw: [k l a w]
+          * lew: [l e w]
+          * hawks: [a w k s]
+          * flow: [f l o w]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 775
         * Examples
-          * fejér: [f e j e r]
-          * josie: [j o s i e]
-          * joc: [j o k]
-          * jesse: [j e sː e]
+          * järvi: [j a r v i]
+          * raj: [r a j]
+          * jairo: [j a i r o]
+          * kaj: [k a j]
     ```
   - ```{ipa_cell}
     ```
@@ -431,17 +431,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 39623
         * Examples
-          * arese: [a r e s e]
-          * dryas: [d r y a s]
-          * comer: [k o m e r]
-          * dirci: [d i r t͡ʃ i]
+          * gert: [d͡ʒ e r t]
+          * eru: [e r u]
+          * rio: [r i o]
+          * cupra: [k u p r a]
       * rː
         * Occurances: 1241
         * Examples
-          * corri: [k o rː i]
-          * carr: [k a rː]
-          * array: [a rː a y]
-          * birre: [b i rː e]
+          * sarr: [s a rː]
+          * varro: [v a rː o]
+          * forra: [f o rː a]
+          * turro: [t u rː o]
     ```
   - ```{ipa_cell}
     ```
@@ -465,17 +465,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 19150
         * Examples
-          * glove: [ɡ l o v e]
-          * tolta: [t o l t a]
-          * altea: [a l t e a]
-          * klien: [k l i e n]
+          * claw: [k l a w]
+          * cloud: [k l o u d]
+          * alma: [a l m a]
+          * ilo: [i l o]
       * lː
         * Occurances: 4101
         * Examples
-          * nella: [n e lː a]
-          * villi: [v i lː i]
-          * zilli: [s i lː i]
-          * odell: [o d e lː]
+          * bills: [b i lː s]
+          * tilly: [t i lː y]
+          * all: [a lː]
+          * dell': [d e lː]
     ```
   - ```{ipa_cell}
     ```
@@ -484,10 +484,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 758
         * Examples
-          * sugli: [s u ʎ]
-          * degli: [d e ʎ]
-          * agli: [a ʎ]
-          * begli: [b e ʎ]
+          * gigli: [d͡ʒ i ʎ]
+          * fogli: [f o ʎ]
+          * tagli: [t a ʎ]
+          * dagli: [d a ʎ]
     ```
   - ```{ipa_cell}
     ```
@@ -521,18 +521,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 57774
         * Examples
-          * mig: [m i ɡ]
-          * stima: [s t i m a]
-          * ai-s: [a i s]
-          * kidd: [k i dː]
+          * apici: [a p i t͡ʃ i]
+          * bills: [b i lː s]
+          * rio: [r i o]
+          * pia: [p i a]
     * rounded
       * y
         * Occurances: 2009
         * Examples
-          * dryas: [d r y a s]
-          * ducky: [d u k k y]
-          * style: [s t y l e]
-          * gabby: [ɡ a bː y]
+          * kyoho: [k y o o]
+          * tilly: [t i lː y]
+          * yeti: [y e t i]
+          * ying: [y i n ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -545,10 +545,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 13928
         * Examples
-          * zubov: [s u b o v]
-          * udì: [u d i]
-          * mosul: [m o s u l]
-          * giuba: [d͡ʒ u b a]
+          * eru: [e r u]
+          * cloud: [k l o u d]
+          * cupra: [k u p r a]
+          * vul'f: [v u l f]
     ```
 * -
   - ```{ipa_cell}
@@ -567,10 +567,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 54049
         * Examples
-          * nella: [n e lː a]
-          * arese: [a r e s e]
-          * glove: [ɡ l o v e]
-          * altea: [a l t e a]
+          * gert: [d͡ʒ e r t]
+          * canoe: [k a n o e]
+          * eru: [e r u]
+          * beer: [b e e r]
       * eː
         * Occurances: 1
         * Examples
@@ -578,10 +578,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ø
         * Occurances: 19
         * Examples
-          * hødd: [ø dː]
-          * jørn: [j ø r n]
           * øer: [ø e r]
+          * hødd: [ø dː]
           * bodø: [b o d ø]
+          * jørn: [j ø r n]
     ```
   - ```{ipa_cell}
     ```
@@ -594,10 +594,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 48931
         * Examples
-          * glove: [ɡ l o v e]
-          * tolta: [t o l t a]
-          * zubov: [s u b o v]
-          * comer: [k o m e r]
+          * canoe: [k a n o e]
+          * cloud: [k l o u d]
+          * rio: [r i o]
+          * sofía: [s o f i a]
       * oː
         * Occurances: 1
         * Examples
@@ -625,10 +625,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 90
         * Examples
-          * parè: [p a r ɛ]
-          * pièce: [p i ɛ t͡ʃ e]
-          * battè: [b a tː ɛ]
-          * potè: [p o t ɛ]
+          * piè: [p i ɛ]
+          * com'è: [k o m ɛ]
+          * agnès: [a ɲ ɛ s]
+          * c'è: [k ɛ]
     * rounded
       * œ
         * Occurances: 1
@@ -645,10 +645,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 880
         * Examples
-          * restò: [r e s t ɔ]
-          * curò: [k u r ɔ]
-          * rubò: [r u b ɔ]
-          * piegò: [p i e ɡ ɔ]
+          * entrò: [e n t r ɔ]
+          * sfogò: [s f o ɡ ɔ]
+          * amerò: [a m e r ɔ]
+          * lodò: [l o d ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -675,10 +675,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 64706
         * Examples
-          * nella: [n e lː a]
-          * stima: [s t i m a]
-          * ai-s: [a i s]
-          * arese: [a r e s e]
+          * apici: [a p i t͡ʃ i]
+          * canoe: [k a n o e]
+          * claw: [k l a w]
+          * cupra: [k u p r a]
       * aː
         * Occurances: 1
         * Examples
@@ -785,8 +785,8 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Examples
           * leão: [l e ã o]
           * joão: [j o ã o]
-          * simão: [s i m ã o]
           * são: [s ã o]
+          * simão: [s i m ã o]
     ```
   - ```{ipa_cell}
     ```

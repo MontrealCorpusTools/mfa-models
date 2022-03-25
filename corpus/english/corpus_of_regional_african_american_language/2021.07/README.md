@@ -19,12 +19,12 @@
 - **Citation:**
 ```bibtex
 @article{kendall2018corpus,
-	title={The corpus of regional african american language},
-	author={Kendall, Tyler and Farrington, Charlie},
-	journal={Version},
-	volume={6},
-	pages={1},
-	year={2018}
+	title = {The corpus of regional african american language},
+	author = {Kendall, Tyler and Farrington, Charlie},
+	journal = {Version},
+	volume = {6},
+	pages = {1},
+	year = {2018}
 }
 
 ```

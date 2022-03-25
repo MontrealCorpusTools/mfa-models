@@ -52,20 +52,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 15980
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
-          * 녹음기: [n o ɡ ɨ m ɡ i]
-          * 최민화: [tɕʰ w e m i n β w ɐ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
+          * 못하게: [m o tʰ ɐ ɡ e]
+          * 반지름: [p ɐ ɲ dʑ i ɾ ɨ m]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 30413
         * Examples
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
-          * 흔들리다: [x ɨ n d ɨ ʎ ʎ i d ɐ]
-          * 의원과의: [ɰ i w ʌ n ɡ w ɐ ɰ i]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
+          * 선거통: [sʰ ʌː n ɡ ʌ tʰ o ŋ]
+          * 증권사는: [tɕ ɨ ŋ k w ʌ n sʰ ɐ n ɨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -74,20 +74,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 3657
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 전면적인: [tɕ ʌ n m j ʌ ɲ dʑ ʌ ɡ i n]
-          * 운영해: [uː ɲ ʌ ŋ h eː]
-          * 방류수: [p ɐ ŋ ɲ u sʰ u]
+          * 반지름: [p ɐ ɲ dʑ i ɾ ɨ m]
+          * 불면증: [p u ɭ m j ʌ ɲ tɕ ɨ ŋ]
+          * 브런치: [p ɨ ɾ ʌ ɲ tɕʰ i]
+          * 안전띠: [ɐ ɲ dʑ ʌ n t͈ i]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 16306
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 응징하다: [ɨ ŋ dʑ i ŋ h ɐ d ɐ]
-          * 귓구멍: [k ɥ i t̚ kʰ u m ʌ ŋ]
-          * 사용하던: [sʰ ɐ j o ŋ h ɐ d ʌ n]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
+          * 선거통: [sʰ ʌː n ɡ ʌ tʰ o ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -97,36 +97,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 5660
         * Examples
-          * 바티칸: [p ɐ tʰ i kʰ ɐ n]
-          * 비정상적인: [p i dʑ ʌ ŋ sʰ ɐ ŋ dʑ ʌ ɡ i n]
-          * 벌어들인: [p ʌː ɾ ʌ d ɨ ɾ i n]
-          * 부드럽게: [p u d ɨ ɾ ʌ p̚ kʰ e]
+          * 반봉건: [p ɐ n b o ŋ ɡ ʌ n]
+          * 반지름: [p ɐ ɲ dʑ i ɾ ɨ m]
+          * 불면증: [p u ɭ m j ʌ ɲ tɕ ɨ ŋ]
+          * 비관론: [p i ɡ w ɐ n n o n]
     * voiced
       * b
         * Occurances: 4326
         * Examples
-          * 특화사업을: [tʰ ɨ kʰ w ɐ sʰ ɐ ʌ b ɨ ɭ]
-          * 회부됐다고: [ɸ w e b u tʰ w eː t̚ tʰ ɐ ɡ o]
-          * 후보가: [ɸ u b o ɡ ɐ]
-          * 마구잡이로: [m ɐ ɡ u dʑ ɐ b i ɾ o]
+          * 일벌레: [i ɭ b ʌ ɭ ɭ e]
+          * 나라보다: [n ɐ ɾ ɐ b o d ɐ]
+          * 반봉건: [p ɐ n b o ŋ ɡ ʌ n]
+          * 접어든: [tɕ ʌ b ʌ d ɨ n]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 4120
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 드러나면: [t ɨ ɾ ʌ n ɐ m j ʌ n]
-          * 전당대회에: [tɕ ʌː n d ɐ ŋ t eː β w e e]
-          * 동성애자: [t o ŋ sʰ ʌ ŋ eː dʑ ɐ]
+          * 뒤덮이: [t ɥ iː d ʌ pʰ i]
+          * 뒤떨어진: [t ɥ iː t͈ ʌ ɾ ʌ dʑ i n]
+          * 결단력: [k j ʌ ɭ t ɐ ʎ ʎ ʌ k̚]
+          * 달라졌: [t ɐ ɭ ɭ ɐ dʑ ʌ t̚]
     * voiced
       * d
         * Occurances: 10317
         * Examples
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 흔들리다: [x ɨ n d ɨ ʎ ʎ i d ɐ]
-          * 응징하다: [ɨ ŋ dʑ i ŋ h ɐ d ɐ]
-          * 사용하던: [sʰ ɐ j o ŋ h ɐ d ʌ n]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 나라보다: [n ɐ ɾ ɐ b o d ɐ]
+          * 예정자들은: [j eː dʑ ʌ ŋ dʑ ɐ d ɨ ɾ ɨ n]
+          * 금수저들이: [k ɨ m sʰ u dʑ ʌ d ɨ ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -137,18 +137,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 9368
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 재계약: [tɕ eː k j eː j ɐ k̚]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 증권사는: [tɕ ɨ ŋ k w ʌ n sʰ ɐ n ɨ n]
+          * 금수저들이: [k ɨ m sʰ u dʑ ʌ d ɨ ɾ i]
+          * 김덕용: [k i m d ʌ ɡ j o ŋ]
     * voiced
       * ɡ
         * Occurances: 13510
         * Examples
-          * 잘하고: [tɕ ɐ ɦ ɐ ɡ o]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
-          * 의원과의: [ɰ i w ʌ n ɡ w ɐ ɰ i]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
     ```
   - ```{ipa_cell}
     ```
@@ -164,18 +164,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 6818
         * Examples
-          * 잘하고: [tɕ ɐ ɦ ɐ ɡ o]
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
     * voiced
       * dʑ
         * Occurances: 8815
         * Examples
-          * 투자주: [tʰ u dʑ ɐ dʑ u]
-          * 응징하다: [ɨ ŋ dʑ i ŋ h ɐ d ɐ]
-          * 마구잡이로: [m ɐ ɡ u dʑ ɐ b i ɾ o]
-          * 비정상적인: [p i dʑ ʌ ŋ sʰ ɐ ŋ dʑ ʌ ɡ i n]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
+          * 예정자들은: [j eː dʑ ʌ ŋ dʑ ɐ d ɨ ɾ ɨ n]
+          * 반지름: [p ɐ ɲ dʑ i ɾ ɨ m]
+          * 이루어져왔: [i ɾ u ʌ dʑ ʌ w ɐ t̚]
     ```
   - ```{ipa_cell}
     ```
@@ -189,10 +189,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 2334
         * Examples
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 거쳐서: [k ʌ tɕʰ ʌː s ʌ]
-          * 울산이: [u ɭ s ɐ n i]
-          * 별세하다: [p j ʌ ɭ s e ɦ ɐ d ɐ]
+          * 했을까: [h eː s ɨ ɭ k͈ ɐ]
+          * 만났을: [m ɐ n n ɐ s ɨ ɭ]
+          * 필사적으로: [pʰ i ɭ s ɐ dʑ ʌ ɡ ɨ ɾ o]
+          * 어렵사리: [ʌ ɾ j ʌ p s ɐ ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -210,10 +210,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s͈
         * Occurances: 1120
         * Examples
-          * 에워싸고: [e w ʌ s͈ ɐ ɡ o]
-          * 많았고: [m ɐ n ɐ s͈ ɡ o]
-          * 삭제했다: [sʰ ɐ k̚ tɕʰ e ɦ eː s͈ d ɐ]
-          * 불행했던: [p u ɾ ʝ eː ɦ eː s͈ d ʌ n]
+          * 글쓴이: [k ɨ ɭ s͈ ɨ n i]
+          * 생각했죠: [sʰ eː ŋ ɡ ɐ ŋ h eː s͈ tɕ o]
+          * 쓰다듬다: [s͈ ɨ d ɐ d ɨ m t ɐ]
+          * 닫았다고: [t ɐ d ɐ s͈ d ɐ ɡ o]
     ```
   - ```{ipa_cell}
     ```
@@ -222,10 +222,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕ͈
         * Occurances: 800
         * Examples
-          * 낚시하는: [n ɐ k ɕ͈ i ɦ ɐ n ɨ n]
-          * 김씨는: [k i m ɕ͈ i n ɨ n]
-          * 걸림씨: [k ʌ ʎ ʎ i m ɕ͈ i]
-          * 수없이: [sʰ uː ʌ p ɕ͈ i]
+          * 보십시오: [p oː ɕʰ i p ɕ͈ i o]
+          * 한식집: [h ɐ n ɕ͈ i k̚ tɕʰ i p̚]
+          * 한국식: [h ɐ n ɡ u k ɕ͈ i k̚]
+          * 몫이었다: [m o k ɕ͈ i ʌ t̚ tʰ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -239,10 +239,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * sʰ
         * Occurances: 12406
         * Examples
-          * 특화사업을: [tʰ ɨ kʰ w ɐ sʰ ɐ ʌ b ɨ ɭ]
-          * 사용하던: [sʰ ɐ j o ŋ h ɐ d ʌ n]
-          * 선생님의: [sʰ ʌ n sʰ eː ŋ m ɰ i]
-          * 거쳐서: [k ʌ tɕʰ ʌ sʰ ʌ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
+          * 선거통: [sʰ ʌː n ɡ ʌ tʰ o ŋ]
+          * 증권사는: [tɕ ɨ ŋ k w ʌ n sʰ ɐ n ɨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -251,10 +251,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕʰ
         * Occurances: 3660
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 심하다: [ɕʰ iː m h ɐ d ɐ]
-          * 시간밖에: [ɕʰ i ɡ ɐ n b ɐ k e]
-          * 십자고상: [ɕʰ i p̚ tɕʰ ɐ ɡ o sʰ ɐ ŋ]
+          * 보십시오: [p oː ɕʰ i p ɕ͈ i o]
+          * 시흥시: [ɕʰ iː ɣ ɨ ŋ ɕʰ i]
+          * 심각했다: [ɕʰ iː m ɡ ɐ kʰ eː t̚ tʰ ɐ]
+          * 신윤복: [ɕʰ iː n ɲ u n b o k̚]
     ```
   - ```{ipa_cell}
     ```
@@ -266,10 +266,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 1021
         * Examples
-          * 회부됐다고: [ɸ w e b u tʰ w eː t̚ tʰ ɐ ɡ o]
-          * 후보가: [ɸ u b o ɡ ɐ]
-          * 호흡하다: [ɸ o ɣ ɨ pʰ ɐ d ɐ]
-          * 화이자: [ɸ w ɐ i dʑ ɐ]
+          * 환영의: [ɸ w ɐ ɲ ʌ ŋ ɰ i]
+          * 호전적인: [ɸ oː dʑ ʌ ɲ dʑ ʌ ɡ i n]
+          * 후원회: [ɸ u w ʌ n β w e]
+          * 회의에서: [ɸ w e ɰ e sʰ ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -280,18 +280,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 477
         * Examples
-          * 향해야: [ç ɐ ŋ h eː j ɐ]
-          * 현미경에: [ç ʌ n m i ɡ j ʌ ŋ e]
-          * 힘입어: [ç iː m i b ʌ]
-          * 히데오: [ç i d e o]
+          * 향하고: [ç ɐ ŋ h ɐ ɡ o]
+          * 협상에: [ç ʌ p s ɐ ŋ e]
+          * 현지인들이: [ç ʌː ɲ dʑ i i n d ɨ ɾ i]
+          * 휴지기를: [ç u dʑ i ɡ i ɾ ɨ ɭ]
     * voiced
       * ʝ
         * Occurances: 859
         * Examples
-          * 전형적인: [tɕ ʌ n ʝ ʌ ŋ dʑ ʌ ɡ i n]
-          * 냉철히: [n eː ŋ tɕʰ ʌ ɾ ʝ i]
-          * 불행했던: [p u ɾ ʝ eː ɦ eː s͈ d ʌ n]
-          * 신중히: [ɕʰ i ɲ dʑ u ŋ ʝ i]
+          * 생각했죠: [sʰ eː ŋ ɡ ɐ ŋ ʝ eː t̚ tɕ o]
+          * 박정희가: [p ɐ k̚ tɕʰ ʌ ŋ ʝ i ɡ ɐ]
+          * 실현되는: [ɕʰ i ɾ ʝ ʌ n d w e n ɨ n]
+          * 노사협: [n oː sʰ ɐ ʝ ʌ p̚]
     ```
   - ```{ipa_cell}
     ```
@@ -300,18 +300,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 4632
         * Examples
-          * 잘하고: [tɕ ɐ ɾ h ɐ ɡ o]
-          * 응징하다: [ɨ ŋ dʑ i ŋ h ɐ d ɐ]
-          * 사용하던: [sʰ ɐ j o ŋ h ɐ d ʌ n]
-          * 심하다: [ɕʰ iː m h ɐ d ɐ]
+          * 한국을: [h ɐ n ɡ u ɡ ɨ ɭ]
+          * 입증해: [i m tɕ ɨ ŋ h eː]
+          * 했을까: [h eː s ɨ ɭ k͈ ɐ]
+          * 한상진: [h ɐ n sʰ ɐ ŋ dʑ i n]
     * voiced
       * ɦ
         * Occurances: 2207
         * Examples
-          * 잘하고: [tɕ ɐ ɦ ɐ ɡ o]
-          * 낚시하는: [n ɐ k ɕ͈ i ɦ ɐ n ɨ n]
-          * 별세하다: [p j ʌ ɭ s e ɦ ɐ d ɐ]
-          * 주요하다: [tɕ u j o ɦ ɐ d ɐ]
+          * 수행원에게: [sʰ uː ɦ eː ŋ w ʌ n e ɡ e]
+          * 우수한: [u sʰ u ɦ ɐ n]
+          * 평가한: [pʰ j ʌː ŋ k ɐ ɦ ɐ n]
+          * 김수한: [k i m sʰ u ɦ ɐ n]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -319,10 +319,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 7410
         * Examples
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 의원과의: [ɰ i w ʌ n ɡ w ɐ ɰ i]
-          * 특화사업을: [tʰ ɨ kʰ w ɐ sʰ ɐ ʌ b ɨ ɭ]
-          * 에워싸고: [e w ʌ s͈ ɐ ɡ o]
+          * 증권사는: [tɕ ɨ ŋ k w ʌ n sʰ ɐ n ɨ n]
+          * 비관론: [p i ɡ w ɐ n n o n]
+          * 이루어져왔: [i ɾ u ʌ dʑ ʌ w ɐ t̚]
+          * 수행원에게: [sʰ uː ɦ eː ŋ w ʌ n e ɡ e]
     ```
   - ```{ipa_cell}
     ```
@@ -333,27 +333,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 12379
         * Examples
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 재계약: [tɕ eː k j eː j ɐ k̚]
-          * 사용하던: [sʰ ɐ j o ŋ h ɐ d ʌ n]
+          * 예정자들은: [j eː dʑ ʌ ŋ dʑ ɐ d ɨ ɾ ɨ n]
+          * 불면증: [p u ɭ m j ʌ ɲ tɕ ɨ ŋ]
+          * 컴퓨터와: [kʰ ʌ m pʰ j u tʰ ʌ w ɐ]
+          * 예수회: [j e sʰ u β w e]
       * ɥ
         * Occurances: 1129
         * Examples
-          * 귓구멍: [k ɥ i t̚ kʰ u m ʌ ŋ]
-          * 특조위에: [tʰ ɨ k̚ tɕʰ o ɥ e]
-          * 범위와: [p ʌː m ɥ i w ɐ]
-          * 위음성: [ɥ i ɨ m sʰ ʌ ŋ]
+          * 뒤덮이: [t ɥ iː d ʌ pʰ i]
+          * 뒤떨어진: [t ɥ iː t͈ ʌ ɾ ʌ dʑ i n]
+          * 가는쥐: [k ɐ n ɨ ɲ dʑ ɥ i]
+          * 사마귀: [sʰ ɐ m ɐ ɡ ɥ i]
     ```
   - ```{ipa_cell}
     * other
       * ɰ
         * Occurances: 1777
         * Examples
-          * 의원과의: [ɰ i w ʌ n ɡ w ɐ ɰ i]
-          * 선생님의: [sʰ ʌ n sʰ eː ŋ m ɰ i]
-          * 군의회에서: [k u n ɰ i β w e e sʰ ʌ]
-          * 승차의: [sʰ ɨ ŋ tɕʰ ɐ ɰ i]
+          * 세계의: [sʰ eː ɡ j e ɰ i]
+          * 마켓의: [m ɐ kʰ e t̚ ɰ i]
+          * 일본의: [i ɭ b o n ɰ i]
+          * 이의익: [iː ɰ i i k̚]
     ```
   - ```{ipa_cell}
     ```
@@ -365,10 +365,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 12333
         * Examples
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 잘하고: [tɕ ɐ ɾ h ɐ ɡ o]
-          * 마구잡이로: [m ɐ ɡ u dʑ ɐ b i ɾ o]
-          * 앞당기기로: [ɐ p̚ tʰ ɐ ŋ ɡ i ɡ i ɾ o]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
+          * 나라보다: [n ɐ ɾ ɐ b o d ɐ]
+          * 예정자들은: [j eː dʑ ʌ ŋ dʑ ɐ d ɨ ɾ ɨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -390,10 +390,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 3338
         * Examples
-          * 흔들리다: [x ɨ n d ɨ ʎ ʎ i d ɐ]
-          * 관련이: [k w ɐ ʎ ʎ ʌ n i]
-          * 결정수: [k j ʌ ʎ tɕ ʌ ŋ sʰ u]
-          * 완료구역: [w ɐ ʎ ʎ o ɡ u j ʌ k̚]
+          * 결단력: [k j ʌ ɭ t ɐ ʎ ʎ ʌ k̚]
+          * 불철주야: [p u ʎ tɕʰ ʌ ʎ dʑ u j ɐ]
+          * 돌리다: [t o ʎ ʎ i d ɐ]
+          * 달려갔다: [t ɐ ʎ ʎ ʌ ɡ ɐ t̚ tʰ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -409,10 +409,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 11579
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 특화사업을: [tʰ ɨ kʰ w ɐ sʰ ɐ ʌ b ɨ ɭ]
-          * 울산이: [u ɭ s ɐ n i]
-          * 사용시간을: [sʰ ɐ j o ŋ ɕʰ i ɡ ɐ n ɨ ɭ]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 일벌레: [i ɭ b ʌ ɭ ɭ e]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -444,17 +444,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 29148
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 일벌레: [i ɭ b ʌ ɭ ɭ e]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
       * iː
         * Occurances: 1829
         * Examples
-          * 심하다: [ɕʰ iː m h ɐ d ɐ]
-          * 이규섭: [iː ɡ j u sʰ ʌ p̚]
-          * 신년하례도: [ɕʰ iː n ɲ ʌ n h ɐ ɾ j e d o]
-          * 미지근: [m iː dʑ i ɡ ɨ n]
+          * 뒤덮이: [t ɥ iː d ʌ pʰ i]
+          * 뒤떨어진: [t ɥ iː t͈ ʌ ɾ ʌ dʑ i n]
+          * 시흥시: [ɕʰ iː ɣ ɨ ŋ ɕʰ i]
+          * 심각했다: [ɕʰ iː m ɡ ɐ kʰ eː t̚ tʰ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -463,17 +463,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 18341
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 흔들리다: [x ɨ n d ɨ ʎ ʎ i d ɐ]
-          * 특화사업을: [tʰ ɨ kʰ w ɐ sʰ ɐ ʌ b ɨ ɭ]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
       * ɨː
         * Occurances: 242
         * Examples
-          * 끌려가: [k͈ ɨː ʎ ʎ ʌ ɡ ɐ]
-          * 금하다: [k ɨː m h ɐ d ɐ]
           * 끊으려고: [k͈ ɨ n ɨː ɾ j ʌ ɡ o]
-          * 응집력: [ɨː ŋ dʑ i m ɲ ʌ k̚]
+          * 등에만: [t ɨː e m ɐ n]
+          * 으리라는: [ɨː ɾ i ɾ ɐ n ɨ n]
+          * 끌어들여: [k͈ ɨː ɾ ʌ d ɨ ɾ j ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -482,17 +482,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 14492
         * Examples
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 투자주: [tʰ u dʑ ɐ dʑ u]
-          * 회부됐다고: [ɸ w e b u tʰ w eː t̚ tʰ ɐ ɡ o]
-          * 귓구멍: [k ɥ i t̚ kʰ u m ʌ ŋ]
+          * 징수금: [tɕ i ŋ sʰ u ɡ ɨ m]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
+          * 불면증: [p u ɭ m j ʌ ɲ tɕ ɨ ŋ]
+          * 이루어져왔: [i ɾ u ʌ dʑ ʌ w ɐ t̚]
       * uː
         * Occurances: 1086
         * Examples
-          * 운영해: [uː ɲ ʌ ŋ h eː]
-          * 후임자: [ɸ uː i m dʑ ɐ]
-          * 수없이: [sʰ uː ʌ p ɕ͈ i]
-          * 주최할: [tɕ uː tɕʰ w e ɦ ɐ ɭ]
+          * 수행원에게: [sʰ uː ɦ eː ŋ w ʌ n e ɡ e]
+          * 부재였다: [p uː tɕ eː ʌ t̚ tʰ ɐ]
+          * 수많다: [sʰ uː m ɐ n tʰ ɐ]
+          * 구하듯: [k uː ɦ ɐ d ɨ t̚]
     ```
 * -
   - ```{ipa_cell}
@@ -511,17 +511,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 9604
         * Examples
-          * 에워싸고: [e w ʌ s͈ ɐ ɡ o]
-          * 회부됐다고: [ɸ w e b u tʰ w eː t̚ tʰ ɐ ɡ o]
-          * 최민화: [tɕʰ w e m i n β w ɐ]
-          * 최근에는: [tɕʰ w eː ɡ ɨ n e n ɨ n]
+          * 일벌레: [i ɭ b ʌ ɭ ɭ e]
+          * 못하게: [m o tʰ ɐ ɡ e]
+          * 수행원에게: [sʰ uː ɦ eː ŋ w ʌ n e ɡ e]
+          * 르네상스: [ɾ ɨ n e sʰ ɐ ŋ sʰ ɨ]
       * eː
         * Occurances: 9168
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 재계약: [tɕ eː k j eː j ɐ k̚]
+          * 예정자들은: [j eː dʑ ʌ ŋ dʑ ɐ d ɨ ɾ ɨ n]
+          * 수행원에게: [sʰ uː ɦ eː ŋ w ʌ n e ɡ e]
+          * 입증해: [i m tɕ ɨ ŋ h eː]
+          * 아래에: [ɐ ɾ eː e]
     ```
   - ```{ipa_cell}
     ```
@@ -534,17 +534,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 19381
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 잘하고: [tɕ ɐ ɦ ɐ ɡ o]
-          * 주도권이: [tɕ u d o k w ʌ n i]
+          * 고독을: [k o d o ɡ ɨ ɭ]
+          * 선거통: [sʰ ʌː n ɡ ʌ tʰ o ŋ]
+          * 치솟은: [tɕʰ i sʰ o sʰ ɨ n]
+          * 나라보다: [n ɐ ɾ ɐ b o d ɐ]
       * oː
         * Occurances: 1819
         * Examples
-          * 좋은지: [tɕ oː ɨ ɲ dʑ i]
-          * 종류일: [tɕ oː ŋ ɲ u i ɭ]
-          * 동맹국: [t oː ŋ m eː ŋ ɡ u k̚]
-          * 올해로: [oː ɾ h eː ɾ o]
+          * 보십시오: [p oː ɕʰ i p ɕ͈ i o]
+          * 보상비: [p oː sʰ ɐ ŋ b i]
+          * 동네라고: [t oː ŋ n e ɾ ɐ ɡ o]
+          * 촌스러운: [tɕʰ oː n sʰ ɨ ɾ ʌ u n]
     ```
 * -
   - ```{ipa_cell}
@@ -571,17 +571,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 26002
         * Examples
-          * 개념을: [k eː ɲ ʌ m ɨ ɭ]
-          * 그랬어요: [k ɨ ɾ eː s ʌ j o]
-          * 주도권이: [tɕ u d o k w ʌ n i]
-          * 젖먹이: [tɕ ʌ n m ʌ ɡ i]
+          * 일벌레: [i ɭ b ʌ ɭ ɭ e]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
+          * 정리를: [tɕ ʌ ŋ n i ɾ ɨ ɭ]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
       * ʌː
         * Occurances: 2526
         * Examples
-          * 거쳐서: [k ʌ tɕʰ ʌː s ʌ]
-          * 벌어들인: [p ʌː ɾ ʌ d ɨ ɾ i n]
-          * 전당대회에: [tɕ ʌː n d ɐ ŋ t eː β w e e]
-          * 범위와: [p ʌː m ɥ i w ɐ]
+          * 선거철: [sʰ ʌː n ɡ ʌ tɕʰ ʌ ɭ]
+          * 정리를: [tɕ ʌː ŋ n i ɾ ɨ ɭ]
+          * 선거통: [sʰ ʌː n ɡ ʌ tʰ o ŋ]
+          * 검사를: [k ʌː m sʰ ɐ ɾ ɨ ɭ]
     ```
 * -
   - ```{ipa_cell}
@@ -593,10 +593,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 44370
         * Examples
-          * 동아시아: [t o ŋ ɐ ɕʰ i ɐ]
-          * 잘하고: [tɕ ɐ ɦ ɐ ɡ o]
-          * 제약이: [tɕ eː j ɐ ɡ i]
-          * 흔들리다: [x ɨ n d ɨ ʎ ʎ i d ɐ]
+          * 자리를: [tɕ ɐ ɾ i ɾ ɨ ɭ]
+          * 중앙지검: [tɕ u ŋ ɐ ŋ dʑ i ɡ ʌ m]
+          * 증권사는: [tɕ ɨ ŋ k w ʌ n sʰ ɐ n ɨ n]
+          * 나라보다: [n ɐ ɾ ɐ b o d ɐ]
     ```
   - ```{ipa_cell}
     ```

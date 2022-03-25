@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @inproceedings{federmann2016microsoft,
-	title={Microsoft speech language translation (mslt) corpus: The iwslt 2016 release for english, french and german},
-	author={Federmann, Christian and Lewis, William D},
-	booktitle={International workshop on spoken language translation},
-	year={2016}
+	title = {Microsoft speech language translation (mslt) corpus: The iwslt 2016 release for english, french and german},
+	author = {Federmann, Christian and Lewis, William D},
+	booktitle = {International workshop on spoken language translation},
+	year = {2016}
 }
 
 ```

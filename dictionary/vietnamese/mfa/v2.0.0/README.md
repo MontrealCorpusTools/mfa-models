@@ -18,7 +18,7 @@ Jump to section:
 - **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#vietnamese)
 - **Number of words:** `4,810`
 - **Phones:** `aː˦˥ aː˦˨ aː˨ˀ˥ aː˨ˀ˦ aː˨˥ aː˨˦ aː˨˨ aː˨˨ˀ aː˨˩ aː˨˩ˀ aː˨˩˦ aː˨˩˨ a˦˥ a˦˨ a˨ˀ˥ a˨ˀ˦ a˨˥ a˨˦ a˨˨ a˨˨ˀ a˨˩ a˨˩ˀ a˨˩˦ a˨˩˨ c eː˦˥ eː˦˨ eː˨ˀ˥ eː˨ˀ˦ eː˨˥ eː˨˦ eː˨˨ eː˨˨ˀ eː˨˩ eː˨˩ˀ eː˨˩˦ eː˨˩˨ e˦˥ e˨ˀ˥ e˨˨ e˨˩ e˨˩ˀ e˨˩˨ f h iə˦˥ iə˦˨ iə˨ˀ˥ iə˨ˀ˦ iə˨˥ iə˨˦ iə˨˨ iə˨˨ˀ iə˨˩ iə˨˩ˀ iə˨˩˦ iə˨˩˨ iː˦˥ iː˦˨ iː˨ˀ˥ iː˨ˀ˦ iː˨˥ iː˨˦ iː˨˨ iː˨˨ˀ iː˨˩ iː˨˩ˀ iː˨˩˦ iː˨˩˨ i˦˥ i˦˨ i˨ˀ˥ i˨ˀ˦ i˨˥ i˨˦ i˨˨ i˨˨ˀ i˨˩ i˨˩ˀ i˨˩˦ i˨˩˨ j k kp l m n oː˦˥ oː˦˨ oː˨ˀ˥ oː˨ˀ˦ oː˨˥ oː˨˦ oː˨˨ oː˨˨ˀ oː˨˩ oː˨˩ˀ oː˨˩˦ oː˨˩˨ o˦˥ o˦˨ o˨ˀ˥ o˨ˀ˦ o˨˥ o˨˦ o˨˨ o˨˨ˀ o˨˩ o˨˩ˀ o˨˩˦ o˨˩˨ p r s t tɕ tʰ uə˦˥ uə˦˨ uə˨ˀ˥ uə˨ˀ˦ uə˨˥ uə˨˦ uə˨˨ uə˨˨ˀ uə˨˩ uə˨˩ˀ uə˨˩˦ uə˨˩˨ uː˦˥ uː˦˨ uː˨ˀ˥ uː˨ˀ˦ uː˨˥ uː˨˦ uː˨˨ uː˨˨ˀ uː˨˩ uː˨˩ˀ uː˨˩˦ uː˨˩˨ u˦˥ u˦˨ u˨ˀ˥ u˨ˀ˦ u˨˥ u˨˦ u˨˨ u˨˨ˀ u˨˩ u˨˩ˀ u˨˩˦ u˨˩˨ v w x z ŋ ŋm ɓ ɔː˦˥ ɔː˦˨ ɔː˨ˀ˥ ɔː˨ˀ˦ ɔː˨˥ ɔː˨˦ ɔː˨˨ ɔː˨˨ˀ ɔː˨˩ ɔː˨˩ˀ ɔː˨˩˦ ɔː˨˩˨ ɔ˦˥ ɔ˦˨ ɔ˨ˀ˥ ɔ˨ˀ˦ ɔ˨˥ ɔ˨˦ ɔ˨˨ ɔ˨˨ˀ ɔ˨˩ ɔ˨˩ˀ ɔ˨˩˦ ɔ˨˩˨ ɗ əː˦˥ əː˦˨ əː˨ˀ˥ əː˨ˀ˦ əː˨˥ əː˨˦ əː˨˨ əː˨˨ˀ əː˨˩ əː˨˩ˀ əː˨˩˦ əː˨˩˨ ə˦˥ ə˦˨ ə˨ˀ˥ ə˨ˀ˦ ə˨˥ ə˨˦ ə˨˨ ə˨˨ˀ ə˨˩ ə˨˩ˀ ə˨˩˦ ə˨˩˨ ɛː˦˥ ɛː˦˨ ɛː˨ˀ˥ ɛː˨ˀ˦ ɛː˨˥ ɛː˨˦ ɛː˨˨ ɛː˨˨ˀ ɛː˨˩ ɛː˨˩ˀ ɛː˨˩˦ ɛː˨˩˨ ɡ ɣ ɨə˦˥ ɨə˦˨ ɨə˨ˀ˥ ɨə˨ˀ˦ ɨə˨˥ ɨə˨˦ ɨə˨˨ ɨə˨˨ˀ ɨə˨˩ ɨə˨˩ˀ ɨə˨˩˦ ɨə˨˩˨ ɨː˦˥ ɨː˦˨ ɨː˨ˀ˥ ɨː˨ˀ˦ ɨː˨˥ ɨː˨˦ ɨː˨˨ ɨː˨˨ˀ ɨː˨˩ ɨː˨˩ˀ ɨː˨˩˦ ɨː˨˩˨ ɨ˦˥ ɨ˦˨ ɨ˨ˀ˥ ɨ˨ˀ˦ ɨ˨˥ ɨ˨˦ ɨ˨˨ ɨ˨˨ˀ ɨ˨˩ ɨ˨˩ˀ ɨ˨˩˦ ɨ˨˩˨ ɲ ʈ ʔ`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/vietnamese/MFA/v2.0.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/vietnamese/mfa/v2.0.0/LICENSE)
 - **Compatible MFA version:** `v2.0.0`
 - **Citation:**
 
@@ -55,7 +55,7 @@ Pronunciations can be added on top of the dictionary, as long as no additional p
 ## Performance Factors
 
 When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be felt when adding reduced variants that
+The most impactful improvements will generally be seen when adding reduced variants that
 involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
 a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
 so it will lead to alignment errors on adjacent words as well.

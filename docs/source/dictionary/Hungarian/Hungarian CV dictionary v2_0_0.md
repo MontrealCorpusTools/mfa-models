@@ -53,17 +53,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 6681
         * Examples
-          * emeli: [ɛ m ɛ l i]
-          * enzim: [ɛ n z i m]
-          * barom: [b ɑ r o m]
-          * tudom: [t u d o m]
+          * hamis: [h ɑ m i ʃ]
+          * ittam: [i tː ɑ m]
+          * merít: [m ɛ r iː t]
+          * mire: [m i r ɛ]
       * mː
         * Occurances: 97
         * Examples
-          * jimmy: [j i mː i]
-          * tommy: [t o mː i]
           * bumm: [b u mː]
           * somme: [ʃ o mː ɛ]
+          * immár: [i mː aː r]
+          * jimmy: [j i mː i]
     ```
   - ```{ipa_cell}
     ```
@@ -72,17 +72,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 11029
         * Examples
-          * kapun: [k ɑ p u n]
-          * ibsen: [i b ʃ ɛ n]
-          * úszni: [uː s n i]
-          * végén: [v eː ɡ eː n]
+          * jelen: [j ɛ l ɛ n]
+          * nara: [n ɑ r ɑ]
+          * pálné: [p aː l n eː]
+          * törni: [t ø r n i]
       * nː
         * Occurances: 243
         * Examples
-          * innét: [i nː eː t]
-          * innék: [i nː eː k]
-          * menne: [m ɛ nː ɛ]
           * fönn: [f ø nː]
+          * innék: [i nː eː k]
+          * ennek: [ɛ nː ɛ k]
+          * jönne: [j ø nː ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -91,17 +91,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 1645
         * Examples
-          * nyelv: [ɲ ɛ l v]
-          * nyűtt: [ɲ yː tː]
-          * anyám: [ɑ ɲ aː m]
-          * tény: [t eː ɲ]
+          * arany: [ɑ r ɑ ɲ]
+          * nyújt: [ɲ uː j t]
+          * fényű: [f eː ɲ yː]
+          * anyu: [ɑ ɲ u]
       * ɲː
         * Occurances: 95
         * Examples
-          * penny: [p ɛ ɲː]
-          * ennyi: [ɛ ɲː i]
-          * annyi: [ɑ ɲː i]
+          * ronny: [r o ɲː]
           * denny: [d ɛ ɲː]
+          * annyi: [ɑ ɲː i]
+          * ennyi: [ɛ ɲː i]
     ```
   - ```{ipa_cell}
     ```
@@ -113,32 +113,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2885
         * Examples
-          * kapun: [k ɑ p u n]
-          * pályi: [p aː j i]
-          * tépni: [t eː p n i]
-          * napló: [n ɑ p l oː]
+          * pálné: [p aː l n eː]
+          * láp: [l aː p]
+          * gép: [ɡ eː p]
+          * kapja: [k ɑ p j ɑ]
       * pː
         * Occurances: 74
         * Examples
           * lapp: [l ɑ pː]
-          * éppen: [eː pː ɛ n]
-          * zupp: [z u pː]
           * hopp: [h o pː]
+          * éppen: [eː pː ɛ n]
+          * épp: [eː pː]
     * voiced
       * b
         * Occurances: 4526
         * Examples
-          * bábuk: [b aː b u k]
-          * ibsen: [i b ʃ ɛ n]
-          * beat: [b ɛ ɑ t]
-          * suba: [ʃ u b ɑ]
+          * égbe: [eː ɡ b ɛ]
+          * jobs: [j o b ʃ]
+          * bízta: [b iː z t ɑ]
+          * korba: [k o r b ɑ]
       * bː
         * Occurances: 366
         * Examples
-          * jobb: [j o bː]
-          * ebbe: [ɛ bː ɛ]
+          * abból: [ɑ bː oː l]
           * abba: [ɑ bː ɑ]
-          * alább: [ɑ l aː bː]
+          * újabb: [uː j ɑ bː]
+          * ebben: [ɛ bː ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -147,32 +147,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 15997
         * Examples
-          * volt: [v o l t]
-          * eljut: [ɛ l j u t]
-          * ölték: [ø l t eː k]
-          * tura: [t u r ɑ]
+          * évét: [eː v eː t]
+          * merít: [m ɛ r iː t]
+          * törni: [t ø r n i]
+          * értek: [eː r t ɛ k]
       * tː
         * Occurances: 1918
         * Examples
-          * vette: [v ɛ tː ɛ]
-          * nyűtt: [ɲ yː tː]
-          * ettől: [ɛ tː øː l]
-          * hitte: [h i tː ɛ]
+          * ittam: [i tː ɑ m]
+          * lőtte: [l øː tː ɛ]
+          * jött: [j ø tː]
+          * miatt: [m i ɑ tː]
     * voiced
       * d
         * Occurances: 5125
         * Examples
-          * dél: [d eː l]
-          * ludas: [l u d ɑ ʃ]
-          * rendi: [r ɛ n d i]
-          * akadt: [ɑ k ɑ d t]
+          * rádió: [r aː d i oː]
+          * adtuk: [ɑ d t u k]
+          * írd: [iː r d]
+          * adta: [ɑ d t ɑ]
       * dː
         * Occurances: 62
         * Examples
-          * kezdd: [k ɛ z dː]
-          * add: [ɑ dː]
-          * keddi: [k ɛ dː i]
-          * tudd: [t u dː]
+          * rudd: [r u dː]
+          * mondd: [m o n dː]
+          * vidd: [v i dː]
+          * vedd: [v ɛ dː]
     ```
   - ```{ipa_cell}
     ```
@@ -181,10 +181,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 115
         * Examples
-          * tyúk: [c uː k]
+          * atyja: [ɑ c j ɑ]
+          * pityu: [p i c u]
           * kutya: [k u c ɑ]
           * atya: [ɑ c ɑ]
-          * city: [ts i c i]
       * cː
         * Occurances: 18
         * Examples
@@ -193,10 +193,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɟ
         * Occurances: 1318
         * Examples
-          * hölgy: [h ø l ɟ]
-          * egyre: [ɛ ɟ r ɛ]
-          * légy: [l eː ɟ]
-          * ügyes: [y ɟ ɛ ʃ]
+          * amúgy: [ɑ m uː ɟ]
+          * kígyó: [k iː ɟ oː]
+          * négy: [n eː ɟ]
+          * hogy: [h o ɟ]
       * ɟː
         * Occurances: 28
         * Examples
@@ -206,25 +206,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 12686
         * Examples
-          * bábuk: [b aː b u k]
-          * húguk: [h uː ɡ u k]
-          * kapun: [k ɑ p u n]
-          * ölték: [ø l t eː k]
+          * sírok: [ʃ iː r o k]
+          * értek: [eː r t ɛ k]
+          * fájuk: [f aː j u k]
+          * címek: [ts iː m ɛ k]
       * kː
         * Occurances: 262
         * Examples
-          * ekkor: [ɛ kː o r]
           * cikk: [ts i kː]
           * trükk: [t r y kː]
+          * sakk: [ʃ ɑ kː]
           * cikke: [ts i kː ɛ]
     * voiced
       * ɡ
         * Occurances: 5401
         * Examples
-          * öreg: [ø r ɛ ɡ]
-          * húguk: [h uː ɡ u k]
-          * gear: [ɡ ɛ ɑ r]
-          * ágról: [aː ɡ r oː l]
+          * égbe: [eː ɡ b ɛ]
+          * mozgó: [m o z ɡ oː]
+          * remeg: [r ɛ m ɛ ɡ]
+          * jogi: [j o ɡ i]
       * ɡː
         * Occurances: 123
         * Examples
@@ -245,31 +245,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 1178
         * Examples
-          * voice: [v o i ts ɛ]
-          * pince: [p i n ts ɛ]
-          * arcot: [ɑ r ts o t]
-          * óceán: [oː ts ɛ aː n]
+          * címek: [ts iː m ɛ k]
+          * címe: [ts iː m ɛ]
+          * foci: [f o ts i]
+          * utcán: [u t ts aː n]
       * tsː
         * Occurances: 24
         * Examples
           * gucci: [ɡ u tsː i]
-          * vicc: [v i tsː]
           * secco: [ʃ ɛ tsː o]
+          * vicc: [v i tsː]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1241
         * Examples
-          * cheng: [tʃ ɛ n ɡ]
-          * nincs: [n i n tʃ]
-          * csönd: [tʃ ø n d]
-          * csapó: [tʃ ɑ p oː]
+          * croce: [k r o tʃ ɛ]
+          * bölcs: [b ø l tʃ]
+          * cser: [tʃ ɛ r]
+          * csal: [tʃ ɑ l]
       * tʃː
         * Occurances: 12
         * Examples
-          * meccs: [m ɛ tʃː]
           * öccse: [ø tʃː ɛ]
+          * meccs: [m ɛ tʃː]
     ```
   - ```{ipa_cell}
     ```
@@ -287,57 +287,57 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 4193
         * Examples
-          * úszni: [uː s n i]
-          * szia: [s i ɑ]
-          * szólt: [s oː l t]
-          * jász: [j aː s]
+          * szőre: [s øː r ɛ]
+          * őszén: [øː s eː n]
+          * ász: [aː s]
+          * fasz: [f ɑ s]
       * sː
         * Occurances: 346
         * Examples
-          * jössz: [j ø sː]
           * rossz: [r o sː]
+          * jössz: [j ø sː]
           * mássz: [m aː sː]
           * össze: [ø sː ɛ]
     * voiced
       * z
         * Occurances: 4063
         * Examples
-          * fűzfa: [f yː z f ɑ]
-          * ehhez: [ɛ hː ɛ z]
-          * enzim: [ɛ n z i m]
-          * nézek: [n eː z ɛ k]
+          * fűz: [f yː z]
+          * fázol: [f aː z o l]
+          * mozgó: [m o z ɡ oː]
+          * nézi: [n eː z i]
       * zː
         * Occurances: 124
         * Examples
-          * izzó: [i zː oː]
           * húzza: [h uː zː ɑ]
-          * azzal: [ɑ zː ɑ l]
+          * nézz: [n eː zː]
           * hozza: [h o zː ɑ]
+          * jazz: [j ɑ zː]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 7165
         * Examples
-          * ibsen: [i b ʃ ɛ n]
-          * érsek: [eː r ʃ ɛ k]
-          * suba: [ʃ u b ɑ]
-          * ludas: [l u d ɑ ʃ]
+          * sírok: [ʃ iː r o k]
+          * hús: [h uː ʃ]
+          * hamis: [h ɑ m i ʃ]
+          * jobs: [j o b ʃ]
       * ʃː
         * Occurances: 344
         * Examples
-          * kissé: [k i ʃː eː]
-          * kassa: [k ɑ ʃː ɑ]
-          * fuss: [f u ʃː]
           * friss: [f r i ʃː]
+          * vesse: [v ɛ ʃː ɛ]
+          * lássa: [l aː ʃː ɑ]
+          * süss: [ʃ y ʃː]
     * voiced
       * ʒ
         * Occurances: 253
         * Examples
-          * törzs: [t ø r ʒ]
-          * józsa: [j oː ʒ ɑ]
-          * özséb: [ø ʒ eː b]
-          * zsidó: [ʒ i d oː]
+          * ázsia: [aː ʒ i ɑ]
+          * rózsa: [r oː ʒ ɑ]
+          * dezső: [d ɛ ʒ øː]
+          * zsák: [ʒ aː k]
     ```
   - ```{ipa_cell}
     ```
@@ -353,10 +353,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 2635
         * Examples
-          * felől: [f ɛ l øː l]
-          * fűzfa: [f yː z f ɑ]
-          * főleg: [f øː l ɛ ɡ]
-          * fiát: [f i aː t]
+          * fűz: [f yː z]
+          * fázol: [f aː z o l]
+          * fájuk: [f aː j u k]
+          * fokot: [f o k o t]
       * fː
         * Occurances: 17
         * Examples
@@ -366,15 +366,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * v
         * Occurances: 4415
         * Examples
-          * volt: [v o l t]
-          * elve: [ɛ l v ɛ]
-          * nyelv: [ɲ ɛ l v]
-          * vető: [v ɛ t øː]
+          * évét: [eː v eː t]
+          * ravel: [r ɑ v ɛ l]
+          * vonz: [v o n z]
+          * vásár: [v aː ʃ aː r]
       * vː
         * Occurances: 10
         * Examples
-          * évvel: [eː vː ɛ l]
           * evvel: [ɛ vː ɛ l]
+          * évvel: [eː vː ɛ l]
     ```
   - ```{ipa_cell}
     ```
@@ -389,15 +389,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 3530
         * Examples
-          * hölgy: [h ø l ɟ]
-          * húguk: [h uː ɡ u k]
-          * helyi: [h ɛ j i]
-          * hoya: [h o i ɑ]
+          * hell: [h ɛ lː]
+          * hús: [h uː ʃ]
+          * hamis: [h ɑ m i ʃ]
+          * halak: [h ɑ l ɑ k]
       * hː
         * Occurances: 5
         * Examples
-          * ehhez: [ɛ hː ɛ z]
           * ahhoz: [ɑ hː o z]
+          * ehhez: [ɛ hː ɛ z]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -413,17 +413,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 3847
         * Examples
-          * eljut: [ɛ l j u t]
+          * jelen: [j ɛ l ɛ n]
+          * jobs: [j o b ʃ]
+          * fájuk: [f aː j u k]
           * útját: [uː t j aː t]
-          * jelöl: [j ɛ l ø l]
-          * rója: [r oː j ɑ]
       * jː
         * Occurances: 71
         * Examples
-          * bújj: [b uː jː]
-          * ujj: [u jː]
+          * ujjam: [u jː ɑ m]
           * ujjak: [u jː ɑ k]
-          * ujjai: [u jː ɑ i]
+          * ujj: [u jː]
+          * ujjad: [u jː ɑ d]
     ```
   - ```{ipa_cell}
     ```
@@ -439,17 +439,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 10933
         * Examples
-          * öreg: [ø r ɛ ɡ]
-          * gear: [ɡ ɛ ɑ r]
-          * tura: [t u r ɑ]
-          * ágról: [aː ɡ r oː l]
+          * sírok: [ʃ iː r o k]
+          * nara: [n ɑ r ɑ]
+          * merít: [m ɛ r iː t]
+          * ronny: [r o ɲː]
       * rː
         * Occurances: 180
         * Examples
-          * terra: [t ɛ rː ɑ]
-          * arról: [ɑ rː oː l]
-          * sárrá: [ʃ aː rː aː]
-          * erről: [ɛ rː øː l]
+          * körre: [k ø rː ɛ]
+          * arra: [ɑ rː ɑ]
+          * sorra: [ʃ o rː ɑ]
+          * tőrré: [t øː rː eː]
     ```
   - ```{ipa_cell}
     ```
@@ -469,17 +469,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 12694
         * Examples
-          * hölgy: [h ø l ɟ]
-          * volt: [v o l t]
-          * felől: [f ɛ l øː l]
-          * dél: [d eː l]
+          * jelen: [j ɛ l ɛ n]
+          * fázol: [f aː z o l]
+          * pálné: [p aː l n eː]
+          * lelt: [l ɛ l t]
       * lː
         * Occurances: 924
         * Examples
-          * áll: [aː lː]
-          * ellés: [ɛ lː eː ʃ]
+          * hell: [h ɛ lː]
+          * állj: [aː lː j]
           * bill: [b i lː]
-          * balla: [b ɑ lː ɑ]
+          * illik: [i lː i k]
     ```
   - ```{ipa_cell}
     ```
@@ -513,32 +513,32 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 9524
         * Examples
-          * kivel: [k i v ɛ l]
-          * emeli: [ɛ m ɛ l i]
-          * ibsen: [i b ʃ ɛ n]
-          * úszni: [uː s n i]
+          * hamis: [h ɑ m i ʃ]
+          * ittam: [i tː ɑ m]
+          * törni: [t ø r n i]
+          * mire: [m i r ɛ]
       * iː
         * Occurances: 1714
         * Examples
-          * sírni: [ʃ iː r n i]
-          * hízik: [h iː z i k]
-          * díj: [d iː j]
-          * színű: [s iː n yː]
+          * sírok: [ʃ iː r o k]
+          * merít: [m ɛ r iː t]
+          * címek: [ts iː m ɛ k]
+          * kígyó: [k iː ɟ oː]
     * rounded
       * y
         * Occurances: 1426
         * Examples
-          * üst: [y ʃ t]
-          * üstöt: [y ʃ t ø t]
-          * felül: [f ɛ l y l]
-          * repül: [r ɛ p y l]
+          * örült: [ø r y l t]
+          * élünk: [eː l y n k]
+          * ütik: [y t i k]
+          * épülő: [eː p y l øː]
       * yː
         * Occurances: 237
         * Examples
-          * fűzfa: [f yː z f ɑ]
-          * nyűtt: [ɲ yː tː]
-          * hűhót: [h yː h oː t]
-          * színű: [s iː n yː]
+          * fűz: [f yː z]
+          * fényű: [f eː ɲ yː]
+          * derű: [d ɛ r yː]
+          * képű: [k eː p yː]
     ```
   - ```{ipa_cell}
     ```
@@ -551,17 +551,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 3201
         * Examples
-          * bábuk: [b aː b u k]
-          * húguk: [h uː ɡ u k]
-          * kapun: [k ɑ p u n]
-          * eljut: [ɛ l j u t]
+          * fájuk: [f aː j u k]
+          * autót: [ɑ u t oː t]
+          * jure: [j u r ɛ]
+          * kutat: [k u t ɑ t]
       * uː
         * Occurances: 806
         * Examples
-          * húguk: [h uː ɡ u k]
+          * hús: [h uː ʃ]
+          * amúgy: [ɑ m uː ɟ]
           * útját: [uː t j aː t]
-          * úszni: [uː s n i]
-          * tyúk: [c uː k]
+          * nyújt: [ɲ uː j t]
     ```
 * -
   - ```{ipa_cell}
@@ -580,25 +580,25 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 7518
         * Examples
-          * dél: [d eː l]
-          * élő: [eː l øː]
-          * ölték: [ø l t eː k]
-          * évtől: [eː v t øː l]
+          * évét: [eː v eː t]
+          * égbe: [eː ɡ b ɛ]
+          * pálné: [p aː l n eː]
+          * értek: [eː r t ɛ k]
     * rounded
       * ø
         * Occurances: 2659
         * Examples
-          * hölgy: [h ø l ɟ]
-          * öreg: [ø r ɛ ɡ]
-          * ölték: [ø l t eː k]
-          * jelöl: [j ɛ l ø l]
+          * törni: [t ø r n i]
+          * körre: [k ø rː ɛ]
+          * mögé: [m ø ɡ eː]
+          * fönn: [f ø nː]
       * øː
         * Occurances: 2086
         * Examples
-          * felől: [f ɛ l øː l]
-          * élő: [eː l øː]
-          * vető: [v ɛ t øː]
-          * évtől: [eː v t øː l]
+          * szőre: [s øː r ɛ]
+          * őszén: [øː s eː n]
+          * lőtte: [l øː tː ɛ]
+          * őrök: [øː r ø k]
     ```
   - ```{ipa_cell}
     ```
@@ -611,17 +611,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 10398
         * Examples
-          * volt: [v o l t]
-          * jovi: [j o v i]
-          * barom: [b ɑ r o m]
-          * tudom: [t u d o m]
+          * sírok: [ʃ iː r o k]
+          * fázol: [f aː z o l]
+          * jobs: [j o b ʃ]
+          * ronny: [r o ɲː]
       * oː
         * Occurances: 2655
         * Examples
-          * ágról: [aː ɡ r oː l]
-          * rója: [r oː j ɑ]
-          * lóra: [l oː r ɑ]
-          * silók: [ʃ i l oː k]
+          * mozgó: [m o z ɡ oː]
+          * kígyó: [k iː ɟ oː]
+          * autót: [ɑ u t oː t]
+          * ókor: [oː k o r]
     ```
 * -
   - ```{ipa_cell}
@@ -640,10 +640,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 23023
         * Examples
-          * öreg: [ø r ɛ ɡ]
-          * felől: [f ɛ l øː l]
-          * elve: [ɛ l v ɛ]
-          * nyelv: [ɲ ɛ l v]
+          * jelen: [j ɛ l ɛ n]
+          * hell: [h ɛ lː]
+          * égbe: [eː ɡ b ɛ]
+          * merít: [m ɛ r iː t]
     ```
   - ```{ipa_cell}
     ```
@@ -674,10 +674,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * aː
         * Occurances: 9857
         * Examples
-          * bábuk: [b aː b u k]
-          * áll: [aː lː]
+          * fázol: [f aː z o l]
+          * pálné: [p aː l n eː]
+          * fájuk: [f aː j u k]
           * útját: [uː t j aː t]
-          * ágról: [aː ɡ r oː l]
     ```
   - ```{ipa_cell}
     ```
@@ -686,9 +686,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 17565
         * Examples
-          * kapun: [k ɑ p u n]
-          * gear: [ɡ ɛ ɑ r]
-          * tura: [t u r ɑ]
-          * fűzfa: [f yː z f ɑ]
+          * hamis: [h ɑ m i ʃ]
+          * nara: [n ɑ r ɑ]
+          * ittam: [i tː ɑ m]
+          * amúgy: [ɑ m uː ɟ]
     ```
 ``````

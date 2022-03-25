@@ -19,10 +19,10 @@
 - **Citation:**
 ```bibtex
 @article{hopkins2019aru,
-	title={ARU speech corpus (University of Liverpool)},
-	author={Hopkins, Carl and Graetzer, Simone and Seiffert, Gary},
-	year={2019},
-	publisher={University of Liverpool}
+	title = {ARU speech corpus (University of Liverpool)},
+	author = {Hopkins, Carl and Graetzer, Simone and Seiffert, Gary},
+	year = {2019},
+	publisher = {University of Liverpool}
 }
 
 ```

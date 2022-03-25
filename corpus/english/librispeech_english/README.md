@@ -19,12 +19,12 @@
 - **Citation:**
 ```bibtex
 @inproceedings{panayotov2015librispeech,
-	title={Librispeech: an asr corpus based on public domain audio books},
-	author={Panayotov, Vassil and Chen, Guoguo and Povey, Daniel and Khudanpur, Sanjeev},
-	booktitle={2015 IEEE international conference on acoustics, speech and signal processing (ICASSP)},
-	pages={5206--5210},
-	year={2015},
-	organization={IEEE}
+	title = {Librispeech: an asr corpus based on public domain audio books},
+	author = {Panayotov, Vassil and Chen, Guoguo and Povey, Daniel and Khudanpur, Sanjeev},
+	booktitle = {2015 IEEE international conference on acoustics, speech and signal processing (ICASSP)},
+	pages = {5206--5210},
+	year = {2015},
+	organization = {IEEE}
 }
 
 ```
