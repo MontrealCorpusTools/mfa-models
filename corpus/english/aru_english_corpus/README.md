@@ -24,7 +24,6 @@
 	year = {2019},
 	publisher = {University of Liverpool}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

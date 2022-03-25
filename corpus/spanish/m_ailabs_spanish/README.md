@@ -18,7 +18,11 @@
 
 - **Citation:**
 ```bibtex
-
+@misc{solak2019m,
+	title = {The M-AILABS speech dataset},
+	author = {Solak, Imdat},
+	year = {2019}
+}
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

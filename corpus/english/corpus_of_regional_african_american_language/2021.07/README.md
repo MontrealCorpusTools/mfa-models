@@ -26,7 +26,6 @@
 	pages = {1},
 	year = {2018}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

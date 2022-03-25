@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 2168
         * Examples
-          * симӗс: [s i m ɛ s]
-          * юлман: [j u l m ɑ n]
-          * меллӗ: [m e lː ɛ]
-          * мишши: [m i ʃː i]
+          * сума: [s u m ɑ]
+          * тӑман: [t ʌ m ɑ n]
+          * кичем: [k i tʃ e m]
+          * намӑс: [n ɑ m ʌ s]
       * mː
         * Occurances: 18
         * Examples
@@ -70,17 +70,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 4167
         * Examples
-          * тесен: [t e s e n]
-          * лекнӗ: [l e k n ɛ]
-          * кӗнӗ: [k ɛ n ɛ]
-          * енче: [j e n tʃ e]
+          * тӑман: [t ʌ m ɑ n]
+          * инҫех: [i n ɕ e χ]
+          * кунпа: [k u n p ɑ]
+          * намӑс: [n ɑ m ʌ s]
       * nː
         * Occurances: 217
         * Examples
-          * суннӑ: [s u nː ʌ]
-          * аннен: [ɑ nː e n]
-          * аннӑ: [ɑ nː ʌ]
-          * сӳннӗ: [s y nː ɛ]
+          * енне: [j e nː e]
+          * ваннӑ: [v ɑ nː ʌ]
+          * чунне: [tʃ u nː e]
+          * кинне: [k i nː e]
     ```
   - ```{ipa_cell}
     ```
@@ -96,25 +96,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 1994
         * Examples
-          * пепке: [p e p k e]
-          * тӗплӗ: [t ɛ p l ɛ]
-          * йӗпе: [j ɛ p e]
-          * пуҫне: [p u ɕ n e]
+          * кунпа: [k u n p ɑ]
+          * пынӑ: [p ɯ n ʌ]
+          * питӗр: [p i t ɛ r]
+          * пирус: [p i r u s]
       * pː
         * Occurances: 22
         * Examples
-          * аппа: [ɑ pː ɑ]
           * аппам: [ɑ pː ɑ m]
+          * аппа: [ɑ pː ɑ]
+          * эппин: [e pː i n]
           * чӗппи: [tʃ ɛ pː i]
-          * ҫиппе: [ɕ i pː e]
     * voiced
       * b
         * Occurances: 137
         * Examples
-          * бомба: [b o m b ɑ]
-          * банк: [b ɑ n k]
-          * бал: [b ɑ l]
-          * араб: [ɑ r ɑ b]
+          * балет: [b ɑ l e t]
+          * дамба: [d ɑ m b ɑ]
+          * клуб: [k l u b]
+          * батут: [b ɑ t u t]
     ```
   - ```{ipa_cell}
     ```
@@ -123,25 +123,25 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 3184
         * Examples
-          * кӗрет: [k ɛ r e t]
-          * тесен: [t e s e n]
-          * ята: [j ɑ t ɑ]
-          * тӳсрӗ: [t y s r ɛ]
+          * тӑрӑ: [t ʌ r ʌ]
+          * балет: [b ɑ l e t]
+          * тӑман: [t ʌ m ɑ n]
+          * кӗтрӗ: [k ɛ t r ɛ]
       * tː
         * Occurances: 124
         * Examples
-          * улттӑ: [u l tː ʌ]
+          * тетте: [t e tː e]
           * утта: [u tː ɑ]
-          * атте: [ɑ tː e]
           * ытти: [ɯ tː i]
+          * улттӑ: [u l tː ʌ]
     * voiced
       * d
         * Occurances: 250
         * Examples
-          * видо: [v i d o]
-          * сад: [s ɑ d]
+          * джинс: [d ʒ i n s]
+          * суда: [s u d ɑ]
+          * дамба: [d ɑ m b ɑ]
           * рейда: [r e j d ɑ]
-          * кодне: [k o d n e]
     ```
   - ```{ipa_cell}
     ```
@@ -152,17 +152,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 2031
         * Examples
-          * кӗрет: [k ɛ r e t]
-          * лекнӗ: [l e k n ɛ]
-          * лексе: [l e k s e]
-          * кӗнӗ: [k ɛ n ɛ]
+          * ирӗк: [i r ɛ k]
+          * кӗтрӗ: [k ɛ t r ɛ]
+          * кичем: [k i tʃ e m]
+          * кунпа: [k u n p ɑ]
       * kː
         * Occurances: 65
         * Examples
-          * иккӗ: [i kː ɛ]
-          * иккен: [i kː e n]
           * сакки: [s ɑ kː i]
           * якку: [j ɑ kː u]
+          * иккен: [i kː e n]
+          * иккӗ: [i kː ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -176,10 +176,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 244
         * Examples
+          * цинк: [ts i n k]
+          * ҫӑтса: [ɕ ʌ ts ɑ]
+          * ницше: [n i ts ʃ e]
           * цирк: [ts i r k]
-          * утса: [u ts ɑ]
-          * сӳтсе: [s y ts e]
-          * тытса: [t ɯ ts ɑ]
       * tsː
         * Occurances: 1
         * Examples
@@ -189,10 +189,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 1008
         * Examples
-          * енче: [j e n tʃ e]
-          * сачӗ: [s ɑ tʃ ɛ]
+          * кичем: [k i tʃ e m]
+          * шучӗ: [ʃ u tʃ ɛ]
           * ячӗҫ: [j ɑ tʃ ɛ ɕ]
-          * чикӗ: [tʃ i k ɛ]
+          * чӗнме: [tʃ ɛ n m e]
     ```
   - ```{ipa_cell}
     ```
@@ -210,40 +210,40 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 2518
         * Examples
-          * тесен: [t e s e n]
-          * тӳсрӗ: [t y s r ɛ]
-          * лексе: [l e k s e]
-          * симӗс: [s i m ɛ s]
+          * сума: [s u m ɑ]
+          * выляс: [v ɯ l j ɑ s]
+          * намӑс: [n ɑ m ʌ s]
+          * сикрӗ: [s i k r ɛ]
       * sː
         * Occurances: 141
         * Examples
-          * усси: [u sː i]
+          * касса: [k ɑ sː ɑ]
+          * ӳссех: [y sː e χ]
+          * сасси: [s ɑ sː i]
           * сиссе: [s i sː e]
-          * миасс: [m i ɑ sː]
-          * пӑсса: [p ʌ sː ɑ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 979
         * Examples
-          * шкап: [ʃ k ɑ p]
-          * канаш: [k ɑ n ɑ ʃ]
-          * шел: [ʃ e l]
-          * хӑшне: [χ ʌ ʃ n e]
+          * хутӑш: [χ u t ʌ ʃ]
+          * шучӗ: [ʃ u tʃ ɛ]
+          * шывне: [ʃ ɯ v n e]
+          * шурӑ: [ʃ u r ʌ]
       * ʃː
         * Occurances: 22
         * Examples
-          * мишши: [m i ʃː i]
+          * ӑшшӑн: [ʌ ʃː ʌ n]
+          * ашшӗн: [ɑ ʃː ɛ n]
           * ашшӗ: [ɑ ʃː ɛ]
           * йышши: [j ɯ ʃː i]
-          * ашшӗн: [ɑ ʃː ɛ n]
     * voiced
       * ʒ
         * Occurances: 69
         * Examples
-          * жюрие: [ʒ j u r i e]
           * джинс: [d ʒ i n s]
+          * жюрие: [ʒ j u r i e]
           * жанра: [ʒ ɑ n r ɑ]
     ```
   - ```{ipa_cell}
@@ -251,17 +251,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕ
         * Occurances: 1240
         * Examples
+          * инҫех: [i n ɕ e χ]
           * ячӗҫ: [j ɑ tʃ ɛ ɕ]
-          * ҫакӑн: [ɕ ɑ k ʌ n]
-          * ҫав: [ɕ ɑ v]
-          * пуҫне: [p u ɕ n e]
+          * ҫула: [ɕ u l ɑ]
+          * ҫӑлти: [ɕ ʌ l t i]
       * ɕː
         * Occurances: 177
         * Examples
-          * виҫҫӗ: [v i ɕː ɛ]
-          * шыҫҫа: [ʃ ɯ ɕː ɑ]
-          * теҫҫӗ: [t e ɕː ɛ]
           * ҫӗҫҫе: [ɕ ɛ ɕː e]
+          * ҫӗҫҫи: [ɕ ɛ ɕː i]
+          * чӗҫҫӗ: [tʃ ɛ ɕː ɛ]
+          * виҫҫӗ: [v i ɕː ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -275,18 +275,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 105
         * Examples
-          * кофе: [k o f e]
-          * фильм: [f i l m]
-          * фарук: [f ɑ r u k]
+          * афган: [ɑ f g ɑ n]
           * фончӗ: [f o n tʃ ɛ]
+          * фарук: [f ɑ r u k]
+          * фенри: [f e n r i]
     * voiced
       * v
         * Occurances: 1172
         * Examples
-          * савни: [s ɑ v n i]
-          * ҫав: [ɕ ɑ v]
-          * ҫавал: [ɕ ɑ v ɑ l]
-          * автор: [ɑ v t o r]
+          * выляс: [v ɯ l j ɑ s]
+          * шывне: [ʃ ɯ v n e]
+          * тӑван: [t ʌ v ɑ n]
+          * вите: [v i t e]
       * vː
         * Occurances: 2
         * Examples
@@ -304,10 +304,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * χ
         * Occurances: 1480
         * Examples
-          * тухни: [t u χ n i]
-          * хывса: [χ ɯ v s ɑ]
-          * сахал: [s ɑ χ ɑ l]
-          * хӑшне: [χ ʌ ʃ n e]
+          * хутӑш: [χ u t ʌ ʃ]
+          * инҫех: [i n ɕ e χ]
+          * хакӗ: [χ ɑ k ɛ]
+          * халех: [χ ɑ l e χ]
       * χː
         * Occurances: 6
         * Examples
@@ -326,10 +326,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1036
         * Examples
-          * ята: [j ɑ t ɑ]
-          * юрату: [j u r ɑ t u]
-          * аялти: [ɑ j ɑ l t i]
-          * енче: [j e n tʃ e]
+          * йӗр: [j ɛ r]
+          * выляс: [v ɯ l j ɑ s]
+          * енне: [j e nː e]
+          * юлма: [j u l m ɑ]
       * jː
         * Occurances: 1
         * Examples
@@ -348,17 +348,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 3892
         * Examples
-          * кӗрет: [k ɛ r e t]
-          * тӳсрӗ: [t y s r ɛ]
-          * юрату: [j u r ɑ t u]
-          * ырӑ: [ɯ r ʌ]
+          * ирӗк: [i r ɛ k]
+          * тӑрӑ: [t ʌ r ʌ]
+          * кӗтрӗ: [k ɛ t r ɛ]
+          * тура: [t u r ɑ]
       * rː
         * Occurances: 48
         * Examples
-          * вӑрри: [v ʌ rː i]
+          * тӳрре: [t y rː e]
+          * пурри: [p u rː i]
           * пӗрре: [p ɛ rː e]
-          * хӗрри: [χ ɛ rː i]
-          * юрри: [j u rː i]
+          * юрра: [j u rː ɑ]
     ```
   - ```{ipa_cell}
     ```
@@ -378,17 +378,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 2488
         * Examples
-          * лекнӗ: [l e k n ɛ]
-          * лексе: [l e k s e]
-          * аялти: [ɑ j ɑ l t i]
-          * ларнӑ: [l ɑ r n ʌ]
+          * балет: [b ɑ l e t]
+          * выляс: [v ɯ l j ɑ s]
+          * юлма: [j u l m ɑ]
+          * лекет: [l e k e t]
       * lː
         * Occurances: 313
         * Examples
-          * меллӗ: [m e lː ɛ]
-          * келли: [k e lː i]
+          * вилли: [v i lː i]
           * валли: [v ɑ lː i]
-          * палла: [p ɑ lː ɑ]
+          * хӗлле: [χ ɛ lː e]
+          * паллӑ: [p ɑ lː ʌ]
     ```
   - ```{ipa_cell}
     ```
@@ -422,18 +422,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 2515
         * Examples
-          * усси: [u sː i]
-          * аялти: [ɑ j ɑ l t i]
-          * симӗс: [s i m ɛ s]
-          * савни: [s ɑ v n i]
+          * ирӗк: [i r ɛ k]
+          * инҫех: [i n ɕ e χ]
+          * кичем: [k i tʃ e m]
+          * сикрӗ: [s i k r ɛ]
     * rounded
       * y
         * Occurances: 235
         * Examples
-          * тӳсрӗ: [t y s r ɛ]
-          * ӳкнӗ: [y k n ɛ]
-          * шӳрпи: [ʃ y r p i]
-          * кӗтӳ: [k ɛ t y]
+          * ҫӳрӗҫ: [ɕ y r ɛ ɕ]
+          * кӳлӗ: [k y l ɛ]
+          * ҫӳре: [ɕ y r e]
+          * тӳрех: [t y r e χ]
     ```
   - ```{ipa_cell}
     ```
@@ -446,18 +446,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɯ
         * Occurances: 470
         * Examples
-          * ырӑ: [ɯ r ʌ]
-          * сырпа: [s ɯ r p ɑ]
-          * хывса: [χ ɯ v s ɑ]
-          * пырса: [p ɯ r s ɑ]
+          * выляс: [v ɯ l j ɑ s]
+          * шывне: [ʃ ɯ v n e]
+          * пынӑ: [p ɯ n ʌ]
+          * пырӗҫ: [p ɯ r ɛ ɕ]
     * rounded
       * u
         * Occurances: 1944
         * Examples
-          * усси: [u sː i]
-          * юрату: [j u r ɑ t u]
-          * туять: [t u j ɑ t]
-          * руль: [r u l]
+          * сума: [s u m ɑ]
+          * хутӑш: [χ u t ʌ ʃ]
+          * тура: [t u r ɑ]
+          * кунпа: [k u n p ɑ]
     ```
 * -
   - ```{ipa_cell}
@@ -476,10 +476,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 4911
         * Examples
-          * кӗрет: [k ɛ r e t]
-          * тесен: [t e s e n]
-          * лекнӗ: [l e k n ɛ]
-          * лексе: [l e k s e]
+          * балет: [b ɑ l e t]
+          * инҫех: [i n ɕ e χ]
+          * кичем: [k i tʃ e m]
+          * енне: [j e nː e]
     ```
   - ```{ipa_cell}
     ```
@@ -492,10 +492,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 837
         * Examples
-          * автор: [ɑ v t o r]
-          * бомба: [b o m b ɑ]
-          * герой: [g e r o j]
-          * кофе: [k o f e]
+          * ольга: [o l g ɑ]
+          * роман: [r o m ɑ n]
+          * ионов: [i o n o v]
+          * очко: [o tʃ k o]
     ```
 * -
   - ```{ipa_cell}
@@ -514,10 +514,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 2795
         * Examples
-          * кӗрет: [k ɛ r e t]
-          * лекнӗ: [l e k n ɛ]
-          * тӳсрӗ: [t y s r ɛ]
-          * кӗнӗ: [k ɛ n ɛ]
+          * ирӗк: [i r ɛ k]
+          * кӗтрӗ: [k ɛ t r ɛ]
+          * йӗр: [j ɛ r]
+          * шучӗ: [ʃ u tʃ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -530,10 +530,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 3120
         * Examples
-          * ырӑ: [ɯ r ʌ]
-          * ларнӑ: [l ɑ r n ʌ]
-          * суннӑ: [s u nː ʌ]
-          * ҫакӑн: [ɕ ɑ k ʌ n]
+          * тӑрӑ: [t ʌ r ʌ]
+          * тӑман: [t ʌ m ɑ n]
+          * хутӑш: [χ u t ʌ ʃ]
+          * намӑс: [n ɑ m ʌ s]
     ```
 * -
   - ```{ipa_cell}
@@ -560,9 +560,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 6363
         * Examples
-          * ята: [j ɑ t ɑ]
-          * юрату: [j u r ɑ t u]
-          * аялти: [ɑ j ɑ l t i]
-          * сачӗ: [s ɑ tʃ ɛ]
+          * сума: [s u m ɑ]
+          * балет: [b ɑ l e t]
+          * тӑман: [t ʌ m ɑ n]
+          * тура: [t u r ɑ]
     ```
 ``````

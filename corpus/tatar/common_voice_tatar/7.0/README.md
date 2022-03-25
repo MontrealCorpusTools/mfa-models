@@ -18,7 +18,13 @@
 - **Version:** `7.0`
 - **Citation:**
 ```bibtex
-
+@article{ardila2019common,
+	title = {Common voice: A massively-multilingual speech corpus},
+	author = {Ardila, Rosana and Branson, Megan and Davis, Kelly and Henretty, Michael and Kohler, Michael and
+		Meyer, Josh and Morais, Reuben and Saunders, Lindsay and Tyers, Francis M and Weber, Gregor},
+	journal = {arXiv preprint arXiv:1912.06670},
+	year = {2019}
+}
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

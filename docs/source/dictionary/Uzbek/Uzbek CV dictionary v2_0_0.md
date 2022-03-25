@@ -56,9 +56,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 214
         * Examples
           * qaram: [q a r a m]
-          * mayda: [m a j d̪ a]
-          * odami: [ɒ d̪ a m i]
-          * xurmo: [χ u r m ɒ]
+          * men: [m e n]
+          * ammo: [a m m ɒ]
+          * irmoq: [i r m ɒ q]
     ```
   - ```{ipa_cell}
     ```
@@ -69,10 +69,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 344
         * Examples
-          * sen: [s e n]
-          * keyin: [k e j i n]
-          * necha: [n e t͡ʃ a]
-          * butun: [b u t̪ u n]
+          * xunuk: [χ u n u k]
+          * nashr: [n a ʃ r]
+          * men: [m e n]
+          * nega: [n e ɡ a]
     ```
   - ```{ipa_cell}
     ```
@@ -83,10 +83,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 50
         * Examples
-          * ming: [m i ŋ]
-          * o'ng: [o ŋ]
-          * teng: [t̪ e ŋ]
           * eng: [e ŋ]
+          * ming: [m i ŋ]
+          * so'ng: [s o ŋ]
+          * teng: [t̪ e ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -98,18 +98,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 35
         * Examples
-          * sopol: [s ɒ p ɒ l]
-          * parvo: [p a r v ɒ]
-          * ko'p: [k o p]
           * gap: [ɡ a p]
+          * gapi: [ɡ a p i]
+          * to'p: [t̪ o p]
+          * chop: [t͡ʃ ɒ p]
     * voiced
       * b
         * Occurances: 201
         * Examples
           * sabr: [s a b r]
-          * olib: [ɒ l i b]
-          * biror: [b i r ɒ r]
-          * beri: [b e r i]
+          * berib: [b e r i b]
+          * ushbu: [u ʃ b u]
+          * bo'la: [b o l a]
     ```
   - ```{ipa_cell}
     ```
@@ -118,18 +118,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 315
         * Examples
-          * yigit: [j i ɡ i t̪]
-          * ovqat: [ɒ v q a t̪]
-          * xato: [χ a t̪ ɒ]
+          * toq: [t̪ ɒ q]
+          * etik: [e t̪ i k]
+          * to'rt: [t̪ o r t̪]
           * xato.: [χ a t̪ ɒ]
     * voiced
       * d̪
         * Occurances: 269
         * Examples
-          * yilda: [j i l d̪ a]
-          * yerda: [j e r d̪ a]
-          * bitdi: [b i t̪ d̪ i]
-          * mayda: [m a j d̪ a]
+          * asrda: [a s r d̪ a]
+          * sudya: [s u d̪ j a]
+          * oyda: [ɒ j d̪ a]
+          * naqd: [n a q d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -142,28 +142,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 179
         * Examples
-          * ko'z: [k o z]
-          * kirib: [k i r i b]
-          * yuk: [j u k]
-          * keyin: [k e j i n]
+          * xunuk: [χ u n u k]
+          * etik: [e t̪ i k]
+          * ko'za: [k o z a]
+          * ukam!: [u k a m]
     * voiced
       * ɡ
         * Occurances: 156
         * Examples
-          * asrga: [a s r ɡ a]
-          * yigit: [j i ɡ i t̪]
+          * yilgi: [j i l ɡ i]
           * gap: [ɡ a p]
-          * degan: [d̪ e ɡ a n]
+          * nega: [n e ɡ a]
+          * asrga: [a s r ɡ a]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 176
         * Examples
-          * qola: [q ɒ l a]
-          * qirol: [q i r ɒ l]
-          * ovqat: [ɒ v q a t̪]
-          * yo'q.: [j o q]
+          * toq: [t̪ ɒ q]
+          * qaram: [q a r a m]
+          * irmoq: [i r m ɒ q]
+          * oyoq: [ɒ j ɒ q]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -190,18 +190,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 55
         * Examples
-          * necha: [n e t͡ʃ a]
-          * och: [ɒ t͡ʃ]
+          * uchun: [u t͡ʃ u n]
           * hech: [h e t͡ʃ]
+          * o'ch: [o t͡ʃ]
           * chop: [t͡ʃ ɒ p]
     * voiced
       * d͡ʒ
         * Occurances: 25
         * Examples
-          * jihat: [d͡ʒ i h a t̪]
           * juvon: [d͡ʒ u v ɒ n]
-          * jahd: [d͡ʒ a h d̪]
           * juda: [d͡ʒ u d̪ a]
+          * jihat: [d͡ʒ i h a t̪]
+          * javob: [d͡ʒ a v ɒ b]
     ```
   - ```{ipa_cell}
     ```
@@ -224,27 +224,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 178
         * Examples
           * sabr: [s a b r]
-          * esa: [e s a]
-          * savol: [s a v ɒ l]
-          * asrga: [a s r ɡ a]
+          * so'z: [s o z]
+          * asrda: [a s r d̪ a]
+          * sudya: [s u d̪ j a]
     * voiced
       * z
         * Occurances: 84
         * Examples
-          * ko'z: [k o z]
-          * qiziq: [q i z i q]
+          * so'z: [s o z]
           * ko'za: [k o z a]
-          * siz: [s i z]
+          * o'z: [o z]
+          * so'zi: [s o z i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 147
         * Examples
-          * shaxs: [ʃ a χ s]
-          * etish: [e t̪ i ʃ]
-          * shu: [ʃ u]
+          * nashr: [n a ʃ r]
           * ushbu: [u ʃ b u]
+          * etish: [e t̪ i ʃ]
+          * ish: [i ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -260,10 +260,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 36
         * Examples
-          * sof: [s ɒ ɸ]
           * fikr: [ɸ i k r]
-          * faqat: [ɸ a q a t̪]
           * safar: [s a ɸ a r]
+          * foyda: [ɸ ɒ j d̪ a]
+          * hafta: [h a ɸ t̪ a]
     ```
   - ```{ipa_cell}
     * voiced
@@ -272,8 +272,8 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Examples
           * savol: [s a v ɒ l]
           * ovqat: [ɒ v q a t̪]
-          * sovet: [s ɒ v e t̪]
-          * parvo: [p a r v ɒ]
+          * avval: [a v v a l]
+          * sinov: [s i n ɒ v]
     ```
   - ```{ipa_cell}
     ```
@@ -290,10 +290,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * χ
         * Occurances: 44
         * Examples
-          * xabar: [χ a b a r]
-          * xato: [χ a t̪ ɒ]
+          * xunuk: [χ u n u k]
           * xato.: [χ a t̪ ɒ]
-          * shaxs: [ʃ a χ s]
+          * xabar: [χ a b a r]
+          * xos.: [χ ɒ s]
     * voiced
       * ʁ
         * Occurances: 19
@@ -305,10 +305,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 70
         * Examples
-          * jihat: [d͡ʒ i h a t̪]
+          * harom: [h a r ɒ m]
           * hisob: [h i s ɒ b]
-          * ham,: [h a m]
-          * hosil: [h ɒ s i l]
+          * aholi: [a h ɒ l i]
+          * nikoh: [n i k ɒ h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -326,10 +326,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 210
         * Examples
-          * yigit: [j i ɡ i t̪]
-          * yilda: [j i l d̪ a]
-          * irsiy: [i r s i j]
-          * yo'q.: [j o q]
+          * yilgi: [j i l ɡ i]
+          * sudya: [s u d̪ j a]
+          * oyda: [ɒ j d̪ a]
+          * oyoq: [ɒ j ɒ q]
     ```
   - ```{ipa_cell}
     ```
@@ -350,9 +350,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 381
         * Examples
           * sabr: [s a b r]
-          * biror: [b i r ɒ r]
-          * beri: [b e r i]
-          * asrga: [a s r ɡ a]
+          * berib: [b e r i b]
+          * asrda: [a s r d̪ a]
+          * nashr: [n a ʃ r]
     ```
   - ```{ipa_cell}
     ```
@@ -376,10 +376,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 413
         * Examples
-          * qola: [q ɒ l a]
-          * olib: [ɒ l i b]
+          * yilgi: [j i l ɡ i]
           * savol: [s a v ɒ l]
-          * yilda: [j i l d̪ a]
+          * bo'la: [b o l a]
+          * islom: [i s l ɒ m]
     ```
   - ```{ipa_cell}
     ```
@@ -415,10 +415,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 891
         * Examples
-          * olib: [ɒ l i b]
-          * biror: [b i r ɒ r]
-          * beri: [b e r i]
-          * yigit: [j i ɡ i t̪]
+          * yilgi: [j i l ɡ i]
+          * berib: [b e r i b]
+          * etik: [e t̪ i k]
+          * irmoq: [i r m ɒ q]
     ```
   - ```{ipa_cell}
     ```
@@ -431,10 +431,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 181
         * Examples
-          * yuk: [j u k]
-          * butun: [b u t̪ u n]
-          * shu: [ʃ u]
-          * xurmo: [χ u r m ɒ]
+          * xunuk: [χ u n u k]
+          * sudya: [s u d̪ j a]
+          * ushbu: [u ʃ b u]
+          * ukam!: [u k a m]
     ```
 * -
   - ```{ipa_cell}
@@ -453,10 +453,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 133
         * Examples
-          * esa: [e s a]
-          * beri: [b e r i]
-          * sen: [s e n]
-          * yerda: [j e r d̪ a]
+          * eng: [e ŋ]
+          * berib: [b e r i b]
+          * men: [m e n]
+          * etik: [e t̪ i k]
     ```
   - ```{ipa_cell}
     ```
@@ -469,10 +469,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 103
         * Examples
-          * ko'z: [k o z]
-          * yo'q.: [j o q]
-          * ko'p: [k o p]
-          * qo'l: [q o l]
+          * so'z: [s o z]
+          * to'rt: [t̪ o r t̪]
+          * ko'za: [k o z a]
+          * o'z: [o z]
     ```
 * -
   - ```{ipa_cell}
@@ -517,10 +517,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 1015
         * Examples
-          * qola: [q ɒ l a]
           * sabr: [s a b r]
-          * esa: [e s a]
-          * savol: [s a v ɒ l]
+          * asrda: [a s r d̪ a]
+          * nashr: [n a ʃ r]
+          * qaram: [q a r a m]
     ```
   - ```{ipa_cell}
     ```
@@ -529,9 +529,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɒ
         * Occurances: 369
         * Examples
-          * qola: [q ɒ l a]
-          * olib: [ɒ l i b]
-          * biror: [b i r ɒ r]
-          * savol: [s a v ɒ l]
+          * toq: [t̪ ɒ q]
+          * oyda: [ɒ j d̪ a]
+          * ammo: [a m m ɒ]
+          * irmoq: [i r m ɒ q]
     ```
 ``````

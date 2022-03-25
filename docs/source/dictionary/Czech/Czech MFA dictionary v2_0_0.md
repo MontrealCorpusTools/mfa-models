@@ -53,44 +53,44 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 24192
         * Examples
-          * mazem: [m a z ɛ m]
-          * míří: [m iː r̝ iː]
-          * kulma: [k u l m a]
-          * médii: [m ɛː d ɪ ɪ]
+          * mokří: [m o k r̝ iː]
+          * smyk: [s m ɪ k]
+          * oslem: [o s l ɛ m]
+          * řeším: [r̝ ɛ ʃ iː m]
       * m̩
         * Occurances: 459
         * Examples
-          * změna: [z m̩ ɲ ɛ n a]
-          * směs: [s m̩ ɲ ɛ s]
-          * sedm: [s ɛ d m̩]
-          * odměn: [o d m̩ ɲ ɛ n]
+          * smědý: [s m̩ ɲ ɛ d iː]
+          * směsí: [s m̩ ɲ ɛ s iː]
+          * smělí: [s m̩ ɲ ɛ l iː]
+          * směr: [s m̩ ɲ ɛ r]
     ```
   - ```{ipa_cell}
     * other
       * ɱ
         * Occurances: 317
         * Examples
-          * info: [ɪ ɱ f o]
+          * pánvi: [p aː ɱ v ɪ]
           * trumf: [t r u ɱ f]
-          * pánve: [p aː ɱ v ɛ]
-          * nymfa: [n ɪ ɱ f a]
+          * info: [ɪ ɱ f o]
+          * lymfa: [l ɪ ɱ f a]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 37543
         * Examples
-          * změna: [z m̩ ɲ ɛ n a]
-          * ohneš: [o ɦ n ɛ ʃ]
-          * bruno: [b r u n o]
-          * brent: [b r ɛ n t]
+          * hon: [ɦ o n]
+          * noře: [n o r̝ ɛ]
+          * nót: [n oː t]
+          * candy: [k a n d ɪ]
       * n̩
         * Occurances: 23
         * Examples
+          * zrnko: [z r n̩ k o]
           * srnčí: [s r n̩ tʃ iː]
-          * hrnci: [ɦ r n̩ ts ɪ]
-          * trnka: [t r n̩ k a]
-          * srnka: [s r n̩ k a]
+          * srnku: [s r n̩ k u]
+          * vlnka: [v l n̩ k a]
     ```
   - ```{ipa_cell}
     ```
@@ -99,20 +99,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 15021
         * Examples
-          * změna: [z m̩ ɲ ɛ n a]
-          * raně: [r a ɲ ɛ]
-          * stíní: [s c iː ɲ iː]
-          * něco: [ɲ ɛ ts o]
+          * římě: [r̝ iː m ɲ ɛ]
+          * není: [n ɛ ɲ iː]
+          * měř: [m ɲ ɛ r̝]
+          * snědé: [s ɲ ɛ d ɛː]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1480
         * Examples
-          * ponk: [p o ŋ k]
-          * kongo: [k o ŋ ɡ o]
-          * kings: [k ɪ ŋ ɡ s]
-          * manga: [m a ŋ ɡ a]
+          * siang: [s ɪ a ŋ k]
+          * tenké: [t ɛ ŋ k ɛː]
+          * pingl: [p ɪ ŋ ɡ l̩]
+          * flink: [f l ɪ ŋ k]
     ```
   - ```{ipa_cell}
     ```
@@ -122,18 +122,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 25734
         * Examples
-          * pláži: [p l aː ʒ ɪ]
-          * ponk: [p o ŋ k]
-          * páčen: [p aː tʃ ɛ n]
-          * pěšce: [p j ɛ ʃ ts ɛ]
+          * popas: [p o p a s]
+          * pěje: [p j ɛ j ɛ]
+          * pecko: [p ɛ ts k o]
+          * perte: [p ɛ r t ɛ]
     * voiced
       * b
         * Occurances: 10057
         * Examples
-          * bruno: [b r u n o]
-          * hýbat: [ɦ iː b a t]
-          * obalů: [o b a l uː]
-          * brent: [b r ɛ n t]
+          * dobrá: [d o b r aː]
+          * háby: [ɦ aː b ɪ]
+          * blazí: [b l a z iː]
+          * zíbrt: [z iː b r̩ t]
     ```
   - ```{ipa_cell}
     ```
@@ -142,18 +142,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 36514
         * Examples
-          * edita: [ɛ ɟ ɪ t a]
-          * květu: [k v j ɛ t u]
-          * fičet: [f ɪ tʃ ɛ t]
-          * kecat: [k ɛ ts a t]
+          * stálý: [s t aː l iː]
+          * tras: [t r a s]
+          * lotře: [l o t r̝ ɛ]
+          * nót: [n oː t]
     * voiced
       * d
         * Occurances: 17967
         * Examples
-          * dlí: [d l iː]
-          * vedla: [v ɛ d l a]
-          * médii: [m ɛː d ɪ ɪ]
-          * disky: [d ɪ s k ɪ]
+          * dobrá: [d o b r aː]
+          * candy: [k a n d ɪ]
+          * šedé: [ʃ ɛ d ɛː]
+          * jídla: [j iː d l a]
     ```
   - ```{ipa_cell}
     ```
@@ -162,36 +162,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 5161
         * Examples
-          * hutě: [ɦ u c ɛ]
-          * hnutí: [ɦ n u c iː]
-          * těšíš: [c ɛ ʃ iː ʃ]
-          * stíní: [s c iː ɲ iː]
+          * čertí: [tʃ ɛ r c iː]
+          * piští: [p ɪ ʃ c iː]
+          * sťali: [s c a l ɪ]
+          * poště: [p o ʃ c ɛ]
     * voiced
       * ɟ
         * Occurances: 3043
         * Examples
-          * edita: [ɛ ɟ ɪ t a]
-          * bdící: [b ɟ iː ts iː]
-          * div: [ɟ ɪ f]
-          * divem: [ɟ ɪ v ɛ m]
+          * ráďa: [r aː ɟ a]
+          * hadím: [ɦ a ɟ iː m]
+          * čadíš: [tʃ a ɟ iː ʃ]
+          * radio: [r a ɟ ɪ o]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 30328
         * Examples
-          * čočka: [tʃ o tʃ k a]
-          * květu: [k v j ɛ t u]
-          * kecat: [k ɛ ts a t]
-          * ponk: [p o ŋ k]
+          * mokří: [m o k r̝ iː]
+          * smyk: [s m ɪ k]
+          * vek: [v ɛ k]
+          * pecko: [p ɛ ts k o]
     * voiced
       * ɡ
         * Occurances: 3643
         * Examples
-          * ligu: [l ɪ ɡ u]
-          * plagy: [p l a ɡ ɪ]
-          * olgu: [o l ɡ u]
-          * gesta: [ɡ ɛ s t a]
+          * guláš: [ɡ u l aː ʃ]
+          * drogu: [d r o ɡ u]
+          * pingl: [p ɪ ŋ ɡ l̩]
+          * ghany: [ɡ ɦ a n ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -205,28 +205,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 12302
         * Examples
-          * kecat: [k ɛ ts a t]
-          * bdící: [b ɟ iː ts iː]
-          * pěšce: [p j ɛ ʃ ts ɛ]
-          * ctěná: [ts c ɛ n aː]
+          * pecko: [p ɛ ts k o]
+          * ocasu: [o ts a s u]
+          * velíc: [v ɛ l iː ts]
+          * jícnu: [j iː ts n u]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 7864
         * Examples
-          * čočka: [tʃ o tʃ k a]
-          * fičet: [f ɪ tʃ ɛ t]
-          * páčen: [p aː tʃ ɛ n]
-          * čelen: [tʃ ɛ l ɛ n]
+          * čáro: [tʃ aː r o]
+          * čertí: [tʃ ɛ r c iː]
+          * čadíš: [tʃ a ɟ iː ʃ]
+          * řečem: [r̝ ɛ tʃ ɛ m]
     * voiced
       * dʒ
         * Occurances: 122
         * Examples
+          * džbán: [dʒ b aː n]
           * cage: [k ɛː dʒ]
-          * judr: [dʒ u d r̩]
-          * sodžu: [s o dʒ u]
-          * judu: [dʒ u d u]
+          * gadžo: [ɡ a dʒ o]
+          * džob: [dʒ o p]
     ```
   - ```{ipa_cell}
     ```
@@ -244,36 +244,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 30661
         * Examples
-          * liz: [l ɪ s]
-          * faso: [f a s o]
-          * stíní: [s c iː ɲ iː]
-          * disky: [d ɪ s k ɪ]
+          * stálý: [s t aː l iː]
+          * tras: [t r a s]
+          * popas: [p o p a s]
+          * smyk: [s m ɪ k]
     * voiced
       * z
         * Occurances: 14191
         * Examples
-          * změna: [z m̩ ɲ ɛ n a]
-          * zauja: [z aw j a]
-          * mazem: [m a z ɛ m]
-          * zařad: [z a r̝ a t]
+          * zerav: [z ɛ r a f]
+          * blazí: [b l a z iː]
+          * zíbrt: [z iː b r̩ t]
+          * jose: [j o z ɛ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 6710
         * Examples
-          * ohneš: [o ɦ n ɛ ʃ]
-          * těšíš: [c ɛ ʃ iː ʃ]
-          * jejž: [j ɛ j ʃ]
-          * pěšce: [p j ɛ ʃ ts ɛ]
+          * vešly: [v ɛ ʃ l ɪ]
+          * řeším: [r̝ ɛ ʃ iː m]
+          * šedé: [ʃ ɛ d ɛː]
+          * nádrž: [n aː d r̩ ʃ]
     * voiced
       * ʒ
         * Occurances: 4221
         * Examples
-          * pláži: [p l aː ʒ ɪ]
-          * žánry: [ʒ aː n r ɪ]
-          * žnula: [ʒ n u l a]
-          * jenž: [j ɛ n ʒ]
+          * žebry: [ʒ ɛ b r ɪ]
+          * olžin: [o l ʒ ɪ n]
+          * užít: [u ʒ iː t]
+          * užil: [u ʒ ɪ l]
     ```
   - ```{ipa_cell}
     ```
@@ -289,18 +289,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 4998
         * Examples
-          * fičet: [f ɪ tʃ ɛ t]
-          * faso: [f a s o]
-          * fund: [f u n t]
-          * vším: [f ʃ iː m]
+          * zerav: [z ɛ r a f]
+          * firmy: [f ɪ r m ɪ]
+          * vliv: [v l ɪ f]
+          * fáze: [f aː z ɛ]
     * voiced
       * v
         * Occurances: 31756
         * Examples
-          * květu: [k v j ɛ t u]
-          * vedla: [v ɛ d l a]
-          * úlevy: [uː l ɛ v ɪ]
-          * vývoz: [v iː v o s]
+          * vešly: [v ɛ ʃ l ɪ]
+          * vele: [v ɛ l ɛ]
+          * vek: [v ɛ k]
+          * velíc: [v ɛ l iː ts]
     ```
   - ```{ipa_cell}
     ```
@@ -315,10 +315,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɦ
         * Occurances: 10053
         * Examples
-          * ohneš: [o ɦ n ɛ ʃ]
-          * hýbat: [ɦ iː b a t]
-          * hutě: [ɦ u c ɛ]
-          * hnutí: [ɦ n u c iː]
+          * hon: [ɦ o n]
+          * háby: [ɦ aː b ɪ]
+          * hadím: [ɦ a ɟ iː m]
+          * kuhn: [k u ɦ n]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -334,10 +334,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 14027
         * Examples
-          * květu: [k v j ɛ t u]
-          * zauja: [z aw j a]
-          * jejž: [j ɛ j ʃ]
-          * pěšce: [p j ɛ ʃ ts ɛ]
+          * pěje: [p j ɛ j ɛ]
+          * jasno: [j a s n o]
+          * jídla: [j iː d l a]
+          * jícnu: [j iː ts n u]
     ```
   - ```{ipa_cell}
     ```
@@ -353,17 +353,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 29488
         * Examples
-          * bruno: [b r u n o]
-          * brent: [b r ɛ n t]
-          * žánry: [ʒ aː n r ɪ]
-          * raně: [r a ɲ ɛ]
+          * dobrá: [d o b r aː]
+          * tras: [t r a s]
+          * čáro: [tʃ aː r o]
+          * ráďa: [r aː ɟ a]
       * r̩
         * Occurances: 2035
         * Examples
-          * svetr: [s v ɛ t r̩]
-          * šlégr: [ʃ l ɛː ɡ r̩]
-          * krčál: [k r̩ tʃ aː l]
-          * prču: [p r̩ tʃ u]
+          * zíbrt: [z iː b r̩ t]
+          * nádrž: [n aː d r̩ ʃ]
+          * prso: [p r̩ s o]
+          * kepr: [k ɛ p r̩]
     ```
   - ```{ipa_cell}
     ```
@@ -383,17 +383,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 34153
         * Examples
-          * dlí: [d l iː]
-          * pláži: [p l aː ʒ ɪ]
-          * liz: [l ɪ s]
-          * obalů: [o b a l uː]
+          * stálý: [s t aː l iː]
+          * vešly: [v ɛ ʃ l ɪ]
+          * vele: [v ɛ l ɛ]
+          * lotře: [l o t r̝ ɛ]
       * l̩
         * Occurances: 891
         * Examples
-          * nesl: [n ɛ s l̩]
-          * zhltl: [z ɦ l̩ t l̩]
-          * vln: [v l̩ n]
-          * plněn: [p l̩ ɲ ɛ n]
+          * pingl: [p ɪ ŋ ɡ l̩]
+          * dotkl: [d o t k l̩]
+          * mopsl: [m o p s l̩]
+          * blbce: [b l̩ b ts ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -427,10 +427,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 31065
         * Examples
-          * dlí: [d l iː]
-          * hýbat: [ɦ iː b a t]
-          * hnutí: [ɦ n u c iː]
-          * nutný: [n u t n iː]
+          * stálý: [s t aː l iː]
+          * mokří: [m o k r̝ iː]
+          * čertí: [tʃ ɛ r c iː]
+          * řeším: [r̝ ɛ ʃ iː m]
     ```
   - ```{ipa_cell}
     ```
@@ -443,17 +443,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 18661
         * Examples
-          * květu: [k v j ɛ t u]
-          * bruno: [b r u n o]
-          * hutě: [ɦ u c ɛ]
-          * hnutí: [ɦ n u c iː]
+          * ocasu: [o ts a s u]
+          * supi: [s u p ɪ]
+          * snesu: [s n ɛ s u]
+          * ruchu: [r u x u]
       * uː
         * Occurances: 4729
         * Examples
-          * obalů: [o b a l uː]
-          * úlevy: [uː l ɛ v ɪ]
-          * růčo: [r uː tʃ o]
-          * půlka: [p uː l k a]
+          * tůma: [t uː m a]
+          * pláčů: [p l aː tʃ uː]
+          * úzus: [uː z u s]
+          * týdnů: [t iː d n uː]
     ```
 * -
   - ```{ipa_cell}
@@ -463,10 +463,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 49143
         * Examples
-          * edita: [ɛ ɟ ɪ t a]
-          * pláži: [p l aː ʒ ɪ]
-          * fičet: [f ɪ tʃ ɛ t]
-          * liz: [l ɪ s]
+          * vešly: [v ɛ ʃ l ɪ]
+          * háby: [ɦ aː b ɪ]
+          * smyk: [s m ɪ k]
+          * candy: [k a n d ɪ]
     ```
   - ```{ipa_cell}
     ```
@@ -488,24 +488,24 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 56336
         * Examples
-          * čočka: [tʃ o tʃ k a]
-          * ohneš: [o ɦ n ɛ ʃ]
-          * bruno: [b r u n o]
-          * obalů: [o b a l uː]
+          * hon: [ɦ o n]
+          * dobrá: [d o b r aː]
+          * mokří: [m o k r̝ iː]
+          * noře: [n o r̝ ɛ]
       * ow
         * Occurances: 5377
         * Examples
-          * loun: [l ow n]
-          * koupí: [k ow p iː]
-          * souši: [s ow ʃ ɪ]
-          * rouch: [r ow x]
+          * evou: [ɛ v ow]
+          * kupou: [k u p ow]
+          * kouta: [k ow t a]
+          * nouze: [n ow z ɛ]
       * oː
         * Occurances: 360
         * Examples
-          * tóry: [t oː r ɪ]
-          * sezón: [s ɛ z oː n]
-          * zónu: [z oː n u]
-          * kvótu: [k v oː t u]
+          * nót: [n oː t]
+          * gól: [ɡ oː l]
+          * bóře: [b oː r̝ ɛ]
+          * ódy: [oː d ɪ]
     ```
 * -
   - ```{ipa_cell}
@@ -524,17 +524,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 61324
         * Examples
-          * změna: [z m̩ ɲ ɛ n a]
-          * edita: [ɛ ɟ ɪ t a]
-          * květu: [k v j ɛ t u]
-          * fičet: [f ɪ tʃ ɛ t]
+          * vešly: [v ɛ ʃ l ɪ]
+          * noře: [n o r̝ ɛ]
+          * vele: [v ɛ l ɛ]
+          * lotře: [l o t r̝ ɛ]
       * ɛː
         * Occurances: 7796
         * Examples
-          * cage: [k ɛː dʒ]
-          * médii: [m ɛː d ɪ ɪ]
-          * témat: [t ɛː m a t]
-          * école: [ɛː ts o l ɛ]
+          * šedé: [ʃ ɛ d ɛː]
+          * vést: [v ɛː s t]
+          * tenké: [t ɛ ŋ k ɛː]
+          * dojné: [d o j n ɛː]
     ```
   - ```{ipa_cell}
     ```
@@ -565,17 +565,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 50509
         * Examples
-          * čočka: [tʃ o tʃ k a]
-          * změna: [z m̩ ɲ ɛ n a]
-          * edita: [ɛ ɟ ɪ t a]
-          * kecat: [k ɛ ts a t]
+          * tras: [t r a s]
+          * popas: [p o p a s]
+          * ráďa: [r aː ɟ a]
+          * zerav: [z ɛ r a f]
       * aː
         * Occurances: 18259
         * Examples
-          * pláži: [p l aː ʒ ɪ]
-          * páčen: [p aː tʃ ɛ n]
-          * žánry: [ʒ aː n r ɪ]
-          * ctěná: [ts c ɛ n aː]
+          * stálý: [s t aː l iː]
+          * dobrá: [d o b r aː]
+          * háby: [ɦ aː b ɪ]
+          * čáro: [tʃ aː r o]
     ```
   - ```{ipa_cell}
     ```

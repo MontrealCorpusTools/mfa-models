@@ -24,7 +24,6 @@
 	booktitle = {International workshop on spoken language translation},
 	year = {2016}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

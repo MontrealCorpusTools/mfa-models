@@ -54,17 +54,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1312
         * Examples
-          * božim: [b o ʒ i m]
-          * mojej: [m o j e j]
-          * mark: [m a ʀ k]
-          * mam: [m a m]
+          * temu: [t e m u]
+          * móhło: [m ʊ h w o]
+          * mužom: [m u ʒ o m]
+          * klimu: [k l i m u]
       * mʲ
         * Occurances: 104
         * Examples
-          * temje: [t e mʲ e]
-          * mjeno: [mʲ e n o]
+          * mjezy: [mʲ e z ɨ]
           * zymje: [z ɨ mʲ e]
-          * jamje: [j a mʲ e]
+          * temje: [t e mʲ e]
+          * rumje: [ʀ u mʲ e]
     ```
   - ```{ipa_cell}
     ```
@@ -73,17 +73,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 2205
         * Examples
-          * jedne: [j e d n e]
-          * nowa: [n o w a]
+          * našu: [n a ʃ u]
+          * nihdy: [n i h d ɨ]
+          * jednu: [j e d n u]
           * nana: [n a n a]
-          * nabyć: [n a b ɨ tʃ]
       * nʲ
         * Occurances: 725
         * Examples
-          * dóńć: [d ʊ nʲ tʃ]
-          * začiń: [z a tʃ i nʲ]
-          * njeho: [nʲ e h o]
-          * benje: [b e nʲ e]
+          * ćerń: [tʃ e ʀ nʲ]
+          * dnja: [d nʲ a]
+          * ženje: [ʒ e nʲ e]
+          * lěnja: [l ɪ nʲ a]
     ```
   - ```{ipa_cell}
     ```
@@ -101,18 +101,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 1142
         * Examples
+          * poł: [p o w]
+          * pod: [p o d]
+          * praze: [p ʀ a z e]
           * plany: [p l a n ɨ]
-          * prěne: [p ʀ ɪ n e]
-          * při: [p ʃ i]
-          * stołp: [s t o w p]
     * voiced
       * b
         * Occurances: 671
         * Examples
-          * barbu: [b a ʀ b u]
-          * božim: [b o ʒ i m]
-          * bow: [b o w]
-          * nabyć: [n a b ɨ tʃ]
+          * buchu: [b u x u]
+          * sobu-: [s o b u]
+          * ryby: [ʀ ɨ b ɨ]
+          * bukej: [b u k e j]
     ```
   - ```{ipa_cell}
     ```
@@ -121,18 +121,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 1644
         * Examples
-          * husto: [h u s t o]
-          * klětu: [k l ɪ t u]
-          * temje: [t e mʲ e]
-          * stołp: [s t o w p]
+          * twoju: [t w o j u]
+          * temu: [t e m u]
+          * stare: [s t a ʀ e]
+          * stil: [s t i l]
     * voiced
       * d
         * Occurances: 1065
         * Examples
-          * jedne: [j e d n e]
-          * ludom: [l u d o m]
-          * poda: [p o d a]
-          * rjad: [ʀʲ a d]
+          * nihdy: [n i h d ɨ]
+          * jednu: [j e d n u]
+          * dnja: [d nʲ a]
+          * dać: [d a tʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -143,18 +143,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 1662
         * Examples
-          * klětu: [k l ɪ t u]
-          * mark: [m a ʀ k]
-          * parku: [p a ʀ k u]
-          * kursu: [k u ʀ s u]
+          * kajki: [k a j k i]
+          * kraj: [k ʀ a j]
+          * łuku: [w u k u]
+          * wukaz: [w u k a z]
     * voiced
       * ɡ
         * Occurances: 149
         * Examples
-          * blogu: [b l o ɡ u]
-          * organ: [o ʀ ɡ a n]
           * liga: [l i ɡ a]
+          * gipsa: [ɡ i p s a]
           * graty: [ɡ ʀ a t ɨ]
+          * blogu: [b l o ɡ u]
     ```
   - ```{ipa_cell}
     ```
@@ -170,28 +170,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 526
         * Examples
+          * holcy: [h o l ts ɨ]
+          * wjac: [wʲ a ts]
           * wěcne: [w ɪ ts n e]
-          * cyłe: [ts ɨ w e]
-          * ławce: [w a w ts e]
-          * kóncu: [k ʊ n ts u]
+          * cuzy: [ts u z ɨ]
     ```
   - ```{ipa_cell}
     * voiceless
       * tʃ
         * Occurances: 1037
         * Examples
-          * nabyć: [n a b ɨ tʃ]
-          * přeća: [p ʃ e tʃ a]
-          * trać: [t ʀ a tʃ]
-          * kóčka: [k ʊ tʃ k a]
+          * čas: [tʃ a s]
+          * ćerń: [tʃ e ʀ nʲ]
+          * čaka: [tʃ a k a]
+          * dać: [d a tʃ]
     * voiced
       * dʒ
         * Occurances: 371
         * Examples
-          * dźěle: [dʒ ɪ l e]
-          * dźěch: [dʒ ɪ x]
-          * dźěła: [dʒ ɪ w a]
-          * budźe: [b u dʒ e]
+          * dźiwa: [dʒ i w a]
+          * dźěćo: [dʒ ɪ tʃ o]
+          * dźě: [dʒ ɪ]
+          * widźi: [w i dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -211,36 +211,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 1987
         * Examples
-          * husto: [h u s t o]
-          * zes: [z e s]
-          * lěsej: [l ɪ s e j]
-          * stołp: [s t o w p]
+          * čas: [tʃ a s]
+          * stare: [s t a ʀ e]
+          * stil: [s t i l]
+          * sobu-: [s o b u]
     * voiced
       * z
         * Occurances: 844
         * Examples
-          * zes: [z e s]
-          * zwony: [z w o n ɨ]
-          * złe: [z w e]
-          * změny: [z m ɪ n ɨ]
+          * wukaz: [w u k a z]
+          * cuzy: [ts u z ɨ]
+          * razej: [ʀ a z e j]
+          * razaj: [ʀ a z a j]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 816
         * Examples
-          * šule: [ʃ u l e]
-          * wšeho: [w ʃ e h o]
-          * při: [p ʃ i]
-          * přeća: [p ʃ e tʃ a]
+          * našu: [n a ʃ u]
+          * šaty: [ʃ a t ɨ]
+          * kemše: [k e m ʃ e]
+          * wšo: [w ʃ o]
     * voiced
       * ʒ
         * Occurances: 335
         * Examples
-          * božim: [b o ʒ i m]
-          * wažny: [w a ʒ n ɨ]
-          * žabu: [ʒ a b u]
-          * łoža: [w o ʒ a]
+          * mužom: [m u ʒ o m]
+          * žony: [ʒ o n ɨ]
+          * ženje: [ʒ e nʲ e]
+          * južne: [j u ʒ n e]
     ```
   - ```{ipa_cell}
     ```
@@ -259,9 +259,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 130
         * Examples
           * taflu: [t a f l u]
+          * tafle: [t a f l e]
           * firmy: [f i ʀ m ɨ]
-          * šefa: [ʃ e f a]
-          * formy: [f o ʀ m ɨ]
+          * formu: [f o ʀ m u]
     * voiced
       * v
         * Occurances: 3
@@ -282,10 +282,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 549
         * Examples
-          * husto: [h u s t o]
-          * wšeho: [w ʃ e h o]
-          * bahna: [b a h n a]
-          * lěhwo: [l ɪ h w o]
+          * holcy: [h o l ts ɨ]
+          * nihdy: [n i h d ɨ]
+          * móhło: [m ʊ h w o]
+          * hraje: [h ʀ a j e]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -293,17 +293,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 2786
         * Examples
-          * nowa: [n o w a]
-          * wšeho: [w ʃ e h o]
-          * bow: [b o w]
-          * wažny: [w a ʒ n ɨ]
+          * twoju: [t w o j u]
+          * łuku: [w u k u]
+          * wukaz: [w u k a z]
+          * móhło: [m ʊ h w o]
       * wʲ
         * Occurances: 190
         * Examples
-          * wjele: [wʲ e l e]
-          * sowjo: [s o wʲ o]
-          * wjelk: [wʲ e l k]
           * wjac: [wʲ a ts]
+          * wjedu: [wʲ e d u]
+          * wjesć: [wʲ e s tʃ]
+          * wjele: [wʲ e l e]
     ```
   - ```{ipa_cell}
     ```
@@ -316,10 +316,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 1179
         * Examples
-          * jedne: [j e d n e]
-          * ryjo: [ʀ ɨ j o]
-          * mojej: [m o j e j]
-          * lěsej: [l ɪ s e j]
+          * twoju: [t w o j u]
+          * kajki: [k a j k i]
+          * kraj: [k ʀ a j]
+          * jednu: [j e d n u]
     ```
   - ```{ipa_cell}
     ```
@@ -345,17 +345,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʀ
         * Occurances: 1667
         * Examples
-          * ryjo: [ʀ ɨ j o]
-          * barbu: [b a ʀ b u]
-          * areal: [a ʀ e a l]
-          * prěne: [p ʀ ɪ n e]
+          * kraj: [k ʀ a j]
+          * ćerń: [tʃ e ʀ nʲ]
+          * stare: [s t a ʀ e]
+          * reju: [ʀ e j u]
       * ʀʲ
         * Occurances: 247
         * Examples
-          * rjad: [ʀʲ a d]
-          * drje: [d ʀʲ e]
-          * derje: [d e ʀʲ e]
-          * durje: [d u ʀʲ e]
+          * wěrje: [w ɪ ʀʲ e]
+          * murju: [m u ʀʲ u]
+          * morju: [m o ʀʲ u]
+          * rjany: [ʀʲ a n ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -369,10 +369,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 977
         * Examples
-          * šule: [ʃ u l e]
-          * klětu: [k l ɪ t u]
-          * areal: [a ʀ e a l]
-          * lěsej: [l ɪ s e j]
+          * holcy: [h o l ts ɨ]
+          * stil: [s t i l]
+          * klimu: [k l i m u]
+          * lěnja: [l ɪ nʲ a]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 2437
         * Examples
-          * božim: [b o ʒ i m]
-          * woni: [w o n i]
-          * při: [p ʃ i]
-          * boli: [b o l i]
+          * kajki: [k a j k i]
+          * nihdy: [n i h d ɨ]
+          * stil: [s t i l]
+          * nich: [n i x]
     ```
   - ```{ipa_cell}
     ```
@@ -420,10 +420,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 968
         * Examples
-          * ryjo: [ʀ ɨ j o]
-          * nabyć: [n a b ɨ tʃ]
-          * wažny: [w a ʒ n ɨ]
-          * plany: [p l a n ɨ]
+          * holcy: [h o l ts ɨ]
+          * nihdy: [n i h d ɨ]
+          * šaty: [ʃ a t ɨ]
+          * cuzy: [ts u z ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -432,10 +432,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 1646
         * Examples
-          * šule: [ʃ u l e]
-          * husto: [h u s t o]
-          * barbu: [b a ʀ b u]
-          * klětu: [k l ɪ t u]
+          * našu: [n a ʃ u]
+          * twoju: [t w o j u]
+          * łuku: [w u k u]
+          * temu: [t e m u]
     ```
 * -
   - ```{ipa_cell}
@@ -445,10 +445,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 694
         * Examples
-          * klětu: [k l ɪ t u]
-          * lěsej: [l ɪ s e j]
           * wěcne: [w ɪ ts n e]
-          * prěne: [p ʀ ɪ n e]
+          * wědy: [w ɪ d ɨ]
+          * rěča: [ʀ ɪ tʃ a]
+          * sněh: [s n ɪ h]
     ```
   - ```{ipa_cell}
     ```
@@ -457,10 +457,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 285
         * Examples
-          * wójny: [w ʊ j n ɨ]
-          * kóčka: [k ʊ tʃ k a]
-          * kóncu: [k ʊ n ts u]
-          * tónle: [t ʊ n l e]
+          * móhło: [m ʊ h w o]
+          * dróhi: [d ʀ ʊ h i]
+          * bórze: [b ʊ ʀ z e]
+          * hórce: [h ʊ ʀ ts e]
     ```
   - ```{ipa_cell}
     ```
@@ -470,10 +470,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 3569
         * Examples
-          * jedne: [j e d n e]
-          * šule: [ʃ u l e]
-          * wšeho: [w ʃ e h o]
-          * mojej: [m o j e j]
+          * temu: [t e m u]
+          * ćerń: [tʃ e ʀ nʲ]
+          * stare: [s t a ʀ e]
+          * jednu: [j e d n u]
     ```
   - ```{ipa_cell}
     ```
@@ -486,10 +486,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 3405
         * Examples
-          * ryjo: [ʀ ɨ j o]
-          * husto: [h u s t o]
-          * nowa: [n o w a]
-          * wšeho: [w ʃ e h o]
+          * twoju: [t w o j u]
+          * holcy: [h o l ts ɨ]
+          * móhło: [m ʊ h w o]
+          * poł: [p o w]
     ```
 * -
   - ```{ipa_cell}
@@ -534,10 +534,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 4075
         * Examples
-          * nowa: [n o w a]
-          * barbu: [b a ʀ b u]
-          * nana: [n a n a]
-          * areal: [a ʀ e a l]
+          * našu: [n a ʃ u]
+          * čas: [tʃ a s]
+          * kajki: [k a j k i]
+          * kraj: [k ʀ a j]
     ```
   - ```{ipa_cell}
     ```

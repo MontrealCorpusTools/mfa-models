@@ -25,7 +25,6 @@
 	journal = {arXiv preprint arXiv:1912.06670},
 	year = {2019}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

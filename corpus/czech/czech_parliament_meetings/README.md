@@ -24,7 +24,6 @@
 	year = {2012},
 	publisher = {University of West Bohemia, Department of Cybernetics}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

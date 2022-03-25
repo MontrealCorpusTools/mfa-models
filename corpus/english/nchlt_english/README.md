@@ -24,7 +24,6 @@
 	year = {2014},
 	organization = {Workshop Spoken Language Technologies for Under-resourced Languages (SLTU)}
 }
-
 ```
 
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.

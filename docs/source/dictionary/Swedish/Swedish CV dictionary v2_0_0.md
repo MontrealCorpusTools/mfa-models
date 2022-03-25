@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 4279
         * Examples
-          * mötet: [m øː t eː t]
-          * roman: [r uː m ɑː n]
-          * döma,: [d øː m ɑː]
-          * camp: [k ɐ m p]
+          * rytm.: [r ʏ t m]
+          * muta: [m ʉː t ɑː]
+          * inom: [iː n uː m]
+          * mera?: [m eː r ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 12324
         * Examples
-          * rosen: [r uː s eː n]
-          * rånat: [r oː n ɑː t]
-          * "onda: [ɔ n d ɑː]
-          * roman: [r uː m ɑː n]
+          * uns.: [ɵ n s]
+          * sen.: [s eː n]
+          * rain: [r ɑː iː n]
+          * nej,: [n eː j]
     ```
   - ```{ipa_cell}
     ```
@@ -77,10 +77,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 1330
         * Examples
-          * ångra: [ɔ ŋ r ɑː]
-          * poäng: [p uː ɛ ŋ]
-          * gång?: [ɡ ɔ ŋ]
-          * king,: [ɕ ɪ ŋ]
+          * lång: [l ɔ ŋ]
+          * ungt: [ɵ ŋ t]
+          * sväng: [s v ɛ ŋ]
+          * gäng: [j ɛ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -92,18 +92,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2716
         * Examples
-          * camp: [k ɐ m p]
-          * grupp: [ɡ r ɵ p]
-          * djupa: [j ʉː p ɑː]
-          * pegg!: [p ɛ g]
+          * på?: [p oː]
+          * pris: [p r iː s]
+          * djup: [j ʉː p]
+          * pipa.: [p iː p ɑː]
     * voiced
       * b
         * Occurances: 2734
         * Examples
-          * boka: [b uː k ɑː]
-          * sabah: [s ɑː b ɑː h]
-          * bra: [b r ɑː]
-          * bok: [b uː k]
+          * bon: [b uː n]
+          * bath: [b ɐ t h]
+          * bör: [b øː r]
+          * bred.: [b r eː d]
     ```
   - ```{ipa_cell}
     ```
@@ -112,18 +112,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 11976
         * Examples
-          * örat.: [øː r ɑː t]
-          * mötet: [m øː t eː t]
-          * rånat: [r oː n ɑː t]
-          * sluta: [s l ʉː t ɑː]
+          * gryt?: [ɡ r yː t]
+          * det!: [d eː t]
+          * svagt: [s v ɐ ɡ t]
+          * vette: [v ɛ t eː]
     * voiced
       * d
         * Occurances: 6545
         * Examples
-          * "onda: [ɔ n d ɑː]
-          * dök: [d øː k]
-          * dåsig: [d oː s iː ɡ]
-          * synd: [s ʏ n d]
+          * det!: [d eː t]
+          * tätad: [t ɛː t ɑː d]
+          * lade: [l ɑː d eː]
+          * dög: [d øː ɡ]
     ```
   - ```{ipa_cell}
     ```
@@ -132,27 +132,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 4695
         * Examples
-          * boka: [b uː k ɑː]
-          * dök: [d øː k]
-          * camp: [k ɐ m p]
-          * tack.: [t ɐ k]
+          * knät.: [k n ɛː t]
+          * kavla: [k ɐ v l ɑː]
+          * sakta: [s ɐ k t ɑː]
+          * extra: [ɛ k s t r ɑː]
     * voiced
       * ɡ
         * Occurances: 3223
         * Examples
-          * ivrig: [ɪ v r iː ɡ]
-          * gay.: [ɡ ɑː yː]
-          * dåsig: [d oː s iː ɡ]
-          * arg,: [ɐ r ɡ]
+          * gryt?: [ɡ r yː t]
+          * svagt: [s v ɐ ɡ t]
+          * feg: [f eː ɡ]
+          * dög: [d øː ɡ]
     ```
   - ```{ipa_cell}
     * voiceless
       * q
         * Occurances: 17
         * Examples
-          * qing: [q ɪ ŋ]
-          * queen: [q ʉː eː eː n]
           * qvick: [q v ɪ k]
+          * queen: [q ʉː eː eː n]
+          * qing: [q ɪ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -166,26 +166,26 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 9987
         * Examples
-          * saker: [s ɑː ɕ eː r]
-          * rosen: [r uː s eː n]
-          * sluta: [s l ʉː t ɑː]
-          * sabah: [s ɑː b ɑː h]
+          * uns.: [ɵ n s]
+          * se!: [s eː]
+          * sen.: [s eː n]
+          * svagt: [s v ɐ ɡ t]
     * voiced
       * z
         * Occurances: 4
         * Examples
-          * jazz: [j ɐ z]
           * buzz: [b ɵ z]
+          * jazz: [j ɐ z]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 1482
         * Examples
-          * saker: [s ɑː ɕ eː r]
-          * tjuv,: [ɕ ʉː v]
-          * tjugo: [ɕ ʉː ɡ uː]
-          * maki: [m ɑː ɕ iː]
+          * kiwi.: [ɕ iː v iː]
+          * tjäna: [ɕ ɛː n ɑː]
+          * tjuv?: [ɕ ʉː v]
+          * sker.: [s ɕ eː r]
     ```
   - ```{ipa_cell}
     ```
@@ -201,18 +201,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 3131
         * Examples
-          * får?: [f oː r]
-          * fått: [f ɔ t]
-          * fred,: [f r eː d]
-          * fjol: [f j uː l]
+          * fars: [f ɐ r s]
+          * feg: [f eː ɡ]
+          * full,: [f ɵ l]
+          * fin.: [f iː n]
     * voiced
       * v
         * Occurances: 3646
         * Examples
-          * vore: [v uː r eː]
-          * ivrig: [ɪ v r iː ɡ]
-          * tjuv,: [ɕ ʉː v]
-          * leve: [l eː v eː]
+          * svagt: [s v ɐ ɡ t]
+          * vette: [v ɛ t eː]
+          * visa,: [v iː s ɑː]
+          * kavla: [k ɐ v l ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -227,10 +227,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 1914
         * Examples
-          * sabah: [s ɑː b ɑː h]
-          * hit!: [h iː t]
-          * haj.: [h ɑː j]
-          * hålan: [h oː l ɑː n]
+          * hetsa: [h ɛ t s ɑː]
+          * höll: [h œ l]
+          * hette: [h ɛ t eː]
+          * bath: [b ɐ t h]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -244,10 +244,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 2571
         * Examples
-          * adjö!: [ɐ j øː]
-          * gjort: [j ɔ r t]
-          * haj.: [h ɑː j]
-          * nöjd.: [n œ j d]
+          * gilla: [j ɪ l ɑː]
+          * nej,: [n eː j]
+          * jolly: [j ɔ l yː]
+          * igen.: [iː j eː n]
     ```
   - ```{ipa_cell}
     ```
@@ -265,10 +265,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 14568
         * Examples
-          * saker: [s ɑː ɕ eː r]
-          * örat.: [øː r ɑː t]
-          * rosen: [r uː s eː n]
-          * rånat: [r oː n ɑː t]
+          * gryt?: [ɡ r yː t]
+          * rain: [r ɑː iː n]
+          * rusa: [r ʉː s ɑː]
+          * rått.: [r ɔ t]
     ```
   - ```{ipa_cell}
     ```
@@ -288,10 +288,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 7685
         * Examples
-          * sluta: [s l ʉː t ɑː]
-          * leve: [l eː v eː]
-          * lunch: [l ɵ n ɧ]
-          * wyld.: [v ʏ l d]
+          * gilla: [j ɪ l ɑː]
+          * lång: [l ɔ ŋ]
+          * jolly: [j ɔ l yː]
+          * kavla: [k ɐ v l ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -325,18 +325,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * iː
         * Occurances: 4059
         * Examples
-          * ivrig: [ɪ v r iː ɡ]
-          * dåsig: [d oː s iː ɡ]
-          * hit!: [h iː t]
+          * rain: [r ɑː iː n]
+          * visa,: [v iː s ɑː]
           * igen.: [iː j eː n]
+          * kiwi.: [ɕ iː v iː]
     * rounded
       * yː
         * Occurances: 642
         * Examples
-          * gay.: [ɡ ɑː yː]
-          * dry: [d r yː]
-          * lyx.: [l yː k s]
-          * gryt,: [ɡ r yː t]
+          * gryt?: [ɡ r yː t]
+          * jolly: [j ɔ l yː]
+          * gryt.: [ɡ r yː t]
+          * byar: [b yː ɑː r]
     ```
   - ```{ipa_cell}
     ```
@@ -345,10 +345,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʉː
         * Occurances: 1372
         * Examples
-          * tjuv,: [ɕ ʉː v]
-          * sluta: [s l ʉː t ɑː]
-          * tjugo: [ɕ ʉː ɡ uː]
-          * djupa: [j ʉː p ɑː]
+          * rusa: [r ʉː s ɑː]
+          * union: [ʉː n iː uː n]
+          * hud: [h ʉː d]
+          * muta: [m ʉː t ɑː]
     ```
   - ```{ipa_cell}
     ```
@@ -357,10 +357,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * uː
         * Occurances: 3206
         * Examples
-          * boka: [b uː k ɑː]
-          * rosen: [r uː s eː n]
-          * vore: [v uː r eː]
-          * roman: [r uː m ɑː n]
+          * bon: [b uː n]
+          * rosa: [r uː s ɑː]
+          * avon: [ɑː v uː n]
+          * union: [ʉː n iː uː n]
     ```
 * -
   - ```{ipa_cell}
@@ -370,18 +370,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 4352
         * Examples
-          * ivrig: [ɪ v r iː ɡ]
-          * titta: [t ɪ t ɑː]
-          * inget: [ɪ n j eː t]
-          * inger: [ɪ n j eː r]
+          * gilla: [j ɪ l ɑː]
+          * inte!: [ɪ n t eː]
+          * inre: [ɪ n r eː]
+          * intag: [ɪ n t ɑː ɡ]
     * rounded
       * ʏ
         * Occurances: 777
         * Examples
-          * synd: [s ʏ n d]
-          * wyld.: [v ʏ l d]
-          * lyste: [l ʏ s t eː]
-          * dyrt.: [d ʏ r t]
+          * rytm.: [r ʏ t m]
+          * synd,: [s ʏ n d]
+          * skygg: [s ɕ ʏ g]
+          * lydde: [l ʏ d eː]
     ```
   - ```{ipa_cell}
     ```
@@ -395,18 +395,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 11056
         * Examples
-          * saker: [s ɑː ɕ eː r]
-          * rosen: [r uː s eː n]
-          * mötet: [m øː t eː t]
-          * vore: [v uː r eː]
+          * se!: [s eː]
+          * sen.: [s eː n]
+          * det!: [d eː t]
+          * vette: [v ɛ t eː]
     * rounded
       * øː
         * Occurances: 1197
         * Examples
-          * adjö!: [ɐ j øː]
-          * örat.: [øː r ɑː t]
-          * mötet: [m øː t eː t]
-          * dök: [d øː k]
+          * dög: [d øː ɡ]
+          * strök: [s t r øː k]
+          * bör: [b øː r]
+          * söner: [s øː n eː r]
     ```
   - ```{ipa_cell}
     ```
@@ -415,10 +415,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɵ
         * Occurances: 2078
         * Examples
-          * lunch: [l ɵ n ɧ]
-          * grupp: [ɡ r ɵ p]
-          * dumt.: [d ɵ m t]
-          * ifund: [iː f ɵ n d]
+          * uns.: [ɵ n s]
+          * full,: [f ɵ l]
+          * tuffa: [t ɵ f ɑː]
+          * ungt: [ɵ ŋ t]
     ```
   - ```{ipa_cell}
     ```
@@ -427,10 +427,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * oː
         * Occurances: 1097
         * Examples
-          * rånat: [r oː n ɑː t]
-          * får?: [f oː r]
-          * dåsig: [d oː s iː ɡ]
-          * hålan: [h oː l ɑː n]
+          * tråd-: [t r oː d]
+          * sånär: [s oː n ɛː r]
+          * på?: [p oː]
+          * såsom: [s oː s uː m]
     ```
 * -
   - ```{ipa_cell}
@@ -449,25 +449,25 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 6891
         * Examples
-          * sände: [s ɛ n d eː]
-          * järn: [j ɛ r n]
-          * stänk: [s t ɛ n k]
-          * pegg!: [p ɛ g]
+          * vette: [v ɛ t eː]
+          * hetsa: [h ɛ t s ɑː]
+          * extra: [ɛ k s t r ɑː]
+          * hette: [h ɛ t eː]
       * ɛː
         * Occurances: 819
         * Examples
-          * väta: [v ɛː t ɑː]
-          * nära: [n ɛː r ɑː]
-          * näve.: [n ɛː v eː]
-          * väl: [v ɛː l]
+          * tätad: [t ɛː t ɑː d]
+          * knät.: [k n ɛː t]
+          * gräl.: [ɡ r ɛː l]
+          * sälar: [s ɛː l ɑː r]
     * rounded
       * œ
         * Occurances: 1458
         * Examples
-          * nöjd.: [n œ j d]
-          * gömda: [j œ m d ɑː]
-          * nöjd: [n œ j d]
-          * körde: [ɕ œ r d eː]
+          * höll: [h œ l]
+          * lönt: [l œ n t]
+          * stöds: [s t œ d s]
+          * rött: [r œ t]
     ```
   - ```{ipa_cell}
     ```
@@ -480,10 +480,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 3496
         * Examples
-          * "onda: [ɔ n d ɑː]
-          * gjort: [j ɔ r t]
-          * zorn: [s ɔ r n]
-          * fått: [f ɔ t]
+          * lång: [l ɔ ŋ]
+          * jolly: [j ɔ l yː]
+          * rått.: [r ɔ t]
+          * håll.: [h ɔ l]
     ```
 * -
   - ```{ipa_cell}
@@ -495,10 +495,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 5478
         * Examples
-          * adjö!: [ɐ j øː]
-          * arg,: [ɐ r ɡ]
-          * camp: [k ɐ m p]
-          * tack.: [t ɐ k]
+          * svagt: [s v ɐ ɡ t]
+          * kavla: [k ɐ v l ɑː]
+          * sakta: [s ɐ k t ɑː]
+          * fars: [f ɐ r s]
     ```
   - ```{ipa_cell}
     ```
@@ -518,9 +518,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑː
         * Occurances: 10206
         * Examples
-          * boka: [b uː k ɑː]
-          * saker: [s ɑː ɕ eː r]
-          * örat.: [øː r ɑː t]
-          * rånat: [r oː n ɑː t]
+          * gilla: [j ɪ l ɑː]
+          * rain: [r ɑː iː n]
+          * tätad: [t ɛː t ɑː d]
+          * visa,: [v iː s ɑː]
     ```
 ``````
