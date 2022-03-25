@@ -49,16 +49,11 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This dictionary is intended for forced alignment of [Belarusian](https://en.wikipedia.org/wiki/Belarusian_language) transcripts.
 
-This dictionary uses the [XPF](https://github.com/CohenPr-XPF/XPF) phone set for Belarusian, and was used in training the Belarusian [XPF](https://github.com/CohenPr-XPF/XPF) acoustic model.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This dictionary uses the [XPF](https://github.com/CohenPr-XPF/XPF) phone set for Belarusian, and was used in training the Belarusian [XPF](https://github.com/CohenPr-XPF/XPF) acoustic model. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be seen when adding reduced variants that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
-so it will lead to alignment errors on adjacent words as well.
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects. The most impactful improvements will generally be seen when adding reduced variants that involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in, so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations
 
@@ -66,6 +61,4 @@ Deploying any Speech-to-Text model into any production setting has ethical impli
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants.
-If you are using this dictionary in production, you should acknowledge this as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants. If you are using this dictionary in production, you should acknowledge this as a potential issue.

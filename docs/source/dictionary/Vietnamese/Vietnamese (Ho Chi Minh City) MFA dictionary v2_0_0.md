@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 654
         * Examples
-          * muôi: [m uː˨˨ j]
-          * mắc: [m a˦˥ k]
-          * chêm: [c eː˨˨ m]
-          * mãn: [m aː˨˩˦ ŋ]
+          * mun: [m u˨˨ ŋm]
+          * mất: [m ə˦˥ k]
+          * núm: [n ɨ˦˥ m]
+          * liềm: [l iː˨˩ m]
     ```
   - ```{ipa_cell}
     ```
@@ -65,10 +65,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 416
         * Examples
-          * nồi: [n oː˨˩ j]
-          * nét: [n ɛː˦˥ k]
-          * nông: [n ɔ˨˨ ŋm]
-          * khểnh: [x əː˨˩˦ n]
+          * nép: [n ɛː˦˥ p]
+          * bảnh: [ɓ a˨˩˦ n]
+          * nón: [n ɔː˦˥ ŋ]
+          * vện: [v əː˨˩˨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -77,20 +77,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 185
         * Examples
-          * nhiêu: [ɲ iː˨˨ w]
-          * nhóm: [ɲ ɔː˦˥ m]
-          * nhổ: [ɲ oː˨˩˦]
-          * nhép: [ɲ ɛː˦˥ p]
+          * nhan: [ɲ aː˨˨ ŋ]
+          * nhân: [ɲ ə˨˨ ŋ]
+          * nhậu: [ɲ ə˨˩˨ w]
+          * nhúc: [ɲ u˦˥ kp]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1145
         * Examples
-          * đốn: [ɗ o˦˥ ŋ]
-          * làn: [l aː˨˩ ŋ]
-          * hắn: [h a˦˥ ŋ]
-          * ngòi: [ŋ ɔː˨˩ j]
+          * chạng: [c aː˨˩˨ ŋ]
+          * ngẫu: [ŋ ə˨˩˦ w]
+          * nón: [n ɔː˦˥ ŋ]
+          * nguôi: [ŋ uː˨˨ j]
     ```
   - ```{ipa_cell}
     ```
@@ -100,10 +100,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 197
         * Examples
-          * nộp: [n oː˨˩˨ p]
-          * lạp: [l aː˨˩˨ p]
-          * nhép: [ɲ ɛː˦˥ p]
-          * bắp: [ɓ a˦˥ p]
+          * nép: [n ɛː˦˥ p]
+          * lốp: [l oː˦˥ p]
+          * lộp: [l oː˨˩˨ p]
+          * diếp: [j iː˦˥ p]
     ```
   - ```{ipa_cell}
     ```
@@ -112,58 +112,58 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 415
         * Examples
-          * lết: [l əː˦˥ t]
-          * tấc: [t ə˦˥ k]
-          * tung: [t u˨˨ ŋm]
-          * tận: [t ə˨˩˨ ŋ]
+          * tẹt: [t ɛː˨˩˨ k]
+          * xách: [s a˦˥ t]
+          * túng: [t u˦˥ ŋm]
+          * tơi: [t əː˨˨ j]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʈ
         * Occurances: 159
         * Examples
-          * trải: [ʈ aː˨˩˦ j]
-          * trọc: [ʈ ɔ˨˩˨ kp]
-          * trã: [ʈ aː˨˩˦]
-          * trển: [ʈ əː˨˩˦ n]
+          * trù: [ʈ u˨˩]
+          * trị: [ʈ i˨˩˨]
+          * tròng: [ʈ ɔ˨˩ ŋm]
+          * trảm: [ʈ aː˨˩˦ m]
     ```
   - ```{ipa_cell}
     * voiceless
       * c
         * Occurances: 233
         * Examples
-          * chêm: [c eː˨˨ m]
-          * chuốc: [c uː˦˥ k]
-          * chút: [c u˦˥ kp]
-          * chè: [c ɛː˨˩]
+          * chạng: [c aː˨˩˨ ŋ]
+          * chột: [c o˨˩˨ k]
+          * chúi: [c u˦˥ j]
+          * chay: [c a˨˨ j]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 765
         * Examples
-          * vực: [v ɨ˨˩˨ k]
-          * tấc: [t ə˦˥ k]
-          * mắc: [m a˦˥ k]
-          * kia: [k iə˨˨]
+          * vật: [v ə˨˩˨ k]
+          * cứu: [k ɨ˦˥ w]
+          * tẹt: [t ɛː˨˩˨ k]
+          * hạt: [h aː˨˩˨ k]
     * voiced
       * ɡ
         * Occurances: 132
         * Examples
-          * gấu: [ɡ ə˦˥ w]
-          * gậy: [ɡ ə˨˩˨ j]
-          * ghê: [ɡ eː˨˨]
-          * gói: [ɡ ɔː˦˥ j]
+          * gàu: [ɡ a˨˩ w]
+          * gọng: [ɡ ɔ˨˩˨ ŋm]
+          * gai: [ɡ aː˨˨ j]
+          * gắn: [ɡ a˦˥ ŋ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 189
         * Examples
-          * ung: [ʔ u˨˨ ŋm]
-          * óng: [ʔ ɔ˦˥ ŋm]
-          * ước: [ʔ ɨː˦˥ k]
-          * ang: [ʔ aː˨˨ ŋ]
+          * uổng: [ʔ uː˨˩˦ ŋ]
+          * yên: [ʔ iː˨˨ ŋ]
+          * uống: [ʔ uː˦˥ ŋ]
+          * ủng: [ʔ u˨˩˦ ŋm]
     ```
 * - {submanner}`Implosive`
   - ```{ipa_cell}
@@ -171,10 +171,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɓ
         * Occurances: 266
         * Examples
-          * bởi: [ɓ əː˨˩˦ j]
-          * bọt: [ɓ ɔː˨˩˨ k]
-          * bót: [ɓ ɔː˦˥ k]
-          * bẹt: [ɓ ɛː˨˩˨ k]
+          * bảnh: [ɓ a˨˩˦ n]
+          * biếng: [ɓ iː˦˥ ŋ]
+          * bầm: [ɓ ə˨˩ m]
+          * beo: [ɓ ɛː˨˨ w]
     ```
   - ```{ipa_cell}
     ```
@@ -183,10 +183,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɗ
         * Occurances: 252
         * Examples
-          * đốn: [ɗ o˦˥ ŋ]
-          * đần: [ɗ ə˨˩ ŋ]
-          * đói: [ɗ ɔː˦˥ j]
-          * đôn: [ɗ o˨˨ ŋ]
+          * đốc: [ɗ ɔ˦˥ kp]
+          * đéo: [ɗ ɛː˦˥ w]
+          * đậu: [ɗ ə˨˩˨ w]
+          * đạn: [ɗ aː˨˩˨ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -206,10 +206,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 337
         * Examples
-          * xói: [s ɔː˦˥ j]
-          * sông: [s ɔ˨˨ ŋm]
-          * sẵn: [s a˨˩˦ ŋ]
-          * sùi: [s u˨˩ j]
+          * xách: [s a˦˥ t]
+          * xoàn: [s w aː˨˩ ŋ]
+          * sạm: [s aː˨˩˨ m]
+          * sướt: [s ɨː˦˥ k]
     ```
   - ```{ipa_cell}
     ```
@@ -227,18 +227,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 121
         * Examples
-          * phàng: [f aː˨˩ ŋ]
-          * phệ: [f eː˨˩˨]
-          * phỏng: [f ɔ˨˩˦ ŋm]
-          * phe: [f ɛː˨˨]
+          * phổi: [f oː˨˩˦ j]
+          * phố: [f oː˦˥]
+          * phải: [f aː˨˩˦ j]
+          * phì: [f i˨˩]
     * voiced
       * v
         * Occurances: 188
         * Examples
-          * vực: [v ɨ˨˩˨ k]
-          * vèo: [v ɛː˨˩ w]
-          * vọc: [v ɔ˨˩˨ kp]
-          * vợt: [v əː˨˩˨ k]
+          * vật: [v ə˨˩˨ k]
+          * vong: [v ɔ˨˨ ŋm]
+          * vện: [v əː˨˩˨ n]
+          * vẫn: [v ə˨˩˦ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -253,10 +253,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 256
         * Examples
-          * hiệu: [h iː˨˩˨ w]
-          * hắn: [h a˦˥ ŋ]
-          * họng: [h ɔ˨˩˨ ŋm]
-          * hòn: [h ɔː˨˩ ŋ]
+          * hạt: [h aː˨˩˨ k]
+          * hoại: [h w aː˨˩˨ j]
+          * hiếu: [h iː˦˥ w]
+          * hồi: [h oː˨˩ j]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -264,10 +264,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 779
         * Examples
-          * liêu: [l iː˨˨ w]
-          * hiệu: [h iː˨˩˨ w]
-          * khoẻ: [x w ɛː˨˩˦]
-          * nhiêu: [ɲ iː˨˨ w]
+          * ngẫu: [ŋ ə˨˩˦ w]
+          * cứu: [k ɨ˦˥ w]
+          * thiếu: [tʰ iː˦˥ w]
+          * kèo: [k ɛː˨˩ w]
     ```
   - ```{ipa_cell}
     ```
@@ -280,10 +280,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 898
         * Examples
-          * muôi: [m uː˨˨ j]
-          * bởi: [ɓ əː˨˩˦ j]
-          * lây: [l ə˨˨ j]
-          * nồi: [n oː˨˩ j]
+          * phổi: [f oː˨˩˦ j]
+          * nguôi: [ŋ uː˨˨ j]
+          * hoại: [h w aː˨˩˨ j]
+          * vòi: [v ɔː˨˩ j]
     ```
   - ```{ipa_cell}
     ```
@@ -299,10 +299,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 205
         * Examples
-          * rỗng: [r ɔ˨˩˦ ŋm]
-          * rờn: [r əː˨˩ ŋ]
-          * rình: [r ɨ˨˩ n]
-          * ruồi: [r uː˨˩ j]
+          * rống: [r ɔ˦˥ ŋm]
+          * rịn: [r ɨ˨˩˨ n]
+          * rên: [r əː˨˨ n]
+          * ráy: [r a˦˥ j]
     ```
   - ```{ipa_cell}
     ```
@@ -322,10 +322,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 290
         * Examples
-          * lết: [l əː˦˥ t]
-          * làn: [l aː˨˩ ŋ]
-          * lây: [l ə˨˨ j]
-          * liêu: [l iː˨˨ w]
+          * liềm: [l iː˨˩ m]
+          * lan: [l aː˨˨ ŋ]
+          * lốp: [l oː˦˥ p]
+          * lái: [l aː˦˥ j]
     ```
   - ```{ipa_cell}
     ```
@@ -359,17 +359,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 221
         * Examples
-          * quỳ: [w i˨˩]
-          * quỷ: [w i˨˩˦]
-          * thuỵ: [tʰ w i˨˩˨]
+          * ghìm: [ɡ i˨˩ m]
+          * quý: [w i˦˥]
+          * đìu: [ɗ i˨˩ w]
           * phì: [f i˨˩]
       * iː
         * Occurances: 278
         * Examples
-          * viền: [v iː˨˩ ŋ]
-          * liều: [l iː˨˩ w]
-          * niễng: [n iː˨˩˦ ŋ]
-          * chiên: [c iː˨˨ ŋ]
+          * chiền: [c iː˨˩ ŋ]
+          * diệp: [j iː˨˩˨ p]
+          * triều: [ʈ iː˨˩ w]
+          * hiểu: [h iː˨˩˦ w]
     ```
   - ```{ipa_cell}
     ```
@@ -378,17 +378,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 378
         * Examples
-          * thự: [tʰ ɨ˨˩˨]
-          * bỉnh: [ɓ ɨ˨˩˦ n]
-          * kích: [k ɨ˦˥ t]
-          * dụm: [j ɨ˨˩˨ m]
+          * cứu: [k ɨ˦˥ w]
+          * núm: [n ɨ˦˥ m]
+          * lít: [l ɨ˦˥ t]
+          * bịt: [ɓ ɨ˨˩˨ t]
       * ɨː
         * Occurances: 156
         * Examples
-          * lươn: [l ɨː˨˨ ŋ]
-          * nườm: [n ɨː˨˩ m]
-          * hưởng: [h ɨː˨˩˦ ŋ]
-          * dường: [j ɨː˨˩ ŋ]
+          * cướp: [k ɨː˦˥ p]
+          * nướng: [n ɨː˦˥ ŋ]
+          * pương: [p ɨː˨˨ ŋ]
+          * rượt: [r ɨː˨˩˨ k]
     ```
   - ```{ipa_cell}
     ```
@@ -397,17 +397,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 331
         * Examples
-          * nhúng: [ɲ u˦˥ ŋm]
-          * chụt: [c u˨˩˨ kp]
-          * lụt: [l u˨˩˨ kp]
-          * ngụy: [ŋ u˨˩˨ j]
+          * thủ: [tʰ u˨˩˦]
+          * chúi: [c u˦˥ j]
+          * hung: [h u˨˨ ŋm]
+          * ủng: [ʔ u˨˩˦ ŋm]
       * uː
         * Occurances: 96
         * Examples
-          * đuôi: [ɗ uː˨˨ j]
-          * luồn: [l uː˨˩ ŋ]
-          * muỗng: [m uː˨˩˦ ŋ]
-          * tuổi: [t uː˨˩˦ j]
+          * nguồn: [ŋ uː˨˩ ŋ]
+          * guồng: [ɡ uː˨˩ ŋ]
+          * uôn: [ʔ uː˨˨ ŋ]
+          * nuột: [n uː˨˩˨ k]
     ```
 * -
   - ```{ipa_cell}
@@ -426,10 +426,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * eː
         * Occurances: 127
         * Examples
-          * bệu: [ɓ eː˨˩˨ w]
-          * thều: [tʰ eː˨˩ w]
-          * lều: [l eː˨˩ w]
-          * nếp: [n eː˦˥ p]
+          * thể: [tʰ eː˨˩˦]
+          * thê: [tʰ eː˨˨]
+          * thuế: [tʰ w eː˦˥]
+          * đểu: [ɗ eː˨˩˦ w]
     ```
   - ```{ipa_cell}
     ```
@@ -442,17 +442,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 76
         * Examples
-          * bổn: [ɓ o˨˩˦ ŋ]
-          * đôn: [ɗ o˨˨ ŋ]
-          * gôn: [ɡ o˨˨ ŋ]
-          * thồn: [tʰ o˨˩ ŋ]
+          * đốt: [ɗ o˦˥ k]
+          * hột: [h o˨˩˨ k]
+          * dồn: [j o˨˩ ŋ]
+          * đồn: [ɗ o˨˩ ŋ]
       * oː
         * Occurances: 191
         * Examples
-          * nồi: [n oː˨˩ j]
-          * hối: [h oː˦˥ j]
-          * đổi: [ɗ oː˨˩˦ j]
-          * nhổ: [ɲ oː˨˩˦]
+          * dồi: [j oː˨˩ j]
+          * môi: [m oː˨˨ j]
+          * ngôi: [ŋ oː˨˨ j]
+          * nổi: [n oː˨˩˦ j]
     ```
 * -
   - ```{ipa_cell}
@@ -464,17 +464,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 428
         * Examples
-          * thầu: [tʰ ə˨˩ w]
-          * lây: [l ə˨˨ j]
-          * tận: [t ə˨˩˨ ŋ]
-          * ngẩng: [ŋ ə˨˩˦ ŋ]
+          * ngẫu: [ŋ ə˨˩˦ w]
+          * tấu: [t ə˦˥ w]
+          * đậu: [ɗ ə˨˩˨ w]
+          * nấy: [n ə˦˥ j]
       * əː
         * Occurances: 337
         * Examples
-          * giơ: [j əː˨˨]
-          * tơi: [t əː˨˨ j]
-          * ngợm: [ŋ əː˨˩˨ m]
-          * giởi: [j əː˨˩˦ j]
+          * gởi: [ɡ əː˨˩˦ j]
+          * bết: [ɓ əː˦˥ t]
+          * thớt: [tʰ əː˦˥ k]
+          * dớt: [j əː˦˥ k]
     ```
   - ```{ipa_cell}
     ```
@@ -486,10 +486,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛː
         * Occurances: 307
         * Examples
-          * nét: [n ɛː˦˥ k]
-          * xèng: [s ɛː˨˩ ŋ]
-          * nhẽo: [ɲ ɛː˨˩˦ w]
-          * bẹt: [ɓ ɛː˨˩˨ k]
+          * đéo: [ɗ ɛː˦˥ w]
+          * kèo: [k ɛː˨˩ w]
+          * tẹt: [t ɛː˨˩˨ k]
+          * nhoẻn: [ɲ w ɛː˨˩˦ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -502,17 +502,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 212
         * Examples
-          * cộng: [k ɔ˨˩˨ ŋm]
-          * vọc: [v ɔ˨˩˨ kp]
-          * óng: [ʔ ɔ˦˥ ŋm]
-          * mống: [m ɔ˦˥ ŋm]
+          * bông: [ɓ ɔ˨˨ ŋm]
+          * nông: [n ɔ˨˨ ŋm]
+          * mỏng: [m ɔ˨˩˦ ŋm]
+          * sọc: [s ɔ˨˩˨ kp]
       * ɔː
         * Occurances: 271
         * Examples
-          * nõn: [n ɔː˨˩˦ ŋ]
-          * giọi: [j ɔː˨˩˨ j]
-          * chõ: [c ɔː˨˩˦]
-          * hòn: [h ɔː˨˩ ŋ]
+          * giỏ: [j ɔː˨˩˦]
+          * nón: [n ɔː˦˥ ŋ]
+          * đóm: [ɗ ɔː˦˥ m]
+          * vòi: [v ɔː˨˩ j]
     ```
 * -
   - ```{ipa_cell}
@@ -535,17 +535,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 481
         * Examples
-          * màu: [m a˨˩ w]
-          * tau: [t a˨˨ w]
-          * giằm: [j a˨˩ m]
-          * quách: [w a˦˥ t]
+          * gàu: [ɡ a˨˩ w]
+          * rặn: [r a˨˩˨ ŋ]
+          * ráy: [r a˦˥ j]
+          * xách: [s a˦˥ t]
       * aː
         * Occurances: 783
         * Examples
-          * phát: [f aː˦˥ k]
-          * quảng: [w aː˨˩˦ ŋ]
+          * chạng: [c aː˨˩˨ ŋ]
+          * tàn: [t aː˨˩ ŋ]
+          * đoán: [ɗ w aː˦˥ ŋ]
           * kha: [x aː˨˨]
-          * phàng: [f aː˨˩ ŋ]
     ```
   - ```{ipa_cell}
     ```

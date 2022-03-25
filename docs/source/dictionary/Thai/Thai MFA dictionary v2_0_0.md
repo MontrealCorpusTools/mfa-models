@@ -57,10 +57,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 9141
         * Examples
-          * เม.ย.: [m eː˧ j ɔː˧]
-          * จำกัน: [tɕ a˧ m k a˧ n]
-          * นุ่ม: [n u˥˩ m]
-          * เขม็ง: [kʰ a˨˩ m e˧ ŋ]
+          * ไหหลำ: [h a˩˩˦ j l a˩˩˦ m]
+          * น้ำหา: [n aː˦˥ m h aː˩˩˦]
+          * ฉนำ: [tɕʰ a˨˩ n a˩˩˦ m]
+          * อาม: [ʔ aː˧ m]
     ```
   - ```{ipa_cell}
     ```
@@ -69,10 +69,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 15369
         * Examples
-          * จีวร: [tɕ iː˧ w ɔː˧ n]
-          * ฟอนต์: [f ɔ˦˥ n]
-          * เทนงุ: [tʰ o˧ n ŋ u˨˩ ʔ]
-          * แฟรน: [f r ɛː˧ n]
+          * น้ำหา: [n aː˦˥ m h aː˩˩˦]
+          * สกนธ์: [s a˨˩ k o˧ n]
+          * รวน: [r ua˧ n]
+          * ซัน: [s a˧ n]
     ```
   - ```{ipa_cell}
     ```
@@ -81,10 +81,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ŋ
         * Occurances: 6147
         * Examples
-          * โผง: [pʰ oː˩˩˦ ŋ]
-          * ยุ้ง: [j u˦˥ ŋ]
-          * เทนงุ: [tʰ o˧ n ŋ u˨˩ ʔ]
-          * ตัง: [t a˧ ŋ]
+          * งดงา: [ŋ o˦˥ t̚ ŋ aː˧]
+          * เขย่ง: [kʰ a˨˩ j e˨˩ ŋ]
+          * ถาง: [tʰ aː˩˩˦ ŋ]
+          * นางอุ: [n aː˧ ŋ ʔ u˨˩ ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -94,18 +94,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2838
         * Examples
-          * โอปรา: [ʔ oː˧ p r aː˧]
-          * ปีติ: [p iː˧ t i˨˩ ʔ]
-          * ปากคน: [p aː˨˩ k̚ kʰ o˧ n]
-          * ปชต: [p ɔː˧ tɕʰ ɔː˧ t a˨˩ w]
+          * ปอบ: [p ɔː˨˩ p̚]
+          * ป่น: [p o˨˩ n]
+          * ตะปบ: [t a˨˩ p ɛː˨˩ p̚]
+          * ปัท: [p a˨˩ t̚ tʰ a˦˥]
     * voiced
       * b
         * Occurances: 2502
         * Examples
-          * บุุญ: [b u˨˩ u˨˩ n]
-          * บากู: [b aː˧ k uː˧]
-          * บาทา: [b aː˧ tʰ aː˧]
-          * ดาบส: [d aː˧ b o˨˩ t̚]
+          * ตำบอน: [t a˧ m b ɔ˥˩ n]
+          * บ่่อน: [b ɔ˨˩ n]
+          * เบก: [b e˨˩ k̚]
+          * โคบรา: [kʰ oː˧ b a˧ w]
     ```
   - ```{ipa_cell}
     ```
@@ -114,18 +114,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 3617
         * Examples
-          * ตัง: [t a˧ ŋ]
-          * ปีติ: [p iː˧ t i˨˩ ʔ]
-          * กติกา: [k a˨˩ t i˨˩ k aː˧]
-          * ก็ตาย: [k ɔː˥˩ t aː˧ j]
+          * ตะปบ: [t a˨˩ p ɛː˨˩ p̚]
+          * ตำบอน: [t a˧ m b ɔ˥˩ n]
+          * ซานตา: [s aː˧ n t aː˥˩]
+          * ต.ต.: [t ɔː˧ t ɔː˧]
     * voiced
       * d
         * Occurances: 2488
         * Examples
-          * ก็ดี: [k ɔː˥˩ d iː˧]
-          * กระดา: [k r a˧ d aː˧]
-          * วีดิช: [w iː˧ d i˨˩ tɕʰ]
-          * พอดี: [pʰ ɔː˧ d iː˧]
+          * เดวิด: [d eː˧ w i˨˩ t̚]
+          * คอนโด: [kʰ ɔː˧ n d oː˧]
+          * สำแดง: [s a˩˩˦ m d ɛː˧ ŋ]
+          * เดียน: [d ia˥˩ n]
     ```
   - ```{ipa_cell}
     ```
@@ -134,20 +134,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 5589
         * Examples
-          * ก็ดี: [k ɔː˥˩ d iː˧]
-          * กระดา: [k r a˧ d aː˧]
-          * จำกัน: [tɕ a˧ m k a˧ n]
-          * กติกา: [k a˨˩ t i˨˩ k aː˧]
+          * สกนธ์: [s a˨˩ k o˧ n]
+          * กลัว: [k l ua˧]
+          * กะทะ: [k a˨˩ tʰ a˦˥ ʔ]
+          * กลิ้ง: [k l i˥˩ ŋ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 4725
         * Examples
-          * พระ: [pʰ r a˦˥ ʔ]
-          * เอสซี: [ʔ eː˨˩ t̚ s iː˧]
-          * โอปรา: [ʔ oː˧ p r aː˧]
-          * เทนงุ: [tʰ o˧ n ŋ u˨˩ ʔ]
+          * อ๋อ: [ʔ ɤː˩˩˦]
+          * นางอุ: [n aː˧ ŋ ʔ u˨˩ ʔ]
+          * กะทะ: [k a˨˩ tʰ a˦˥ ʔ]
+          * อาม: [ʔ aː˧ m]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -161,10 +161,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 2509
         * Examples
-          * จีวร: [tɕ iː˧ w ɔː˧ n]
-          * จิโร: [tɕ i˨˩ r oː˧]
-          * จำกัน: [tɕ a˧ m k a˧ n]
-          * เจท: [tɕ eː˨˩ t̚]
+          * พักใจ: [pʰ a˦˥ k̚ tɕ a˧ j]
+          * มูจิ: [m uː˧ tɕ i˨˩ ʔ]
+          * จำำนำ: [tɕ a˧ m a˧ m n a˧ m]
+          * เจเน: [tɕ eː˧ n]
     ```
   - ```{ipa_cell}
     ```
@@ -180,10 +180,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 8198
         * Examples
-          * เอสซี: [ʔ eː˨˩ t̚ s iː˧]
-          * สีี่: [s iː˩˩˦ iː˨˩]
-          * ศิลา: [s i˨˩ l aː˧]
-          * สค.: [s ɔː˩˩˦ kʰ ɔː˧]
+          * สกนธ์: [s a˨˩ k o˧ n]
+          * ซัน: [s a˧ n]
+          * สายชล: [s aː˩˩˦ j tɕʰ o˧ n]
+          * ซานตา: [s aː˧ n t aː˥˩]
     ```
   - ```{ipa_cell}
     ```
@@ -199,10 +199,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 962
         * Examples
-          * ฟอนต์: [f ɔ˦˥ n]
-          * แฟรน: [f r ɛː˧ n]
-          * เฟด: [f eː˦˥ t̚]
-          * ไฟฟ้า: [f a˧ j f aː˦˥]
+          * แฟ้น: [f e˦˥ n]
+          * เฟซ: [f eː˦˥ s]
+          * โคฟี่: [kʰ oː˧ f iː˥˩]
+          * ฟุคะ: [f u˦˥ k̚ kʰ a˦˥ ʔ]
     ```
   - ```{ipa_cell}
     ```
@@ -215,10 +215,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 1974
         * Examples
-          * โหด: [h oː˨˩ t̚]
-          * ห่วง: [h ua˨˩ ŋ]
-          * หััก: [h a˨˩ k̚]
-          * เอาฮา: [ʔ aː˧ h aː˥˩]
+          * ไหหลำ: [h a˩˩˦ j l a˩˩˦ m]
+          * น้ำหา: [n aː˦˥ m h aː˩˩˦]
+          * หิว: [h i˩˩˦ w]
+          * หูด: [h uː˨˩ t̚]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -226,10 +226,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 5365
         * Examples
-          * จีวร: [tɕ iː˧ w ɔː˧ n]
-          * วีดิช: [w iː˧ d i˨˩ tɕʰ]
-          * ปชต: [p ɔː˧ tɕʰ ɔː˧ t a˨˩ w]
-          * เมาส์: [m a˦˥ w]
+          * หิว: [h i˩˩˦ w]
+          * ว่าง: [w aː˥˩ ŋ]
+          * ขาว: [kʰ aː˩˩˦ w]
+          * เดวิด: [d eː˧ w i˨˩ t̚]
     ```
   - ```{ipa_cell}
     ```
@@ -240,10 +240,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 6962
         * Examples
-          * ยุ้ง: [j u˦˥ ŋ]
-          * เม.ย.: [m eː˧ j ɔː˧]
-          * ท้าย: [tʰ aː˦˥ j]
-          * ไถง: [tʰ a˨˩ ŋ a˩˩˦ j]
+          * ขาย: [kʰ aː˩˩˦ j]
+          * ไหล: [l a˩˩˦ j]
+          * ยอร์ก: [j ɔː˦˥ k̚]
+          * ไหหลำ: [h a˩˩˦ j l a˩˩˦ m]
     ```
   - ```{ipa_cell}
     ```
@@ -259,10 +259,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 8413
         * Examples
-          * จิโร: [tɕ i˨˩ r oː˧]
-          * พระ: [pʰ r a˦˥ ʔ]
-          * คีรี: [kʰ iː˧ r iː˧]
-          * โรล: [r oː˧ l]
+          * ชารล์: [tɕʰ aː˧ r]
+          * โท่รห: [tʰ r oː˥˩]
+          * รวน: [r ua˧ n]
+          * ชริ้ง: [tɕʰ a˦˥ r i˥˩ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -280,10 +280,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 5521
         * Examples
-          * ลููก: [l uː˥˩ uː˨˩ k̚]
-          * โรล: [r oː˧ l]
-          * ศิลา: [s i˨˩ l aː˧]
-          * พลับ: [pʰ l a˦˥ p̚]
+          * เคิ่ล: [kʰ ɤ˥˩ l]
+          * ไหล: [l a˩˩˦ j]
+          * ไหหลำ: [h a˩˩˦ j l a˩˩˦ m]
+          * กลัว: [k l ua˧]
     ```
   - ```{ipa_cell}
     ```
@@ -315,17 +315,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 6518
         * Examples
-          * กติกา: [k a˨˩ t i˨˩ k aː˧]
-          * ปีติ: [p iː˧ t i˨˩ ʔ]
-          * กิมจิ: [k i˧ m tɕ i˨˩ ʔ]
-          * คิงส์: [kʰ i˧ ŋ]
+          * นิม: [n i˧ m]
+          * กลิ้ง: [k l i˥˩ ŋ]
+          * มูจิ: [m uː˧ tɕ i˨˩ ʔ]
+          * หิว: [h i˩˩˦ w]
       * iː
         * Occurances: 3947
         * Examples
-          * คีรี: [kʰ iː˧ r iː˧]
-          * ซีก: [s iː˥˩ k̚]
-          * ตี่: [t iː˨˩]
-          * เอสซี: [ʔ eː˨˩ t̚ s iː˧]
+          * ตะกี้: [t a˨˩ k iː˥˩]
+          * โคฟี่: [kʰ oː˧ f iː˥˩]
+          * ปี่: [p iː˨˩]
+          * ลี้: [l iː˦˥]
     ```
   - ```{ipa_cell}
     ```
@@ -338,32 +338,32 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɯ
         * Occurances: 613
         * Examples
-          * กึ๋น: [k ɯ˩˩˦ n]
-          * ผนึก: [pʰ a˨˩ n ɯ˨˩ k̚]
-          * พึมพำ: [pʰ ɯ˧ m pʰ a˧ m]
-          * ตรึก: [t r ɯ˦˥ k̚]
+          * คึึก: [kʰ ɯ˦˥ ɯ˨˩ k̚]
+          * ดึึง: [d ɯ˧ ɯ˧ ŋ]
+          * สลึง: [s a˨˩ l ɯ˩˩˦ ŋ]
+          * ผึึ้ง: [pʰ ɯ˩˩˦ ɯ˥˩ ŋ]
       * ɯː
         * Occurances: 723
         * Examples
-          * ฟืนไฟ: [f ɯː˧ n f a˧ j]
-          * สะดือ: [s a˨˩ d ɯː˧]
-          * ยศถือ: [j o˦˥ t̚ tʰ ɯː˩˩˦]
-          * อื่น: [ʔ ɯː˨˩ n]
+          * ลงมือ: [l o˧ ŋ m ɯː˧]
+          * หรือ: [r ɯː˩˩˦]
+          * คืืน: [kʰ ɯː˥˩ ɯː˧ n]
+          * ใจจืด: [tɕ a˧ j tɕ ɯː˨˩ t̚]
     * rounded
       * u
         * Occurances: 3369
         * Examples
-          * รุ่น: [r u˥˩ n]
-          * ยุ้ง: [j u˦˥ ŋ]
-          * กรุก: [k a˨˩ r u˦˥ k̚]
-          * ทุรจิ: [tʰ u˦˥ r a˦˥ tɕ i˨˩ ʔ]
+          * สุเมธ: [s u˨˩ m eː˥˩ t̚]
+          * บุญงา: [b u˧ n j a˦˥ ŋ aː˧]
+          * ตะลุย: [t a˨˩ l u˧ j]
+          * หาคุณ: [h aː˩˩˦ kʰ u˧ n]
       * uː
         * Occurances: 2278
         * Examples
-          * ตกูล: [t a˨˩ k uː˧ n]
-          * หูฟัง: [h uː˩˩˦ f a˧ ŋ]
-          * กูรู: [k uː˧ r uː˧]
-          * ดูดนม: [d uː˨˩ t̚ n o˧ m]
+          * มูจิ: [m uː˧ tɕ i˨˩ ʔ]
+          * ลูก: [l uː˥˩ k̚]
+          * ปูู้: [p uː˧ uː˦˥]
+          * ภูธร: [pʰ uː˧ tʰ ɔː˧ n]
     ```
 * -
   - ```{ipa_cell}
@@ -382,17 +382,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 1617
         * Examples
-          * เห็น: [h e˩˩˦ n]
-          * เจ๊ง: [tɕ e˦˥ ŋ]
-          * เล็ต: [l e˨˩ t̚]
-          * เส็น: [s e˩˩˦ n]
+          * ไซเรน: [s a˧ j r e˧ n]
+          * แฟ้น: [f e˦˥ n]
+          * เขย่ง: [kʰ a˨˩ j e˨˩ ŋ]
+          * เก๋ง: [k e˩˩˦ ŋ]
       * eː
         * Occurances: 2324
         * Examples
-          * เหรา: [h eː˩˩˦ r aː˧]
-          * เศรษฐ: [s eː˨˩ t̚ tʰ a˨˩]
-          * เวสต์: [w eː˦˥ s]
-          * เภท: [pʰ eː˥˩ t̚]
+          * มเหสี: [m a˦˥ h eː˩˩˦ s iː˩˩˦]
+          * เสมหะ: [s eː˩˩˦ m h a˨˩ ʔ]
+          * พาเลซ: [pʰ aː˧ l eː˦˥ s]
+          * เอฟ: [ʔ eː˨˩ f]
     ```
   - ```{ipa_cell}
     ```
@@ -405,32 +405,32 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɤ
         * Occurances: 193
         * Examples
-          * เฉย: [tɕʰ ɤ˩˩˦ j]
-          * เกิล: [k ɤ˥˩ l]
-          * เติล: [t ɤ˥˩ n]
-          * เดิ้ล: [d ɤ˥˩ n]
+          * เบิ้ง: [b ɤ˥˩ ŋ]
+          * เลอะ: [l ɤ˦˥ ʔ]
+          * เสย: [s ɤ˩˩˦ j]
+          * ไงอะ: [ŋ ɤ˦˥ ʔ]
       * ɤː
         * Occurances: 1440
         * Examples
-          * เชิ๊ต: [tɕʰ ɤː˦˥ t̚]
-          * เยิน: [j ɤː˧ n]
-          * เพย: [pʰ ɤː˧ j]
-          * จ้อ: [tɕ ɤː˥˩]
+          * เพิ่อ: [pʰ ɤː˥˩ ɔː˥˩]
+          * เขนย: [kʰ a˨˩ n ɤː˩˩˦ j]
+          * เผขิญ: [pʰ a˨˩ kʰ ɤː˩˩˦ n]
+          * เนยใส: [n ɤː˧ j s a˩˩˦ j]
     * rounded
       * o
         * Occurances: 3575
         * Examples
-          * แมวมด: [m ɛː˧ w m o˦˥ t̚]
-          * นางสม: [n aː˧ ŋ s o˩˩˦ m]
-          * ร่่วม: [r o˥˩ ua˨˩ m]
-          * ต้นหน: [t o˥˩ n h o˩˩˦ n]
+          * เผล: [pʰ o˩˩˦ n]
+          * สมบท: [s o˩˩˦ m b o˨˩ t̚]
+          * ล่ม: [l o˥˩ m]
+          * งงงวย: [ŋ o˧ ŋ ŋ ua˧ j]
       * oː
         * Occurances: 2195
         * Examples
-          * โรล: [r oː˧ l]
-          * โศภิต: [s oː˩˩˦ pʰ i˦˥ t̚]
-          * โหน: [h oː˩˩˦ n]
-          * โอเค: [ʔ oː˧ kʰ eː˧]
+          * โน้น: [n oː˦˥ n]
+          * โหร: [h oː˩˩˦ n]
+          * โร่: [r oː˥˩]
+          * โบกรถ: [b oː˨˩ k̚ r o˦˥ t̚]
     ```
 * -
   - ```{ipa_cell}
@@ -449,17 +449,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 692
         * Examples
-          * แก็บ: [k ɛ˨˩ p̚]
-          * แว่บ: [w ɛ˥˩ p̚]
-          * แว่น: [w ɛ˥˩ n]
-          * แต๋ว: [t ɛ˩˩˦ w]
+          * แกรม: [k r ɛ˧ m]
+          * และ: [l ɛ˦˥ ʔ]
+          * แข็ง: [kʰ ɛ˩˩˦ ŋ]
+          * แหงน: [ŋ ɛ˩˩˦ n]
       * ɛː
         * Occurances: 1810
         * Examples
-          * แต้ง: [t ɛː˥˩ ŋ]
-          * แร่: [r ɛː˥˩]
-          * แน่ใจ: [n ɛː˥˩ tɕ a˧ j]
-          * แฮด: [h ɛː˦˥ t̚]
+          * แคลร์: [kʰ l ɛː˧]
+          * แผล: [pʰ l ɛː˩˩˦]
+          * แหนม: [n ɛː˩˩˦ m]
+          * แพทช์: [pʰ ɛː˥˩ t̚ tʰ a˦˥ t̚]
     ```
   - ```{ipa_cell}
     ```
@@ -472,17 +472,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 1222
         * Examples
-          * ม่อง: [m ɔ˥˩ ŋ]
-          * สอย: [s ɔ˩˩˦ j]
-          * พล็อต: [pʰ l ɔ˨˩ t̚]
-          * บล็อก: [b l ɔ˦˥ k̚]
+          * ถ้อย: [tʰ ɔ˥˩ j]
+          * ถอถอย: [tʰ ɔː˨˩ tʰ ɔ˩˩˦ j]
+          * เหมาะ: [m ɔ˨˩ ʔ]
+          * ข่อย: [kʰ ɔ˨˩ j]
       * ɔː
         * Occurances: 4369
         * Examples
-          * ญ้อ: [j ɔː˦˥]
-          * น้อ: [n ɔː˦˥]
-          * ก่อน: [k ɔː˨˩ n]
-          * ขอบัง: [kʰ ɔː˨˩ p̚ a˧ ŋ]
+          * ซอฟต์: [s ɔː˦˥ f]
+          * ต่่อ: [t a˨˩ j ɔː˥˩]
+          * หูรอด: [h uː˩˩˦ r ɔː˥˩ t̚]
+          * ของก.: [kʰ ɔː˩˩˦ ŋ k ɔː˧]
     ```
 * -
   - ```{ipa_cell}
@@ -505,17 +505,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 21013
         * Examples
-          * ลั่น: [l a˥˩ n]
-          * ไถง: [tʰ a˨˩ ŋ a˩˩˦ j]
-          * ล่ำซำ: [l a˥˩ m s a˧ m]
-          * พลับ: [pʰ l a˦˥ p̚]
+          * กััน: [k a˧ n]
+          * ไพร่: [pʰ r a˥˩ j]
+          * ไล่กา: [l a˥˩ j k aː˧]
+          * ปัท: [p a˨˩ t̚ tʰ a˦˥]
       * aː
         * Occurances: 13936
         * Examples
-          * ท้าย: [tʰ aː˦˥ j]
-          * ค่่าย: [kʰ a˨˩ j aː˨˩ j]
-          * ศิลา: [s i˨˩ l aː˧]
-          * มาส: [m aː˥˩ t̚]
+          * ถาง: [tʰ aː˩˩˦ ŋ]
+          * ขาย: [kʰ aː˩˩˦ j]
+          * ฉลาก: [tɕʰ a˨˩ l aː˨˩ k̚]
+          * นางอุ: [n aː˧ ŋ ʔ u˨˩ ʔ]
     ```
   - ```{ipa_cell}
     ```

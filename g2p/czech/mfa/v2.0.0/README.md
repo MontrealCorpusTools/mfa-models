@@ -54,13 +54,11 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for generating pronunciations of [Czech](https://en.wikipedia.org/wiki/Czech_language) transcripts.
 
-This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#czech) phone set for Czech, and was trained from the pronunciation dictionaries above.
-Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
+This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#czech) phone set for Czech, and was trained from the pronunciation dictionaries above. Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
 
 ## Performance Factors
 
-The trained G2P models should be relatively quick and accurate, however the model may struggle when dealing with less common orthographic characters or word types outside of what it was trained on.
-If so, you may need to supplement the dictionary through generating, correcting, and re-training the G2P model as necessary.
+The trained G2P models should be relatively quick and accurate, however the model may struggle when dealing with less common orthographic characters or word types outside of what it was trained on. If so, you may need to supplement the dictionary through generating, correcting, and re-training the G2P model as necessary.
 
 ## Metrics
 
@@ -90,13 +88,8 @@ Deploying any model involving language into any production setting has ethical i
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For G2P models, the model will only process the types of tokens that it was trained on, and will not represent the full range of text or spoken words that
-native speakers will produce.
-If you are using this model in production, you should acknowledge this as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For G2P models, the model will only process the types of tokens that it was trained on, and will not represent the full range of text or spoken words that native speakers will produce. If you are using this model in production, you should acknowledge this as a potential issue.
 
 ### Surveillance
 
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in many countries.
-You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.

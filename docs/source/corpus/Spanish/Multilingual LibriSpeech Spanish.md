@@ -19,4 +19,9 @@
    ```{admonition} Pronunciation dictionaries
    * {ref}`spanish_(spain)_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`spanish_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

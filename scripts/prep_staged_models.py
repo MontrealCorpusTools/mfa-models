@@ -48,7 +48,7 @@ def get_model_card_directory(model_type, meta_data):
 
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-OVERWRITE_METADATA = True
+OVERWRITE_METADATA = False
 OVERWRITE_MD = True
 
 mfa_citation_template = "@techreport{{{id},\n\tauthor={{{extra_authors}McAuliffe, Michael and Sonderegger, Morgan}}," \
@@ -173,27 +173,19 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for forced alignment of {language_link} transcripts.
 
-This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers.
-However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that,
-you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
+As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
 
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment.
-You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
+Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
 
 ## Metrics
 
-Acoustic models are typically generated as one component of a larger ASR system where the metric is word error rate (WER).
-For forced alignment, there is typically not the same sort of gold standard measure for most languages.
+Acoustic models are typically generated as one component of a larger ASR system where the metric is word error rate (WER). For forced alignment, there is typically not the same sort of gold standard measure for most languages.
 
-As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model
-trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken
-as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
+As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
 
 Using the pronunciation dictionaries and language models above:
 
@@ -217,8 +209,7 @@ Speech-to-Text technologies may be misused to invade the privacy of others by re
 
 Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
 
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech,
-demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
+The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
 
 1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
 
@@ -295,18 +286,13 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for forced alignment of {language_link} transcripts.
 
-This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers.
-However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that,
-you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
+As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
 
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment.
-You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
+Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
 
 ## Ethical considerations
 
@@ -324,8 +310,7 @@ Speech-to-Text technologies may be misused to invade the privacy of others by re
 
 Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
 
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech,
-demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
+The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
 
 1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
 
@@ -401,13 +386,11 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for generating pronunciations of {language_link} transcripts.
 
-This model uses the {phone_set_link} phone set for {language}, and was trained from the pronunciation dictionaries above.
-Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
+This model uses the {phone_set_link} phone set for {language}, and was trained from the pronunciation dictionaries above. Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
 
 ## Performance Factors
 
-The trained G2P models should be relatively quick and accurate, however the model may struggle when dealing with less common orthographic characters or word types outside of what it was trained on.
-If so, you may need to supplement the dictionary through generating, correcting, and re-training the G2P model as necessary.
+The trained G2P models should be relatively quick and accurate, however the model may struggle when dealing with less common orthographic characters or word types outside of what it was trained on. If so, you may need to supplement the dictionary through generating, correcting, and re-training the G2P model as necessary.
 
 ## Metrics
 
@@ -431,16 +414,11 @@ Deploying any model involving language into any production setting has ethical i
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For G2P models, the model will only process the types of tokens that it was trained on, and will not represent the full range of text or spoken words that
-native speakers will produce.
-If you are using this model in production, you should acknowledge this as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For G2P models, the model will only process the types of tokens that it was trained on, and will not represent the full range of text or spoken words that native speakers will produce. If you are using this model in production, you should acknowledge this as a potential issue.
 
 ### Surveillance
 
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in many countries.
-You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 """
 
 language_model_card_template = """
@@ -490,24 +468,19 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for very basic language modeling {language_link} transcripts.
 
-These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness
-and in the off chance that they're useful in bootstrapping corpus development.
+These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness and in the off chance that they're useful in bootstrapping corpus development.
 
 This language model trained with words from the pronunciation dictionaries above.
 
 ## Performance Factors
 
-MFA language model archives contain the main large ngram model, along with two pruned versions that are used in initial decoding
-for performance reasons, and then later the large model is used to rescore.  If the initial decoding with the
-small version is causing perfomance issues, you can train a new language model with more aggressive pruning.
+MFA language model archives contain the main large ngram model, along with two pruned versions that are used in initial decoding for performance reasons, and then later the large model is used to rescore.  If the initial decoding with the small version is causing perfomance issues, you can train a new language model with more aggressive pruning.
 
-You should also consider training a language model on your own domain, as that will be much more representative and
-useful to use in decoding.
+You should also consider training a language model on your own domain, as that will be much more representative and useful to use in decoding.
 
 ## Metrics
 
-Perplexity for each of three component models was calculated over the training data to give a sense of its performance, but this certainly not be taken as
-an absolute measure of model good-ness.
+Perplexity for each of three component models was calculated over the training data to give a sense of its performance, but this certainly not be taken as an absolute measure of model good-ness.
 
 ### Perplexity
 
@@ -527,15 +500,11 @@ Deploying any model involving language into any production setting has ethical i
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For this language model, this model was trained on a very specific subset of {language} at the time it was collected that will typically not represent spontaneous speech in the current time.
-Do not use this model in production, but if you do so, you should acknowledge bias as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For this language model, this model was trained on a very specific subset of {language} at the time it was collected that will typically not represent spontaneous speech in the current time. Do not use this model in production, but if you do so, you should acknowledge bias as a potential issue.
 
 ### Surveillance
 
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in many countries.
-You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 """
 
 mfa_dictionary_card_template = """
@@ -582,16 +551,11 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This dictionary is intended for forced alignment of {language_link} transcripts.
 
-This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be seen when adding reduced variants that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
-so it will lead to alignment errors on adjacent words as well.
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects. The most impactful improvements will generally be seen when adding reduced variants that involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in, so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations
 
@@ -599,9 +563,7 @@ Deploying any Speech-to-Text model into any production setting has ethical impli
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants.
-If you are using this dictionary in production, you should acknowledge this as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants. If you are using this dictionary in production, you should acknowledge this as a potential issue.
 """
 
 other_dictionary_card_template = """
@@ -648,16 +610,11 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This dictionary is intended for forced alignment of {language_link} transcripts.
 
-This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects.
-The most impactful improvements will generally be seen when adding reduced variants that
-involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has
-a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in,
-so it will lead to alignment errors on adjacent words as well.
+When trying to get better alignment accuracy, adding pronunciations is generally helpful, espcially for different styles and dialects. The most impactful improvements will generally be seen when adding reduced variants that involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in, so it will lead to alignment errors on adjacent words as well.
 
 ## Ethical considerations
 
@@ -665,9 +622,7 @@ Deploying any Speech-to-Text model into any production setting has ethical impli
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants.
-If you are using this dictionary in production, you should acknowledge this as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants. If you are using this dictionary in production, you should acknowledge this as a potential issue.
 """
 
 corpus_card_template = """

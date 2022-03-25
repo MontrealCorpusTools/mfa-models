@@ -53,10 +53,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 22267
         * Examples
-          * mack: [m a k]
-          * ambón: [a m b o n]
-          * mareo: [m a ɾ e o]
-          * teman: [t̪ e m a n]
+          * bramé: [b ɾ a m e]
+          * cama: [k a m a]
+          * james: [x a m e s]
+          * moler: [m o l e ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -67,10 +67,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 37579
         * Examples
-          * donde: [d̪ o n d̪ e]
-          * roano: [r o a n o]
-          * gonzo: [ɡ o n θ o]
-          * anta: [a n t̪ a]
+          * ruin: [r w i n]
+          * ben: [b e n]
+          * benz: [b e n θ]
+          * cian: [θ j a n]
     ```
   - ```{ipa_cell}
     ```
@@ -79,20 +79,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 2399
         * Examples
-          * coño: [k o ɲ o]
-          * muña: [m u ɲ a]
-          * kenia: [c e ɲ j a]
-          * cuñas: [k u ɲ a s]
+          * paños: [p a ɲ o s]
+          * reñir: [r e ɲ i ɾ]
+          * acuñó: [a k u ɲ o]
+          * ñefle: [ɲ e f l e]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2611
         * Examples
-          * funk: [f u ŋ k]
-          * monk: [m o ŋ k]
+          * banco: [b a ŋ k o]
+          * cheng: [tʃ e ŋ ɡ]
+          * angie: [a ŋ x j e]
           * swing: [s w i ŋ]
-          * vengo: [b e ŋ ɡ o]
     ```
 * - {manner}`Stop`
   - ```{ipa_cell}
@@ -100,18 +100,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 16335
         * Examples
-          * trapp: [t̪ ɾ a p]
-          * yape: [ɟʝ a p e]
-          * pote: [p o t̪ e]
-          * panel: [p a n e l]
+          * poste: [p o s t̪ e]
+          * pollo: [p o ʎ o]
+          * paños: [p a ɲ o s]
+          * copa: [k o p a]
     * voiced
       * b
         * Occurances: 6890
         * Examples
-          * ambón: [a m b o n]
-          * venía: [b e n i a]
-          * viva: [b i β a]
-          * won: [b o n]
+          * bramé: [b ɾ a m e]
+          * ben: [b e n]
+          * banco: [b a ŋ k o]
+          * bar: [b a ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -120,18 +120,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 35932
         * Examples
-          * trapp: [t̪ ɾ a p]
-          * anta: [a n t̪ a]
-          * cite: [θ i t̪ e]
-          * pote: [p o t̪ e]
+          * squat: [e s k w a t̪]
+          * poste: [p o s t̪ e]
+          * sirte: [s i r t̪ e]
+          * rota: [r o t̪ a]
     * voiced
       * d̪
         * Occurances: 10186
         * Examples
-          * donde: [d̪ o n d̪ e]
-          * durar: [d̪ u ɾ a ɾ]
-          * diva: [d̪ i β a]
-          * del: [d̪ e l]
+          * denis: [d̪ e n i s]
+          * toldo: [t̪ o l d̪ o]
+          * dada: [d̪ a ð a]
+          * doble: [d̪ o β l e]
     ```
   - ```{ipa_cell}
     ```
@@ -142,36 +142,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 2329
         * Examples
-          * saqué: [s a c e]
-          * kenia: [c e ɲ j a]
-          * nikki: [n i c i]
-          * duke: [d̪ u c e]
+          * queso: [c e s o]
+          * nike: [n i c e]
+          * kiko: [c i k o]
+          * kemp: [c e m p]
     * voiced
       * ɟ
         * Occurances: 194
         * Examples
-          * guija: [ɟ i x a]
           * guía: [ɟ i a]
-          * guiza: [ɟ i θ a]
-          * guiño: [ɟ i ɲ o]
+          * gueto: [ɟ e t̪ o]
+          * guías: [ɟ i a s]
+          * guisa: [ɟ i s a]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 23513
         * Examples
-          * funk: [f u ŋ k]
-          * jaca: [x a k a]
-          * mack: [m a k]
-          * haiku: [a i k u]
+          * squat: [e s k w a t̪]
+          * covi: [k o β i]
+          * cora: [k o ɾ a]
+          * cama: [k a m a]
     * voiced
       * ɡ
         * Occurances: 2477
         * Examples
-          * gonzo: [ɡ o n θ o]
-          * guión: [ɡ j o n]
-          * gurú: [ɡ u ɾ u]
-          * glass: [ɡ l a s]
+          * globo: [ɡ l o β o]
+          * cheng: [tʃ e ŋ ɡ]
+          * gravo: [ɡ ɾ a β o]
+          * gong: [ɡ o ŋ ɡ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -187,20 +187,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 2586
         * Examples
-          * luchó: [l u tʃ o]
-          * cache: [k a tʃ e]
+          * chino: [tʃ i n o]
+          * cheng: [tʃ e ŋ ɡ]
           * chita: [tʃ i t̪ a]
-          * pecho: [p e tʃ o]
+          * coche: [k o tʃ e]
     ```
   - ```{ipa_cell}
     * voiced
       * ɟʝ
         * Occurances: 399
         * Examples
-          * years: [ɟʝ e a r s]
-          * yira: [ɟʝ i ɾ a]
-          * yape: [ɟʝ a p e]
-          * yacen: [ɟʝ a θ e n]
+          * yemas: [ɟʝ e m a s]
+          * yunga: [ɟʝ u ŋ ɡ a]
+          * yoga: [ɟʝ o ɣ a]
+          * yidis: [ɟʝ i ð i s]
     ```
   - ```{ipa_cell}
     ```
@@ -216,20 +216,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 54536
         * Examples
-          * years: [ɟʝ e a r s]
-          * ausol: [a u s o l]
-          * tejas: [t̪ e x a s]
-          * saqué: [s a c e]
+          * squat: [e s k w a t̪]
+          * poste: [p o s t̪ e]
+          * queso: [c e s o]
+          * ase: [a s e]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 279
         * Examples
-          * shaun: [ʃ a u n]
-          * walsh: [w a l ʃ]
-          * josh: [x o ʃ]
-          * shell: [ʃ e ʎ]
+          * xató: [ʃ a t̪ o]
+          * shane: [ʃ a n e]
+          * rush: [r u ʃ]
+          * beige: [b e i ʃ]
     ```
   - ```{ipa_cell}
     ```
@@ -243,28 +243,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 7751
         * Examples
-          * funk: [f u ŋ k]
-          * final: [f i n a l]
-          * faca: [f a k a]
-          * zafra: [θ a f ɾ a]
+          * filo: [f i l o]
+          * flood: [f l u ð]
+          * rafa: [r a f a]
+          * ñefle: [ɲ e f l e]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 14848
         * Examples
-          * gonzo: [ɡ o n θ o]
-          * juez: [x w e θ]
-          * cite: [θ i t̪ e]
-          * once: [o n θ e]
+          * ardoz: [a r ð o θ]
+          * azule: [a θ u l e]
+          * benz: [b e n θ]
+          * cian: [θ j a n]
     * voiced
       * ð
         * Occurances: 33072
         * Examples
-          * horda: [o r ð a]
-          * party: [p a r ð i]
-          * rodea: [r o ð e a]
-          * raído: [r a i ð o]
+          * ardoz: [a r ð o θ]
+          * todes: [t̪ o ð e s]
+          * flood: [f l u ð]
+          * rodin: [r o ð i n]
     ```
   - ```{ipa_cell}
     ```
@@ -275,18 +275,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 3135
         * Examples
-          * jején: [ç e ç e n]
-          * vigía: [b i ç i a]
-          * jerbo: [ç e r β o]
-          * regir: [r e ç i ɾ]
+          * jess: [ç e s]
+          * eugen: [e u ç e n]
+          * monje: [m o ɲ ç e]
+          * jeju: [ç e x u]
     * voiced
       * ʝ
         * Occurances: 1267
         * Examples
-          * corgi: [k o r ʝ i]
-          * oye: [o ʝ e]
-          * oyó: [o ʝ o]
-          * acuyo: [a k u ʝ o]
+          * ryu: [r ʝ u]
+          * oyama: [o ʝ a m a]
+          * abyad: [a β ʝ a ð]
+          * bayo: [b a ʝ o]
     ```
   - ```{ipa_cell}
     ```
@@ -296,10 +296,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 3586
         * Examples
-          * juez: [x w e θ]
-          * güiro: [ɣ w i ɾ o]
-          * swing: [s w i ŋ]
-          * legua: [l e ɣ w a]
+          * squat: [e s k w a t̪]
+          * ruin: [r w i n]
+          * luís: [l w i s]
+          * world: [w o r l d̪]
     ```
   - ```{ipa_cell}
     ```
@@ -314,10 +314,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 11996
         * Examples
-          * guión: [ɡ j o n]
-          * haiku: [x a j k u]
-          * abrió: [a β ɾ j o]
-          * hilio: [i l j o]
+          * high: [x a j]
+          * cian: [θ j a n]
+          * pier: [p j e ɾ]
+          * cisio: [θ i s j o]
     ```
   - ```{ipa_cell}
     ```
@@ -333,10 +333,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 37890
         * Examples
-          * trapp: [t̪ ɾ a p]
-          * yira: [ɟʝ i ɾ a]
-          * durar: [d̪ u ɾ a ɾ]
-          * gurú: [ɡ u ɾ u]
+          * jurar: [x u ɾ a ɾ]
+          * cora: [k o ɾ a]
+          * bramé: [b ɾ a m e]
+          * bar: [b a ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -356,10 +356,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 17249
         * Examples
-          * years: [ɟʝ e a r s]
-          * roano: [r o a n o]
-          * horda: [o r ð a]
-          * corgi: [k o r ʝ i]
+          * ruin: [r w i n]
+          * ardoz: [a r ð o θ]
+          * sirte: [s i r t̪ e]
+          * rota: [r o t̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -379,10 +379,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 24774
         * Examples
-          * ausol: [a u s o l]
-          * panel: [p a n e l]
-          * del: [d̪ e l]
-          * relax: [r e l a k s]
+          * globo: [ɡ l o β o]
+          * filo: [f i l o]
+          * luís: [l w i s]
+          * azule: [a θ u l e]
     ```
   - ```{ipa_cell}
     ```
@@ -392,9 +392,9 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 2148
         * Examples
           * pollo: [p o ʎ o]
-          * ellos: [e ʎ o s]
-          * ellis: [e ʎ i s]
-          * llamó: [ʎ a m o]
+          * allí: [a ʎ i]
+          * mella: [m e ʎ a]
+          * allen: [a ʎ e n]
     ```
   - ```{ipa_cell}
     ```
@@ -422,10 +422,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 48406
         * Examples
-          * yira: [ɟʝ i ɾ a]
-          * haiku: [a i k u]
-          * cite: [θ i t̪ e]
-          * trío: [t̪ ɾ i o]
+          * ruin: [r w i n]
+          * covi: [k o β i]
+          * filo: [f i l o]
+          * luís: [l w i s]
     ```
   - ```{ipa_cell}
     ```
@@ -438,10 +438,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 15860
         * Examples
-          * funk: [f u ŋ k]
-          * durar: [d̪ u ɾ a ɾ]
-          * haiku: [a i k u]
-          * gurú: [ɡ u ɾ u]
+          * jurar: [x u ɾ a ɾ]
+          * azule: [a θ u l e]
+          * bus: [b u s]
+          * flood: [f l u ð]
     ```
 * -
   - ```{ipa_cell}
@@ -460,10 +460,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 65696
         * Examples
-          * donde: [d̪ o n d̪ e]
-          * years: [ɟʝ e a r s]
-          * juez: [x w e θ]
-          * cite: [θ i t̪ e]
+          * squat: [e s k w a t̪]
+          * poste: [p o s t̪ e]
+          * queso: [c e s o]
+          * bramé: [b ɾ a m e]
     ```
   - ```{ipa_cell}
     ```
@@ -476,10 +476,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 66542
         * Examples
-          * donde: [d̪ o n d̪ e]
-          * roano: [r o a n o]
-          * gonzo: [ɡ o n θ o]
-          * guión: [ɡ j o n]
+          * poste: [p o s t̪ e]
+          * globo: [ɡ l o β o]
+          * covi: [k o β i]
+          * filo: [f i l o]
     ```
 * -
   - ```{ipa_cell}
@@ -524,10 +524,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 113862
         * Examples
-          * years: [ɟʝ e a r s]
-          * roano: [r o a n o]
-          * trapp: [t̪ ɾ a p]
-          * jaca: [x a k a]
+          * squat: [e s k w a t̪]
+          * jurar: [x u ɾ a ɾ]
+          * cora: [k o ɾ a]
+          * bramé: [b ɾ a m e]
     ```
   - ```{ipa_cell}
     ```

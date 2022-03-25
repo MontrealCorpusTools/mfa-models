@@ -1,21 +1,12 @@
 import collections
 import json
 import os
-import random
-import shutil
-import re
-import typing
-from datetime import datetime
 import requests
-import numpy as np
-import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES, ModelManager, ModelRelease
-from montreal_forced_aligner.dictionary.pronunciation import PronunciationDictionary
-from montreal_forced_aligner.data import voiced_variants, voiceless_variants, PhoneSetType
 
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-UPDATE = False
+UPDATE = True
 
 with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
     token = f.read()

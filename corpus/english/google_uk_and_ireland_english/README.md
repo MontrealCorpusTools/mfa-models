@@ -22,7 +22,6 @@
 	title = {{Open-source Multi-speaker Corpora of the English Accents in the British Isles}},
 	author = {Demirsahin, Isin and Kjartansson, Oddur and Gutkin, Alexander and Rivera, Clara},
 	booktitle = {Proceedings of The 12th Language Resources and Evaluation Conference (LREC)},
-	month = may,
 	year = {2020},
 	pages = {6532--6541},
 	address = {Marseille, France},

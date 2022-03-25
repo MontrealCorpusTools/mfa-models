@@ -56,27 +56,19 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for forced alignment of [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
 
-This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#bulgarian) phone set for Bulgarian, and was trained with the pronunciation dictionaries above.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#bulgarian) phone set for Bulgarian, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers.
-However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that,
-you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
+As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
 
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment.
-You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
+Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
 
 ## Metrics
 
-Acoustic models are typically generated as one component of a larger ASR system where the metric is word error rate (WER).
-For forced alignment, there is typically not the same sort of gold standard measure for most languages.
+Acoustic models are typically generated as one component of a larger ASR system where the metric is word error rate (WER). For forced alignment, there is typically not the same sort of gold standard measure for most languages.
 
-As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model
-trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken
-as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
+As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
 
 Using the pronunciation dictionaries and language models above:
 
@@ -100,8 +92,7 @@ Speech-to-Text technologies may be misused to invade the privacy of others by re
 
 Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
 
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech,
-demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
+The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
 
 1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
 

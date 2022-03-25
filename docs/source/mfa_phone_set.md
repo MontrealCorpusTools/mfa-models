@@ -137,7 +137,7 @@ The primary deviations from standard symbols have been to bring English more in 
 
 #### English vowels
 
-* **{lexical_set}`goose`-fronting (US and UK):** Changed {ipa_inline}`[u]` tokens to the more fronted {ipa_inline}`[ʉ]`, Nigerian eEnglish retains {ipa_inline}`[u]`
+* **{lexical_set}`goose`-fronting (US and UK):** Changed {ipa_inline}`[u]` tokens to the more fronted {ipa_inline}`[ʉ]`, Nigerian English retains {ipa_inline}`[u]`
   * {ipa_inline}`dude [dʲ ʉː d]`
 * **{lexical_set}`lot, cloth, thought`-lowering (US and UK):** Changed {ipa_inline}`[ɔ]` tokens to the lower {ipa_inline}`[ɒ]`
   * {ipa_inline}`caught [kʰ ɒː t]`
@@ -165,7 +165,7 @@ The Nigerian English was based on the UK dictionary, with some significant modif
 
 #### Nigerian English consonants
 
-* **Silent consonants:** Silent consonants in {ipa_inline}`bomb` are realized, i.e. {ipa_inline}`[b ɔ m b]`
+* **Silent consonants:** Silent consonants in words like {ipa_inline}`bomb`, {ipa_inline}`numb`, etc are realized, i.e. {ipa_inline}`[b ɔ m b]`
 * **Realization of unstressed {ipa_inline}`[t]`:** Realized as {ipa_inline}`[t]` rather than {ipa_inline}`[ʔ]` in the UK dictionary
 
 ##### Nigerian English vowels
@@ -213,9 +213,9 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 #### Hausa vowels
 
-* Changed tone makers to use tone level symbols following vowels rather than accent diacritics
+* **Tone:** Changed tone makers to use tone level symbols following vowels rather than accent diacritics
   * {ipa_inline}`abacada [ʔ àː b àː t͡ʃ àː d âː]` {ipa_icon}`right-arrow` {ipa_inline}`abacada [ʔ aː˩ b aː˩ tʃ aː˩ d aː˥˦]`
-* Merged instances of {ipa_inline}`[i]` and {ipa_inline}`[u]` without tone following {ipa_inline}`[a]` and {ipa_inline}`[e]` into diphthongs {ipa_inline}`[ai]` and {ipa_inline}`[aw]`
+* **Diphthongs:** Merged instances of {ipa_inline}`[i]` and {ipa_inline}`[u]` without tone following {ipa_inline}`[a]` and {ipa_inline}`[e]` into diphthongs {ipa_inline}`[aj]` and {ipa_inline}`[aw]`
 
 ### Japanese
 
@@ -392,10 +392,12 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 #### Thai consonants
 
 * **Unreleased final stops:** Coda stops are transcribed as unreleased {ipa_inline}`[p̚ t̚ k̚]`
+  * {ipa_inline}`คร้าบ [kʰ r aː˥˩ p̚]`
 
 #### Thai vowels
 
 * **Tones:** Tones have been attached to the vowel of the syllable
+  * {ipa_inline}`คลอก [kʰ l ɔː˥˩ k̚]`
 * **Diphthongs:** Glides have been analyzed as separate segments
   * {ipa_inline}`กบไสไม้ [k o˨˩ p̚ s a˩˩˦ j m aː˦˥ j]`
   * {ipa_inline}`จุดไข่ปลา [tɕ u˨˩ t̚ kʰ a˨˩ j p l aː˧]`

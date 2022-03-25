@@ -23,7 +23,6 @@
 	author = {Choi, Yoona and Lee, Bowon},
 	booktitle = {Proceedings of the IEEE Seoul Section Student Paper Contest 2018},
 	pages = {117-121},
-	month = {Nov},
 	year = {2018},
 }
 ```

@@ -55,18 +55,13 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for forced alignment of [Kazakh](https://en.wikipedia.org/wiki/Kazakh_language) transcripts.
 
-This model uses the [Epitran](https://github.com/dmort27/epitran) phone set for Kazakh, and was trained with the pronunciation dictionaries above.
-Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
+This model uses the [Epitran](https://github.com/dmort27/epitran) phone set for Kazakh, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
 
 ## Performance Factors
 
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers.
-However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that,
-you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
+As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
 
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment.
-You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
+Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
 
 ## Ethical considerations
 
@@ -84,8 +79,7 @@ Speech-to-Text technologies may be misused to invade the privacy of others by re
 
 Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
 
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech,
-demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
+The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
 
 1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
 

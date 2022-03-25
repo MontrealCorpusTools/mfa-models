@@ -23,7 +23,6 @@
 	author = {Guevara-Rukoz, Adriana and Demirsahin, Isin and He, Fei and Chu, Shan-Hui Cathy and Sarin, Supheakmungkol and Pipatsrisawat, Knot and Gutkin, Alexander and Butryna, Alena and Kjartansson, Oddur},
 	booktitle = {Proceedings of The 12th Language Resources and Evaluation Conference (LREC)},
 	year = {2020},
-	month = may,
 	address = {Marseille, France},
 	publisher = {European Language Resources Association (ELRA)},
 	url = {https://www.aclweb.org/anthology/2020.lrec-1.801},

@@ -17,4 +17,5 @@ Spanish
    :hidden:
 
    Spanish (Latin America) MFA dictionary v2_0_0.md
+   Spanish MFA dictionary v2_0_0.md
    Spanish (Spain) MFA dictionary v2_0_0.md

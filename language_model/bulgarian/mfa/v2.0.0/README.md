@@ -51,24 +51,19 @@ Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-m
 
 This model is intended for very basic language modeling [Bulgarian](https://en.wikipedia.org/wiki/Bulgarian_language) transcripts.
 
-These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness
-and in the off chance that they're useful in bootstrapping corpus development.
+These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness and in the off chance that they're useful in bootstrapping corpus development.
 
 This language model trained with words from the pronunciation dictionaries above.
 
 ## Performance Factors
 
-MFA language model archives contain the main large ngram model, along with two pruned versions that are used in initial decoding
-for performance reasons, and then later the large model is used to rescore.  If the initial decoding with the
-small version is causing perfomance issues, you can train a new language model with more aggressive pruning.
+MFA language model archives contain the main large ngram model, along with two pruned versions that are used in initial decoding for performance reasons, and then later the large model is used to rescore.  If the initial decoding with the small version is causing perfomance issues, you can train a new language model with more aggressive pruning.
 
-You should also consider training a language model on your own domain, as that will be much more representative and
-useful to use in decoding.
+You should also consider training a language model on your own domain, as that will be much more representative and useful to use in decoding.
 
 ## Metrics
 
-Perplexity for each of three component models was calculated over the training data to give a sense of its performance, but this certainly not be taken as
-an absolute measure of model good-ness.
+Perplexity for each of three component models was calculated over the training data to give a sense of its performance, but this certainly not be taken as an absolute measure of model good-ness.
 
 ### Perplexity
 
@@ -93,12 +88,8 @@ Deploying any model involving language into any production setting has ethical i
 
 ### Demographic Bias
 
-You should assume every machine learning model has demographic bias unless proven otherwise.
-For this language model, this model was trained on a very specific subset of Bulgarian at the time it was collected that will typically not represent spontaneous speech in the current time.
-Do not use this model in production, but if you do so, you should acknowledge bias as a potential issue.
+You should assume every machine learning model has demographic bias unless proven otherwise. For this language model, this model was trained on a very specific subset of Bulgarian at the time it was collected that will typically not represent spontaneous speech in the current time. Do not use this model in production, but if you do so, you should acknowledge bias as a potential issue.
 
 ### Surveillance
 
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations.
-This kind of individual privacy is protected by law in many countries.
-You should not assume consent to record and analyze private speech.
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
