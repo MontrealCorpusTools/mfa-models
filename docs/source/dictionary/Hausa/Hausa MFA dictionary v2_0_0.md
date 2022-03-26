@@ -466,9 +466,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 1257
         * Examples
           * yini: [j iː˥ n iː˩]
-          * faɗi: [ɸ aː˥ ɗ iː˥]
-          * haiti: [h a˥ aj˥ t iː˩]
           * wali: [w ə˩ l iː˥˦]
+          * faɗi: [ɸ aː˥ ɗ iː˥]
+          * lami: [l aː˩ m iː˥˦]
     ```
   - ```{ipa_cell}
     ```
@@ -482,7 +482,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 520
         * Examples
           * you: [j oː˥˦ uː˩]
-          * sharu: [ʃ ə˩ r uː˥˦]
+          * hula: [h uː˩ l aː˥]
           * yuli: [j uː˥ l ɪ˩]
           * sura: [s uː˩ r aː˥]
     ```
@@ -494,10 +494,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 3012
         * Examples
-          * ilmi: [ʔ ɪ˥˦ l m iː˥]
-          * binta: [b ɪ˥ n t ə˩]
-          * nim: [n ɪ˥˦ ŋ]
+          * yii: [j ɪ˥˦ iː˩]
           * anzu: [ʔ a˩ n z ɪ˩]
+          * ɗina: [ɗ ɪ˥ n aː˩]
+          * jin: [dʒ ɪ˥ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -507,8 +507,8 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 1010
         * Examples
           * juna: [dʒ ʊ˩ n aː˥]
-          * kunne: [kʷ ʊ˥˦ n eː˥]
-          * jawur: [dʒ aː˩ w ʊ˥ r]
+          * gamu: [ɡ aː˥ m ʊ˩]
+          * bude: [b ʊ˩ d e˩]
           * kurma: [kʷ ʊ˥ ɽ m aː˥]
     ```
   - ```{ipa_cell}
@@ -519,17 +519,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 183
         * Examples
-          * guje: [ɡʷ ʊ˩ dʒ e˩]
-          * sef: [s e˥˦ ɸ]
-          * bige: [b ɪ˥ ɟ e˥]
+          * jane: [dʒ ə˥ n e˥]
           * goɓe: [ɡʷ oː˩ ɓ e˩]
+          * bude: [b ʊ˩ d e˩]
+          * jaje: [dʒ aː˥ dʒ e˩]
       * eː
         * Occurances: 869
         * Examples
-          * meg: [m eː˥ ɡ]
           * zemin: [z eː˥ m ɪ˥ ŋ]
-          * roger: [ɽ oː˥ ɡʷ eː˥ r]
-          * kyale: [c ɛ˥ l eː˩]
+          * kauce: [k aw˥ tʃ eː˩]
+          * miƙe: [m ɪ˥ cʼ eː˩]
+          * riƙe: [ɽ ɪ˥ cʼ eː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -543,16 +543,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
         * Occurances: 88
         * Examples
           * goro: [ɡʷ oː˥ r o˩]
+          * kwaɗo: [kʷ ə˥ ɗ o˩]
           * diego: [d ɪ˥ eː˥ ɡʷ o˩]
-          * ceto: [tʃ eː˩ t o˥]
-          * lao: [l a˥ o˥]
+          * fasfo: [ɸ a˩ s ɸ o˥]
       * oː
         * Occurances: 950
         * Examples
-          * sojan: [s oː˥ dʒ a˥ ŋ]
-          * komo: [kʷ oː˥ m oː˥]
+          * dora: [d oː˩ ɽ aː˩]
+          * wayo: [w aː˥ j oː˥˦]
           * loga: [l oː˥ ɡ aː˩]
-          * biyo: [b ɪ˩ j oː˥˦]
+          * roger: [ɽ oː˥ ɡʷ eː˥ r]
     ```
 * -
   - ```{ipa_cell}
@@ -564,10 +564,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 2453
         * Examples
+          * anaca: [ʔ a˩ n ə˩ tʃ ə˩]
+          * taha: [t ə˥ h aː˩]
           * gaɗa: [ɡ ə˥ ɗ aː˩]
           * binta: [b ɪ˥ n t ə˩]
-          * ƙafar: [kʼ ə˥ ɸ a˩ r]
-          * taha: [t ə˥ h aː˩]
     ```
   - ```{ipa_cell}
     ```
@@ -579,10 +579,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 454
         * Examples
+          * yadda: [j ɛ˥˦ d ə˩]
+          * kyale: [c ɛ˥ l eː˩]
           * siyan: [s ɪ˥ j ɛ˩ ŋ]
-          * tsaye: [sʼ ɛ˩ j eː˥]
-          * rayar: [ɽ aː˩ j ɛ˥ r]
-          * biyan: [b ɪ˥ j ɛ˩ ŋ]
+          * saye: [s ɛ˩ j eː˥]
     ```
   - ```{ipa_cell}
     ```
@@ -595,10 +595,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 55
         * Examples
-          * sol: [s ɔ˥ l]
+          * manjo: [m a˥ n dʒ ɔ˩]
+          * dokar: [d ɔ˥ k a˩ r]
           * allon: [ʔ a˥ l ɔ˩ ŋ]
-          * dokta: [d ɔ˥ k t aː˩]
-          * gabon: [ɡ ə˥ b ɔ˩ ŋ]
+          * kogon: [kʷ oː˩ ɟ ɔ˩ ŋ]
     ```
 * -
   - ```{ipa_cell}
@@ -621,16 +621,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 2650
         * Examples
-          * bas: [b a˥˦ s]
           * anzu: [ʔ a˩ n z ɪ˩]
-          * hadu: [h a˩ d ɪ˩]
+          * anaca: [ʔ a˩ n ə˩ tʃ ə˩]
           * haiti: [h a˥ aj˥ t iː˩]
+          * hadu: [h a˩ d ɪ˩]
       * aː
         * Occurances: 3783
         * Examples
-          * asuba: [ʔ a˩ s ɪ˩ b aː˥˦]
+          * gwaza: [ɡʷ aː˥ z aː˥]
+          * gada: [ɡ ə˥ d aː˩]
           * iraƙi: [ʔ ɪ˩ r aː˥˦ cʼ ɪ˩]
-          * gaɗa: [ɡ ə˥ ɗ aː˩]
           * safa: [s ə˩ ɸ aː˥˦]
     ```
   - ```{ipa_cell}

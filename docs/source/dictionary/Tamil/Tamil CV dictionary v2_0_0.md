@@ -55,10 +55,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 53628
         * Examples
-          * மரணத்: [m a ɾ a ɳ a t̪]
-          * எம்ரி: [e m ɾ i]
-          * உமைய: [u m a j j a]
-          * மணுத்: [m a ɳ u t̪]
+          * "நமது: [n̪ a m a t̪ u]
+          * மஸ்கா: [m a s k aː]
+          * னிடம்: [n i ʈ a m]
+          * சிம்ம: [t͡ʃ i m m a]
     ```
   - ```{ipa_cell}
     ```
@@ -67,20 +67,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n̪
         * Occurances: 21254
         * Examples
-          * நோய்,: [n̪ a j]
-          * ஐநூறு: [a j n̪ uː r u]
-          * நடுவே: [n̪ a ʈ u ʋ eː]
-          * நிலா: [n̪ i l aː]
+          * நல்லன: [n̪ a l l a n a]
+          * "நமது: [n̪ a m a t̪ u]
+          * 'நியூ: [n̪ i j uː]
+          * "இந்த: [i n̪ t̪ a]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 44762
         * Examples
-          * கடன்?: [k a ʈ a n]
-          * ஒன்னெ: [o n n e]
-          * ஜீன்: [d͡ʒ iː n]
-          * கடனே: [k a ʈ a n eː]
+          * நல்லன: [n̪ a l l a n a]
+          * சோழன்: [t͡ʃ a ɻ a n]
+          * aspen: [æ s p ə n]
+          * னிடம்: [n i ʈ a m]
     ```
   - ```{ipa_cell}
     ```
@@ -89,30 +89,30 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɳ
         * Occurances: 13875
         * Examples
-          * மரணத்: [m a ɾ a ɳ a t̪]
-          * மணுத்: [m a ɳ u t̪]
-          * காணி: [k aː ɳ i]
-          * காண!: [k aː ɳ a]
+          * முரண்: [m u ɾ a ɳ]
+          * உணரச்: [u ɳ a ɾ a t͡ʃ]
+          * மணிக்: [m a ɳ i k]
+          * மரணப்: [m a ɾ a ɳ a p]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 1432
         * Examples
-          * செஞ்ச: [t͡ʃ e ɲ t͡ʃ a]
+          * ஆக்ஞை: [aː k ɲ a j]
           * அஞ்ச: [a ɲ t͡ʃ a]
-          * வஞ்சி: [ʋ a ɲ t͡ʃ i]
-          * தவஞ்: [t̪ a ʋ a ɲ]
+          * ஞாலமே: [ɲ aː l a m eː]
+          * இஞ்சு: [i ɲ t͡ʃ u]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 8005
         * Examples
-          * பங்கை: [p a ŋ k a j]
-          * வங்க: [ʋ a ŋ k a]
-          * இறங்க: [i r a ŋ k a]
-          * அரங்க: [a ɾ a ŋ k a]
+          * ஆங்க: [aː ŋ k a]
+          * தங்கி: [t̪ a ŋ k i]
+          * லங்கா: [l a ŋ k aː]
+          * hmong: [m ɔ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -122,18 +122,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 64119
         * Examples
-          * பால்: [p aː l]
-          * பழைமை: [p a ɻ a j m a j]
-          * ஏமாப்: [eː m aː p]
-          * புற: [p u r a]
+          * பல,: [p a l a]
+          * பிரேத: [p i ɾ eː t̪ a]
+          * பலவகை: [p a l a ʋ a k a j]
+          * aspen: [æ s p ə n]
     * voiced
       * b
         * Occurances: 320
         * Examples
-          * bull: [b ʊ l]
-          * board: [b ɔ ɹ d]
-          * cuba: [k j u b ə]
-          * banks: [b æ ŋ k s]
+          * bunny: [b ʌ n i]
+          * bret: [b ɹ ɛ t]
+          * boat": [b o w t]
+          * db-ல்: [d b l]
     ```
   - ```{ipa_cell}
     ```
@@ -142,28 +142,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 89927
         * Examples
-          * எர்த்: [e ɾ t̪]
-          * மரணத்: [m a ɾ a ɳ a t̪]
-          * கோரத்: [k a ɾ a t̪]
-          * மணுத்: [m a ɳ u t̪]
+          * "நமது: [n̪ a m a t̪ u]
+          * சக்த: [t͡ʃ a k t̪ a]
+          * பிரேத: [p i ɾ eː t̪ a]
+          * தள்ளு: [t̪ a ɭ ɭ u]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 546
         * Examples
-          * tupi: [t u p i]
-          * terma: [t ɹ̩ m ə]
-          * tunks: [t ʌ ŋ k s]
+          * tuen: [t w ə n]
+          * bret: [b ɹ ɛ t]
+          * boat": [b o w t]
           * kilty: [k ɪ l t i]
     * voiced
       * d
         * Occurances: 363
         * Examples
-          * dual: [d u ə l]
-          * board: [b ɔ ɹ d]
-          * hound: [h a w n d]
-          * ford: [f ɔ ɹ d]
+          * db-ல்: [d b l]
+          * duane: [d w e j n]
+          * eddie: [ɛ d i]
+          * hard: [h ɑ ɹ d]
     ```
   - ```{ipa_cell}
     ```
@@ -172,10 +172,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʈ
         * Occurances: 56064
         * Examples
-          * கடன்?: [k a ʈ a n]
-          * லேட்.: [l eː ʈ]
-          * ஜடா: [d͡ʒ a ʈ aː]
-          * கடனே: [k a ʈ a n eː]
+          * னிடம்: [n i ʈ a m]
+          * கிட: [k i ʈ a]
+          * கஷ்ட: [k a ʂ ʈ a]
+          * அடடா!: [a ʈ a ʈ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -184,18 +184,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 113775
         * Examples
-          * கடன்?: [k a ʈ a n]
-          * கோரத்: [k a ɾ a t̪]
-          * கடனே: [k a ʈ a n eː]
-          * "x.: [ɛ k s]
+          * அகரரை: [a k a ɾ a ɾ a j]
+          * சக்த: [t͡ʃ a k t̪ a]
+          * பலவகை: [p a l a ʋ a k a j]
+          * மஸ்கா: [m a s k aː]
     * voiced
       * ɡ
         * Occurances: 170
         * Examples
-          * sligo: [s l i ɡ o w]
+          * big: [b ɪ ɡ]
           * gavin: [ɡ æ v ɪ n]
-          * gale: [ɡ e j l]
-          * grand: [ɡ ɹ æ n d]
+          * sega: [s i ɡ ə]
+          * targa: [t ɑ ɹ ɡ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -213,18 +213,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t͡ʃ
         * Occurances: 27617
         * Examples
-          * எழச்: [e ɻ a t͡ʃ]
-          * ஒலிச்: [o l i t͡ʃ]
-          * சூரன்: [t͡ʃ uː ɾ a n]
-          * உச்ச: [u t͡ʃ t͡ʃ a]
+          * சக்த: [t͡ʃ a k t̪ a]
+          * சோழன்: [t͡ʃ a ɻ a n]
+          * சிம்ம: [t͡ʃ i m m a]
+          * விதச்: [ʋ i t̪ a t͡ʃ]
     * voiced
       * d͡ʒ
         * Occurances: 1510
         * Examples
-          * ஜீன்: [d͡ʒ iː n]
-          * ஜடா: [d͡ʒ a ʈ aː]
-          * joey: [d͡ʒ o w i]
-          * பூஜை: [p uː d͡ʒ a j]
+          * கஜ்ஜை: [k a d͡ʒ d͡ʒ a j]
+          * ஜோவை: [d͡ʒ a ʋ a j]
+          * பூஜ்ய: [p uː d͡ʒ j a]
+          * ஜல்: [d͡ʒ a l]
     ```
   - ```{ipa_cell}
     ```
@@ -246,28 +246,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 3761
         * Examples
-          * "x.: [ɛ k s]
-          * sligo: [s l i ɡ o w]
-          * கீஸ்: [k iː s]
-          * ஆலிஸ்: [aː l i s]
+          * மஸ்கா: [m a s k aː]
+          * aspen: [æ s p ə n]
+          * ஓக்ஸ்: [oː k s]
+          * கம்ஸ்: [k a m s]
     * voiced
       * z
         * Occurances: 196
         * Examples
+          * zuni.: [z u n i]
+          * bends: [b ɛ n d z]
+          * james: [d͡ʒ e j m z]
           * quiz: [k w ɪ z]
-          * pause: [p ɔ z]
-          * earls: [ɹ̩ l z]
-          * osmo: [ɑ z m o w]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 96
         * Examples
-          * shae: [ʃ æ]
-          * shuri: [ʃ ɹ i]
-          * shire: [ʃ a j ɹ]
+          * crash: [k ɹ æ ʃ]
           * busch: [b ʊ ʃ]
+          * shire: [ʃ a j ɹ]
+          * shea: [ʃ e j]
     * voiced
       * ʒ
         * Occurances: 3
@@ -278,10 +278,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʂ
         * Occurances: 1364
         * Examples
-          * ஷோர்: [ʂ a ɾ]
-          * குஷி,: [k u ʂ i]
-          * ஷேக்.: [ʂ eː k]
-          * ஜோஷ்: [d͡ʒ a ʂ]
+          * கஷ்ட: [k a ʂ ʈ a]
+          * மேஷ: [m eː ʂ a]
+          * ஹர்ஷ: [h a ɾ ʂ a]
+          * சோஷல்: [t͡ʃ a ʂ a l]
     ```
   - ```{ipa_cell}
     ```
@@ -297,36 +297,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 138
         * Examples
-          * ford: [f ɔ ɹ d]
-          * life": [l a j f]
-          * fock: [f ɑ k]
-          * flip: [f l ɪ p]
+          * fine: [f a j n]
+          * foloi: [f ɑ l o j]
+          * fen: [f ɛ n]
+          * roof: [ɹ u f]
     * voiced
       * v
         * Occurances: 119
         * Examples
-          * cove: [k o w v]
+          * "love: [l ʌ v]
+          * avi: [ɑ v i]
           * gavin: [ɡ æ v ɪ n]
-          * v-ன்: [v i n]
-          * david: [d e j v ɪ d]
+          * heavy: [h ɛ v i]
     ```
   - ```{ipa_cell}
     * voiceless
       * θ
         * Occurances: 53
         * Examples
-          * north: [n ɔ ɹ θ]
           * thumb: [θ ʌ m]
-          * south: [s a w θ]
+          * north: [n ɔ ɹ θ]
           * athy: [æ θ i]
+          * south: [s a w θ]
     * voiced
       * ð
         * Occurances: 14
         * Examples
           * "the: [ð ə]
-          * 'the: [ð ə]
-          * “the: [ð ə]
+          * this: [ð ɪ s]
           * the: [ð ə]
+          * “the: [ð ə]
     ```
   - ```{ipa_cell}
     ```
@@ -343,10 +343,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 973
         * Examples
-          * ஓஹோஹோ: [oː h a h a]
-          * ஹோமர்: [h a m a ɾ]
-          * ஹக்: [h a k]
-          * ஹாவல்: [h aː ʋ a l]
+          * கோஹன்: [k a h a n]
+          * ஹர்ஷ: [h a ɾ ʂ a]
+          * ஹீட்: [h iː ʈ]
+          * ஹினா: [h i n aː]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -354,20 +354,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 410
         * Examples
-          * joey: [d͡ʒ o w i]
-          * sligo: [s l i ɡ o w]
-          * cove: [k o w v]
+          * tuen: [t w ə n]
           * nowy: [n a w i]
+          * joey: [d͡ʒ o w i]
+          * boat": [b o w t]
     ```
   - ```{ipa_cell}
     * other
       * ʋ
         * Occurances: 45624
         * Examples
-          * வயல்: [ʋ a j a l]
-          * நடுவே: [n̪ a ʈ u ʋ eː]
-          * கிளவி: [k i ɭ a ʋ i]
-          * அலைவு: [a l a j ʋ u]
+          * பலவகை: [p a l a ʋ a k a j]
+          * ஏவிய: [eː ʋ i j a]
+          * வேலை,: [ʋ eː l a j]
+          * அவதி: [a ʋ a t̪ i]
     ```
   - ```{ipa_cell}
     ```
@@ -376,17 +376,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɹ
         * Occurances: 621
         * Examples
-          * board: [b ɔ ɹ d]
-          * ryle: [ɹ a j l]
-          * ford: [f ɔ ɹ d]
-          * rhine: [ɹ a j n]
+          * bret: [b ɹ ɛ t]
+          * porte: [p ɔ ɹ t]
+          * hard: [h ɑ ɹ d]
+          * crew: [k ɹ u]
       * ɹ̩
         * Occurances: 301
         * Examples
-          * terma: [t ɹ̩ m ə]
+          * aris: [ɹ̩ i s]
+          * aamer: [e j m ɹ̩]
           * early: [ɹ̩ l i]
-          * tower: [t a w ɹ̩]
-          * word: [w ɹ̩ d]
+          * “mr.: [m ɪ s t ɹ̩]
     ```
   - ```{ipa_cell}
     ```
@@ -395,20 +395,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɻ
         * Occurances: 8751
         * Examples
-          * எழச்: [e ɻ a t͡ʃ]
-          * பழைமை: [p a ɻ a j m a j]
-          * ஆழமான: [aː ɻ a m aː n a]
-          * பிறழா: [p i r a ɻ aː]
+          * சோழன்: [t͡ʃ a ɻ a n]
+          * அழகா?: [a ɻ a k aː]
+          * பொழு: [p a ɻ u]
+          * உழை,: [u ɻ a j]
     ```
   - ```{ipa_cell}
     * other
       * j
         * Occurances: 75375
         * Examples
-          * உமைய: [u m a j j a]
-          * வயல்: [ʋ a j a l]
-          * நோய்,: [n̪ a j]
-          * ஐநூறு: [a j n̪ uː r u]
+          * அகரரை: [a k a ɾ a ɾ a j]
+          * பலவகை: [p a l a ʋ a k a j]
+          * ஏவிய: [eː ʋ i j a]
+          * வேலை,: [ʋ eː l a j]
     ```
   - ```{ipa_cell}
     ```
@@ -426,10 +426,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 56008
         * Examples
-          * எர்த்: [e ɾ t̪]
-          * மரணத்: [m a ɾ a ɳ a t̪]
-          * எம்ரி: [e m ɾ i]
-          * கோரத்: [k a ɾ a t̪]
+          * அகரரை: [a k a ɾ a ɾ a j]
+          * பிரேத: [p i ɾ eː t̪ a]
+          * முரண்: [m u ɾ a ɳ]
+          * ரூவா: [ɾ uː ʋ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -453,10 +453,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 32310
         * Examples
-          * ஐநூறு: [a j n̪ uː r u]
-          * அறும்: [a r u m]
-          * மறுமை: [m a r u m a j]
-          * புற: [p u r a]
+          * அற்றே: [a r r eː]
+          * பெறக்: [p e r a k]
+          * மாறின: [m aː r i n a]
+          * சீரற்: [t͡ʃ iː ɾ a r]
     ```
   - ```{ipa_cell}
     ```
@@ -480,10 +480,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 41327
         * Examples
-          * லேட்.: [l eː ʈ]
-          * பால்: [p aː l]
-          * வயல்: [ʋ a j a l]
-          * ஒலிச்: [o l i t͡ʃ]
+          * நல்லன: [n̪ a l l a n a]
+          * பல,: [p a l a]
+          * பலவகை: [p a l a ʋ a k a j]
+          * வேலை,: [ʋ eː l a j]
     ```
   - ```{ipa_cell}
     ```
@@ -511,10 +511,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 30631
         * Examples
-          * அருளோ: [a ɾ u ɭ a]
-          * கிளவி: [k i ɭ a ʋ i]
-          * இளகி: [i ɭ a k i]
-          * இலள்: [i l a ɭ]
+          * தள்ளு: [t̪ a ɭ ɭ u]
+          * வடதளி: [ʋ a ʈ a t̪ a ɭ i]
+          * டபுள்: [ʈ a p u ɭ]
+          * வேளை.: [ʋ eː ɭ a j]
     ```
   - ```{ipa_cell}
     ```
@@ -546,17 +546,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 102174
         * Examples
-          * எம்ரி: [e m ɾ i]
-          * ஒலிச்: [o l i t͡ʃ]
-          * ஆட்லி: [aː ʈ l i]
-          * கிளவி: [k i ɭ a ʋ i]
+          * பிரேத: [p i ɾ eː t̪ a]
+          * ஏவிய: [eː ʋ i j a]
+          * னிடம்: [n i ʈ a m]
+          * சிம்ம: [t͡ʃ i m m a]
       * iː
         * Occurances: 5061
         * Examples
-          * ஜீன்: [d͡ʒ iː n]
-          * ஈடாக,: [iː ʈ aː k a]
-          * லீலா,: [l iː l aː]
-          * வீசி: [ʋ iː t͡ʃ i]
+          * ஈதல்: [iː t̪ a l]
+          * கீழே: [k iː ɻ eː]
+          * சீராக: [t͡ʃ iː ɾ aː k a]
+          * சீனி.: [t͡ʃ iː n i]
     ```
   - ```{ipa_cell}
     ```
@@ -569,17 +569,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 96143
         * Examples
-          * உமைய: [u m a j j a]
-          * அருளோ: [a ɾ u ɭ a]
-          * மணுத்: [m a ɳ u t̪]
-          * ஐநூறு: [a j n̪ uː r u]
+          * "நமது: [n̪ a m a t̪ u]
+          * தள்ளு: [t̪ a ɭ ɭ u]
+          * முரண்: [m u ɾ a ɳ]
+          * பொழு: [p a ɻ u]
       * uː
         * Occurances: 5972
         * Examples
-          * ஐநூறு: [a j n̪ uː r u]
-          * கூடாத: [k uː ʈ aː t̪ a]
-          * சூரன்: [t͡ʃ uː ɾ a n]
-          * மூடக்: [m uː ʈ a k]
+          * 'நியூ: [n̪ i j uː]
+          * ரூவா: [ɾ uː ʋ aː]
+          * சூடிய: [t͡ʃ uː ʈ i j a]
+          * சூது,: [t͡ʃ uː t̪ u]
     ```
 * -
   - ```{ipa_cell}
@@ -589,10 +589,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɪ
         * Occurances: 467
         * Examples
-          * quiz: [k w ɪ z]
           * kilty: [k ɪ l t i]
+          * essex: [ɛ s ɪ k s]
+          * big: [b ɪ ɡ]
           * gavin: [ɡ æ v ɪ n]
-          * chin: [t͡ʃ ɪ n]
     ```
   - ```{ipa_cell}
     ```
@@ -601,10 +601,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʊ
         * Occurances: 42
         * Examples
-          * bull: [b ʊ l]
-          * murid: [m j ʊ ɹ i d]
-          * moor: [m ʊ ɹ]
           * woman: [w ʊ m ə n]
+          * brook: [b ɹ ʊ k]
+          * busch: [b ʊ ʃ]
+          * look: [l ʊ k]
     ```
   - ```{ipa_cell}
     ```
@@ -614,17 +614,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 16441
         * Examples
-          * எர்த்: [e ɾ t̪]
-          * எம்ரி: [e m ɾ i]
-          * ஒன்னெ: [o n n e]
-          * எழச்: [e ɻ a t͡ʃ]
+          * எனல்: [e n a l]
+          * யென்ன: [j e n n a]
+          * பெறக்: [p e r a k]
+          * எழு.: [e ɻ u]
       * eː
         * Occurances: 17676
         * Examples
-          * லேட்.: [l eː ʈ]
-          * கடனே: [k a ʈ a n eː]
-          * நடுவே: [n̪ a ʈ u ʋ eː]
-          * ஏமாப்: [eː m aː p]
+          * பிரேத: [p i ɾ eː t̪ a]
+          * ஏவிய: [eː ʋ i j a]
+          * வேலை,: [ʋ eː l a j]
+          * அற்றே: [a r r eː]
     ```
   - ```{ipa_cell}
     ```
@@ -637,17 +637,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 1988
         * Examples
-          * ஒன்னெ: [o n n e]
-          * ஒர்: [o ɾ]
-          * ஒலிச்: [o l i t͡ʃ]
-          * joey: [d͡ʒ o w i]
+          * ஒரியா: [o ɾ i j aː]
+          * ஒதும்: [o t̪ u m]
+          * ஒடின்: [o ʈ i n]
+          * foloi: [f ɑ l o j]
       * oː
         * Occurances: 572
         * Examples
-          * ஓஹோஹோ: [oː h a h a]
-          * ஓடிப்: [oː ʈ i p]
-          * ஓணான்: [oː ɳ aː n]
-          * ஓடை: [oː ʈ a j]
+          * ஓக்ஸ்: [oː k s]
+          * ஓடத்: [oː ʈ a t̪]
+          * ஓங்கி: [oː ŋ k i]
+          * ஓலைத்: [oː l a j t̪]
     ```
 * -
   - ```{ipa_cell}
@@ -659,10 +659,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 780
         * Examples
-          * terma: [t ɹ̩ m ə]
-          * dual: [d u ə l]
-          * joel.: [d͡ʒ o w ə l]
-          * union: [j u n j ə n]
+          * aspen: [æ s p ə n]
+          * tuen: [t w ə n]
+          * sega: [s i ɡ ə]
+          * targa: [t ɑ ɹ ɡ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -674,10 +674,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 333
         * Examples
-          * "x.: [ɛ k s]
-          * edge: [ɛ d͡ʒ]
-          * ben: [b ɛ n]
-          * crest: [k ɹ ɛ s t]
+          * bret: [b ɹ ɛ t]
+          * eddie: [ɛ d i]
+          * del: [d ɛ l]
+          * fen: [f ɛ n]
     ```
   - ```{ipa_cell}
     ```
@@ -690,18 +690,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 100
         * Examples
-          * tunks: [t ʌ ŋ k s]
-          * “mutt: [m ʌ t]
-          * rugby: [ɹ ʌ ɡ b i]
-          * gulch: [ɡ ʌ l t͡ʃ]
+          * bunny: [b ʌ n i]
+          * "love: [l ʌ v]
+          * chuck: [t͡ʃ ʌ k]
+          * rough: [ɹ ʌ f]
     * rounded
       * ɔ
         * Occurances: 178
         * Examples
-          * board: [b ɔ ɹ d]
           * hmong: [m ɔ ŋ]
-          * ford: [f ɔ ɹ d]
-          * law: [l ɔ]
+          * porte: [p ɔ ɹ t]
+          * all: [ɔ l]
+          * lost: [l ɔ s t]
     ```
 * -
   - ```{ipa_cell}
@@ -709,10 +709,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * æ
         * Occurances: 290
         * Examples
-          * gavin: [ɡ æ v ɪ n]
+          * aspen: [æ s p ə n]
+          * knapp: [n æ p]
+          * cap: [k æ p]
           * ann: [æ n]
-          * hanni: [h æ n i]
-          * banks: [b æ ŋ k s]
     ```
   - ```{ipa_cell}
     ```
@@ -732,17 +732,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 245580
         * Examples
-          * கடன்?: [k a ʈ a n]
-          * மரணத்: [m a ɾ a ɳ a t̪]
-          * உமைய: [u m a j j a]
-          * வயல்: [ʋ a j a l]
+          * நல்லன: [n̪ a l l a n a]
+          * அகரரை: [a k a ɾ a ɾ a j]
+          * பல,: [p a l a]
+          * "நமது: [n̪ a m a t̪ u]
       * aː
         * Occurances: 65497
         * Examples
-          * பால்: [p aː l]
-          * ஜடா: [d͡ʒ a ʈ aː]
-          * ஆட்லி: [aː ʈ l i]
-          * ஆழமான: [aː ɻ a m aː n a]
+          * மஸ்கா: [m a s k aː]
+          * பாபா: [p aː p aː]
+          * அழகா?: [a ɻ a k aː]
+          * அடடா!: [a ʈ a ʈ aː]
     ```
   - ```{ipa_cell}
     ```
@@ -751,10 +751,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 355
         * Examples
-          * ciano: [t͡ʃ i ɑ n o w]
-          * john: [d͡ʒ ɑ n]
-          * marge: [m ɑ ɹ d͡ʒ]
-          * dot: [d ɑ t]
+          * foloi: [f ɑ l o j]
+          * avi: [ɑ v i]
+          * hard: [h ɑ ɹ d]
+          * targa: [t ɑ ɹ ɡ ə]
     ```
 ``````
 

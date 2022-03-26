@@ -330,19 +330,16 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Examples
           * ubrzo: [u˦˨ b rː z̪ o]
       * r̩
-        * Occurances: 555
+        * Occurances: 4
         * Examples
-          * trpak: [t̪ r̩˦˨ p a k]
-          * prka: [p r̩˨˦ k a]
-          * krčki: [k r̩˦˨ tʂ k iː]
-          * prsa: [p r̩˦˨ s̪ a]
+          * vedro: [v e d̪ r̩ o]
       * r̩ː
         * Occurances: 169
         * Examples
-          * brko: [b r̩ː˨˦ k o]
-          * tvrd: [t̪ v r̩ː˦˨ d̪]
-          * krpež: [k r̩ː˨˦ p e ʐ]
           * vrsta: [v r̩ː˨˦ s̪ t̪ a]
+          * mrs: [m r̩ː˦˨ s̪]
+          * krpež: [k r̩ː˨˦ p e ʐ]
+          * brko: [b r̩ː˨˦ k o]
     ```
   - ```{ipa_cell}
     ```
@@ -405,17 +402,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 27476
         * Examples
-          * dim: [d̪ i˦˨ m]
-          * židov: [ʐ i˨˦ d̪ o v]
+          * mniti: [m n i˦˨ t̪ i]
+          * slici: [s̪ l i˨˦ t̪s̪ i]
           * čizma: [tʂ i˦˨ z̪ m a]
-          * irak: [i˨˦ r aː k]
+          * židov: [ʐ i˨˦ d̪ o v]
       * iː
-        * Occurances: 5856
+        * Occurances: 5592
         * Examples
-          * irski: [iː˦˨ r s̪ k iː]
           * radič: [r a˨˦ d̪ iː tʂ]
-          * priča: [p r iː˦˨ tʂ a]
-          * kičma: [k iː˦˨ tʂ m a]
+          * irski: [iː˦˨ r s̪ k iː]
+          * marki: [m a˦˨ r k iː]
+          * novim: [n o˨˦ v iː m]
     ```
   - ```{ipa_cell}
     ```
@@ -433,12 +430,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * tulum: [t̪ u˨˦ l u m]
           * vodu: [v o d̪ u]
       * uː
-        * Occurances: 990
+        * Occurances: 1825
         * Examples
-          * ključ: [k ʎ uː˦˨ tʂ]
+          * limun: [l i˦˨ m uː n]
+          * buna: [b uː˨˦ n a]
+          * buku: [b u˦˨ k uː]
           * tup: [t̪ uː˦˨ p]
-          * burma: [b uː˦˨ r m a]
-          * mehur: [m e˦˨ x uː r]
     ```
 * -
   - ```{ipa_cell}
@@ -455,19 +452,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 19139
+        * Occurances: 15382
         * Examples
-          * tore: [t̪ oː˦˨ r e]
-          * elzas: [e˨˦ l z̪ a s̪]
+          * sjera: [ɕ e˦˨ r a]
           * kenzo: [k e˦˨ n z̪ o]
-          * sonde: [s̪ o n d̪ e]
+          * vjeđa: [v j e˦˨ dʑ a]
+          * robe: [r o˦˨ b e]
       * eː
-        * Occurances: 4098
+        * Occurances: 2029
         * Examples
           * drže: [d̪ r̩˨˦ ʐ eː]
           * akter: [a˨˦ k t̪ eː r]
+          * space: [s̪ p a˦˨ t̪s̪ eː]
           * npr: [e n p eː e r]
-          * mreže: [m r eː˦˨ ʐ e]
     ```
   - ```{ipa_cell}
     ```
@@ -478,19 +475,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 14803
+        * Occurances: 22565
         * Examples
-          * carlo: [t̪s̪ a˦˨ r l o]
           * kenzo: [k e˦˨ n z̪ o]
           * gabor: [ɡ aː˦˨ b o r]
-          * užoj: [u˨˦ ʐ o j]
+          * osuda: [o˦˨ s̪ u d̪ a]
+          * robe: [r o˦˨ b e]
       * oː
         * Occurances: 3347
         * Examples
-          * vagon: [v a˨˦ ɡ oː n]
-          * zsolt: [z̪ s̪ oː l t̪]
           * tore: [t̪ oː˦˨ r e]
-          * bolno: [b oː˦˨ l n o]
+          * papom: [p a˦˨ p oː m]
+          * mojih: [m oː˨˦ j i x]
+          * vagon: [v a˨˦ ɡ oː n]
     ```
 * -
   - ```{ipa_cell}
@@ -533,19 +530,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 28990
+        * Occurances: 31196
         * Examples
-          * priča: [p r iː˦˨ tʂ a]
-          * radič: [r a˨˦ d̪ iː tʂ]
-          * osuda: [o˦˨ s̪ u d̪ a]
+          * ladan: [l aː˨˦ d̪ a n]
+          * aras: [a˨˦ r aː s̪]
+          * carlo: [t̪s̪ a˦˨ r l o]
           * magma: [m a˨˦ ɡ m a]
       * aː
-        * Occurances: 3936
+        * Occurances: 7818
         * Examples
+          * grana: [ɡ r aː˨˦ n a]
           * jean: [j e˨˦ aː n]
-          * lopar: [l o˨˦ p aː r]
           * aras: [a˨˦ r aː s̪]
-          * uzdah: [u˦˨ z̪ d̪ aː x]
+          * ladan: [l aː˨˦ d̪ a n]
     ```
   - ```{ipa_cell}
     ```

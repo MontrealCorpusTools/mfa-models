@@ -20,4 +20,9 @@
    * {ref}`portuguese_(brazil)_mfa_dictionary_v2_0_0`
 * {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`portuguese_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

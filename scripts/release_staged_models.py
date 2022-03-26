@@ -7,7 +7,7 @@ from montreal_forced_aligner.models import MODEL_TYPES, ModelManager, ModelRelea
 
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-UPDATE = True
+UPDATE = False
 
 with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
     token = f.read()
@@ -63,6 +63,8 @@ for model_type, model_class in MODEL_TYPES.items():
                 if ('mfa' in tag or 'arpa' in tag) and model_type == 'dictionary':
                     dict_url = base_dict_template.format(language=lang,phone_set=phone_set, version=v, model_name=model_name)
                     readme = readme.replace('\n\n## Installation', f'\n- The dictionary downloadable from this release has trained pronunciation and silence probabilities. The base dictionary is available [here]({dict_url})\n\n##Installation')
+                if '../../../../corpus/' in readme:
+                    readme = readme.replace('../../../../corpus/', 'https://github.com/MontrealCorpusTools/mfa-models/tree/main/corpus/')
                 existing_releases= manager.remote_models[model_type]
                 if model_name in existing_releases:
                     existing = existing_releases[model_name]

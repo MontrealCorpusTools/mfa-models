@@ -18,4 +18,5 @@ Portuguese
 
    Portuguese (Brazil) MFA dictionary v2_0_0.md
    Portuguese CV dictionary v2_0_0.md
+   Portuguese MFA dictionary v2_0_0.md
    Portuguese (Portugal) MFA dictionary v2_0_0.md

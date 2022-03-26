@@ -52,10 +52,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 7020
         * Examples
-          * emely: [e m ɛ w i]
-          * numas: [n u m ɐ s]
-          * menem: [m e n ẽ j̃]
-          * timon: [tʃ i m õ]
+          * emeli: [e m e ʎ i]
+          * numa: [n u m ɐ]
+          * mene: [m e ɲ i]
+          * times: [tʃ i m e s]
     ```
   - ```{ipa_cell}
     ```
@@ -64,10 +64,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 4073
         * Examples
-          * dono: [d o n o]
-          * numas: [n u m ɐ s]
-          * menem: [m e n ẽ j̃]
-          * arno: [a x n u]
+          * dona: [d o n ɐ]
+          * numa: [n u m ɐ]
+          * noeli: [n o e ʎ i]
+          * canal: [k a n a w]
     ```
   - ```{ipa_cell}
     ```
@@ -76,10 +76,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 1513
         * Examples
-          * nísia: [ɲ i z j ɐ]
-          * tênis: [t e ɲ i s]
-          * ninho: [ɲ ĩ j̃ u]
-          * inss: [i e ɲ i ɛ s i ɛ s i]
+          * mene: [m e ɲ i]
+          * helen: [e l e ɲ i]
+          * alane: [a l ɐ ɲ i]
+          * one: [o ɲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -89,18 +89,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 7104
         * Examples
-          * aporé: [a p o ɾ ɛ]
-          * spc: [ɛ s i p e s e]
-          * tripé: [t ɾ i p ɛ]
-          * ipi: [i p e i]
+          * aporá: [a p o ɾ a]
+          * space: [s p e j s i]
+          * frapê: [f ɾ a p e]
+          * tripa: [t ɾ i p ɐ]
     * voiced
       * b
         * Occurances: 4090
         * Examples
-          * boto: [b o t u]
-          * robe: [x o b e]
-          * rabós: [x a b ɔ s]
-          * alba: [a w b ɐ]
+          * bote: [b ɔ tʃ i]
+          * darub: [d a ɾ u b]
+          * rabos: [x a b u s]
+          * ebó: [e b ɔ]
     ```
   - ```{ipa_cell}
     ```
@@ -109,18 +109,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 10391
         * Examples
-          * boto: [b o t u]
-          * tenta: [t ẽ t ɐ]
-          * tripé: [t ɾ i p ɛ]
-          * custa: [k u s t a]
+          * tenso: [t ẽ s u]
+          * tripa: [t ɾ i p ɐ]
+          * tam: [t ɐ̃ w̃]
+          * steve: [s t e v i]
     * voiced
       * d
         * Occurances: 8733
         * Examples
-          * dono: [d o n o]
-          * dará: [d a ɾ a]
-          * curdo: [k u x d u]
-          * modem: [m o d ẽ j̃]
+          * dona: [d o n ɐ]
+          * darub: [d a ɾ u b]
+          * mode: [m o d e]
+          * depor: [d e p o ɾ]
     ```
   - ```{ipa_cell}
     ```
@@ -129,36 +129,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 1059
         * Examples
-          * queda: [c ɛ d ɐ]
-          * quem: [c ẽ j̃]
-          * keila: [c e j l ɐ]
-          * erike: [e ɾ a j c i]
+          * toque: [t ɔ c i]
+          * que: [c i]
+          * quedo: [c e d u]
+          * saque: [s a c i]
     * voiced
       * ɟ
         * Occurances: 407
         * Examples
-          * kong: [k õ ɟ i]
-          * agong: [a ɡ õ ɟ i]
-          * digno: [dʒ i ɟ i n u]
-          * guia: [ɟ i ɐ]
+          * higgs: [i ʒ e ɟ e ɛ s i]
+          * bug: [b u ɟ i]
+          * gate: [ɟ e j tʃ]
+          * ongs: [õ ɟ i s]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 8720
         * Examples
-          * curdo: [k u x d u]
-          * custa: [k u s t a]
-          * accra: [a k ɾ ɐ]
-          * lucca: [l u k ɐ]
+          * curas: [k u ɾ ɐ s]
+          * cuspi: [k u s p i]
+          * acaso: [a k a z u]
+          * lucas: [l u k ɐ s]
     * voiced
       * ɡ
         * Occurances: 2970
         * Examples
-          * gripe: [ɡ ɾ i p i]
-          * higor: [i ɡ o x]
-          * golas: [ɡ ɔ l ɐ s]
-          * bugar: [b u ɡ a ɾ]
+          * grime: [ɡ ɾ i m i]
+          * gol: [ɡ o w]
+          * cemig: [s e m i ɡ]
+          * figos: [f i ɡ u s]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -172,18 +172,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tʃ
         * Occurances: 4018
         * Examples
-          * out: [a w tʃ]
-          * timon: [tʃ i m õ]
-          * depot: [d e p o tʃ]
-          * late: [l a tʃ i]
+          * bote: [b ɔ tʃ i]
+          * times: [tʃ i m e s]
+          * irati: [i ɾ a tʃ i]
+          * haiti: [a i tʃ i]
     * voiced
       * dʒ
         * Occurances: 2466
         * Examples
-          * audio: [a w dʒ j u]
-          * lord: [l ɔ x dʒ]
-          * wood: [v o u dʒ]
-          * pedia: [p e dʒ i ɐ]
+          * audi: [a w dʒ i]
+          * pedi: [p e dʒ i]
+          * admin: [a dʒ m ĩ]
+          * apodi: [a p o dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -199,36 +199,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 19383
         * Examples
-          * numas: [n u m ɐ s]
-          * spc: [ɛ s i p e s e]
-          * custa: [k u s t a]
-          * tamos: [t ɐ m u s]
+          * tenso: [t ẽ s u]
+          * space: [s p e j s i]
+          * curas: [k u ɾ ɐ s]
+          * cuspi: [k u s p i]
     * voiced
       * z
         * Occurances: 3464
         * Examples
-          * frase: [f ɾ a z e]
-          * fazia: [f a z i ɐ]
-          * nísia: [ɲ i z j ɐ]
-          * case: [k a z i]
+          * ousou: [o w z o w]
+          * acaso: [a k a z u]
+          * raiza: [x a i z ɐ]
+          * fazer: [f a z e x]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 1777
         * Examples
-          * xiao: [ʃ i ɔ]
-          * tênis: [t e ɲ i ʃ]
-          * hoxha: [o ʃ ɐ]
-          * ficha: [f i ʃ ɐ]
+          * jaez: [ʒ ɐ e ʃ]
+          * xhosa: [ʃ ɔ z ɐ]
+          * chove: [ʃ o v e]
+          * uchoa: [u ʃ o ɐ]
     * voiced
       * ʒ
         * Occurances: 1981
         * Examples
-          * jaime: [ʒ a j m i]
-          * rijos: [x i ʒ u s]
-          * stj: [ɛ s i t e ʒ ɔ t ɐ]
-          * marge: [m a ɾ ʒ i]
+          * higgs: [i ʒ e ɟ e ɛ s i]
+          * jaez: [ʒ ɐ e ʃ]
+          * jurou: [ʒ u ɾ o w]
+          * joe: [ʒ o e]
     ```
   - ```{ipa_cell}
     ```
@@ -242,18 +242,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 3144
         * Examples
-          * frase: [f ɾ a z e]
-          * stf: [ɛ s i t e ɛ f i]
-          * fazia: [f a z i ɐ]
-          * fim: [f ĩ]
+          * frapê: [f ɾ a p e]
+          * fazer: [f a z e x]
+          * filé: [f i l ɛ]
+          * ficap: [f i k a p e]
     * voiced
       * v
         * Occurances: 4157
         * Examples
-          * wood: [v o u dʒ]
-          * tvs: [t e v e ɛ s i]
-          * servo: [s e x v u]
-          * veem: [v e ẽ j̃]
+          * river: [x i v e x]
+          * steve: [s t e v i]
+          * woo: [v o u]
+          * névoa: [n ɛ v w ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -269,17 +269,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 4893
         * Examples
-          * emely: [e m ɛ w i]
-          * out: [a w tʃ]
-          * audio: [a w dʒ j u]
-          * alba: [a w b ɐ]
+          * ousou: [o w z o w]
+          * audi: [a w dʒ i]
+          * armou: [a x m o w]
+          * seu: [s e w]
       * w̃
         * Occurances: 2215
         * Examples
-          * moram: [m o ɾ ɐ̃ w̃]
-          * vagão: [v a ɡ ɐ̃ w̃]
-          * hakam: [a k ɐ̃ w̃]
-          * cotão: [k o t ɐ̃ w̃]
+          * tam: [t ɐ̃ w̃]
+          * eram: [e ɾ ɐ̃ w̃]
+          * pirão: [p i ɾ ɐ̃ w̃]
+          * vazão: [v a z ɐ̃ w̃]
     ```
   - ```{ipa_cell}
     ```
@@ -292,17 +292,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 4526
         * Examples
-          * audio: [a w dʒ j u]
-          * play: [p l e j]
-          * eddie: [e d a j]
-          * jaime: [ʒ a j m i]
+          * space: [s p e j s i]
+          * haiti: [a j tʃ i]
+          * aurea: [a w ɾ j ɐ]
+          * seis: [s e j s]
       * j̃
         * Occurances: 1789
         * Examples
-          * menem: [m e n ẽ j̃]
-          * modem: [m o d ẽ j̃]
-          * veem: [v e ẽ j̃]
-          * detêm: [d e t ẽ j̃]
+          * detém: [d e t ẽ j̃]
+          * têm: [t ẽ j̃]
+          * expõe: [i s p õ j̃]
+          * ximen: [ʃ i m ẽ j̃]
     ```
   - ```{ipa_cell}
     ```
@@ -316,10 +316,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 12843
         * Examples
-          * aporé: [a p o ɾ ɛ]
-          * dará: [d a ɾ a]
-          * frase: [f ɾ a z e]
-          * tripé: [t ɾ i p ɛ]
+          * aporá: [a p o ɾ a]
+          * darub: [d a ɾ u b]
+          * frapê: [f ɾ a p e]
+          * curas: [k u ɾ ɐ s]
     ```
   - ```{ipa_cell}
     ```
@@ -337,10 +337,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 4606
         * Examples
-          * lord: [l ɔ x dʒ]
-          * play: [p l e j]
-          * lucca: [l u k ɐ]
-          * lendo: [l ẽ d u]
+          * helen: [e l e ɲ i]
+          * lopes: [l ɔ p i s]
+          * platô: [p l a t o]
+          * lucas: [l u k ɐ s]
     ```
   - ```{ipa_cell}
     ```
@@ -349,10 +349,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 2918
         * Examples
-          * helio: [ɛ ʎ u]
-          * rale: [x a ʎ i]
-          * marli: [m a x ʎ i]
-          * lee: [ʎ i]
+          * emeli: [e m e ʎ i]
+          * noeli: [n o e ʎ i]
+          * gales: [ɡ a ʎ i s]
+          * still: [s t i ʎ a l]
     ```
   - ```{ipa_cell}
     ```
@@ -382,10 +382,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 23624
         * Examples
-          * emely: [e m ɛ w i]
-          * spc: [ɛ s i p e s e]
-          * frase: [f ɾ a z i]
-          * tripé: [t ɾ i p ɛ]
+          * bote: [b ɔ tʃ i]
+          * river: [x i v e x]
+          * emeli: [e m e ʎ i]
+          * mene: [m e ɲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -398,10 +398,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 14236
         * Examples
-          * boto: [b o t u]
-          * dono: [d o n u]
-          * numas: [n u m ɐ s]
-          * curdo: [k u x d u]
+          * numa: [n u m ɐ]
+          * tenso: [t ẽ s u]
+          * darub: [d a ɾ u b]
+          * curas: [k u ɾ ɐ s]
     ```
 * -
   - ```{ipa_cell}
@@ -420,10 +420,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 14248
         * Examples
-          * robe: [x o b e]
-          * emely: [e m ɛ w i]
-          * menem: [m e n ẽ j̃]
-          * spc: [ɛ s i p e s e]
+          * river: [x i v e x]
+          * emeli: [e m e ʎ i]
+          * mene: [m e ɲ i]
+          * space: [s p e j s i]
     ```
   - ```{ipa_cell}
     ```
@@ -436,10 +436,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 9534
         * Examples
-          * boto: [b o t u]
-          * aporé: [a p o ɾ ɛ]
-          * dono: [d o n o]
-          * robe: [x o b e]
+          * aporá: [a p o ɾ a]
+          * dona: [d o n ɐ]
+          * ousou: [o w z o w]
+          * armou: [a x m o w]
     ```
 * -
   - ```{ipa_cell}
@@ -458,10 +458,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 3163
         * Examples
-          * aporé: [a p o ɾ ɛ]
-          * emely: [e m ɛ w i]
-          * spc: [ɛ s i p e s e]
-          * tripé: [t ɾ i p ɛ]
+          * higgs: [i ʒ e ɟ e ɛ s i]
+          * névoa: [n ɛ v w ɐ]
+          * sexos: [s ɛ k s u s]
+          * sopé: [s o p ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -474,10 +474,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 2094
         * Examples
-          * boto: [b ɔ t u]
-          * lord: [l ɔ x dʒ]
-          * rabós: [x a b ɔ s]
-          * soro: [s ɔ ɾ u]
+          * bote: [b ɔ tʃ i]
+          * lopes: [l ɔ p i s]
+          * iperó: [i p i ɾ ɔ]
+          * ebó: [e b ɔ]
     ```
 * -
   - ```{ipa_cell}
@@ -489,10 +489,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 9897
         * Examples
-          * numas: [n u m ɐ s]
-          * tenta: [t ẽ t ɐ]
-          * tamos: [t ɐ m u s]
-          * accra: [a k ɾ ɐ]
+          * dona: [d o n ɐ]
+          * numa: [n u m ɐ]
+          * curas: [k u ɾ ɐ s]
+          * tripa: [t ɾ i p ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -508,10 +508,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 24142
         * Examples
-          * aporé: [a p o ɾ ɛ]
-          * dará: [d a ɾ a]
-          * frase: [f ɾ a z e]
-          * custa: [k u s t a]
+          * aporá: [a p o ɾ a]
+          * darub: [d a ɾ u b]
+          * frapê: [f ɾ a p e]
+          * audi: [a w dʒ i]
     ```
   - ```{ipa_cell}
     ```
@@ -539,10 +539,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ĩ
         * Occurances: 2800
         * Examples
-          * fim: [f ĩ]
-          * saint: [s a ĩ tʃ]
-          * ninho: [ɲ ĩ j̃ u]
-          * xaxim: [ʃ a ʃ ĩ]
+          * admin: [a dʒ m ĩ]
+          * imbé: [ĩ b ɛ]
+          * ninfa: [ɲ ĩ f ɐ]
+          * setim: [s e tʃ ĩ]
     ```
   - ```{ipa_cell}
     ```
@@ -555,9 +555,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ũ
         * Occurances: 534
         * Examples
-          * sun: [s ũ]
-          * untar: [ũ t a x]
-          * muito: [m ũ j̃ t u]
+          * boom: [b ũ]
+          * uns: [ũ s]
+          * bunda: [b ũ d ɐ]
           * ruins: [x ũ j̃ s]
     ```
 * -
@@ -577,10 +577,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ẽ
         * Occurances: 4026
         * Examples
-          * menem: [m e n ẽ j̃]
-          * tenta: [t ẽ t ɐ]
-          * modem: [m o d ẽ j̃]
-          * lendo: [l ẽ d u]
+          * tenso: [t ẽ s u]
+          * lenda: [l ẽ d a]
+          * detém: [d e t ẽ j̃]
+          * têm: [t ẽ j̃]
     ```
   - ```{ipa_cell}
     ```
@@ -593,10 +593,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * õ
         * Occurances: 2429
         * Examples
-          * timon: [tʃ i m õ]
-          * adson: [a d s õ]
-          * rombo: [x õ b u]
-          * onze: [õ z i]
+          * éxons: [ɛ k s õ s]
+          * ron: [x õ]
+          * sólon: [s ɔ l õ]
+          * ronda: [x õ d ɐ]
     ```
 * -
   - ```{ipa_cell}
@@ -630,10 +630,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ̃
         * Occurances: 5483
         * Examples
-          * moram: [m o ɾ ɐ̃ w̃]
-          * amã: [a m ɐ̃]
-          * vagão: [v a ɡ ɐ̃ w̃]
-          * hakam: [a k ɐ̃ w̃]
+          * tam: [t ɐ̃ w̃]
+          * eram: [e ɾ ɐ̃ w̃]
+          * dando: [d ɐ̃ d u]
+          * pirão: [p i ɾ ɐ̃ w̃]
     ```
   - ```{ipa_cell}
     ```

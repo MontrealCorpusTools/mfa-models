@@ -388,10 +388,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * IY
         * Occurances: 55169
         * Examples
+          * kwee: [K W IY2]
+          * dewy: [D UW1 IY0]
           * meder: [M IY1 D ER0]
-          * visby: [V IH1 S B IY0]
-          * kee: [K IY1]
-          * p'hra: [P IY1 R AH0]
+          * vitta: [V IY1 T AH0]
     ```
   - ```{ipa_cell}
     ```
@@ -400,10 +400,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * UW
         * Occurances: 16256
         * Examples
-          * soupe: [S UW1 P]
-          * ghu: [G UW2]
-          * manu: [M AA1 N UW2]
+          * dewy: [D UW1 IY0]
           * tupua: [T UW1 P Y UW0 AH0]
+          * brool: [B R UW1 L]
+          * bhuja: [B UW1 Y AH0]
     ```
   - ```{ipa_cell}
     ```
@@ -417,10 +417,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * IH
         * Occurances: 79698
         * Examples
-          * nith: [N IH2 TH]
-          * stip: [S T IH2 P]
-          * babin: [B AE1 B IH0 N]
-          * itou: [IH0 T UW1]
+          * visum: [V IH1 ZH AH0 M]
+          * unlit: [AH0 N L IH2 T]
+          * repel: [R IH0 P EH1 L]
+          * critz: [K R IH1 T S]
     ```
   - ```{ipa_cell}
     ```
@@ -429,10 +429,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * UH
         * Occurances: 4024
         * Examples
-          * bruk: [B R UH0 K]
-          * input: [IH1 N P UH2 T]
           * curph: [K UH0 R F]
+          * suraj: [S UH0 R AA1 ZH]
           * toots: [T UH1 T S]
+          * hould: [HH UH1 D]
     ```
   - ```{ipa_cell}
     ```
@@ -442,10 +442,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * EY
         * Occurances: 21225
         * Examples
-          * a'll: [EY1 L]
+          * mamey: [M EY1 M IY0]
+          * limay: [L IH0 M EY0]
+          * bonae: [B OW1 N EY0]
           * wrail: [R EY2 L]
-          * aoste: [EY1 OW1 S T]
-          * frari: [F R AE1 R EY2]
     ```
   - ```{ipa_cell}
     ```
@@ -458,10 +458,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * OW
         * Occurances: 25875
         * Examples
-          * boker: [B OW1 K ER0]
-          * pabo: [P AA1 B OW0]
           * mako: [M AA1 K OW0]
-          * gogo: [G OW1 G OW2]
+          * boker: [B OW1 K ER0]
+          * saxo: [S AE1 K S OW0]
+          * sogne: [S OW1 N]
     ```
 * -
   - ```{ipa_cell}
@@ -473,10 +473,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AH
         * Occurances: 116953
         * Examples
-          * thud: [TH AH1 D]
-          * k'ung: [K EY1 SH AH2 NG]
-          * ton: [T AH1 N]
+          * lunga: [L AH1 N G AH0]
           * suf: [S AH2 F]
+          * ton: [T AH1 N]
+          * unlit: [AH0 N L IH2 T]
     ```
   - ```{ipa_cell}
     ```
@@ -488,10 +488,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * EH
         * Occurances: 39703
         * Examples
+          * repel: [R IH0 P EH1 L]
+          * hermy: [HH EH0 R M IY0]
+          * herod: [HH EH1 R AH0 D]
           * ehud: [EH0 HH AH1 D]
-          * ngalo: [EH0 NG G AH0 L OW2]
-          * abdel: [AE1 B D EH2 L]
-          * karil: [K EH2 R AH0 L]
     ```
   - ```{ipa_cell}
     ```
@@ -507,10 +507,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AE
         * Occurances: 34206
         * Examples
-          * sandu: [S AE0 N D UW1]
+          * pryak: [P R AY1 AE0 K]
+          * aleko: [AE2 L AH0 K OW0]
           * torax: [T AO1 R AE2 K S]
-          * saxo: [S AE1 K S OW0]
-          * siam: [S AY1 AE0 M]
+          * sangs: [S AE1 NG Z]
     ```
   - ```{ipa_cell}
     ```
@@ -519,10 +519,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ER
         * Occurances: 40624
         * Examples
-          * myrt: [M ER1 T]
+          * werff: [W ER2 F]
           * verg: [V ER2 G]
+          * turco: [T ER1 K OW0]
           * kirdy: [K ER1 D IY0]
-          * ertak: [ER1 T AH0 K]
     ```
   - ```{ipa_cell}
     ```
@@ -542,17 +542,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AA
         * Occurances: 37763
         * Examples
-          * pabo: [P AA1 B OW0]
-          * labat: [L AA1 B AA0 T]
+          * aloha: [AH0 L OW1 HH AA0]
+          * mako: [M AA1 K OW0]
           * otkar: [AA1 T K AA2 R]
-          * alm: [AA1 L M]
+          * sart: [S AA0 R T]
     * rounded
       * AO
         * Occurances: 18014
         * Examples
-          * norms: [N AO1 R M Z]
           * moriz: [M AO0 R IY0 Z]
-          * corta: [K AO1 R T AH0]
+          * igor: [IY1 G AO2 R]
+          * forli: [F AO0 R L IY0]
           * corea: [K AO0 R IY1 AH0]
     ```
 ``````
