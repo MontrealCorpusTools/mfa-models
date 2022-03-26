@@ -18,6 +18,11 @@
    ```
 
 
+   ```{admonition} G2P models
+   * {ref}`english_(us)_arpa_g2p_model_v2_0_0`
+   ```
+
+
    ```{admonition} Acoustic models
    * {ref}`english_(us)_arpa_acoustic_model_v2_0_0`
    ```
@@ -54,10 +59,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * M
         * Occurances: 44595
         * Examples
-          * maie: [M AY1]
-          * male: [M EY1 L]
-          * deem: [D IY1 M]
-          * firms: [F ER1 M Z]
+          * visum: [V IH1 ZH AH0 M]
+          * mako: [M AA1 K OW0]
+          * myrt: [M ER1 T]
+          * alm: [AA1 L M]
     ```
   - ```{ipa_cell}
     ```
@@ -68,10 +73,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * N
         * Occurances: 94848
         * Examples
-          * noria: [N AO1 R IY0 AH0]
-          * arndt: [AA1 R N T]
-          * totin: [T OW1 T IH0 N]
-          * banat: [B AH0 N AE1 T]
+          * unlit: [AH0 N L IH2 T]
+          * gans: [G AE1 N Z]
+          * lunga: [L AH1 N G AH0]
+          * indo: [IH1 N D OW0]
     ```
   - ```{ipa_cell}
     ```
@@ -82,10 +87,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * NG
         * Occurances: 15230
         * Examples
-          * bengt: [B EH1 NG K T]
-          * keang: [K IY0 AA1 NG]
-          * rinka: [R IH1 NG K AH0]
-          * wung: [W AH1 NG]
+          * sangs: [S AE1 NG Z]
+          * sings: [S IH1 NG Z]
+          * tanga: [T AA1 NG G AH0]
+          * stank: [S T AE1 NG K]
     ```
   - ```{ipa_cell}
     ```
@@ -95,18 +100,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * P
         * Occurances: 32322
         * Examples
-          * agape: [AH0 G EY1 P]
-          * peris: [P EH1 R AH0 S]
-          * spudd: [S P AH1 D]
-          * patoo: [P AH0 T UW2]
+          * p'hra: [P IY1 R AH0]
+          * pabo: [P AA1 B OW0]
+          * paht: [P AA1 T]
+          * soupe: [S UW1 P]
     * voiced
       * B
         * Occurances: 31562
         * Examples
-          * bengt: [B EH1 NG K T]
-          * tabak: [T AE1 B AE0 K]
-          * aboud: [AA0 B UW1 D]
-          * blog: [B L AO1 G]
+          * haub: [HH AO1 B]
+          * pabo: [P AA1 B OW0]
+          * bhuja: [B UW1 Y AH0]
+          * babin: [B AE1 B IH0 N]
     ```
   - ```{ipa_cell}
     ```
@@ -117,18 +122,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * T
         * Occurances: 75542
         * Examples
-          * bengt: [B EH1 NG K T]
-          * tabak: [T AE1 B AE0 K]
-          * arndt: [AA1 R N T]
-          * twict: [T W IH1 K T]
+          * unlit: [AH0 N L IH2 T]
+          * corta: [K AO1 R T AH0]
+          * myrt: [M ER1 T]
+          * sart: [S AA0 R T]
     * voiced
       * D
         * Occurances: 52334
         * Examples
-          * huddy: [HH AH1 D IY0]
-          * aboud: [AA0 B UW1 D]
-          * durfy: [D ER1 F IY0]
-          * deem: [D IY1 M]
+          * herod: [HH EH1 R AH0 D]
+          * indo: [IH1 N D OW0]
+          * dour: [D AW1 ER0]
+          * dewy: [D UW1 IY0]
     ```
   - ```{ipa_cell}
     ```
@@ -139,18 +144,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * K
         * Occurances: 58375
         * Examples
-          * bengt: [B EH1 NG K T]
-          * tabak: [T AE1 B AE0 K]
-          * twict: [T W IH1 K T]
-          * kia: [K IY1 ER0]
+          * coru: [K AO1 R UW0]
+          * corta: [K AO1 R T AH0]
+          * mako: [M AA1 K OW0]
+          * saxo: [S AE1 K S OW0]
     * voiced
       * G
         * Occurances: 20766
         * Examples
-          * agape: [AH0 G EY1 P]
-          * blog: [B L AO1 G]
-          * agron: [AH0 G R AA1 N]
-          * gute: [G Y UW1 T]
+          * gans: [G AE1 N Z]
+          * lunga: [L AH1 N G AH0]
+          * gyu: [G Y UW2]
+          * agnew: [AE1 G N Y UW0]
     ```
   - ```{ipa_cell}
     ```
@@ -168,18 +173,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * CH
         * Occurances: 8420
         * Examples
-          * cimme: [CH IY0 M]
-          * gotch: [G AA1 CH]
-          * reach: [R IY1 CH]
-          * chuff: [CH AH1 F]
+          * check: [CH EH1 K]
+          * chaf: [CH AE1 F]
+          * tchah: [CH]
+          * vich: [V IH0 CH]
     * voiced
       * JH
         * Occurances: 10111
         * Examples
-          * geos: [JH IY2 OW0 S]
-          * bage: [B EY1 JH]
-          * bosja: [B AA1 S JH AH0]
-          * gyte: [JH AY1 T]
+          * jarl: [JH AA1 R L]
+          * monge: [M AA1 N JH]
+          * rigi: [R IH1 JH IY0]
+          * job's: [JH AA1 B Z]
     ```
   - ```{ipa_cell}
     ```
@@ -199,36 +204,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * S
         * Occurances: 78674
         * Examples
-          * seeth: [S IY1 TH]
-          * siren: [S AY1 R AH0 N]
-          * osset: [AA1 S AH0 T]
-          * sal: [S AE1 L]
+          * sangs: [S AE1 NG Z]
+          * saxo: [S AE1 K S OW0]
+          * sart: [S AA0 R T]
+          * areus: [EH1 R IY0 AH0 S]
     * voiced
       * Z
         * Occurances: 53038
         * Examples
-          * firms: [F ER1 M Z]
-          * zon: [Z AO1 N]
-          * zeeba: [Z IY1 B AH0]
-          * shows: [SH OW1 Z]
+          * sangs: [S AE1 NG Z]
+          * gans: [G AE1 N Z]
+          * norms: [N AO1 R M Z]
+          * lawns: [L AO1 N Z]
     ```
   - ```{ipa_cell}
     * voiceless
       * SH
         * Occurances: 12288
         * Examples
-          * shuah: [SH UW1 AA0]
-          * shows: [SH OW1 Z]
-          * shoud: [SH UW1 D]
-          * shewn: [SH UW1 N]
+          * tisza: [T IH1 SH AH0]
+          * shark: [SH AA1 R K]
+          * imshi: [IH1 M SH IY0]
+          * fosh: [F AA1 SH]
     * voiced
       * ZH
         * Occurances: 796
         * Examples
-          * jno: [ZH N OW0]
-          * asian: [EY1 ZH AH0 N]
-          * gibt: [ZH IH0 T]
-          * girod: [ZH ER0 AA1 D]
+          * visum: [V IH1 ZH AH0 M]
+          * touge: [T UW1 ZH]
+          * zhoo: [ZH UW1]
+          * taj: [T AA1 ZH]
     ```
   - ```{ipa_cell}
     ```
@@ -244,18 +249,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * F
         * Occurances: 20957
         * Examples
-          * affey: [AE1 F IY0]
-          * durfy: [D ER1 F IY0]
-          * firms: [F ER1 M Z]
-          * fabry: [F AE1 B R IY0]
+          * fout: [F AW1 T]
+          * frey: [F R EY1]
+          * chaf: [CH AE1 F]
+          * flint: [F L IH1 N T]
     * voiced
       * V
         * Occurances: 17526
         * Examples
-          * avil: [AA0 V IY1 L]
-          * rovol: [R OW1 V AH0 L]
-          * vie: [V AY1]
-          * davos: [D AA1 V OW0 S]
+          * visum: [V IH1 ZH AH0 M]
+          * vitta: [V IY1 T AH0]
+          * giv: [G IH1 V]
+          * visby: [V IH1 S B IY0]
     ```
   - ```{ipa_cell}
     * voiceless
@@ -263,17 +268,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Occurances: 6592
         * Examples
           * seeth: [S IY1 TH]
-          * grath: [G R AE1 TH]
-          * thune: [TH UW1 N]
-          * catha: [K AE1 TH AH0]
+          * nith: [N IH2 TH]
+          * thud: [TH AH1 D]
+          * oneth: [W AH1 N EH1 TH]
     * voiced
       * DH
         * Occurances: 1311
         * Examples
-          * lithe: [L AY1 DH]
-          * theis: [DH AY1 Z]
-          * thos: [DH OW1 Z]
-          * uther: [AH1 DH ER0]
+          * this: [DH IH1 S]
+          * lathe: [L EY1 DH]
+          * than: [DH AE1 N]
+          * otha: [AH0 DH AA1]
     ```
   - ```{ipa_cell}
     ```
@@ -288,10 +293,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * HH
         * Occurances: 13675
         * Examples
-          * huddy: [HH AH1 D IY0]
-          * hind: [HH AY1 N D]
-          * heif: [HH IY1 F]
-          * homey: [HH OW1 M IY0]
+          * haub: [HH AO1 B]
+          * herod: [HH EH1 R AH0 D]
+          * aloha: [AH0 L OW1 HH AA0]
+          * helve: [HH EH1 L V]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -299,10 +304,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * W
         * Occurances: 14822
         * Examples
-          * twict: [T W IH1 K T]
-          * wixon: [W IH1 K S AH0 N]
-          * weake: [W IY1 K]
-          * wili: [W IH1 L IY0]
+          * wixy: [W IH1 K S IY0]
+          * aiwa: [AY1 W AH0]
+          * swat: [S W AA1 T]
+          * dwell: [D W EH1 L]
     ```
   - ```{ipa_cell}
     ```
@@ -313,10 +318,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * R
         * Occurances: 71342
         * Examples
-          * noria: [N AO1 R IY0 AH0]
-          * arndt: [AA1 R N T]
-          * rolla: [R AA1 L AH0]
-          * agron: [AH0 G R AA1 N]
+          * coru: [K AO1 R UW0]
+          * corta: [K AO1 R T AH0]
+          * p'hra: [P IY1 R AH0]
+          * sart: [S AA0 R T]
     ```
   - ```{ipa_cell}
     ```
@@ -325,10 +330,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * Y
         * Occurances: 8159
         * Examples
-          * taijo: [T AA0 IY1 Y OW0]
-          * w'ite: [D AH1 B AH0 L Y UW0 AY2 T]
-          * gute: [G Y UW1 T]
-          * yeeld: [Y IY1 L D]
+          * bhuja: [B UW1 Y AH0]
+          * gyu: [G Y UW2]
+          * agnew: [AE1 G N Y UW0]
+          * humes: [HH Y UW1 M Z]
     ```
   - ```{ipa_cell}
     ```
@@ -346,10 +351,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * L
         * Occurances: 76788
         * Examples
-          * male: [M EY1 L]
-          * rolla: [R AA1 L AH0]
-          * blog: [B L AO1 G]
-          * align: [AH0 L AY1 N]
+          * unlit: [AH0 N L IH2 T]
+          * alm: [AA1 L M]
+          * malus: [M AH0 L AH0 S]
+          * lunga: [L AH1 N G AH0]
     ```
   - ```{ipa_cell}
     ```
@@ -383,10 +388,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * IY
         * Occurances: 55169
         * Examples
-          * zeen: [Z IY2 N]
-          * geol: [JH IY2 AH0 L]
-          * huddy: [HH AH1 D IY0]
-          * durfy: [D ER1 F IY0]
+          * meder: [M IY1 D ER0]
+          * visby: [V IH1 S B IY0]
+          * kee: [K IY1]
+          * p'hra: [P IY1 R AH0]
     ```
   - ```{ipa_cell}
     ```
@@ -395,10 +400,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * UW
         * Occurances: 16256
         * Examples
-          * w'ite: [D AH1 B AH0 L Y UW0 AY2 T]
-          * scoop: [S K UW1 P]
-          * papua: [P AE1 P Y UW0 AH0]
-          * patoo: [P AH0 T UW2]
+          * soupe: [S UW1 P]
+          * ghu: [G UW2]
+          * manu: [M AA1 N UW2]
+          * tupua: [T UW1 P Y UW0 AH0]
     ```
   - ```{ipa_cell}
     ```
@@ -412,10 +417,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * IH
         * Occurances: 79698
         * Examples
-          * tib's: [T IH1 B Z]
-          * finir: [F IH1 N IH2 R]
-          * ribon: [R IH2 B AH0 N]
-          * laded: [L EY1 D IH0 D]
+          * nith: [N IH2 TH]
+          * stip: [S T IH2 P]
+          * babin: [B AE1 B IH0 N]
+          * itou: [IH0 T UW1]
     ```
   - ```{ipa_cell}
     ```
@@ -424,10 +429,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * UH
         * Occurances: 4024
         * Examples
-          * hoorn: [HH UH0 R N]
-          * namur: [N AH0 M UH1 R]
-          * artur: [AA1 R T UH0 R]
-          * fury: [F Y UH1 R IY0]
+          * bruk: [B R UH0 K]
+          * input: [IH1 N P UH2 T]
+          * curph: [K UH0 R F]
+          * toots: [T UH1 T S]
     ```
   - ```{ipa_cell}
     ```
@@ -437,10 +442,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * EY
         * Occurances: 21225
         * Examples
-          * dante: [D AA1 N T EY0]
-          * trate: [T R EY2 T]
-          * petar: [P EY0 T ER0]
-          * ase: [EY2 S]
+          * a'll: [EY1 L]
+          * wrail: [R EY2 L]
+          * aoste: [EY1 OW1 S T]
+          * frari: [F R AE1 R EY2]
     ```
   - ```{ipa_cell}
     ```
@@ -453,10 +458,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * OW
         * Occurances: 25875
         * Examples
-          * tibo: [T AY1 B OW0]
-          * geos: [JH IY2 OW0 S]
-          * cargo: [K AA1 R G OW2]
-          * totam: [T OW2 T AE2 M]
+          * boker: [B OW1 K ER0]
+          * pabo: [P AA1 B OW0]
+          * mako: [M AA1 K OW0]
+          * gogo: [G OW1 G OW2]
     ```
 * -
   - ```{ipa_cell}
@@ -468,10 +473,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AH
         * Occurances: 116953
         * Examples
-          * setup: [S EH1 T AH2 P]
-          * agape: [AH0 G EY1 P]
-          * noria: [N AO1 R IY0 AH0]
-          * huddy: [HH AH1 D IY0]
+          * thud: [TH AH1 D]
+          * k'ung: [K EY1 SH AH2 NG]
+          * ton: [T AH1 N]
+          * suf: [S AH2 F]
     ```
   - ```{ipa_cell}
     ```
@@ -483,10 +488,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * EH
         * Occurances: 39703
         * Examples
-          * peris: [P EH1 R AH0 S]
-          * nunez: [N UW1 N EH0 Z]
-          * peleg: [P EH2 L AH0 G]
-          * bengt: [B EH1 NG K T]
+          * ehud: [EH0 HH AH1 D]
+          * ngalo: [EH0 NG G AH0 L OW2]
+          * abdel: [AE1 B D EH2 L]
+          * karil: [K EH2 R AH0 L]
     ```
   - ```{ipa_cell}
     ```
@@ -502,10 +507,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AE
         * Occurances: 34206
         * Examples
-          * akram: [AE1 K R AE2 M]
-          * nerac: [N ER0 AE0 K]
-          * pag: [P AE2 G]
-          * ogrod: [OW0 G R AE2 D]
+          * sandu: [S AE0 N D UW1]
+          * torax: [T AO1 R AE2 K S]
+          * saxo: [S AE1 K S OW0]
+          * siam: [S AY1 AE0 M]
     ```
   - ```{ipa_cell}
     ```
@@ -514,10 +519,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ER
         * Occurances: 40624
         * Examples
-          * nerac: [N ER0 AE0 K]
-          * werff: [W ER2 F]
-          * firms: [F ER1 M Z]
-          * vigor: [V IH1 G ER0]
+          * myrt: [M ER1 T]
+          * verg: [V ER2 G]
+          * kirdy: [K ER1 D IY0]
+          * ertak: [ER1 T AH0 K]
     ```
   - ```{ipa_cell}
     ```
@@ -537,18 +542,18 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * AA
         * Occurances: 37763
         * Examples
-          * aymar: [EY1 M AA2 R]
-          * arndt: [AA1 R N T]
-          * arks: [AA2 R K S]
-          * agron: [AH0 G R AA1 N]
+          * pabo: [P AA1 B OW0]
+          * labat: [L AA1 B AA0 T]
+          * otkar: [AA1 T K AA2 R]
+          * alm: [AA1 L M]
     * rounded
       * AO
         * Occurances: 18014
         * Examples
-          * toff: [T AO2 F]
-          * georg: [G EY1 AO0 R G]
-          * noria: [N AO1 R IY0 AH0]
-          * blog: [B L AO1 G]
+          * norms: [N AO1 R M Z]
+          * moriz: [M AO0 R IY0 Z]
+          * corta: [K AO1 R T AH0]
+          * corea: [K AO0 R IY1 AH0]
     ```
 ``````
 

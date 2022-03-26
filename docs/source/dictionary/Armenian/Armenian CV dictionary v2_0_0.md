@@ -54,10 +54,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 1108
         * Examples
-          * միջոց: [m i d ʒ ɔ t sʰ]
-          * կրում: [k ɾ u m]
-          * մոդել: [m ɔ d ɛ l]
-          * մեթոդ: [m ɛ tʰ ɔ d]
+          * մեջ: [m ɛ d ʒ]
+          * մայր: [m ɑ j ɾ]
+          * դեմ: [d ɛ m]
+          * սեմը: [s ɛ m ə]
     ```
   - ```{ipa_cell}
     ```
@@ -66,10 +66,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 2732
         * Examples
-          * ջինի: [d ʒ i n i]
-          * գնեց: [ɡ n ɛ t sʰ]
-          * թեգն: [tʰ ɛ ɡ n]
-          * դենդի: [d ɛ n d i]
+          * ինը: [i n ə]
+          * առանց: [ɑ r ɑ n t sʰ]
+          * գոլին: [ɡ ɔ l i n]
+          * քունի: [kʰ u n i]
     ```
   - ```{ipa_cell}
     ```
@@ -87,18 +87,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 321
         * Examples
-          * դպրոց: [d p ɾ ɔ t sʰ]
-          * տիպեր: [t i p ɛ ɾ]
-          * պես: [p ɛ s]
-          * պետք: [p ɛ t kʰ]
+          * պէտք: [p ɛ t kʰ]
+          * կապել: [k ɑ p ɛ l]
+          * որպես: [ɔ ɾ p ɛ s]
+          * կապով: [k ɑ p ɔ v]
     * voiced
       * b
         * Occurances: 345
         * Examples
-          * երբ: [ɛ ɾ b]
+          * բրնձի: [b ɾ n d z i]
           * ժաբոն: [ʒ ɑ b ɔ n]
-          * բանան: [b ɑ n ɑ n]
-          * բարձր: [b ɑ ɾ d z ɾ]
+          * բծեր: [b t s ɛ ɾ]
+          * բութ: [b u tʰ]
     ```
   - ```{ipa_cell}
     ```
@@ -107,18 +107,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 1878
         * Examples
-          * սերտ: [s ɛ ɾ t]
-          * գնեց: [ɡ n ɛ t sʰ]
-          * սկսած: [s k s ɑ t s]
-          * դպրոց: [d p ɾ ɔ t sʰ]
+          * կից: [k i t sʰ]
+          * ցոփ: [t sʰ ɔ pʰ]
+          * առանց: [ɑ r ɑ n t sʰ]
+          * պէտք: [p ɛ t kʰ]
     * voiced
       * d
         * Occurances: 641
         * Examples
-          * ջինի: [d ʒ i n i]
-          * դենդի: [d ɛ n d i]
-          * դպրոց: [d p ɾ ɔ t sʰ]
-          * միջոց: [m i d ʒ ɔ t sʰ]
+          * մեջ: [m ɛ d ʒ]
+          * ձախ: [d z ɑ χ]
+          * խնդրի: [χ n d ɾ i]
+          * դեմ: [d ɛ m]
     ```
   - ```{ipa_cell}
     ```
@@ -129,18 +129,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 1026
         * Examples
-          * սկսած: [s k s ɑ t s]
-          * կրում: [k ɾ u m]
-          * կեսին: [k ɛ s i n]
-          * ոսկրի: [ɔ s k ɾ i]
+          * կից: [k i t sʰ]
+          * կարեց: [k ɑ ɾ ɛ t sʰ]
+          * մաշկ: [m ɑ ʃ k]
+          * տակ՝: [t ɑ k]
     * voiced
       * ɡ
         * Occurances: 415
         * Examples
-          * գնեց: [ɡ n ɛ t sʰ]
-          * թեգն: [tʰ ɛ ɡ n]
-          * գարի: [ɡ ɑ ɾ i]
-          * գնալ: [ɡ n ɑ l]
+          * գոլին: [ɡ ɔ l i n]
+          * գծեր: [ɡ t s ɛ ɾ]
+          * գլուխ: [ɡ l u χ]
+          * գնման: [ɡ n m ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -156,36 +156,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 924
         * Examples
-          * սերտ: [s ɛ ɾ t]
-          * սկսած: [s k s ɑ t s]
-          * խիստ: [χ i s t]
-          * կեսին: [k ɛ s i n]
+          * գծեր: [ɡ t s ɛ ɾ]
+          * օրս: [ɔ ɾ s]
+          * սեմը: [s ɛ m ə]
+          * տուած: [t u ɑ t s]
     * voiced
       * z
         * Occurances: 345
         * Examples
-          * ազատ: [ɑ z ɑ t]
-          * անձի: [ɑ n d z i]
-          * բարձր: [b ɑ ɾ d z ɾ]
-          * լիզան: [l i z ɑ n]
+          * ձախ: [d z ɑ χ]
+          * բրնձի: [b ɾ n d z i]
+          * զգալի: [z ɡ ɑ l i]
+          * զենքը: [z ɛ n kʰ ə]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃ
         * Occurances: 324
         * Examples
-          * շոուի: [ʃ ɔ u i]
-          * ոճերի: [ɔ t ʃ ɛ ɾ i]
           * շան: [ʃ ɑ n]
-          * շիրակ: [ʃ i ɾ ɑ k]
+          * մաշկ: [m ɑ ʃ k]
+          * շվայտ: [ʃ v ɑ j t]
+          * ուշ: [u ʃ]
     * voiced
       * ʒ
         * Occurances: 226
         * Examples
-          * ջինի: [d ʒ i n i]
-          * միջոց: [m i d ʒ ɔ t sʰ]
-          * յաջող: [j ɑ d ʒ ɔ ʁ]
+          * մեջ: [m ɛ d ʒ]
+          * առջևի: [ɑ r d ʒ ɛ v i]
           * ժաբոն: [ʒ ɑ b ɔ n]
+          * ողջ: [ɔ ʁ d ʒ]
     ```
   - ```{ipa_cell}
     ```
@@ -205,20 +205,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * sʰ
         * Occurances: 478
         * Examples
-          * գնեց: [ɡ n ɛ t sʰ]
-          * դպրոց: [d p ɾ ɔ t sʰ]
-          * միջոց: [m i d ʒ ɔ t sʰ]
-          * անցել: [ɑ n t sʰ ɛ l]
+          * կից: [k i t sʰ]
+          * ցոփ: [t sʰ ɔ pʰ]
+          * առանց: [ɑ r ɑ n t sʰ]
+          * կարեց: [k ɑ ɾ ɛ t sʰ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʃʰ
         * Occurances: 121
         * Examples
-          * չորս: [t ʃʰ ɔ ɾ s]
-          * հնչել: [h n t ʃʰ ɛ l]
-          * ինչու: [i n t ʃʰ u]
-          * թռչել: [tʰ r t ʃʰ ɛ l]
+          * մինչև: [m i n t ʃʰ ɛ v]
+          * աչքեր: [ɑ t ʃʰ kʰ ɛ ɾ]
+          * չափից: [t ʃʰ ɑ pʰ i t sʰ]
+          * գրչին: [ɡ ɾ t ʃʰ i n]
     ```
   - ```{ipa_cell}
     ```
@@ -236,17 +236,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 46
         * Examples
-          * ֆոնդը: [f ɔ n d ə]
           * ֆոլքի: [f ɔ l kʰ i]
+          * ֆոնդը: [f ɔ n d ə]
           * ֆեռալ: [f ɛ r ɑ l]
     * voiced
       * v
         * Occurances: 773
         * Examples
-          * գրված: [ɡ ɾ v ɑ t s]
-          * շվայտ: [ʃ v ɑ j t]
-          * վերին: [v ɛ ɾ i n]
-          * եւս: [ɛ v s]
+          * մինչև: [m i n t ʃʰ ɛ v]
+          * հովիտ: [h ɔ v i t]
+          * տվել: [t v ɛ l]
+          * անվան: [ɑ n v ɑ n]
     ```
   - ```{ipa_cell}
     ```
@@ -261,28 +261,28 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * χ
         * Occurances: 195
         * Examples
-          * խիստ: [χ i s t]
-          * խոսքի: [χ ɔ s kʰ i]
-          * խփել: [χ pʰ ɛ l]
-          * խոշոր: [χ ɔ ʃ ɔ ɾ]
+          * ձախ: [d z ɑ χ]
+          * խնդրի: [χ n d ɾ i]
+          * գլուխ: [ɡ l u χ]
+          * թխել: [tʰ χ ɛ l]
     * voiced
       * ʁ
         * Occurances: 329
         * Examples
-          * յաջող: [j ɑ d ʒ ɔ ʁ]
-          * տեղ: [t ɛ ʁ]
-          * տղան: [t ʁ ɑ n]
-          * տրվող: [t ɾ v ɔ ʁ]
+          * ցեղը: [t sʰ ɛ ʁ ə]
+          * ուղիղ: [u ʁ i ʁ]
+          * ողջ: [ɔ ʁ d ʒ]
+          * դեղին: [d ɛ ʁ i n]
     ```
   - ```{ipa_cell}
     * voiceless
       * h
         * Occurances: 476
         * Examples
-          * հաստ: [h ɑ s t]
-          * հոդը: [h ɔ d ə]
-          * հաճախ: [h ɑ t ʃ ɑ χ]
-          * հնչել: [h n t ʃʰ ɛ l]
+          * հիմար: [h i m ɑ ɾ]
+          * հովիտ: [h ɔ v i t]
+          * հնարք: [h n ɑ ɾ kʰ]
+          * հարկ: [h ɑ ɾ k]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -298,10 +298,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 714
         * Examples
+          * մայր: [m ɑ j ɾ]
           * այն: [ɑ j n]
-          * յաջող: [j ɑ d ʒ ɔ ʁ]
-          * այգու: [ɑ j ɡ u]
-          * շվայտ: [ʃ v ɑ j t]
+          * այսօր: [ɑ j s ɔ ɾ]
+          * լայն: [l ɑ j n]
     ```
   - ```{ipa_cell}
     ```
@@ -319,10 +319,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 2246
         * Examples
-          * սերտ: [s ɛ ɾ t]
-          * դպրոց: [d p ɾ ɔ t sʰ]
-          * գարի: [ɡ ɑ ɾ i]
-          * ոճերի: [ɔ t ʃ ɛ ɾ i]
+          * արքա: [ɑ ɾ kʰ ɑ]
+          * գծեր: [ɡ t s ɛ ɾ]
+          * արուն: [ɑ ɾ u n]
+          * որն: [ɔ ɾ n]
     ```
   - ```{ipa_cell}
     ```
@@ -344,10 +344,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 193
         * Examples
-          * սառցե: [s ɑ r t sʰ ɛ]
-          * թռչել: [tʰ r t ʃʰ ɛ l]
-          * ռեգգի: [r ɛ ɡ ɡ i]
-          * փառքի: [pʰ ɑ r kʰ i]
+          * առանց: [ɑ r ɑ n t sʰ]
+          * անսեռ: [ɑ n s ɛ r]
+          * ռուս: [r u s]
+          * առջևի: [ɑ r d ʒ ɛ v i]
     ```
   - ```{ipa_cell}
     ```
@@ -369,10 +369,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 523
         * Examples
-          * գնալ: [ɡ n ɑ l]
-          * մոդել: [m ɔ d ɛ l]
-          * խփել: [χ pʰ ɛ l]
-          * անցել: [ɑ n t sʰ ɛ l]
+          * գոլին: [ɡ ɔ l i n]
+          * գլուխ: [ɡ l u χ]
+          * թխել: [tʰ χ ɛ l]
+          * տվել: [t v ɛ l]
     ```
   - ```{ipa_cell}
     ```
@@ -408,10 +408,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 1456
         * Examples
-          * ջինի: [d ʒ i n i]
-          * շոուի: [ʃ ɔ u i]
-          * դենդի: [d ɛ n d i]
-          * գարի: [ɡ ɑ ɾ i]
+          * կից: [k i t sʰ]
+          * ինը: [i n ə]
+          * գոլին: [ɡ ɔ l i n]
+          * քունի: [kʰ u n i]
     ```
   - ```{ipa_cell}
     ```
@@ -424,10 +424,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 1310
         * Examples
-          * շոուի: [ʃ ɔ u i]
-          * կրում: [k ɾ u m]
-          * այգու: [ɑ j ɡ u]
-          * գինու: [ɡ i n u]
+          * քունի: [kʰ u n i]
+          * արուն: [ɑ ɾ u n]
+          * թուրք: [tʰ u ɾ kʰ]
+          * տուած: [t u ɑ t s]
     ```
 * -
   - ```{ipa_cell}
@@ -461,10 +461,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ə
         * Occurances: 478
         * Examples
+          * ինը: [i n ə]
+          * սեմը: [s ɛ m ə]
           * ծծանը: [t s t s ɑ n ə]
-          * հոդը: [h ɔ d ə]
-          * ֆոնդը: [f ɔ n d ə]
-          * օրը: [ɔ ɾ ə]
+          * ցեղը: [t sʰ ɛ ʁ ə]
     ```
   - ```{ipa_cell}
     ```
@@ -476,10 +476,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 1922
         * Examples
-          * սերտ: [s ɛ ɾ t]
-          * գնեց: [ɡ n ɛ t sʰ]
-          * թեգն: [tʰ ɛ ɡ n]
-          * դենդի: [d ɛ n d i]
+          * մեջ: [m ɛ d ʒ]
+          * պէտք: [p ɛ t kʰ]
+          * գծեր: [ɡ t s ɛ ɾ]
+          * դեմ: [d ɛ m]
     ```
   - ```{ipa_cell}
     ```
@@ -492,10 +492,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 909
         * Examples
-          * շոուի: [ʃ ɔ u i]
-          * դպրոց: [d p ɾ ɔ t sʰ]
-          * միջոց: [m i d ʒ ɔ t sʰ]
-          * ոճերի: [ɔ t ʃ ɛ ɾ i]
+          * ցոփ: [t sʰ ɔ pʰ]
+          * գոլին: [ɡ ɔ l i n]
+          * որն: [ɔ ɾ n]
+          * անոր: [ɑ n ɔ ɾ]
     ```
 * -
   - ```{ipa_cell}
@@ -522,9 +522,9 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɑ
         * Occurances: 4463
         * Examples
-          * սկսած: [s k s ɑ t s]
-          * գարի: [ɡ ɑ ɾ i]
-          * այն: [ɑ j n]
+          * առանց: [ɑ r ɑ n t sʰ]
+          * ձախ: [d z ɑ χ]
           * արքա: [ɑ ɾ kʰ ɑ]
+          * արուն: [ɑ ɾ u n]
     ```
 ``````

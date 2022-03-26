@@ -50,31 +50,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 17942
         * Examples
-          * 耳鳴り: [m i m i n a ɾ i]
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * 見せ所: [m i s e d o k o ɾ o]
-          * コロンボ: [k o ɾ o m b o]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * 蒲公英: [t a m p o p o]
+          * あつめる: [a ts ɨ m e ɾ ɯ]
+          * 見どころ: [m i d o k o ɾ o]
       * mʲ
         * Occurances: 154
         * Examples
-          * 頸静脈: [k eː ʑ oː mʲ a k ɯ]
-          * かいみょう: [k a i mʲ oː]
-          * エミュ: [e mʲ ɨ]
-          * いみょう: [i mʲ oː]
+          * ミュンヘン: [mʲ ɨ ɰ̃ h e ɴ]
+          * ミュレット: [mʲ ɨ ɾ e tː o]
+          * みゃくせき: [mʲ a k ɯ s e c i]
+          * 脈あり: [mʲ a k ɯ a ɾ i]
       * mʲː
         * Occurances: 31
         * Examples
-          * 陰陽師: [o mʲː oː ʑ i]
+          * ほんみょう: [h o mʲː oː]
           * ぶんみゃく: [b ɯ mʲː a k ɯ]
-          * じんみゃく: [dʑ i mʲː a k ɯ]
           * 三藐三菩提: [s a mʲː a k ɯ s a m b o d a i]
+          * はんみょう: [h a mʲː oː]
       * mː
         * Occurances: 540
         * Examples
-          * ハンマーム: [h a mː aː m ɯ]
-          * 文明開化: [b ɯ mː eː k a i k a]
-          * サンマリノ: [s a mː a ɾ i n o]
-          * にんむ: [ɲ i mː ɯ]
+          * 秋刀魚: [s a mː a]
+          * 勤務先: [c i mː ɯ s a c i]
+          * かんむり座: [k a mː ɯ ɾ i z a]
+          * えんむしつ: [e mː ɯ ɕ i̥ ts ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -83,54 +83,54 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n
         * Occurances: 11704
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * 耳鳴り: [m i m i n a ɾ i]
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * ウガンダ: [ɯ ɡ a n d a]
+          * 楽天的: [ɾ a k ɯ t e n t e c i]
+          * 伴って: [t o m o n a tː e]
       * nː
         * Occurances: 380
         * Examples
-          * けんない: [k e nː a i]
-          * がんねん: [ɡ a nː e ɴ]
-          * ひんのう: [ç i nː oː]
-          * かんぬき: [k a nː ɯ c i]
+          * いろんな: [i ɾ o nː a]
+          * 万年筆: [m a nː e ɰ̃ ɸ ɯ d e]
+          * てんのう: [t e nː oː]
+          * 天王星: [t e nː oː s eː]
     ```
   - ```{ipa_cell}
     * other
       * ɲ
         * Occurances: 4985
         * Examples
+          * パタゴニア: [p a t a ɡ o ɲ i a]
+          * ざんりゅう: [dz a ɲ ɾʲ ɨː]
           * インジウム: [i ɲ dʑ i ɯ m ɯ]
-          * 入江鰐: [i ɾ i e w a ɲ i]
-          * にっちょう: [ɲ i tɕː oː]
-          * 助けになる: [t a s ɨ k e ɲ i n a ɾ ɯ]
+          * くにぐに: [k ɯ ɲ i ɡ ɯ ɲ i]
       * ɲː
         * Occurances: 155
         * Examples
-          * ニンニク: [ɲ i ɲː i k ɯ]
-          * クンニ: [k ɯ ɲː i]
+          * かんにゅう: [k a ɲː ɨː]
           * ヤンニョム: [j a ɲː o m ɯ]
-          * カンニング: [k a ɲː i ŋ ɡ ɯ]
+          * ばんにん: [b a ɲː i ɴ]
+          * しんにん: [ɕ i ɲː i ɴ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 2993
         * Examples
-          * 繁華街: [h a ŋ k a ɡ a i]
-          * せんごく: [s e ŋ ɡ o k ɯ]
-          * ハンガリー: [h a ŋ ɡ a ɾ iː]
-          * 債権額: [s a i k e ŋ ɡ a k ɯ]
+          * 神経学: [ɕ i ŋ k eː ɡ a k ɯ]
+          * まんけん: [m a ŋ k e ɴ]
+          * とんがる: [t o ŋ ɡ a ɾ ɯ]
+          * 三味線貝: [ɕ a m i s e ŋ ɡ a i]
     ```
   - ```{ipa_cell}
     * other
       * ɴ
         * Occurances: 10160
         * Examples
-          * じゃん: [dʑ a ɴ]
-          * こびん: [k o b i ɴ]
-          * 神奈川県: [k a n a ɡ a w a k e ɴ]
-          * グウェン: [ɡ w e ɴ]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * きずいせん: [c i z ɨ i s e ɴ]
+          * アフガン: [a ɸ ɯ ɡ a ɴ]
+          * さくぶん: [s a k ɯ b ɯ ɴ]
       * ɴː
         * Occurances: 3
         * Examples
@@ -144,31 +144,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 2882
         * Examples
-          * ぷりぷり: [p ɯ ɾ i p ɯ ɾ i]
-          * プロフ画像: [p ɯ ɾ o ɸ ɯ ɡ a z oː]
-          * ハプニング: [h a p ɯ ɲ i ŋ ɡ ɯ]
-          * ピペラジン: [p i p e ɾ a ʑ i ɴ]
+          * 蒲公英: [t a m p o p o]
+          * パタゴニア: [p a t a ɡ o ɲ i a]
+          * タイプ: [t a i p ɯ]
+          * テンペラ: [t e m p e ɾ a]
       * pː
         * Occurances: 715
         * Examples
-          * 合併論: [ɡ a pː eː ɾ o ɴ]
-          * トップテン: [t o pː ɯ t e ɴ]
-          * ワッペン: [w a pː e ɴ]
-          * せっぱん: [s e pː a ɴ]
+          * ペッパー: [p e pː aː]
+          * 掻っ払い: [k a pː a ɾ a i]
+          * れっぷ: [ɾ e pː ɯ]
+          * ハラッパー: [h a ɾ a pː aː]
     * voiced
       * b
         * Occurances: 9799
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * コロンボ: [k o ɾ o m b o]
-          * こびん: [k o b i ɴ]
-          * 影法師: [k a ɡ e b oː ɕ i]
+          * 海老鯛: [e b i t a i]
+          * こぼす: [k o b o s ɨ]
+          * ベック: [b e kː ɯ]
+          * さくぶん: [s a k ɯ b ɯ ɴ]
       * bː
         * Occurances: 4
         * Examples
           * ビッベ: [b i bː e]
-          * web会議: [w e bː ɯ k a i ɟ i]
           * グッバイ: [ɡ ɯ bː a i]
+          * web会議: [w e bː ɯ k a i ɟ i]
     ```
   - ```{ipa_cell}
     ```
@@ -177,89 +177,89 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t
         * Occurances: 16837
         * Examples
-          * とうゆ: [t oː j ɨ]
-          * といあわせ: [t o i a w a s e]
-          * ひとじち: [ç i̥ t o ʑ i tɕ i]
-          * 簡体字: [k a n t a i ʑ i]
+          * 海老鯛: [e b i t a i]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * 蒲公英: [t a m p o p o]
+          * パタゴニア: [p a t a ɡ o ɲ i a]
       * tː
         * Occurances: 1366
         * Examples
-          * 甦った: [j o m i ɡ a e a tː a]
-          * ってく: [tː e k ɯ]
-          * 辿った: [t a d o tː a]
-          * 出会った: [d a tː a]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * 伴って: [t o m o n a tː e]
+          * さらって: [s a ɾ a tː e]
+          * 上った: [n o b o tː a]
     * voiced
       * d
         * Occurances: 8456
         * Examples
-          * 見せ所: [m i s e d o k o ɾ o]
-          * もどりち: [m o d o ɾ i tɕ i]
-          * だれか: [d a ɾ e k a]
-          * 辿った: [t a d o tː a]
+          * ウガンダ: [ɯ ɡ a n d a]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * 見どころ: [m i d o k o ɾ o]
+          * ウォード: [w oː d o]
       * dː
         * Occurances: 99
         * Examples
-          * デビッド: [d e b i dː o]
-          * アトウッド: [a t o ɯ dː o]
-          * デッドキー: [d e dː o c iː]
-          * ピラミッド: [p i ɾ a m i dː o]
+          * モペッド: [m o p e dː o]
+          * アイポッド: [a i p o dː o]
+          * ミルウッド: [m i ɾ ɯ ɯ dː o]
+          * ゴッデム: [ɡ o dː e m ɯ]
     ```
   - ```{ipa_cell}
     * voiceless
       * c
         * Occurances: 9552
         * Examples
-          * 交声曲: [k oː s eː c o k ɯ]
-          * きんす: [c i ɰ̃ s ɨ]
-          * ほちょうき: [h o tɕ oː c i]
-          * ア式蹴球: [a ɕ i̥ c i ɕ ɨː c ɨː]
+          * 絵描き: [e k a c i]
+          * 支払機: [ɕ i h a ɾ a i c i]
+          * 楽天的: [ɾ a k ɯ t e n t e c i]
+          * きずいせん: [c i z ɨ i s e ɴ]
       * cː
         * Occurances: 352
         * Examples
-          * きっきん: [c i cː i ɴ]
-          * ミッキー: [m i cː iː]
-          * 国境警備隊: [k o cː oː k eː b i t a i]
-          * 新学期: [ɕ i ŋ ɡ a cː i]
+          * いっきうち: [i cː i ɯ tɕ i]
+          * はっき: [h a cː i]
+          * 殺菌剤: [s a cː i n dz a i]
+          * 中石器時代: [tɕ ɨː s e cː i ʑ i d a i]
     * voiced
       * ɟ
         * Occurances: 2100
         * Examples
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * ぎゃくばり: [ɟ a k ɯ b a ɾ i]
-          * はいぎょ: [h a i ɟ o]
-          * 牛どん: [ɟ ɨː d o ɴ]
+          * 御する: [ɟ o s ɨ ɾ ɯ]
+          * ぎゃくすう: [ɟ a k ɯ s ɨː]
+          * きさらぎ: [c i̥ s a ɾ a ɟ i]
+          * かいぎしつ: [k a i ɟ i ɕ i̥ ts ɨ]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 33491
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * 交声曲: [k oː s eː c o k ɯ]
-          * いざかや: [i z a k a j a]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * 絵描き: [e k a c i]
+          * いくら: [i k ɯ ɾ a]
       * kː
         * Occurances: 1584
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * しっこう: [ɕ i̥ kː oː]
-          * ふっけん: [ɸ ɯ̥ kː e ɴ]
-          * 真っ黒: [m a kː ɯ ɾ o]
+          * ベック: [b e kː ɯ]
+          * きゃっかん: [c a kː a ɴ]
+          * バッカ: [b a kː a]
+          * しっかり: [ɕ i̥ kː a ɾ i]
     * voiced
       * ɡ
         * Occurances: 10172
         * Examples
-          * 神奈川県: [k a n a ɡ a w a k e ɴ]
-          * 影法師: [k a ɡ e b oː ɕ i]
-          * グウェン: [ɡ w e ɴ]
-          * ガスカル: [ɡ a s ɨ k a ɾ ɯ]
+          * ウガンダ: [ɯ ɡ a n d a]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * パタゴニア: [p a t a ɡ o ɲ i a]
+          * 再来月: [s a ɾ a i ɡ e ts ɨ]
       * ɡː
         * Occurances: 48
         * Examples
-          * バッグス: [b a ɡː ɯ s ɨ]
-          * マッギン: [m a ɡː i ɴ]
-          * デバッガ: [d e b a ɡː a]
-          * ホッグ: [h o ɡː ɯ]
+          * すっごい: [s ɨ̥ ɡː o i]
+          * ブルドッグ: [b ɯ ɾ ɯ d o ɡː ɯ]
+          * ツィッギー: [ts i ɡː iː]
+          * big: [b i ɡː ɯ]
     ```
   - ```{ipa_cell}
     ```
@@ -268,10 +268,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʔ
         * Occurances: 13
         * Examples
-          * カシャッ: [k a ɕ a ʔ]
-          * ははっ: [h a h a ʔ]
+          * いてっ: [i t e ʔ]
           * カサッ: [k a s a ʔ]
           * わるっ: [w a ɾ ɯ ʔ]
+          * わあっ: [w aː ʔ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -283,31 +283,31 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ts
         * Occurances: 6666
         * Examples
-          * ほうじゅつ: [h oː ʑ ɨ ts ɨ]
-          * ついやす: [ts ɨ i j a s ɨ]
-          * うこうこつ: [ɯ k oː k o ts ɨ]
-          * 美術品商: [b i ʑ ɨ ts ɨ ç i ɰ̃ ɕ oː]
+          * あつめる: [a ts ɨ m e ɾ ɯ]
+          * 対立軸: [t a i ɾ i ts ɨ ʑ i k ɯ]
+          * 再来月: [s a ɾ a i ɡ e ts ɨ]
+          * きぬたこつ: [c i n ɯ t a k o ts ɨ]
       * tsː
         * Occurances: 77
         * Examples
-          * エッツァル: [e o tsː a ɾ ɯ]
-          * レッツゴー: [ɾ e tsː ɨ ɡ oː]
-          * hits: [ç i tsː ɨ]
-          * ペレッツ: [p e ɾ e tsː ɨ]
+          * ベッツ: [b a tsː ɨ]
+          * みっつ: [m i tsː ɨ]
+          * くっつく: [k ɯ̥ tsː ɨ k ɯ]
+          * くっつける: [k ɯ̥ tsː ɨ k e ɾ ɯ]
     * voiced
       * dz
         * Occurances: 1527
         * Examples
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * ぞうか: [dz oː k a]
-          * ぜんせいき: [dz e ɰ̃ s eː c i]
-          * れんぞく: [ɾ e n dz o k ɯ]
+          * ざまみろ: [dz a m a m i ɾ o]
+          * メナンズ: [m e n a n dz ɨ]
+          * ざんりゅう: [dz a ɲ ɾʲ ɨː]
+          * 心臓麻痺: [ɕ i n dz oː m a ç i]
       * dzː
         * Occurances: 6
         * Examples
+          * ドッズ: [d o dzː ɨ]
           * ヘッズ: [h e dzː ɯ]
           * グッズ: [ɡ ɯ dzː ɯ]
-          * ドッズ: [d o dzː ɨ]
           * オッズ: [o dzː ɯ ɴ]
     ```
   - ```{ipa_cell}
@@ -315,32 +315,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 5565
         * Examples
-          * ひとじち: [ç i̥ t o ʑ i tɕ i]
-          * ちょうかい: [tɕ oː k a i]
-          * ほちょうき: [h o tɕ oː c i]
-          * もどりち: [m o d o ɾ i tɕ i]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * ベネチア: [b e n e tɕ i a]
+          * 落ち度: [o tɕ i d o]
+          * 一時停止: [i tɕ i ʑ i t eː ɕ i]
       * tɕː
         * Occurances: 282
         * Examples
-          * にっちょう: [ɲ i tɕː oː]
-          * きっちょう: [c i̥ tɕː oː]
-          * 言文一致: [ɡ e m b ɯ ɰ̃ i tɕː i]
-          * hdd: [e tɕː i d iː d iː]
+          * マッチ: [m a tɕː i]
+          * っちゃう: [tɕː a a ɯ]
+          * いっち: [i tɕː i]
+          * ニッチ: [ɲ i tɕː i]
     * voiced
       * dʑ
         * Occurances: 3176
         * Examples
-          * じゃん: [dʑ a ɴ]
+          * じゅんや: [dʑ ɨ ɰ̃ j a]
           * インジウム: [i ɲ dʑ i ɯ m ɯ]
-          * 人事部: [dʑ i ɲ dʑ i b ɯ]
-          * にんじょう: [ɲ i ɲ dʑ oː]
+          * ジュール: [dʑ ɨː ɾ ɯ]
+          * もんじん: [m o ɲ dʑ i ɴ]
       * dʑː
         * Occurances: 34
         * Examples
-          * 缶バッジ: [k a m b a dʑː i]
-          * ピンバッジ: [p i m b a dʑː i]
           * ホッジス: [h o dʑː i s ɨ]
-          * ノレッジ: [n o ɾ e dʑː i]
+          * ヘッジス: [h e dʑː i s ɨ]
+          * ブリッジ: [b ɯ ɾ i dʑː i]
+          * ハッジ: [h a dʑː i]
     ```
   - ```{ipa_cell}
     ```
@@ -358,50 +358,50 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 18766
         * Examples
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * 交声曲: [k oː s eː c o k ɯ]
-          * きんす: [c i ɰ̃ s ɨ]
-          * といあわせ: [t o i a w a s e]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * せいたい: [s eː t a i]
+          * こぼす: [k o b o s ɨ]
       * sː
         * Occurances: 430
         * Examples
-          * てっさ: [t e sː a]
-          * 液体窒素: [e c i t a i tɕ i sː o]
-          * 屈折語: [k ɯ̥ sː e ts ɨ ɡ o]
-          * あっせい: [a sː eː]
+          * ほっする: [h o sː ɨ ɾ ɯ]
+          * じっせん: [dʑ i sː e ɴ]
+          * 血清学: [k e sː eː ɡ a k ɯ]
+          * いっすん: [i sː ɨ ɴ]
     * voiced
       * z
         * Occurances: 3604
         * Examples
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * いざかや: [i z a k a j a]
-          * のぞましい: [n o z o m a ɕ iː]
-          * おまきざる: [o m a c i z a ɾ ɯ]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * きずいせん: [c i z ɨ i s e ɴ]
+          * 脊髄反射: [s e c i z ɨ i h a ɰ̃ ɕ a]
+          * ふしぜん: [ɸ ɯ ɕ i z e ɴ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 14528
         * Examples
-          * ア式蹴球: [a ɕ i̥ c i ɕ ɨː c ɨː]
-          * 影法師: [k a ɡ e b oː ɕ i]
-          * いしき: [i ɕ i̥ c i]
-          * のぞましい: [n o z o m a ɕ iː]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * 支払機: [ɕ i h a ɾ a i c i]
+          * 観測者: [k a ɰ̃ s o k ɯ ɕ a]
+          * 衝動買い: [ɕ oː d oː ɡ a i]
       * ɕː
         * Occurances: 447
         * Examples
-          * 皆既日食: [k a i c i ɲ i ɕː o k ɯ]
-          * 摂氏温度: [s e ɕː i o n d o]
-          * ずっしり: [dz ɨ ɕː i ɾ i]
-          * いっしょ: [i ɕː o]
+          * れっし: [ɾ e ɕː i]
+          * ぎっしゃ: [ɟ i ɕː a]
+          * 夜行列車: [j a k oː ɾ e ɕː a]
+          * まっしょう: [m a ɕː oː]
     * voiced
       * ʑ
         * Occurances: 3858
         * Examples
-          * ひとじち: [ç i̥ t o ʑ i tɕ i]
-          * 簡体字: [k a n t a i ʑ i]
-          * ほうじゅつ: [h oː ʑ ɨ ts ɨ]
-          * ひじょう: [ç i ʑ oː]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * 対立軸: [t a i ɾ i ts ɨ ʑ i k ɯ]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * くじゅう: [k ɯ ʑ ɨː]
     ```
   - ```{ipa_cell}
     ```
@@ -415,10 +415,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 3342
         * Examples
-          * 吹雪く: [ɸ ɯ b ɯ k ɯ]
-          * ふっけん: [ɸ ɯ̥ kː e ɴ]
-          * ａｆｓ: [eː e ɸ ɯ e s ɨ]
-          * フリル: [ɸ ɯ ɾ i ɾ ɯ]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * フレスノ: [ɸ ɯ ɾ e s ɨ n o]
+          * アフガン: [a ɸ ɯ ɡ a ɴ]
+          * フクシア: [ɸ ɯ̥ k ɯ ɕ i a]
       * ɸʲ
         * Occurances: 7
         * Examples
@@ -427,20 +427,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸː
         * Occurances: 18
         * Examples
+          * ハッフル: [h a ɸː ɯ ɾ ɯ]
           * スタッフ: [s ɨ̥ t a ɸː ɯ]
+          * シャッフル: [ɕ a ɸː ɯ ɾ ɯ]
           * イッフィー: [i ɸː iː]
-          * ベグリッフ: [b e ɡ ɯ ɾ i ɸː ɯ]
-          * ダッフィ: [d a ɸː i]
     ```
   - ```{ipa_cell}
     * voiced
       * v
         * Occurances: 198
         * Examples
-          * ボーヴェ: [b oː v e]
-          * ガヴィリア: [ɡ a v i ɾ i a]
-          * セヴルガ: [s e v ɯ ɾ ɯ ɡ a]
-          * ラーヴァナ: [ɾ aː v a n a]
+          * ヴァレーゼ: [v a ɾ eː z e]
+          * マハデヴィ: [m a h a d e v i]
+          * ヴィシュヌ: [v i ɕ ɨ n ɯ]
+          * マクヴィ: [m a k ɯ v i]
       * vʲ
         * Occurances: 4
         * Examples
@@ -452,10 +452,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 2587
         * Examples
-          * ひとじち: [ç i̥ t o ʑ i tɕ i]
-          * ひじょう: [ç i ʑ oː]
-          * 非常勤: [ç i ʑ oː c i ɴ]
-          * 美術品商: [b i ʑ ɨ ts ɨ ç i ɰ̃ ɕ oː]
+          * 心臓麻痺: [ɕ i n dz oː m a ç i]
+          * 飛行士: [ç i̥ k oː ɕ i]
+          * ショーヒン: [ɕ oː ç i ɴ]
+          * 手のひら: [t e n o ç i ɾ a]
       * çː
         * Occurances: 3
         * Examples
@@ -469,17 +469,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 6282
         * Examples
-          * ほちょうき: [h o tɕ oː c i]
-          * 挟まる: [h a s a m a ɾ ɯ]
-          * ほうじゅつ: [h oː ʑ ɨ ts ɨ]
-          * 吐き出す: [h a c i d a s ɨ]
+          * 支払機: [ɕ i h a ɾ a i c i]
+          * 脊髄反射: [s e c i z ɨ i h a ɰ̃ ɕ a]
+          * はしごしゃ: [h a ɕ i ɡ o ɕ a]
+          * くみはん: [k ɯ m i h a ɴ]
       * hː
         * Occurances: 5
         * Examples
-          * ゴッホ: [ɡ o hː o]
-          * ゲルラッハ: [ɡ e ɾ ɯ ɾ a hː a]
           * ゼンパッハ: [dz e m p a hː a]
           * ウンバッハ: [ɯ m b a hː a]
+          * ゴッホ: [ɡ o hː o]
+          * ゲルラッハ: [ɡ e ɾ ɯ ɾ a hː a]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -487,10 +487,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 3155
         * Examples
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * といあわせ: [t o i a w a s e]
-          * 神奈川県: [k a n a ɡ a w a k e ɴ]
-          * グウェン: [ɡ w e ɴ]
+          * ウォード: [w oː d o]
+          * 訳あり: [w a k e a ɾ i]
+          * ためらわ: [t a m e ɾ a w a]
+          * 我が家: [w a ɡ a j a]
     ```
   - ```{ipa_cell}
     ```
@@ -501,20 +501,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 6118
         * Examples
-          * とうゆ: [t oː j ɨ]
-          * いざかや: [i z a k a j a]
-          * 甦った: [j o m i ɡ a e a tː a]
-          * すばやい: [s ɨ b a j a i]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * やまいだれ: [j a m a i d a ɾ e]
+          * ぬるま湯: [n ɯ ɾ ɯ m a j ɨ]
     ```
   - ```{ipa_cell}
     * other
       * ɰ̃
         * Occurances: 3962
         * Examples
-          * きんす: [c i ɰ̃ s ɨ]
-          * テンあげ: [t e ɰ̃ a ɡ e]
-          * 美術品商: [b i ʑ ɨ ts ɨ ç i ɰ̃ ɕ oː]
-          * ｄｎａ: [d iː e ɰ̃ eː]
+          * 観測者: [k a ɰ̃ s o k ɯ ɕ a]
+          * 脊髄反射: [s e c i z ɨ i h a ɰ̃ ɕ a]
+          * フェンス: [ɸ e ɰ̃ s ɨ]
+          * じゅんや: [dʑ ɨ ɰ̃ j a]
     ```
   - ```{ipa_cell}
     ```
@@ -530,23 +530,23 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 24817
         * Examples
-          * 耳鳴り: [m i m i n a ɾ i]
-          * 見せ所: [m i s e d o k o ɾ o]
-          * コロンボ: [k o ɾ o m b o]
-          * そらみみ: [s o ɾ a m i m i]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * いくら: [i k ɯ ɾ a]
+          * あつめる: [a ts ɨ m e ɾ ɯ]
+          * 対立軸: [t a i ɾ i ts ɨ ʑ i k ɯ]
       * ɾʲ
         * Occurances: 1264
         * Examples
-          * むりょう: [m ɯ ɾʲ oː]
-          * 東北電力: [t oː h o k ɯ d e ɲ ɾʲ o k ɯ]
-          * 判断力: [h a n d a ɲ ɾʲ o k ɯ]
-          * 流量計: [ɾʲ ɨː ɾʲ oː k eː]
+          * ざんりゅう: [dz a ɲ ɾʲ ɨː]
+          * りゅうおん: [ɾʲ ɨː o ɴ]
+          * 荒療治: [a ɾ a ɾʲ oː ʑ i]
+          * 円電流: [e n d e ɲ ɾʲ ɨː]
       * ɾː
         * Occurances: 4
         * Examples
+          * ビツェッリ: [b i ts e ɾː i]
           * バガレッラ: [b a ɡ a ɾ e ɾː a]
           * チッリ: [tɕ i ɾː i]
-          * ビツェッリ: [b i ts e ɾː i]
     ```
   - ```{ipa_cell}
     ```
@@ -578,26 +578,26 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 52345
+        * Occurances: 52344
         * Examples
-          * 耳鳴り: [m i m i n a ɾ i]
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * きんす: [c i ɰ̃ s ɨ]
+          * 海老鯛: [e b i t a i]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * 絵描き: [e k a c i]
+          * いくら: [i k ɯ ɾ a]
       * iː
         * Occurances: 2512
         * Examples
-          * のぞましい: [n o z o m a ɕ iː]
-          * ｄｎａ: [d iː e ɰ̃ eː]
-          * aig: [eː a i ʑ iː]
-          * ハンガリー: [h a ŋ ɡ a ɾ iː]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * ときいろ: [t o c iː ɾ o]
+          * いちいち: [i tɕ iː tɕ i]
+          * 差し入れ: [s a ɕ iː ɾ e]
       * i̥
-        * Occurances: 3260
+        * Occurances: 3261
         * Examples
-          * ひとじち: [ç i̥ t o ʑ i tɕ i]
-          * ア式蹴球: [a ɕ i̥ c i ɕ ɨː c ɨː]
-          * いしき: [i ɕ i̥ c i]
-          * しっこう: [ɕ i̥ kː oː]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * きさらぎ: [c i̥ s a ɾ a ɟ i]
+          * 位相幾何学: [i s oː c i̥ k a ɡ a k ɯ]
+          * かいぎしつ: [k a i ɟ i ɕ i̥ ts ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -606,24 +606,24 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 14309
         * Examples
-          * とうゆ: [t oː j ɨ]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * きんす: [c i ɰ̃ s ɨ]
-          * ガスカル: [ɡ a s ɨ k a ɾ ɯ]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * あつめる: [a ts ɨ m e ɾ ɯ]
+          * 対立軸: [t a i ɾ i ts ɨ ʑ i k ɯ]
       * ɨː
         * Occurances: 4540
         * Examples
-          * ア式蹴球: [a ɕ i̥ c i ɕ ɨː c ɨː]
-          * ゆうかい: [j ɨː k a i]
-          * スーチョン: [s ɨː tɕ o ɴ]
-          * 牛どん: [ɟ ɨː d o ɴ]
+          * 優柔不断: [j ɨː ʑ ɨː ɸ ɯ d a ɴ]
+          * くじゅう: [k ɯ ʑ ɨː]
+          * ざんりゅう: [dz a ɲ ɾʲ ɨː]
+          * ぎゃくすう: [ɟ a k ɯ s ɨː]
       * ɨ̥
         * Occurances: 2906
         * Examples
-          * オースチン: [oː s ɨ̥ tɕ i ɴ]
-          * 行きつけ: [i c i ts ɨ̥ k e]
-          * つかむ: [ts ɨ̥ k a m ɯ]
-          * キスタン: [c i s ɨ̥ t a ɴ]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
+          * すっごい: [s ɨ̥ ɡː o i]
+          * ステラー: [s ɨ̥ t e ɾ aː]
+          * 捨て仮名: [s ɨ̥ t e ɡ a n a]
     ```
   - ```{ipa_cell}
     ```
@@ -632,24 +632,24 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɯ
         * Occurances: 30079
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * 交声曲: [k oː s eː c o k ɯ]
+          * ウガンダ: [ɯ ɡ a n d a]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * いくら: [i k ɯ ɾ a]
+          * あつめる: [a ts ɨ m e ɾ ɯ]
       * ɯː
         * Occurances: 729
         * Examples
-          * ぐうぞう: [ɡ ɯː z oː]
-          * ワーフー: [w aː ɸ ɯː]
-          * ヤフー: [j a ɸ ɯː]
-          * ルーザー: [ɾ ɯː z aː]
+          * ルール: [ɾ ɯː ɾ ɯ]
+          * クーパー: [k ɯː p aː]
+          * たいぐう: [t a i ɡ ɯː]
+          * ナブーム: [n a b ɯː m ɯ]
       * ɯ̥
         * Occurances: 1989
         * Examples
-          * ふっけん: [ɸ ɯ̥ kː e ɴ]
-          * りくさ: [ɾ i k ɯ̥ s a]
-          * 無機化合物: [m ɯ̥ c i k a ɡ oː b ɯ ts ɨ]
-          * どくはく: [d o k ɯ̥ h a k ɯ]
+          * フクシア: [ɸ ɯ̥ k ɯ ɕ i a]
+          * 説き伏せる: [t o c i ɸ ɯ̥ s e ɾ ɯ]
+          * ふくつ: [ɸ ɯ̥ k ɯ ts ɨ]
+          * やくしゃ: [j a k ɯ̥ ɕ a]
     ```
 * -
   - ```{ipa_cell}
@@ -668,17 +668,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 25791
         * Examples
-          * といあわせ: [t o i a w a s e]
-          * 見せ所: [m i s e d o k o ɾ o]
-          * 神奈川県: [k a n a ɡ a w a k e ɴ]
-          * 影法師: [k a ɡ e b oː ɕ i]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * 海老鯛: [e b i t a i]
+          * すしづめ: [s ɨ̥ ɕ i z ɨ m e]
       * eː
         * Occurances: 6428
         * Examples
-          * 交声曲: [k oː s eː c o k ɯ]
-          * セーラー: [s eː ɾ aː]
-          * ｄｎａ: [d iː e ɰ̃ eː]
-          * aig: [eː a i ʑ iː]
+          * ldk: [e ɾ ɯ ʑ iː k eː]
+          * せいたい: [s eː t a i]
+          * キャンデー: [c a n d eː]
+          * 神経学: [ɕ i ŋ k eː ɡ a k ɯ]
     ```
   - ```{ipa_cell}
     ```
@@ -691,17 +691,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 34252
         * Examples
-          * ぶっこぬく: [b ɯ kː o n ɯ k ɯ]
-          * いずくんぞ: [i z ɨ k ɯ n dz o]
-          * 交声曲: [k oː s eː c o k ɯ]
-          * といあわせ: [t o i a w a s e]
+          * ネチケット: [n e tɕ i̥ k e tː o]
+          * 蒲公英: [t a m p o p o]
+          * パタゴニア: [p a t a ɡ o ɲ i a]
+          * こぼす: [k o b o s ɨ]
       * oː
         * Occurances: 17658
         * Examples
-          * とうゆ: [t oː j ɨ]
-          * 交声曲: [k oː s eː c o k ɯ]
-          * ちょうかい: [tɕ oː k a i]
-          * ほちょうき: [h o tɕ oː c i]
+          * ウォード: [w oː d o]
+          * 衝動買い: [ɕ oː d oː ɡ a i]
+          * 運動会: [ɯ n d oː k a i]
+          * とおり: [t oː ɾ i]
     ```
 * -
   - ```{ipa_cell}
@@ -746,17 +746,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 64942
         * Examples
-          * じゃん: [dʑ a ɴ]
-          * 耳鳴り: [m i m i n a ɾ i]
-          * むなさわぎ: [m ɯ n a s a w a ɟ i]
-          * といあわせ: [t o i a w a s e]
+          * ウガンダ: [ɯ ɡ a n d a]
+          * 海老鯛: [e b i t a i]
+          * たがやす: [t a ɡ a j a s ɨ]
+          * 絵描き: [e k a c i]
       * aː
         * Occurances: 2382
         * Examples
-          * セーラー: [s eː ɾ aː]
-          * ハンマーム: [h a mː aː m ɯ]
-          * サード: [s aː d o]
-          * ワーフー: [w aː ɸ ɯː]
+          * ステラー: [s ɨ̥ t e ɾ aː]
+          * ハイパー: [h a i p aː]
+          * ステッカー: [s ɨ̥ t e kː aː]
+          * ペッパー: [p e pː aː]
     ```
   - ```{ipa_cell}
     ```

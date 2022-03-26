@@ -28,7 +28,7 @@ lang_codes = ['czech', 'russian',
               'swedish',
               'tamil', 'thai',
               'turkish',
-              'english_us','english_uk','english_nigeria',
+              'english_us','english_us_arpa','english_uk','english_nigeria',
               'korean_jamo', 'korean',
               #'mandarin_hani'
               'hausa', 'swahili',
@@ -58,7 +58,13 @@ error_metrics = {}
 
 for lang in lang_codes:
     print(lang)
-    args = DefaultArgs(os.path.join(dictionary_dir, lang + '_mfa.dict'), os.path.join(output_dir, lang + '_mfa.zip'), temp_dir)
+    if lang.endswith('arpa'):
+        dict_path = os.path.join(dictionary_dir, lang + '.dict')
+        model_path = os.path.join(output_dir, lang + '.zip')
+    else:
+        dict_path = os.path.join(dictionary_dir, lang + '_mfa.dict')
+        model_path = os.path.join(output_dir, lang + '_mfa.zip')
+    args = DefaultArgs(dict_path, model_path, temp_dir)
     if os.path.exists(args.output_model_path):
         error_metrics[lang] = get_error_rates(lang)
         continue

@@ -13,6 +13,7 @@ from montreal_forced_aligner.dictionary.pronunciation import PronunciationDictio
 from montreal_forced_aligner.data import voiced_variants, voiceless_variants, PhoneSetType
 
 rng = np.random.default_rng(1234)
+random.seed(1234)
 
 
 def make_path_safe(string):

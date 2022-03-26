@@ -1,6 +1,7 @@
 import collections
 import json
 import os
+import time
 import requests
 from montreal_forced_aligner.models import MODEL_TYPES, ModelManager, ModelRelease
 
@@ -14,7 +15,7 @@ with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
 tag_template = "{model_type}-{model_name}-v{version}"
 
 manager = ModelManager()
-manager.refresh_remote()
+manager.refresh_remote(token=token)
 model_type_names ={
     'acoustic': 'Acoustic models',
     'dictionary': 'Pronunciation dictionaries',
@@ -67,7 +68,9 @@ for model_type, model_class in MODEL_TYPES.items():
                     existing = existing_releases[model_name]
                     if existing.version.replace('v', '') == version:
                         if UPDATE:
+                            print("UPDATING", existing.release_link)
                             r = requests.patch(existing.release_link, json={'body': readme})
+                            time.sleep(5)
                         continue
                 release = ModelRelease(model_name,tag, version, '','')
                 if model_type == 'dictionary':
@@ -87,6 +90,7 @@ for model_type, model_class in MODEL_TYPES.items():
                                   headers={'Accept': "application/vnd.github.v3+json",
                                                             'Authorization': f"token {token}"})
                 d = r.json()
+                time.sleep(5)
                 print(d)
                 with open(model_path, 'rb') as f:
                     data = f.read()
@@ -96,3 +100,4 @@ for model_type, model_class in MODEL_TYPES.items():
                     print(r2.json())
                 print(meta)
                 print(tag)
+                time.sleep(5)

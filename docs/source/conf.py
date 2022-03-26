@@ -112,6 +112,14 @@ xref_links = {
     "wikipedia": ("Wikipedia", "https://en.wikipedia.org/wiki/Main_Page"),
     "phoible": ("Phoible", "https://phoible.org/"),
     "xpf": ("XPF", "https://cohenpr-xpf.github.io/XPF/"),
+    "nagisa": ("Nagisa", "https://github.com/taishi-i/nagisa"),
+    "konlpy": ("KoNLPy", "https://konlpy.org/en/latest/"),
+    "spacy_pkuseg": ("spacy-pkuseg", "https://github.com/explosion/spacy-pkuseg/"),
+    "num2chinese": ("num2chinese.py", "https://gist.github.com/gumblex/0d65cad2ba607fd14de7"),
+    "hanziconv": ("hanziconv", "https://github.com/berniey/hanziconv"),
+    "num2words": ("hanziconv", "https://github.com/savoirfairelinux/num2words"),
+    "thai_word_segmentation": ("thai-word-segmentation", "https://github.com/sertiscorp/thai-word-segmentation"),
+    "mecab_ko": ("Mecab-KO", "https://bitbucket.org/eunjeon/mecab-ko/src/master/"),
 }
 
 needs_extra_links = [

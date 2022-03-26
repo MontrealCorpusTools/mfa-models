@@ -38,6 +38,7 @@ This page is under heavy construction as more languages get trained, so many lan
     * {ipa_inline}`[cʰ]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕʰ]` in Thai
     * {ipa_inline}`[tʃ]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕ]` in Tamil
     * {ipa_inline}`[ç]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ]` in Swedish
+* I have avoided having numeric characters in the pronunciation dictionaries, generally converted to the language's orthography via the {xref}`num2words` package.
 
 ```{note}
 
@@ -219,6 +220,18 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 ### Japanese
 
+Japanese does not represent word breaks in text, and is a heavily aggultinative language, so a pronunciation dictionary with discrete pronunciations isn't the best model for it.  As such for the purposes of building a lexicon and acoustic model, I used the {xref}`nagisa` morphological analyzer to split text for all corpora, even ones where there was some word break information to be consistent. However some postprocessing of the nagisa-split transcripts was necessary:
+
+* If a "word" ended in {ipa_inline}`っ` (chisai-tsu), then the following "word" was appended
+  * {ipa_inline}`行っ て` {ipa_icon}`right-arrow` {ipa_inline}`行って`
+  * Realization of {ipa_inline}`っ` is generally dependent on the following consonant
+* If a {ipa_inline}`つ` character was by itself and the previous word was a numeral 1-10, then the two words were combined
+  * {ipa_inline}`一 つ` {ipa_icon}`right-arrow` {ipa_inline}`一つ`
+  * Native counters with {ipa_inline}`つ` result in wholesale changes to the pronunciation, e.g. {ipa_inline}`一 [i tɕ i]` {ipa_inline}`一つ [ç i̥ t o ts ɨ]`
+* Any roman numerals were converted to Kanji
+  * {ipa_inline}`2010年` {ipa_icon}`right-arrow` {ipa_inline}`二千 二十 年`
+* Kanji pronunciations try to include all onyomi and kunyomi variants in case there's an issue with the morphological parse
+
 ```{admonition} Pronunciation dictionaries
    See {ref}`japanese_mfa_dictionary_v2_0_0` for full IPA charts.
 ```
@@ -263,7 +276,7 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 ### Korean
 
-I have largely followed the [Korean Phonology Wikipedia page](https://en.wikipedia.org/wiki/Korean_phonology).
+I have largely followed the [Korean Phonology Wikipedia page](https://en.wikipedia.org/wiki/Korean_phonology). Given the agglutinative nature of Korean, I have standardized text in corpora by processing them through the {xref}`mecab_ko` morphological parser using the {xref}`konlpy` package.  Additionally,  I have included G2P pronunciations of  the phonological transcriptions in :need:`Seoul Corpus`.
 
 ```{admonition} Pronunciation dictionaries
    See {ref}`korean_mfa_dictionary_v2_0_0` for full IPA charts.
@@ -297,6 +310,28 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
   * {ipa_inline}`가는쥐 [k ɐ n ɨ ɲ dʑ ɥ i]`
   * {ipa_inline}`가두녀성 [k ɐ d u ɲ j ʌ sʰ ʌ ŋ]`
   * {ipa_inline}`가시화될 [k ɐ ɕʰ i β w ɐ d w e ɭ]`
+
+### Mandarin
+
+Orthographic text transcriptions for Manadarin were segmented with the {xref}`spacy_pkuseg` package. Orthographic texts for Mainland Chinese corpora, {ref}`mandarin_(china)_mfa_dictionary_v2_0_0`, and {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0`  use simplified characters, while corpora for Taiwanese Mandarin and {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0` use traditional characters (converted where necessary with {xref}`hanziconv`. Roman numerals were converted to Chinese characters via {xref}`num2chinese`.
+
+Building the Mandarin dictionaries followed a slightly different process than the other dictionaries.  The base [Wikipron dictionary](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/cmn_hani_broad.tsv) contains forms collapsed across various dialects of Mandarin, as "Mandarin" itself functions as the dialect of Chinese on Wiktionary. I wrote a custom scraping script that funneled pronunciations into three dictionaries. If a pronunciation was marked with "Taiwan" or "Erhua", then it is present only in those respective dictionaries. Any pronunciation marked with just "Standard Chinese" was added to all dictionaries.
+
+For generating new pronunciations, the standard G2P process used for other languages does not work well (single characters correspond to multiple phones in a non-decomposable way). To get around this, I wrote a  custom script that assigns syllables to characters and compiles frequency representations of each character and all sequences of characters. Pronunciations generated for a novel compound is the combination of the longest matched subsequences. There are likely errors from tone sandhi or other phonological effects, but they should be represented by at least one combination of pronunciations, and by reusing common longer sequences, but it's definitely not perfect.
+
+```{admonition} Pronunciation dictionaries
+   See {ref}`mandarin_(china)_mfa_dictionary_v2_0_0`, {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0`, and {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0` for full IPA charts.
+```
+
+#### Mandarin consonants
+
+#### Mandarin vowels
+
+* **Tone variation:** In general, I have left  whatever variation was present in [Wikipron](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/cmn_hani_broad.tsv).
+* **Diphthongs:** As with other languages, diphthongs with high vowels are represented as having off-glides {ipa_inline}`[ej ow aw aj]`.Initial glids are separate from the vowel nucleus.
+  * {ipa_inline}`㑿 [ʈʂ aw˥˩]`
+  * {ipa_inline}`㒟 [n j aw˨˩˦]`
+  * {ipa_inline}`㑼 [l ɥ e˥˩]`
 
 ### Polish
 
@@ -375,7 +410,9 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 #### Swahili consonants
 
 * **Prenasalized obstruents:** Treated as sequences of nasal + obstruent
+  * {ipa_inline}`ndewe [n d ɛ w ɛ]`
 * **Implosives:** Voiced stops that are not following nasals are represented as implosives
+  * {ipa_inline}`mbabe [m b ɑ ɓ ɛ]`
 * **Aspiration:** Voiceless stops are all unaspirated, as it is not reflected in the orthography and I do not have a definitive source for which words contain aspirated stops vs plain
 * **Trills:** All instances of {ipa_inline}`/r/` are represented with a tap {ipa_inline}`[ɾ]`
 
@@ -383,7 +420,26 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 * **Vowel length:** Sequences of vowels are treated as long vowels
 
+### Swedish
+
+```{admonition} Pronunciation dictionaries
+   See {ref}`swedish_mfa_dictionary_v2_0_0` for full IPA charts.
+```
+
+#### Swedish consonants
+
+* **Dental consonants:** Alevolar obstruents and nasals are represented as dental {ipa_inline}`[t̪ d̪ s̪ n̪]`
+
+#### Swedish vowels
+
+* **Pitch accent:** Pitch accent markings for words on Wiktionary (superscript 1 or 2) and pitch accent markings on vowels have been expanded to use IPA tones
+  * {ipa_inline}`gifter /¹ j ɪ f t ɛ r/` {ipa_icon}`right-arrow` {ipa_inline}`[j ɪ˥˧ f t̪ ɛ˩ r]`
+  * {ipa_inline}`gifter /² j ɪ f t ɛ r/` {ipa_icon}`right-arrow` {ipa_inline}`[j ɪ˧˩ f t̪ ɛ˥˩ r]`
+  * {ipa_inline}`ära [ɛ̂ː r a]` {ipa_icon}`right-arrow` {ipa_inline}`[ɛː˧˩ r a˥˩]`
+
 ### Thai
+
+The Thai script does not use spaces to mark word boundaries[^Rikker], so corpus transcripts were parsed with the {xref}`thai_word_segmentation` package.
 
 ```{admonition} Pronunciation dictionaries
    See {ref}`thai_mfa_dictionary_v2_0_0` for full IPA charts.
@@ -475,5 +531,7 @@ Generally I have followed James Kirby's [vPhon](https://github.com/kirbyj/vPhon)
   * {ipa_inline}`chải [tɕ aː j ²¹²]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕ aː˨˩˨ j]`
 
 [^Gut_2008]: [Gut, U. B. (2008). Nigerian English: Phonology. Varieties of English, 4, 35-54.](https://books.google.com/books?hl=en&lr=&id=L1VhZHGupMUC&oi=fnd&pg=PA35&dq=ulrike+gut+nigerian+english&ots=TfokeOEyC-&sig=BJKonoVIpo59B19lWhioiyHc7xE#v=onepage&q=ulrike%20gut%20nigerian%20english&f=false)
+
+[^Rikker] I appreciate [Rikker Dockum](https://twitter.com/thai101) ([website](https://rikkerdockum.com/)) taking the time to answer my questions about various aspects of Thai and taking a look over some initial versions of the pronunciation dictionary!  Errors are still my own.
 
 [^except_maybe_Russian]: According to [a footnote on the Russian phonology wikipedia](https://en.wikipedia.org/wiki/Russian_phonology#cite_ref-56), the hard {ipa_inline}`[n̪]` does not assimilate in place.

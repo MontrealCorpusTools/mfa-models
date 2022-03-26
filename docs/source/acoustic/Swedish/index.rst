@@ -17,3 +17,4 @@ Swedish
    :hidden:
 
    Swedish CV acoustic model v2_0_0.md
+   Swedish MFA acoustic model v2_0_0.md

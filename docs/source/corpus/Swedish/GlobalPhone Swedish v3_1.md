@@ -20,4 +20,9 @@
    * {ref}`swedish_cv_dictionary_v2_0_0`
 * {ref}`swedish_mfa_dictionary_v2_0_0`
    ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`swedish_mfa_acoustic_model_v2_0_0`
+   ```
 ``````

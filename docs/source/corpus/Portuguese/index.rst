@@ -19,4 +19,5 @@ Portuguese
    Common Voice Portuguese v7_0.md
    Common Voice Portuguese v8_0.md
    Multilingual LibriSpeech Portuguese.md
+   Multilingual TEDx Portuguese.md
    GlobalPhone Portuguese (Brazilian) v3_1.md
