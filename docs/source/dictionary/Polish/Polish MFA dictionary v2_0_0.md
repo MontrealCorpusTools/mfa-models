@@ -22,6 +22,11 @@
    * {ref}`polish_mfa_g2p_model_v2_0_0`
    ```
 
+
+   ```{admonition} Acoustic models
+   * {ref}`polish_mfa_acoustic_model_v2_0_0`
+   ```
+
 ``````
 
 ```{include} ../../../../dictionary/polish/mfa/v2.0.0/README.md
@@ -54,17 +59,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 28995
         * Examples
-          * wyłam: [v ɨ w a m]
-          * szmer: [ʂ m ɛ r]
-          * maf: [ɛ m a ɛ f]
-          * sitom: [ɕ i t̪ ɔ m]
+          * szmat: [ʂ m a t̪]
+          * łbem: [w b ɛ m]
+          * maea: [m a ɛ a]
+          * igłom: [i ɡ w ɔ m]
       * mʲ
         * Occurances: 8485
         * Examples
-          * mimo: [mʲ i m ɔ]
-          * miętę: [mʲ ɛ n̪ t̪ ɛ]
-          * miedz: [mʲ ɛ t̪s̪]
-          * armję: [a r mʲ ɛ]
+          * mimi: [mʲ i mʲ i]
+          * eminę: [ɛ mʲ i n̪ ɛ]
+          * miętą: [mʲ ɛ n̪ t̪ ɔ̃]
+          * gzami: [ɡ z̪ a mʲ i]
     ```
   - ```{ipa_cell}
     ```
@@ -73,10 +78,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * n̪
         * Occurances: 46564
         * Examples
-          * dętą: [d̪ ɛ n̪ t̪ ɔ̃]
-          * kątów: [k ɔ n̪ t̪ u f]
-          * nuci: [n̪ u tɕ i]
-          * ocenę: [ɔ t̪s̪ ɛ n̪ ɛ]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * pcion: [p tɕ ɔ n̪]
+          * dęty: [d̪ ɛ n̪ t̪ ɨ]
+          * kąty: [k ɔ n̪ t̪ ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -87,20 +92,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 24267
         * Examples
-          * skłoń: [s̪ k w ɔ ɲ]
-          * moreń: [m ɔ r ɛ ɲ]
-          * sapoń: [s̪ a p ɔ ɲ]
-          * żeń: [ʐ ɛ ɲ]
+          * opiąć: [ɔ pʲ ɔ ɲ tɕ]
+          * bzdoń: [b z̪ d̪ ɔ ɲ]
+          * greń: [ɡ r ɛ ɲ]
+          * boguń: [b ɔ ɡ u ɲ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 1834
         * Examples
-          * sągol: [s̪ ɔ ŋ ɡ ɔ l]
-          * pęk: [p ɛ ŋ k]
-          * sęga: [s̪ ɛ ŋ ɡ a]
-          * okręg: [ɔ k r ɛ ŋ k]
+          * sąg: [s̪ ɔ ŋ k]
+          * pęgal: [p ɛ ŋ ɡ a l]
+          * okrąg: [ɔ k r ɔ ŋ k]
+          * osęk: [ɔ s̪ ɛ ŋ k]
     ```
   - ```{ipa_cell}
     ```
@@ -110,18 +115,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 30722
         * Examples
-          * ropy: [r ɔ p ɨ]
-          * pecet: [p ɛ t̪s̪ ɛ t̪]
-          * popas: [p ɔ p a s̪]
-          * paśli: [p a ɕ ʎ i]
+          * ropo: [r ɔ p ɔ]
+          * pcion: [p tɕ ɔ n̪]
+          * pop: [p ɔ p]
+          * paś: [p a ɕ]
     * voiced
       * b
         * Occurances: 14278
         * Examples
-          * brudu: [b r u d̪ u]
-          * beza: [b ɛ z̪ a]
-          * bóstw: [b u s̪ t̪ f]
-          * obuci: [ɔ b u tɕ i]
+          * łbem: [w b ɛ m]
+          * brud: [b r u t̪]
+          * bez: [b ɛ s̪]
+          * bór: [b u r]
     ```
   - ```{ipa_cell}
     ```
@@ -130,18 +135,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪
         * Occurances: 37628
         * Examples
-          * pecet: [p ɛ t̪s̪ ɛ t̪]
-          * sitom: [ɕ i t̪ ɔ m]
-          * pit: [pʲ i t̪]
-          * octom: [ɔ t̪s̪ t̪ ɔ m]
+          * szmat: [ʂ m a t̪]
+          * elekt: [ɛ l ɛ k t̪]
+          * brud: [b r u t̪]
+          * sito: [ɕ i t̪ ɔ]
     * voiced
       * d̪
         * Occurances: 20792
         * Examples
-          * jadą: [j a d̪ ɔ̃]
-          * hardą: [x a r d̪ ɔ̃]
-          * wydał: [v ɨ d̪ a w]
-          * brudu: [b r u d̪ u]
+          * jadów: [j a d̪ u f]
+          * hardy: [x a r d̪ ɨ]
+          * wydać: [v ɨ d̪ a tɕ]
+          * pajda: [p a j d̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -152,46 +157,46 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * c
         * Occurances: 8560
         * Examples
-          * deski: [d̪ ɛ s̪ c i]
-          * póki: [p u c i]
-          * kielc: [c ɛ l t̪s̪]
-          * łuski: [w u s̪ c i]
+          * osoki: [ɔ s̪ ɔ c i]
+          * babki: [b a p c i]
+          * kiego: [c ɛ ɡ ɔ]
+          * lalki: [l a l c i]
     * voiced
       * ɟ
         * Occurances: 1500
         * Examples
-          * srogi: [s̪ r ɔ ɟ i]
-          * giros: [ɟ i r ɔ s̪]
-          * giża: [ɟ i ʐ a]
-          * ongiś: [ɔ n̪ ɟ i ɕ]
+          * gira: [ɟ i r a]
+          * ligi: [ʎ i ɟ i]
+          * giś: [ɟ i ɕ]
+          * ongi: [ɔ n̪ ɟ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * k
         * Occurances: 35811
         * Examples
-          * rocka: [r ɔ t̪s̪ k a]
-          * pajok: [p a j ɔ k]
-          * skłoń: [s̪ k w ɔ ɲ]
-          * osoko: [ɔ s̪ ɔ k ɔ]
+          * rock: [r ɔ k]
+          * elekt: [ɛ l ɛ k t̪]
+          * skłot: [s̪ k w ɔ t̪]
+          * kąty: [k ɔ n̪ t̪ ɨ]
     * voiced
       * ɡ
         * Occurances: 15373
         * Examples
-          * igły: [i ɡ w ɨ]
-          * gałce: [ɡ a w t̪s̪ ɛ]
-          * growy: [ɡ r ɔ v ɨ]
-          * sągol: [s̪ ɔ ŋ ɡ ɔ l]
+          * sroga: [s̪ r ɔ ɡ a]
+          * igłom: [i ɡ w ɔ m]
+          * gałaś: [ɡ a w a ɕ]
+          * growi: [ɡ r ɔ vʲ i]
     ```
   - ```{ipa_cell}
     * voiceless
       * ʔ
         * Occurances: 114
         * Examples
-          * zoo: [z̪ ɔ ʔ ɔ]
-          * noo: [n̪ ɔ ʔ ɔ]
+          * green: [ɡ r ɛ ʔ ɛ n̪]
           * osp: [ɔ ʔ ɛ s̪ p ɛ]
-          * door: [d̪ ɔ ʔ ɔ r]
+          * zoo: [z̪ ɔ ʔ ɔ]
+          * moody: [m ɔ ʔ ɔ d̪ ɨ]
     ```
 * - {manner}`Affricate`
   - ```{ipa_cell}
@@ -203,18 +208,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * t̪s̪
         * Occurances: 16058
         * Examples
-          * pecet: [p ɛ t̪s̪ ɛ t̪]
-          * rocka: [r ɔ t̪s̪ k a]
-          * octom: [ɔ t̪s̪ t̪ ɔ m]
-          * gałce: [ɡ a w t̪s̪ ɛ]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * octem: [ɔ t̪s̪ t̪ ɛ m]
+          * oceną: [ɔ t̪s̪ ɛ n̪ ɔ̃]
+          * osoce: [ɔ s̪ ɔ t̪s̪ ɛ]
     * voiced
       * d̪z̪
         * Occurances: 1750
         * Examples
-          * widzę: [vʲ i d̪z̪ ɛ]
-          * wodzy: [v ɔ d̪z̪ ɨ]
-          * tędzy: [t̪ ɛ n̪ d̪z̪ ɨ]
-          * nudzą: [n̪ u d̪z̪ ɔ̃]
+          * idze: [i d̪z̪ ɛ]
+          * widzą: [vʲ i d̪z̪ ɔ̃]
+          * wodzu: [v ɔ d̪z̪ u]
+          * nędzę: [n̪ ɛ n̪ d̪z̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -225,18 +230,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 14464
         * Examples
-          * nuci: [n̪ u tɕ i]
-          * drzeć: [d̪ ʐ ɛ tɕ]
-          * obuci: [ɔ b u tɕ i]
-          * kłuć: [k w u tɕ]
+          * pcion: [p tɕ ɔ n̪]
+          * wydać: [v ɨ d̪ a tɕ]
+          * opiąć: [ɔ pʲ ɔ ɲ tɕ]
+          * wrzuć: [v ʐ u tɕ]
     * voiced
       * dʑ
         * Occurances: 4008
         * Examples
-          * idzie: [i dʑ ɛ]
-          * dźgać: [dʑ ɡ a tɕ]
+          * dźbik: [dʑ bʲ i k]
+          * dział: [dʑ a w]
           * dzicy: [dʑ i t̪s̪ ɨ]
-          * dzicz: [dʑ i tʂ]
+          * nudzi: [n̪ u dʑ i]
     ```
   - ```{ipa_cell}
     ```
@@ -252,18 +257,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s̪
         * Occurances: 34500
         * Examples
-          * srogi: [s̪ r ɔ ɟ i]
-          * popas: [p ɔ p a s̪]
-          * lasu: [l a s̪ u]
-          * skłoń: [s̪ k w ɔ ɲ]
+          * sroga: [s̪ r ɔ ɡ a]
+          * lasso: [l a s̪ ɔ]
+          * łóz: [w u s̪]
+          * skłot: [s̪ k w ɔ t̪]
     * voiced
       * z̪
         * Occurances: 18094
         * Examples
-          * uaz: [u a z̪ ɛ t̪]
-          * beza: [b ɛ z̪ a]
-          * zrost: [z̪ r ɔ s̪ t̪]
-          * zdrad: [z̪ d̪ r a t̪]
+          * pzł: [p ɛ z̪ ɛ t̪ ɛ w]
+          * zrobi: [z̪ r ɔ bʲ i]
+          * zgłoś: [z̪ ɡ w ɔ ɕ]
+          * zdołu: [z̪ d̪ ɔ w u]
     ```
   - ```{ipa_cell}
     ```
@@ -272,36 +277,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʂ
         * Occurances: 18606
         * Examples
-          * szmer: [ʂ m ɛ r]
-          * łóż: [w u ʂ]
-          * łasz: [w a ʂ]
-          * żresz: [ʐ r ɛ ʂ]
+          * szmat: [ʂ m a t̪]
+          * piszę: [pʲ i ʂ ɛ]
+          * show: [ʂ ɔ f]
+          * uszły: [u ʂ w ɨ]
     * voiced
       * ʐ
         * Occurances: 10361
         * Examples
-          * urażą: [u r a ʐ ɔ̃]
-          * drzeć: [d̪ ʐ ɛ tɕ]
-          * żyłaś: [ʐ ɨ w a ɕ]
-          * dużym: [d̪ u ʐ ɨ m]
+          * uraża: [u r a ʐ a]
+          * drzew: [d̪ ʐ ɛ f]
+          * żyłam: [ʐ ɨ w a m]
+          * duży: [d̪ u ʐ ɨ]
     ```
   - ```{ipa_cell}
     * voiceless
       * ɕ
         * Occurances: 11665
         * Examples
-          * paśli: [p a ɕ ʎ i]
-          * sitom: [ɕ i t̪ ɔ m]
-          * siała: [ɕ a w a]
-          * żyłaś: [ʐ ɨ w a ɕ]
+          * paś: [p a ɕ]
+          * sito: [ɕ i t̪ ɔ]
+          * gałaś: [ɡ a w a ɕ]
+          * siał: [ɕ a w]
     * voiced
       * ʑ
         * Occurances: 1826
         * Examples
-          * zimo: [ʑ i m ɔ]
-          * luźna: [l u ʑ n̪ a]
-          * zimnu: [ʑ i m n̪ u]
-          * jazie: [j a ʑ ɛ]
+          * zimną: [ʑ i m n̪ ɔ̃]
+          * zimno: [ʑ i m n̪ ɔ]
+          * jazi: [j a ʑ i]
+          * zieja: [ʑ ɛ j a]
     ```
   - ```{ipa_cell}
     ```
@@ -315,32 +320,32 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * f
         * Occurances: 11595
         * Examples
-          * elf: [ɛ l f]
-          * maf: [ɛ m a ɛ f]
-          * wsem: [f s̪ ɛ m]
-          * kątów: [k ɔ n̪ t̪ u f]
+          * jadów: [j a d̪ u f]
+          * wse: [f s̪ ɛ]
+          * drzew: [d̪ ʐ ɛ f]
+          * show: [ʂ ɔ f]
       * fʲ
         * Occurances: 2456
         * Examples
-          * firak: [fʲ i r a k]
-          * tkwić: [t̪ k fʲ i tɕ]
-          * filet: [fʲ i l ɛ t̪]
-          * firma: [fʲ i r m a]
+          * fioł: [fʲ ɔ w]
+          * filc: [fʲ i l t̪s̪]
+          * kofi: [k ɔ fʲ i]
+          * firm: [fʲ i r m]
     * voiced
       * v
         * Occurances: 27062
         * Examples
-          * wrę: [v r ɛ]
-          * wyłam: [v ɨ w a m]
-          * wydał: [v ɨ d̪ a w]
-          * growy: [ɡ r ɔ v ɨ]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * wyła: [v ɨ w a]
+          * wydać: [v ɨ d̪ a tɕ]
+          * iwę: [i v ɛ]
       * vʲ
         * Occurances: 11381
         * Examples
-          * widna: [vʲ i d̪ n̪ a]
-          * bawi: [b a vʲ i]
-          * widzę: [vʲ i d̪z̪ ɛ]
-          * dawid: [d̪ a vʲ i t̪]
+          * growi: [ɡ r ɔ vʲ i]
+          * kawie: [k a vʲ ɛ]
+          * widmo: [vʲ i d̪ m ɔ]
+          * widzą: [vʲ i d̪z̪ ɔ̃]
     ```
   - ```{ipa_cell}
     ```
@@ -353,10 +358,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 629
         * Examples
-          * hiob: [ç j ɔ p]
-          * hill: [ç i l]
-          * hipis: [ç i pʲ i s̪]
-          * asahi: [a s̪ a ç i]
+          * hindi: [ç i n̪ d̪ i]
+          * tchir: [t̪ ç i r]
+          * hil: [ç i l]
+          * hip: [ç i p]
     ```
   - ```{ipa_cell}
     ```
@@ -368,10 +373,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 25779
         * Examples
-          * wyłam: [v ɨ w a m]
-          * łbie: [w bʲ ɛ]
-          * wydał: [v ɨ d̪ a w]
-          * igły: [i ɡ w ɨ]
+          * wyła: [v ɨ w a]
+          * łbem: [w b ɛ m]
+          * igłom: [i ɡ w ɔ m]
+          * łóz: [w u s̪]
     ```
   - ```{ipa_cell}
     ```
@@ -386,15 +391,15 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 23386
         * Examples
-          * jadą: [j a d̪ ɔ̃]
-          * pajok: [p a j ɔ k]
-          * juhas: [j u x a s̪]
-          * jaków: [j a k u f]
+          * jadów: [j a d̪ u f]
+          * pajda: [p a j d̪ a]
+          * jue: [j u]
+          * line: [l a j n̪]
       * j̃
         * Occurances: 1609
         * Examples
-          * tańsi: [t̪ a j̃ ɕ i]
           * mińsk: [mʲ i j̃ s̪ k]
+          * tańsi: [t̪ a j̃ ɕ i]
           * pińsk: [pʲ i j̃ s̪ k]
     ```
   - ```{ipa_cell}
@@ -413,17 +418,17 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * r
         * Occurances: 42935
         * Examples
-          * czara: [tʂ a r a]
-          * wrę: [v r ɛ]
-          * ropy: [r ɔ p ɨ]
-          * srogi: [s̪ r ɔ ɟ i]
+          * czar: [tʂ a r]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * ropo: [r ɔ p ɔ]
+          * sroga: [s̪ r ɔ ɡ a]
       * rʲ
         * Occurances: 845
         * Examples
-          * prid: [p rʲ i t̪]
-          * trik: [t̪ rʲ i k]
+          * erika: [ɛ rʲ i k a]
+          * frita: [f rʲ i t̪ a]
           * strit: [s̪ t̪ rʲ i t̪]
-          * ricie: [rʲ i tɕ ɛ]
+          * drink: [d̪ rʲ i n̪ k]
     ```
   - ```{ipa_cell}
     ```
@@ -445,10 +450,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * l
         * Occurances: 19611
         * Examples
-          * lasu: [l a s̪ u]
-          * elf: [ɛ l f]
-          * kult: [k u l t̪]
-          * sągol: [s̪ ɔ ŋ ɡ ɔ l]
+          * lasso: [l a s̪ ɔ]
+          * elekt: [ɛ l ɛ k t̪]
+          * tarle: [t̪ a r l ɛ]
+          * kulon: [k u l ɔ n̪]
     ```
   - ```{ipa_cell}
     ```
@@ -457,10 +462,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 7801
         * Examples
-          * paśli: [p a ɕ ʎ i]
-          * tarli: [t̪ a r ʎ i]
-          * linem: [ʎ i n̪ ɛ m]
-          * kulik: [k u ʎ i k]
+          * kulig: [k u ʎ i k]
+          * ligi: [ʎ i ɟ i]
+          * palić: [p a ʎ i tɕ]
+          * lisku: [ʎ i s̪ k u]
     ```
   - ```{ipa_cell}
     ```
@@ -492,10 +497,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 45936
         * Examples
-          * srogi: [s̪ r ɔ ɟ i]
-          * paśli: [p a ɕ ʎ i]
-          * sitom: [ɕ i t̪ ɔ m]
-          * igły: [i ɡ w ɨ]
+          * sito: [ɕ i t̪ ɔ]
+          * igłom: [i ɡ w ɔ m]
+          * idze: [i d̪z̪ ɛ]
+          * piszę: [pʲ i ʂ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -504,10 +509,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 46173
         * Examples
-          * ropy: [r ɔ p ɨ]
-          * wyłam: [v ɨ w a m]
-          * wydał: [v ɨ d̪ a w]
-          * igły: [i ɡ w ɨ]
+          * wyła: [v ɨ w a]
+          * hardy: [x a r d̪ ɨ]
+          * wydać: [v ɨ d̪ a tɕ]
+          * dęty: [d̪ ɛ n̪ t̪ ɨ]
     ```
   - ```{ipa_cell}
     ```
@@ -516,10 +521,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 34225
         * Examples
-          * urażą: [u r a ʐ ɔ̃]
-          * lasu: [l a s̪ u]
-          * brudu: [b r u d̪ u]
-          * łóż: [w u ʂ]
+          * jadów: [j a d̪ u f]
+          * uraża: [u r a ʐ a]
+          * brud: [b r u t̪]
+          * łóz: [w u s̪]
     ```
 * -
   - ```{ipa_cell}
@@ -560,10 +565,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ
         * Occurances: 87554
         * Examples
-          * wrę: [v r ɛ]
-          * pecet: [p ɛ t̪s̪ ɛ t̪]
-          * szmer: [ʂ m ɛ r]
-          * łbie: [w bʲ ɛ]
+          * łbem: [w b ɛ m]
+          * elekt: [ɛ l ɛ k t̪]
+          * maea: [m a ɛ a]
+          * idze: [i d̪z̪ ɛ]
     ```
   - ```{ipa_cell}
     ```
@@ -576,10 +581,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ
         * Occurances: 90227
         * Examples
-          * ropy: [r ɔ p ɨ]
-          * srogi: [s̪ r ɔ ɟ i]
-          * popas: [p ɔ p a s̪]
-          * rocka: [r ɔ t̪s̪ k a]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * ropo: [r ɔ p ɔ]
+          * sroga: [s̪ r ɔ ɡ a]
+          * pcion: [p tɕ ɔ n̪]
     ```
 * -
   - ```{ipa_cell}
@@ -602,10 +607,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * a
         * Occurances: 109699
         * Examples
-          * czara: [tʂ a r a]
-          * jadą: [j a d̪ ɔ̃]
-          * urażą: [u r a ʐ ɔ̃]
-          * wyłam: [v ɨ w a m]
+          * czar: [tʂ a r]
+          * jadów: [j a d̪ u f]
+          * sroga: [s̪ r ɔ ɡ a]
+          * uraża: [u r a ʐ a]
     ```
   - ```{ipa_cell}
     ```
@@ -677,10 +682,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɛ̃
         * Occurances: 1176
         * Examples
-          * pęza: [p ɛ̃ z̪ a]
-          * węsz: [v ɛ̃ ʂ]
-          * mięso: [mʲ ɛ̃ s̪ ɔ]
-          * rzęzi: [ʐ ɛ̃ ʑ i]
+          * gałęź: [ɡ a w ɛ̃ ɕ]
+          * pęz: [p ɛ̃ s̪]
+          * zakęś: [z̪ a k ɛ̃ ɕ]
+          * pięch: [pʲ ɛ̃ x]
     ```
   - ```{ipa_cell}
     ```
@@ -693,10 +698,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɔ̃
         * Occurances: 7213
         * Examples
-          * jadą: [j a d̪ ɔ̃]
-          * urażą: [u r a ʐ ɔ̃]
-          * hardą: [x a r d̪ ɔ̃]
-          * dętą: [d̪ ɛ n̪ t̪ ɔ̃]
+          * wrącą: [v r ɔ n̪ t̪s̪ ɔ̃]
+          * ladą: [l a d̪ ɔ̃]
+          * oceną: [ɔ t̪s̪ ɛ n̪ ɔ̃]
+          * rurą: [r u r ɔ̃]
     ```
 * -
   - ```{ipa_cell}

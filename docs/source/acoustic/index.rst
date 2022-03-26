@@ -33,6 +33,7 @@ Acoustic models
    Hungarian/index.rst
    Italian/index.rst
    Kazakh/index.rst
+   Korean/index.rst
    Kurmanji/index.rst
    Kyrgyz/index.rst
    Polish/index.rst

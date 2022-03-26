@@ -330,16 +330,19 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
         * Examples
           * ubrzo: [u˦˨ b rː z̪ o]
       * r̩
-        * Occurances: 4
+        * Occurances: 322
         * Examples
-          * vedro: [v e d̪ r̩ o]
+          * prvih: [p r̩˨˦ v i x]
+          * mrkov: [m r̩˨˦ k o v]
+          * prka: [p r̩˨˦ k a]
+          * drže: [d̪ r̩˨˦ ʐ eː]
       * r̩ː
         * Occurances: 169
         * Examples
-          * vrsta: [v r̩ː˨˦ s̪ t̪ a]
-          * mrs: [m r̩ː˦˨ s̪]
-          * krpež: [k r̩ː˨˦ p e ʐ]
           * brko: [b r̩ː˨˦ k o]
+          * tvrd: [t̪ v r̩ː˦˨ d̪]
+          * krpež: [k r̩ː˨˦ p e ʐ]
+          * vrsta: [v r̩ː˨˦ s̪ t̪ a]
     ```
   - ```{ipa_cell}
     ```
@@ -400,19 +403,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 27476
+        * Occurances: 22690
         * Examples
-          * mniti: [m n i˦˨ t̪ i]
+          * jamči: [j a˦˨ m tʂ i]
+          * orati: [o˨˦ r a t̪ i]
           * slici: [s̪ l i˨˦ t̪s̪ i]
-          * čizma: [tʂ i˦˨ z̪ m a]
-          * židov: [ʐ i˨˦ d̪ o v]
+          * sferi: [s̪ f e˨˦ r i]
       * iː
-        * Occurances: 5592
+        * Occurances: 7877
         * Examples
-          * radič: [r a˨˦ d̪ iː tʂ]
-          * irski: [iː˦˨ r s̪ k iː]
           * marki: [m a˦˨ r k iː]
-          * novim: [n o˨˦ v iː m]
+          * kifla: [k iː˨˦ f l a]
+          * irski: [iː˦˨ r s̪ k iː]
+          * zbiva: [z̪ b iː˨˦ v a]
     ```
   - ```{ipa_cell}
     ```
@@ -430,12 +433,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * tulum: [t̪ u˨˦ l u m]
           * vodu: [v o d̪ u]
       * uː
-        * Occurances: 1825
+        * Occurances: 990
         * Examples
-          * limun: [l i˦˨ m uː n]
-          * buna: [b uː˨˦ n a]
-          * buku: [b u˦˨ k uː]
+          * ključ: [k ʎ uː˦˨ tʂ]
+          * burma: [b uː˦˨ r m a]
           * tup: [t̪ uː˦˨ p]
+          * buku: [b u˦˨ k uː]
     ```
 * -
   - ```{ipa_cell}
@@ -452,12 +455,12 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 15382
+        * Occurances: 16972
         * Examples
-          * sjera: [ɕ e˦˨ r a]
-          * kenzo: [k e˦˨ n z̪ o]
-          * vjeđa: [v j e˦˨ dʑ a]
-          * robe: [r o˦˨ b e]
+          * elzas: [e˨˦ l z̪ a s̪]
+          * sonde: [s̪ o n d̪ e]
+          * jean: [j e˨˦ aː n]
+          * sferi: [s̪ f e˨˦ r i]
       * eː
         * Occurances: 2029
         * Examples
@@ -477,16 +480,16 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 22565
         * Examples
-          * kenzo: [k e˦˨ n z̪ o]
-          * gabor: [ɡ aː˦˨ b o r]
           * osuda: [o˦˨ s̪ u d̪ a]
-          * robe: [r o˦˨ b e]
+          * carlo: [t̪s̪ a˦˨ r l o]
+          * lopar: [l o˨˦ p aː r]
+          * kenzo: [k e˦˨ n z̪ o]
       * oː
         * Occurances: 3347
         * Examples
-          * tore: [t̪ oː˦˨ r e]
           * papom: [p a˦˨ p oː m]
           * mojih: [m oː˨˦ j i x]
+          * tore: [t̪ oː˦˨ r e]
           * vagon: [v a˨˦ ɡ oː n]
     ```
 * -
@@ -530,19 +533,19 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 31196
+        * Occurances: 24563
         * Examples
           * ladan: [l aː˨˦ d̪ a n]
-          * aras: [a˨˦ r aː s̪]
-          * carlo: [t̪s̪ a˦˨ r l o]
           * magma: [m a˨˦ ɡ m a]
+          * osuda: [o˦˨ s̪ u d̪ a]
+          * priča: [p r iː˦˨ tʂ a]
       * aː
-        * Occurances: 7818
+        * Occurances: 3936
         * Examples
-          * grana: [ɡ r aː˨˦ n a]
           * jean: [j e˨˦ aː n]
+          * lopar: [l o˨˦ p aː r]
           * aras: [a˨˦ r aː s̪]
-          * ladan: [l aː˨˦ d̪ a n]
+          * uzdah: [u˦˨ z̪ d̪ aː x]
     ```
   - ```{ipa_cell}
     ```

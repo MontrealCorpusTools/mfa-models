@@ -1,13 +1,13 @@
 
 
-.. _acoustic_polish:
+.. _acoustic_korean:
 
-Polish
+Korean
 ======
 
 .. needtable::
    :types: acoustic
-   :filter: language == "Polish"
+   :filter: language == "Korean"
    :style: datatable
    :columns: ID;language;dialect;phoneset;license
    :class: table-striped
@@ -16,5 +16,4 @@ Polish
 .. toctree::
    :hidden:
 
-   Polish CV acoustic model v2_0_0.md
-   Polish MFA acoustic model v2_0_0.md
+   Korean MFA acoustic model v2_0_0.md

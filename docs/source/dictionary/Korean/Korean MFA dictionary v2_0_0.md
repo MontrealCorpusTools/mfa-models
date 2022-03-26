@@ -22,6 +22,11 @@
    * {ref}`korean_mfa_g2p_model_v2_0_0`
    ```
 
+
+   ```{admonition} Acoustic models
+   * {ref}`korean_mfa_acoustic_model_v2_0_0`
+   ```
+
 ``````
 
 ```{include} ../../../../dictionary/korean/mfa/v2.0.0/README.md
@@ -52,20 +57,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * m
         * Occurances: 15980
         * Examples
-          * 니호늄: [n i β o ɲ u m]
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
-          * 비매품: [p iː m eː pʰ u m]
-          * 몰아내: [m o ɾ ɐ n eː]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
+          * 비망록: [p iː m ɐ ŋ n o k̚]
+          * 몰아갈: [m o ɾ ɐ ɡ ɐ ɭ]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
     ```
   - ```{ipa_cell}
     * other
       * n
         * Occurances: 30413
         * Examples
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 니호늄: [n i β o ɲ u m]
-          * 시킨다: [ɕʰ iː kʰ iː n t ɐ]
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 니트릴: [n i tʰ ɨ ɾ i ɭ]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
     ```
   - ```{ipa_cell}
     ```
@@ -74,20 +79,20 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɲ
         * Occurances: 3657
         * Examples
-          * 니호늄: [n i β o ɲ u m]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
-          * 순자산액은: [sʰ u ɲ dʑ ɐ sʰ ɐ n eː ɡ ɨ n]
-          * 뉴스타파는: [ɲ u s ɨ tʰ ɐ pʰ ɐ n ɨ n]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 산적한: [sʰ ɐ ɲ dʑ ʌ kʰ ɐ n]
+          * 순자산: [sʰ u ɲ tɕ ɐ sʰ ɐ n]
+          * 뉴스타파: [ɲ u s ɨ tʰ ɐ pʰ ɐ]
     ```
   - ```{ipa_cell}
     * other
       * ŋ
         * Occurances: 16306
         * Examples
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
-          * 예상보다: [j eː sʰ ɐ ŋ b o d ɐ]
-          * 경험하고: [k j ʌ ŋ h ʌ m h ɐ ɡ o]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 비망록: [p iː m ɐ ŋ n o k̚]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
+          * 복용량: [p o ɡ j o ŋ ɲ ɐ ŋ]
     ```
   - ```{ipa_cell}
     ```
@@ -97,36 +102,36 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * p
         * Occurances: 5660
         * Examples
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 불란서어: [p u ɭ ɭ ɐ n sʰ ʌ ʌ]
-          * 보도진: [p o d o dʑ i n]
-          * 비매품: [p iː m eː pʰ u m]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 불란서: [p u ɭ ɭ ɐ n sʰ ʌ]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
+          * 비망록: [p iː m ɐ ŋ n o k̚]
     * voiced
       * b
         * Occurances: 4326
         * Examples
-          * 서브컬처: [sʰ ʌ b ɨ kʰ ʌ ʎ tɕʰ ʌ]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 사법처리할: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i ɦ ɐ ɭ]
-          * 얼어붙: [ʌ ɾ ʌ b u t̚]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 일베에: [i ɭ b e e]
+          * 사법처리: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i]
+          * 출발해: [tɕʰ u ɭ b ɐ ɾ h eː]
     ```
   - ```{ipa_cell}
     * voiceless
       * t
         * Occurances: 4120
         * Examples
-          * 시킨다: [ɕʰ iː kʰ iː n t ɐ]
-          * 던져진: [t ʌː ɲ dʑ ʌ dʑ i n]
-          * 다해서: [t ɐ ɦ eː sʰ ʌ]
-          * 들어가려면: [t ɨ ɾ ʌ ɡ ɐ ɾ j ʌ m j ʌ n]
+          * 던져줌: [t ʌː ɲ dʑ ʌ dʑ u m]
+          * 다하십시오: [t ɐ ɦ ɐ ɕʰ i p ɕ͈ i o]
+          * 들어가다: [t ɨ ɾ ʌ ɡ ɐ d ɐ]
+          * 돗자리: [t o t̚ tɕʰ ɐ ɾ i]
     * voiced
       * d
         * Occurances: 10317
         * Examples
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
-          * 보도진: [p o d o dʑ i n]
-          * 발견된: [p ɐ ɭ ɡ j ʌ n d w e n]
-          * 예상보다: [j eː sʰ ɐ ŋ b o d ɐ]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 지적하다: [tɕ i dʑ ʌ kʰ ɐ d ɐ]
+          * 따라가다: [t͈ ɐ ɾ ɐ ɡ ɐ d ɐ]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
     ```
   - ```{ipa_cell}
     ```
@@ -137,18 +142,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * k
         * Occurances: 9368
         * Examples
-          * 가지고: [k ɐ dʑ i ɡ o]
-          * 경험하고: [k j ʌ ŋ h ʌ m h ɐ ɡ o]
-          * 건너다: [k ʌː n n ʌ d ɐ]
-          * 목소리로: [m o k s o ɾ i ɾ o]
+          * 가지게: [k ɐ dʑ i ɡ e]
+          * 경험치: [k j ʌ ŋ h ʌ m tɕʰ i]
+          * 건너갔: [k ʌː n n ʌ ɡ ɐ t̚]
+          * 목소리도: [m o k s o ɾ i d o]
     * voiced
       * ɡ
         * Occurances: 13510
         * Examples
-          * 따라가려는: [t͈ ɐ ɾ ɐ ɡ ɐ ɾ j ʌ n ɨ n]
-          * 순자산액은: [sʰ u ɲ dʑ ɐ sʰ ɐ n eː ɡ ɨ n]
-          * 털기에: [tʰ ʌ ɭ ɡ i e]
-          * 가지고: [k ɐ dʑ i ɡ o]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 따라가다: [t͈ ɐ ɾ ɐ ɡ ɐ d ɐ]
+          * 털기가: [tʰ ʌ ɭ ɡ i ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -164,18 +169,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * tɕ
         * Occurances: 6818
         * Examples
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
-          * 잘못했을: [tɕ ɐ ɭ m o tʰ eː s ɨ ɭ]
-          * 주관적: [tɕ u ɡ w ɐ ɲ dʑ ʌ k̚]
-          * 자낳괴: [tɕ ɐ n ɐ ɡ w e]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 지적하다: [tɕ i dʑ ʌ kʰ ɐ d ɐ]
+          * 순자산: [sʰ u ɲ tɕ ɐ sʰ ɐ n]
     * voiced
       * dʑ
         * Occurances: 8815
         * Examples
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
+          * 시키는거죠: [ɕʰ iː kʰ iː n ɨ n ɡ ʌ dʑ o]
+          * 산적한: [sʰ ɐ ɲ dʑ ʌ kʰ ɐ n]
+          * 지적하다: [tɕ i dʑ ʌ kʰ ɐ d ɐ]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
     ```
   - ```{ipa_cell}
     ```
@@ -189,10 +194,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s
         * Occurances: 2334
         * Examples
-          * 뉴스타파는: [ɲ u s ɨ tʰ ɐ pʰ ɐ n ɨ n]
-          * 출사를: [tɕʰ u ɭ s ɐ ɾ ɨ ɭ]
-          * 했을까요: [h eː s ɨ ɭ k͈ ɐ j o]
-          * 목소리로: [m o k s o ɾ i ɾ o]
+          * 뉴스타파: [ɲ u s ɨ tʰ ɐ pʰ ɐ]
+          * 했을까: [h eː s ɨ ɭ k͈ ɐ]
+          * 목소리도: [m o k s o ɾ i d o]
+          * 발사된: [p ɐ ɭ s ɐ d w e n]
     ```
   - ```{ipa_cell}
     ```
@@ -210,10 +215,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * s͈
         * Occurances: 1120
         * Examples
-          * 글쎄요: [k ɨ ɭ s͈ e j o]
-          * 내세웠던: [n eː sʰ e w ʌ s͈ d ʌ n]
-          * 쌍두마차: [s͈ ɐ ŋ d u m ɐ tɕʰ ɐ]
-          * 왔었고: [w ɐ s͈ ʌ t̚ ɡ o]
+          * 주고받았고: [tɕ u ɡ o b ɐ d ɐ s͈ ɡ o]
+          * 글쓴이: [k ɨ ɭ s͈ ɨ n i]
+          * 쌍동이: [s͈ ɐ ŋ d o ŋ i]
+          * 취했기: [tɕʰ ɥ iː ɦ eː s͈ ɡ i]
     ```
   - ```{ipa_cell}
     ```
@@ -222,10 +227,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕ͈
         * Occurances: 800
         * Examples
-          * 글씨로: [k ɨ ɭ ɕ͈ i ɾ o]
-          * 아가씨가: [ɐ ɡ ɐ ɕ͈ i ɡ ɐ]
-          * 초등학생은: [tɕʰ o d ɨ ŋ h ɐ k ɕ͈ eː ŋ ɨ n]
-          * 이송됐지만: [i sʰ o ŋ d w eː ɕ͈ tɕʰ i m ɐ n]
+          * 리터씩: [ɾ i tʰ ʌ ɕ͈ i k̚]
+          * 다하십시오: [t ɐ ɦ ɐ ɕʰ i p ɕ͈ i o]
+          * 절약시킬: [tɕ ʌ ɾ j ɐ k ɕ͈ i kʰ i ɭ]
+          * 한식집을: [h ɐ n ɕ͈ i k̚ tɕʰ i m ɨ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -239,10 +244,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * sʰ
         * Occurances: 12406
         * Examples
-          * 서브컬처: [sʰ ʌ b ɨ kʰ ʌ ʎ tɕʰ ʌ]
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 산적한: [sʰ ɐ ɲ dʑ ʌ kʰ ɐ n]
+          * 불란서: [p u ɭ ɭ ɐ n sʰ ʌ]
+          * 순자산: [sʰ u ɲ tɕ ɐ sʰ ɐ n]
     ```
   - ```{ipa_cell}
     ```
@@ -251,10 +256,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɕʰ
         * Occurances: 3660
         * Examples
-          * 시킨다: [ɕʰ iː kʰ iː n t ɐ]
-          * 출정식: [tɕʰ u ʎ dʑ ʌ ŋ ɕʰ i k̚]
-          * 곳이어야: [k o ɕʰ i ʌ j ɐ]
-          * 한심한데: [h ɐ n ɕʰ i m h ɐ n d e]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 곳이다: [k o ɕʰ i d ɐ]
+          * 다하십시오: [t ɐ ɦ ɐ ɕʰ i p ɕ͈ i o]
+          * 감시를: [k ɐ m ɕʰ i ɾ ɨ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -266,10 +271,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɸ
         * Occurances: 1021
         * Examples
-          * 희생을: [ɸ ɰ i sʰ eː ŋ ɨ ɭ]
-          * 획일적: [ɸ w eː ɡ i ʎ tɕ ʌ k̚]
-          * 호기심: [ɸ oː ɡ i ɕʰ i m]
-          * 홀리다: [ɸ o ʎ ʎ i d ɐ]
+          * 획득하다: [ɸ w e k̚ tʰ ɨ kʰ ɐ d ɐ]
+          * 호가호위를: [ɸ o ɡ ɐ β o ɥ i ɾ ɨ ɭ]
+          * 홀로서기: [ɸ o ɭ ɭ o sʰ ʌ ɡ i]
+          * 환경을: [ɸ w ɐ n ɡ j ʌ ŋ ɨ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -280,18 +285,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ç
         * Occurances: 477
         * Examples
-          * 희생을: [ç i sʰ eː ŋ ɨ ɭ]
-          * 향하고: [ç ɐ ŋ h ɐ ɡ o]
-          * 현상을: [ç ʌ n sʰ ɐ ŋ ɨ ɭ]
-          * 현모씨가: [ç ʌ n m o ɕ͈ i ɡ ɐ]
+          * 희생양: [ç i sʰ eː ŋ j ɐ ŋ]
+          * 향하게: [ç ɐ ŋ h ɐ ɡ e]
+          * 현상은: [ç ʌ n sʰ ɐ ŋ ɨ n]
+          * 현명할: [ç ʌ n m j ʌ ŋ h ɐ ɭ]
     * voiced
       * ʝ
         * Occurances: 859
         * Examples
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
-          * 잠잠히: [tɕ ɐ m dʑ ɐ m ʝ i]
-          * 표현을: [pʰ j o ʝ ʌ n ɨ ɭ]
-          * 순전히: [sʰ u ɲ dʑ ʌ n ʝ i]
+          * 고혈압처럼: [k o ʝ ʌ ɾ ɐ p̚ tɕʰ ʌ ɾ ʌ m]
+          * 무수히: [m uː sʰ u ʝ i]
+          * 표현은: [pʰ j o ʝ ʌ n ɨ n]
+          * 대한변협은: [t eː ɦ ɐ n b j ʌ n ʝ ʌ pʰ ɨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -300,18 +305,18 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * h
         * Occurances: 4632
         * Examples
-          * 복원하지: [p o ɡ w ʌ n h ɐ dʑ i]
-          * 경험하고: [k j ʌ ŋ h ʌ m h ɐ ɡ o]
-          * 했을까요: [h eː s ɨ ɭ k͈ ɐ j o]
-          * 헤매고: [h e m eː ɡ o]
+          * 출발해: [tɕʰ u ɭ b ɐ ɾ h eː]
+          * 경험치: [k j ʌ ŋ h ʌ m tɕʰ i]
+          * 했을까: [h eː s ɨ ɭ k͈ ɐ]
+          * 헤르츠: [h e ɾ ɨ tɕʰ ɨ]
     * voiced
       * ɦ
         * Occurances: 2207
         * Examples
-          * 사법처리할: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i ɦ ɐ ɭ]
-          * 위치하다: [ɥ i tɕʰ i ɦ ɐ d ɐ]
-          * 다해서: [t ɐ ɦ eː sʰ ʌ]
-          * 대기하고: [t eː ɡ i ɦ ɐ ɡ o]
+          * 불가피한: [p u ɭ ɡ ɐ pʰ i ɦ ɐ n]
+          * 위치하고: [ɥ i tɕʰ i ɦ ɐ ɡ o]
+          * 다하십시오: [t ɐ ɦ ɐ ɕʰ i p ɕ͈ i o]
+          * 연기한다고: [j ʌː n ɡ i ɦ ɐ n d ɐ ɡ o]
     ```
 * - {manner}`Approximant`
   - ```{ipa_cell}
@@ -319,10 +324,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * w
         * Occurances: 7410
         * Examples
-          * 발견된: [p ɐ ɭ ɡ j ʌ n d w e n]
-          * 복원하지: [p o ɡ w ʌ n h ɐ dʑ i]
-          * 스커트와: [sʰ ɨ kʰ ʌ tʰ ɨ w ɐ]
-          * 주관적: [tɕ u ɡ w ɐ ɲ dʑ ʌ k̚]
+          * 발견되다: [p ɐ ɭ ɡ j ʌ n d w e d ɐ]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
+          * 부위원장: [p u ɥ i w ʌ ɲ dʑ ɐ ŋ]
+          * 발사된: [p ɐ ɭ s ɐ d w e n]
     ```
   - ```{ipa_cell}
     ```
@@ -333,27 +338,27 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * j
         * Occurances: 12379
         * Examples
-          * 따라가려는: [t͈ ɐ ɾ ɐ ɡ ɐ ɾ j ʌ n ɨ n]
-          * 발견된: [p ɐ ɭ ɡ j ʌ n d w e n]
-          * 예상보다: [j eː sʰ ɐ ŋ b o d ɐ]
-          * 경험하고: [k j ʌ ŋ h ʌ m h ɐ ɡ o]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
+          * 발견되다: [p ɐ ɭ ɡ j ʌ n d w e d ɐ]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
+          * 보이려고: [p o i ɾ j ʌ ɡ o]
       * ɥ
         * Occurances: 1129
         * Examples
-          * 위치하다: [ɥ i tɕʰ i ɦ ɐ d ɐ]
-          * 부위인: [p u ɥ i n]
-          * 방통위: [p ɐ ŋ tʰ o ŋ ɥ i]
-          * 취향이: [tɕʰ ɥ iː ʝ ɐ ŋ i]
+          * 위치하고: [ɥ i tɕʰ i ɦ ɐ ɡ o]
+          * 부위원장: [p u ɥ i w ʌ ɲ dʑ ɐ ŋ]
+          * 호가호위를: [ɸ o ɡ ɐ β o ɥ i ɾ ɨ ɭ]
+          * 방위산업체: [p ɐ ŋ ɥ i sʰ ɐ n ʌ p̚ tɕʰ e]
     ```
   - ```{ipa_cell}
     * other
       * ɰ
         * Occurances: 1777
         * Examples
-          * 희생을: [ɸ ɰ i sʰ eː ŋ ɨ ɭ]
-          * 가계의: [k ɐ ɡ j e ɰ i]
-          * 주택의: [tɕ u t̚ eː ɡ ɰ i]
-          * 지의류: [tɕ i ɰ i ɾ j u]
+          * 미립자의: [m i ɾ i p̚ tɕʰ ɐ ɰ i]
+          * 몰도바의: [m o ɭ d o b ɐ ɰ i]
+          * 강남의: [k ɐ ŋ n ɐ m ɰ i]
+          * 면발의: [m j ʌ n b ɐ ɾ ɰ i]
     ```
   - ```{ipa_cell}
     ```
@@ -365,10 +370,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɾ
         * Occurances: 12333
         * Examples
-          * 따라가려는: [t͈ ɐ ɾ ɐ ɡ ɐ ɾ j ʌ n ɨ n]
-          * 사법처리할: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i ɦ ɐ ɭ]
-          * 얼어붙: [ʌ ɾ ʌ b u t̚]
-          * 리투아니아: [ɾ i tʰ u ɐ n i ɐ]
+          * 니트릴: [n i tʰ ɨ ɾ i ɭ]
+          * 따라가다: [t͈ ɐ ɾ ɐ ɡ ɐ d ɐ]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
+          * 사법처리: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i]
     ```
   - ```{ipa_cell}
     ```
@@ -390,10 +395,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ʎ
         * Occurances: 3338
         * Examples
-          * 서브컬처: [sʰ ʌ b ɨ kʰ ʌ ʎ tɕʰ ʌ]
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 풀려나: [pʰ u ʎ ʎ ʌ n ɐ]
-          * 출정식: [tɕʰ u ʎ dʑ ʌ ŋ ɕʰ i k̚]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 출점을: [tɕʰ u ʎ dʑ ʌ m ɨ ɭ]
+          * 글리세린: [k ɨ ʎ ʎ i sʰ e ɾ i n]
+          * 반려동물을: [p ɐ ʎ ʎ ʌ d o ŋ m u ɾ ɨ ɭ]
     ```
   - ```{ipa_cell}
     ```
@@ -409,10 +414,10 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
       * ɭ
         * Occurances: 11579
         * Examples
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 불란서어: [p u ɭ ɭ ɐ n sʰ ʌ ʌ]
-          * 털기에: [tʰ ʌ ɭ ɡ i e]
-          * 사법처리할: [sʰ ɐ b ʌ p̚ tɕʰ ʌ ɾ i ɦ ɐ ɭ]
+          * 일베에: [i ɭ b e e]
+          * 니트릴: [n i tʰ ɨ ɾ i ɭ]
+          * 불란서: [p u ɭ ɭ ɐ n sʰ ʌ]
+          * 털기가: [tʰ ʌ ɭ ɡ i ɡ ɐ]
     ```
   - ```{ipa_cell}
     ```
@@ -444,17 +449,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * i
         * Occurances: 29148
         * Examples
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 니호늄: [n i β o ɲ u m]
-          * 지적합니다: [tɕ i dʑ ʌ kʰ ɐ m n i d ɐ]
-          * 보도진: [p o d o dʑ i n]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 일베에: [i ɭ b e e]
+          * 니트릴: [n i tʰ ɨ ɾ i ɭ]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
       * iː
         * Occurances: 1829
         * Examples
-          * 시킨다: [ɕʰ iː kʰ iː n t ɐ]
-          * 비매품: [p iː m eː pʰ u m]
-          * 일는지: [iː ɾ n ɨ ɲ dʑ i]
-          * 이츠하크: [iː tɕʰ ɨ ɦ ɐ kʰ ɨ]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 비망록: [p iː m ɐ ŋ n o k̚]
+          * 이츠키: [iː tɕʰ ɨ kʰ i]
+          * 취했기: [tɕʰ ɥ iː ɦ eː s͈ ɡ i]
     ```
   - ```{ipa_cell}
     ```
@@ -463,17 +468,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɨ
         * Occurances: 18341
         * Examples
-          * 서브컬처: [sʰ ʌ b ɨ kʰ ʌ ʎ tɕʰ ʌ]
-          * 따라가려는: [t͈ ɐ ɾ ɐ ɡ ɐ ɾ j ʌ n ɨ n]
-          * 순자산액은: [sʰ u ɲ dʑ ɐ sʰ ɐ n eː ɡ ɨ n]
-          * 뉴스타파는: [ɲ u s ɨ tʰ ɐ pʰ ɐ n ɨ n]
+          * 니트릴: [n i tʰ ɨ ɾ i ɭ]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 뉴스타파: [ɲ u s ɨ tʰ ɐ pʰ ɐ]
+          * 얼스터: [ʌ ɭ sʰ ɨ tʰ ʌ]
       * ɨː
         * Occurances: 242
         * Examples
-          * 금지하고: [k ɨː m dʑ i ɦ ɐ ɡ o]
-          * 끌면서: [k͈ ɨː ɭ m j ʌ n sʰ ʌ]
-          * 긍정적이고: [k ɨː ŋ dʑ ʌ ŋ dʑ ʌ k̚ i ɡ o]
-          * 끌었다: [k͈ ɨː ɾ ʌ t̚ tʰ ɐ]
+          * 금지시켜: [k ɨː m dʑ i ɕʰ i kʰ j ʌ]
+          * 끌린다: [k͈ ɨː ʎ ʎ i n d ɐ]
+          * 긍정적으로: [k ɨː ŋ dʑ ʌ ŋ dʑ ʌ ɡ ɨ ɾ o]
+          * 끌어왔: [k͈ ɨː ɾ ʌ w ɐ t̚]
     ```
   - ```{ipa_cell}
     ```
@@ -482,17 +487,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * u
         * Occurances: 14492
         * Examples
-          * 니호늄: [n i β o ɲ u m]
-          * 불란서어: [p u ɭ ɭ ɐ n sʰ ʌ ʌ]
-          * 순자산액은: [sʰ u ɲ dʑ ɐ sʰ ɐ n eː ɡ ɨ n]
-          * 뉴스타파는: [ɲ u s ɨ tʰ ɐ pʰ ɐ n ɨ n]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 불란서: [p u ɭ ɭ ɐ n sʰ ʌ]
+          * 순자산: [sʰ u ɲ tɕ ɐ sʰ ɐ n]
+          * 뉴스타파: [ɲ u s ɨ tʰ ɐ pʰ ɐ]
       * uː
         * Occurances: 1086
         * Examples
-          * 부가세: [p uː ɡ ɐ sʰ e]
-          * 유난히: [j uː n ɐ n ʝ i]
-          * 부당하다고: [p uː d ɐ ŋ h ɐ d ɐ ɡ o]
-          * 부장판사는: [p uː dʑ ɐ ŋ pʰ ɐ n sʰ ɐ n ɨ n]
+          * 무수히: [m uː sʰ u ʝ i]
+          * 경우는: [k j ʌː ŋ uː n ɨ n]
+          * 준호씨: [tɕ uː n β o ɕ͈ i]
+          * 부가가치세: [p uː ɡ ɐ ɡ ɐ tɕʰ i sʰ e]
     ```
 * -
   - ```{ipa_cell}
@@ -511,17 +516,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * e
         * Occurances: 9604
         * Examples
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 털기에: [tʰ ʌ ɭ ɡ i e]
-          * 발견된: [p ɐ ɭ ɡ j ʌ n d w e n]
-          * 헤매고: [h e m eː ɡ o]
+          * 일베에: [i ɭ b e e]
+          * 가지게: [k ɐ dʑ i ɡ e]
+          * 발견되다: [p ɐ ɭ ɡ j ʌ n d w e d ɐ]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
       * eː
         * Occurances: 9168
         * Examples
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
-          * 순자산액은: [sʰ u ɲ dʑ ɐ sʰ ɐ n eː ɡ ɨ n]
-          * 비매품: [p iː m eː pʰ u m]
-          * 몰아내: [m o ɾ ɐ n eː]
+          * 예상됩니다: [j eː sʰ ɐ ŋ d w e m n i d ɐ]
+          * 출발해: [tɕʰ u ɭ b ɐ ɾ h eː]
+          * 했을까: [h eː s ɨ ɭ k͈ ɐ]
+          * 잘못했다는: [tɕ ɐ ɭ m o tʰ eː t̚ tʰ ɐ n ɨ n]
     ```
   - ```{ipa_cell}
     ```
@@ -534,17 +539,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * o
         * Occurances: 19381
         * Examples
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 니호늄: [n i β o ɲ u m]
-          * 보도진: [p o d o dʑ i n]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 보도자료만: [p o d o dʑ ɐ ɾ j o m ɐ n]
+          * 비망록: [p iː m ɐ ŋ n o k̚]
+          * 흑고니: [x ɨ k̚ kʰ o n i]
       * oː
         * Occurances: 1819
         * Examples
-          * 공천으로: [k oː ŋ tɕʰ ʌ n ɨ ɾ o]
-          * 요인으로: [j oː i n ɨ ɾ o]
-          * 공급하기로: [k oː ŋ ɡ ɨ pʰ ɐ kʰ i ɾ o]
-          * 호기심: [ɸ oː ɡ i ɕʰ i m]
+          * 공천에서: [k oː ŋ tɕʰ ʌ n e sʰ ʌ]
+          * 요인들을: [j oː i n d ɨ ɾ ɨ ɭ]
+          * 공급하기: [k oː ŋ ɡ ɨ p̚ h ɐ ɡ i]
+          * 소득공제를: [sʰ oː d ɨ k̚ kʰ o ŋ dʑ e ɾ ɨ ɭ]
     ```
 * -
   - ```{ipa_cell}
@@ -571,17 +576,17 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ʌ
         * Occurances: 26002
         * Examples
-          * 서브컬처: [sʰ ʌ b ɨ kʰ ʌ ʎ tɕʰ ʌ]
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 시키는거죠: [ɕʰ iː kʰ i n ɨ n ɡ ʌ tɕ o]
+          * 산적한: [sʰ ɐ ɲ dʑ ʌ kʰ ɐ n]
       * ʌː
         * Occurances: 2526
         * Examples
-          * 건너다: [k ʌː n n ʌ d ɐ]
-          * 던져진: [t ʌː ɲ dʑ ʌ dʑ i n]
-          * 연구도: [j ʌː n ɡ u d o]
-          * 없었을까요: [ʌː p s ʌ s ɨ ɭ k͈ ɐ j o]
+          * 건너갔: [k ʌː n n ʌ ɡ ɐ t̚]
+          * 던져줌: [t ʌː ɲ dʑ ʌ dʑ u m]
+          * 연구관이: [j ʌː n ɡ u ɡ w ɐ n i]
+          * 없었을: [ʌː p s ʌ s ɨ ɭ]
     ```
 * -
   - ```{ipa_cell}
@@ -593,10 +598,10 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
       * ɐ
         * Occurances: 44370
         * Examples
-          * 발전소: [p ɐ ʎ dʑ ʌ n sʰ o]
-          * 일베저장소: [i ɭ b e dʑ ʌ dʑ ɐ ŋ sʰ o]
-          * 시킨다: [ɕʰ iː kʰ iː n t ɐ]
-          * 산정했다: [sʰ ɐ ɲ dʑ ʌ ŋ ʝ eː t̚ tʰ ɐ]
+          * 서북청년단: [sʰ ʌ b u k̚ tɕʰ ʌ ŋ ɲ ʌ n d ɐ n]
+          * 발전기: [p ɐ ʎ tɕ ʌ n ɡ i]
+          * 산적한: [sʰ ɐ ɲ dʑ ʌ kʰ ɐ n]
+          * 지적하다: [tɕ i dʑ ʌ kʰ ɐ d ɐ]
     ```
   - ```{ipa_cell}
     ```

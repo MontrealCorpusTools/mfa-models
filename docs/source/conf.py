@@ -87,10 +87,11 @@ needs_tags = [
     dict(name="Common Voice", description="Corpora in Mozilla's Common Voice collection"),
     dict(name="Google", description="Corpora collected and distributed by Google"),
     dict(name="Microsoft", description="Corpora collected and distributed by Microsoft"),
-    dict(name="GlobalPhone", description="Corpora in GlobalPhone's collections"),
-    dict(name="MediaSpeech", description="Corpora in MediaSpeech's collections"),
-    dict(name="Multilingual Librispeech", description="Corpora in Multilingual Librispeech's collections"),
+    dict(name="GlobalPhone", description="Corpora in GlobalPhone collection"),
+    dict(name="MediaSpeech", description="Corpora in MediaSpeech collection"),
+    dict(name="Multilingual Librispeech", description="Corpora in Multilingual Librispeech collection"),
     dict(name="M-AILABS", description="Corpora in M-AILABS's collections"),
+    dict(name="Multilingual TEDx", description="Corpora in the Multilingual TEDx collection"),
 ]
 
 current_languages = ["Abkhaz", "Armenian", "Arabic", "Bashkir", "Basque", "Belarusian", "Bulgarian",
