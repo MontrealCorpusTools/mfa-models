@@ -17,3 +17,4 @@ Russian
    :hidden:
 
    Russian CV acoustic model v2_0_0.md
+   Russian MFA acoustic model v2_0_0.md
