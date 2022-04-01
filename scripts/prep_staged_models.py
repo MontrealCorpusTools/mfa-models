@@ -50,7 +50,7 @@ def get_model_card_directory(model_type, meta_data):
 mfa_model_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 OVERWRITE_METADATA = False
-OVERWRITE_MD = True
+OVERWRITE_MD = False
 
 mfa_citation_template = "@techreport{{{id},\n\tauthor={{{extra_authors}McAuliffe, Michael and Sonderegger, Morgan}}," \
                         "\n\ttitle={{{title}}}," \
@@ -1368,7 +1368,7 @@ def extract_doc_card_fields(meta_data, model_type):
             'corpora_details': corpora_details,
             'see_also': see_also,
             'tags': ';'.join(tags),
-            'dialects': ';'.join(dialects) if dialects else 'N/A',
+            'dialects': ';'.join(sorted(set(dialects))) if dialects else 'N/A',
             'language': meta_data['language'].lower(),
             'language_name': meta_data['language'].title(),
                 'license': meta_data['license'],
@@ -1401,7 +1401,7 @@ def extract_doc_card_fields(meta_data, model_type):
             'tags': ';'.join(tags),
             'version_subdirectory': version_subdirectory,
             'language': meta_data['language'].lower(),
-            'dialects': '; '.join(dialects) if dialects else 'N/A',
+            'dialects': ';'.join(sorted(set(dialects))) if dialects else 'N/A',
             'language_name': meta_data['language'].title(),
         }
     if model_type == 'dictionary':
@@ -2057,7 +2057,7 @@ model_corpus_mapping = {
     "Vietnamese CV acoustic model v2_0_0": ['Common Voice Vietnamese v7_0'],
     "English (US) ARPA acoustic model v2_0_0": ['LibriSpeech English'],
     "English MFA acoustic model v2_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
-                                          'Corpus of Regional African American Language v2021.07',
+                                          'Corpus of Regional African American Language v2021_07',
                                           "Google Nigerian English", "Google UK and Ireland English",
                                           "NCHLT English", "ARU English corpus"],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
@@ -2166,8 +2166,8 @@ print(meta_datas.keys())
 for model_type, data in meta_datas.items():
 
     for model_name, meta_data in data.items():
+        model_id = generate_id(meta_data, model_type)
         if model_type in {'acoustic','language_model'}:
-            model_id = generate_id(meta_data, model_type)
             print("HELLO!?", model_id, model_corpus_mapping.keys())
             if model_id in model_corpus_mapping:
                 print(model_corpus_mapping[model_id])
@@ -2195,6 +2195,10 @@ for model_type, data in meta_datas.items():
                 if 'dictionary' not in meta_data:
                     meta_data['dictionary'] = []
                 meta_data['dictionary'].extend(model_mappings['dictionary'][key])
+            if model_id in model_dictionary_mapping:
+                if 'dictionary' not in meta_data:
+                    meta_data['dictionary'] = []
+                meta_data['dictionary'].extend([x for x in model_dictionary_mapping[model_id] if x not in meta_data['dictionary']])
         elif model_type == 'dictionary':
             for t in ['acoustic', 'g2p','language_model', 'corpus']:
                 if key in model_mappings[t]:

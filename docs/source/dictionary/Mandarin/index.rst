@@ -18,5 +18,6 @@ Mandarin
 
    Mandarin (China) MFA dictionary v2_0_0.md
    Mandarin (Erhua) MFA dictionary v2_0_0.md
+   Mandarin MFA dictionary v2_0_0.md
    Mandarin PINYIN dictionary v2_0_0.md
    Mandarin (Taiwan) MFA dictionary v2_0_0.md

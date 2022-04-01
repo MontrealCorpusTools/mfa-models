@@ -16,4 +16,5 @@ English
 .. toctree::
    :hidden:
 
+   English MFA acoustic model v2_0_0.md
    English (US) ARPA acoustic model v2_0_0.md

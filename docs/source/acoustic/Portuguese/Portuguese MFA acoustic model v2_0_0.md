@@ -8,7 +8,7 @@
 :template: acoustic_template
 :tags: Portuguese;MFA;IPA
 :language: "Portuguese"
-:dialect: Brazil;Portugal;Portugal;Brazil
+:dialect: Brazil;Portugal
 :phoneset: "MFA"
 :architecture: gmm-hmm
 :license: "CC BY 4.0"
@@ -40,6 +40,8 @@
 
    ```{admonition} Pronunciation dictionaries
    * {ref}`portuguese_mfa_dictionary_v2_0_0`
+* {ref}`portuguese_(brazil)_mfa_dictionary_v2_0_0`
+* {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0`
    ```
 ``````
 

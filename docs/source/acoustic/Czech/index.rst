@@ -17,3 +17,4 @@ Czech
    :hidden:
 
    Czech CV acoustic model v2_0_0.md
+   Czech MFA acoustic model v2_0_0.md

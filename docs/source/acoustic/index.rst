@@ -26,7 +26,9 @@ Acoustic models
    Czech/index.rst
    Dutch/index.rst
    English/index.rst
+   French/index.rst
    Georgian/index.rst
+   German/index.rst
    Greek/index.rst
    Guarani/index.rst
    Hausa/index.rst
@@ -36,6 +38,7 @@ Acoustic models
    Korean/index.rst
    Kurmanji/index.rst
    Kyrgyz/index.rst
+   Mandarin/index.rst
    Polish/index.rst
    Portuguese/index.rst
    Romanian/index.rst

@@ -8,7 +8,7 @@
 :template: acoustic_template
 :tags: Spanish;MFA;IPA
 :language: "Spanish"
-:dialect: Spain;Latin America;Spain;Latin America;Latin America;Latin America;Latin America;Latin America;Spain;Latin America;Latin America
+:dialect: Latin America;Spain
 :phoneset: "MFA"
 :architecture: gmm-hmm
 :license: "CC BY 4.0"
@@ -70,6 +70,8 @@
 
    ```{admonition} Pronunciation dictionaries
    * {ref}`spanish_mfa_dictionary_v2_0_0`
+* {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0`
+* {ref}`spanish_(spain)_mfa_dictionary_v2_0_0`
    ```
 ``````
 
