@@ -16,4 +16,5 @@ Korean
 .. toctree::
    :hidden:
 
+   Korean MFA acoustic model v2_0_0a.md
    Korean MFA acoustic model v2_0_0.md

@@ -16,5 +16,6 @@ Korean
 .. toctree::
    :hidden:
 
+   Korean MFA dictionary v2_0_0a.md
    Korean (Jamo) MFA dictionary v2_0_0.md
    Korean MFA dictionary v2_0_0.md

@@ -1,0 +1,22 @@
+{
+    "name": "korean_mfa_lm",
+    "language": "Korean",
+    "dialect": "",
+    "phone_set": "MFA",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/korean/mfa/v2.0.0a/LICENSE)",
+    "license": "CC BY 4.0",
+    "architecture": "ngram",
+    "version": "2.0.0a",
+    "train_date": "2022-05-30",
+    "training": {
+        "num_words": 0,
+        "num_oovs": 0
+    },
+    "evaluation": {
+        "large_perplexity": 9.5086,
+        "medium_perplexity": 11.4682,
+        "small_perplexity": 14.5904
+    },
+    "citation": "@techreport{mfa_korean_mfa_lm_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Korean language model v2.0.0a},\n\taddress={\\url{https://mfa-models.readthedocs.io/language model/Korean/Korean language model v2_0_0a.html}},\n\tyear={2022},\n\tmonth={May},\n}"
+}

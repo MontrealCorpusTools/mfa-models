@@ -17,12 +17,15 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`korean_(jamo)_mfa_dictionary_v2_0_0`
+   * {ref}`korean_mfa_dictionary_v2_0_0a`
+* {ref}`korean_(jamo)_mfa_dictionary_v2_0_0`
 * {ref}`korean_mfa_dictionary_v2_0_0`
+* {ref}`korean_mfa_dictionary_v2_0_0a`
    ```
 
 
    ```{admonition} Acoustic models
-   * {ref}`korean_mfa_acoustic_model_v2_0_0`
+   * {ref}`korean_mfa_acoustic_model_v2_0_0a`
+* {ref}`korean_mfa_acoustic_model_v2_0_0`
    ```
 ``````

@@ -16,6 +16,9 @@ Vietnamese
 .. toctree::
    :hidden:
 
+   Vietnamese (Hanoi) MFA G2P model v2_0_0a.md
+   Vietnamese (Ho Chi Minh City) MFA G2P model v2_0_0a.md
+   Vietnamese (Hue) MFA G2P model v2_0_0a.md
    Vietnamese (Hanoi) MFA G2P model v2_0_0.md
    Vietnamese (Ho Chi Minh City) MFA G2P model v2_0_0.md
    Vietnamese (Hue) MFA G2P model v2_0_0.md

@@ -16,5 +16,6 @@ Bulgarian
 .. toctree::
    :hidden:
 
+   Bulgarian MFA dictionary v2_0_0a.md
    Bulgarian CV dictionary v2_0_0.md
    Bulgarian MFA dictionary v2_0_0.md

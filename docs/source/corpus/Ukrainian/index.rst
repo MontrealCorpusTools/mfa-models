@@ -18,5 +18,6 @@ Ukrainian
 
    Common Voice Ukrainian v7_0.md
    Common Voice Ukrainian v8_0.md
+   Common Voice Ukrainian v9_0.md
    M-AILABS Ukrainian.md
    GlobalPhone Ukrainian v3_1.md

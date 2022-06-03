@@ -17,7 +17,9 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`hausa_mfa_dictionary_v2_0_0`
+   * {ref}`hausa_mfa_dictionary_v2_0_0a`
+* {ref}`hausa_mfa_dictionary_v2_0_0`
+* {ref}`hausa_mfa_dictionary_v2_0_0a`
    ```
 
 

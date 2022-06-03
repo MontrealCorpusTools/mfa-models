@@ -8,7 +8,7 @@
 :template: corpus_template
 :tags: Vietnamese;GlobalPhone
 :language: "Vietnamese"
-:dialect: "Ho Chi Minh City; Hanoi"
+:dialect: "Hanoi;Ho Chi Minh City"
 :license: "ELRA"
 
    ```{include} ../../../../corpus/vietnamese/globalphone_vietnamese/3.1/README.md
@@ -17,12 +17,13 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0`
-* {ref}`vietnamese_(hanoi)_mfa_dictionary_v2_0_0`
+   * {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0a`
+* {ref}`vietnamese_(hanoi)_mfa_dictionary_v2_0_0a`
    ```
 
 
    ```{admonition} Acoustic models
-   * {ref}`vietnamese_mfa_acoustic_model_v2_0_0`
+   * {ref}`vietnamese_mfa_acoustic_model_v2_0_0a`
+* {ref}`vietnamese_mfa_acoustic_model_v2_0_0`
    ```
 ``````

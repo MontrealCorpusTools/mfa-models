@@ -16,5 +16,7 @@ Portuguese
 .. toctree::
    :hidden:
 
+   Portuguese (Brazil) MFA G2P model v2_0_0a.md
+   Portuguese (Portugal) MFA G2P model v2_0_0a.md
    Portuguese (Brazil) MFA G2P model v2_0_0.md
    Portuguese (Portugal) MFA G2P model v2_0_0.md

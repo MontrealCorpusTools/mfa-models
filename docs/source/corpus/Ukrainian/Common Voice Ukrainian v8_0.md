@@ -17,8 +17,10 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`ukrainian_cv_dictionary_v2_0_0`
+   * {ref}`ukrainian_mfa_dictionary_v2_0_0a`
+* {ref}`ukrainian_cv_dictionary_v2_0_0`
 * {ref}`ukrainian_mfa_dictionary_v2_0_0`
+* {ref}`ukrainian_mfa_dictionary_v2_0_0a`
    ```
 
 

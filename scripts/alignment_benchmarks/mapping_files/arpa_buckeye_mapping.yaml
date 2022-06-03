@@ -1,0 +1,69 @@
+N: [en, n, nx]
+NG: [eng, ng]
+M: [em, m]
+L: [el, l]
+AA0: [aa, aan, ao, aon]
+AE0: [ae, aen]
+AH0: [ah, ahn]
+AO0: [aa, aan, ao, aon]
+AW0: [aw, awn]
+AY0: [ay, ayn]
+EH0: [eh, ehn]
+ER0: [er, ern, r]
+EY0: [ey, eyn]
+IH0: [ih, ihn]
+IY0: [iy, iyn]
+OW0: [ow, own]
+OY0: [oy, oyn]
+UH0: [uh, uhn]
+UW0: [uw, uwn]
+AA1: [aa, aan, ao, aon]
+AE1: [ae, aen]
+AH1: [ah, ahn]
+AO1: [aa, aan, ao, aon]
+AW1: [aw, awn]
+AY1: [ay, ayn]
+EH1: [eh, ehn]
+ER1: [er, ern, r]
+EY1: [ey, eyn]
+IH1: [ih, ihn]
+IY1: [iy, iyn]
+OW1: [ow, own]
+OY1: [oy, oyn]
+UH1: [uh, uhn]
+UW1: [uw, uwn]
+AA2: [aa, aan, ao, aon]
+AE2: [ae, aen]
+AH2: [ah, ahn]
+AO2: [aa, aan, ao, aon]
+AW2: [aw, awn]
+AY2: [ay, ayn]
+EH2: [eh, ehn]
+ER2: [er, ern, r]
+EY2: [ey, eyn]
+IH2: [ih, ihn]
+IY2: [iy, iyn]
+OW2: [ow, own]
+OY2: [oy, oyn]
+UH2: [uh, uhn]
+UW2: [uw, uwn]
+B: b
+P: p
+T: [t, tq, dx]
+D: [d, dx]
+TH: th
+DH: dh
+F: f
+V: v
+K: k
+G: g
+Z: z
+ZH: zh
+SH: sh
+S: s
+R: [er, ern, r]
+Y: y
+CH: ch
+JH: jh
+HH: hh
+W: w

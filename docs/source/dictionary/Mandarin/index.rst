@@ -16,6 +16,10 @@ Mandarin
 .. toctree::
    :hidden:
 
+   Mandarin (China) MFA dictionary v2_0_0a.md
+   Mandarin (Erhua) MFA dictionary v2_0_0a.md
+   Mandarin MFA dictionary v2_0_0a.md
+   Mandarin (Taiwan) MFA dictionary v2_0_0a.md
    Mandarin (China) MFA dictionary v2_0_0.md
    Mandarin (Erhua) MFA dictionary v2_0_0.md
    Mandarin MFA dictionary v2_0_0.md

@@ -18,4 +18,5 @@ Thai
 
    Common Voice Thai v7_0.md
    Common Voice Thai v8_0.md
+   Common Voice Thai v9_0.md
    GlobalPhone Thai v3_1.md

@@ -16,4 +16,5 @@ Mandarin
 .. toctree::
    :hidden:
 
+   Mandarin MFA acoustic model v2_0_0a.md
    Mandarin MFA acoustic model v2_0_0.md

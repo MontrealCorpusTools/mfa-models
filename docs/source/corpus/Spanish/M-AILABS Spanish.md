@@ -8,7 +8,7 @@
 :template: corpus_template
 :tags: Spanish;M-AILABS
 :language: "Spanish"
-:dialect: "Spain; Latin America"
+:dialect: "Latin America;Spain"
 :license: "M-AILABS License"
 
    ```{include} ../../../../corpus/spanish/m_ailabs_spanish/README.md
@@ -17,12 +17,13 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`spanish_(spain)_mfa_dictionary_v2_0_0`
-* {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0`
+   * {ref}`spanish_(spain)_mfa_dictionary_v2_0_0a`
+* {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0a`
    ```
 
 
    ```{admonition} Acoustic models
-   * {ref}`spanish_mfa_acoustic_model_v2_0_0`
+   * {ref}`spanish_mfa_acoustic_model_v2_0_0a`
+* {ref}`spanish_mfa_acoustic_model_v2_0_0`
    ```
 ``````

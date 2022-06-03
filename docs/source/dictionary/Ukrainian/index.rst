@@ -16,5 +16,6 @@ Ukrainian
 .. toctree::
    :hidden:
 
+   Ukrainian MFA dictionary v2_0_0a.md
    Ukrainian CV dictionary v2_0_0.md
    Ukrainian MFA dictionary v2_0_0.md

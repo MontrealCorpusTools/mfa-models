@@ -17,7 +17,7 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`sorbian_(upper)_cv_dictionary_v2_0_0`
+
    ```
 
 

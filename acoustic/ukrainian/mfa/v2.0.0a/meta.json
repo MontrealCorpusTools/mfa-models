@@ -1,0 +1,16 @@
+{
+    "name": "ukrainian_mfa",
+    "language": "Ukrainian",
+    "dialect": "",
+    "phone_set": "MFA",
+    "version": "2.0.0a",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "citation": "@techreport{mfa_ukrainian_mfa_acoustic_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Ukrainian MFA acoustic model v2.0.0a},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Ukrainian/Ukrainian MFA acoustic model v2_0_0a.html}},\n\tyear={2022},\n\tmonth={May},\n}",
+    "license": "CC BY 4.0",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/ukrainian/mfa/v2.0.0a/LICENSE)",
+    "architecture": "gmm-hmm",
+    "features": "MFCC + pitch",
+    "evaluation": {},
+    "decode": {},
+    "train_date": "2022-05-12"
+}

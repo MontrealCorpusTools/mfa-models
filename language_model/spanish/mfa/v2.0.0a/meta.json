@@ -1,0 +1,22 @@
+{
+    "name": "spanish_mfa_lm",
+    "language": "Spanish",
+    "dialect": "",
+    "phone_set": "MFA",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/spanish/mfa/v2.0.0a/LICENSE)",
+    "license": "CC BY 4.0",
+    "architecture": "ngram",
+    "version": "2.0.0a",
+    "train_date": "2022-05-30",
+    "training": {
+        "num_words": 0,
+        "num_oovs": 0
+    },
+    "evaluation": {
+        "large_perplexity": 58.1193,
+        "medium_perplexity": 136.043,
+        "small_perplexity": 239.849
+    },
+    "citation": "@techreport{mfa_spanish_mfa_lm_2022,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Spanish language model v2.0.0a},\n\taddress={\\url{https://mfa-models.readthedocs.io/language model/Spanish/Spanish language model v2_0_0a.html}},\n\tyear={2022},\n\tmonth={May},\n}"
+}

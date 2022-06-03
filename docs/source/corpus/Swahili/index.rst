@@ -17,5 +17,6 @@ Swahili
    :hidden:
 
    Common Voice Swahili v8_0.md
+   Common Voice Swahili v9_0.md
    ALFFA Swahili.md
    GlobalPhone Swahili v3_1.md

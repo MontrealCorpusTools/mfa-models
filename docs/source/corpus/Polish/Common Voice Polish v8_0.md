@@ -17,12 +17,15 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`polish_cv_dictionary_v2_0_0`
+   * {ref}`polish_mfa_dictionary_v2_0_0a`
+* {ref}`polish_cv_dictionary_v2_0_0`
 * {ref}`polish_mfa_dictionary_v2_0_0`
+* {ref}`polish_mfa_dictionary_v2_0_0a`
    ```
 
 
    ```{admonition} Acoustic models
-   * {ref}`polish_mfa_acoustic_model_v2_0_0`
+   * {ref}`polish_mfa_acoustic_model_v2_0_0a`
+* {ref}`polish_mfa_acoustic_model_v2_0_0`
    ```
 ``````

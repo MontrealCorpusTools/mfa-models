@@ -17,7 +17,15 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`french_mfa_dictionary_v2_0_0`
+   * {ref}`french_mfa_dictionary_v2_0_0a`
+* {ref}`french_mfa_dictionary_v2_0_0`
+* {ref}`french_mfa_dictionary_v2_0_0a`
 * {ref}`french_prosodylab_dictionary_v2_0_0`
+   ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`french_mfa_acoustic_model_v2_0_0a`
+* {ref}`french_mfa_acoustic_model_v2_0_0`
    ```
 ``````

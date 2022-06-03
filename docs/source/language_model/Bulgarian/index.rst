@@ -16,4 +16,4 @@ Bulgarian
 .. toctree::
    :hidden:
 
-   Bulgarian language model v2_0_0.md
+   Bulgarian language model v2_0_0a.md

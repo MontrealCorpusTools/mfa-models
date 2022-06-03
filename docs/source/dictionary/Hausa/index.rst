@@ -16,4 +16,5 @@ Hausa
 .. toctree::
    :hidden:
 
+   Hausa MFA dictionary v2_0_0a.md
    Hausa MFA dictionary v2_0_0.md

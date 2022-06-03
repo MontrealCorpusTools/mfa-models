@@ -17,8 +17,10 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`thai_cv_dictionary_v2_0_0`
+   * {ref}`thai_mfa_dictionary_v2_0_0a`
+* {ref}`thai_cv_dictionary_v2_0_0`
 * {ref}`thai_mfa_dictionary_v2_0_0`
+* {ref}`thai_mfa_dictionary_v2_0_0a`
    ```
 
 

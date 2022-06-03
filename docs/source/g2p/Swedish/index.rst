@@ -16,4 +16,5 @@ Swedish
 .. toctree::
    :hidden:
 
+   Swedish MFA G2P model v2_0_0a.md
    Swedish MFA G2P model v2_0_0.md

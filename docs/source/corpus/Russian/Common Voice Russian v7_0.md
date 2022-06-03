@@ -17,8 +17,10 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`russian_cv_dictionary_v2_0_0`
+   * {ref}`russian_mfa_dictionary_v2_0_0a`
+* {ref}`russian_cv_dictionary_v2_0_0`
 * {ref}`russian_mfa_dictionary_v2_0_0`
+* {ref}`russian_mfa_dictionary_v2_0_0a`
    ```
 
 

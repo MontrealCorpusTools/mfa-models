@@ -6,7 +6,7 @@ from montreal_forced_aligner.command_line.model import inspect_model
 root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 dictionary_dir = os.path.join(root_dir, 'dictionary')
 skip_words_dir = os.path.join(dictionary_dir, 'filter_lists')
-staging_dir = os.path.join(dictionary_dir, 'staging')
+staging_dir = os.path.join(dictionary_dir, 'training')
 
 for fn in os.listdir(staging_dir):
     if not fn.endswith('.dict'):

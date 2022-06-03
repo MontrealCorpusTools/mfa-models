@@ -16,5 +16,6 @@ Russian
 .. toctree::
    :hidden:
 
+   Russian MFA acoustic model v2_0_0a.md
    Russian CV acoustic model v2_0_0.md
    Russian MFA acoustic model v2_0_0.md

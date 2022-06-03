@@ -18,4 +18,5 @@ Bulgarian
 
    Common Voice Bulgarian v7_0.md
    Common Voice Bulgarian v8_0.md
+   Common Voice Bulgarian v9_0.md
    GlobalPhone Bulgarian v3_1.md

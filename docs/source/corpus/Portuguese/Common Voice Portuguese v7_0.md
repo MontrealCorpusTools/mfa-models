@@ -8,7 +8,7 @@
 :template: corpus_template
 :tags: Portuguese;Common Voice
 :language: "Portuguese"
-:dialect: "Brazil; Portugal"
+:dialect: "Brazil;Portugal"
 :license: "CC-0"
 
    ```{include} ../../../../corpus/portuguese/common_voice_portuguese/7.0/README.md
@@ -17,8 +17,8 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`portuguese_(brazil)_mfa_dictionary_v2_0_0`
-* {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0`
+   * {ref}`portuguese_(brazil)_mfa_dictionary_v2_0_0a`
+* {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0a`
    ```
 
 

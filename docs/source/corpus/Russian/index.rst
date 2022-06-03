@@ -18,6 +18,7 @@ Russian
 
    Common Voice Russian v7_0.md
    Common Voice Russian v8_0.md
+   Common Voice Russian v9_0.md
    Multilingual TEDx Russian.md
    Russian LibriSpeech.md
    M-AILABS Russian.md

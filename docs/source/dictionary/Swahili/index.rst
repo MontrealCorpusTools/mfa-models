@@ -16,4 +16,5 @@ Swahili
 .. toctree::
    :hidden:
 
+   Swahili MFA dictionary v2_0_0a.md
    Swahili MFA dictionary v2_0_0.md

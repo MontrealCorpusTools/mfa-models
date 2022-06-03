@@ -16,4 +16,5 @@ Spanish
 .. toctree::
    :hidden:
 
+   Spanish MFA acoustic model v2_0_0a.md
    Spanish MFA acoustic model v2_0_0.md

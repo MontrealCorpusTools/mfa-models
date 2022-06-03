@@ -88,6 +88,7 @@ needs_tags = [
     dict(name="Google", description="Corpora collected and distributed by Google"),
     dict(name="Microsoft", description="Corpora collected and distributed by Microsoft"),
     dict(name="GlobalPhone", description="Corpora in GlobalPhone collection"),
+    dict(name="VoxPopuli", description="Corpora in Vox Populi collection"),
     dict(name="MediaSpeech", description="Corpora in MediaSpeech collection"),
     dict(name="Multilingual Librispeech", description="Corpora in Multilingual Librispeech collection"),
     dict(name="M-AILABS", description="Corpora in M-AILABS's collections"),

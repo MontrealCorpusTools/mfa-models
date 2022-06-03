@@ -21,3 +21,4 @@ Polish
    Multilingual LibriSpeech Polish.md
    M-AILABS Polish.md
    GlobalPhone Polish v3_1.md
+   VoxPopuli Polish.md

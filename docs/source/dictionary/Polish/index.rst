@@ -16,5 +16,6 @@ Polish
 .. toctree::
    :hidden:
 
+   Polish MFA dictionary v2_0_0a.md
    Polish CV dictionary v2_0_0.md
    Polish MFA dictionary v2_0_0.md

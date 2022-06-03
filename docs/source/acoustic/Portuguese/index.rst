@@ -16,5 +16,6 @@ Portuguese
 .. toctree::
    :hidden:
 
+   Portuguese MFA acoustic model v2_0_0a.md
    Portuguese CV acoustic model v2_0_0.md
    Portuguese MFA acoustic model v2_0_0.md

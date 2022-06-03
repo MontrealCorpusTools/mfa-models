@@ -7,14 +7,18 @@ import re
 import typing
 from datetime import datetime
 import numpy as np
+import sqlalchemy
+from sqlalchemy.orm import subqueryload
 import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES
-from montreal_forced_aligner.dictionary.pronunciation import PronunciationDictionary
+from montreal_forced_aligner.db import Word, Phone, PhoneType
+from montreal_forced_aligner.dictionary.multispeaker import MultispeakerDictionary
 from montreal_forced_aligner.data import voiced_variants, voiceless_variants, PhoneSetType
 
 rng = np.random.default_rng(1234)
 random.seed(1234)
 
+CURRENT_MODEL_VERSION = '2.0.0a'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -84,6 +88,9 @@ license_links = {
     'Public domain in the USA': 'https://creativecommons.org/share-your-work/public-domain/cc0/',
     'M-AILABS License': 'https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/',
     'ELRA': 'https://www.elra.info/en/services-around-lrs/distribution/licensing/',
+    'Buckeye License': 'https://buckeyecorpus.osu.edu/php/registration.php',
+    'LDC License': 'https://www.ldc.upenn.edu/data-management/using/licensing',
+    'LaboroTV Non-commercial': 'https://laboro.ai/activity/column/engineer/eg-laboro-tv-corpus-jp/',
 
 }
 
@@ -233,9 +240,7 @@ The primary sources of variability in forced alignment will be the applicability
 
 This model was trained on the following corpora:
 
-{corpora_details}
-
-"""
+{corpora_details}"""
 
 other_acoustic_model_card_template = """
 # {title}
@@ -334,8 +339,7 @@ The primary sources of variability in forced alignment will be the applicability
 
 This model was trained on the following corpora:
 
-{corpora_details}
-"""
+{corpora_details}"""
 
 g2p_model_card_template = """
 # {title}
@@ -548,6 +552,8 @@ mfa models download dictionary {model_name}
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-{model_name}-v{version}).
 
+The dictionary available from the release page and command line installation has pronunciation and silence probabilities estimated as part acoustic model training (see [Silence probability format](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/dictionary.html#silence-probabilities) and [training pronunciation probabilities](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/training_dictionary.html) for more information.  If you would like to use the version of this dictionary without probabilities, please see the [plain dictionary]({plain_link}).
+
 ## Intended use
 
 This dictionary is intended for forced alignment of {language_link} transcripts.
@@ -652,7 +658,6 @@ corpus_card_template = """
 - Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.
 
 - If you have comments or questions about using this corpus for MFA, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
 """
 
 corpus_docs_md_template = """
@@ -674,7 +679,6 @@ corpus_docs_md_template = """
 
    {see_also}
 ``````
-
 """
 
 acoustic_docs_md_template = """
@@ -707,8 +711,7 @@ acoustic_docs_md_template = """
 ```{{include}} ../../../../{model_type}/{language}/{language_sub_folder}/v{version}/README.md
 :start-after: "new)."
 :end-before: "## Training data"
-```
-"""
+```"""
 
 g2p_docs_md_template = """
 ({ref})=
@@ -801,8 +804,7 @@ Obstruent symbols to the left of {{fas}}`circle;ipa-dot` are unvoiced and those 
 
 Vowel symbols to the left of {{fas}}`circle;ipa-dot` are unrounded and those to the right are rounded.
 
-{vowel_section}
-"""
+{vowel_section}"""
 
 other_dictionary_docs_md_template = """
 ({ref})=
@@ -952,9 +954,15 @@ model_id_templates = {
 
 pronunciation_dictionaries = {}
 
-def load_dict(dictionary_path, dict_name, phone_set_type) -> PronunciationDictionary:
+def load_dict(dictionary_path, dict_name, phone_set_type) -> MultispeakerDictionary:
     if dict_name not in pronunciation_dictionaries:
-        pronunciation_dictionaries[dict_name] = PronunciationDictionary(dictionary_path, phone_set_type=phone_set_type, position_dependent_phones=False)
+        pronunciation_dictionaries[dict_name] = MultispeakerDictionary(dictionary_path,
+                                                                       temporary_directory=os.path.dirname(os.path.abspath(__file__)),
+                                                                        phone_set_type=phone_set_type,
+                                                                        position_dependent_phones=False)
+        if os.path.exists(pronunciation_dictionaries[dict_name].output_directory):
+            shutil.rmtree(pronunciation_dictionaries[dict_name].output_directory)
+        pronunciation_dictionaries[dict_name].dictionary_setup()
     return pronunciation_dictionaries[dict_name]
 
 def generate_id(meta_data, model_type):
@@ -1054,7 +1062,8 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             except KeyError:
                 dictionary_phone_set = 'UNKNOWN'
         dictionary = load_dict(model.path, model.name, phone_set_type=dictionary_phone_set)
-        word_count = len(dictionary.actual_words)
+        with dictionary.session() as session:
+            word_count = len(dictionary.actual_words(session))
         data = {
             'name': model.name,
             'language': language.title(),
@@ -1069,8 +1078,8 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             'version': version,
             'citation': citation,
         }
-        output_path = os.path.join(get_model_card_directory('dictionary', data), dictionary.name + '.dict')
-        dictionary.export_lexicon(output_path)
+        output_path = os.path.join(os.path.dirname(get_model_card_directory('dictionary', data)), dictionary.name + '.dict')
+        dictionary.export_lexicon(1, output_path)
         return data
     if model_type == 'g2p':
         train_date = datetime.fromisoformat(model.meta['train_date']).date()
@@ -1244,7 +1253,8 @@ def extract_model_card_fields(meta_data, model_type):
                 'word_count': meta_data['word_count'],
                 'phone_set_link': phone_set_link,
             }
-
+        if meta_data['phone_set'] == 'MFA':
+            data['plain_link'] = f'https://raw.githubusercontent.com/MontrealCorpusTools/mfa-models/main/dictionary/{language.lower()}/mfa/{model_name}.dict'
         return data
     if model_type == 'g2p':
         training_details = g2p_training_detail_template.format(**meta_data['training'])
@@ -1674,46 +1684,49 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                 mod_phones |= voiced_variants(p)
             ipa_mapping[k] = mod_phones | v
     extra_data = {}
-
-    words = [ x for x in d.words.keys() if 2 < len(x) < 6]
-    random.shuffle(words)
+    with d.session() as session:
+        words = session.query(Word).options(
+            subqueryload(Word.pronunciations)
+        ).filter(sqlalchemy.func.length(Word.word)> 2).filter(sqlalchemy.func.length(Word.word)< 6)
+        words = words.order_by(sqlalchemy.func.random())
+        phones = session.query(Phone).filter(Phone.phone_type == PhoneType.non_silence)
     total_phones = set()
-    for phone in d.non_silence_phones:
+    for phone in phones:
         for super_seg, pattern in super_segmentals.items():
-            phone_m = pattern.search(phone)
+            phone_m = pattern.search(phone.phone)
             if phone_m:
                 dictionary_mapping[super_seg].add(phone_m.group(0))
-                counts = d.phone_counts[phone]
+                counts = phone.count
                 examples = {}
                 for w in words:
                     if w in examples:
                         continue
-                    for pron in d.words[w]:
+                    for pron in w.pronunciations:
                         pron = pron.pronunciation
-                        if phone in pron:
-                            examples[w] = f"[{' '.join(pron)}]"
+                        if phone.phone in pron:
+                            examples[w.word] = f"[{' '.join(pron)}]"
                             break
                     if len(examples) >= 4:
                         break
-                phone = phone.replace(phone_m.group(0), '')
+                phone = phone.phone.replace(phone_m.group(0), '')
                 if phone not in extra_data:
                     extra_data[phone] = {'Occurances': 0, 'Examples': {}}
                 extra_data[phone]['Occurances'] += counts
                 extra_data[phone]['Examples'].update(examples)
                 break
         else:
-            extra_data[phone] = {'Occurances': d.phone_counts[phone], 'Examples': {}}
+            extra_data[phone.phone] = {'Occurances': phone.count, 'Examples': {}}
+            phone = phone.phone
             for w in words:
                 if w in extra_data[phone]['Examples']:
                     continue
-                for pron in d.words[w]:
+                for pron in w.pronunciations:
                     pron = pron.pronunciation
                     if phone in pron:
-                        extra_data[phone]['Examples'][w] = f"[{' '.join(pron)}]"
+                        extra_data[phone]['Examples'][w.word] = f"[{' '.join(pron)}]"
                         break
                 if len(extra_data[phone]['Examples']) >= 4:
                     break
-
         base_phone = d.get_base_phone(phone)
         query_set = {phone, base_phone}
         if base_phone in ipa_mapping['other']:
@@ -1950,6 +1963,8 @@ for model_type, model_class in MODEL_TYPES.items():
         s = model.name.split('_')
         dialect = ''
         if model_type == 'language_model':
+            if '_mfa' in model.name:
+                s = model.name.replace('_mfa', '').split('_')
             language = '_'.join(s[:-1])
             dialect = ' '.join(s[1:-1])
             phone_set = 'MFA'
@@ -1970,7 +1985,7 @@ for model_type, model_class in MODEL_TYPES.items():
         except KeyError:
             version = montreal_forced_aligner.utils.get_mfa_version()
         if version.startswith('2.0.0'):
-            version = '2.0.0'
+            version = CURRENT_MODEL_VERSION
         language = language.title()
         if len(dialect) == 2:
             dialect = dialect.upper()
@@ -2019,6 +2034,46 @@ for model_type, model_class in MODEL_TYPES.items():
             phone_charts[meta_data['name']] = analyze_dictionary(model.path, model.name, phone_set_type)
             #if language == 'hindi':
             #    err
+    existing_models = []
+    for language in os.listdir(model_directory):
+        if language in {'staging', 'training', 'filter_lists', '1.0'}:
+            continue
+        language_directory = os.path.join(model_directory, language)
+        if not os.path.isdir(language_directory):
+            continue
+        language = language.title()
+        for phone_set in os.listdir(language_directory):
+            print(phone_set)
+            phone_set_dir = os.path.join(language_directory, phone_set)
+            if '_' in phone_set:
+                dialect, phone_set = phone_set.rsplit('_', maxsplit=1)
+            else:
+                dialect = ''
+            for version in os.listdir(phone_set_dir):
+                meta_path = os.path.join(phone_set_dir, version, 'meta.json')
+                print(meta_data)
+                if not os.path.exists(meta_path):
+                    continue
+                with open(meta_path, 'r', encoding='utf8') as f:
+                    meta_data = json.load(f)
+                meta_datas[model_type][generate_id(meta_data, model_type)] = meta_data
+                keys = [language]
+                if model_type == 'language_model':
+                    if dialect:
+                        keys.append((language, dialect))
+                        key = (language, dialect)
+                else:
+                    if dialect:
+                        keys.append((language, dialect))
+                        keys.append((language, dialect, phone_set))
+                        key = (language, dialect, phone_set)
+                        dialect_key = (language, dialect)
+                    else:
+                        keys.append((language, phone_set))
+                for key in keys:
+                    if key not in model_mappings[model_type]:
+                        model_mappings[model_type][key] = []
+                    model_mappings[model_type][key].append(generate_id(meta_data, model_type))
 
 # Get corpus information
 
@@ -2056,39 +2111,71 @@ model_corpus_mapping = {
     "Uzbek CV acoustic model v2_0_0": ['Common Voice Uzbek v7_0'],
     "Vietnamese CV acoustic model v2_0_0": ['Common Voice Vietnamese v7_0'],
     "English (US) ARPA acoustic model v2_0_0": ['LibriSpeech English'],
+    "English (US) ARPA acoustic model v2_0_0a": ['LibriSpeech English'],
     "English MFA acoustic model v2_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus"],
+    "English MFA acoustic model v2_0_0a": ['Common Voice English v8_0', 'LibriSpeech English',
                                           'Corpus of Regional African American Language v2021_07',
                                           "Google Nigerian English", "Google UK and Ireland English",
                                           "NCHLT English", "ARU English corpus"],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
                                          'African-accented French'],
+    "French MFA acoustic model v2_0_0a": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
+                                         'African-accented French'],
     "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
-    "Japanese MFA acoustic model v2_0_0": ['Common Voice Japanese v8_0', 'GlobalPhone Japanese v3_1',
-                                           'Microsoft Speech Language Translation Japanese', 'Japanese Versatile Speech'],
+    "German MFA acoustic model v2_0_0a": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
+    "Japanese MFA acoustic model v2_0_0a": ['Common Voice Japanese v9_0', 'GlobalPhone Japanese v3_1',
+                                           'Microsoft Speech Language Translation Japanese',
+                                            'Japanese Versatile Speech', 'LaboroTV Japanese v1_0d', 'TEDxJP-10K v1_1'],
     "Hausa MFA acoustic model v2_0_0": ['Common Voice Hausa v8_0', 'GlobalPhone Hausa v3_1'],
+    "Hausa MFA acoustic model v2_0_0a": ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
     "Mandarin MFA acoustic model v2_0_0": ['Common Voice Chinese (China) v8_0', 'Common Voice Chinese (Taiwan) v8_0',
+                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30'],
+    "Mandarin MFA acoustic model v2_0_0a": ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
                                            'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
                                            'GlobalPhone Chinese-Mandarin v3_1'],
     "Korean MFA acoustic model v2_0_0": ['GlobalPhone Korean v3_1',
                                          'Deeply Korean read speech corpus public sample',
                                          'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
+    "Korean MFA acoustic model v2_0_0a": ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
     "Polish MFA acoustic model v2_0_0": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
+    "Polish MFA acoustic model v2_0_0a": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
     "Portuguese MFA acoustic model v2_0_0": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
                                              'GlobalPhone Portuguese (Brazilian) v3_1'],
+    "Portuguese MFA acoustic model v2_0_0a": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
+                                             'GlobalPhone Portuguese (Brazilian) v3_1'],
     "Russian MFA acoustic model v2_0_0": ['Common Voice Russian v8_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
+    "Russian MFA acoustic model v2_0_0a": ['Common Voice Russian v9_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
     "Spanish MFA acoustic model v2_0_0": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
                                           "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
                                           "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
+    "Spanish MFA acoustic model v2_0_0a": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
+                                          "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
+                                          "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
     "Swahili MFA acoustic model v2_0_0": ['Common Voice Swahili v8_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
+    "Swahili MFA acoustic model v2_0_0a": ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
     "Swedish MFA acoustic model v2_0_0": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
+    "Swedish MFA acoustic model v2_0_0a": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
     "Thai MFA acoustic model v2_0_0": ['Common Voice Thai v8_0', 'GlobalPhone Thai v3_1'],
+    "Thai MFA acoustic model v2_0_0a": ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
     "Bulgarian MFA acoustic model v2_0_0": ['Common Voice Bulgarian v8_0', 'GlobalPhone Bulgarian v3_1'],
+    "Bulgarian MFA acoustic model v2_0_0a": ['Common Voice Bulgarian v9_0', 'GlobalPhone Bulgarian v3_1'],
     "Croatian MFA acoustic model v2_0_0": ['Common Voice Serbian v8_0', 'GlobalPhone Croatian v3_1'],
+    "Croatian MFA acoustic model v2_0_0a": ['Common Voice Serbian v9_0', 'GlobalPhone Croatian v3_1'],
     "Czech MFA acoustic model v2_0_0": ['Common Voice Czech v8_0', 'GlobalPhone Czech v3_1',
                                         "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+    "Czech MFA acoustic model v2_0_0a": ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
+                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
     "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
+    "Turkish MFA acoustic model v2_0_0a": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
     "Ukrainian MFA acoustic model v2_0_0": ['Common Voice Ukrainian v8_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
+    "Ukrainian MFA acoustic model v2_0_0a": ['Common Voice Ukrainian v9_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
     "Vietnamese MFA acoustic model v2_0_0": ['Common Voice Vietnamese v8_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+    "Vietnamese MFA acoustic model v2_0_0a": ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
 }
 
 model_dictionary_mapping = {
@@ -2126,6 +2213,11 @@ for k,v in model_dictionary_mapping.items():
         if lm_id in meta_datas['language_model']:
             model_dictionary_mapping[lm_id] = v
 
+for k,v in model_corpus_mapping.items():
+        lm_id = k.replace('acoustic', 'language')
+        if lm_id in meta_datas['language_model']:
+            model_corpus_mapping[lm_id] = v
+
 corpora_metadata = {}
 model_mappings['corpus'] = {}
 corpus_metadata_file = os.path.join(mfa_model_root, 'corpus', 'staging', 'corpus_data.json')
@@ -2162,7 +2254,6 @@ if os.path.exists(corpus_metadata_file):
     meta_datas['corpus'] = corpora_metadata
 
 # Add links
-print(meta_datas.keys())
 for model_type, data in meta_datas.items():
 
     for model_name, meta_data in data.items():
@@ -2213,6 +2304,7 @@ for model_type, data in meta_datas.items():
                     if key in model_mappings['dictionary']:
                         meta_data['dictionary'].extend(model_mappings['dictionary'][key])
             else:
+                print(meta_data['language'], model_mappings['dictionary'], meta_data['language'] in model_mappings['dictionary'])
                 if meta_data['language'] in model_mappings['dictionary']:
                     for dictionary_id in model_mappings['dictionary'][meta_data['language']]:
                         m = meta_datas['dictionary'][dictionary_id]
@@ -2250,12 +2342,12 @@ for model_type, data in meta_datas.items():
         os.makedirs(docs_language_dir, exist_ok=True)
         docs_card_path = os.path.join(docs_language_dir, rst_path)
         language_model_doc_mds[language].append(rst_path)
-        if OVERWRITE_MD or not os.path.exists(model_card_path):
+        if model_type == 'corpus' or (OVERWRITE_MD or not os.path.exists(model_card_path)):
             with open(model_card_path, 'w', encoding='utf8') as f:
                 print(meta_data)
                 fields = extract_model_card_fields(meta_data, model_type)
                 f.write(model_card_template.format(**fields))
-        if OVERWRITE_MD or not os.path.exists(docs_card_path):
+        if model_type == 'corpus' or (OVERWRITE_MD or not os.path.exists(docs_card_path)):
             with open(docs_card_path, 'w', encoding='utf8') as f:
                 fields = extract_doc_card_fields(meta_data, model_type)
                 f.write(docs_md_template.format(**fields))

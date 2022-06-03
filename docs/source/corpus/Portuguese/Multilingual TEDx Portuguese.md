@@ -17,6 +17,6 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0`
+   * {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0a`
    ```
 ``````

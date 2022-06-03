@@ -17,7 +17,9 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`swahili_mfa_dictionary_v2_0_0`
+   * {ref}`swahili_mfa_dictionary_v2_0_0a`
+* {ref}`swahili_mfa_dictionary_v2_0_0`
+* {ref}`swahili_mfa_dictionary_v2_0_0a`
    ```
 
 

@@ -4,7 +4,7 @@ import re
 from montreal_forced_aligner.command_line.train_g2p import run_train_g2p
 
 root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-dictionary_dir = os.path.join(root_dir, 'dictionary', 'staging')
+dictionary_dir = os.path.join(root_dir, 'dictionary', 'training')
 output_dir = os.path.join(root_dir, 'g2p', 'staging')
 temp_dir = os.path.join(root_dir, 'scripts', 'temp')
 os.makedirs(output_dir, exist_ok=True)
@@ -26,7 +26,8 @@ lang_codes = ['czech', 'russian',
               'portuguese_brazil', 'portuguese_portugal',
               'spanish_spain', 'spanish_latin_america',
               'swedish',
-              'tamil', 'thai',
+              #'tamil',
+              'thai',
               'turkish',
               'english_us','english_us_arpa','english_uk','english_nigeria',
               'korean_jamo', 'korean',
@@ -36,11 +37,13 @@ lang_codes = ['czech', 'russian',
                'ukrainian', 'polish', 'croatian', 'bulgarian',
               #'japanese',
               ]
-#lang_codes = ['japanese']
+
 
 def get_error_rates(lang):
     train_temp_dir = os.path.join(temp_dir, f'{lang}_mfa_pynini_train_g2p')
     log_file = os.path.join(train_temp_dir, 'pynini_train_g2p.log')
+    if not os.path.exists(log_file):
+        return 1, 1
     wer_pattern = re.compile(r'WER:\s+([\d.]+)')
     ler_pattern = re.compile(r'LER:\s+([\d.]+)')
     wer, ler = None, None
@@ -68,11 +71,34 @@ for lang in lang_codes:
     if os.path.exists(args.output_model_path):
         error_metrics[lang] = get_error_rates(lang)
         continue
-    if lang == 'mandarin_hani':
+    if lang == 'mandarin':
         args.evaluate = False
+    elif lang == 'japanese':
+        import pykakasi
+        kks = pykakasi.kakasi()
+        os.makedirs(temp_dir, exist_ok=True)
+        new_path = os.path.join(temp_dir, 'converted_japanese.dict')
+        with open(dict_path, 'r', encoding='utf8') as inf, open(new_path, 'w', encoding='utf8') as outf:
+            for line in inf:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    word, rest = line.split(maxsplit=1)
+                except ValueError:
+                    print(line)
+                    raise
+                kana_word = ''.join(x['kana'] for x in kks.convert(word))
+                new_word = ''.join(x['hira'] for x in kks.convert(word))
+                if not new_word:
+                    continue
+                if kana_word != word and new_word != word:
+                    continue
+                outf.write(f'{word}\t{rest}\n')
+        args.dictionary_path = new_path
     unknown= []
-    if lang == 'japanese':
-        unknown.extend(['--num_pronunciations', '1'])
+    if not os.path.exists(args.dictionary_path):
+        continue
     run_train_g2p(args, unknown)
     if lang == 'mandarin_hani':
         continue

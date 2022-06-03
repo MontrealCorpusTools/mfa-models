@@ -18,4 +18,5 @@ Hausa
 
    GlobalPhone Hausa v3_1.md
    Common Voice Hausa v8_0.md
+   Common Voice Hausa v9_0.md
    Common Voice Hausa v7_0.md

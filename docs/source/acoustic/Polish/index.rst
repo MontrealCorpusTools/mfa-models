@@ -16,5 +16,6 @@ Polish
 .. toctree::
    :hidden:
 
+   Polish MFA acoustic model v2_0_0a.md
    Polish CV acoustic model v2_0_0.md
    Polish MFA acoustic model v2_0_0.md

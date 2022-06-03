@@ -17,7 +17,9 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`croatian_mfa_dictionary_v2_0_0`
+   * {ref}`croatian_mfa_dictionary_v2_0_0a`
+* {ref}`croatian_mfa_dictionary_v2_0_0`
+* {ref}`croatian_mfa_dictionary_v2_0_0a`
    ```
 
 

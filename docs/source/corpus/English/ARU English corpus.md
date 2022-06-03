@@ -17,6 +17,12 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`english_(uk)_mfa_dictionary_v2_0_0`
+   * {ref}`english_(uk)_mfa_dictionary_v2_0_0a`
+   ```
+
+
+   ```{admonition} Acoustic models
+   * {ref}`english_mfa_acoustic_model_v2_0_0a`
+* {ref}`english_mfa_acoustic_model_v2_0_0`
    ```
 ``````

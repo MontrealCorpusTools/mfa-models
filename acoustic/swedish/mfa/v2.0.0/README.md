@@ -70,10 +70,10 @@ Acoustic models are typically generated as one component of a larger ASR system 
 
 As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
 
-Using the pronunciation dictionaries and language models above:
+Using the pronunciation dictionary above and a language model trained on the GlobalPhone Swedish corpus (see the [GlobalPhone benchmark analysis page](https://montreal-forced-aligner.readthedocs.io/en/latest/benchmarks/globalphone_transcriptions.html) for more details):
 
-- **WER:** `0%`
-- **CER:** `0%`
+- **WER:** `10.1%`
+- **CER:** `4.7%`
 
 ## Ethical considerations
 

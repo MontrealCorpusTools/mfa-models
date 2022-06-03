@@ -14,8 +14,8 @@ with open(os.path.join(mfa_model_root, 'scripts', 'token'), 'r') as f:
 
 tag_template = "{model_type}-{model_name}-v{version}"
 
-manager = ModelManager()
-manager.refresh_remote(token=token)
+manager = ModelManager(token=token)
+manager.refresh_remote()
 model_type_names ={
     'acoustic': 'Acoustic models',
     'dictionary': 'Pronunciation dictionaries',

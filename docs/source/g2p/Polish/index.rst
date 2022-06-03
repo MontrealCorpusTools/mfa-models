@@ -16,4 +16,5 @@ Polish
 .. toctree::
    :hidden:
 
+   Polish MFA G2P model v2_0_0a.md
    Polish MFA G2P model v2_0_0.md

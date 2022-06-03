@@ -19,4 +19,5 @@ Vietnamese
    Common Voice Vietnamese v7_0.md
    VIVOS.md
    Common Voice Vietnamese v8_0.md
+   Common Voice Vietnamese v9_0.md
    GlobalPhone Vietnamese v3_1.md

@@ -16,4 +16,5 @@ French
 .. toctree::
    :hidden:
 
+   French MFA G2P model v2_0_0a.md
    French MFA G2P model v2_0_0.md

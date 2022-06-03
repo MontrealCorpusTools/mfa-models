@@ -17,8 +17,10 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`bulgarian_cv_dictionary_v2_0_0`
+   * {ref}`bulgarian_mfa_dictionary_v2_0_0a`
+* {ref}`bulgarian_cv_dictionary_v2_0_0`
 * {ref}`bulgarian_mfa_dictionary_v2_0_0`
+* {ref}`bulgarian_mfa_dictionary_v2_0_0a`
    ```
 
 

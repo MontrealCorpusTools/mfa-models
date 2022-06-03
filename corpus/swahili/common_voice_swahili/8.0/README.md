@@ -10,7 +10,7 @@
 - **Dialects:** N/A
 - **Number of hours:** `655.47`
 - **Number of utterances:** `445,191`
-- **Number of speakers:** `7,756`
+- **Number of speakers:** `288`
   - **Female speakers:** `61`
   - **Male speakers:** `62`
   - **Unknown speakers:** `7,633`

@@ -17,8 +17,10 @@
 
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`swedish_cv_dictionary_v2_0_0`
+   * {ref}`swedish_mfa_dictionary_v2_0_0a`
+* {ref}`swedish_cv_dictionary_v2_0_0`
 * {ref}`swedish_mfa_dictionary_v2_0_0`
+* {ref}`swedish_mfa_dictionary_v2_0_0a`
    ```
 
 
