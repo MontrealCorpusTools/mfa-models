@@ -16,6 +16,6 @@ Turkish
 .. toctree::
    :hidden:
 
-   Turkish MFA acoustic model v2_0_0a.md
    Turkish CV acoustic model v2_0_0.md
    Turkish MFA acoustic model v2_0_0.md
+   Turkish MFA acoustic model v2_0_0a.md

@@ -17,3 +17,5 @@ scripts/temp/
 /scripts/token
 
 *.db
+
+*.pyc

@@ -16,5 +16,5 @@ Croatian
 .. toctree::
    :hidden:
 
-   Croatian MFA acoustic model v2_0_0a.md
    Croatian MFA acoustic model v2_0_0.md
+   Croatian MFA acoustic model v2_0_0a.md

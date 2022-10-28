@@ -24,7 +24,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`hausa_mfa_acoustic_model_v2_0_0a`
-* {ref}`hausa_mfa_acoustic_model_v2_0_0`
+   * {ref}`hausa_mfa_acoustic_model_v2_0_0`
+* {ref}`hausa_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

@@ -16,6 +16,6 @@ Hausa
 .. toctree::
    :hidden:
 
-   Hausa MFA acoustic model v2_0_0a.md
    Hausa CV acoustic model v2_0_0.md
    Hausa MFA acoustic model v2_0_0.md
+   Hausa MFA acoustic model v2_0_0a.md

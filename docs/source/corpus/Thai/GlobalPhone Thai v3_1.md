@@ -25,7 +25,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`thai_mfa_acoustic_model_v2_0_0a`
-* {ref}`thai_mfa_acoustic_model_v2_0_0`
+   * {ref}`thai_mfa_acoustic_model_v2_0_0`
+* {ref}`thai_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

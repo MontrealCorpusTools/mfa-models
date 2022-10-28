@@ -208,7 +208,7 @@ class IpaCell(Directive):
         output_nodes = []
         manner_type = ''
         for i, row_list in enumerate(node[0]):
-            phone_type = row_list[0].children[0].rawsource
+            phone_type = row_list[0].children[0].astext()
             phone_type_list = row_list[1]
             phone_type_children = []
             if phone_type in {'voiceless', 'voiced'}:
@@ -218,12 +218,12 @@ class IpaCell(Directive):
             else:
                 manner_type = 'sonorant'
             for phone_list in phone_type_list:
-                phone = phone_list[0].children[0].rawsource
+                phone = phone_list[0].children[0].astext()
                 extra_data = {}
                 if len(phone_list) > 1:
                     for extra_list in phone_list[1:]:
                         for extra in extra_list:
-                            base = extra.children[0].rawsource
+                            base = extra.children[0].astext()
                             if ':' in base:
                                 key, value = base.split(': ')
                                 extra_data[key] = value
@@ -231,7 +231,7 @@ class IpaCell(Directive):
                                 extra_data[base] = {}
                                 for e in extra.children[1:]:
                                     for c in e.children:
-                                        example = c.children[0].rawsource
+                                        example = c.children[0].astext()
                                         key, value = example.split(': ')
                                         extra_data[base][key] = value
 

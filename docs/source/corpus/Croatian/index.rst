@@ -20,3 +20,4 @@ Croatian
    Common Voice Serbian v9_0.md
    GlobalPhone Croatian v3_1.md
    VoxPopuli Croatian.md
+   ParlaSpeech.md

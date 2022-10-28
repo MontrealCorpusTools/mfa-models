@@ -25,7 +25,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`ukrainian_mfa_acoustic_model_v2_0_0a`
-* {ref}`ukrainian_mfa_acoustic_model_v2_0_0`
+   * {ref}`ukrainian_mfa_acoustic_model_v2_0_0`
+* {ref}`ukrainian_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

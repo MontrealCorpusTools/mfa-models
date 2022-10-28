@@ -25,7 +25,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`polish_mfa_acoustic_model_v2_0_0a`
-* {ref}`polish_mfa_acoustic_model_v2_0_0`
+   * {ref}`polish_mfa_acoustic_model_v2_0_0`
+* {ref}`polish_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

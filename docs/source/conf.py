@@ -16,6 +16,7 @@
 from datetime import date
 import os
 import sys
+from montreal_forced_aligner.utils import get_mfa_version  # noqa
 
 # -- Project information -----------------------------------------------------
 
@@ -23,8 +24,9 @@ project = 'MFA Models'
 copyright = f"2018-{date.today().year}, Montreal Corpus Tools"
 author = 'Montreal Corpus Tools'
 
-# The full version, including alpha/beta/rc tags
-release = '2.0.0'
+version = ".".join(get_mfa_version().split(".", maxsplit=2)[:2])
+# The full version, including alpha/beta/rc tags.
+release = get_mfa_version()
 
 
 # -- General configuration ---------------------------------------------------
@@ -39,7 +41,6 @@ extensions = [
     "sphinxcontrib.needs",
     "sphinx_design",
     "sphinx.ext.viewcode",
-    "sphinxemoji.sphinxemoji",
     "sphinx.ext.extlinks",
     'myst_parser',
     'sphinx.ext.autosectionlabel',
@@ -146,11 +147,17 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 
-html_logo = "_static/logo_long.svg"
+html_logo = "_static/logo.svg"
 html_favicon = "_static/favicon.ico"
 
 
 html_theme_options = {
+    "external_links": [
+        {
+            "url": "https://montreal-forced-aligner.readthedocs.io/",
+            "name": "MFA docs",
+        },
+    ],
     "icon_links": [
         {
             "name": "GitHub",
@@ -158,6 +165,10 @@ html_theme_options = {
             "icon": "fab fa-github",
         },
     ],
+    "logo": {
+        "text": "Montreal Forced Aligner",
+        # "image_dark": "logo-dark.svg",
+    },
     "google_analytics_id": "UA-73068199-4",
     "show_nav_level": 1,
     "navigation_depth": 4,
@@ -179,6 +190,7 @@ html_static_path = ['_static']
 html_css_files = [
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css",
     "css/style.css",
+    "css/datatables.css",
 ]
 html_js_files = [
     'main.js',

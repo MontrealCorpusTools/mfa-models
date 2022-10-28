@@ -23,7 +23,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`spanish_mfa_acoustic_model_v2_0_0a`
-* {ref}`spanish_mfa_acoustic_model_v2_0_0`
+   * {ref}`spanish_mfa_acoustic_model_v2_0_0`
+* {ref}`spanish_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

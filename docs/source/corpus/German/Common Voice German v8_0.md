@@ -25,7 +25,7 @@
 
 
    ```{admonition} Acoustic models
-   * {ref}`german_mfa_acoustic_model_v2_0_0a`
-* {ref}`german_mfa_acoustic_model_v2_0_0`
+   * {ref}`german_mfa_acoustic_model_v2_0_0`
+* {ref}`german_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

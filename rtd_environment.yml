@@ -3,13 +3,12 @@ channels:
 dependencies:
   - python>=3.8
   - pip
+  - montreal-forced-aligner
+  - sphinx
+  - myst-parser
+  - numpydoc
+  - pydata-sphinx-theme
+  - sphinx-design
   - pip:
-      - sphinxemoji
-      - pydata-sphinx-theme
-      - sphinx-design
       - sphinxcontrib-needs
       - sphinxcontrib-plantuml
-      - sphinxcontrib-programoutput
-      - sphinx
-      - myst-parser
-      - numpydoc

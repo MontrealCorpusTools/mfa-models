@@ -1,0 +1,294 @@
+dialects:
+  nigeria:
+  - following_context: $
+    preceding_context: ''
+    replacement: s
+    segment: 'z'
+  uk:
+  - following_context: ''
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ʔ
+    segment: 't[ʲʷ]?'
+  - following_context: ʉː?
+    preceding_context: ''
+    replacement: tʃ
+    segment: 'tʲ'
+  - following_context: ʉː?
+    preceding_context: ''
+    replacement: dʒ
+    segment: 'dʲ'
+  - following_context: '[ɪi]ː?'
+    preceding_context: ''
+    replacement: fʲ
+    segment: 'θ'
+  - following_context: '[^ɪi]+'
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '$'
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '[ɪi]ː?'
+    preceding_context: ''
+    replacement: vʲ
+    segment: 'ð'
+  - following_context: '[^ɪi]+'
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
+  - following_context: '$'
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
+  us:
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾ
+    segment: '[td]'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: ɹ
+    replacement: ɾ
+    segment: '[td]'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: ɫ
+    replacement: ɾ
+    segment: '[td]'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾʲ
+    segment: '[td]ʲ'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: ɹ
+    replacement: ɾʲ
+    segment: '[td]ʲ'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: ɫ
+    replacement: ɾʲ
+    segment: '[td]ʲ'
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾ̃
+    segment: (ɲ|n)
+  - following_context: (ɪ|ə|ɚ|i)
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾ̃
+    segment: (ɲ|n) [td][ʲʷ]?
+  - following_context: $
+    preceding_context: ''
+    replacement: ɑː
+    segment: ɒː
+  - following_context: '[^ɹ]'
+    preceding_context: ''
+    replacement: ɑː
+    segment: ɒː
+  - following_context: $
+    preceding_context: ''
+    replacement: ɑ
+    segment: ɒ
+  - following_context: '[^ɹ]'
+    preceding_context: ''
+    replacement: ɑ
+    segment: ɒ
+  - following_context: $
+    preceding_context: '[sʃn]'
+    replacement: ''
+    segment: t
+  - following_context: $
+    preceding_context: '[zʒn]'
+    replacement: ''
+    segment: d
+  - following_context: $
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾ
+    segment: t
+  - following_context: $
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ʔ
+    segment: t
+  - following_context: $
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ''
+    segment: t
+  - following_context: $
+    preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+    replacement: ɾ
+    segment: d
+rules:
+- following_context: .*(ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
+  preceding_context: ^
+  replacement: ''
+  segment: ə
+- following_context: ə|ɚ
+  preceding_context: ''
+  replacement: j
+  segment: i
+- following_context: ə|ɚ
+  preceding_context: ''
+  replacement: w
+  segment: ʉ
+- following_context: ''
+  preceding_context: ''
+  replacement: ʔ n̩
+  segment: t ə n
+- following_context: '[dtsz]$'
+  preceding_context: ''
+  replacement: n̩
+  segment: ə n
+- following_context: $
+  preceding_context: ''
+  replacement: n̩
+  segment: ə n
+- following_context: ''
+  preceding_context: ''
+  replacement: n̩
+  segment: ə n
+- following_context: '[dtsz]$'
+  preceding_context: ''
+  replacement: m̩
+  segment: ə m
+- following_context: $
+  preceding_context: ''
+  replacement: m̩
+  segment: ə m
+- following_context: ''
+  preceding_context: ''
+  replacement: m̩
+  segment: ə m
+- following_context: '[dtsz]$'
+  preceding_context: ''
+  replacement: ɫ̩
+  segment: ə ɫ
+- following_context: $
+  preceding_context: ''
+  replacement: ɫ̩
+  segment: ə ɫ
+- following_context: ''
+  preceding_context: ''
+  replacement: ɫ̩
+  segment: ə ɫ
+- following_context: ''
+  preceding_context: ''
+  replacement: d̪
+  segment: ð
+- following_context: ''
+  preceding_context: ''
+  replacement: t̪
+  segment: θ
+- following_context: '[tpkcsʃf][ʲʷ]?'
+  preceding_context: ''
+  replacement: s
+  segment: z
+- following_context: '[tpkcsʃf][ʲʷ]?'
+  preceding_context: ''
+  replacement: t
+  segment: d
+- following_context: '[tpkcsʃf][ʲʷ]?'
+  preceding_context: ''
+  replacement: p
+  segment: b
+- following_context: '[tpkcsʃf][ʲʷ]?'
+  preceding_context: ''
+  replacement: k
+  segment: ɡ
+- following_context: '[tpkcsʃf][ʲʷ]?'
+  preceding_context: ''
+  replacement: tʃ
+  segment: dʒ
+- following_context: '[vf]ʲ?'
+  preceding_context: ''
+  replacement: ɱ
+  segment: m
+- following_context: '[td]$'
+  preceding_context: m
+  replacement: ''
+  segment: '[pb]'
+- following_context: '[sz]$'
+  preceding_context: n
+  replacement: ''
+  segment: '[td]'
+- following_context: '[s]$'
+  preceding_context: ''
+  replacement: k
+  segment: '[sʃ] k'
+- following_context: '[s]$'
+  preceding_context: ''
+  replacement: ''
+  segment: '[sʃ] t'
+- following_context: $
+  preceding_context: ''
+  replacement: k s
+  segment: s k
+- following_context: '[dtcɟɡk][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: p
+- following_context: '[pbcɟɡk][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: t
+- following_context: '[pbcɟɡk][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: d
+- following_context: '[dtcɟɡk][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: b
+- following_context: '[dtpb][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: k
+- following_context: '[dtpb][ʲʷ]?'
+  preceding_context: ''
+  replacement: ''
+  segment: ɡ
+- following_context: ([tpkc][ʲʷ]?)? ɹ
+  preceding_context: ''
+  replacement: ʃ
+  segment: s
+- following_context: ''
+  preceding_context: ''
+  replacement: tʃ
+  segment: t[ʲʷ]? ɹ
+- following_context: ''
+  preceding_context: ''
+  replacement: dʒ
+  segment: d[ʲʷ]? ɹ
+- following_context: ɡ
+  preceding_context: ''
+  probability: 0.05
+  replacement: ej
+  segment: æ
+- following_context: ɡ
+  preceding_context: ''
+  replacement: ej
+  segment: ɛ
+- following_context: ə n
+  preceding_context: ''
+  replacement: ʔ
+  segment: t
+- following_context: $
+  preceding_context: ɪ
+  replacement: n
+  segment: ŋ
+- following_context: z $
+  preceding_context: ɪ
+  replacement: n
+  segment: ŋ
+- following_context: ''
+  preceding_context: ''
+  replacement: t̪
+  segment: 't θ'
+- following_context: ''
+  preceding_context: ''
+  replacement: t̪
+  segment: 'θ t'
+- following_context: ''
+  preceding_context: ''
+  replacement: d̪
+  segment: 'ð d'
+- following_context: ''
+  preceding_context: ''
+  replacement: d̪
+  segment: 'd ð'

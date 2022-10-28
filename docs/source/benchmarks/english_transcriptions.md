@@ -27,7 +27,7 @@ The phoneset mapping files for the Buckeye phoneset are available for [ARPA](htt
 
 ### TIMIT
 
-The first dataset used in the benchmark is the {need}`TIMIT`.
+The second dataset used in the benchmark is the {need}`TIMIT`.
 
 ```{warning}
 
