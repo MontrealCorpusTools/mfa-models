@@ -222,6 +222,7 @@ color: #003566 !important;
   --dark-yellow: #E3930D;
   --light-yellow: #FFD60A;
   --sd-color-primary: var(--base-blue);
+  --mfa-admonition-text-color:  #cecece;
   --sd-color-dark: var(--base-blue);
   --sd-color-primary-text: #FFC300;
   --sd-color-primary-highlight: #FFC300;
@@ -262,7 +263,7 @@ html[data-theme="dark"] {
   --pst-color-primary: var(--base-yellow);
   --pst-color-warning: var(--light-yellow);
   --pst-color-info: var(--light-blue);
-
+--mfa-admonition-text-color: var(--pst-color-text-base);
     --pst-color-link: var(--very-light-blue);
     --pst-color-link-hover: var(--light-yellow);
 
@@ -376,7 +377,7 @@ div.admonition p.admonition-title {
 
 table.need p,
 div.admonition p {
-   color: #FFFFFF;
+   color: var(--mfa-admonition-text-color);
 }
 
 table.need a:hover,
