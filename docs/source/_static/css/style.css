@@ -23,6 +23,85 @@
 	font-style: italic;
 	src: url(../fonts/GentiumPlus-BoldItalic.woff2);
 }
+
+
+:root {
+  --base-blue: #003566;
+  --dark-blue: #001D3D;
+  --very-dark-blue: #000814;
+  --light-blue: #0E63B3;
+  --very-light-blue: #7AB5E6;
+  --base-yellow: #FFC300;
+  --dark-yellow: #E3930D;
+  --light-yellow: #FFD60A;
+}
+
+html[data-theme="light"] {
+  --sd-color-primary: var(--base-blue);
+  --mfa-admonition-text-color: #cecece;
+  --sd-color-dark: var(--base-blue);
+  --sd-color-primary-text: #FFC300;
+  --sd-color-primary-highlight: #FFC300;
+  --pst-color-primary: var(--base-blue);
+  --pst-color-warning: var(--light-yellow);
+  --pst-color-info: var(--light-blue);
+  --pst-color-admonition-default: var(--light-blue);
+
+ --pst-color-link: var(--light-blue);
+ --pst-color-link-hover: var(--dark-blue);
+
+ --pst-color-active-navigation: var(--dark-blue);
+ --pst-color-hover-navigation: var(--base-yellow);
+
+ --pst-color-navbar-link: var(--base-blue);
+ --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
+ --pst-color-navbar-link-active: var(--pst-color-active-navigation);
+
+ --pst-color-sidebar-link: var(--base-blue);
+ --pst-color-sidebar-caption: var(--base-blue);
+ --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
+ --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
+
+ --pst-color-toc-link: var(--base-blue);
+ --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
+ --pst-color-toc-link-active: var(--pst-color-active-navigation);
+}
+/*******************************************************************************
+* dark theme
+*
+* all the variables used for dark theme coloring
+*/
+html[data-theme="dark"] {
+  --sd-color-primary: var(--base-blue);
+  --sd-color-card-text: var(--base-yellow);
+  --sd-color-dark: var(--base-blue);
+  --sd-color-primary-text: var(--base-yellow);
+  --sd-color-primary-highlight: var(--base-yellow);
+  --pst-color-primary: var(--base-yellow);
+  --pst-color-warning: var(--light-yellow);
+  --pst-color-info: var(--light-blue);
+--mfa-admonition-text-color: var(--pst-color-text-base);
+    --pst-color-link: var(--very-light-blue);
+    --pst-color-link-hover: var(--light-yellow);
+
+    --pst-color-active-navigation: var(--base-yellow);
+    --pst-color-hover-navigation: var(--very-light-blue);
+
+    --pst-color-navbar-link: var(--light-blue);
+    --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
+    --pst-color-navbar-link-active: var(--pst-color-active-navigation);
+
+    --pst-color-sidebar-link: var(--base-yellow);
+    --pst-color-sidebar-caption: var(--base-yellow);
+    --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
+    --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
+
+    --pst-color-toc-link: var(--base-yellow);
+    --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
+    --pst-color-toc-link-active: var(--pst-color-active-navigation);
+}
+
+
 .container, .bd-page-width, .container-xl, .container-lg {
     max-width: 2400px !important;
 }
@@ -148,7 +227,7 @@ color: #7AB5E6;
 }
 
 .ipa-highlight, ipa-inline {
-color: rgba(var(--pst-color-inline-code),1);
+color: var(--pst-color-inline-code);
 }
 
 .ipa-tooltip-key {
@@ -159,7 +238,7 @@ margin-right: 10px;
 
 .ipa-tooltip-value {
 font-weight: bold;
-color: rgba(var(--pst-color-inline-code),1);
+color: var(--pst-color-inline-code);
 font-family: var(--pst-font-family-monospace);
 }
 
@@ -212,78 +291,6 @@ font-weight: bold;
 color: #003566 !important;
 }
 
-:root {
-  --base-blue: #003566;
-  --dark-blue: #001D3D;
-  --very-dark-blue: #000814;
-  --light-blue: #0E63B3;
-  --very-light-blue: #7AB5E6;
-  --base-yellow: #FFC300;
-  --dark-yellow: #E3930D;
-  --light-yellow: #FFD60A;
-  --sd-color-primary: var(--base-blue);
-  --mfa-admonition-text-color:  #cecece;
-  --sd-color-dark: var(--base-blue);
-  --sd-color-primary-text: #FFC300;
-  --sd-color-primary-highlight: #FFC300;
-  --pst-color-primary: var(--base-blue);
-  --pst-color-warning: var(--light-yellow);
-  --pst-color-info: var(--light-blue);
-  --pst-color-admonition-default: var(--light-blue);
-
-    --pst-color-link: var(--light-blue);
-    --pst-color-link-hover: var(--dark-blue);
-
-    --pst-color-active-navigation: var(--dark-blue);
-    --pst-color-hover-navigation: var(--base-yellow);
-
-    --pst-color-navbar-link: var(--base-blue);
-    --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-navbar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-sidebar-link: var(--base-blue);
-    --pst-color-sidebar-caption: var(--base-blue);
-    --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-toc-link: var(--base-blue);
-    --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-toc-link-active: var(--pst-color-active-navigation);
-}
-/*******************************************************************************
-* dark theme
-*
-* all the variables used for dark theme coloring
-*/
-html[data-theme="dark"] {
-  --sd-color-primary: var(--base-blue);
-  --sd-color-dark: var(--base-blue);
-  --sd-color-primary-text: var(--base-yellow);
-  --sd-color-primary-highlight: var(--base-yellow);
-  --pst-color-primary: var(--base-yellow);
-  --pst-color-warning: var(--light-yellow);
-  --pst-color-info: var(--light-blue);
---mfa-admonition-text-color: var(--pst-color-text-base);
-    --pst-color-link: var(--very-light-blue);
-    --pst-color-link-hover: var(--light-yellow);
-
-    --pst-color-active-navigation: var(--base-yellow);
-    --pst-color-hover-navigation: var(--very-light-blue);
-
-    --pst-color-navbar-link: var(--light-blue);
-    --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-navbar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-sidebar-link: var(--base-yellow);
-    --pst-color-sidebar-caption: var(--base-yellow);
-    --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-toc-link: var(--base-yellow);
-    --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-toc-link-active: var(--pst-color-active-navigation);
-}
-
 table.need {
    background-color: #001D3D;
    color: #FFC300;
@@ -306,7 +313,7 @@ table.need strong {
 }
 
 table.need .needs_tags .needs_data {
-   color: rgba(var(--pst-color-inline-code),1);
+   color: var(--pst-color-inline-code);
 }
 
 .needs_side {
@@ -325,14 +332,13 @@ table.need div[class*="highlight-"] {
 }
 
 .ipa-dot, .ipa-icon{
-   color:#003566;
+    color: var(--pst-color-primary);
 }
 
 .ipa-dot {
     line-height: inherit!important;
     vertical-align: middle;
     font-size:0.5em;
-    color: var(--pst-color-primary);
  }
 
 div.admonition {
@@ -340,30 +346,30 @@ div.admonition {
    color: #FFC300;
 }
 
-.admonition.warning > .admonition-title::before,
-.admonition.note > .admonition-title::before,
-div.admonition.warning > .admonition-title::before,
-div.admonition.note > .admonition-title::before,
-div.admonition > .admonition-title::before {
-   color: #003566;
+.admonition.warning > .admonition-title::after,
+.admonition.note > .admonition-title::after,
+div.admonition.warning > .admonition-title::after,
+div.admonition.note > .admonition-title::after,
+div.admonition > .admonition-title::after {
+   color: var(--dark-blue);
    width: 1em;
    height: 1em;
    left: 0.5em;
 }
 
-div.admonition.admonition-pronunciation-dictionaries p.admonition-title::before {
+div.admonition.admonition-pronunciation-dictionaries p.admonition-title::after {
    content: "\f891"
 }
 
-div.admonition.admonition-g2p-models p.admonition-title::before {
+div.admonition.admonition-g2p-models p.admonition-title::after {
    content: "\f519"
 }
 
-div.admonition.admonition-acoustic-models p.admonition-title::before {
+div.admonition.admonition-acoustic-models p.admonition-title::after {
    content: "\f3c9"
 }
 
-div.admonition.admonition-language-models p.admonition-title::before {
+div.admonition.admonition-language-models p.admonition-title::after {
    content: "\f1ab"
 }
 
@@ -469,4 +475,19 @@ html[data-theme="dark"] table.dataTable tbody tr {
 html[data-theme="dark"] .bd-content img:not(.only-dark):not(.dark-light)
 {
    background: transparent;
+}
+
+html[data-theme="dark"] .sd-card-title
+{
+   color: var(--base-yellow) !important;
+}
+
+li::marker
+{
+   color: var(--base-blue) !important;
+}
+
+html[data-theme="dark"] li::marker
+{
+   color: var(--base-yellow) !important;
 }
