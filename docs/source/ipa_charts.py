@@ -24,7 +24,7 @@ from docutils import nodes, utils
 from docutils.nodes import Node, system_message
 from docutils.parsers.rst import Directive
 from docutils.parsers.rst import directives
-from sphinxcontrib.needs.api import add_dynamic_function
+from sphinx_needs.api import add_dynamic_function
 from docutils.parsers.rst.states import Inliner
 from sphinx.application import Sphinx
 from sphinx.util import caption_ref_re

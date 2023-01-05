@@ -1,106 +1,139 @@
-bilabial_stops:
+-
   - p
   - pʷ
   - pʰ
   - pʲ
+-
   - b
   - bʲ
-labiodental_obstruents:
+-
   - f
   - fʷ
   - fʲ
+-
   - v
   - vʷ
   - vʲ
-dental_obstruents:
+-
   - θ
+-
   - ð
+-
   - d̪
+-
   - t̪
-coronal_stops:
+-
   - t
   - tʷ
   - tʰ
   - tʲ
+-
   - d
   - dʲ
+-
   - ɾ
   - ɾʲ
+-
   - ʔ
-coronal_affricates:
+-
   - tʃ
+-
   - dʒ
-coronal_fricatives:
+-
   - ʃ
+-
   - ʒ
+-
   - s
+-
   - z
-rhotics:
+-
   - ɹ
-nasals:
+-
   - m
   - mʲ
   - m̩
+-
   - n
   - n̩
+-
   - ɱ
+-
   - ɲ
+-
   - ŋ
+-
   - ɾ̃
-laterals:
+-
   - l
+-
   - ɫ
   - ɫ̩
+-
   - ʎ
-dorsal_obstruents:
+-
   - ɟ
   - ɡ
+-
   - c
   - cʷ
   - cʰ
   - k
   - kʷ
   - kʰ
-voiceless_glottals:
+-
   - ç
   - h
-central_vowels:
+-
   - ɐ
+-
   - ə
+-
   - ɜː
   - ɜ
   - ɝ
   - ɚ
+-
   - ʊ
+-
   - ɪ
-low_vowels:
+-
   - ɑ
   - ɑː
+-
   - ɒ
   - ɒː
+  - ɔ
+-
   - aː
   - a
+-
   - aj
+
   - aw
-high_front_vowels:
+-
   - i
   - iː
+-
   - j
-mid_front_vowels:
+-
   - æ
+-
   - ɛː
-  - e
   - ɛ
+-
+  - e
   - ej
-high_back_vowels:
+-
   - ʉ
   - ʉː
   - uː
   - u
+-
   - w
-mid_back_vowels:
+-
   - ɔj
+-
   - ow
   - əw
   - o
-  - ɔ

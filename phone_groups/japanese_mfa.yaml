@@ -1,69 +1,87 @@
-bilabial_stops:
+-
   - p
   - pː
+-
   - pʲ
   - pʲː
+-
   - b
   - bː
-  - bʲ
-  - bʲː
   - v
   - vː
+-
+  - bʲ
+  - bʲː
   - vʲ
   - vʲː
-coronal_stops:
+-
   - t
   - tː
   - tʲ
   - tʲː
+-
   - d
   - dː
   - dʲ
   - dʲː
-coronal_fricatives:
+-
   - tɕ
   - tɕː
+-
   - ɕ
   - ɕː
+-
   - s
   - sː
+-
   - ts
   - tsː
+-
   - z
   - dz
   - dzː
+-
   - dʑ
   - dʑː
   - ʑ
-liquids:
+-
   - ɾ
   - ɾː
+-
   - ɾʲ
   - ɾʲː
-nasals:
+-
   - ɴ
   - ɴː
+-
   - m
   - mː
+-
   - mʲ
   - mʲː
+-
   - n
   - nː
-  - ɱ
+-
   - ɲ
   - ɲː
+-
   - ŋ
+-
   - ɰ̃
-dorsal_obstruents:
+-
   - ɟ
   - ɟː
+-
   - ɡ
   - ɡː
+-
   - c
   - cː
+-
   - k
   - kː
-voiceless_glottals:
+-
   - ç
   - çː
   - h
@@ -72,27 +90,33 @@ voiceless_glottals:
   - ɸː
   - ɸʲ
   - ɸʲː
-low_vowels:
+-
   - aː
   - a
-high_front_vowels:
+-
   - i
-  - i̥
   - iː
+-
+  - i̥
+-
   - j
-mid_front_vowels:
+-
   - e
   - eː
-high_back_vowels:
+-
   - ɯ
-  - ɯ̥
   - ɯː
+-
+  - ɯ̥
+-
   - ɨ
-  - ɨ̥
   - ɨː
+-
+  - ɨ̥
+-
   - w
-mid_back_vowels:
+-
   - o
   - oː
-glottals:
+-
   - ʔ

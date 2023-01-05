@@ -38,7 +38,7 @@ release = get_mfa_version()
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 extensions = [
-    "sphinxcontrib.needs",
+    "sphinx_needs",
     "sphinx_design",
     "sphinx.ext.viewcode",
     "sphinx.ext.extlinks",
@@ -55,7 +55,7 @@ needs_types = [dict(directive="acoustic", title="Acoustic model", prefix="AM_", 
                dict(directive="corpus", title="Corpus", prefix="", color="#FEDCD2", style="node"),
                dict(directive="g2p", title="G2P model", prefix="G2P_", color="#FEDCD2", style="node"),
                dict(directive="language_model", title="Language model", prefix="LM_", color="#DF744A", style="node"),
-               dict(directive="ivector_extractor", title="Ivector Extractor", prefix="IE_", color="#DCB239", style="node"),
+               dict(directive="ivector", title="Ivector Extractor", prefix="IE_", color="#DCB239", style="node"),
                dict(directive="dictionary", title="Dictionary", prefix="D_", color="#DCB239", style="node"),
            ]
 
@@ -103,6 +103,8 @@ current_languages = ["Abkhaz", "Armenian", "Arabic", "Bashkir", "Basque", "Belar
                      "Tamil", "Tatar", "Thai", "Turkish", "Ukrainian", "Urdu",  "Uyghur", "Uzbek", "Vietnamese"]
 for lang in current_languages:
     needs_tags.append({'name': lang,'description':f'{lang} language'})
+
+needs_tags.append({'name': 'Multilingual','description': 'Multiple languages'})
 
 needs_id_regex = '[A-Za-z0-9 .():_]+'
 needs_id_required = True
@@ -209,7 +211,7 @@ rst_prolog = """
 .. role:: ipa_inline
    :class: ipa-inline ipa-highlight
 """
-from sphinxcontrib.needs.api.configuration import add_dynamic_function
+from sphinx_needs.api.configuration import add_dynamic_function
 
 
 license_links = {

@@ -15,15 +15,12 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`swahili_mfa_dictionary_v2_0_0a`
-* {ref}`swahili_mfa_dictionary_v2_0_0`
+   * {ref}`swahili_mfa_dictionary_v2_0_0`
 * {ref}`swahili_mfa_dictionary_v2_0_0a`
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`swahili_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

@@ -16,5 +16,5 @@ Bulgarian
 .. toctree::
    :hidden:
 
-   Bulgarian MFA G2P model v2_0_0a.md
    Bulgarian MFA G2P model v2_0_0.md
+   Bulgarian MFA G2P model v2_0_0a.md

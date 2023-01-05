@@ -16,11 +16,11 @@ Vietnamese
 .. toctree::
    :hidden:
 
-   Vietnamese (Hanoi) MFA dictionary v2_0_0a.md
-   Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0a.md
-   Vietnamese MFA dictionary v2_0_0a.md
    Vietnamese CV dictionary v2_0_0.md
    Vietnamese (Hanoi) MFA dictionary v2_0_0.md
+   Vietnamese (Hanoi) MFA dictionary v2_0_0a.md
    Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0.md
+   Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0a.md
    Vietnamese (Hue) MFA dictionary v2_0_0.md
    Vietnamese MFA dictionary v2_0_0.md
+   Vietnamese MFA dictionary v2_0_0a.md

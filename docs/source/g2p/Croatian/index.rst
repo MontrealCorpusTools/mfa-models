@@ -16,5 +16,5 @@ Croatian
 .. toctree::
    :hidden:
 
-   Croatian MFA G2P model v2_0_0a.md
    Croatian MFA G2P model v2_0_0.md
+   Croatian MFA G2P model v2_0_0a.md

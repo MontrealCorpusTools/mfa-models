@@ -16,5 +16,5 @@ Hausa
 .. toctree::
    :hidden:
 
-   Hausa MFA G2P model v2_0_0a.md
    Hausa MFA G2P model v2_0_0.md
+   Hausa MFA G2P model v2_0_0a.md

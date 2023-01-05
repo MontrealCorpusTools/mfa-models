@@ -15,13 +15,11 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0a`
+
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`vietnamese_mfa_acoustic_model_v2_0_0`
 * {ref}`vietnamese_mfa_acoustic_model_v2_0_0a`
    ```

@@ -15,10 +15,8 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`german_mfa_dictionary_v2_0_0a`
-* {ref}`german_mfa_dictionary_v2_0_0`
+   * {ref}`german_mfa_dictionary_v2_0_0`
 * {ref}`german_mfa_dictionary_v2_0_0a`
 * {ref}`german_prosodylab_dictionary_v2_0_0`
    ```

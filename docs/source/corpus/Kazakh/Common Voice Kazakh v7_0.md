@@ -15,13 +15,11 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
    * {ref}`kazakh_cv_dictionary_v2_0_0`
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`kazakh_cv_acoustic_model_v2_0_0`
    ```
 ``````

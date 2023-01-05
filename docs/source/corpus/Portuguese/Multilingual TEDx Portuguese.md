@@ -15,8 +15,7 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`portuguese_(portugal)_mfa_dictionary_v2_0_0a`
+
    ```
 ``````

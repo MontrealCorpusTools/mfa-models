@@ -10,5 +10,5 @@ dependencies:
   - pydata-sphinx-theme
   - sphinx-design
   - pip:
-      - sphinxcontrib-needs
+      - sphinx-needs
       - sphinxcontrib-plantuml

@@ -16,5 +16,5 @@ Czech
 .. toctree::
    :hidden:
 
-   Czech MFA G2P model v2_0_0a.md
    Czech MFA G2P model v2_0_0.md
+   Czech MFA G2P model v2_0_0a.md

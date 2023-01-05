@@ -16,6 +16,6 @@ Turkish
 .. toctree::
    :hidden:
 
-   Turkish MFA dictionary v2_0_0a.md
    Turkish CV dictionary v2_0_0.md
    Turkish MFA dictionary v2_0_0.md
+   Turkish MFA dictionary v2_0_0a.md

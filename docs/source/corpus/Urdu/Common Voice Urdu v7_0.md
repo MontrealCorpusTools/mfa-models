@@ -15,7 +15,6 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
    * {ref}`urdu_cv_dictionary_v2_0_0`
    ```

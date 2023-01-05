@@ -1,0 +1,5 @@
+use_pitch: true
+use_voicing: true
+min_f0: 50
+max_f0: 900
+num_coefficients: 20

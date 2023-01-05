@@ -226,7 +226,7 @@ color: #7AB5E6;
 color: #7AB5E6;
 }
 
-.ipa-highlight, ipa-inline {
+.ipa-highlight, .ipa-inline {
 color: var(--pst-color-inline-code);
 }
 
@@ -443,7 +443,7 @@ div[class*="highlight-"] {
   text-align: left;
 }
 
-ipa-inline {
+.ipa-inline {
   font-family: "GentiumPlusW";
   font-size: 1.1em;
   font-weight: 500;

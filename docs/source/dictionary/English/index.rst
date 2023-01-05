@@ -16,13 +16,13 @@ English
 .. toctree::
    :hidden:
 
-   English MFA dictionary v2_0_0a.md
-   English (Nigeria) MFA dictionary v2_0_0a.md
-   English (UK) MFA dictionary v2_0_0a.md
-   English (US) ARPA dictionary v2_0_0a.md
-   English (US) MFA dictionary v2_0_0a.md
    English MFA dictionary v2_0_0.md
+   English MFA dictionary v2_0_0a.md
    English (Nigeria) MFA dictionary v2_0_0.md
+   English (Nigeria) MFA dictionary v2_0_0a.md
    English (UK) MFA dictionary v2_0_0.md
+   English (UK) MFA dictionary v2_0_0a.md
    English (US) ARPA dictionary v2_0_0.md
+   English (US) ARPA dictionary v2_0_0a.md
    English (US) MFA dictionary v2_0_0.md
+   English (US) MFA dictionary v2_0_0a.md

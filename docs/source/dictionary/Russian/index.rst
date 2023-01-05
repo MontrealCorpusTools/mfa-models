@@ -16,6 +16,6 @@ Russian
 .. toctree::
    :hidden:
 
-   Russian MFA dictionary v2_0_0a.md
    Russian CV dictionary v2_0_0.md
    Russian MFA dictionary v2_0_0.md
+   Russian MFA dictionary v2_0_0a.md

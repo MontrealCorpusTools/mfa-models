@@ -15,14 +15,11 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`mandarin_(china)_mfa_dictionary_v2_0_0a`
-* {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0a`
+
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`mandarin_mfa_acoustic_model_v2_0_0`
    ```
 ``````

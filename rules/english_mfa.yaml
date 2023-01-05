@@ -4,6 +4,10 @@ dialects:
     preceding_context: ''
     replacement: s
     segment: 'z'
+  - following_context: ''
+    preceding_context: '^'
+    replacement: ''
+    segment: 'ç'
   uk:
   - following_context: ''
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
@@ -41,6 +45,10 @@ dialects:
     preceding_context: ''
     replacement: v
     segment: 'ð'
+  - following_context: ''
+    preceding_context: '^'
+    replacement: ''
+    segment: 'ç'
   us:
   - following_context: (ɪ|ə|ɚ|i)
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
@@ -91,14 +99,6 @@ dialects:
     replacement: ɑ
     segment: ɒ
   - following_context: $
-    preceding_context: '[sʃn]'
-    replacement: ''
-    segment: t
-  - following_context: $
-    preceding_context: '[zʒn]'
-    replacement: ''
-    segment: d
-  - following_context: $
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
     replacement: ɾ
     segment: t
@@ -119,6 +119,18 @@ rules:
   preceding_context: ^
   replacement: ''
   segment: ə
+- following_context: $
+  preceding_context: '[sʃn]'
+  replacement: ''
+  segment: t
+- following_context: $
+  preceding_context: '[zʒn]'
+  replacement: ''
+  segment: d
+- following_context: ''
+  preceding_context: 'n'
+  replacement: ''
+  segment: d
 - following_context: ə|ɚ
   preceding_context: ''
   replacement: j
@@ -131,7 +143,7 @@ rules:
   preceding_context: ''
   replacement: ʔ n̩
   segment: t ə n
-- following_context: '[dtsz]$'
+- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
   preceding_context: ''
   replacement: n̩
   segment: ə n
@@ -139,34 +151,38 @@ rules:
   preceding_context: ''
   replacement: n̩
   segment: ə n
-- following_context: ''
+- following_context: $
   preceding_context: ''
-  replacement: n̩
-  segment: ə n
-- following_context: '[dtsz]$'
+  replacement: m̩
+  segment: ə m
+- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
   preceding_context: ''
   replacement: m̩
   segment: ə m
 - following_context: $
   preceding_context: ''
-  replacement: m̩
-  segment: ə m
+  replacement: ɫ̩
+  segment: ə ɫ
+- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
+  preceding_context: ''
+  replacement: ɫ̩
+  segment: ə ɫ
+- following_context: '$'
+  preceding_context: ''
+  replacement: t̪
+  segment: 't θ'
 - following_context: ''
   preceding_context: ''
-  replacement: m̩
-  segment: ə m
-- following_context: '[dtsz]$'
+  replacement: t̪
+  segment: 'θ t'
+- following_context: '$'
   preceding_context: ''
-  replacement: ɫ̩
-  segment: ə ɫ
-- following_context: $
-  preceding_context: ''
-  replacement: ɫ̩
-  segment: ə ɫ
+  replacement: d̪
+  segment: 'ð d'
 - following_context: ''
   preceding_context: ''
-  replacement: ɫ̩
-  segment: ə ɫ
+  replacement: d̪
+  segment: 'd ð'
 - following_context: ''
   preceding_context: ''
   replacement: d̪
@@ -199,6 +215,10 @@ rules:
   preceding_context: ''
   replacement: ɱ
   segment: m
+- following_context: '[vf]ʲ?'
+  preceding_context: ''
+  replacement: ɱ
+  segment: n
 - following_context: '[td]$'
   preceding_context: m
   replacement: ''
@@ -276,19 +296,3 @@ rules:
   preceding_context: ɪ
   replacement: n
   segment: ŋ
-- following_context: ''
-  preceding_context: ''
-  replacement: t̪
-  segment: 't θ'
-- following_context: ''
-  preceding_context: ''
-  replacement: t̪
-  segment: 'θ t'
-- following_context: ''
-  preceding_context: ''
-  replacement: d̪
-  segment: 'ð d'
-- following_context: ''
-  preceding_context: ''
-  replacement: d̪
-  segment: 'd ð'

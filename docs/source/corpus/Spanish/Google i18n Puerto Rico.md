@@ -15,13 +15,11 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0a`
+
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`spanish_mfa_acoustic_model_v2_0_0`
 * {ref}`spanish_mfa_acoustic_model_v2_0_0a`
    ```

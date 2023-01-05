@@ -15,15 +15,12 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`croatian_mfa_dictionary_v2_0_0a`
-* {ref}`croatian_mfa_dictionary_v2_0_0`
+   * {ref}`croatian_mfa_dictionary_v2_0_0`
 * {ref}`croatian_mfa_dictionary_v2_0_0a`
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`croatian_mfa_acoustic_model_v2_0_0a`
    ```
 ``````

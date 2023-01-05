@@ -16,6 +16,6 @@ Czech
 .. toctree::
    :hidden:
 
-   Czech MFA dictionary v2_0_0a.md
    Czech CV dictionary v2_0_0.md
    Czech MFA dictionary v2_0_0.md
+   Czech MFA dictionary v2_0_0a.md

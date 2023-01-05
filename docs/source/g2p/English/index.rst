@@ -16,11 +16,11 @@ English
 .. toctree::
    :hidden:
 
-   English (Nigeria) MFA G2P model v2_0_0a.md
-   English (UK) MFA G2P model v2_0_0a.md
-   English (US) ARPA G2P model v2_0_0a.md
-   English (US) MFA G2P model v2_0_0a.md
    English (Nigeria) MFA G2P model v2_0_0.md
+   English (Nigeria) MFA G2P model v2_0_0a.md
    English (UK) MFA G2P model v2_0_0.md
+   English (UK) MFA G2P model v2_0_0a.md
    English (US) ARPA G2P model v2_0_0.md
+   English (US) ARPA G2P model v2_0_0a.md
    English (US) MFA G2P model v2_0_0.md
+   English (US) MFA G2P model v2_0_0a.md

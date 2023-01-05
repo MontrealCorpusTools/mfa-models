@@ -9,6 +9,10 @@ from datetime import datetime
 import numpy as np
 import sqlalchemy
 from sqlalchemy.orm import subqueryload
+from montreal_forced_aligner.config import GLOBAL_CONFIG
+
+GLOBAL_CONFIG.temporary_directory = os.path.dirname(os.path.abspath(__file__))
+GLOBAL_CONFIG.database_backend = 'sqlite'
 import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES
 from montreal_forced_aligner.db import Word, Phone, PhoneType
@@ -18,7 +22,7 @@ from montreal_forced_aligner.data import voiced_variants, voiceless_variants, Ph
 rng = np.random.default_rng(1234)
 random.seed(1234)
 
-CURRENT_MODEL_VERSION = '2.0.0a'
+CURRENT_MODEL_VERSION = '2.1.0'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -32,6 +36,9 @@ def get_model_card_directory(model_type, meta_data):
     if model_type == 'language_model':
         language, version = meta_data['language'], meta_data['version']
         directory = os.path.join(model_directory, language.lower(), 'mfa', f"v{version}")
+    elif model_type == 'ivector':
+        language, version = meta_data['language'], meta_data['version']
+        directory = os.path.join(model_directory, language.lower(), f"v{version}")
     elif model_type == 'corpus':
         language, name = meta_data['language'], meta_data['name']
         name = make_path_safe(name)
@@ -124,8 +131,7 @@ lm_evaluation_detail_template="""
 
 link_template = '* {{ref}}`{}`'
 
-see_also_template = """
-   ```{{admonition}} {model_type_name}
+see_also_template = """```{{admonition}} {model_type_name}
    {links}
    ```"""
 
@@ -235,6 +241,82 @@ The primary sources of variability in forced alignment will be the applicability
 4. Adapt the model to your data
 
    * MFA has an [adaptation command](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html) to adapt some of the model to your data based on an initial alignment, and then run another alignment with the adapted model.
+
+## Training data
+
+This model was trained on the following corpora:
+
+{corpora_details}"""
+
+ivector_card_template = """
+# {title}
+
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/{model_name}.html)
+
+Jump to section:
+
+- [Model details](#model-details)
+- [Installation](#installation)
+- [Intended use](#intended-use)
+- [Performance Factors](#performance-factors)
+- [Metrics](#metrics)
+- [Ethical considerations](#ethical-considerations)
+- [Training data](#training-data)
+
+## Model details
+
+- **Maintainer:** {maintainer}
+- **Language:** {language_link}
+- **Model type:** `Ivector extractor`
+- **Features:** `{features}`
+- **Architecture:** `{architecture}`
+- **Model version:** `v{version}`
+- **Trained date:** `{date}`
+- **Compatible MFA version:** `v{mfa_version}`
+- **License:** {license_link}
+- **Citation:**
+
+```bibtex
+{citation}
+```
+
+- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
+
+## Installation
+
+Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
+
+```
+mfa models download ivector {model_name}
+```
+
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-{model_name}-v{version}).
+
+## Intended use
+
+This model is intended for speaker diarization and clustering.
+
+## Performance Factors
+
+As ivector extractors are trained on a large amount of data and without reference to language-specific resources, they **may** be useful outside of the specific language variety being trained, however, differences in the languages may impact performance. Particularly sociolinguistic aspects related to identity presentation, the linguistic status voice quality (breathy, creaky modal), and non-linguistic factors like recording conditions and microphone response may affect diarization performance across languages.
+
+## Metrics
+
+Speaker diarization systems are evaluated through Equal Error Rate (EER), the error when false accept rate is equal to the false rejection rate.
+
+- **EER:** `0%`
+
+## Ethical considerations
+
+Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
+
+### Demographic Bias
+
+You should assume every machine learning model has demographic bias unless proven otherwise. For ivector extraction models, diarization of male speakers generally has better performance than diarization of female speakers, even with equal amounts of training data.
+
+### Surveillance
+
+Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
 
 ## Training data
 
@@ -713,6 +795,36 @@ acoustic_docs_md_template = """
 :end-before: "## Training data"
 ```"""
 
+ivector_docs_md_template = """
+({ref})=
+# {title}
+
+``````{{ivector}} {title}
+:id: "{model_name}"
+:layout: {layout_type}
+:template: {model_type}_template
+:tags: {tags}
+:language: "{language_name}"
+:architecture: {architecture}
+:license: "{license}"
+
+   ```{{include}} ../../../../{model_type}/{language}/v{version}/README.md
+    :start-after: "## Model details"
+    :end-before: "## Installation"
+   ```
+
+   ```{{admonition}} Training corpora
+   {corpora_details}
+   ```
+
+   {see_also}
+``````
+
+```{{include}} ../../../../{model_type}/{language}/v{version}/README.md
+:start-after: "new)."
+:end-before: "## Training data"
+```"""
+
 g2p_docs_md_template = """
 ({ref})=
 # {title}
@@ -885,8 +997,10 @@ language_links = {
     'Turkish': ('Turkish', 'https://en.wikipedia.org/wiki/Turkish_language'),
     'Ukrainian': ('Ukrainian', 'https://en.wikipedia.org/wiki/Ukrainian_language'),
     'Vietnamese': ('Vietnamese', 'https://en.wikipedia.org/wiki/Vietnamese_language'),
-                     'Sorbian': ('Sorbian', 'https://en.wikipedia.org/wiki/Sorbian_languages'),
-                     ('Sorbian','Upper'): ('Upper Sorbian', 'https://en.wikipedia.org/wiki/Upper_Sorbian_language'),
+    ('Vietnamese', 'Ho Chi Minh City'): ('Southern Vietnamese', 'https://en.wikipedia.org/wiki/Vietnamese_language#Language_variation'),
+    ('Vietnamese', 'Hanoi'): ('Northern Vietnamese', 'https://en.wikipedia.org/wiki/Vietnamese_language#Language_variation'),
+     'Sorbian': ('Sorbian', 'https://en.wikipedia.org/wiki/Sorbian_languages'),
+     ('Sorbian','Upper'): ('Upper Sorbian', 'https://en.wikipedia.org/wiki/Upper_Sorbian_language'),
     'Mandarin': ('Mandarin Chinese', 'https://en.wikipedia.org/wiki/Mandarin_Chinese'),
     ('Mandarin', 'Taiwan'): ('Taiwanese Mandarin', 'https://en.wikipedia.org/wiki/Taiwanese_Mandarin'),
     ('Mandarin', 'Erhua'): ('Beijing Mandarin', 'https://en.wikipedia.org/wiki/Beijing_dialect'),
@@ -950,6 +1064,7 @@ model_id_templates = {
     'g2p': '{language}{dialect_title_string} {phone_set} G2P model{version_string}',
     'language_model': '{language}{dialect_title_string} language model{version_string}',
     'corpus': '{corpus_name}{version_string}',
+    'ivector': '{language} {phone_set} ivector extractor{version_string}',
 }
 
 pronunciation_dictionaries = {}
@@ -957,7 +1072,6 @@ pronunciation_dictionaries = {}
 def load_dict(dictionary_path, dict_name, phone_set_type) -> MultispeakerDictionary:
     if dict_name not in pronunciation_dictionaries:
         pronunciation_dictionaries[dict_name] = MultispeakerDictionary(dictionary_path,
-                                                                       temporary_directory=os.path.dirname(os.path.abspath(__file__)),
                                                                         phone_set_type=phone_set_type,
                                                                         position_dependent_phones=False)
         if os.path.exists(pronunciation_dictionaries[dict_name].output_directory):
@@ -980,8 +1094,10 @@ def generate_id(meta_data, model_type):
     else:
         fields = {'language':meta_data['language'].title(), 'dialect_title_string':dialect_title_string,
                            'version_string':version_string}
-        if model_type != 'language_model':
+        if model_type not in {'language_model'}:
             fields['phone_set'] = meta_data['phone_set']
+        if model_type == 'ivector':
+            fields['phone_set'] = 'MFA'
     return template.format(**fields).replace('.', '_')
 
 def generate_meta_data(model, model_type, language, dialect, version, phone_set):
@@ -1112,7 +1228,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
         citation_details['title'] = generate_id(citation_details, model_type).replace('_', '.')
         citation_details['link_safe_title'] = generate_id(citation_details, model_type)
         citation_details['month'] = train_date.strftime('%b')
-        citation_details['id'] = f'mfa_{model.name}_{train_date.year}'
+        citation_details['id'] = f'mfa_{model.name}_lm_{train_date.year}'
         return {
             'name': model.name,
             'language': language.title(),
@@ -1135,6 +1251,30 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             },
             'citation': citation_template.format(**citation_details),
         }
+    if model_type == 'ivector':
+        print(model.meta)
+        if 'train_date' in model.meta:
+            train_date = datetime.fromisoformat(model.meta['train_date']).date()
+        else:
+            train_date = datetime.now().date()
+        citation_details['model_type'] = 'ivector'
+        citation_details['year'] = train_date.year
+        citation_details['title'] = generate_id(citation_details, model_type).replace('_', '.')
+        citation_details['link_safe_title'] = generate_id(citation_details, model_type)
+        citation_details['month'] = train_date.strftime('%b')
+        citation_details['id'] = f'mfa_{model.name}_ivector_{train_date.year}'
+        return {
+            'name': model.name,
+            'language': language.title(),
+            'dialect': dialect,
+            'phone_set': 'MFA',
+            'maintainer': maintainer,
+            'license_link': license_link,
+            'license': license,
+            'version': version,
+            'train_date': str(train_date),
+            'citation': citation_template.format(**citation_details),
+        }
     return {}
 
 def extract_model_card_fields(meta_data, model_type):
@@ -1143,7 +1283,10 @@ def extract_model_card_fields(meta_data, model_type):
         key = (meta_data['language'], meta_data["dialect"])
         if key in language_links:
             dialect_link = language_link_template.format(*language_links[key])
-    language_link = language_link_template.format(*language_links[meta_data['language']])
+    if meta_data['language'] != 'Multilingual':
+        language_link = language_link_template.format(*language_links[meta_data['language']])
+    else:
+        language_link = meta_data['language']
     if "dialects" in meta_data and meta_data["dialects"]:
         dialect_links = []
         for d in meta_data["dialects"]:
@@ -1196,12 +1339,52 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'features': meta_data['features'],
                 'architecture': meta_data['architecture'],
-                'mfa_version': '2.0.0',
+                'mfa_version': '2.1.0',
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'license_link': meta_data['license_link'],
                 'corpora_details': corpora_details,
                 'phone_set_link': phone_set_link,
+            }
+    if model_type == 'ivector':
+        corpora_details = ''
+        if 'corpus' in meta_data:
+            for corpus in meta_data['corpus']:
+                if 'version' in corpus and corpus['version']:
+                    corpus_link_template = '[{name}](../../../../corpus/{language}/{corpus_safe_name}/{version}/README.md)'
+                    link = corpus_link_template.format(name=corpus['name'],
+                                                        language= make_path_safe(corpus['language']),
+                                                        corpus_safe_name = make_path_safe(corpus['name']),
+                                                        version=corpus['version'])
+                else:
+                    corpus_link_template = '[{name}](../../../../corpus/{language}/{corpus_safe_name}/README.md)'
+                    link = corpus_link_template.format(name=corpus['name'],
+                                                        language= make_path_safe(corpus['language']),
+                                                        corpus_safe_name = make_path_safe(corpus['name']))
+
+                data = {
+                    'name': corpus['name'],
+                    'link': link,
+                    'num_hours': corpus['num_hours'],
+                    'num_speakers': corpus['num_speakers'],
+                    'num_utterances': corpus['num_utterances'],
+                }
+                corpora_details += '\n' + corpus_detail_template.format(**data)
+        return {
+                'model_name': meta_data['name'],
+            'title': name.replace('_', '.'),
+                'discussion_title': discussion_title,
+                'language': meta_data['language'],
+                'language_link': language_link,
+                'version': meta_data['version'],
+                'maintainer': meta_data['maintainer'],
+                'features': meta_data.get('features','MFCC'),
+                'architecture': meta_data.get('architecture', 'ivector'),
+                'mfa_version': '2.1.0',
+                'date': meta_data['train_date'],
+                'citation': meta_data['citation'],
+                'license_link': meta_data['license_link'],
+                'corpora_details': corpora_details,
             }
     if model_type == 'corpus':
         citation = meta_data.get('citation', '')
@@ -1245,7 +1428,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'version': meta_data['version'],
                 'maintainer': meta_data['maintainer'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.0.0',
+                'mfa_version': '2.1.0',
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'phone_set': meta_data['phone_set'],
@@ -1271,7 +1454,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'version': meta_data['version'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.0.0',
+                'mfa_version': '2.1.0',
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'phone_set': meta_data['phone_set'],
@@ -1295,7 +1478,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'version': meta_data['version'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.0.0',
+                'mfa_version': '2.1.0',
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'training_details': training_details,
@@ -1311,7 +1494,7 @@ def extract_doc_card_fields(meta_data, model_type):
     see_also = ''
     links = []
     for k in ['corpus', 'dictionary', 'g2p', 'acoustic', 'language_model']:
-        if k == 'corpus' and model_type == 'acoustic':
+        if k == 'corpus' and model_type in {'acoustic', 'ivector'}:
             continue
         if k in meta_data:
             if k == 'corpus':
@@ -1389,6 +1572,35 @@ def extract_doc_card_fields(meta_data, model_type):
             'dialect_title_string': dialect_title_string,
             'language_sub_folder': language_sub_folder,
             'phone_set_name': meta_data['phone_set'].upper(),
+        }
+    if model_type == 'ivector':
+        corpora_details = ''
+        corpus_link_template = '{{ref}}`{corpus_id}`'
+        if 'corpus' in meta_data:
+            for corpus in meta_data['corpus']:
+                data = {
+                    'name': corpus['name'],
+                    'link': corpus_link_template.format(corpus_id=corpus["id"].replace(' ','_')),
+                    'num_hours': corpus['num_hours'],
+                    'num_speakers': corpus['num_speakers'],
+                    'num_utterances': corpus['num_utterances'],
+                }
+                corpora_details += '\n' + corpus_detail_template.format(**data)
+        return {
+            'model_name': name,
+            'ref': name.replace(' ','_'),
+            'title': name.replace('_', '.'),
+            'model_type': model_type,
+            'architecture': meta_data.get('architecture', 'ivector'),
+            'version': meta_data['version'],
+            'corpora_details': corpora_details,
+            'see_also': see_also,
+            'tags': ';'.join(tags),
+            'language': meta_data['language'].lower(),
+            'language_name': meta_data['language'].title(),
+                'license': meta_data['license'],
+            'layout_type': layout_type,
+            'license_link': license_link,
         }
     if model_type == 'corpus':
         if 'tags' in meta_data:
@@ -1498,21 +1710,22 @@ def extract_doc_card_fields(meta_data, model_type):
             'see_also': see_also,
             'tags': ';'.join(tags),
         }
-    return {}
 
 model_card_templates ={
     'acoustic': {'mfa':mfa_acoustic_model_card_template, 'other': other_acoustic_model_card_template},
     'dictionary': {'mfa':mfa_dictionary_card_template, 'other': other_dictionary_card_template},
     'g2p': {'mfa':g2p_model_card_template, 'other': g2p_model_card_template},
     'language_model': {'mfa':language_model_card_template, 'other': language_model_card_template},
-    'corpus': {'mfa': corpus_card_template, 'other': corpus_card_template}
+    'corpus': {'mfa': corpus_card_template, 'other': corpus_card_template},
+    'ivector': {'mfa': ivector_card_template, 'other': ivector_card_template},
 }
 docs_card_templates ={
     'acoustic': {'mfa':acoustic_docs_md_template, 'other': acoustic_docs_md_template},
     'dictionary': {'mfa':mfa_dictionary_docs_md_template, 'other': other_dictionary_docs_md_template},
     'g2p': {'mfa':g2p_docs_md_template, 'other': g2p_docs_md_template},
     'language_model': {'mfa':lm_docs_md_template, 'other': lm_docs_md_template},
-    'corpus': {'mfa': corpus_docs_md_template, 'other': corpus_docs_md_template}
+    'corpus': {'mfa': corpus_docs_md_template, 'other': corpus_docs_md_template},
+    'ivector': {'mfa': ivector_docs_md_template, 'other': ivector_docs_md_template},
 }
 model_type_names ={
     'acoustic': 'Acoustic models',
@@ -1520,9 +1733,11 @@ model_type_names ={
     'g2p': 'G2P models',
     'language_model': 'Language models',
     'corpus': 'Corpora',
+    'ivector': 'Ivector extractors',
 }
 model_type_columns ={
     'acoustic': 'ID;language;dialect;phoneset;license',
+    'ivector': 'ID;language;license',
     'dictionary': 'ID;language;dialect;phoneset;license',
     'g2p': 'ID;language;dialect;phoneset;license',
     'language_model': 'ID;language;dialect;license',
@@ -1533,6 +1748,7 @@ model_type_column_widths ={
     'dictionary': '40;20;20;10;10',
     'g2p': '40;20;20;10;10',
     'language_model': '50;20;20;10',
+    'ivector': '50;25;25',
     'corpus': '40;20;25;15',
 }
 
@@ -1704,7 +1920,7 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                     for pron in w.pronunciations:
                         pron = pron.pronunciation
                         if phone.phone in pron:
-                            examples[w.word] = f"[{' '.join(pron)}]"
+                            examples[w.word] = f"[{pron}]"
                             break
                     if len(examples) >= 4:
                         break
@@ -1723,7 +1939,7 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                 for pron in w.pronunciations:
                     pron = pron.pronunciation
                     if phone in pron:
-                        extra_data[phone]['Examples'][w.word] = f"[{' '.join(pron)}]"
+                        extra_data[phone]['Examples'][w.word] = f"[{pron}]"
                         break
                 if len(extra_data[phone]['Examples']) >= 4:
                     break
@@ -1946,8 +2162,8 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
 phone_charts = {}
 model_mappings = {}
 for model_type, model_class in MODEL_TYPES.items():
-    if model_type == 'ivector':
-        continue
+    #if model_type != 'ivector':
+    #    continue
     meta_datas[model_type] = {}
     model_mappings[model_type] = {}
     model_directory = os.path.join(mfa_model_root, model_type)
@@ -1968,6 +2184,12 @@ for model_type, model_class in MODEL_TYPES.items():
             language = '_'.join(s[:-1])
             dialect = ' '.join(s[1:-1])
             phone_set = 'MFA'
+        elif model_type == 'ivector':
+            language = model.name.replace('_mfa', '')
+            if language == 'ivector':
+                language = 'multilingual'
+            dialect = ''
+            phone_set = ''
         elif len(s) == 1:
             language = s[0]
             phone_set = 'Unknown'
@@ -1984,7 +2206,7 @@ for model_type, model_class in MODEL_TYPES.items():
             version = model.meta['version']
         except KeyError:
             version = montreal_forced_aligner.utils.get_mfa_version()
-        if version.startswith('2.0.0'):
+        if version.startswith('2.'):
             version = CURRENT_MODEL_VERSION
         language = language.title()
         if len(dialect) == 2:
@@ -1996,7 +2218,10 @@ for model_type, model_class in MODEL_TYPES.items():
             phone_set_folder = f'{dialect}_{phone_set}'.replace(' ', '_').lower()
         else:
             phone_set_folder = phone_set.lower()
-        output_directory = os.path.join(model_directory, language.lower(), phone_set_folder, f"v{version}")
+        if phone_set_folder:
+            output_directory = os.path.join(model_directory, language.lower(), phone_set_folder, f"v{version}")
+        else:
+            output_directory = os.path.join(model_directory, language.lower(), f"v{version}")
         os.makedirs(output_directory, exist_ok=True)
         license_path = os.path.join(output_directory, "LICENSE")
         if phone_set != 'CV' and  not os.path.exists(license_path):
@@ -2011,7 +2236,7 @@ for model_type, model_class in MODEL_TYPES.items():
                 meta_data = json.load(f)
         meta_datas[model_type][generate_id(meta_data, model_type)] = meta_data
         keys = [language]
-        if model_type == 'language_model':
+        if model_type in {'language_model', 'ivector'}:
             if dialect:
                 keys.append((language, dialect))
                 key = (language, dialect)
@@ -2031,7 +2256,7 @@ for model_type, model_class in MODEL_TYPES.items():
             phone_set_type = 'IPA'
             if phone_set == 'ARPA':
                 phone_set_type = 'ARPA'
-            phone_charts[meta_data['name']] = analyze_dictionary(model.path, model.name, phone_set_type)
+            #phone_charts[meta_data['name']] = analyze_dictionary(model.path, model.name, phone_set_type)
             #if language == 'hindi':
             #    err
     existing_models = []
@@ -2042,40 +2267,75 @@ for model_type, model_class in MODEL_TYPES.items():
         if not os.path.isdir(language_directory):
             continue
         language = language.title()
-        for phone_set in os.listdir(language_directory):
-            print(phone_set)
-            phone_set_dir = os.path.join(language_directory, phone_set)
-            if '_' in phone_set:
-                dialect, phone_set = phone_set.rsplit('_', maxsplit=1)
-            else:
-                dialect = ''
-            for version in os.listdir(phone_set_dir):
-                meta_path = os.path.join(phone_set_dir, version, 'meta.json')
-                print(meta_data)
+        if model_type == 'ivector':
+            for version in os.listdir(language_directory):
+                meta_path = os.path.join(language_directory, version, 'meta.json')
                 if not os.path.exists(meta_path):
                     continue
                 with open(meta_path, 'r', encoding='utf8') as f:
                     meta_data = json.load(f)
                 meta_datas[model_type][generate_id(meta_data, model_type)] = meta_data
                 keys = [language]
-                if model_type == 'language_model':
-                    if dialect:
-                        keys.append((language, dialect))
-                        key = (language, dialect)
-                else:
-                    if dialect:
-                        keys.append((language, dialect))
-                        keys.append((language, dialect, phone_set))
-                        key = (language, dialect, phone_set)
-                        dialect_key = (language, dialect)
-                    else:
-                        keys.append((language, phone_set))
                 for key in keys:
                     if key not in model_mappings[model_type]:
                         model_mappings[model_type][key] = []
                     model_mappings[model_type][key].append(generate_id(meta_data, model_type))
 
+        else:
+            for phone_set in os.listdir(language_directory):
+                print(phone_set)
+                phone_set_dir = os.path.join(language_directory, phone_set)
+                if '_' in phone_set:
+                    dialect, phone_set = phone_set.rsplit('_', maxsplit=1)
+                else:
+                    dialect = ''
+                for version in os.listdir(phone_set_dir):
+                    meta_path = os.path.join(phone_set_dir, version, 'meta.json')
+                    if not os.path.exists(meta_path):
+                        continue
+                    with open(meta_path, 'r', encoding='utf8') as f:
+                        meta_data = json.load(f)
+                    meta_datas[model_type][generate_id(meta_data, model_type)] = meta_data
+                    keys = [language]
+                    if model_type == 'language_model':
+                        if dialect:
+                            keys.append((language, dialect))
+                            key = (language, dialect)
+                    else:
+                        if dialect:
+                            keys.append((language, dialect))
+                            keys.append((language, dialect, phone_set))
+                            key = (language, dialect, phone_set)
+                            dialect_key = (language, dialect)
+                        else:
+                            keys.append((language, phone_set))
+                    for key in keys:
+                        if key not in model_mappings[model_type]:
+                            model_mappings[model_type][key] = []
+                        model_mappings[model_type][key].append(generate_id(meta_data, model_type))
+
 # Get corpus information
+
+current_corpora = {'english': ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus"],
+                   'czech': ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
+                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+                   'hausa': ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
+                   'swahili': ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
+                   'korean': ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
+                   'mandarin': ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
+                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
+                                           'GlobalPhone Chinese-Mandarin v3_1'],
+                   'japanese': ['Common Voice Japanese v9_0', 'GlobalPhone Japanese v3_1',
+                                           'Microsoft Speech Language Translation Japanese',
+                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
+                   'thai': ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
+                   'vietnamese': ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+                   }
 
 model_corpus_mapping = {
     "Abkhaz CV acoustic model v2_0_0": ['Common Voice Abkhaz v7_0'],
@@ -2120,6 +2380,8 @@ model_corpus_mapping = {
                                           'Corpus of Regional African American Language v2021_07',
                                           "Google Nigerian English", "Google UK and Ireland English",
                                           "NCHLT English", "ARU English corpus"],
+    "English MFA ivector extractor v2_1_0": current_corpora['english'],
+    "Multilingual MFA ivector extractor v2_1_0": [x for k in ['english', 'czech', 'hausa', 'swahili', 'thai', 'vietnamese', 'japanese', 'mandarin'] for x in current_corpora[k]],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
                                          'African-accented French'],
     "French MFA acoustic model v2_0_0a": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
@@ -2197,26 +2459,26 @@ model_dictionary_mapping = {
                                          "Mandarin (Taiwan) MFA dictionary v2_0_0"],
 }
 
-for k in model_corpus_mapping.keys():
-    dict_id = k.replace('acoutic model', 'dictionary')
-    if dict_id in meta_datas['dictionary']:
-        model_dictionary_mapping[k] = [dict_id]
+if 'dictionary' in meta_datas:
+    for k in model_corpus_mapping.keys():
+        dict_id = k.replace('acoutic model', 'dictionary')
+        if dict_id in meta_datas['dictionary']:
+            model_dictionary_mapping[k] = [dict_id]
 
-for v in model_corpus_mapping.values():
-    for d_id in v:
-        g2p_id = d_id.replace('dictionary', 'G2P model')
-        if g2p_id in meta_datas['g2p']:
-            model_dictionary_mapping[g2p_id] = [d_id]
+if 'g2p' in meta_datas:
+    for v in model_corpus_mapping.values():
+        for d_id in v:
+            g2p_id = d_id.replace('dictionary', 'G2P model')
+            if g2p_id in meta_datas['g2p']:
+                model_dictionary_mapping[g2p_id] = [d_id]
 
-for k,v in model_dictionary_mapping.items():
-        lm_id = k.replace('acoustic', 'language')
-        if lm_id in meta_datas['language_model']:
-            model_dictionary_mapping[lm_id] = v
 
-for k,v in model_corpus_mapping.items():
-        lm_id = k.replace('acoustic', 'language')
-        if lm_id in meta_datas['language_model']:
-            model_corpus_mapping[lm_id] = v
+if 'language_model' in meta_datas:
+    for k,v in model_dictionary_mapping.items():
+            lm_id = k.replace('acoustic', 'language')
+            if lm_id in meta_datas['language_model']:
+                model_dictionary_mapping[lm_id] = v
+
 
 corpora_metadata = {}
 model_mappings['corpus'] = {}
@@ -2258,7 +2520,7 @@ for model_type, data in meta_datas.items():
 
     for model_name, meta_data in data.items():
         model_id = generate_id(meta_data, model_type)
-        if model_type in {'acoustic','language_model'}:
+        if model_type in {'acoustic','language_model', 'ivector'}:
             print("HELLO!?", model_id, model_corpus_mapping.keys())
             if model_id in model_corpus_mapping:
                 print(model_corpus_mapping[model_id])
@@ -2268,7 +2530,7 @@ for model_type, data in meta_datas.items():
                     if model_type not in meta_datas['corpus'][corpus_id]:
                         meta_datas['corpus'][corpus_id][model_type] = []
                     meta_datas['corpus'][corpus_id][model_type].append(model_id)
-        if model_type in {'language_model', 'corpus'}:
+        if model_type in {'language_model', 'corpus', 'ivector'}:
             if "dialect" in meta_data and meta_data['dialect']:
                 key = (meta_data['language'], meta_data['dialect'])
             else:
@@ -2349,6 +2611,7 @@ for model_type, data in meta_datas.items():
                 f.write(model_card_template.format(**fields))
         if model_type == 'corpus' or (OVERWRITE_MD or not os.path.exists(docs_card_path)):
             with open(docs_card_path, 'w', encoding='utf8') as f:
+                print(meta_data)
                 fields = extract_doc_card_fields(meta_data, model_type)
                 f.write(docs_md_template.format(**fields))
     index_path = os.path.join(docs_dir, 'index.rst')

@@ -15,16 +15,13 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`turkish_mfa_dictionary_v2_0_0a`
-* {ref}`turkish_cv_dictionary_v2_0_0`
+   * {ref}`turkish_cv_dictionary_v2_0_0`
 * {ref}`turkish_mfa_dictionary_v2_0_0`
 * {ref}`turkish_mfa_dictionary_v2_0_0a`
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`turkish_mfa_acoustic_model_v2_0_0`
 * {ref}`turkish_mfa_acoustic_model_v2_0_0a`
    ```

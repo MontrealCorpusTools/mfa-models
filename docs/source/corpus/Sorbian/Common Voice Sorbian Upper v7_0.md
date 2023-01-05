@@ -15,13 +15,11 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
 
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`sorbian_(upper)_cv_acoustic_model_v2_0_0`
    ```
 ``````

@@ -15,15 +15,12 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`hausa_mfa_dictionary_v2_0_0a`
-* {ref}`hausa_mfa_dictionary_v2_0_0`
+   * {ref}`hausa_mfa_dictionary_v2_0_0`
 * {ref}`hausa_mfa_dictionary_v2_0_0a`
    ```
 
-
-   ```{admonition} Acoustic models
+```{admonition} Acoustic models
    * {ref}`hausa_mfa_acoustic_model_v2_0_0`
 * {ref}`hausa_mfa_acoustic_model_v2_0_0a`
    ```

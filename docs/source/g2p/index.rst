@@ -30,8 +30,8 @@ G2P models
    Spanish/index.rst
    Swahili/index.rst
    Swedish/index.rst
+   Tamil/index.rst
    Thai/index.rst
    Turkish/index.rst
    Ukrainian/index.rst
    Vietnamese/index.rst
-   Tamil/index.rst

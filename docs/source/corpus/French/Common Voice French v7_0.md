@@ -15,10 +15,8 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`french_mfa_dictionary_v2_0_0a`
-* {ref}`french_mfa_dictionary_v2_0_0`
+   * {ref}`french_mfa_dictionary_v2_0_0`
 * {ref}`french_mfa_dictionary_v2_0_0a`
 * {ref}`french_prosodylab_dictionary_v2_0_0`
    ```

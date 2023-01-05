@@ -7,7 +7,7 @@
 
 - **Source:** [VIVOS](https://ailab.hcmus.edu.vn/vivos)
 - **Language:** [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language)
-- **Dialects:**
+- **Dialects:** [Southern Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language#Language_variation)
 - **Number of hours:** `15.67`
 - **Number of utterances:** `12,420`
 - **Number of speakers:** `65`

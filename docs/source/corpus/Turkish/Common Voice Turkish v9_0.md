@@ -15,10 +15,8 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`turkish_mfa_dictionary_v2_0_0a`
-* {ref}`turkish_cv_dictionary_v2_0_0`
+   * {ref}`turkish_cv_dictionary_v2_0_0`
 * {ref}`turkish_mfa_dictionary_v2_0_0`
 * {ref}`turkish_mfa_dictionary_v2_0_0a`
    ```

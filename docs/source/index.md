@@ -22,7 +22,7 @@ Browse dictionaries
 :text-align: center
 :class-card: sd-text-dark
 
-{fas}`broadcast-tower;fa-6x i-navigation`
+{fas}`tower-cell;fa-6x i-navigation`
 ^^^
 G2P models can supplement dictionaries with new pronunciations
 
@@ -65,6 +65,38 @@ Language models alongside the acoustic models
 Browse language models
 ```
 :::
+
+:::{grid-item-card}  Ivector extractors
+:text-align: center
+:class-card: sd-text-dark
+
+{fas}`arrows-down-to-people;fa-6x i-navigation`
+^^^
+Ivector extractors for speaker diarization
+
++++
+```{button-ref} ivector
+:expand:
+:color: primary
+Browse ivector extractors
+```
+:::
+
+:::{grid-item-card}  Corpora
+:text-align: center
+:class-card: sd-text-dark
+
+{fas}`globe;fa-6x i-navigation`
+^^^
+Corpora used in model training
+
++++
+```{button-ref} corpus
+:expand:
+:color: primary
+Browse training corpora
+```
+:::
 ::::
 
 ```{toctree}
@@ -74,6 +106,7 @@ Dictionaries <dictionary/index.rst>
 G2P models <g2p/index.rst>
 Acoustic models <acoustic/index.rst>
 Language models <language_model/index.rst>
+Ivector extractors <ivector/index.rst>
 Benchmarks <benchmarks/index.rst>
 Corpora <corpus/index.rst>
 ```

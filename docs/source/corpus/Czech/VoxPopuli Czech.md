@@ -15,10 +15,8 @@
     :start-after: "## Corpus details"
    ```
 
-
    ```{admonition} Pronunciation dictionaries
-   * {ref}`czech_mfa_dictionary_v2_0_0a`
-* {ref}`czech_cv_dictionary_v2_0_0`
+   * {ref}`czech_cv_dictionary_v2_0_0`
 * {ref}`czech_mfa_dictionary_v2_0_0`
 * {ref}`czech_mfa_dictionary_v2_0_0a`
    ```

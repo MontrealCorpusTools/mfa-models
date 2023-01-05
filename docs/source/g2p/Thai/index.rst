@@ -16,5 +16,5 @@ Thai
 .. toctree::
    :hidden:
 
-   Thai MFA G2P model v2_0_0a.md
    Thai MFA G2P model v2_0_0.md
+   Thai MFA G2P model v2_0_0a.md

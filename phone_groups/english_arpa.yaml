@@ -1,89 +1,108 @@
-bilabial_stops:
+-
   - P
+-
   - B
-labiodental_obstruents:
+-
   - F
+-
   - V
-dental_obstruents:
+-
   - TH
+-
   - DH
-coronal_stops:
+-
   - T
+-
   - D
-coronal_affricates:
+-
   - CH
+-
   - JH
-coronal_fricatives:
+-
   - SH
+-
   - ZH
+-
   - S
+-
   - Z
-rhotics:
+-
   - R
-nasals:
+-
   - M
+-
   - N
+-
   - NG
-laterals:
+-
   - L
-dorsal_obstruents:
+-
   - G
+-
   - K
-voiceless_glottals:
+-
   - HH
-central_vowels:
+-
   - AH1
   - AH2
   - AH0
+-
   - ER1
   - ER2
   - ER0
+-
   - UH1
   - UH2
   - UH0
+-
   - IH1
   - IH2
   - IH0
-front_diphthongs:
+-
   - AY1
   - AY2
   - AY0
+-
   - OY1
   - OY2
   - OY0
-back_diphthongs:
+-
   - OW1
   - OW2
   - OW0
+-
   - AW1
   - AW2
   - AW0
-low_vowels:
+-
   - AA1
   - AA2
   - AA0
+-
   - AO1
   - AO2
   - AO0
-high_front_vowels:
+-
   - IY1
   - IY2
   - IY0
-front_glides:
+-
   - Y
-mid_front_vowels:
+-
   - AE1
   - AE2
   - AE0
+-
   - EH1
   - EH2
   - EH0
+-
   - EY1
   - EY2
   - EY0
-high_back_vowels:
+-
   - UW1
   - UW2
   - UW0
-back_glides:
+-
   - W

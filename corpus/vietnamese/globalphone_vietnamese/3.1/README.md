@@ -7,7 +7,7 @@
 
 - **Source:** [GlobalPhone Vietnamese](https://catalogue.elra.info/en-us/repository/browse/ELRA-S0322/)
 - **Language:** [Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language)
-- **Dialects:**
+- **Dialects:** [Southern Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language#Language_variation), [Northern Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language#Language_variation)
 - **Number of hours:** `19.72`
 - **Number of utterances:** `18,842`
 - **Number of speakers:** `129`
