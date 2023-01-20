@@ -16,6 +16,7 @@
    ```
 
    ```{admonition} Pronunciation dictionaries
+      * {ref}`spanish_(latin_america)_mfa_dictionary_v2_0_0a`
 
    ```
 

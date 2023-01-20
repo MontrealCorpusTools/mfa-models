@@ -57,7 +57,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 14317
+        * Occurrences: 14317
         * Examples
           * emot: [eː m uː t̪]
           * gusum: [ɡ ɵ s̪ ɵ m]
@@ -69,7 +69,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n̪
-        * Occurances: 39682
+        * Occurrences: 39682
         * Examples
           * anden: [a n̪ d̪ ɛ n̪]
           * tina: [t̪ʰ iː˧˩ n̪ a˥˩]
@@ -81,7 +81,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɳ
-        * Occurances: 2292
+        * Occurrences: 2292
         * Examples
           * erna: [ɛ ɳ a]
           * torn: [t̪ʰ uː ɳ]
@@ -93,7 +93,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 7498
+        * Occurrences: 7498
         * Examples
           * angår: [a ŋ ɡ oː r]
           * zink: [s̪ ɪ ŋ k]
@@ -106,7 +106,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 7258
+        * Occurrences: 7258
         * Examples
           * spä: [s̪ p ɛ]
           * oppe: [ɔ p ɛ˥˩]
@@ -114,7 +114,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * spred: [s̪ p r eː d̪]
     * voiced
       * b
-        * Occurances: 9730
+        * Occurrences: 9730
         * Examples
           * bruce: [b r ʉː k eː˧˩]
           * bli: [b l iː]
@@ -126,7 +126,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t̪
-        * Occurances: 31064
+        * Occurrences: 31064
         * Examples
           * etisk: [eː t̪ ɪ s̪ k]
           * dalat: [d̪ ɑː˧˩ l a˥˩ t̪]
@@ -134,7 +134,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * stick: [s̪ t̪ ɪ˧˩ k]
     * voiced
       * d̪
-        * Occurances: 19536
+        * Occurrences: 19536
         * Examples
           * anden: [a n̪ d̪ ɛ n̪]
           * dalat: [d̪ ɑː˧˩ l a˥˩ t̪]
@@ -146,7 +146,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʈ
-        * Occurances: 1325
+        * Occurrences: 1325
         * Examples
           * borta: [b ɔ˧˩ ʈ a]
           * körts: [ɕ øː ʈ s̪]
@@ -154,7 +154,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * start: [s̪ t̪ ɑː ʈ]
     * voiced
       * ɖ
-        * Occurances: 1760
+        * Occurrences: 1760
         * Examples
           * tärd: [t̪ʰ ɛː ɖ]
           * förde: [f œ ɖ ɛ]
@@ -166,7 +166,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 18094
+        * Occurrences: 18094
         * Examples
           * kväll: [k ʋ ɛ l]
           * bruce: [b r ʉː k eː˧˩]
@@ -174,7 +174,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * stick: [s̪ t̪ ɪ˧˩ k]
     * voiced
       * ɡ
-        * Occurances: 10087
+        * Occurrences: 10087
         * Examples
           * wååg: [ʋ oː˧˩ oː ɡ]
           * angår: [a ŋ ɡ oː r]
@@ -191,7 +191,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s̪
-        * Occurances: 38194
+        * Occurrences: 38194
         * Examples
           * oss: [ɔ s̪]
           * etisk: [eː t̪ ɪ s̪ k]
@@ -203,7 +203,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʂ
-        * Occurances: 2359
+        * Occurrences: 2359
         * Examples
           * bars: [b a ʂ]
           * norsk: [n̪ ɔ˧˩ ʂ k]
@@ -213,7 +213,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕ
-        * Occurances: 1376
+        * Occurrences: 1376
         * Examples
           * köpta: [ɕ øː p t̪ a]
           * kille: [ɕ ɪ˧˩ l ɛ˥˩]
@@ -230,7 +230,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 10927
+        * Occurrences: 10927
         * Examples
           * flyt: [f l yː˧˩ t̪]
           * kaffe: [kʰ a˧˩ f ɛ˥˩]
@@ -250,7 +250,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 6227
+        * Occurrences: 6227
         * Examples
           * kohls: [kʰ ʊ h l s̪]
           * höör: [h œ øː r]
@@ -263,7 +263,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʋ
-        * Occurances: 11757
+        * Occurrences: 11757
         * Examples
           * kväll: [k ʋ ɛ l]
           * wååg: [ʋ oː˧˩ oː ɡ]
@@ -279,7 +279,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 5785
+        * Occurrences: 5785
         * Examples
           * djur: [j ʉː r]
           * slöjd: [s̪ l œ j d̪]
@@ -300,7 +300,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 43405
+        * Occurrences: 43405
         * Examples
           * djur: [j ʉː r]
           * bruce: [b r ʉː k eː˧˩]
@@ -325,7 +325,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 25226
+        * Occurrences: 25226
         * Examples
           * kväll: [k ʋ ɛ l]
           * bli: [b l iː]
@@ -352,7 +352,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɭ
-        * Occurances: 407
+        * Occurrences: 407
         * Examples
           * sorl: [s̪ oː ɭ]
           * carl: [kʰ ɑː ɭ]
@@ -387,7 +387,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * iː
-        * Occurances: 5806
+        * Occurrences: 5806
         * Examples
           * bli: [b l iː]
           * skit: [ɧ iː t̪]
@@ -395,7 +395,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * bil: [b iː l]
     * rounded
       * yː
-        * Occurances: 1350
+        * Occurrences: 1350
         * Examples
           * ray: [r ɑː˥˩ yː]
           * asyl: [a s̪ yː l]
@@ -407,7 +407,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ʉː
-        * Occurances: 2985
+        * Occurrences: 2985
         * Examples
           * djura: [j ʉː˥˩ r a˥˩]
           * rus: [r ʉː s̪]
@@ -419,7 +419,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * uː
-        * Occurances: 4277
+        * Occurrences: 4277
         * Examples
           * zoli: [s̪ uː l ɪ]
           * emot: [eː m uː t̪]
@@ -432,7 +432,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɪ
-        * Occurances: 18354
+        * Occurrences: 18354
         * Examples
           * bois: [b uː˥˩ ɪ˩ s̪]
           * etisk: [eː t̪ ɪ s̪ k]
@@ -440,7 +440,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * sveis: [s̪ ʋ ɛ˧˩ ɪ˩ s̪]
     * rounded
       * ʏ
-        * Occurances: 2832
+        * Occurrences: 2832
         * Examples
           * fyran: [f ʏ r ɑː n̪]
           * byst: [b ʏ s̪ t̪]
@@ -452,7 +452,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ʊ
-        * Occurances: 6402
+        * Occurrences: 6402
         * Examples
           * disko: [d̪ ɪ s̪ k ʊ˩]
           * älgko: [ɛ l j k ʊ˩]
@@ -465,7 +465,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * eː
-        * Occurances: 11384
+        * Occurrences: 11384
         * Examples
           * emot: [eː m uː t̪]
           * avled: [ɑː˧˩ ʋ l eː˥˩ d̪]
@@ -473,7 +473,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * bredd: [b r eː˥˩ d̪]
     * rounded
       * øː
-        * Occurances: 4643
+        * Occurrences: 4643
         * Examples
           * strös: [s̪ t̪ r øː˥˩ s̪]
           * utför: [ʉː˧˩ t̪ f øː˥˩ r]
@@ -485,7 +485,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɵ
-        * Occurances: 7317
+        * Occurrences: 7317
         * Examples
           * tukt: [t̪ʰ ɵ k t̪]
           * gusum: [ɡ ɵ s̪ ɵ m]
@@ -497,7 +497,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * oː
-        * Occurances: 4223
+        * Occurrences: 4223
         * Examples
           * varpå: [ʋ a r p oː˥˩]
           * låt: [l oː t̪]
@@ -519,14 +519,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 47840
+        * Occurrences: 47840
         * Examples
           * efta: [ɛ˧˩ f t̪ a˥˩]
           * svepa: [s̪ ʋ ɛ˥˧ p a]
           * kugge: [kʰ ɵ ɡ ɛ˥˩]
           * träet: [t̪ r ɛ˧˩ ɛ t̪]
       * ɛː
-        * Occurances: 2659
+        * Occurrences: 2659
         * Examples
           * affär: [a f ɛː˥˧ r]
           * ärad: [ɛː r a d̪]
@@ -534,7 +534,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * näten: [n̪ ɛː t̪ ɛ˩ n̪]
     * rounded
       * œ
-        * Occurances: 2880
+        * Occurrences: 2880
         * Examples
           * höör: [h œ øː r]
           * rört: [r œ˥˩ ʈ]
@@ -550,7 +550,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 10160
+        * Occurrences: 10160
         * Examples
           * pholm: [pʰ h ɔ˥˩ l m]
           * ronny: [r ɔ n̪ ʏ˩]
@@ -576,7 +576,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 33850
+        * Occurrences: 33850
         * Examples
           * anden: [a n̪ d̪ ɛ n̪]
           * angår: [a ŋ ɡ oː r]
@@ -588,7 +588,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɑː
-        * Occurances: 12465
+        * Occurrences: 12465
         * Examples
           * adele: [ɑː d̪ ɛ l ɛ]
           * bada: [b ɑː˧˩ d̪ a˥˩]

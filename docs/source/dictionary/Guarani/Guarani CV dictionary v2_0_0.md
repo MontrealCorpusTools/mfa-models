@@ -50,7 +50,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 430
+        * Occurrences: 430
         * Examples
           * opu'ã: [o p u ʔ ã]
           * moõpa: [ᵐb o õ p a]
@@ -62,7 +62,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 281
+        * Occurrences: 281
         * Examples
           * añete: [a dʒ e t e]
           * pizza: [p i t s a]
@@ -74,7 +74,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 349
+        * Occurrences: 349
         * Examples
           * ka'a: [k a ʔ a]
           * aníke: [a ⁿd i k e]
@@ -84,7 +84,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʔ
-        * Occurances: 259
+        * Occurrences: 259
         * Examples
           * opu'ã: [o p u ʔ ã]
           * ru'ã: [ɾ u ʔ ã]
@@ -101,7 +101,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * dʒ
-        * Occurances: 302
+        * Occurrences: 302
         * Examples
           * añete: [a dʒ e t e]
           * ñana: [dʒ a ⁿd a]
@@ -120,7 +120,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 120
+        * Occurrences: 120
         * Examples
           * vosa: [ʋ o s a]
           * ohasa: [o x a s a]
@@ -130,7 +130,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 67
+        * Occurrences: 67
         * Examples
           * michĩ: [ᵐb i ʃ ĩ]
           * luchi: [l u ʃ i]
@@ -147,7 +147,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʋ
-        * Occurances: 283
+        * Occurrences: 283
         * Examples
           * vosa: [ʋ o s a]
           * oĩva: [o ĩ ʋ a]
@@ -161,7 +161,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɰ
-        * Occurances: 128
+        * Occurrences: 128
         * Examples
           * ogami: [o ɰ a ᵐb i]
           * hogue: [x o ɰ u e]
@@ -178,7 +178,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 517
+        * Occurrences: 517
         * Examples
           * urdu: [u ɾ ⁿd u]
           * are: [a ɾ e]
@@ -199,7 +199,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 2
+        * Occurrences: 2
         * Examples
     ```
   - ```{ipa_cell}
@@ -216,7 +216,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 31
+        * Occurrences: 31
         * Examples
           * luchi: [l u ʃ i]
           * clari: [k l a ɾ i]
@@ -253,7 +253,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 578
+        * Occurrences: 578
         * Examples
           * epoi: [e p o i]
           * michĩ: [ᵐb i ʃ ĩ]
@@ -269,7 +269,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɯ
-        * Occurances: 311
+        * Occurrences: 311
         * Examples
           * ijyvy: [i dʒ ɯ ʋ ɯ]
           * ryvy: [ɾ ɯ ʋ ɯ]
@@ -277,7 +277,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * vy'a: [ʋ ɯ ʔ a]
     * rounded
       * u
-        * Occurances: 487
+        * Occurrences: 487
         * Examples
           * opu'ã: [o p u ʔ ã]
           * urdu: [u ɾ ⁿd u]
@@ -299,7 +299,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 1039
+        * Occurrences: 1039
         * Examples
           * epoi: [e p o i]
           * upe: [u p e]
@@ -315,7 +315,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 738
+        * Occurrences: 738
         * Examples
           * opu'ã: [o p u ʔ ã]
           * vosa: [ʋ o s a]
@@ -363,7 +363,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 1255
+        * Occurrences: 1255
         * Examples
           * vosa: [ʋ o s a]
           * moõpa: [ᵐb o õ p a]
@@ -394,7 +394,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ĩ
-        * Occurances: 16
+        * Occurrences: 16
         * Examples
           * michĩ: [ᵐb i ʃ ĩ]
           * oĩva: [o ĩ ʋ a]
@@ -410,7 +410,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ũ
-        * Occurances: 21
+        * Occurrences: 21
         * Examples
           * irũ: [i ɾ ũ]
           * hũngy: [x ũ ᵑɡ ɯ]
@@ -430,7 +430,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ẽ
-        * Occurances: 49
+        * Occurrences: 49
         * Examples
           * osẽva: [o s ẽ ʋ a]
           * iko'ẽ: [i k o ʔ ẽ]
@@ -446,7 +446,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * õ
-        * Occurances: 43
+        * Occurrences: 43
         * Examples
           * moõpa: [ᵐb o õ p a]
           * leõ: [l e õ]
@@ -494,7 +494,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ã
-        * Occurances: 100
+        * Occurrences: 100
         * Examples
           * opu'ã: [o p u ʔ ã]
           * ru'ã: [ɾ u ʔ ã]

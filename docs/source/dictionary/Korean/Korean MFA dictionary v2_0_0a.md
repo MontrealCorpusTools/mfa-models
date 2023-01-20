@@ -55,7 +55,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 15386
+        * Occurrences: 15386
         * Examples
           * 전남청장과: [t ɕ   ʌ   n   n   ɐ   m   t ɕ ʰ   ʌ   ŋ   d ʑ   ɐ   ŋ   ɡ   w   ɐ]
           * 깎으면서다: [k ͈   ɐ   k ͈   ɨ   m   j   ʌ   n   s ʰ   ʌ   d   ɐ]
@@ -65,7 +65,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 29049
+        * Occurrences: 29049
         * Examples
           * 떠오르지만: [t ͈   ʌ   o   ɾ   ɨ   d ʑ   i   m   ɐ   n]
           * 신종관: [ɕ ʰ   i ː   ɲ   d ʑ   o   ŋ   ɡ   w   ɐ   n]
@@ -77,7 +77,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 3504
+        * Occurrences: 3504
         * Examples
           * 더민주로: [t   ʌ   m   i   ɲ   d ʑ   u   ɾ   o]
           * 산양을: [s ʰ   ɐ   n   ɲ   ɐ   ŋ   ɨ   ɭ]
@@ -87,7 +87,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 16063
+        * Occurrences: 16063
         * Examples
           * 대우중공업: [t   ɛ ː   u   d ʑ   u   ŋ   ɡ   o   ŋ   ʌ   p ̚]
           * 도망하다: [t   o   m   ɐ   ŋ   h   ɐ   d   ɐ]
@@ -100,7 +100,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 5477
+        * Occurrences: 5477
         * Examples
           * 아청법이: [ɐ   t ɕ ʰ   ʌ   ŋ   p   ʌ   b   i]
           * 보전하지: [p   o ː   d ʑ   ʌ   n   h   ɐ   d ʑ   i]
@@ -108,7 +108,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 뻔했다: [p ͈   ʌ ː   n   h   ɛ ː   t ̚   t ʰ   ɐ]
     * voiced
       * b
-        * Occurances: 4218
+        * Occurrences: 4218
         * Examples
           * 소비절벽: [s ʰ   o   b   i   d ʑ   ʌ   ɭ   b   j   ʌ   k ̚]
           * 절반가량인: [t ɕ   ʌ   ɭ   b   ɐ   n   ɡ   ɐ   ɾ   j   ɐ   ŋ   i   n]
@@ -118,7 +118,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 3988
+        * Occurrences: 3988
         * Examples
           * 주지사: [t ɕ   u   d ʑ   i   s ʰ   ɐ]
           * 사면대상: [s ʰ   ɐ   m   j   ʌ   n   t   ɛ ː   s ʰ   ɐ   ŋ]
@@ -126,7 +126,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 주소를: [t ɕ   u ː   s ʰ   o   ɾ   ɨ   ɭ]
     * voiced
       * d
-        * Occurances: 9674
+        * Occurrences: 9674
         * Examples
           * 무장하다: [m   u ː   d ʑ   ɐ   ŋ   h   ɐ   d   ɐ]
           * 정동영: [t ɕ   ʌ   ŋ   d   o   ŋ   j   ʌ   ŋ]
@@ -140,7 +140,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 9060
+        * Occurrences: 9060
         * Examples
           * 중학교까지: [t ɕ   u   ŋ   h   ɐ   k ̚   k ʰ   j   o   k ͈   ɐ   d ʑ   i]
           * 관행이다: [k   w   ɐ   n   h   ɛ ː   ŋ   i   d   ɐ]
@@ -148,7 +148,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 호흡기: [ɸ   o   ɣ   ɨ   p ̚   k ʰ   i]
     * voiced
       * ɡ
-        * Occurances: 12893
+        * Occurrences: 12893
         * Examples
           * 다지기: [t   ɐ   d ʑ   i   ɡ   i]
           * 수술하기로: [s ʰ   u   s ʰ   u   ɾ   h   ɐ   ɡ   i   ɾ   o]
@@ -167,7 +167,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tɕ
-        * Occurances: 6517
+        * Occurrences: 6517
         * Examples
           * 입장입니다: [i   p ̚   t ɕ ʰ   ɐ   ŋ   i   m   n   i   d   ɐ]
           * 접하기는: [t ɕ   ʌ   p ʰ   ɐ   ɡ   i   n   ɨ   n]
@@ -175,7 +175,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 잡스의: [t ɕ   ɐ   p   s   ɨ   ɰ   i]
     * voiced
       * dʑ
-        * Occurances: 8545
+        * Occurrences: 8545
         * Examples
           * 남자는: [n   ɐ   m   d ʑ   ɐ   n   ɨ   n]
           * 많아지면: [m   ɐ   n   ɐ   d ʑ   i   m   j   ʌ   n]
@@ -192,7 +192,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 2056
+        * Occurrences: 2056
         * Examples
           * 머릿속에: [m   ʌ   ɾ   i   t ̚   s ʰ   o   ɡ   e]
           * 사로잡혔: [s ʰ   ɐ   ɾ   o   d ʑ   ɐ   p ʰ   j   ʌ   t ̚]
@@ -213,7 +213,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s͈
-        * Occurances: 1132
+        * Occurrences: 1132
         * Examples
           * 맡았던: [m   ɐ   t ʰ   ɐ   s ͈   d   ʌ   n]
           * 안했는데: [ɐ   n   h   ɛ ː   s ͈   n   ɨ   n   d   e]
@@ -225,7 +225,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕ͈
-        * Occurances: 768
+        * Occurrences: 768
         * Examples
           * 반짝반짝: [p   ɐ   ɲ   t ɕ ͈   ɐ   k ̚   p ʰ   ɐ   ɲ   t ɕ ͈   ɐ   k ̚]
           * 최씨를: [t ɕ ʰ   w   e ː   ɕ ͈   i   ɾ   ɨ   ɭ]
@@ -242,7 +242,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * sʰ
-        * Occurances: 11969
+        * Occurrences: 11969
         * Examples
           * 박종서: [p   ɐ   k ̚   t ɕ ʰ   o   ŋ   s ʰ   ʌ]
           * 불가사리: [p   u   ɭ   ɡ   ɐ   s ʰ   ɐ   ɾ   i]
@@ -254,7 +254,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕʰ
-        * Occurances: 3479
+        * Occurrences: 3479
         * Examples
           * 고친다고: [k   o   t ɕ ʰ   i   n   d   ɐ   ɡ   o]
           * 등록취소: [t   ɨ   ŋ   n   o   k ̚   t ɕ ʰ   ɥ   i   s ʰ   o]
@@ -269,7 +269,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɸ
-        * Occurances: 1006
+        * Occurrences: 1006
         * Examples
           * 화합물: [ɸ   w   ɐ   ɦ   ɐ   m   m   u   ɭ]
           * 황금색: [ɸ   w   ɐ   ŋ   ɡ   ɨ   m   s ʰ   ɛ ː   k]
@@ -283,7 +283,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 454
+        * Occurrences: 454
         * Examples
           * 현실이다: [ç   ʌ   n   ɕ ʰ   i   ɾ   i   d   ɐ]
           * 협상에서: [ç   ʌ   p   s   ɐ   ŋ   e   s ʰ   ʌ]
@@ -291,7 +291,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 히틀러의: [ç   i   t ʰ   ɨ   ɭ   ɭ   ʌ   ɰ   i]
     * voiced
       * ʝ
-        * Occurances: 831
+        * Occurrences: 831
         * Examples
           * 예상했다: [j   e ː   s ʰ   ɐ   ŋ   ʝ   ɛ ː   t ̚   t ʰ   ɐ]
           * 경건히: [k   j   ʌ ː   ŋ   ɡ   ʌ   n   ʝ   i]
@@ -303,7 +303,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 4360
+        * Occurrences: 4360
         * Examples
           * 학생들이랑: [h   ɐ   k   ɕ ͈   ɛ ː   ŋ   d   ɨ   ɾ   i   ɾ   ɐ   ŋ]
           * 한다든지: [h   ɐ   n   d   ɐ   d   ɨ   ɲ   d ʑ   i]
@@ -311,7 +311,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 직면했기: [t ɕ   i   ŋ   m   j   ʌ   n   h   ɛ ː   s ͈   ɡ   i]
     * voiced
       * ɦ
-        * Occurances: 2087
+        * Occurrences: 2087
         * Examples
           * 파괴하다: [p ʰ   ɐ   ɡ   w   e   ɦ   ɐ   d   ɐ]
           * 맞이한다는: [m   ɐ   d ʑ   i   ɦ   ɐ   n   d   ɐ   n   ɨ   n]
@@ -322,7 +322,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 7169
+        * Occurrences: 7169
         * Examples
           * 기회라고: [k   i   β   w   e   ɾ   ɐ   ɡ   o]
           * 배워서: [p   ɛ ː   w   ʌ   s ʰ   ʌ]
@@ -336,14 +336,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 11865
+        * Occurrences: 11865
         * Examples
           * 옮겨서: [o   m   ɡ   j   ʌ   s ʰ   ʌ]
           * 자장면: [t ɕ   ɐ   d ʑ   ɐ   ŋ   m   j   ʌ   n]
           * 정육면체: [t ɕ   ʌ   ŋ   j   u   ŋ   m   j   ʌ   ɲ   t ɕ ʰ   e]
           * 유니코드: [j   u   n   i   k ʰ   o   d   ɨ]
       * ɥ
-        * Occurances: 1113
+        * Occurrences: 1113
         * Examples
           * 뒤집기: [t   ɥ   i   d ʑ   i   p ̚   k ʰ   i]
           * 뛰어가다: [t ͈   ɥ   i   ʌ   ɡ   ɐ   d   ɐ]
@@ -353,7 +353,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɰ
-        * Occurances: 1685
+        * Occurrences: 1685
         * Examples
           * 우리들의: [u   ɾ   i   d   ɨ   ɾ   ɰ   i]
           * 모두의: [m   o   d   u   ɰ   i]
@@ -368,7 +368,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 11901
+        * Occurrences: 11901
         * Examples
           * 결의문: [k   j   ʌ   ɾ   ɰ   i   m   u   n]
           * 배상하라고: [p   ɛ ː   s ʰ   ɐ   ŋ   h   ɐ   ɾ   ɐ   ɡ   o]
@@ -393,7 +393,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 3276
+        * Occurrences: 3276
         * Examples
           * 전략가: [t ɕ   ʌ ː   ʎ   ʎ   ɐ   k ̚   k ʰ   ɐ]
           * 실린다: [ɕ ʰ   i   ʎ   ʎ   i   n   d   ɐ]
@@ -412,7 +412,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɭ
-        * Occurances: 11020
+        * Occurrences: 11020
         * Examples
           * 언론학: [ʌ   ɭ   ɭ   o   n   h   ɐ   k ̚]
           * 월세소득이: [w   ʌ   ɭ   s   e   s ʰ   o   d   ɨ   ɡ   i]
@@ -447,14 +447,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 27922
+        * Occurrences: 27922
         * Examples
           * 비타민: [p   i   t ʰ   ɐ   m   i   n]
           * 얼룩진: [ʌ   ɭ   ɭ   u   k ̚   t ɕ ʰ   i   n]
           * 찢어지는: [t ɕ ͈   i   d ʑ   ʌ   d ʑ   i   n   ɨ   n]
           * 트로이카: [t ʰ   ɨ   ɾ   o   i   k ʰ   ɐ]
       * iː
-        * Occurances: 1756
+        * Occurrences: 1756
         * Examples
           * 피해서: [p ʰ   i ː   ɦ   ɛ ː   s ʰ   ʌ]
           * 의용군: [ɰ   i ː   j   o   ŋ   ɡ   u   n]
@@ -466,14 +466,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 17136
+        * Occurrences: 17136
         * Examples
           * 제어력을: [t ɕ   e   ʌ   ɾ   j   ʌ   ɡ   ɨ   ɭ]
           * 법안은: [p   ʌ   b   ɐ   n   ɨ   n]
           * 받아들이: [p   ɐ   d   ɐ   d   ɨ   ɾ   i]
           * 타타르: [t ʰ   ɐ   t ʰ   ɐ   ɾ   ɨ]
       * ɨː
-        * Occurances: 239
+        * Occurrences: 239
         * Examples
           * 응모자: [ɨ ː   ŋ   m   o   d ʑ   ɐ]
           * 긍정적: [k   ɨ ː   ŋ   d ʑ   ʌ   ŋ   d ʑ   ʌ   k ̚]
@@ -485,14 +485,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 14232
+        * Occurrences: 14232
         * Examples
           * 북아메리카: [p   u   ɡ   ɐ   m   e   ɾ   i   k ʰ   ɐ]
           * 모체로부터: [m   o   t ɕ ʰ   e   ɾ   o   b   u   t ʰ   ʌ]
           * 주택수요를: [t ɕ   u   t ̚   ɛ ː   k   s   u   j   o   ɾ   ɨ   ɭ]
           * 중남미: [t ɕ   u   ŋ   n   ɐ   m   m   i]
       * uː
-        * Occurances: 1047
+        * Occurrences: 1047
         * Examples
           * 구급대원을: [k   u ː   ɡ   ɨ   p ̚   t ʰ   ɛ ː   w   ʌ   n   ɨ   ɭ]
           * 우정국: [u ː   d ʑ   ʌ   ŋ   ɡ   u   k ̚]
@@ -514,14 +514,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 9175
+        * Occurrences: 9175
         * Examples
           * 세실의: [s ʰ   e   ɕ ʰ   i   ɾ   ɰ   i]
           * 정부에: [t ɕ   ʌ   ŋ   b   u   e]
           * 제안하다: [t ɕ   e   ɐ   n   h   ɐ   d   ɐ]
           * 청결하게: [t ɕ ʰ   ʌ   ŋ   ɡ   j   ʌ   ɾ   h   ɐ   ɡ   e]
       * eː
-        * Occurances: 1251
+        * Occurrences: 1251
         * Examples
           * 최고위: [t ɕ ʰ   w   e ː   ɡ   o   ɥ   i]
           * 최고위원을: [t ɕ ʰ   w   e ː   ɡ   o   ɥ   i   w   ʌ   n   ɨ   ɭ]
@@ -537,14 +537,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 18471
+        * Occurrences: 18471
         * Examples
           * 노인병학: [n   o ː   i   n   b   j   ʌ   ŋ   h   ɐ   k ̚]
           * 빠지고: [p ͈   ɐ   d ʑ   i   ɡ   o]
           * 신동욱: [ɕ ʰ   i   n   d   o   ŋ   u   k ̚]
           * 고민만: [k   o   m   i   n   m   ɐ   n]
       * oː
-        * Occurances: 1770
+        * Occurrences: 1770
         * Examples
           * 소득세: [s ʰ   o ː   d   ɨ   k   s   e]
           * 소상공인: [s ʰ   o ː   s ʰ   ɐ   ŋ   ɡ   o   ŋ   i   n]
@@ -566,14 +566,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 7
+        * Occurrences: 7
         * Examples
           * 재래시장: [t ɕ   ɛ ː   ɾ   ɛ ː   ɕ ʰ   i   d ʑ   ɐ   ŋ]
           * 답했다: [t   ɐ   p ʰ   ɛ ː   t ̚   t ʰ   ɐ]
           * 직거래: [t ɕ   i   k ̚   k ʰ   ʌ   ɾ   ɛ ː]
           * 개국에서: [k   ɛ ː   ɡ   u   ɡ   e   s ʰ   ʌ]
       * ɛː
-        * Occurances: 7620
+        * Occurrences: 7620
         * Examples
           * 무턱대고: [m   u   t ʰ   ʌ   k ̚   t ʰ   ɛ ː   ɡ   o]
           * 백업으로: [p   ɛ ː   ɡ   ʌ   b   ɨ   ɾ   o]
@@ -589,14 +589,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ʌ
-        * Occurances: 25045
+        * Occurrences: 25045
         * Examples
           * 스러웠: [s ʰ   ɨ   ɾ   ʌ   w   ʌ   t ̚]
           * 최욱철: [t ɕ ʰ   w   e   u   k ̚   t ɕ ʰ   ʌ   ɭ]
           * 현금지급기: [ç   ʌ   n   ɡ   ɨ   m   d ʑ   i   ɡ   ɨ   p ̚   k ʰ   i]
           * 수개월이: [s ʰ   u   k   ɛ ː   w   ʌ   ɾ   i]
       * ʌː
-        * Occurances: 2436
+        * Occurrences: 2436
         * Examples
           * 어휘장: [ʌ ː   h   ɥ   i   d ʑ   ɐ   ŋ]
           * 전경련: [t ɕ   ʌ ː   n   ɡ   j   ʌ   ŋ   ɲ   ʌ   n]
@@ -611,7 +611,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 42801
+        * Occurrences: 42801
         * Examples
           * 오스트리아: [o   s ʰ   ɨ   t ʰ   ɨ   ɾ   i   ɐ]
           * 오염되다: [o ː   j   ʌ   m   d   w   e   d   ɐ]

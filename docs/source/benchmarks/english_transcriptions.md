@@ -2,7 +2,7 @@
 (english_transcription_benchmarks=)
 # English transcription benchmarks
 
-MFA has some simple language model training and transcription capabilities in addition to its alignment functionalities.  The Word Error Rate (WER) and Character Error Rate was calculated over the Buckeye and TIMIT corpora below.  Note that unlike the [](globalphone_transcriptions.md#gp-transcription-benchmarks), these datasets are unseen.
+MFA has some simple language model training and transcription capabilities in addition to its alignment functionalities.  The Word Error Rate (WER) and Character Error Rate was calculated over the Buckeye and TIMIT corpora below.  Note that unlike the [GlobalPhone transcription benchmarks](globalphone_transcriptions.md), these datasets are unseen.
 
 
 ```{seealso}

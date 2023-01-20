@@ -48,7 +48,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 7250
+        * Occurrences: 7250
         * Examples
           * 语言联盟: [y ˨ ˩ ˦   j   e ˧ ˥   n   l   j   e ˧ ˥   n   m   o ˧ ˥   ŋ]
           * 卖猪仔: [m   a j ˥ ˩   ʈ ʂ   u ˥ ˥   t s   a j ˨ ˩ ˦]
@@ -60,7 +60,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 38951
+        * Occurrences: 38951
         * Examples
           * 投资人: [t ʰ   o w ˧ ˥   t s   z ̩ ˥ ˥   ʐ   ə ˧ ˥   n]
           * 心眼儿: [ɕ   i ˥ ˥   n   j   a ˨ ˩ ˦   ɻ]
@@ -74,14 +74,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 30203
+        * Occurrences: 30203
         * Examples
           * 家庭暴力: [t ɕ   j   a ˥ ˥   t ʰ   i ˧ ˥   ŋ   p   a w ˥ ˩   l   i ˥ ˩]
           * 共时语言学: [k   u ˥ ˩   ŋ   ʂ   ʐ ̩ ˧ ˥   y ˨ ˩ ˦   j   e ˧ ˥   n   ɕ   ɥ   e ˧ ˥]
           * 生成元: [ʂ   o ˥ ˥   ŋ   ʈ ʂ ʰ   o ˧ ˥   ŋ   ɥ   e ˧ ˥   n]
           * 盲肠炎: [m   a ˧ ˥   ŋ   ʈ ʂ ʰ   a ˧ ˥   ŋ   j   e ˧ ˥   n]
       * ŋ̍
-        * Occurances: 2
+        * Occurrences: 2
         * Examples
     ```
   - ```{ipa_cell}
@@ -90,7 +90,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 9456
+        * Occurrences: 9456
         * Examples
           * 反对派: [f   a ˨ ˩ ˦   n   t   w   e j ˥ ˩   p ʰ   a j ˥ ˩]
           * 癞皮狗: [l   a j ˥ ˩   p ʰ   i ˧ ˥   k   o w ˨ ˩ ˦]
@@ -102,7 +102,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 11104
+        * Occurrences: 11104
         * Examples
           * 我的世界: [w   o ˨ ˩ ˦   t   ə ˦   ʂ   ʐ ̩ ˥ ˩   t ɕ   j   e ˥ ˩]
           * 首都丘: [ʂ   o w ˨ ˩ ˦   t   u ˥ ˥   t ɕ ʰ   j   o w ˥ ˥]
@@ -116,7 +116,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 8230
+        * Occurrences: 8230
         * Examples
           * 可靠性: [k ʰ   o ˨ ˩ ˦   k ʰ   a w ˥ ˩   ɕ   i ˥ ˩   ŋ]
           * 古气候学家: [k   u ˨ ˩ ˦   t ɕ ʰ   i ˥ ˩   x   o w ˥ ˩   ɕ   ɥ   e ˧ ˥   t ɕ   j   a ˥ ˥]
@@ -126,7 +126,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʔ
-        * Occurances: 3528
+        * Occurrences: 3528
         * Examples
           * 艾依河: [ʔ   a j ˥ ˩   i ˥ ˥   x   o ˧ ˥]
           * 奥林匹斯山: [ʔ   a w ˥ ˩   l   i ˧ ˥   n   p ʰ   i ˨ ˩ ˦   s   z ̩ ˥ ˥   ʂ   a ˥ ˥   n]
@@ -141,7 +141,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ts
-        * Occurances: 4901
+        * Occurrences: 4901
         * Examples
           * 最高峰: [t s   w   e j ˥ ˩   k   a w ˥ ˥   f   o ˥ ˥   ŋ]
           * 除此以外: [ʈ ʂ ʰ   u ˧ ˥   t s ʰ   z ̩ ˨ ˩ ˦   i ˨ ˩ ˦   w   a j ˥ ˩]
@@ -151,7 +151,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʈʂ
-        * Occurances: 9318
+        * Occurrences: 9318
         * Examples
           * 搭帐篷: [t   a ˥ ˥   ʈ ʂ   a ˥ ˩   ŋ   p ʰ   o ˧ ˥   ŋ]
           * 常态化: [ʈ ʂ ʰ   a ˧ ˥   ŋ   t ʰ   a j ˥ ˩   x   w   a ˥ ˩]
@@ -161,7 +161,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tɕ
-        * Occurances: 13180
+        * Occurrences: 13180
         * Examples
           * 上加成素: [ʂ   a ˥ ˩   ŋ   t ɕ   j   a ˥ ˥   ʈ ʂ ʰ   o ˧ ˥   ŋ   s   u ˥ ˩]
           * 万叶集: [w   a ˥ ˩   n   j   e ˥ ˩   t ɕ   i ˧ ˥]
@@ -180,7 +180,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 4858
+        * Occurrences: 4858
         * Examples
           * 大难不死: [t   a ˥ ˩   n   a ˥ ˩   n   p   u ˥ ˩   s   z ̩ ˨ ˩ ˦]
           * 侍从官: [ʂ   ʐ ̩ ˥ ˩   t s ʰ   u ˧ ˥   ŋ   k   w   a ˥ ˥   n]
@@ -188,14 +188,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 藤井寺: [t ʰ   o ˧ ˥   ŋ   t ɕ   i ˨ ˩ ˦   ŋ   s   z ̩ ˥ ˩]
     * voiced
       * z
-        * Occurances: 0
+        * Occurrences: 0
         * Examples
           * 人称代名词: [ʐ   ə ˧ ˥   n   ʈ ʂ ʰ   o ˥ ˥   ŋ   t   a j ˥ ˩   m   i ˧ ˥   ŋ   t s ʰ   z ̩ ˧ ˥]
           * 话匣子: [x   w   a ˥ ˩   ɕ   j   a ˧ ˥   t s   z ̩ ˨]
           * 自我控制: [t s   z ̩ ˥ ˩   w   o ˨ ˩ ˦   k ʰ   u ˥ ˩   ŋ   ʈ ʂ   ʐ ̩ ˥ ˩]
           * 姊妹城市: [t s   z ̩ ˨ ˩ ˦   m   e j ˥ ˩   ʈ ʂ ʰ   o ˧ ˥   ŋ   ʂ   ʐ ̩ ˥ ˩]
       * z̩
-        * Occurances: 4177
+        * Occurrences: 4177
         * Examples
           * 孔子学院: [k ʰ   u ˨ ˩ ˦   ŋ   t s   z ̩ ˨ ˩ ˦   ɕ   ɥ   e ˧ ˥   ɥ   e ˥ ˩   n]
           * 堂姊妹: [t ʰ   a ˧ ˥   ŋ   t s   z ̩ ˨ ˩ ˦   m   e j ˥ ˩]
@@ -205,7 +205,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʂ
-        * Occurances: 12125
+        * Occurrences: 12125
         * Examples
           * 老老实实: [l   a w ˨ ˩ ˦   l   a w ˨ ˩ ˦   ʂ   ʐ ̩ ˧ ˥   ʂ   ʐ ̩ ˧ ˥]
           * 马克思主义: [m   a ˨ ˩ ˦   k ʰ   o ˥ ˩   s   z ̩ ˥ ˥   ʈ ʂ   u ˨ ˩ ˦   i ˥ ˩]
@@ -213,14 +213,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * 禁忌证: [t ɕ   i ˥ ˩   n   t ɕ   i ˥ ˩   ʈ ʂ   o ˥ ˩   ŋ]
     * voiced
       * ʐ
-        * Occurances: 2735
+        * Occurrences: 2735
         * Examples
           * 採石场: [t s ʰ   a j ˨ ˩ ˦   ʂ   ʐ ̩ ˧ ˥   ʈ ʂ ʰ   a ˧ ˥   ŋ]
           * 烧乳猪: [ʂ   a w ˥ ˥   ʐ   u ˨ ˩ ˦   ʈ ʂ   u ˥ ˥]
           * 小布什: [ɕ   j   a w ˨ ˩ ˦   p   u ˥ ˩   ʂ   ʐ ̩ ˧ ˥]
           * 制作人: [ʈ ʂ   ʐ ̩ ˥ ˩   t s   w   o ˥ ˩   ʐ   ə ˧ ˥   n]
       * ʐ̩
-        * Occurances: 6796
+        * Occurrences: 6796
         * Examples
           * 蒋风之: [t ɕ   j   a ˨ ˩ ˦   ŋ   f   o ˥ ˥   ŋ   ʈ ʂ   ʐ ̩ ˥ ˥]
           * 不值得: [p   u ˥ ˩   ʈ ʂ   ʐ ̩ ˧ ˥   t   o ˧ ˥]
@@ -230,7 +230,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕ
-        * Occurances: 11084
+        * Occurrences: 11084
         * Examples
           * 相模原: [ɕ   j   a ˥ ˩   ŋ   m   w   o ˧ ˥   ɥ   e ˧ ˥   n]
           * 无条件: [u ˧ ˥   t ʰ   j   a w ˧ ˥   t ɕ   j   e ˥ ˩   n]
@@ -247,7 +247,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 5861
+        * Occurrences: 5861
         * Examples
           * 良附丸: [l   j   a ˧ ˥   ŋ   f   u ˥ ˩   w   a ˧ ˥   n]
           * 东非洲: [t   u ˥ ˥   ŋ   f   e j ˥ ˥   ʈ ʂ   o w ˥ ˥]
@@ -268,7 +268,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 22464
+        * Occurrences: 22464
         * Examples
           * 热化学卡: [ʐ   o ˥ ˩   x   w   a ˥ ˩   ɕ   ɥ   e ˧ ˥   k ʰ   a ˨ ˩ ˦]
           * 米粮川: [m   i ˨ ˩ ˦   l   j   a ˧ ˥   ŋ   ʈ ʂ ʰ   w   a ˥ ˥   n]
@@ -282,7 +282,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɻ
-        * Occurances: 3789
+        * Occurrences: 3789
         * Examples
           * 足球杯赛: [t s   u ˧ ˥   t ɕ ʰ   j   o w ˧ ˥   ɻ   p   e j ˥ ˥   s   a j ˥ ˩]
           * 阿穆尔河: [ʔ   a ˥ ˥   m   u ˥ ˩   ʔ   o ˨ ˩ ˦   ɻ   x   o ˧ ˥]
@@ -292,14 +292,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 27144
+        * Occurrences: 27144
         * Examples
           * 保险套: [p   a w ˨ ˩ ˦   ɕ   j   e ˨ ˩ ˦   n   t ʰ   a w ˥ ˩]
           * 养蚕业: [j   a ˨ ˩ ˦   ŋ   t s ʰ   a ˧ ˥   n   j   e ˥ ˩]
           * 科西嘉岛: [k ʰ   o ˥ ˥   ɕ   i ˥ ˥   t ɕ   j   a ˥ ˥   t   a w ˨ ˩ ˦]
           * 烤宽面条: [k ʰ   a w ˨ ˩ ˦   k ʰ   w   a ˥ ˥   n   m   j   e ˥ ˩   n   t ʰ   j   a w ˧ ˥]
       * ɥ
-        * Occurances: 4281
+        * Occurrences: 4281
         * Examples
           * 伊朗高原: [i ˥ ˥   l   a ˨ ˩ ˦   ŋ   k   a w ˥ ˥   ɥ   e ˧ ˥   n]
           * 救护员: [t ɕ   j   o w ˥ ˩   x   u ˥ ˩   ɥ   e ˧ ˥   n]
@@ -318,7 +318,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 11828
+        * Occurrences: 11828
         * Examples
           * 黄鼠狼: [x   w   a ˧ ˥   ŋ   ʂ   u ˨ ˩ ˦   l   a ˧ ˥   ŋ]
           * 失业率: [ʂ   ʐ ̩ ˥ ˥   j   e ˥ ˩   l   y ˥ ˩]
@@ -355,7 +355,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 28118
+        * Occurrences: 28118
         * Examples
           * 势利眼: [ʂ   ʐ ̩ ˥ ˩   l   i ˩   j   a ˨ ˩ ˦   ɻ]
           * 比较等级: [p   i ˨ ˩ ˦   t ɕ   j   a w ˥ ˩   t   o ˨ ˩ ˦   ŋ   t ɕ   i ˧ ˥]
@@ -363,7 +363,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
           * 威化饼: [w   e j ˥ ˥   x   w   a ˥ ˩   p   i ˨ ˩ ˦   ŋ]
     * rounded
       * y
-        * Occurances: 5739
+        * Occurrences: 5739
         * Examples
           * 底特律: [t   i ˨ ˩ ˦   t ʰ   o ˥ ˩   l   y ˥ ˩]
           * 康巴语: [k ʰ   a ˥ ˥   ŋ   p   a ˥ ˥   y ˨ ˩ ˦]
@@ -379,7 +379,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 22404
+        * Occurrences: 22404
         * Examples
           * 上岁数: [ʂ   a ˥ ˩   ŋ   s   w   e j ˥ ˩   ʂ   u ˩]
           * 易卜拉欣: [i ˥ ˩   p   u ˨ ˩ ˦   l   a ˥ ˥   ɕ   i ˥ ˥   n]
@@ -401,14 +401,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 15850
+        * Occurrences: 15850
         * Examples
           * 歇斯底里: [ɕ   j   e ˥ ˥   s   z ̩ ˥ ˥   t   i ˨ ˩ ˦   l   i ˨ ˩ ˦]
           * 显微镜座: [ɕ   j   e ˨ ˩ ˦   n   w   e j ˥ ˥   t ɕ   i ˥ ˩   ŋ   t s   w   o ˥ ˩]
           * 挑战者深渊: [t ʰ   j   a w ˨ ˩ ˦   ʈ ʂ   a ˥ ˩   n   ʈ ʂ   o ˨ ˩ ˦   ʂ   ə ˥ ˥   n   ɥ   e ˥ ˥   n]
           * 大少爷: [t   a ˥ ˩   ʂ   a w ˥ ˩   j   e ˩]
       * ej
-        * Occurances: 7704
+        * Occurrences: 7704
         * Examples
           * 威斯康辛: [w   e j ˥ ˥   s   z ̩ ˥ ˥   k ʰ   a ˥ ˥   ŋ   ɕ   i ˥ ˥   n]
           * 气累脖儿: [t ɕ ʰ   i ˥ ˩   l   e j ˩   p   w   o ˧ ˥   ɻ]
@@ -424,14 +424,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 20274
+        * Occurrences: 20274
         * Examples
           * 以珥月: [i ˨ ˩ ˦   ʔ   o ˨ ˩ ˦   ɻ   ɥ   e ˥ ˩]
           * 十字军东征: [ʂ   ʐ ̩ ˧ ˥   t s   z ̩ ˥ ˩   t ɕ   y ˥ ˥   n   t   u ˥ ˥   ŋ   ʈ ʂ   o ˥ ˥   ŋ]
           * 成长率: [ʈ ʂ ʰ   o ˧ ˥   ŋ   ʈ ʂ   a ˨ ˩ ˦   ŋ   l   y ˥ ˩]
           * 牛仔裤: [n   j   o w ˧ ˥   t s   a j ˨ ˩ ˦   k ʰ   u ˥ ˩]
       * ow
-        * Occurances: 8064
+        * Occurrences: 8064
         * Examples
           * 枕头套: [ʈ ʂ   ə ˨ ˩ ˦   n   t ʰ   o w ˦   t ʰ   a w ˥ ˩]
           * 河西走廊: [x   o ˧ ˥   ɕ   i ˥ ˥   t s   o w ˨ ˩ ˦   l   a ˧ ˥   ŋ]
@@ -446,7 +446,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 7558
+        * Occurrences: 7558
         * Examples
           * 人贩子: [ʐ   ə ˧ ˥   n   f   a ˥ ˩   n   t s   z ̩ ˩]
           * 你们俩: [n   i ˨ ˩ ˦   m   ə ˦   n   l   j   a ˨ ˩ ˦]
@@ -487,7 +487,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 36275
+        * Occurrences: 36275
         * Examples
           * 科西嘉岛: [k ʰ   o ˥ ˥   ɕ   i ˥ ˥   t ɕ   j   a ˥ ˥   t   a w ˨ ˩ ˦]
           * 化粪池: [x   w   a ˥ ˩   f   ə ˥ ˩   n   ʈ ʂ ʰ   ʐ ̩ ˧ ˥]

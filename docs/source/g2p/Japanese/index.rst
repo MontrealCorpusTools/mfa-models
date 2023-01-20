@@ -16,4 +16,5 @@ Japanese
 .. toctree::
    :hidden:
 
+   Japanese MFA G2P model v2_0_1a.md
    Japanese MFA G2P model v2_0_0a.md

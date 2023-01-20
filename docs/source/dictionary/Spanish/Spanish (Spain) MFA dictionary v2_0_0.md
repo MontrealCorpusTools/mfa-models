@@ -51,7 +51,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 22267
+        * Occurrences: 22267
         * Examples
           * madre: [m a ð ɾ e]
           * parma: [p a r m a]
@@ -65,7 +65,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 37579
+        * Occurrences: 37579
         * Examples
           * osuno: [o s u n o]
           * brent: [b ɾ e n d̪]
@@ -77,7 +77,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 2399
+        * Occurrences: 2399
         * Examples
           * tony: [t̪ o ɲ i]
           * lange: [l a ɲ ç e]
@@ -87,7 +87,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 2611
+        * Occurrences: 2611
         * Examples
           * banco: [b a ŋ k o]
           * ming: [m i ŋ ɡ]
@@ -98,7 +98,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 16335
+        * Occurrences: 16335
         * Examples
           * parma: [p a r m a]
           * pena: [p e n a]
@@ -106,7 +106,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * pat: [p a t̪]
     * voiced
       * b
-        * Occurances: 6890
+        * Occurrences: 6890
         * Examples
           * brent: [b ɾ e n d̪]
           * blair: [b l a i ɾ]
@@ -118,7 +118,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t̪
-        * Occurances: 35932
+        * Occurrences: 35932
         * Examples
           * atara: [a t̪ a ɾ a]
           * astur: [a s t̪ u ɾ]
@@ -126,7 +126,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * recta: [r e ɣ t̪ a]
     * voiced
       * d̪
-        * Occurances: 10186
+        * Occurrences: 10186
         * Examples
           * delos: [d̪ e l o s]
           * brent: [b ɾ e n d̪]
@@ -140,7 +140,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 2329
+        * Occurrences: 2329
         * Examples
           * kersh: [c e r ʃ]
           * coque: [k o c e]
@@ -148,7 +148,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * queja: [c e x a]
     * voiced
       * ɟ
-        * Occurances: 194
+        * Occurrences: 194
         * Examples
           * gueto: [ɟ e t̪ o]
           * guiño: [ɟ i ɲ o]
@@ -158,7 +158,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 23513
+        * Occurrences: 23513
         * Examples
           * greco: [ɡ ɾ e k o]
           * clero: [k l e ɾ o]
@@ -166,7 +166,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * aloco: [a l o k o]
     * voiced
       * ɡ
-        * Occurances: 2477
+        * Occurrences: 2477
         * Examples
           * greco: [ɡ ɾ e k o]
           * good: [ɡ u ð]
@@ -185,7 +185,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tʃ
-        * Occurances: 2586
+        * Occurrences: 2586
         * Examples
           * cheto: [tʃ e t̪ o]
           * lichi: [l i tʃ i]
@@ -195,7 +195,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ɟʝ
-        * Occurances: 399
+        * Occurrences: 399
         * Examples
           * yacen: [ɟʝ a θ e n]
           * yegua: [ɟʝ e ɣ w a]
@@ -214,7 +214,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 54536
+        * Occurrences: 54536
         * Examples
           * usura: [u s u ɾ a]
           * osuno: [o s u n o]
@@ -224,7 +224,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 279
+        * Occurrences: 279
         * Examples
           * kersh: [c e r ʃ]
           * shore: [ʃ o ɾ e]
@@ -241,7 +241,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 7751
+        * Occurrences: 7751
         * Examples
           * efe: [e f e]
           * fall: [f o l]
@@ -251,7 +251,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * θ
-        * Occurances: 14848
+        * Occurrences: 14848
         * Examples
           * yacen: [ɟʝ a θ e n]
           * hacer: [a θ e ɾ]
@@ -259,7 +259,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * cyrus: [θ i ɾ u s]
     * voiced
       * ð
-        * Occurances: 33072
+        * Occurrences: 33072
         * Examples
           * madre: [m a ð ɾ e]
           * adobe: [a ð o β e]
@@ -273,7 +273,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 3135
+        * Occurrences: 3135
         * Examples
           * lange: [l a ɲ ç e]
           * jim: [ç i m]
@@ -281,7 +281,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * jeje: [ç e ç e]
     * voiced
       * ʝ
-        * Occurances: 1267
+        * Occurrences: 1267
         * Examples
           * hyun: [x ʝ u n]
           * corgi: [k o r ʝ i]
@@ -294,7 +294,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 3586
+        * Occurrences: 3586
         * Examples
           * muiño: [m w i ɲ o]
           * ulua: [u l w a]
@@ -312,7 +312,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 11996
+        * Occurrences: 11996
         * Examples
           * lidia: [l i ð j a]
           * nadia: [n a ð j a]
@@ -331,7 +331,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 37890
+        * Occurrences: 37890
         * Examples
           * madre: [m a ð ɾ e]
           * usura: [u s u ɾ a]
@@ -354,7 +354,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 17249
+        * Occurrences: 17249
         * Examples
           * parma: [p a r m a]
           * rosso: [r o s o]
@@ -377,7 +377,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 24774
+        * Occurrences: 24774
         * Examples
           * delos: [d̪ e l o s]
           * elmer: [e l m e ɾ]
@@ -389,7 +389,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 2148
+        * Occurrences: 2148
         * Examples
           * callo: [k a ʎ o]
           * ello: [e ʎ o]
@@ -420,7 +420,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 48406
+        * Occurrences: 48406
         * Examples
           * blair: [b l a i ɾ]
           * larry: [l a r i]
@@ -436,7 +436,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 15860
+        * Occurrences: 15860
         * Examples
           * usura: [u s u ɾ a]
           * osuno: [o s u n o]
@@ -458,7 +458,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 65696
+        * Occurrences: 65696
         * Examples
           * madre: [m a ð ɾ e]
           * adobe: [a ð o β e]
@@ -474,7 +474,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 66542
+        * Occurrences: 66542
         * Examples
           * osuno: [o s u n o]
           * adobe: [a ð o β e]
@@ -522,7 +522,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 113862
+        * Occurrences: 113862
         * Examples
           * madre: [m a ð ɾ e]
           * usura: [u s u ɾ a]

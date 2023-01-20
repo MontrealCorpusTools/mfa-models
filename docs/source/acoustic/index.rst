@@ -15,6 +15,7 @@ Acoustic models
 .. toctree::
    :hidden:
 
+   Japanese/index.rst
    Abkhaz/index.rst
    Armenian/index.rst
    Bashkir/index.rst

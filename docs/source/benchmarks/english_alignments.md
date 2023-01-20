@@ -17,6 +17,7 @@ The Buckeye Corpus can be obtained through [their website](https://buckeyecorpus
 
 The phoneset mapping files for the Buckeye phoneset are available for [ARPA](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_brtenchmarks/mapping_files/arpa_buckeye_mapping.yaml) and [MFA](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files/mfa_buckeye_mapping.yaml).
 
+(timit=)
 ### TIMIT
 
 The second dataset used in the benchmark is the {need}`TIMIT`.
@@ -45,7 +46,7 @@ These benchmarks were performed using [MFA v2.0.0rc8](https://github.com/Montrea
 
 Alignment score represents the average boundary error between the reference alignment and the aligner's output. The two phone sequences are aligned with [BioPython's pairwise2 module](https://biopython.org/docs/1.75/api/Bio.pairwise2.html) using the [mapping files](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files) to establish "identical" phones across the different phone sets.  Then alignment score is calculated as the average distance of the average start and end boundary distance to the reference phone's start and end. Thus, it can be interpreted as the average error in seconds per boundary.
 
-After bug fixes in [MFA v2.0.0rc8](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc8) that improved both the performance of 2.0+ models and 1.0 models, we can see the effect of a bug in silence calculation in 2.0 models that was affecting performance.  MFA 2.0a models show a significant improvement over their 2.0 counterparts.  For TIMIT, the ARPA 2.0a performs better than the MFA 2.0a model, but see [my caveats above](#TIMIT) for not considering this a big deal, considering that MFA 2.0a outperforms ARPA 2.0a by a similar margin for the larger corpus of spontaneous speech.
+After bug fixes in [MFA v2.0.0rc8](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc8) that improved both the performance of 2.0+ models and 1.0 models, we can see the effect of a bug in silence calculation in 2.0 models that was affecting performance.  MFA 2.0a models show a significant improvement over their 2.0 counterparts.  For TIMIT, the ARPA 2.0a performs better than the MFA 2.0a model, but see [my caveats above](#timit) for not considering this a big deal, considering that MFA 2.0a outperforms ARPA 2.0a by a similar margin for the larger corpus of spontaneous speech.
 
 ```{seealso}
 

@@ -50,7 +50,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 15143
+        * Occurrences: 15143
         * Examples
           * ㅁㅗㄷㅜ: [m o d u]
           * ㅁㅗㅍㅣ: [m o pʰ i]
@@ -60,7 +60,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 28729
+        * Occurrences: 28729
         * Examples
           * ㄴㅗㅇㅈㅣ: [n o ŋ dʑ i]
           * ㄴㅏㅁㅁㅐ: [n ɐ m m eː]
@@ -72,7 +72,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 3463
+        * Occurrences: 3463
         * Examples
           * ㅁㅣㄴㅇㅛ: [m i ɲ o]
           * ㅋㅗㄴㅑㄱ: [kʰ o ɲ ɐ k̚]
@@ -82,7 +82,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 15801
+        * Occurrences: 15801
         * Examples
           * ㄴㅗㅇㅈㅣ: [n o ŋ dʑ i]
           * ㄸㅏㅇㅇㅣ: [t͈ ɐ ŋ i]
@@ -95,7 +95,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 5399
+        * Occurrences: 5399
         * Examples
           * ㅂㅣㅇㅅㅜ: [p i ŋ sʰ u]
           * ㅂㅏㅇㅟ: [p ɐ ɥ i]
@@ -103,7 +103,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㅂㅏㄷㅡㄴ: [p ɐ d ɨ n]
     * voiced
       * b
-        * Occurances: 4167
+        * Occurrences: 4167
         * Examples
           * ㅇㅖㅂㅗ: [j e b o]
           * ㄲㅏㅂㅔㄹ: [k͈ ɐ b e ɭ]
@@ -113,7 +113,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 3929
+        * Occurrences: 3929
         * Examples
           * ㄷㅓㄹㄷㅏ: [t ʌː ɭ d ɐ]
           * ㄷㅔㄴㅣ: [t e n i]
@@ -121,7 +121,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㄷㅡㅇㅍㅣ: [t ɨ ŋ pʰ i]
     * voiced
       * d
-        * Occurances: 9538
+        * Occurrences: 9538
         * Examples
           * ㅁㅗㄷㅜ: [m o d u]
           * ㅈㅝㄷㅗ: [tɕ w ʌ d o]
@@ -135,7 +135,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 8928
+        * Occurrences: 8928
         * Examples
           * ㄱㅣㅇㅏ: [k i ɐ]
           * ㄱㅣㄹㄹㅐ: [k i ɭ ɭ eː]
@@ -143,7 +143,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㅅㅗㄱㅅㅔ: [sʰ o k s e]
     * voiced
       * ɡ
-        * Occurances: 12741
+        * Occurrences: 12741
         * Examples
           * ㄴㅐㄱㅓ: [n eː ɡ ʌ]
           * ㄴㅐㄱㅏㄱ: [n eː ɡ ɐ k̚]
@@ -162,7 +162,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tɕ
-        * Occurances: 6425
+        * Occurrences: 6425
         * Examples
           * ㅈㅓㄱㅡㅁ: [tɕ ʌː ɡ ɨ m]
           * ㅈㅝㄷㅗ: [tɕ w ʌ d o]
@@ -170,7 +170,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㅈㅜㄴㅂㅣ: [tɕ uː n b i]
     * voiced
       * dʑ
-        * Occurances: 8444
+        * Occurrences: 8444
         * Examples
           * ㄴㅗㅇㅈㅣ: [n o ŋ dʑ i]
           * ㅇㅘㅇㅈㅏ: [w ɐ ŋ dʑ ɐ]
@@ -187,7 +187,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 2055
+        * Occurrences: 2055
         * Examples
           * ㅅㅗㄱㅅㅔ: [sʰ o k s e]
           * ㅌㅏㄹㅅㅔ: [tʰ ɐ ɭ s e]
@@ -208,7 +208,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s͈
-        * Occurances: 1094
+        * Occurrences: 1094
         * Examples
           * ㅆㅡㄹㅜ: [s͈ ɨ ɾ u]
           * ㅆㅡㅍㅜ: [s͈ ɨ pʰ u]
@@ -220,7 +220,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕ͈
-        * Occurances: 765
+        * Occurrences: 765
         * Examples
           * ㅂㅜㄹㅆㅣ: [p uː ɭ ɕ͈ i]
           * ㅅㅣㅇㅔ: [ɕ͈ i e]
@@ -237,7 +237,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * sʰ
-        * Occurances: 11829
+        * Occurrences: 11829
         * Examples
           * ㅂㅣㅇㅅㅜ: [p i ŋ sʰ u]
           * ㅎㅜㅅㅏㅁ: [ɸ uː sʰ ɐ m]
@@ -249,7 +249,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕʰ
-        * Occurances: 3428
+        * Occurrences: 3428
         * Examples
           * ㅅㅣㅅㅜㄹ: [ɕʰ i sʰ u ɭ]
           * ㅅㅣㄱㅂㅣ: [ɕʰ i k̚ pʰ i]
@@ -264,7 +264,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɸ
-        * Occurances: 1000
+        * Occurrences: 1000
         * Examples
           * ㅎㅜㅅㅏㅁ: [ɸ uː sʰ ɐ m]
           * ㅎㅗㄹㅗ: [ɸ o ɾ o]
@@ -278,7 +278,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ç
-        * Occurances: 447
+        * Occurrences: 447
         * Examples
           * ㅎㅠㅇㄱㅣ: [ç u ŋ ɡ i]
           * ㅎㅕㄴㅈㅐ: [ç ʌ ɲ tɕ eː]
@@ -286,7 +286,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㅎㅢㅎㅘ: [ç i β w ɐ]
     * voiced
       * ʝ
-        * Occurances: 829
+        * Occurrences: 829
         * Examples
           * ㅇㅕㅇㅎㅢ: [j ʌ ŋ ʝ i]
           * ㄱㅣㅎㅕㅇ: [k i ʝ ʌ ŋ]
@@ -298,7 +298,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 4340
+        * Occurrences: 4340
         * Examples
           * ㅌㅐㄱㅎㅐ: [tʰ eː k h eː]
           * ㅎㅏㄱㅣㄴ: [h ɐ ɡ i n]
@@ -306,7 +306,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ㅎㅟㅂㅏㄹ: [h ɥ i b ɐ ɭ]
     * voiced
       * ɦ
-        * Occurances: 2079
+        * Occurrences: 2079
         * Examples
           * ㅊㅣㅎㅏ: [tɕʰ i ɦ ɐ]
           * ㅇㅏㅎㅏ: [ɐ ɦ ɐ]
@@ -317,7 +317,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 7116
+        * Occurrences: 7116
         * Examples
           * ㅇㅘㅇㅈㅏ: [w ɐ ŋ dʑ ɐ]
           * ㅈㅝㄷㅗ: [tɕ w ʌ d o]
@@ -331,14 +331,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 11681
+        * Occurrences: 11681
         * Examples
           * ㅇㅖㅂㅗ: [j e b o]
           * ㅇㅖㅎㅜ: [j eː β u]
           * ㅁㅕㄴㅇㅢ: [m j ʌː n ɰ i]
           * ㅁㅓㄱㅇㅕ: [m ʌ ɡ j ʌ]
       * ɥ
-        * Occurances: 1108
+        * Occurrences: 1108
         * Examples
           * ㅂㅏㅇㅟ: [p ɐ ɥ i]
           * ㅅㅏㅇㅟ: [sʰ ɐ ɥ i]
@@ -348,7 +348,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɰ
-        * Occurances: 1682
+        * Occurrences: 1682
         * Examples
           * ㅁㅕㄴㅇㅢ: [m j ʌː n ɰ i]
           * ㄱㅗㅇㅢ: [k o ɰ i]
@@ -363,7 +363,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 11736
+        * Occurrences: 11736
         * Examples
           * ㅆㅡㄹㅜ: [s͈ ɨ ɾ u]
           * ㅇㅏㅀㅇㅣ: [ɐ ɾ i]
@@ -388,7 +388,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 3213
+        * Occurrences: 3213
         * Examples
           * ㅂㅜㄹㄹㅕ: [p u ʎ ʎ ʌ]
           * ㅁㅓㄹㄹㅣ: [m ʌː ʎ ʎ i]
@@ -407,7 +407,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɭ
-        * Occurances: 10883
+        * Occurrences: 10883
         * Examples
           * ㄱㅣㄹㄹㅐ: [k i ɭ ɭ eː]
           * ㅅㅏㅅㅡㄹ: [sʰ ɐ sʰ ɨ ɭ]
@@ -442,14 +442,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 27539
+        * Occurrences: 27539
         * Examples
           * ㄴㅗㅇㅈㅣ: [n o ŋ dʑ i]
           * ㄸㅏㅇㅇㅣ: [t͈ ɐ ŋ i]
           * ㅁㅗㅍㅣ: [m o pʰ i]
           * ㅁㅣㄴㅇㅛ: [m i ɲ o]
       * iː
-        * Occurances: 1730
+        * Occurrences: 1730
         * Examples
           * ㅇㅣㅎㅗ: [iː β o]
           * ㅅㅣㅊㅏ: [ɕʰ iː tɕʰ ɐ]
@@ -461,14 +461,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 16928
+        * Occurrences: 16928
         * Examples
           * ㅆㅡㄹㅜ: [s͈ ɨ ɾ u]
           * ㅈㅓㄱㅡㅁ: [tɕ ʌː ɡ ɨ m]
           * ㅇㅓㄴㅡ: [ʌ n ɨ]
           * ㅅㅏㅅㅡㄹ: [sʰ ɐ sʰ ɨ ɭ]
       * ɨː
-        * Occurances: 233
+        * Occurrences: 233
         * Examples
           * ㄱㅡㄴㅔ: [k ɨː n e]
           * ㅇㅡㅇㅡㅁ: [ɨː ɨ m]
@@ -480,14 +480,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 13991
+        * Occurrences: 13991
         * Examples
           * ㅆㅡㄹㅜ: [s͈ ɨ ɾ u]
           * ㅁㅗㄷㅜ: [m o d u]
           * ㅂㅣㅇㅅㅜ: [p i ŋ sʰ u]
           * ㅇㅖㅎㅜ: [j eː β u]
       * uː
-        * Occurances: 1038
+        * Occurrences: 1038
         * Examples
           * ㅎㅜㅅㅏㅁ: [ɸ uː sʰ ɐ m]
           * ㅈㅜㄴㅂㅣ: [tɕ uː n b i]
@@ -509,14 +509,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 9056
+        * Occurrences: 9056
         * Examples
           * ㅇㅖㅂㅗ: [j e b o]
           * ㄱㅡㄴㅔ: [k ɨː n e]
           * ㅅㅗㄱㅅㅔ: [sʰ o k s e]
           * ㄲㅏㅂㅔㄹ: [k͈ ɐ b e ɭ]
       * eː
-        * Occurances: 8707
+        * Occurrences: 8707
         * Examples
           * ㄴㅏㅁㅁㅐ: [n ɐ m m eː]
           * ㄴㅐㄱㅓ: [n eː ɡ ʌ]
@@ -532,14 +532,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 18232
+        * Occurrences: 18232
         * Examples
           * ㄴㅗㅇㅈㅣ: [n o ŋ dʑ i]
           * ㅁㅗㄷㅜ: [m o d u]
           * ㅁㅗㅍㅣ: [m o pʰ i]
           * ㅁㅣㄴㅇㅛ: [m i ɲ o]
       * oː
-        * Occurances: 1742
+        * Occurrences: 1742
         * Examples
           * ㄱㅛㅍㅕㄴ: [k j oː pʰ j ʌ n]
           * ㅇㅗㅎㅗ: [oː β o]
@@ -569,14 +569,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ʌ
-        * Occurances: 24653
+        * Occurrences: 24653
         * Examples
           * ㄴㅐㄱㅓ: [n eː ɡ ʌ]
           * ㅇㅓㄴㅡ: [ʌ n ɨ]
           * ㅈㅝㄷㅗ: [tɕ w ʌ d o]
           * ㄸㅓㅁㅏㅌ: [t͈ ʌ m ɐ t̚]
       * ʌː
-        * Occurances: 2398
+        * Occurrences: 2398
         * Examples
           * ㅈㅓㄱㅡㅁ: [tɕ ʌː ɡ ɨ m]
           * ㅁㅕㄴㅇㅢ: [m j ʌː n ɰ i]
@@ -591,7 +591,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 42211
+        * Occurrences: 42211
         * Examples
           * ㄸㅏㅇㅇㅣ: [t͈ ɐ ŋ i]
           * ㄴㅏㅁㅁㅐ: [n ɐ m m eː]

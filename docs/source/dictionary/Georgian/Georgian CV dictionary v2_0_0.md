@@ -51,7 +51,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 4791
+        * Occurrences: 4791
         * Examples
           * ჯამში: [dʒ ɑ m ʃ i]
           * ძმათა: [dz m ɑ tʰ ɑ]
@@ -63,7 +63,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 4905
+        * Occurrences: 4905
         * Examples
           * ნახონ: [n ɑ x ɔ n]
           * უნდა: [u n d ɑ]
@@ -82,7 +82,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * b
-        * Occurances: 4568
+        * Occurrences: 4568
         * Examples
           * ღიობი: [ɣ i ɔ b i]
           * ბზარი: [b z ɑ ɾ i]
@@ -94,7 +94,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * d
-        * Occurances: 3647
+        * Occurrences: 3647
         * Examples
           * დადეს: [d ɑ d ɛ s]
           * უნდა: [u n d ɑ]
@@ -106,7 +106,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ɡ
-        * Occurances: 2265
+        * Occurrences: 2265
         * Examples
           * გელა: [ɡ ɛ l ɑ]
           * როგორ: [ɾ ɔ ɡ ɔ ɾ]
@@ -125,7 +125,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ts
-        * Occurances: 1167
+        * Occurrences: 1167
         * Examples
           * ფიცის: [pʰ i ts i s]
           * პრინც: [pʼ ɾ i n ts]
@@ -133,7 +133,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * არც: [ɑ ɾ ts]
     * voiced
       * dz
-        * Occurances: 380
+        * Occurrences: 380
         * Examples
           * ძმათა: [dz m ɑ tʰ ɑ]
           * ძმა: [dz m ɑ]
@@ -143,7 +143,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tʃ
-        * Occurances: 421
+        * Occurrences: 421
         * Examples
           * კიჩეს: [kʼ i tʃ ɛ s]
           * დარჩა: [d ɑ ɾ tʃ ɑ]
@@ -151,7 +151,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ელჩი: [ɛ l tʃ i]
     * voiced
       * dʒ
-        * Occurances: 265
+        * Occurrences: 265
         * Examples
           * ჯამში: [dʒ ɑ m ʃ i]
           * ჯარის: [dʒ ɑ ɾ i s]
@@ -172,7 +172,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 7500
+        * Occurrences: 7500
         * Examples
           * დადეს: [d ɑ d ɛ s]
           * ფიცის: [pʰ i ts i s]
@@ -180,7 +180,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ფლის: [pʰ l i s]
     * voiced
       * z
-        * Occurances: 1067
+        * Occurrences: 1067
         * Examples
           * ზოლს: [z ɔ l s]
           * ვაზი: [v ɑ z i]
@@ -190,7 +190,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 1769
+        * Occurrences: 1769
         * Examples
           * ჯამში: [dʒ ɑ m ʃ i]
           * პუშტუ: [pʼ u ʃ tʼ u]
@@ -198,7 +198,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * მასში: [m ɑ s ʃ i]
     * voiced
       * ʒ
-        * Occurances: 96
+        * Occurrences: 96
         * Examples
           * ანჟი: [ɑ n ʒ i]
           * ჟანა: [ʒ ɑ n ɑ]
@@ -217,7 +217,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * v
-        * Occurances: 3222
+        * Occurrences: 3222
         * Examples
           * იავის: [i ɑ v i s]
           * ვაზი: [v ɑ z i]
@@ -235,7 +235,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 179
+        * Occurrences: 179
         * Examples
           * ჰყავთ: [h qʼ ɑ v tʰ]
           * დაჰყო: [d ɑ h qʼ ɔ]
@@ -250,7 +250,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 6377
+        * Occurrences: 6377
         * Examples
           * ჯარის: [dʒ ɑ ɾ i s]
           * ერთი: [ɛ ɾ tʰ i]
@@ -273,7 +273,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 5049
+        * Occurrences: 5049
         * Examples
           * ფლის: [pʰ l i s]
           * ზოლს: [z ɔ l s]
@@ -310,7 +310,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 13394
+        * Occurrences: 13394
         * Examples
           * თაღია: [tʰ ɑ ɣ i ɑ]
           * ჯამში: [dʒ ɑ m ʃ i]
@@ -326,7 +326,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 3340
+        * Occurrences: 3340
         * Examples
           * პუშტუ: [pʼ u ʃ tʼ u]
           * უნდა: [u n d ɑ]
@@ -370,7 +370,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 9885
+        * Occurrences: 9885
         * Examples
           * დადეს: [d ɑ d ɛ s]
           * ერთი: [ɛ ɾ tʰ i]
@@ -386,7 +386,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 5587
+        * Occurrences: 5587
         * Examples
           * ნახონ: [n ɑ x ɔ n]
           * თორი: [tʰ ɔ ɾ i]
@@ -416,7 +416,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɑ
-        * Occurances: 14642
+        * Occurrences: 14642
         * Examples
           * თაღია: [tʰ ɑ ɣ i ɑ]
           * ჯამში: [dʒ ɑ m ʃ i]

@@ -16,6 +16,8 @@
    ```
 
    ```{admonition} Pronunciation dictionaries
+      * {ref}`english_(us)_arpa_dictionary_v2_0_0a`
+* {ref}`english_(us)_mfa_dictionary_v2_0_0a`
 
    ```
 

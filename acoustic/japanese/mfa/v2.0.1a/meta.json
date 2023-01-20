@@ -1,0 +1,16 @@
+{
+    "name": "japanese_mfa",
+    "language": "Japanese",
+    "dialect": "",
+    "phone_set": "MFA",
+    "version": "2.0.1a",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "citation": "@techreport{mfa_japanese_mfa_acoustic_2023,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Japanese MFA acoustic model v2.0.1a},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Japanese/Japanese MFA acoustic model v2_0_1a.html}},\n\tyear={2023},\n\tmonth={Jan},\n}",
+    "license": "CC BY 4.0",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/japanese/mfa/v2.0.1a/LICENSE)",
+    "architecture": "gmm-hmm",
+    "features": "MFCC",
+    "evaluation": {},
+    "decode": {},
+    "train_date": "2023-01-19"
+}

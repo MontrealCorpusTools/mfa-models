@@ -19,7 +19,7 @@ These benchmarks were performed using [MFA v2.0.0rc8](https://github.com/Montrea
 
 This benchmark is not particularly great, because the Seoul Corpus is used as training data for the Korean MFA models.  The reason for this choice is due to the limited data for Korean speech over all, so the Seoul Corpus accounts for 36% of the training hours in the Korean MFA model.
 
-I'd rather have a better model with 119 hours of training data for Korean than a more accurate benchmark for a model with 76 hours of training data in this case, but see [](english_alignments.md#english-alignment-benchmarks) for an alignment benchmark on unseen data for American English.
+I'd rather have a better model with 119 hours of training data for Korean than a more accurate benchmark for a model with 76 hours of training data in this case, but see [English alignment benchmarks](english_alignments.md) for an alignment benchmark on unseen data for American English.
 ```
 
 ### Alignment score

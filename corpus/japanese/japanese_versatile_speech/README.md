@@ -8,11 +8,11 @@
 - **Source:** [Japanese Versatile Speech](https://sites.google.com/site/shinnosuketakamichi/research-topics/jvs_corpus)
 - **Language:** [Japanese](https://en.wikipedia.org/wiki/Japanese_language)
 - **Dialects:** N/A
-- **Number of hours:** `26.37`
-- **Number of utterances:** `13,007`
+- **Number of hours:** `30.25`
+- **Number of utterances:** `14,994`
 - **Number of speakers:** `100`
-  - **Female speakers:** `0`
-  - **Male speakers:** `0`
+  - **Female speakers:** `51`
+  - **Male speakers:** `49`
   - **Unknown speakers:** `100`
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 

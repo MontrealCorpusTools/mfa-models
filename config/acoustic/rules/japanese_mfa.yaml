@@ -12,9 +12,9 @@ rules:
   replacement: 'i̥'
   segment: i
 - following_context: '$'
-  preceding_context: 'a'
+  preceding_context: ''
   replacement: 'eː'
-  segment: i
+  segment: 'a i'
 - following_context: '$'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: ''
@@ -22,6 +22,10 @@ rules:
 - following_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: 'ɯ̥'
+  segment: ɯ
+- following_context: '[skctɕɸçhp][ʲsɕ]?ː?'
+  preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
+  replacement: ''
   segment: ɯ
 - following_context: '$'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
@@ -34,6 +38,10 @@ rules:
 - following_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: 'ɨ̥'
+  segment: ɨ
+- following_context: '[skctɕɸçhp][ʲsɕ]?ː?'
+  preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
+  replacement: ''
   segment: ɨ
 - following_context: '$'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'

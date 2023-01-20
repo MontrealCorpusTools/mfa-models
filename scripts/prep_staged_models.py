@@ -15,14 +15,14 @@ GLOBAL_CONFIG.temporary_directory = os.path.dirname(os.path.abspath(__file__))
 GLOBAL_CONFIG.database_backend = 'sqlite'
 import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES
-from montreal_forced_aligner.db import Word, Phone, PhoneType
+from montreal_forced_aligner.db import Word, Phone, PhoneType, Pronunciation
 from montreal_forced_aligner.dictionary.multispeaker import MultispeakerDictionary
 from montreal_forced_aligner.data import voiced_variants, voiceless_variants, PhoneSetType
 
 rng = np.random.default_rng(1234)
 random.seed(1234)
 
-CURRENT_MODEL_VERSION = '2.1.0'
+CURRENT_MODEL_VERSION = '2.0.1a'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -1351,13 +1351,13 @@ def extract_model_card_fields(meta_data, model_type):
         if 'corpus' in meta_data:
             for corpus in meta_data['corpus']:
                 if 'version' in corpus and corpus['version']:
-                    corpus_link_template = '[{name}](../../../../corpus/{language}/{corpus_safe_name}/{version}/README.md)'
+                    corpus_link_template = '[{name}](../../../corpus/{language}/{corpus_safe_name}/{version}/README.md)'
                     link = corpus_link_template.format(name=corpus['name'],
                                                         language= make_path_safe(corpus['language']),
                                                         corpus_safe_name = make_path_safe(corpus['name']),
                                                         version=corpus['version'])
                 else:
-                    corpus_link_template = '[{name}](../../../../corpus/{language}/{corpus_safe_name}/README.md)'
+                    corpus_link_template = '[{name}](../../../corpus/{language}/{corpus_safe_name}/README.md)'
                     link = corpus_link_template.format(name=corpus['name'],
                                                         language= make_path_safe(corpus['language']),
                                                         corpus_safe_name = make_path_safe(corpus['name']))
@@ -1906,13 +1906,19 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
         ).filter(sqlalchemy.func.length(Word.word)> 2).filter(sqlalchemy.func.length(Word.word)< 6)
         words = words.order_by(sqlalchemy.func.random())
         phones = session.query(Phone).filter(Phone.phone_type == PhoneType.non_silence)
+        phone_counts = collections.Counter()
+        pronunciations = session.query(Pronunciation.pronunciation)
+        for p, in pronunciations:
+            p = p.split()
+            phone_counts.update(p)
+
     total_phones = set()
     for phone in phones:
         for super_seg, pattern in super_segmentals.items():
             phone_m = pattern.search(phone.phone)
             if phone_m:
                 dictionary_mapping[super_seg].add(phone_m.group(0))
-                counts = phone.count
+                counts = phone_counts[phone.phone]
                 examples = {}
                 for w in words:
                     if w in examples:
@@ -1926,12 +1932,12 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                         break
                 phone = phone.phone.replace(phone_m.group(0), '')
                 if phone not in extra_data:
-                    extra_data[phone] = {'Occurances': 0, 'Examples': {}}
-                extra_data[phone]['Occurances'] += counts
+                    extra_data[phone] = {'Occurrences': 0, 'Examples': {}}
+                extra_data[phone]['Occurrences'] += counts
                 extra_data[phone]['Examples'].update(examples)
                 break
         else:
-            extra_data[phone.phone] = {'Occurances': phone.count, 'Examples': {}}
+            extra_data[phone.phone] = {'Occurrences': f'{phone_counts[phone.phone]:,}', 'Examples': {}}
             phone = phone.phone
             for w in words:
                 if w in extra_data[phone]['Examples']:
@@ -2256,7 +2262,7 @@ for model_type, model_class in MODEL_TYPES.items():
             phone_set_type = 'IPA'
             if phone_set == 'ARPA':
                 phone_set_type = 'ARPA'
-            #phone_charts[meta_data['name']] = analyze_dictionary(model.path, model.name, phone_set_type)
+            phone_charts[meta_data['name']] = analyze_dictionary(model.path, model.name, phone_set_type)
             #if language == 'hindi':
             #    err
     existing_models = []
@@ -2388,9 +2394,9 @@ model_corpus_mapping = {
                                          'African-accented French'],
     "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
     "German MFA acoustic model v2_0_0a": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
-    "Japanese MFA acoustic model v2_0_0a": ['Common Voice Japanese v9_0', 'GlobalPhone Japanese v3_1',
+    "Japanese MFA acoustic model v2_0_1a": ['Common Voice Japanese v12_0', 'GlobalPhone Japanese v3_1',
                                            'Microsoft Speech Language Translation Japanese',
-                                            'Japanese Versatile Speech', 'LaboroTV Japanese v1_0d', 'TEDxJP-10K v1_1'],
+                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
     "Hausa MFA acoustic model v2_0_0": ['Common Voice Hausa v8_0', 'GlobalPhone Hausa v3_1'],
     "Hausa MFA acoustic model v2_0_0a": ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
     "Mandarin MFA acoustic model v2_0_0": ['Common Voice Chinese (China) v8_0', 'Common Voice Chinese (Taiwan) v8_0',
@@ -2604,12 +2610,12 @@ for model_type, data in meta_datas.items():
         os.makedirs(docs_language_dir, exist_ok=True)
         docs_card_path = os.path.join(docs_language_dir, rst_path)
         language_model_doc_mds[language].append(rst_path)
-        if model_type == 'corpus' or (OVERWRITE_MD or not os.path.exists(model_card_path)):
+        if (OVERWRITE_MD or not os.path.exists(model_card_path)):
             with open(model_card_path, 'w', encoding='utf8') as f:
                 print(meta_data)
                 fields = extract_model_card_fields(meta_data, model_type)
                 f.write(model_card_template.format(**fields))
-        if model_type == 'corpus' or (OVERWRITE_MD or not os.path.exists(docs_card_path)):
+        if (OVERWRITE_MD or not os.path.exists(docs_card_path)):
             with open(docs_card_path, 'w', encoding='utf8') as f:
                 print(meta_data)
                 fields = extract_doc_card_fields(meta_data, model_type)

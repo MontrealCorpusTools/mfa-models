@@ -16,6 +16,8 @@
    ```
 
    ```{admonition} Pronunciation dictionaries
+      * {ref}`vietnamese_(ho_chi_minh_city)_mfa_dictionary_v2_0_0a`
+* {ref}`vietnamese_(hanoi)_mfa_dictionary_v2_0_0a`
 
    ```
 

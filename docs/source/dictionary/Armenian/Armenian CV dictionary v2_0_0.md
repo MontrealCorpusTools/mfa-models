@@ -52,7 +52,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 1108
+        * Occurrences: 1108
         * Examples
           * մեջ: [m ɛ d ʒ]
           * մայր: [m ɑ j ɾ]
@@ -64,7 +64,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 2732
+        * Occurrences: 2732
         * Examples
           * ինը: [i n ə]
           * առանց: [ɑ r ɑ n t sʰ]
@@ -85,7 +85,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 321
+        * Occurrences: 321
         * Examples
           * պէտք: [p ɛ t kʰ]
           * կապել: [k ɑ p ɛ l]
@@ -93,7 +93,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * կապով: [k ɑ p ɔ v]
     * voiced
       * b
-        * Occurances: 345
+        * Occurrences: 345
         * Examples
           * բրնձի: [b ɾ n d z i]
           * ժաբոն: [ʒ ɑ b ɔ n]
@@ -105,7 +105,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 1878
+        * Occurrences: 1878
         * Examples
           * կից: [k i t sʰ]
           * ցոփ: [t sʰ ɔ pʰ]
@@ -113,7 +113,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * պէտք: [p ɛ t kʰ]
     * voiced
       * d
-        * Occurances: 641
+        * Occurrences: 641
         * Examples
           * մեջ: [m ɛ d ʒ]
           * ձախ: [d z ɑ χ]
@@ -127,7 +127,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 1026
+        * Occurrences: 1026
         * Examples
           * կից: [k i t sʰ]
           * կարեց: [k ɑ ɾ ɛ t sʰ]
@@ -135,7 +135,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * տակ՝: [t ɑ k]
     * voiced
       * ɡ
-        * Occurances: 415
+        * Occurrences: 415
         * Examples
           * գոլին: [ɡ ɔ l i n]
           * գծեր: [ɡ t s ɛ ɾ]
@@ -154,7 +154,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 924
+        * Occurrences: 924
         * Examples
           * գծեր: [ɡ t s ɛ ɾ]
           * օրս: [ɔ ɾ s]
@@ -162,7 +162,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * տուած: [t u ɑ t s]
     * voiced
       * z
-        * Occurances: 345
+        * Occurrences: 345
         * Examples
           * ձախ: [d z ɑ χ]
           * բրնձի: [b ɾ n d z i]
@@ -172,7 +172,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 324
+        * Occurrences: 324
         * Examples
           * շան: [ʃ ɑ n]
           * մաշկ: [m ɑ ʃ k]
@@ -180,7 +180,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * ուշ: [u ʃ]
     * voiced
       * ʒ
-        * Occurances: 226
+        * Occurrences: 226
         * Examples
           * մեջ: [m ɛ d ʒ]
           * առջևի: [ɑ r d ʒ ɛ v i]
@@ -203,7 +203,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * sʰ
-        * Occurances: 478
+        * Occurrences: 478
         * Examples
           * կից: [k i t sʰ]
           * ցոփ: [t sʰ ɔ pʰ]
@@ -213,7 +213,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃʰ
-        * Occurances: 121
+        * Occurrences: 121
         * Examples
           * մինչև: [m i n t ʃʰ ɛ v]
           * աչքեր: [ɑ t ʃʰ kʰ ɛ ɾ]
@@ -234,14 +234,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 46
+        * Occurrences: 46
         * Examples
           * ֆոլքի: [f ɔ l kʰ i]
           * ֆոնդը: [f ɔ n d ə]
           * ֆեռալ: [f ɛ r ɑ l]
     * voiced
       * v
-        * Occurances: 773
+        * Occurrences: 773
         * Examples
           * մինչև: [m i n t ʃʰ ɛ v]
           * հովիտ: [h ɔ v i t]
@@ -259,7 +259,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * χ
-        * Occurances: 195
+        * Occurrences: 195
         * Examples
           * ձախ: [d z ɑ χ]
           * խնդրի: [χ n d ɾ i]
@@ -267,7 +267,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * թխել: [tʰ χ ɛ l]
     * voiced
       * ʁ
-        * Occurances: 329
+        * Occurrences: 329
         * Examples
           * ցեղը: [t sʰ ɛ ʁ ə]
           * ուղիղ: [u ʁ i ʁ]
@@ -277,7 +277,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 476
+        * Occurrences: 476
         * Examples
           * հիմար: [h i m ɑ ɾ]
           * հովիտ: [h ɔ v i t]
@@ -296,7 +296,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 714
+        * Occurrences: 714
         * Examples
           * մայր: [m ɑ j ɾ]
           * այն: [ɑ j n]
@@ -317,7 +317,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 2246
+        * Occurrences: 2246
         * Examples
           * արքա: [ɑ ɾ kʰ ɑ]
           * գծեր: [ɡ t s ɛ ɾ]
@@ -342,7 +342,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 193
+        * Occurrences: 193
         * Examples
           * առանց: [ɑ r ɑ n t sʰ]
           * անսեռ: [ɑ n s ɛ r]
@@ -367,7 +367,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 523
+        * Occurrences: 523
         * Examples
           * գոլին: [ɡ ɔ l i n]
           * գլուխ: [ɡ l u χ]
@@ -406,7 +406,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 1456
+        * Occurrences: 1456
         * Examples
           * կից: [k i t sʰ]
           * ինը: [i n ə]
@@ -422,7 +422,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 1310
+        * Occurrences: 1310
         * Examples
           * քունի: [kʰ u n i]
           * արուն: [ɑ ɾ u n]
@@ -459,7 +459,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 478
+        * Occurrences: 478
         * Examples
           * ինը: [i n ə]
           * սեմը: [s ɛ m ə]
@@ -474,7 +474,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 1922
+        * Occurrences: 1922
         * Examples
           * մեջ: [m ɛ d ʒ]
           * պէտք: [p ɛ t kʰ]
@@ -490,7 +490,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 909
+        * Occurrences: 909
         * Examples
           * ցոփ: [t sʰ ɔ pʰ]
           * գոլին: [ɡ ɔ l i n]
@@ -520,7 +520,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɑ
-        * Occurances: 4463
+        * Occurrences: 4463
         * Examples
           * առանց: [ɑ r ɑ n t sʰ]
           * ձախ: [d z ɑ χ]

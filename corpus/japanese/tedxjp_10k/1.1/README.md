@@ -8,12 +8,12 @@
 - **Source:** [TEDxJP-10K](https://github.com/laboroai/TEDxJP-10K)
 - **Language:** [Japanese](https://en.wikipedia.org/wiki/Japanese_language)
 - **Dialects:** N/A
-- **Number of hours:** `0.00`
-- **Number of utterances:** `0`
-- **Number of speakers:** `0`
+- **Number of hours:** `8.85`
+- **Number of utterances:** `9,962`
+- **Number of speakers:** `271`
   - **Female speakers:** `0`
   - **Male speakers:** `0`
-  - **Unknown speakers:** `0`
+  - **Unknown speakers:** `271`
 - **License:** [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 - **Version:** `1.1`
 - **Citation:**

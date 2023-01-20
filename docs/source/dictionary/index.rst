@@ -16,6 +16,7 @@ Pronunciation dictionaries
    :hidden:
 
    ../mfa_phone_set.md
+   Japanese/index.rst
    Abkhaz/index.rst
    Arabic/index.rst
    Armenian/index.rst
@@ -38,7 +39,6 @@ Pronunciation dictionaries
    Hungarian/index.rst
    Indonesian/index.rst
    Italian/index.rst
-   Japanese/index.rst
    Kazakh/index.rst
    Korean/index.rst
    Kurmanji/index.rst

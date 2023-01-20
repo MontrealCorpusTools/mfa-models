@@ -8,8 +8,8 @@
 - **Source:** [GlobalPhone Japanese](https://catalogue.elra.info/en-us/repository/browse/ELRA-S0199/)
 - **Language:** [Japanese](https://en.wikipedia.org/wiki/Japanese_language)
 - **Dialects:** N/A
-- **Number of hours:** `33.91`
-- **Number of utterances:** `13,067`
+- **Number of hours:** `33.88`
+- **Number of utterances:** `13,103`
 - **Number of speakers:** `144`
   - **Female speakers:** `44`
   - **Male speakers:** `104`

@@ -52,7 +52,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 25982
+        * Occurrences: 25982
         * Examples
           * amera: [a m ɛ ɾ a]
           * morsi: [m ɔ ɾ s i]
@@ -66,7 +66,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 16904
+        * Occurrences: 16904
         * Examples
           * naiá: [n a ɐ j a]
           * notar: [n o t a x]
@@ -78,7 +78,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 4338
+        * Occurrences: 4338
         * Examples
           * alane: [a l ɐ ɲ i]
           * junho: [ʒ u ɲ u]
@@ -93,7 +93,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 25620
+        * Occurrences: 25620
         * Examples
           * ipaba: [i p a b ɐ]
           * péon: [p ɛ õ]
@@ -101,7 +101,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * prats: [p ɾ a t s]
     * voiced
       * b
-        * Occurances: 10233
+        * Occurrences: 10233
         * Examples
           * ipaba: [i p a b ɐ]
           * brôôô: [b ɾ o o o]
@@ -115,7 +115,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 45991
+        * Occurrences: 45991
         * Examples
           * retê: [ʁ ɨ t e]
           * youth: [a j u t ɣ a]
@@ -123,7 +123,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * prats: [p ɾ a t s]
     * voiced
       * d
-        * Occurances: 24754
+        * Occurrences: 24754
         * Examples
           * fodão: [f ɔ d ɐ̃ w̃]
           * danse: [d ɐ̃ s i]
@@ -135,7 +135,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 2452
+        * Occurrences: 2452
         * Examples
           * raque: [x a c i]
           * kebir: [c i b i x]
@@ -143,7 +143,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * etc: [i t c i]
     * voiced
       * ɟ
-        * Occurances: 663
+        * Occurrences: 663
         * Examples
           * segue: [s ɛ ɟ i]
           * fgts: [ɛ f i ɟ e t e ɛ s i]
@@ -153,7 +153,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 31769
+        * Occurrences: 31769
         * Examples
           * quaeí: [k w ɐ ɛ i]
           * raque: [ʁ a k ɨ]
@@ -161,7 +161,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * capuz: [k a p u j s]
     * voiced
       * ɡ
-        * Occurances: 7022
+        * Occurrences: 7022
         * Examples
           * gozo: [ɡ o z u]
           * gongo: [ɡ õ ɡ u]
@@ -182,7 +182,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tʃ
-        * Occurances: 4709
+        * Occurrences: 4709
         * Examples
           * prats: [p ʁ a tʃ]
           * cuti: [k u tʃ i]
@@ -190,7 +190,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * frete: [f ɾ ɛ tʃ i]
     * voiced
       * dʒ
-        * Occurances: 2932
+        * Occurrences: 2932
         * Examples
           * adad: [a d a dʒ]
           * dje: [dʒ ɨ]
@@ -213,7 +213,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 44554
+        * Occurrences: 44554
         * Examples
           * sum: [s ũ]
           * prats: [p ɾ a t s]
@@ -221,7 +221,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * seltz: [s ɛ l t ʃ]
     * voiced
       * z
-        * Occurances: 12650
+        * Occurrences: 12650
         * Examples
           * raísa: [x a i z ɐ]
           * gozo: [ɡ o z u]
@@ -231,7 +231,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 37771
+        * Occurrences: 37771
         * Examples
           * capuz: [k ɐ p u ʃ]
           * seltz: [s ɛ l t ʃ]
@@ -239,7 +239,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * hades: [a ð ɨ ʃ]
     * voiced
       * ʒ
-        * Occurances: 8260
+        * Occurrences: 8260
         * Examples
           * joca: [ʒ ɔ k ɐ]
           * jhes: [ʒ ɨ ʃ]
@@ -258,7 +258,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 13084
+        * Occurrences: 13084
         * Examples
           * fodão: [f ɔ d ɐ̃ w̃]
           * aferi: [ɐ f ɨ ɾ i]
@@ -266,7 +266,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * vofla: [v ɔ f l ɐ]
     * voiced
       * v
-        * Occurances: 17612
+        * Occurrences: 17612
         * Examples
           * visar: [v i z a x]
           * tvor: [t v o ɾ]
@@ -276,7 +276,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ð
-        * Occurances: 16618
+        * Occurrences: 16618
         * Examples
           * odo: [o ð u]
           * ardem: [a ɾ ð ɐ̃ j̃]
@@ -294,7 +294,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ʁ
-        * Occurances: 9875
+        * Occurrences: 9875
         * Examples
           * retê: [ʁ ɨ t e]
           * raísa: [ʁ ɐ i z ɐ]
@@ -305,14 +305,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 12879
+        * Occurrences: 12879
         * Examples
           * youth: [o w t]
           * quaeí: [k w ɐ ɛ i]
           * rírao: [ʁ i ɾ a w]
           * broa: [b ɾ o w ɐ]
       * w̃
-        * Occurances: 8511
+        * Occurrences: 8511
         * Examples
           * fodão: [f ɔ d ɐ̃ w̃]
           * orçam: [u ɾ s ɐ̃ w̃]
@@ -330,14 +330,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 21694
+        * Occurrences: 21694
         * Examples
           * youth: [a j u t ɣ a]
           * naiá: [n a ɐ j a]
           * peito: [p e j t u]
           * capuz: [k a p u j s]
       * j̃
-        * Occurances: 4968
+        * Occurrences: 4968
         * Examples
           * ardem: [a ɾ ð ɐ̃ j̃]
           * junho: [ʒ ũ j̃ u]
@@ -358,7 +358,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɾ
-        * Occurances: 60106
+        * Occurrences: 60106
         * Examples
           * ardem: [a ɾ ð ɐ̃ j̃]
           * rírao: [ʁ i ɾ a w]
@@ -383,7 +383,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 27431
+        * Occurrences: 27431
         * Examples
           * ali: [ɐ l i]
           * seltz: [s ɛ l t ʃ]
@@ -395,7 +395,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ʎ
-        * Occurances: 4826
+        * Occurrences: 4826
         * Examples
           * ali: [a ʎ i]
           * lhos: [ʎ u ʃ]
@@ -430,7 +430,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 72602
+        * Occurrences: 72602
         * Examples
           * ipaba: [i p a b ɐ]
           * ali: [a ʎ i]
@@ -442,7 +442,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 34357
+        * Occurrences: 34357
         * Examples
           * retê: [ʁ ɨ t e]
           * raque: [ʁ a k ɨ]
@@ -454,7 +454,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 63716
+        * Occurrences: 63716
         * Examples
           * odo: [o ð u]
           * youth: [a j u t ɣ a]
@@ -476,7 +476,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * e
-        * Occurances: 24168
+        * Occurrences: 24168
         * Examples
           * retê: [ʁ ɨ t e]
           * peito: [p e j t u]
@@ -492,7 +492,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 20166
+        * Occurrences: 20166
         * Examples
           * odo: [o ð u]
           * youth: [o w t]
@@ -514,7 +514,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 11899
+        * Occurrences: 11899
         * Examples
           * péon: [p ɛ õ]
           * quaeí: [k w ɐ ɛ i]
@@ -530,7 +530,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 8975
+        * Occurrences: 8975
         * Examples
           * toca: [t ɔ k ɐ]
           * fodão: [f ɔ d ɐ̃ w̃]
@@ -545,7 +545,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɐ
-        * Occurances: 71982
+        * Occurrences: 71982
         * Examples
           * naiá: [n a ɐ j a]
           * ipaba: [i p a b ɐ]
@@ -564,7 +564,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 60277
+        * Occurrences: 60277
         * Examples
           * ardem: [a ɾ ð ɐ̃ j̃]
           * youth: [a j u t ɣ a]
@@ -595,7 +595,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ĩ
-        * Occurances: 8165
+        * Occurrences: 8165
         * Examples
           * inspn: [ĩ s p]
           * incel: [ĩ s ɛ w]
@@ -611,7 +611,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ũ
-        * Occurances: 1754
+        * Occurrences: 1754
         * Examples
           * sum: [s ũ]
           * zumba: [z ũ b ɐ]
@@ -633,7 +633,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ẽ
-        * Occurances: 14559
+        * Occurrences: 14559
         * Examples
           * vencê: [v ẽ s e]
           * lente: [l ẽ t ɨ]
@@ -649,7 +649,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * õ
-        * Occurances: 8436
+        * Occurrences: 8436
         * Examples
           * péon: [p ɛ õ]
           * gongo: [ɡ õ ɡ u]
@@ -686,7 +686,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɐ̃
-        * Occurances: 21814
+        * Occurrences: 21814
         * Examples
           * ardem: [a ɾ ð ɐ̃ j̃]
           * fodão: [f ɔ d ɐ̃ w̃]

@@ -8,8 +8,8 @@
 - **Source:** [Microsoft Speech Language Translation Japanese](https://msropendata.com/datasets/54813518-4ea6-4c39-9bb2-b0d1e5f0c187)
 - **Language:** [Japanese](https://en.wikipedia.org/wiki/Japanese_language)
 - **Dialects:** N/A
-- **Number of hours:** `9.86`
-- **Number of utterances:** `7,339`
+- **Number of hours:** `9.85`
+- **Number of utterances:** `7,338`
 - **Number of speakers:** `112`
   - **Female speakers:** `0`
   - **Male speakers:** `0`

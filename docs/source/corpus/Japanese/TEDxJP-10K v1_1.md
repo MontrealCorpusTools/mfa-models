@@ -16,6 +16,12 @@
    ```
 
    ```{admonition} Pronunciation dictionaries
-   * {ref}`japanese_mfa_dictionary_v2_0_0`
+   * {ref}`japanese_mfa_dictionary_v2_0_1a`
+* {ref}`japanese_mfa_dictionary_v2_0_0`
+* {ref}`japanese_mfa_dictionary_v2_0_1a`
+   ```
+
+```{admonition} Acoustic models
+   * {ref}`japanese_mfa_acoustic_model_v2_0_1a`
    ```
 ``````

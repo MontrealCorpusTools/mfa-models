@@ -47,6 +47,7 @@ extensions = [
     'ipa_charts'
 ]
 myst_enable_extensions = ["colon_fence"]
+myst_heading_anchors = 3
 panels_add_bootstrap_css = False
 autosectionlabel_prefix_document = True
 needs_include_needs = True
@@ -171,7 +172,10 @@ html_theme_options = {
         "text": "Montreal Forced Aligner",
         # "image_dark": "logo-dark.svg",
     },
-    "google_analytics_id": "UA-73068199-4",
+    "analytics":{
+
+        "google_analytics_id": "G-31RXW9TT1Z",
+    },
     "show_nav_level": 1,
     "navigation_depth": 4,
     "show_toc_level": 2,

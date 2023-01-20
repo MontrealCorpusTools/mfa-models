@@ -47,7 +47,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 4930
+        * Occurrences: 4930
         * Examples
           * muka.: [m u k a]
           * lemot: [l ə m o t]
@@ -59,7 +59,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 6993
+        * Occurrences: 6993
         * Examples
           * not: [n o t]
           * duran: [d u r a n]
@@ -69,7 +69,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 1560
+        * Occurrences: 1560
         * Examples
           * bunny: [b u n ɲ]
           * nyeri: [ɲ ə r i]
@@ -79,7 +79,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 2085
+        * Occurrences: 2085
         * Examples
           * sang: [s a ŋ]
           * gang,: [ɡ a ŋ]
@@ -92,7 +92,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 3272
+        * Occurrences: 3272
         * Examples
           * pisau: [p i s a u]
           * lapuk: [l a p u k]
@@ -100,7 +100,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * sopan: [s o p a n]
     * voiced
       * b
-        * Occurances: 2984
+        * Occurrences: 2984
         * Examples
           * baku: [b a k u]
           * biru?: [b i r u]
@@ -112,7 +112,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 5487
+        * Occurrences: 5487
         * Examples
           * not: [n o t]
           * lemot: [l ə m o t]
@@ -120,7 +120,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * worst: [w o r s t]
     * voiced
       * d
-        * Occurances: 2917
+        * Occurrences: 2917
         * Examples
           * duran: [d u r a n]
           * disco: [d i s t͡ɕ o]
@@ -132,7 +132,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 5172
+        * Occurrences: 5172
         * Examples
           * korea: [k o r ə a]
           * muka.: [m u k a]
@@ -140,7 +140,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * naik,: [n a i k]
     * voiced
       * ɡ
-        * Occurances: 1440
+        * Occurrences: 1440
         * Examples
           * gila: [ɡ i l a]
           * garak: [ɡ a r a k]
@@ -150,7 +150,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʔ
-        * Occurances: 46
+        * Occurrences: 46
         * Examples
           * 'kan?: [ʔ k a n]
           * 'kan: [ʔ k a n]
@@ -166,7 +166,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t͡ɕ
-        * Occurances: 1361
+        * Occurrences: 1361
         * Examples
           * disco: [d i s t͡ɕ o]
           * rock.: [r o t͡ɕ k]
@@ -174,7 +174,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * lucu.: [l u t͡ɕ u]
     * voiced
       * d͡ʑ
-        * Occurances: 899
+        * Occurrences: 899
         * Examples
           * jas,: [d͡ʑ a s]
           * juli: [d͡ʑ u l i]
@@ -193,7 +193,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 5252
+        * Occurrences: 5252
         * Examples
           * pisau: [p i s a u]
           * sang: [s a ŋ]
@@ -201,7 +201,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * disco: [d i s t͡ɕ o]
     * voiced
       * z
-        * Occurances: 135
+        * Occurrences: 135
         * Examples
           * pizza: [p i z z a]
           * hazel: [h a z ə l]
@@ -211,7 +211,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ɕ
-        * Occurances: 26
+        * Occurrences: 26
         * Examples
           * syal: [ɕ a l]
           * tasya: [t a ɕ a]
@@ -226,7 +226,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 1011
+        * Occurrences: 1011
         * Examples
           * hafal: [h a f a l]
           * full: [f u l l]
@@ -242,7 +242,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 2389
+        * Occurrences: 2389
         * Examples
           * hafal: [h a f a l]
           * marsh: [m a r s h]
@@ -253,7 +253,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 653
+        * Occurrences: 653
         * Examples
           * rawan: [r a w a n]
           * worst: [w o r s t]
@@ -267,7 +267,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 645
+        * Occurrences: 645
         * Examples
           * kyoto: [k j o t o]
           * dusky: [d u s k j]
@@ -286,7 +286,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 6756
+        * Occurrences: 6756
         * Examples
           * korea: [k o r ə a]
           * duran: [d u r a n]
@@ -307,7 +307,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 4306
+        * Occurrences: 4306
         * Examples
           * lemot: [l ə m o t]
           * gila: [ɡ i l a]
@@ -342,7 +342,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 8316
+        * Occurrences: 8316
         * Examples
           * gila: [ɡ i l a]
           * pisau: [p i s a u]
@@ -358,7 +358,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 5055
+        * Occurrences: 5055
         * Examples
           * muka.: [m u k a]
           * duran: [d u r a n]
@@ -388,7 +388,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 3756
+        * Occurrences: 3756
         * Examples
           * korea: [k o r ə a]
           * not: [n o t]
@@ -403,7 +403,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 9701
+        * Occurrences: 9701
         * Examples
           * korea: [k o r ə a]
           * lemot: [l ə m o t]
@@ -444,7 +444,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 17034
+        * Occurrences: 17034
         * Examples
           * korea: [k o r ə a]
           * muka.: [m u k a]

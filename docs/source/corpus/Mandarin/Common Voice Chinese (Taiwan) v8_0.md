@@ -16,6 +16,7 @@
    ```
 
    ```{admonition} Pronunciation dictionaries
+      * {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0a`
 
    ```
 

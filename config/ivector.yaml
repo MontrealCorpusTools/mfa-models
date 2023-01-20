@@ -1,5 +1,4 @@
 use_pitch: true
 use_voicing: true
-min_f0: 50
-max_f0: 900
+adaptive_pitch_range: true
 num_coefficients: 20

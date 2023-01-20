@@ -3,7 +3,7 @@
 # GlobalPhone transcription benchmarks
 
 
-MFA has some simple language model training and transcription capabilities in addition to its alignment functionalities.  The Word Error Rate (WER) and Character Error Rate was calculated over the Buckeye and TIMIT corpora below.  Note that unlike the [](english_transcriptions.md#english-transcription-benchmarks), these datasets were included in the training data, and hence will not be representative of use on your own datasets. The reason for training on GlobalPhone is that many of the languages here have very little data outside of it, and so sacrificing user's alignment performance for the benefit of cleaner benchmark metrics does not seem worth it to me.
+MFA has some simple language model training and transcription capabilities in addition to its alignment functionalities.  The Word Error Rate (WER) and Character Error Rate was calculated over the Buckeye and TIMIT corpora below.  Note that unlike the [English transcription benchmarks](english_transcriptions.md), these datasets were included in the training data, and hence will not be representative of use on your own datasets. The reason for training on GlobalPhone is that many of the languages here have very little data outside of it, and so sacrificing user's alignment performance for the benefit of cleaner benchmark metrics does not seem worth it to me.
 
 ## Datasets
 
@@ -32,7 +32,7 @@ Please note that there were a number of fixes for these corpora to clean them up
 
 ```{warning}
 
-The evaluation data here was included in the training for all models, and so it not likely to be fully representative of performance on your data.  See [](english_transcriptions.md#english-transcription-benchmarks) for a transcription evaluation on unseen data.
+The evaluation data here was included in the training for all models, and so it not likely to be fully representative of performance on your data.  See [English transcription benchmarks](english_transcriptions.md) for a transcription evaluation on unseen data.
 ```
 
 ## Experimental set up

@@ -51,14 +51,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 24192
+        * Occurrences: 24192
         * Examples
           * čem: [tʃ ɛ m]
           * morf: [m o r f]
           * mind: [m iː n t]
           * mletí: [m l ɛ c iː]
       * m̩
-        * Occurances: 459
+        * Occurrences: 459
         * Examples
           * normě: [n o r m̩ ɲ ɛ]
           * směně: [s m̩ ɲ ɛ ɲ ɛ]
@@ -68,7 +68,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɱ
-        * Occurances: 317
+        * Occurrences: 317
         * Examples
           * nymfa: [n ɪ ɱ f a]
           * nymfy: [n ɪ ɱ f ɪ]
@@ -78,14 +78,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 37543
+        * Occurrences: 37543
         * Examples
           * mind: [m iː n t]
           * dušan: [d u ʃ a n]
           * rodin: [r o ɟ ɪ n]
           * mýtný: [m iː t n iː]
       * n̩
-        * Occurances: 23
+        * Occurrences: 23
         * Examples
           * srnku: [s r n̩ k u]
           * srnka: [s r n̩ k a]
@@ -97,7 +97,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 15021
+        * Occurrences: 15021
         * Examples
           * učiní: [u tʃ ɪ ɲ iː]
           * síně: [s iː ɲ ɛ]
@@ -107,7 +107,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 1480
+        * Occurrences: 1480
         * Examples
           * angel: [a ŋ ɡ ɛ l]
           * singl: [s ɪ ŋ ɡ l̩]
@@ -120,7 +120,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 25734
+        * Occurrences: 25734
         * Examples
           * trpět: [t r̩ p j ɛ t]
           * opéct: [o p ɛː ts t]
@@ -128,7 +128,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * spis: [s p ɪ s]
     * voiced
       * b
-        * Occurances: 10057
+        * Occurrences: 10057
         * Examples
           * rublu: [r u b l u]
           * těžby: [c ɛ ʒ b ɪ]
@@ -140,7 +140,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 36514
+        * Occurrences: 36514
         * Examples
           * mind: [m iː n t]
           * trpět: [t r̩ p j ɛ t]
@@ -148,7 +148,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * leto: [l ɛ t o]
     * voiced
       * d
-        * Occurances: 17967
+        * Occurrences: 17967
         * Examples
           * sady: [s a d ɪ]
           * jedlé: [j ɛ d l ɛː]
@@ -160,7 +160,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 5161
+        * Occurrences: 5161
         * Examples
           * mletí: [m l ɛ c iː]
           * těžby: [c ɛ ʒ b ɪ]
@@ -168,7 +168,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * cti: [ts c ɪ]
     * voiced
       * ɟ
-        * Occurances: 3043
+        * Occurrences: 3043
         * Examples
           * rodin: [r o ɟ ɪ n]
           * děsíc: [ɟ ɛ s iː ts]
@@ -178,7 +178,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 30328
+        * Occurrences: 30328
         * Examples
           * zkusí: [s k u s iː]
           * kurri: [k u r ɪ]
@@ -186,7 +186,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * akcí: [a k ts iː]
     * voiced
       * ɡ
-        * Occurances: 3643
+        * Occurrences: 3643
         * Examples
           * ehs: [ɛ ɡ ɦ]
           * gesto: [ɡ ɛ s t o]
@@ -203,7 +203,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ts
-        * Occurances: 12302
+        * Occurrences: 12302
         * Examples
           * výšce: [v iː ʃ ts ɛ]
           * opéct: [o p ɛː ts t]
@@ -213,7 +213,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * tʃ
-        * Occurances: 7864
+        * Occurrences: 7864
         * Examples
           * čem: [tʃ ɛ m]
           * čsú: [tʃ s uː]
@@ -221,7 +221,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * loučí: [l ow tʃ iː]
     * voiced
       * dʒ
-        * Occurances: 122
+        * Occurrences: 122
         * Examples
           * cage: [k ɛː dʒ]
           * fidži: [f ɪ dʒ ɪ]
@@ -242,7 +242,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 30661
+        * Occurrences: 30661
         * Examples
           * sea: [s ɛ a]
           * sady: [s a d ɪ]
@@ -250,7 +250,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * vous: [v ow s]
     * voiced
       * z
-        * Occurances: 14191
+        * Occurrences: 14191
         * Examples
           * pouze: [p ow z ɛ]
           * zdali: [z d a l ɪ]
@@ -260,7 +260,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʃ
-        * Occurances: 6710
+        * Occurrences: 6710
         * Examples
           * výšce: [v iː ʃ ts ɛ]
           * dušan: [d u ʃ a n]
@@ -268,7 +268,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * rašín: [r a ʃ iː n]
     * voiced
       * ʒ
-        * Occurances: 4221
+        * Occurrences: 4221
         * Examples
           * těžby: [c ɛ ʒ b ɪ]
           * žádný: [ʒ aː d n iː]
@@ -287,7 +287,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 4998
+        * Occurrences: 4998
         * Examples
           * morf: [m o r f]
           * vsedl: [f s ɛ d l̩]
@@ -295,7 +295,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * kufr: [k u f r̩]
     * voiced
       * v
-        * Occurances: 31756
+        * Occurrences: 31756
         * Examples
           * výšce: [v iː ʃ ts ɛ]
           * vous: [v ow s]
@@ -313,7 +313,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ɦ
-        * Occurances: 10053
+        * Occurrences: 10053
         * Examples
           * hůl: [ɦ uː l]
           * háji: [ɦ aː j ɪ]
@@ -332,7 +332,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 14027
+        * Occurrences: 14027
         * Examples
           * jedlé: [j ɛ d l ɛː]
           * trpět: [t r̩ p j ɛ t]
@@ -351,14 +351,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 29488
+        * Occurrences: 29488
         * Examples
           * morf: [m o r f]
           * rodin: [r o ɟ ɪ n]
           * rublu: [r u b l u]
           * rybíz: [r ɪ b iː s]
       * r̩
-        * Occurances: 2035
+        * Occurrences: 2035
         * Examples
           * trpět: [t r̩ p j ɛ t]
           * prhu: [p r̩ ɦ u]
@@ -381,14 +381,14 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 34153
+        * Occurrences: 34153
         * Examples
           * jedlé: [j ɛ d l ɛː]
           * mletí: [m l ɛ c iː]
           * hůl: [ɦ uː l]
           * jílů: [j iː l uː]
       * l̩
-        * Occurances: 891
+        * Occurrences: 891
         * Examples
           * vsedl: [f s ɛ d l̩]
           * seidl: [s a j d l̩]
@@ -425,7 +425,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * iː
-        * Occurances: 31065
+        * Occurrences: 31065
         * Examples
           * výšce: [v iː ʃ ts ɛ]
           * mind: [m iː n t]
@@ -441,14 +441,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 18661
+        * Occurrences: 18661
         * Examples
           * dušan: [d u ʃ a n]
           * rublu: [r u b l u]
           * ušli: [u ʃ l ɪ]
           * zkusí: [s k u s iː]
       * uː
-        * Occurances: 4729
+        * Occurrences: 4729
         * Examples
           * hůl: [ɦ uː l]
           * jílů: [j iː l uː]
@@ -461,7 +461,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɪ
-        * Occurances: 49143
+        * Occurrences: 49143
         * Examples
           * sady: [s a d ɪ]
           * háji: [ɦ aː j ɪ]
@@ -486,21 +486,21 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 56336
+        * Occurrences: 56336
         * Examples
           * morf: [m o r f]
           * rodin: [r o ɟ ɪ n]
           * opéct: [o p ɛː ts t]
           * ocelí: [o ts ɛ l iː]
       * ow
-        * Occurances: 5377
+        * Occurrences: 5377
         * Examples
           * vous: [v ow s]
           * pouze: [p ow z ɛ]
           * pouť: [p ow c]
           * louka: [l ow k a]
       * oː
-        * Occurances: 360
+        * Occurrences: 360
         * Examples
           * fóre: [f oː r ɛ]
           * glóby: [ɡ l oː b ɪ]
@@ -522,14 +522,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛ
-        * Occurances: 61324
+        * Occurrences: 61324
         * Examples
           * čem: [tʃ ɛ m]
           * sea: [s ɛ a]
           * jedlé: [j ɛ d l ɛː]
           * výšce: [v iː ʃ ts ɛ]
       * ɛː
-        * Occurances: 7796
+        * Occurrences: 7796
         * Examples
           * jedlé: [j ɛ d l ɛː]
           * opéct: [o p ɛː ts t]
@@ -563,14 +563,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 50509
+        * Occurrences: 50509
         * Examples
           * sea: [s ɛ a]
           * sady: [s a d ɪ]
           * dušan: [d u ʃ a n]
           * seidl: [s a j d l̩]
       * aː
-        * Occurances: 18259
+        * Occurrences: 18259
         * Examples
           * háji: [ɦ aː j ɪ]
           * válci: [v aː l ts ɪ]

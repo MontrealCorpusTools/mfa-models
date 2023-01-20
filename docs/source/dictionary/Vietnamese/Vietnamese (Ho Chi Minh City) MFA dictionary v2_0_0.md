@@ -51,7 +51,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * m
-        * Occurances: 654
+        * Occurrences: 654
         * Examples
           * dậm: [j ə˨˩˨ m]
           * mường: [m ɨː˨˩ ŋ]
@@ -63,7 +63,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * n
-        * Occurances: 416
+        * Occurrences: 416
         * Examples
           * hạnh: [h a˨˩˨ n]
           * nướng: [n ɨː˦˥ ŋ]
@@ -75,7 +75,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ɲ
-        * Occurances: 185
+        * Occurrences: 185
         * Examples
           * nhập: [ɲ ə˨˩˨ p]
           * nhat: [ɲ aː˨˨ k]
@@ -85,7 +85,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * ŋ
-        * Occurances: 1145
+        * Occurrences: 1145
         * Examples
           * khiến: [x iː˦˥ ŋ]
           * cắn: [k a˦˥ ŋ]
@@ -98,7 +98,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * p
-        * Occurances: 197
+        * Occurrences: 197
         * Examples
           * nhập: [ɲ ə˨˩˨ p]
           * bếp: [ɓ eː˦˥ p]
@@ -110,7 +110,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * t
-        * Occurances: 415
+        * Occurrences: 415
         * Examples
           * rích: [r ɨ˦˥ t]
           * tồn: [t o˨˩ ŋ]
@@ -120,7 +120,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʈ
-        * Occurances: 159
+        * Occurrences: 159
         * Examples
           * trân: [ʈ ə˨˨ ŋ]
           * trào: [ʈ aː˨˩ w]
@@ -130,7 +130,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * c
-        * Occurances: 233
+        * Occurrences: 233
         * Examples
           * chạp: [c aː˨˩˨ p]
           * chen: [c ɛː˨˨ ŋ]
@@ -140,7 +140,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * k
-        * Occurances: 765
+        * Occurrences: 765
         * Examples
           * cắn: [k a˦˥ ŋ]
           * cậy: [k ə˨˩˨ j]
@@ -148,7 +148,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * khẹc: [x ɛː˨˩˨ k]
     * voiced
       * ɡ
-        * Occurances: 132
+        * Occurrences: 132
         * Examples
           * gót: [ɡ ɔː˦˥ k]
           * gợi: [ɡ əː˨˩˨ j]
@@ -158,7 +158,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * ʔ
-        * Occurances: 189
+        * Occurrences: 189
         * Examples
           * ướt: [ʔ ɨː˦˥ k]
           * ịch: [ʔ ɨ˨˩˨ t]
@@ -169,7 +169,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ɓ
-        * Occurances: 266
+        * Occurrences: 266
         * Examples
           * bới: [ɓ əː˦˥ j]
           * bứt: [ɓ ɨ˦˥ k]
@@ -181,7 +181,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiced
       * ɗ
-        * Occurances: 252
+        * Occurrences: 252
         * Examples
           * đao: [ɗ aː˨˨ w]
           * đia: [ɗ iə˨˨]
@@ -204,7 +204,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * s
-        * Occurances: 337
+        * Occurrences: 337
         * Examples
           * sủi: [s u˨˩˦ j]
           * xài: [s aː˨˩ j]
@@ -225,7 +225,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * f
-        * Occurances: 121
+        * Occurrences: 121
         * Examples
           * phát: [f aː˦˥ k]
           * phô: [f oː˨˨]
@@ -233,7 +233,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
           * phoi: [f ɔː˨˨ j]
     * voiced
       * v
-        * Occurances: 188
+        * Occurrences: 188
         * Examples
           * vôi: [v oː˨˨ j]
           * vọng: [v ɔ˨˩˨ ŋm]
@@ -251,7 +251,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * voiceless
       * h
-        * Occurances: 256
+        * Occurrences: 256
         * Examples
           * hạnh: [h a˨˩˨ n]
           * hờn: [h əː˨˩ ŋ]
@@ -262,7 +262,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * w
-        * Occurances: 779
+        * Occurrences: 779
         * Examples
           * trào: [ʈ aː˨˩ w]
           * thuỷ: [tʰ w i˨˩˦]
@@ -278,7 +278,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * j
-        * Occurances: 898
+        * Occurrences: 898
         * Examples
           * dậm: [j ə˨˩˨ m]
           * bới: [ɓ əː˦˥ j]
@@ -297,7 +297,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * r
-        * Occurances: 205
+        * Occurrences: 205
         * Examples
           * rùng: [r u˨˩ ŋm]
           * rích: [r ɨ˦˥ t]
@@ -320,7 +320,7 @@ Obstruent symbols to the left of {fas}`circle;ipa-dot` are unvoiced and those to
   - ```{ipa_cell}
     * other
       * l
-        * Occurances: 290
+        * Occurrences: 290
         * Examples
           * lạt: [l aː˨˩˨ k]
           * luộc: [l uː˨˩˨ k]
@@ -357,14 +357,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * i
-        * Occurances: 221
+        * Occurrences: 221
         * Examples
           * niu: [n i˨˨ w]
           * thi: [tʰ i˨˨]
           * tuý: [t w i˦˥]
           * trị: [ʈ i˨˩˨]
       * iː
-        * Occurances: 278
+        * Occurrences: 278
         * Examples
           * nhiễu: [ɲ iː˨˩˦ w]
           * tiền: [t iː˨˩ ŋ]
@@ -376,14 +376,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɨ
-        * Occurances: 378
+        * Occurrences: 378
         * Examples
           * hữu: [h ɨ˨˩˦ w]
           * ngực: [ŋ ɨ˨˩˨ k]
           * tít: [t ɨ˦˥ t]
           * bịch: [ɓ ɨ˨˩˨ t]
       * ɨː
-        * Occurances: 156
+        * Occurrences: 156
         * Examples
           * người: [ŋ ɨː˨˩ j]
           * cưỡng: [k ɨː˨˩˦ ŋ]
@@ -395,14 +395,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * u
-        * Occurances: 331
+        * Occurrences: 331
         * Examples
           * mùn: [m u˨˩ ŋm]
           * thủy: [tʰ u˨˩˦ j]
           * bút: [ɓ u˦˥ kp]
           * búi: [ɓ u˦˥ j]
       * uː
-        * Occurances: 96
+        * Occurrences: 96
         * Examples
           * buổi: [ɓ uː˨˩˦ j]
           * uốn: [ʔ uː˦˥ ŋ]
@@ -424,7 +424,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * eː
-        * Occurances: 127
+        * Occurrences: 127
         * Examples
           * sếp: [s eː˦˥ p]
           * rêu: [r eː˨˨ w]
@@ -440,14 +440,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * o
-        * Occurances: 76
+        * Occurrences: 76
         * Examples
           * tồn: [t o˨˩ ŋ]
           * bổn: [ɓ o˨˩˦ ŋ]
           * nhộn: [ɲ o˨˩˨ ŋ]
           * trộn: [ʈ o˨˩˨ ŋ]
       * oː
-        * Occurances: 191
+        * Occurrences: 191
         * Examples
           * chỗ: [c oː˨˩˦]
           * tôm: [t oː˨˨ m]
@@ -462,14 +462,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ə
-        * Occurances: 428
+        * Occurrences: 428
         * Examples
           * dậu: [j ə˨˩˨ w]
           * cậy: [k ə˨˩˨ j]
           * thầu: [tʰ ə˨˩ w]
           * giấy: [j ə˦˥ j]
       * əː
-        * Occurances: 337
+        * Occurrences: 337
         * Examples
           * kênh: [k əː˨˨ n]
           * vểnh: [v əː˨˩˦ n]
@@ -484,7 +484,7 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * ɛː
-        * Occurances: 307
+        * Occurrences: 307
         * Examples
           * chen: [c ɛː˨˨ ŋ]
           * ghen: [ɡ ɛː˨˨ ŋ]
@@ -500,14 +500,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * rounded
       * ɔ
-        * Occurances: 212
+        * Occurrences: 212
         * Examples
           * tóc: [t ɔ˦˥ kp]
           * nhỏng: [ɲ ɔ˨˩˦ ŋm]
           * dóc: [j ɔ˦˥ kp]
           * tròng: [ʈ ɔ˨˩ ŋm]
       * ɔː
-        * Occurances: 271
+        * Occurrences: 271
         * Examples
           * noi: [n ɔː˨˨ j]
           * đòm: [ɗ ɔː˨˩ m]
@@ -533,14 +533,14 @@ Vowel symbols to the left of {fas}`circle;ipa-dot` are unrounded and those to th
   - ```{ipa_cell}
     * unrounded
       * a
-        * Occurances: 481
+        * Occurrences: 481
         * Examples
           * cáy: [k a˦˥ j]
           * ngành: [ŋ a˨˩ n]
           * mau: [m a˨˨ w]
           * nặng: [n a˨˩˨ ŋ]
       * aː
-        * Occurances: 783
+        * Occurrences: 783
         * Examples
           * ngạc: [ŋ aː˨˩˨ k]
           * xài: [s aː˨˩ j]
