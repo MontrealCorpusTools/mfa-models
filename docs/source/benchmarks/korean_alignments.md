@@ -17,7 +17,7 @@ These benchmarks were performed using [MFA v2.0.0rc8](https://github.com/Montrea
 
 ```{note}
 
-This benchmark is not particularly great, because the Seoul Corpus is used as training data for the Korean MFA models.  The reason for this choice is due to the limited data for Korean speech over all, so the Seoul Corpus accounts for 36% of the training hours in the Korean MFA model.
+This benchmark is not particularly great, because the Seoul Corpus is used as training data for the Korean mfa model.  The reason for this choice is due to the limited data for Korean speech over all, so the Seoul Corpus accounts for 36% of the training hours in the Korean MFA model.
 
 I'd rather have a better model with 119 hours of training data for Korean than a more accurate benchmark for a model with 76 hours of training data in this case, but see [English alignment benchmarks](english_alignments.md) for an alignment benchmark on unseen data for American English.
 ```
@@ -26,9 +26,9 @@ I'd rather have a better model with 119 hours of training data for Korean than a
 
 Alignment score represents the average boundary error between the reference alignment and the aligner's output. The two phone sequences are aligned with [BioPython's pairwise2 module](https://biopython.org/docs/1.75/api/Bio.pairwise2.html) using the [mapping files](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files) to establish "identical" phones across the different phone sets.  Then alignment score is calculated as the average distance of the average start and end boundary distance to the reference phone's start and end. Thus, it can be interpreted as the average error in seconds per boundary.
 
-Korean 2.0 MFA models vastly outperform 1.0 GlobalPhone models for several reasons:
+Korean 2.0 mfa model vastly outperform 1.0 GlobalPhone models for several reasons:
 
-1. 1.0 GlobalPhone model was not trained on the Seoul Corpus, but MFA models were.  However, original testing of the alignment scores for MFA 2.0 had alignment scores ~30ms, so the later versions still would outperform the 1.0 GlobalPhone without cheating by training on the test data.
+1. 1.0 GlobalPhone model was not trained on the Seoul Corpus, but mfa model were.  However, original testing of the alignment scores for MFA 2.0 had alignment scores ~30ms, so the later versions still would outperform the 1.0 GlobalPhone without cheating by training on the test data.
 2. The GlobalPhone lexicon does not have great coverage of the Seoul Corpus, as it was created for the GlobalPhone corpus specifically, so a number of unknown words affect its performance.
 3. Additionally, there are a number of errors in the GlobalPhone lexicon that lead to reduced performance:
    1. Some tense stops {ipa_inline}`ㅃ /p͈/`, {ipa_inline}`ㄸ /t͈/`, and {ipa_inline}`ㄲ /k͈/` transcribed as {ipa_inline}`B`, {ipa_inline}`D`, and {ipa_inline}`G` instead of {ipa_inline}`BB`, {ipa_inline}`DD`, and {ipa_inline}`GG`, respectively, based on their documentation.

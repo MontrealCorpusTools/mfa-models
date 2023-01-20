@@ -41,7 +41,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download dictionary english_us_arpa
+mfa model download dictionary english_us_arpa
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_arpa-v2.0.0a).

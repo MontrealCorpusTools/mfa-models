@@ -20,7 +20,7 @@ from montreal_forced_aligner.utils import get_mfa_version  # noqa
 
 # -- Project information -----------------------------------------------------
 
-project = 'MFA Models'
+project = 'mfa model'
 copyright = f"2018-{date.today().year}, Montreal Corpus Tools"
 author = 'Montreal Corpus Tools'
 

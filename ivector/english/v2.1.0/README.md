@@ -43,7 +43,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download ivector english_mfa
+mfa model download ivector english_mfa
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-english_mfa-v2.1.0).

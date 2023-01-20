@@ -178,7 +178,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download acoustic {model_name}
+mfa model download acoustic {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-{model_name}-v{version}).
@@ -287,7 +287,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download ivector {model_name}
+mfa model download ivector {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-{model_name}-v{version}).
@@ -365,7 +365,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download acoustic {model_name}
+mfa model download acoustic {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-{model_name}-v{version}).
@@ -464,7 +464,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download g2p {model_name}
+mfa model download g2p {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-{model_name}-v{version}).
@@ -546,7 +546,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download language_model {model_name}
+mfa model download language_model {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-{model_name}-v{version}).
@@ -629,7 +629,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download dictionary {model_name}
+mfa model download dictionary {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-{model_name}-v{version}).
@@ -690,7 +690,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download dictionary {model_name}
+mfa model download dictionary {model_name}
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-{model_name}-v{version}).

@@ -39,7 +39,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download dictionary swedish_mfa
+mfa model download dictionary swedish_mfa
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swedish_mfa-v2.0.0).

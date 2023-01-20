@@ -45,7 +45,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download g2p vietnamese_hue_mfa
+mfa model download g2p vietnamese_hue_mfa
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hue_mfa-v2.0.0a).

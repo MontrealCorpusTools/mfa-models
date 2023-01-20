@@ -46,7 +46,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download acoustic uzbek_cv
+mfa model download acoustic uzbek_cv
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-uzbek_cv-v2.0.0).

@@ -60,7 +60,7 @@ I do not know at this point how to reformat TIMIT to usable.  I know that the ve
 
 ### Word error rate
 
-Both 2.0 MFA English models show the best performance on Buckeye, with slightly worse performance on TIMIT.  The ARPA models are trained on read General American speech ({need}`LibriSpeech English`), which aligns more closely with the TIMIT format.  The MFA models are trained on A) more dialects of English, and B) more spontaneous speech, so the increased Buckeye performance at the cost of TIMIT performance is not surprising.
+Both 2.0 MFA English models show the best performance on Buckeye, with slightly worse performance on TIMIT.  The ARPA models are trained on read General American speech ({need}`LibriSpeech English`), which aligns more closely with the TIMIT format.  The mfa model are trained on A) more dialects of English, and B) more spontaneous speech, so the increased Buckeye performance at the cost of TIMIT performance is not surprising.
 
 ```{image} ../_static/benchmarks/mfa2_english_transcription_wer.svg
 :alt: Word error rate of models from 1.0 and 2.0 MFA systems.

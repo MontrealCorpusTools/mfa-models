@@ -40,7 +40,7 @@ Jump to section:
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa models download dictionary hungarian_cv
+mfa model download dictionary hungarian_cv
 ```
 
 Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hungarian_cv-v2.0.0).
