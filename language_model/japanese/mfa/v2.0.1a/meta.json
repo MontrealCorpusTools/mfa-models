@@ -1,0 +1,22 @@
+{
+    "name": "japanese_mfa_lm",
+    "language": "Japanese",
+    "dialect": "",
+    "phone_set": "MFA",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/language_model/japanese/mfa/v2.0.1a/LICENSE)",
+    "license": "CC BY 4.0",
+    "architecture": "ngram",
+    "version": "2.0.1a",
+    "train_date": "2023-01-22",
+    "training": {
+        "num_words": 1423712,
+        "num_oovs": 27700
+    },
+    "evaluation": {
+        "large_perplexity": 9.87127,
+        "medium_perplexity": 10.4561,
+        "small_perplexity": 11.7362
+    },
+    "citation": "@techreport{mfa_japanese_mfa_lm_lm_2023,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Japanese language model v2.0.1a},\n\taddress={\\url{https://mfa-models.readthedocs.io/language model/Japanese/Japanese language model v2_0_1a.html}},\n\tyear={2023},\n\tmonth={Jan},\n}"
+}

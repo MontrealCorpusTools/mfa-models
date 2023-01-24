@@ -32,24 +32,21 @@ Corpora
    German/index.rst
    Greek/index.rst
    Guarani/index.rst
-   Hungarian/index.rst
-   Italian/index.rst
    Hausa/index.rst
-   Kazakh/index.rst
-   Kyrgyz/index.rst
-   Kurmanji/index.rst
-   Maltese/index.rst
-   Uzbek/index.rst
-   Uyghur/index.rst
-   Punjabi/index.rst
    Hindi/index.rst
+   Hungarian/index.rst
    Indonesian/index.rst
-   Urdu/index.rst
+   Italian/index.rst
    Japanese/index.rst
+   Kazakh/index.rst
    Korean/index.rst
+   Kurmanji/index.rst
+   Kyrgyz/index.rst
+   Maltese/index.rst
    Mandarin/index.rst
    Polish/index.rst
    Portuguese/index.rst
+   Punjabi/index.rst
    Romanian/index.rst
    Russian/index.rst
    Sorbian/index.rst
@@ -61,4 +58,7 @@ Corpora
    Thai/index.rst
    Turkish/index.rst
    Ukrainian/index.rst
+   Urdu/index.rst
+   Uyghur/index.rst
+   Uzbek/index.rst
    Vietnamese/index.rst

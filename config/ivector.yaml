@@ -1,4 +1,4 @@
 use_pitch: true
 use_voicing: true
-adaptive_pitch_range: true
+adaptive_pitch_range: false
 num_coefficients: 20

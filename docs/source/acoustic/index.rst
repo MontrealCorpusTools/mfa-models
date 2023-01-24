@@ -15,7 +15,6 @@ Acoustic models
 .. toctree::
    :hidden:
 
-   Japanese/index.rst
    Abkhaz/index.rst
    Armenian/index.rst
    Bashkir/index.rst
@@ -35,6 +34,7 @@ Acoustic models
    Hausa/index.rst
    Hungarian/index.rst
    Italian/index.rst
+   Japanese/index.rst
    Kazakh/index.rst
    Korean/index.rst
    Kurmanji/index.rst

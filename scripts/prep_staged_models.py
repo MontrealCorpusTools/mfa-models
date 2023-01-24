@@ -2621,7 +2621,7 @@ for model_type, data in meta_datas.items():
                 fields = extract_doc_card_fields(meta_data, model_type)
                 f.write(docs_md_template.format(**fields))
     index_path = os.path.join(docs_dir, 'index.rst')
-    rst_string = "   "+'\n   '.join(f"{x}/index.rst" for x in language_model_doc_mds.keys())
+    rst_string = "   "+'\n   '.join(f"{x}/index.rst" for x in sorted(language_model_doc_mds.keys()))
     if model_type == 'dictionary':
         rst_string = '   ../mfa_phone_set.md\n' + rst_string
     model_type_name = model_type_names[model_type]
@@ -2647,7 +2647,7 @@ for model_type, data in meta_datas.items():
 
 {rst_string}
 """)
-    for language, model_doc_mds in language_model_doc_mds.items():
+    for language, model_doc_mds in sorted(language_model_doc_mds.items()):
         index_path = os.path.join(docs_dir, language, 'index.rst')
         rst_string = "   "+'\n   '.join(model_doc_mds)
         with open(index_path, 'w', encoding='utf8') as f:

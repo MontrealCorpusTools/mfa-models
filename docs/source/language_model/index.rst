@@ -22,6 +22,7 @@ Language models
    French/index.rst
    German/index.rst
    Hausa/index.rst
+   Japanese/index.rst
    Korean/index.rst
    Mandarin/index.rst
    Polish/index.rst

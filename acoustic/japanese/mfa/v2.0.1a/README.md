@@ -72,8 +72,8 @@ As a rough approximation of the acoustic model quality, we evaluated it against 
 
 Using the pronunciation dictionaries and language models above:
 
-- **WER:** `0%`
-- **CER:** `0%`
+- **WER:** `10.31%`
+- **CER:** `12.31%`
 
 ## Ethical considerations
 
