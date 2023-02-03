@@ -22,7 +22,7 @@ from montreal_forced_aligner.data import voiced_variants, voiceless_variants, Ph
 rng = np.random.default_rng(1234)
 random.seed(1234)
 
-CURRENT_MODEL_VERSION = '2.0.1a'
+CURRENT_MODEL_VERSION = '2.1.0'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -251,7 +251,7 @@ This model was trained on the following corpora:
 ivector_card_template = """
 # {title}
 
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/{model_name}.html)
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/ivector/{model_name}.html)
 
 Jump to section:
 

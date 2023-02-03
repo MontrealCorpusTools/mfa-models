@@ -1,1 +1,2 @@
-use_pitch: true
+use_pitch: false
+use_voicing: false

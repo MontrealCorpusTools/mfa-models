@@ -1,3 +1,5 @@
 clitic_markers:
 compound_markers:
 quote_markers: "“„\"”〝〟″「」『』‚ʻʿ‘′"
+use_pitch: true
+use_voicing: true

@@ -1,0 +1,25 @@
+rules:
+- following_context: ''
+  preceding_context: ''
+  replacement: 'm ɦ'
+  segment: mʱ
+- following_context: ''
+  preceding_context: ''
+  replacement: 'l̪ ɦ'
+  segment: l̪ʱ
+- following_context: ''
+  preceding_context: ''
+  replacement: 'r ɦ'
+  segment: rʱ
+- following_context: ''
+  preceding_context: ''
+  replacement: 'n̪ ɦ'
+  segment: n̪ʱ
+- following_context: ''
+  preceding_context: ''
+  replacement: 'f'
+  segment: pʰ
+- following_context: ''
+  preceding_context: ''
+  replacement: 'ɛ ɦ ɛ'
+  segment: 'ə ɦ ə'

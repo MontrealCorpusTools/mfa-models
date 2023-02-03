@@ -1,12 +1,12 @@
-ʔ: [tq, t,dx]
+ʔ: [tq, t]
 h: hh
 ç: hh
 i: [iy, iyn, ih, ihn]
 iː: [iy, iyn]
-ɚ: [er, ern, r]
-ɝ: [er, ern, r]
-ɝː: [er, ern, r]
-3`: [er, ern, r]
+ɚ: [er, ern]
+ɝ: [er, ern]
+ɝː: [er, ern]
+3`: [er, ern]
 dʒ: jh
 tʃ: ch
 ɑ: [aa, aan, ao, aon]
@@ -34,51 +34,59 @@ uː: [uw, uwn]
 eɪ: [ey, eyn]
 ej: [ey, eyn]
 ɪ: [ih, ihn]
-ð: [th, dh, d]
+ð: dh
 ʃ: sh
 ɕ: [s, sh]
 ʑ: [z, zh]
 ʒ: zh
-ɹ: [r, er, ern]
+ɹ: r
 j: y
-θ: [th, dh, t]
+θ: th
 ə: [ah, ahn]
 ʌ: [ah, ahn]
 ɐ: [ah, ahn]
 n̩: [en, n]
 n: [nx, en, n]
+ɾ̃: [nx, n]
 m̩: [em, m]
 m: [em, m]
 mʲ: [em, m]
 ɱ: [em, m]
 vʲ: v
+vʷ: v
 fʲ: f
-l̩: [el, l]
+fʷ: f
 l: [el, l]
 ɫ̩: [el, l]
 ɫ: [el, l]
-ʎ: [el, l]
-ɾ: [dx, tq, t, d]
+ʎ: l
+ɾ: [dx, t, d]
+ɾʲ: [dx, t, d]
 pʰ: p
 pʲ: p
-p̚: [b, p]
+pʷ: p
 bʲ: b
-b̚: [b, p]
 tʰ: t
-t: [tq, dx, th]
-d: [dx, dh]
-ɾ: [dx, nx]
 d̚: [tq, t,d,dx]
 dʲ: [d,dx]
 t̚: [tq, t,dx]
 tʲ: [tq, t,dx]
+tʷ: [tq, t,dx]
+t: [tq, dx]
+t̪: [th]
+d: [dx]
+d̪: [dh]
 kʰ: k
+kʷ: k
 k̚: [k, g]
+c: k
 cʰ: k
+cʷ: k
 c̚: [k, g]
 ɡ: g
 ɡ̚: [k, g]
 ɟ̚: [k, g]
 ɟ: g
-ŋ: [ng, eng]
+ɟʷ: g
+ŋ: [ng, eng, n]
 ɲ: [ng, n, nx, eng]

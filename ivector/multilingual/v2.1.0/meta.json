@@ -1,5 +1,5 @@
 {
-    "name": "ivector_mfa",
+    "name": "multilingual_mfa",
     "language": "Multilingual",
     "dialect": "",
     "phone_set": "MFA",
@@ -7,6 +7,6 @@
     "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/ivector/multilingual//v2.1.0/LICENSE)",
     "license": "CC BY 4.0",
     "version": "2.1.0",
-    "train_date": "2023-01-04",
-    "citation": "@techreport{mfa_ivector_mfa_ivector_2023,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Multilingual MFA ivector extractor v2.1.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/ivector/Multilingual/Multilingual MFA ivector extractor v2_1_0.html}},\n\tyear={2023},\n\tmonth={Jan},\n}"
+    "train_date": "2023-02-02",
+    "citation": "@techreport{mfa_multilingual_mfa_ivector_2023,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Multilingual MFA ivector extractor v2.1.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/ivector/Multilingual/Multilingual MFA ivector extractor v2_1_0.html}},\n\tyear={2023},\n\tmonth={Feb},\n}"
 }

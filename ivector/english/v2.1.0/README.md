@@ -1,7 +1,7 @@
 
 # English MFA ivector extractor v2.1.0
 
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/english_mfa.html)
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/ivector/english_mfa.html)
 
 Jump to section:
 

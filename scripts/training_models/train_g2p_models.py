@@ -26,7 +26,6 @@ lang_codes = ['czech', 'russian',
               'portuguese_brazil', 'portuguese_portugal',
               'spanish_spain', 'spanish_latin_america',
               'swedish',
-              #'tamil',
               'thai',
               'turkish',
               'english_us','english_us_arpa','english_uk','english_nigeria',
@@ -36,10 +35,17 @@ lang_codes = ['czech', 'russian',
                'ukrainian', 'polish', 'croatian', 'bulgarian',
               'japanese',
                 #'mandarin_china', 'mandarin_erhua', 'mandarin_taiwan'
+              'tamil',
+              'hindi',
+              'urdu',
+
               ]
 
 lang_codes = [
               'japanese',
+              'tamil',
+              'hindi',
+              'urdu',
                 #'mandarin_china', 'mandarin_erhua', 'mandarin_taiwan'
               ]
 
