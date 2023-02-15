@@ -23,6 +23,7 @@ model_type_names ={
     'language_model': 'Language models',
     'ivector': 'Ivector extractors',
     'corpus': 'Corpora',
+    'tokenizer': 'Tokenizers',
 }
 
 print(manager.remote_models)
@@ -41,7 +42,7 @@ for model_type, model_class in MODEL_TYPES.items():
         lang_dir = os.path.join(model_directory, lang)
         if not os.path.isdir(lang_dir):
             continue
-        if model_type == 'ivector':
+        if model_type in {'ivector', 'tokenizer'}:
             versions = os.listdir(lang_dir)
             for v in versions:
                 version_dir = os.path.join(lang_dir, v)

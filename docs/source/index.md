@@ -82,6 +82,22 @@ Browse ivector extractors
 ```
 :::
 
+:::{grid-item-card}  Tokenizers
+:text-align: center
+:class-card: sd-text-dark
+
+{fas}`text-width;fa-6x i-navigation`
+^^^
+Tokenizers for generating word boundaries
+
++++
+```{button-ref} tokenizer
+:expand:
+:color: primary
+Browse tokenizers
+```
+:::
+
 :::{grid-item-card}  Corpora
 :text-align: center
 :class-card: sd-text-dark
@@ -107,6 +123,7 @@ G2P models <g2p/index.rst>
 Acoustic models <acoustic/index.rst>
 Language models <language_model/index.rst>
 Ivector extractors <ivector/index.rst>
+Tokenizers <tokenizer/index.rst>
 Benchmarks <benchmarks/index.rst>
 Corpora <corpus/index.rst>
 ```

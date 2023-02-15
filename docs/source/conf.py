@@ -57,6 +57,7 @@ needs_types = [dict(directive="acoustic", title="Acoustic model", prefix="AM_", 
                dict(directive="g2p", title="G2P model", prefix="G2P_", color="#FEDCD2", style="node"),
                dict(directive="language_model", title="Language model", prefix="LM_", color="#DF744A", style="node"),
                dict(directive="ivector", title="Ivector Extractor", prefix="IE_", color="#DCB239", style="node"),
+               dict(directive="tokenizer", title="Tokenizer", prefix="T_", color="#DCB239", style="node"),
                dict(directive="dictionary", title="Dictionary", prefix="D_", color="#DCB239", style="node"),
            ]
 

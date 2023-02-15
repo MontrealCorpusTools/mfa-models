@@ -4,6 +4,7 @@ import os
 import random
 import shutil
 import re
+import pathlib
 import typing
 from datetime import datetime
 import numpy as np
@@ -22,7 +23,10 @@ from montreal_forced_aligner.data import voiced_variants, voiceless_variants, Ph
 rng = np.random.default_rng(1234)
 random.seed(1234)
 
-CURRENT_MODEL_VERSION = '2.1.0'
+root_dir = pathlib.Path(__file__).resolve().parent
+template_dir = root_dir.joinpath('templates')
+
+CURRENT_MODEL_VERSION = '2.2.0'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -36,7 +40,7 @@ def get_model_card_directory(model_type, meta_data):
     if model_type == 'language_model':
         language, version = meta_data['language'], meta_data['version']
         directory = os.path.join(model_directory, language.lower(), 'mfa', f"v{version}")
-    elif model_type == 'ivector':
+    elif model_type in {'ivector', 'tokenizer'}:
         language, version = meta_data['language'], meta_data['version']
         directory = os.path.join(model_directory, language.lower(), f"v{version}")
     elif model_type == 'corpus':
@@ -120,6 +124,15 @@ g2p_evaluation_detail_template="""
 * **WER:** `{word_error_rate:.2f}%`
 * **PER:** `{phone_error_rate:.2f}%`"""
 
+tokenizer_training_detail_template="""
+* **Utterances:** `{num_utterances:,}`
+* **Graphemes:** `{num_graphemes:,}`"""
+
+tokenizer_evaluation_detail_template="""
+* **Utterances:** `{num_utterances:,}`
+* **UER:** `{utterance_error_rate:.2f}%`
+* **CER:** `{character_error_rate:.2f}%`"""
+
 lm_training_detail_template="""
 * **Words:** `{num_words:,}`
 * **OOVs:** `{num_oovs:,}`"""
@@ -135,815 +148,25 @@ see_also_template = """```{{admonition}} {model_type_name}
    {links}
    ```"""
 
-mfa_acoustic_model_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/{model_name}.html)
-
-Jump to section:
-
-- [Model details](#model-details)
-- [Installation](#installation)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Metrics](#metrics)
-- [Ethical considerations](#ethical-considerations)
-- [Troubleshooting issues](#troubleshooting-issues)
-- [Training data](#training-data)
-- [Evaluation data](#evaluation-data)
-
-## Model details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Dialect:** {dialect_link}
-- **Phone set:** {phone_set_link}
-- **Model type:** `Acoustic`
-- **Features:** `{features}`
-- **Architecture:** `{architecture}`
-- **Model version:** `v{version}`
-- **Trained date:** `{date}`
-- **Compatible MFA version:** `v{mfa_version}`
-- **License:** {license_link}
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download acoustic {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-{model_name}-v{version}).
-
-## Intended use
-
-This model is intended for forced alignment of {language_link} transcripts.
-
-This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
-
-## Performance Factors
-
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
-
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
-## Metrics
-
-Acoustic models are typically generated as one component of a larger ASR system where the metric is word error rate (WER). For forced alignment, there is typically not the same sort of gold standard measure for most languages.
-
-As a rough approximation of the acoustic model quality, we evaluated it against the corpus it was trained on alongside a language model trained from the same data.  Key caveat here is that this is not a typical WER measure on held out data, so it should not be taken as a hard measure of how well an acoustic model will generalize to your data, but rather is more of a sanity check that the training data quality was sufficiently high.
-
-Using the pronunciation dictionaries and language models above:
-
-- **WER:** `0%`
-- **CER:** `0%`
-
-## Ethical considerations
-
-Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For STT models, it is often the case that transcription accuracy is better for men than it is for women. If you are using this model in production, you should acknowledge this as a potential issue.
-
-### Surveillance
-
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
-
-
-## Troubleshooting issues
-
-Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
-
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
-
-1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
-
-   * MFA defaults to a narrow beam to ensure quick alignment and also as a way to detect potential issues in your dataset, but depending on your data, you might benefit from boosting the beam to 100 or higher.
-
-2. Add pronunciations to the pronunciation dictionary
-
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
-
-3. Check the quality of your data
-
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
-   * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
-
-4. Adapt the model to your data
-
-   * MFA has an [adaptation command](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html) to adapt some of the model to your data based on an initial alignment, and then run another alignment with the adapted model.
-
-## Training data
-
-This model was trained on the following corpora:
-
-{corpora_details}"""
-
-ivector_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/ivector/{model_name}.html)
-
-Jump to section:
-
-- [Model details](#model-details)
-- [Installation](#installation)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Metrics](#metrics)
-- [Ethical considerations](#ethical-considerations)
-- [Training data](#training-data)
-
-## Model details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Model type:** `Ivector extractor`
-- **Features:** `{features}`
-- **Architecture:** `{architecture}`
-- **Model version:** `v{version}`
-- **Trained date:** `{date}`
-- **Compatible MFA version:** `v{mfa_version}`
-- **License:** {license_link}
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download ivector {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-{model_name}-v{version}).
-
-## Intended use
-
-This model is intended for speaker diarization and clustering.
-
-## Performance Factors
-
-As ivector extractors are trained on a large amount of data and without reference to language-specific resources, they **may** be useful outside of the specific language variety being trained, however, differences in the languages may impact performance. Particularly sociolinguistic aspects related to identity presentation, the linguistic status voice quality (breathy, creaky modal), and non-linguistic factors like recording conditions and microphone response may affect diarization performance across languages.
-
-## Metrics
-
-Speaker diarization systems are evaluated through Equal Error Rate (EER), the error when false accept rate is equal to the false rejection rate.
-
-- **EER:** `0%`
-
-## Ethical considerations
-
-Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For ivector extraction models, diarization of male speakers generally has better performance than diarization of female speakers, even with equal amounts of training data.
-
-### Surveillance
-
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
-
-## Training data
-
-This model was trained on the following corpora:
-
-{corpora_details}"""
-
-other_acoustic_model_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/acoustic/{model_name}.html)
-
-Jump to section:
-
-- [Model details](#model-details)
-- [Installation](#installation)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Training data](#training-data)
-- [Ethical considerations](#ethical-considerations)
-- [Troubleshooting issues](#troubleshooting-issues)
-
-## Model details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Dialect:** {dialect_link}
-- **Phone set:** {phone_set_link}
-- **Model type:** `Acoustic model`
-- **Features:** `{features}`
-- **Architecture:** `{architecture}`
-- **Model version:** `v{version}`
-- **Trained date:** `{date}`
-- **Compatible MFA version:** `v{mfa_version}`
-- **License:** {license_link}
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download acoustic {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-{model_name}-v{version}).
-
-## Intended use
-
-This model is intended for forced alignment of {language_link} transcripts.
-
-This model uses the {phone_set_link} phone set for {language}, and was trained with the pronunciation dictionaries above. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
-
-## Performance Factors
-
-As forced alignment is a relatively well-constrained problem (given accurate transcripts), this model should be applicable to a range of recording conditions and speakers. However, please note that it was trained on read speech in low-noise environments, so as your data diverges from that, you may run into alignment issues or need to [increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands) or see other recommendations in the [troubleshooting section below](#troubleshooting-issues).
-
-Please note as well that MFA does not use state-of-the-art ASR models for forced alignment. You may get better performance (especially on speech-to-text tasks) using other frameworks like [Coqui](https://coqui.ai/).
-
-## Ethical considerations
-
-Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For STT models, it is often the case that transcription accuracy is better for men than it is for women. If you are using this model in production, you should acknowledge this as a potential issue.
-
-### Surveillance
-
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
-
-## Troubleshooting issues
-
-Machine learning models (like this acoustic model) perform best on data that is similar to the data on which they were trained.
-
-The primary sources of variability in forced alignment will be the applicability of the pronunciation dictionary and how similar the speech, demographics, and recording conditions are. If you encounter issues in alignment, there are couple of avenues to improve performance:
-
-1. [Increase the beam size of MFA](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/configuration/#configuring-specific-commands)
-
-   * MFA defaults to a narrow beam to ensure quick alignment and also as a way to detect potential issues in your dataset, but depending on your data, you might benefit from boosting the beam to 100 or higher.
-
-2. Add pronunciations to the pronunciation dictionary
-
-   * This model was trained a particular dialect/style, and so adding pronunciations more representative of the variety spoken in your dataset will help alignment.
-
-3. Check the quality of your data
-
-   * MFA includes a [validator utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/data_validation.html), which aims to detect issues in the dataset.
-   * Use MFA's [anchor utility](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/anchor.html) to visually inspect your data as MFA sees it and correct issues in transcription or OOV items.
-
-4. Adapt the model to your data
-
-   * MFA has an [adaptation command](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html) to adapt some of the model to your data based on an initial alignment, and then run another alignment with the adapted model.
-
-## Training data
-
-This model was trained on the following corpora:
-
-{corpora_details}"""
-
-g2p_model_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/{model_name}.html)
-
-Jump to section:
-
-- [Model details](#model-details)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Metrics](#metrics)
-- [Training data](#training-data)
-- [Evaluation data](#evaluation-data)
-- [Ethical considerations](#ethical-considerations)
-- [Troubleshooting issues](#troubleshooting-issues)
-
-## Model details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Dialect:** {dialect_link}
-- **Phone set:** {phone_set_link}
-- **Model type:** `G2P model`
-- **Architecture:** `{architecture}`
-- **Model version:** `v{version}`
-- **Trained date:** `{date}`
-- **Compatible MFA version:** `v{mfa_version}`
-- **License:** {license_link}
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download g2p {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-{model_name}-v{version}).
-
-## Intended use
-
-This model is intended for generating pronunciations of {language_link} transcripts.
-
-This model uses the {phone_set_link} phone set for {language}, and was trained from the pronunciation dictionaries above. Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
-
-## Performance Factors
-
-The trained G2P models should be relatively quick and accurate, however the model may struggle when dealing with less common orthographic characters or word types outside of what it was trained on. If so, you may need to supplement the dictionary through generating, correcting, and re-training the G2P model as necessary.
-
-## Metrics
-
-The model was trained on 90% of the dictionary and evaluated on a held-out 10% and evaluated with word error rate and phone error rate.
-
-## Training
-
-This model was trained on the following data set:
-
-{training_details}
-
-## Evaluation
-
-This model was evaluated on the following data set:
-
-{evaluation_details}
-
-## Ethical considerations
-
-Deploying any model involving language into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For G2P models, the model will only process the types of tokens that it was trained on, and will not represent the full range of text or spoken words that native speakers will produce. If you are using this model in production, you should acknowledge this as a potential issue.
-
-### Surveillance
-
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
-"""
-
-language_model_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/language_model/{model_name}.html)
-
-Jump to section:
-
-- [Model details](#model-details)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Metrics](#metrics)
-- [Training data](#training-data)
-- [Ethical considerations](#ethical-considerations)
-- [Troubleshooting issues](#troubleshooting-issues)
-
-## Model details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Model type:** `Language model`
-- **Architecture:** `{architecture}`
-- **Model version:** `v{version}`
-- **Trained date:** `{date}`
-- **Compatible MFA version:** `v{mfa_version}`
-- **License:** {license_link}
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download language_model {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-{model_name}-v{version}).
-
-## Intended use
-
-This model is intended for very basic language modeling {language_link} transcripts.
-
-These ngram models are far from ideal and trained on the same corpus as the acoustic models, and are provided only for completeness and in the off chance that they're useful in bootstrapping corpus development.
-
-This language model trained with words from the pronunciation dictionaries above.
-
-## Performance Factors
-
-MFA language model archives contain the main large ngram model, along with two pruned versions that are used in initial decoding for performance reasons, and then later the large model is used to rescore.  If the initial decoding with the small version is causing perfomance issues, you can train a new language model with more aggressive pruning.
-
-You should also consider training a language model on your own domain, as that will be much more representative and useful to use in decoding.
-
-## Metrics
-
-Perplexity for each of three component models was calculated over the training data to give a sense of its performance, but this certainly not be taken as an absolute measure of model good-ness.
-
-### Perplexity
-
-The following metrics were obtained on evaluation:
-
-{evaluation_details}
-
-## Training data
-
-This model was trained on the following data set:
-
-{training_details}
-
-## Ethical considerations
-
-Deploying any model involving language into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For this language model, this model was trained on a very specific subset of {language} at the time it was collected that will typically not represent spontaneous speech in the current time. Do not use this model in production, but if you do so, you should acknowledge bias as a potential issue.
-
-### Surveillance
-
-Speech-to-Text technologies may be misused to invade the privacy of others by recording and mining information from private conversations. This kind of individual privacy is protected by law in many countries. You should not assume consent to record and analyze private speech.
-"""
-
-mfa_dictionary_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/{model_name}.html)
-
-Jump to section:
-
-- [Dictionary details](#dictionary-details)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Ethical considerations](#ethical-considerations)
-
-## Dictionary details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Dialect:** {dialect_link}
-- **Phone set:** {phone_set_link}
-- **Number of words:** `{word_count:,}`
-- **Phones:** `{phones}`
-- **License:** {license_link}
-- **Compatible MFA version:** `v{mfa_version}`
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download dictionary {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-{model_name}-v{version}).
-
-The dictionary available from the release page and command line installation has pronunciation and silence probabilities estimated as part acoustic model training (see [Silence probability format](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/dictionary.html#silence-probabilities) and [training pronunciation probabilities](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/training_dictionary.html) for more information.  If you would like to use the version of this dictionary without probabilities, please see the [plain dictionary]({plain_link}).
-
-## Intended use
-
-This dictionary is intended for forced alignment of {language_link} transcripts.
-
-This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
-
-## Performance Factors
-
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, especially for different styles and dialects. The most impactful improvements will generally be seen when adding reduced variants that involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in, so it will lead to alignment errors on adjacent words as well.
-
-## Ethical considerations
-
-Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants. If you are using this dictionary in production, you should acknowledge this as a potential issue.
-"""
-
-other_dictionary_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/dictionary/{model_name}.html)
-
-Jump to section:
-
-- [Dictionary details](#dictionary-details)
-- [Intended use](#intended-use)
-- [Performance Factors](#performance-factors)
-- [Ethical considerations](#ethical-considerations)
-
-## Dictionary details
-
-- **Maintainer:** {maintainer}
-- **Language:** {language_link}
-- **Dialect:** {dialect_link}
-- **Phone set:** {phone_set_link}
-- **Number of words:** `{word_count:,}`
-- **Phones:** `{phones}`
-- **License:** {license_link}
-- **Compatible MFA version:** `v{mfa_version}`
-- **Citation:**
-
-```bibtex
-{citation}
-```
-
-- If you have comments or questions about this dictionary or its phone set, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-
-## Installation
-
-Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
-
-```
-mfa model download dictionary {model_name}
-```
-
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-{model_name}-v{version}).
-
-## Intended use
-
-This dictionary is intended for forced alignment of {language_link} transcripts.
-
-This dictionary uses the {phone_set_link} phone set for {language}, and was used in training the {language} {phone_set_link} acoustic model. Pronunciations can be added on top of the dictionary, as long as no additional phones are introduced.
-
-## Performance Factors
-
-When trying to get better alignment accuracy, adding pronunciations is generally helpful, especially for different styles and dialects. The most impactful improvements will generally be seen when adding reduced variants that involve deleting segments/syllables common in spontaneous speech.  Alignment must include all phones specified in the pronunciation of a word, and each phone has a minimum duration (by default 10ms). If a speaker pronounces a multisyllabic word with just a single syllable, it can be hard for MFA to fit all the segments in, so it will lead to alignment errors on adjacent words as well.
-
-## Ethical considerations
-
-Deploying any Speech-to-Text model into any production setting has ethical implications. You should consider these implications before use.
-
-### Demographic Bias
-
-You should assume every machine learning model has demographic bias unless proven otherwise. For pronunciation dictionaries, it is often the case that transcription accuracy and lexicon coverage for the prestige variety modeled in this dictionary compared to other variants. If you are using this dictionary in production, you should acknowledge this as a potential issue.
-"""
-
-corpus_card_template = """
-# {title}
-
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/corpus/{corpus_id}.html)
-
-## Corpus details
-
-- **Source:** {corpus_link}
-- **Language:** {language_link}
-- **Dialects:** {dialect_link}
-- **Number of hours:** `{num_hours:,.2f}`
-- **Number of utterances:** `{num_utterances:,}`
-- **Number of speakers:** `{num_speakers:,}`
-  - **Female speakers:** `{num_female:,}`
-  - **Male speakers:** `{num_male:,}`
-  - **Unknown speakers:** `{num_other:,}`
-- **License:** {license_link}
-{version}
-- **Citation:**
-```bibtex
-{citation}
-```
-
-- Please, note that no corpora are hosted by MFA, please see the link above for accessing the data.
-
-- If you have comments or questions about using this corpus for MFA, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q={discussion_title}) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
-"""
-
-corpus_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{corpus}} {title}
-:id: "{corpus_id}"
-:layout: not_mfa
-:template: corpus_template
-:tags: {tags}
-:language: "{language_name}"
-:dialect: "{dialects}"
-:license: "{license}"
-
-   ```{{include}} ../../../../corpus/{language}/{corpus_name_safe}{version_subdirectory}/README.md
-    :start-after: "## Corpus details"
-   ```
-
-   {see_also}
-``````
-"""
-
-acoustic_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{acoustic}} {title}
-:id: "{model_name}"
-:layout: {layout_type}
-:template: {model_type}_template
-:tags: {tags}
-:language: "{language_name}"
-:dialect: {dialects}
-:phoneset: "{phone_set}"
-:architecture: {architecture}
-:license: "{license}"
-
-   ```{{include}} ../../../../{model_type}/{language}/{language_sub_folder}/v{version}/README.md
-    :start-after: "## Model details"
-    :end-before: "## Installation"
-   ```
-
-   ```{{admonition}} Training corpora
-   {corpora_details}
-   ```
-
-   {see_also}
-``````
-
-```{{include}} ../../../../{model_type}/{language}/{language_sub_folder}/v{version}/README.md
-:start-after: "new)."
-:end-before: "## Training data"
-```"""
-
-ivector_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{ivector}} {title}
-:id: "{model_name}"
-:layout: {layout_type}
-:template: {model_type}_template
-:tags: {tags}
-:language: "{language_name}"
-:architecture: {architecture}
-:license: "{license}"
-
-   ```{{include}} ../../../../{model_type}/{language}/v{version}/README.md
-    :start-after: "## Model details"
-    :end-before: "## Installation"
-   ```
-
-   ```{{admonition}} Training corpora
-   {corpora_details}
-   ```
-
-   {see_also}
-``````
-
-```{{include}} ../../../../{model_type}/{language}/v{version}/README.md
-:start-after: "new)."
-:end-before: "## Training data"
-```"""
-
-g2p_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{g2p}} {title}
-:id: "{model_name}"
-:tags: {tags}
-:layout: {layout_type}
-:language: "{language_name}"
-:dialect: {dialects}
-:phoneset: "{phone_set}"
-:architecture: {architecture}
-:license: "{license}"
-
-   ```{{include}} ../../../../g2p/{language}/{language_sub_folder}/v{version}/README.md
-    :start-after: "## Model details"
-    :end-before: "## Installation"
-   ```
-
-   {see_also}
-``````
-
-```{{include}} ../../../../g2p/{language}/{language_sub_folder}/v{version}/README.md
-:start-after: "new)."
-```"""
-
-lm_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{language_model}} {title}
-:id: "{model_name}"
-:layout: {layout_type}
-:tags: {tags}
-:language: "{language_name}"
-:dialect: {dialects}
-:architecture: {architecture}
-:license: "{license}"
-
-   ```{{include}} ../../../../language_model/{language}/{source}/v{version}/README.md
-    :start-after: "## Model details"
-    :end-before: "## Installation"
-   ```
-
-   {see_also}
-
-``````
-
-```{{include}} ../../../../language_model/{language}/{source}/v{version}/README.md
-:start-after: "new)."
-```"""
-
-mfa_dictionary_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{dictionary}} {title}
-:id: "{model_name}"
-:tags: {tags}
-:language: "{language_name}"
-:dialect: {dialects}
-:layout: {layout_type}
-:template: dictionary_template
-:phoneset: "{phone_set}"
-:license: "{license}"
-
-   ```{{include}} ../../../../dictionary/{language}/{language_sub_folder}/v{version}/README.md
-    :start-after: "## Dictionary details"
-    :end-before: "## Installation"
-   ```
-
-   {see_also}
-
-``````
-
-```{{include}} ../../../../dictionary/{language}/{language_sub_folder}/v{version}/README.md
-:start-after: "new)."
-```
-
-## IPA Charts
-
-### Consonants
-
-Obstruent symbols to the left of {{fas}}`circle;ipa-dot` are unvoiced and those to the right are voiced.
-
-{consonant_chart}
-
-### Vowels
-
-Vowel symbols to the left of {{fas}}`circle;ipa-dot` are unrounded and those to the right are rounded.
-
-{vowel_section}"""
-
-other_dictionary_docs_md_template = """
-({ref})=
-# {title}
-
-``````{{dictionary}} {title}
-:id: "{model_name}"
-:tags: {tags}
-:language: "{language_name}"
-:dialect: {dialects}
-:layout: {layout_type}
-:template: dictionary_template
-:phoneset: "{phone_set}"
-:license: "{license}"
-
-   ```{{include}} ../../../../dictionary/{language}/{language_sub_folder}/v{version}/README.md
-    :start-after: "## Dictionary details"
-    :end-before: "## Installation"
-   ```
-
-   {see_also}
-
-``````
-
-```{{include}} ../../../../dictionary/{language}/{language_sub_folder}/v{version}/README.md
-:start-after: "new)."
-```"""
+mfa_acoustic_model_card_template = template_dir.joinpath('mfa_acoustic_model_card_template.md').read_text('utf8')
+ivector_card_template = template_dir.joinpath('ivector_card_template.md').read_text('utf8')
+other_acoustic_model_card_template = template_dir.joinpath('other_acoustic_model_card_template.md').read_text('utf8')
+g2p_model_card_template = template_dir.joinpath('g2p_model_card_template.md').read_text('utf8')
+language_model_card_template = template_dir.joinpath('language_model_card_template.md').read_text('utf8')
+mfa_dictionary_card_template = template_dir.joinpath('mfa_dictionary_card_template.md').read_text('utf8')
+other_dictionary_card_template = template_dir.joinpath('other_dictionary_card_template.md').read_text('utf8')
+corpus_card_template = template_dir.joinpath('corpus_card_template.md').read_text('utf8')
+tokenizer_model_card_template = template_dir.joinpath('tokenizer_model_card_template.md').read_text('utf8')
+
+
+corpus_docs_md_template = template_dir.joinpath('corpus_docs_md_template.md').read_text('utf8')
+acoustic_docs_md_template = template_dir.joinpath('acoustic_docs_md_template.md').read_text('utf8')
+ivector_docs_md_template = template_dir.joinpath('ivector_docs_md_template.md').read_text('utf8')
+g2p_docs_md_template = template_dir.joinpath('g2p_docs_md_template.md').read_text('utf8')
+lm_docs_md_template = template_dir.joinpath('lm_docs_md_template.md').read_text('utf8')
+tokenizer_docs_md_template = template_dir.joinpath('tokenizer_docs_md_template.md').read_text('utf8')
+mfa_dictionary_docs_md_template = template_dir.joinpath('mfa_dictionary_docs_md_template.md').read_text('utf8')
+other_dictionary_docs_md_template = template_dir.joinpath('other_dictionary_docs_md_template.md').read_text('utf8')
 
 language_links = {
     'Abkhaz': ('Abkhaz', 'https://en.wikipedia.org/wiki/Abkhaz_language'),
@@ -1065,6 +288,7 @@ model_id_templates = {
     'language_model': '{language}{dialect_title_string} language model{version_string}',
     'corpus': '{corpus_name}{version_string}',
     'ivector': '{language} {phone_set} ivector extractor{version_string}',
+    'tokenizer': '{language} tokenizer{version_string}',
 }
 
 pronunciation_dictionaries = {}
@@ -1249,6 +473,32 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
                 'medium_perplexity': model.meta['evaluation_training']['medium_perplexity'],
                 'small_perplexity': model.meta['evaluation_training']['small_perplexity'],
             },
+            'citation': citation_template.format(**citation_details),
+        }
+    if model_type == 'tokenizer':
+        train_date = datetime.fromisoformat(model.meta['train_date']).date()
+        citation_details['model_type'] = 'tokenizer'
+        citation_details['year'] = train_date.year
+        citation_details['title'] = generate_id(citation_details, model_type).replace('_', '.')
+        citation_details['link_safe_title'] = generate_id(citation_details, model_type)
+        citation_details['month'] = train_date.strftime('%b')
+        citation_details['id'] = f'mfa_{model.name}_tokenizer_{train_date.year}'
+        return {
+            'name': model.name,
+            'language': language.title(),
+            'dialect': dialect,
+            'phone_set': 'MFA',
+            'maintainer': maintainer,
+            'license_link': license_link,
+            'license': license,
+            'architecture': model.meta['architecture'],
+            'version': version,
+            'train_date': str(train_date),
+            'training': {
+                'num_utterances': model.meta['training']['num_utterances'],
+                'num_graphemes': model.meta['training']['num_graphemes'],
+            },
+            'evaluation': {k: v if v is not None else 100 for k,v in model.meta['evaluation'].items()},
             'citation': citation_template.format(**citation_details),
         }
     if model_type == 'ivector':
@@ -1463,6 +713,25 @@ def extract_model_card_fields(meta_data, model_type):
                 'evaluation_details': evaluation_details,
                 'phone_set_link': phone_set_link,
             }
+    if model_type == 'tokenizer':
+        training_details = tokenizer_training_detail_template.format(**meta_data['training'])
+        evaluation_details = tokenizer_evaluation_detail_template.format(**meta_data['evaluation'])
+        return {
+                'model_name': meta_data['name'],
+            'title': name.replace('_', '.'),
+                'language': meta_data['language'],
+                'language_link': language_link,
+                'discussion_title': discussion_title,
+                'architecture': meta_data['architecture'],
+                'maintainer': meta_data['maintainer'],
+                'version': meta_data['version'],
+                'license_link': meta_data['license_link'],
+                'mfa_version': '2.2.0',
+                'date': meta_data['train_date'],
+                'citation': meta_data['citation'],
+                'training_details': training_details,
+                'evaluation_details': evaluation_details,
+            }
     if model_type == 'language_model':
         training_details = lm_training_detail_template.format(**meta_data['training'])
         evaluation_details = lm_evaluation_detail_template.format(**meta_data['evaluation'])
@@ -1493,7 +762,7 @@ def extract_doc_card_fields(meta_data, model_type):
 
     see_also = ''
     links = []
-    for k in ['corpus', 'dictionary', 'g2p', 'acoustic', 'language_model']:
+    for k in ['corpus', 'dictionary', 'g2p', 'acoustic', 'language_model', 'tokenizer']:
         if k == 'corpus' and model_type in {'acoustic', 'ivector'}:
             continue
         if k in meta_data:
@@ -1710,6 +979,23 @@ def extract_doc_card_fields(meta_data, model_type):
             'see_also': see_also,
             'tags': ';'.join(tags),
         }
+    if model_type == 'tokenizer':
+        tags = ['MFA']
+        return {
+            'model_name': name,
+            'ref': name.replace(' ','_'),
+            'title': name.replace('_', '.'),
+            'model_type': model_type,
+            'layout_type': layout_type,
+            'language': meta_data['language'].lower(),
+            'architecture': meta_data['architecture'],
+            'language_name': meta_data['language'].title(),
+                'license': meta_data['license'],
+            'version': meta_data['version'],
+            'source': 'mfa',
+            'see_also': see_also,
+            'tags': ';'.join(tags),
+        }
 
 model_card_templates ={
     'acoustic': {'mfa':mfa_acoustic_model_card_template, 'other': other_acoustic_model_card_template},
@@ -1718,6 +1004,7 @@ model_card_templates ={
     'language_model': {'mfa':language_model_card_template, 'other': language_model_card_template},
     'corpus': {'mfa': corpus_card_template, 'other': corpus_card_template},
     'ivector': {'mfa': ivector_card_template, 'other': ivector_card_template},
+    'tokenizer': {'mfa': tokenizer_model_card_template, 'other': tokenizer_model_card_template},
 }
 docs_card_templates ={
     'acoustic': {'mfa':acoustic_docs_md_template, 'other': acoustic_docs_md_template},
@@ -1726,6 +1013,7 @@ docs_card_templates ={
     'language_model': {'mfa':lm_docs_md_template, 'other': lm_docs_md_template},
     'corpus': {'mfa': corpus_docs_md_template, 'other': corpus_docs_md_template},
     'ivector': {'mfa': ivector_docs_md_template, 'other': ivector_docs_md_template},
+    'tokenizer': {'mfa': tokenizer_docs_md_template, 'other': tokenizer_docs_md_template},
 }
 model_type_names ={
     'acoustic': 'Acoustic models',
@@ -1734,6 +1022,7 @@ model_type_names ={
     'language_model': 'Language models',
     'corpus': 'Corpora',
     'ivector': 'Ivector extractors',
+    'tokenizer': 'Tokenizer models',
 }
 model_type_columns ={
     'acoustic': 'ID;language;dialect;phoneset;license',
@@ -1742,6 +1031,7 @@ model_type_columns ={
     'g2p': 'ID;language;dialect;phoneset;license',
     'language_model': 'ID;language;dialect;license',
     'corpus': 'ID;language;dialect;license',
+    'tokenizer': 'ID;language;license',
 }
 model_type_column_widths ={
     'acoustic': '40;20;20;10;10',
@@ -1749,6 +1039,7 @@ model_type_column_widths ={
     'g2p': '40;20;20;10;10',
     'language_model': '50;20;20;10',
     'ivector': '50;25;25',
+    'tokenizer': '50;25;25',
     'corpus': '40;20;25;15',
 }
 
@@ -2004,7 +1295,6 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                 break
         else:
             dictionary_mapping['other'].add(phone)
-    print(dictionary_mapping)
     places = ['labial', 'labiodental', 'dental', 'alveolar', 'alveopalatal', 'retroflex', 'palatal', 'velar', 'uvular', 'pharyngeal', 'epiglottal', 'glottal']
     columns = []
     for p in places:
@@ -2192,8 +1482,10 @@ for model_type, model_class in MODEL_TYPES.items():
             phone_set = 'MFA'
         elif model_type == 'ivector':
             language = model.name.replace('_mfa', '')
-            if language == 'ivector':
-                language = 'multilingual'
+            dialect = ''
+            phone_set = ''
+        elif model_type == 'tokenizer':
+            language = model.name.replace('_mfa', '')
             dialect = ''
             phone_set = ''
         elif len(s) == 1:
@@ -2242,7 +1534,7 @@ for model_type, model_class in MODEL_TYPES.items():
                 meta_data = json.load(f)
         meta_datas[model_type][generate_id(meta_data, model_type)] = meta_data
         keys = [language]
-        if model_type in {'language_model', 'ivector'}:
+        if model_type in {'language_model', 'ivector', 'tokenizer'}:
             if dialect:
                 keys.append((language, dialect))
                 key = (language, dialect)
@@ -2273,7 +1565,7 @@ for model_type, model_class in MODEL_TYPES.items():
         if not os.path.isdir(language_directory):
             continue
         language = language.title()
-        if model_type == 'ivector':
+        if model_type in {'ivector', 'tokenizer'}:
             for version in os.listdir(language_directory):
                 meta_path = os.path.join(language_directory, version, 'meta.json')
                 if not os.path.exists(meta_path):
@@ -2486,6 +1778,13 @@ if 'language_model' in meta_datas:
                 model_dictionary_mapping[lm_id] = v
 
 
+if 'tokenizer' in meta_datas:
+    for k,v in model_dictionary_mapping.items():
+            tokenizer_id = k.replace('tokenizer', 'language')
+            if tokenizer_id in meta_datas['tokenizer']:
+                model_dictionary_mapping[tokenizer_id] = v
+
+
 corpora_metadata = {}
 model_mappings['corpus'] = {}
 corpus_metadata_file = os.path.join(mfa_model_root, 'corpus', 'staging', 'corpus_data.json')
@@ -2526,7 +1825,7 @@ for model_type, data in meta_datas.items():
 
     for model_name, meta_data in data.items():
         model_id = generate_id(meta_data, model_type)
-        if model_type in {'acoustic','language_model', 'ivector'}:
+        if model_type in {'acoustic','language_model', 'ivector', 'tokenizer'}:
             print("HELLO!?", model_id, model_corpus_mapping.keys())
             if model_id in model_corpus_mapping:
                 print(model_corpus_mapping[model_id])

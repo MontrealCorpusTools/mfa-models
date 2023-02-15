@@ -3,7 +3,7 @@ import re
 
 from montreal_forced_aligner.command_line.mfa import mfa_cli
 
-root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 dictionary_dir = os.path.join(root_dir, 'dictionary', 'training')
 output_dir = os.path.join(root_dir, 'g2p', 'staging')
 temp_dir = os.path.join(root_dir, 'scripts', 'temp')
@@ -42,10 +42,11 @@ lang_codes = ['czech', 'russian',
               ]
 
 lang_codes = [
-              'japanese',
-              'tamil',
-              'hindi',
-              'urdu',
+              'english_nigeria','english_india','english_us','english_uk',
+              #'japanese',
+              #'tamil',
+              #'hindi',
+              #'urdu',
                 #'mandarin_china', 'mandarin_erhua', 'mandarin_taiwan'
               ]
 
@@ -81,6 +82,7 @@ if __name__ == '__main__':
         else:
             dictionary_path = os.path.join(dictionary_dir, lang + '_mfa.dict')
             model_path = os.path.join(output_dir, lang + '_mfa.zip')
+        print(model_path)
         if os.path.exists(model_path):
             error_metrics[lang] = get_error_rates(lang)
             continue

@@ -8,6 +8,14 @@ dialects:
     preceding_context: '^'
     replacement: ''
     segment: 'ç'
+  - following_context: ''
+    preceding_context: '^'
+    replacement: ''
+    segment: 'h'
+  - following_context: '$'
+    preceding_context: 'ŋ'
+    replacement: ''
+    segment: 'ɡ'
   uk:
   - following_context: ''
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
@@ -25,6 +33,99 @@ dialects:
     preceding_context: '^'
     replacement: ''
     segment: 'ç'
+  - following_context: ''  # mitten glottalized syllabic
+    preceding_context: ''
+    replacement: ʔ n̩
+    segment: t ə n
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic n
+    preceding_context: ''
+    replacement: n̩
+    segment: ə n
+  - following_context: $  # syllabic n
+    preceding_context: ''
+    replacement: n̩
+    segment: ə n
+  - following_context: $  # syllabic m
+    preceding_context: ''
+    replacement: m̩
+    segment: ə m
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic m
+    preceding_context: ''
+    replacement: m̩
+    segment: ə m
+  - following_context: $  # syllabic l
+    preceding_context: ''
+    replacement: ɫ̩
+    segment: ə ɫ
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic l
+    preceding_context: ''
+    replacement: ɫ̩
+    segment: ə ɫ
+  - following_context: '[ɪi]ː?'  # th-fronting
+    preceding_context: ''
+    replacement: fʲ
+    segment: 'θ'
+  - following_context: '[^ɪi]+'  # th-fronting
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '$'  # th-fronting
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '[ɪi]ː?'  # th-fronting
+    preceding_context: ''
+    replacement: vʲ
+    segment: 'ð'
+  - following_context: '[^ɪi]+'  # th-fronting
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
+  - following_context: '$'  # th-fronting
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
+  india:
+  - following_context: ''
+    preceding_context: ''
+    replacement: ɾ
+    segment: 'ɹ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: a
+    segment: 'ɒ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: a
+    segment: 'ɑ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: aː
+    segment: 'ɒː'
+  - following_context: ''
+    preceding_context: ''
+    replacement: aː
+    segment: 'ɑː'
+  - following_context: ''
+    preceding_context: ''
+    replacement: f
+    segment: 'pʰ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: dʒ
+    segment: 'z'
+  - following_context: ''
+    preceding_context: ''
+    replacement: dʒ
+    segment: 'ʒ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: z
+    segment: 'ʒ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: ʃ
+    segment: 'ʒ'
   us:
   - following_context: (ɪ|ə|ɚ|i)  # t/d flapping
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
@@ -120,7 +221,7 @@ dialects:
     segment: ɚ
   - following_context: ''  # non-rhotic dialects
     preceding_context: ''
-    replacement: ə
+    replacement: ɜː
     segment: ɝ
   - following_context: '[tpkcsʃf][ʲʷ]?'  # price monophthongization
     preceding_context: ''
@@ -142,6 +243,58 @@ dialects:
     preceding_context: '(ʊ|ɛ|ɒ|ɪ|ɑ)'
     replacement: ə
     segment: ɹ
+  - following_context: ''  # mitten glottalized syllabic
+    preceding_context: ''
+    replacement: ʔ n̩
+    segment: t ə n
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic n
+    preceding_context: ''
+    replacement: n̩
+    segment: ə n
+  - following_context: $  # syllabic n
+    preceding_context: ''
+    replacement: n̩
+    segment: ə n
+  - following_context: $  # syllabic m
+    preceding_context: ''
+    replacement: m̩
+    segment: ə m
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic m
+    preceding_context: ''
+    replacement: m̩
+    segment: ə m
+  - following_context: $  # syllabic l
+    preceding_context: ''
+    replacement: ɫ̩
+    segment: ə ɫ
+  - following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'  # syllabic l
+    preceding_context: ''
+    replacement: ɫ̩
+    segment: ə ɫ
+  - following_context: '[ɪi]ː?'  # th-fronting
+    preceding_context: ''
+    replacement: fʲ
+    segment: 'θ'
+  - following_context: '[^ɪi]+'  # th-fronting
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '$'  # th-fronting
+    preceding_context: ''
+    replacement: f
+    segment: 'θ'
+  - following_context: '[ɪi]ː?'  # th-fronting
+    preceding_context: ''
+    replacement: vʲ
+    segment: 'ð'
+  - following_context: '[^ɪi]+'  # th-fronting
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
+  - following_context: '$'  # th-fronting
+    preceding_context: ''
+    replacement: v
+    segment: 'ð'
 rules:
 - following_context: .*(ʊ|ɔj|ɝ|ɛ|ej|ow|æ|aw|aj|ɐ|ɪ|ə|ɚ|ɑ|ʉ|ɒ|i)ː?
   preceding_context: ^
@@ -167,34 +320,6 @@ rules:
   preceding_context: ''
   replacement: w
   segment: ʉ
-- following_context: ''
-  preceding_context: ''
-  replacement: ʔ n̩
-  segment: t ə n
-- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
-  preceding_context: ''
-  replacement: n̩
-  segment: ə n
-- following_context: $
-  preceding_context: ''
-  replacement: n̩
-  segment: ə n
-- following_context: $
-  preceding_context: ''
-  replacement: m̩
-  segment: ə m
-- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
-  preceding_context: ''
-  replacement: m̩
-  segment: ə m
-- following_context: $
-  preceding_context: ''
-  replacement: ɫ̩
-  segment: ə ɫ
-- following_context: '[^ʊɔɝaɛeoæɐɪəɚɑʉɒi].*'
-  preceding_context: ''
-  replacement: ɫ̩
-  segment: ə ɫ
 - following_context: '$'
   preceding_context: ''
   replacement: t̪
@@ -263,7 +388,7 @@ rules:
   preceding_context: ''
   replacement: ''
   segment: '[sʃ] t'
-- following_context: $
+- following_context: $  # ask metathesis
   preceding_context: ''
   replacement: k s
   segment: s k
@@ -315,27 +440,31 @@ rules:
   preceding_context: ɪ
   replacement: 'n'
   segment: ŋ
-- following_context: '[ɪi]ː?'  # th-fronting
+- following_context: ''  # non-native accents
   preceding_context: ''
-  replacement: fʲ
-  segment: 'θ'
-- following_context: '[^ɪi]+'  # th-fronting
-  preceding_context: ''
-  replacement: f
-  segment: 'θ'
-- following_context: '$'  # th-fronting
-  preceding_context: ''
-  replacement: f
-  segment: 'θ'
-- following_context: '[ɪi]ː?'  # th-fronting
-  preceding_context: ''
-  replacement: vʲ
+  replacement: z
   segment: 'ð'
-- following_context: '[^ɪi]+'  # th-fronting
+- following_context: ''  # non-native accents
   preceding_context: ''
-  replacement: v
-  segment: 'ð'
-- following_context: '$'  # th-fronting
+  replacement: s
+  segment: 'θ'
+- following_context: ''  # schwa deletion
   preceding_context: ''
-  replacement: v
-  segment: 'ð'
+  replacement: l ə
+  segment: 'ə l ə'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: ʎ ə
+  segment: 'ə ʎ ə'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: n ə
+  segment: 'ə n ə'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: m ə
+  segment: 'ə m ə'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: ɹ ə
+  segment: 'ə ɹ ə'
