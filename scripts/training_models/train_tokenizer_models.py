@@ -75,7 +75,8 @@ if __name__ == '__main__':
                    '-j', '10',
                    '--use_mp',
                    '--debug',
-                   '--clean',
+                   '--phonetisaurus',
+                   '--no_clean',
                    '--evaluate',
                    ]
         mfa_cli(command, standalone_mode=False)

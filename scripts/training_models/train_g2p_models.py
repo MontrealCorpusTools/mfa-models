@@ -42,8 +42,8 @@ lang_codes = ['czech', 'russian',
               ]
 
 lang_codes = [
-              'english_nigeria','english_india','english_us','english_uk',
-              #'japanese',
+              #'english_nigeria','english_india','english_us','english_uk',
+              'japanese',
               #'tamil',
               #'hindi',
               #'urdu',

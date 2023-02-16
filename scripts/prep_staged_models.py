@@ -26,7 +26,7 @@ random.seed(1234)
 root_dir = pathlib.Path(__file__).resolve().parent
 template_dir = root_dir.joinpath('templates')
 
-CURRENT_MODEL_VERSION = '2.2.0'
+CURRENT_MODEL_VERSION = '2.2.1'
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())

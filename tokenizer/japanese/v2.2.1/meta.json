@@ -1,0 +1,22 @@
+{
+    "name": "japanese_mfa",
+    "language": "Japanese",
+    "dialect": "",
+    "phone_set": "MFA",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/tokenizer/japanese//v2.2.1/LICENSE)",
+    "license": "CC BY 4.0",
+    "architecture": "phonetisaurus",
+    "version": "2.2.1",
+    "train_date": "2023-02-16",
+    "training": {
+        "num_utterances": 0,
+        "num_graphemes": 0
+    },
+    "evaluation": {
+        "num_utterances": 0,
+        "utterance_error_rate": 31.784106083662,
+        "character_error_rate": 1.1487126338709375
+    },
+    "citation": "@techreport{mfa_japanese_mfa_tokenizer_2023,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Japanese tokenizer v2.2.1},\n\taddress={\\url{https://mfa-models.readthedocs.io/tokenizer/Japanese/Japanese tokenizer v2_2_1.html}},\n\tyear={2023},\n\tmonth={Feb},\n}"
+}
