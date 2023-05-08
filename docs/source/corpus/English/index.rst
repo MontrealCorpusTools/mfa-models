@@ -23,5 +23,8 @@ English
    Corpus of Regional African American Language v2021_07.md
    Google Nigerian English.md
    Google UK and Ireland English.md
+   L2-ARCTIC.md
+   ICE-Nigeria.md
+   A Scripted Pakistani English Daily-use Speech Corpus.md
    Buckeye Corpus.md
    TIMIT.md

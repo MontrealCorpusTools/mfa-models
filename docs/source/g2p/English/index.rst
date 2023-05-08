@@ -16,6 +16,10 @@ English
 .. toctree::
    :hidden:
 
+   English (India) MFA G2P model v2_2_1.md
+   English (Nigeria) MFA G2P model v2_2_1.md
+   English (UK) MFA G2P model v2_2_1.md
+   English (US) MFA G2P model v2_2_1.md
    English (Nigeria) MFA G2P model v2_0_0.md
    English (Nigeria) MFA G2P model v2_0_0a.md
    English (UK) MFA G2P model v2_0_0.md

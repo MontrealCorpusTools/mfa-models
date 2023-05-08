@@ -42,8 +42,9 @@ lang_codes = ['czech', 'russian',
               ]
 
 lang_codes = [
-              #'english_nigeria','english_india','english_us','english_uk',
-              'japanese',
+              'english_nigeria',
+    'english_india', 'english_us','english_uk',
+              #'japanese',
               #'tamil',
               #'hindi',
               #'urdu',
@@ -92,7 +93,6 @@ if __name__ == '__main__':
         command = ['train_g2p',
                    dictionary_path,
                    model_path,
-                   '-t', temp_dir,
                    '--clean',
                    '-j', '10',
                    '--use_mp',

@@ -19,6 +19,8 @@ if __name__ == '__main__':
         if fn.endswith("prosodylab.dict"):
             continue
         language = fn.split('_')[0]
+        if language not in {'japanese'}:
+            continue
         skip_words_path = os.path.join(skip_words_dir, language+'.txt')
         skip_word_set = set()
         if os.path.exists(skip_words_path):

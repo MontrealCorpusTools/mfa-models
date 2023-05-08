@@ -16,5 +16,5 @@ Japanese
 .. toctree::
    :hidden:
 
-   Japanese tokenizer v2_2_1.md
    Japanese tokenizer v2_2_0.md
+   Japanese tokenizer v2_2_1.md

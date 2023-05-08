@@ -89,6 +89,8 @@ license_links = {
     'CC BY 4.0': 'https://creativecommons.org/licenses/by/4.0/',
     'CC BY 3.0': 'https://creativecommons.org/licenses/by/3.0/',
     'CC BY-NC-SA 4.0': 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+    'CC BY-NC-SA 3.0': 'https://creativecommons.org/licenses/by-nc-sa/3.0/',
+    'CC BY-NC 4.0': 'https://creativecommons.org/licenses/by-nc/4.0/',
     'CC BY-SA 4.0': 'https://creativecommons.org/licenses/by-sa/4.0/',
     'CC BY-NC-ND 4.0': 'https://creativecommons.org/licenses/by-nc-nd/4.0/',
     'CC BY-NC 2.0': 'https://creativecommons.org/licenses/by-nc/2.0/',
@@ -184,6 +186,7 @@ language_links = {
     ('English', 'US'): ('General American English', 'https://en.wikipedia.org/wiki/General_American_English'),
     ('English', 'UK'): ('British English', 'https://en.wikipedia.org/wiki/British_English'),
     ('English', 'Nigeria'): ('Nigerian English', 'https://en.wikipedia.org/wiki/Nigerian_English'),
+    ('English', 'India'): ('Indian English', 'Japanese tokenizer v2_1_0.md'),
     'French': ('French', 'https://en.wikipedia.org/wiki/French_language'),
     'Georgian': ('Georgian', 'https://en.wikipedia.org/wiki/Georgian_language'),
     'German': ('German', 'https://en.wikipedia.org/wiki/German_language'),
@@ -344,7 +347,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
     license = 'CC BY 4.0'
     license_link = f'[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/{model_type}/{language.lower()}/{phone_set_folder}/v{version}/LICENSE)'
     if model_type == 'acoustic':
-        if model.source.endswith('_cv.zip'):
+        if model.source.name.endswith('_cv.zip'):
             citation = cv_citation
             maintainer = cv_maintainer
             license = 'CC-0'
@@ -387,15 +390,15 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
         citation_details['title'] = generate_id(citation_details, model_type).replace('_', '.')
         citation = citation_template.format(**citation_details)
         phone_set = phone_set.upper()
-        if model.path.endswith('_cv.dict'):
+        if model.path.name.endswith('_cv.dict'):
             citation = cv_citation
             maintainer = cv_maintainer
             license_link = "[CC-0](https://creativecommons.org/publicdomain/zero/1.0/)"
             dictionary_phone_set = 'IPA'
-        elif model.path.endswith('_mfa.dict'):
+        elif model.path.name.endswith('_mfa.dict'):
             dictionary_phone_set = 'IPA'
         else:
-            if model.path.endswith('_prosodylab.dict') or model.path.endswith('us_arpa.dict'):
+            if model.path.name.endswith('_prosodylab.dict') or model.path.name.endswith('us_arpa.dict'):
                 citation = prosodylab_citation
             try:
                 dictionary_phone_set = montreal_forced_aligner.data.PhoneSetType[phone_set].name
@@ -1216,7 +1219,7 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                         continue
                     for pron in w.pronunciations:
                         pron = pron.pronunciation
-                        if phone.phone in pron:
+                        if re.search(rf'\b{phone.phone}\b',pron):
                             examples[w.word] = f"[{pron}]"
                             break
                     if len(examples) >= 4:
@@ -1235,7 +1238,7 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
                     continue
                 for pron in w.pronunciations:
                     pron = pron.pronunciation
-                    if phone in pron:
+                    if re.search(rf'\b{phone}\b',pron):
                         extra_data[phone]['Examples'][w.word] = f"[{pron}]"
                         break
                 if len(extra_data[phone]['Examples']) >= 4:
@@ -1617,7 +1620,9 @@ for model_type, model_class in MODEL_TYPES.items():
 current_corpora = {'english': ['Common Voice English v8_0', 'LibriSpeech English',
                                           'Corpus of Regional African American Language v2021_07',
                                           "Google Nigerian English", "Google UK and Ireland English",
-                                          "NCHLT English", "ARU English corpus"],
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
                    'czech': ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
                                         "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
                    'hausa': ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
@@ -1678,6 +1683,12 @@ model_corpus_mapping = {
                                           'Corpus of Regional African American Language v2021_07',
                                           "Google Nigerian English", "Google UK and Ireland English",
                                           "NCHLT English", "ARU English corpus"],
+    "English MFA acoustic model v2_2_1": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
     "English MFA ivector extractor v2_1_0": current_corpora['english'],
     "Multilingual MFA ivector extractor v2_1_0": [x for k in ['english', 'czech', 'hausa', 'swahili', 'thai', 'vietnamese', 'japanese', 'mandarin'] for x in current_corpora[k]],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',

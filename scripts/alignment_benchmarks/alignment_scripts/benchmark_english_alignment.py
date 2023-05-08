@@ -7,6 +7,8 @@ mfa10_dir = r"D:\Data\models\1.0_archived"
 mfa20_dir = r"D:\Data\models\2.0_archived"
 mfa20a_dir = r"D:\Data\models\2.0.0a_archived"
 mfa21_dir = r"D:\Data\models\2.1_trained"
+mfa22_dir = r"D:\Data\models\2.2_trained"
+trained22_dir = r"D:\Data\models\2.2_trained\buckeye"
 mapping_directory = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'mapping_files')
 
 corpus_directories = {
@@ -21,6 +23,9 @@ conditions = {
     'mfa_2.0': (os.path.join(mfa20_dir, 'english_us_mfa.dict'), os.path.join(mfa20_dir, "english_mfa.zip")),
     'mfa_2.0a': (os.path.join(mfa20a_dir, 'english_us_mfa.dict'), os.path.join(mfa20a_dir, "english_mfa.zip")),
     'mfa_2.1': (os.path.join(mfa21_dir, 'english_us_mfa.dict'), os.path.join(mfa21_dir, "english_mfa.zip")),
+    'mfa_2.2': (os.path.join(mfa22_dir, 'english_us_mfa.dict'), os.path.join(mfa22_dir, "english_mfa.zip")),
+    'trained_2.2': (os.path.join(trained22_dir, 'english_us_mfa.dict'), os.path.join(trained22_dir, "english_mfa.zip")),
+    'arpa_2.2': (os.path.join(mfa20a_dir, 'english_us_arpa.dict'), os.path.join(mfa20a_dir, "english_us_arpa.zip")),
 }
 mapping_files = {}
 for k in conditions.keys():
@@ -29,7 +34,7 @@ for k in conditions.keys():
             phone_set = 'arpa'
         else:
             phone_set = 'mfa'
-        mapping_files[k] = os.path.join(mapping_directory, f"{phone_set}_{corpus}_mapping.yaml")
+        mapping_files[(k, corpus)] = os.path.join(mapping_directory, f"{phone_set}_{corpus}_mapping.yaml")
 
 if __name__ == '__main__':
     for condition, (dictionary_path, model_path) in conditions.items():
@@ -44,12 +49,13 @@ if __name__ == '__main__':
                        output_directory,
                        '-j', '10',
                        '--clean',
-                       '-t',
-                       os.path.join(root_dir, f'temp_{condition}_{corpus}'),
+                       '--debug',
+                        '--use_cutoff_model',
                        '--reference_directory',
                        os.path.join(root, 'reference'),
                        '--custom_mapping_path',
-                        mapping_files[condition],
+                        mapping_files[(condition, corpus)],
                        '--beam', '10', '--retry_beam', '40'
                        ]
+            print(command)
             mfa_cli(command, standalone_mode=False)

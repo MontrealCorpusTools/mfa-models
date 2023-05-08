@@ -16,6 +16,10 @@ rules:
   replacement: 'eː'
   segment: 'a i'
 - following_context: '$'
+  preceding_context: ''
+  replacement: 'nː a i'
+  segment: 'ɾ a n a i'
+- following_context: '$'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: ''
   segment: i

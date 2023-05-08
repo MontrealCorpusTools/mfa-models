@@ -9,7 +9,7 @@
 :architecture: pynini
 :license: "CC BY 4.0"
 
-   ```{include} ../../../../tokenizer/japanese/mfa/v2.2.0/README.md
+   ```{include} ../../../../tokenizer/japanese/v2.2.0/README.md
     :start-after: "## Model details"
     :end-before: "## Installation"
    ```
@@ -18,6 +18,6 @@
 
 ``````
 
-```{include} ../../../../tokenizer/japanese/mfa/v2.2.0/README.md
+```{include} ../../../../tokenizer/japanese/v2.2.0/README.md
 :start-after: "new)."
 ```
