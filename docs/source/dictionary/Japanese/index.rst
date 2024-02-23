@@ -16,5 +16,6 @@ Japanese
 .. toctree::
    :hidden:
 
+   Japanese MFA dictionary v3_0_0.md
    Japanese MFA dictionary v2_0_0.md
    Japanese MFA dictionary v2_0_1a.md

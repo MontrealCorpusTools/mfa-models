@@ -16,5 +16,6 @@ Japanese
 .. toctree::
    :hidden:
 
+   Japanese (Katakana) MFA G2P model v3_0_0.md
    Japanese MFA G2P model v2_0_0a.md
    Japanese MFA G2P model v2_0_1a.md

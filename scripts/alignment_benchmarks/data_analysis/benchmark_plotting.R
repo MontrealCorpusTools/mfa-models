@@ -1,5 +1,6 @@
 library(tidyr)
 library(dplyr)
+library(readr)
 library(stringr)
 root_dir = "D:/Data/experiments/alignment_benchmarking/alignments"
 
@@ -15,7 +16,7 @@ for (e in evals){
     print(c)
     path = file.path(root_dir, e, c, "alignment_reference_evaluation.csv")
     print(path)
-    d = read.csv(path)
+    d = read_csv(path, show_col_types = F, lazy=F)
     d$alignment_score <- as.numeric(d$alignment_score)
     d$utterance <- paste(d$file, str_replace_all(as.character(d$begin), '\\.', '-'), str_replace_all(as.character(d$end), '\\.', '-'), sep="-")
     d$evaluation = e
@@ -33,15 +34,18 @@ data[str_detect(data$evaluation, '_2.0'),]$version = "2.0"
 data[str_detect(data$evaluation, '_2.0a'),]$version = "2.0a"
 data[str_detect(data$evaluation, '_2.1'),]$version = "2.1"
 data[str_detect(data$evaluation, '_2.2'),]$version = "2.2"
+data[str_detect(data$evaluation, '_3.0'),]$version = "3.0"
 data[str_detect(data$evaluation, 'trained_2.2'),]$version = "trained_2.2"
+data[str_detect(data$evaluation, 'trained_3.0'),]$version = "trained_3.0"
 data$version <- factor(data$version)
 
 
 data$phone_set = "mfa"
 data[str_detect(data$evaluation, 'arpa'),]$phone_set = "arpa"
+data[str_detect(data$evaluation, 'gp'),]$phone_set = "gp"
 data$phone_set <- factor(data$phone_set)
 
-data <- na.omit(data)
+data <- subset(data, !is.na(data$alignment_score))
 data = subset(data, word_count > 1)
 data = subset(data, !(word_count == 2 & reference_phone_count == 2))
 
@@ -62,7 +66,7 @@ ggplot(aes(x=version, y=mean * 100), data=plotData) + geom_point(size = 5, color
   scale_x_discrete(guide = guide_axis(n.dodge = 2)) + facet_trelliscope(phone_set~corpus, ncol = 2, scales="free_x")
 
 
-t <- subset(data, corpus=='buckeye'& phone_set=='mfa')
+t <- subset(data, corpus=='seoul'& version=='3.0')
 
 
 subset(data, corpus=='buckeye' & phone_set=='mfa') %>% group_by(version) %>% summarise(n())

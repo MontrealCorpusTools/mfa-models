@@ -19,5 +19,9 @@ Korean
    Pansori TEDxKR.md
    Zeroth Korean.md
    Deeply Korean read speech corpus public sample.md
+   ASR-KCSC A Korean Conversational Speech Corpus.md
+   ASR-SKDuSC A Scripted Korean Daily-use Speech Corpus.md
    Seoul Corpus.md
+   Korean Single Speaker Speech Dataset.md
+   Common Voice Korean v16_1.md
    GlobalPhone Korean v3_1.md

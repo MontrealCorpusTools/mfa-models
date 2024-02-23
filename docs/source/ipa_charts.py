@@ -142,6 +142,8 @@ class IpaToolTipValue(IpaElement):
     def __init__(self, value, *children, highlight=None, **attributes):
         span_children = []
         try:
+            if ',' in value:
+                value = value.replace(',', '')
             value = int(value)
             value = f"{value:,}"
             value = IpaText(value, ipa_class='highlight')

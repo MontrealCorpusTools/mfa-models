@@ -6,14 +6,15 @@ import shutil
 import re
 import pathlib
 import typing
+from line_profiler_pycharm import profile
 from datetime import datetime
 import numpy as np
 import sqlalchemy
 from sqlalchemy.orm import subqueryload
-from montreal_forced_aligner.config import GLOBAL_CONFIG
+from montreal_forced_aligner import config
 
-GLOBAL_CONFIG.temporary_directory = os.path.dirname(os.path.abspath(__file__))
-GLOBAL_CONFIG.database_backend = 'sqlite'
+config.TEMPORARY_DIRECTORY = pathlib.Path(os.path.dirname(os.path.abspath(__file__)))
+config.USE_POSTGRES = False
 import montreal_forced_aligner.utils
 from montreal_forced_aligner.models import MODEL_TYPES
 from montreal_forced_aligner.db import Word, Phone, PhoneType, Pronunciation
@@ -26,7 +27,190 @@ random.seed(1234)
 root_dir = pathlib.Path(__file__).resolve().parent
 template_dir = root_dir.joinpath('templates')
 
-CURRENT_MODEL_VERSION = '2.2.1'
+CURRENT_MODEL_VERSION = '3.0.0'
+
+# Get corpus information
+
+current_corpora = {'english': ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
+                   'czech': ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
+                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+                   'hausa': ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
+                   'swahili': ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
+                   'korean': ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus',
+                              "ASR-KCSC: A Korean Conversational Speech Corpus",
+"ASR-SKDuSC: A Scripted Korean Daily-use Speech Corpus",
+"Korean Single Speaker Speech Dataset",
+"Common Voice Korean v16_1",
+                              ],
+                   'mandarin': ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
+                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
+                                           'GlobalPhone Chinese-Mandarin v3_1'],
+                   'japanese': ['Common Voice Japanese v9_0', 'GlobalPhone Japanese v3_1',
+                                           'Microsoft Speech Language Translation Japanese',
+                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
+                   'thai': ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
+                   'vietnamese': ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+                   }
+
+model_corpus_mapping = {
+    "Abkhaz CV acoustic model v2_0_0": ['Common Voice Abkhaz v7_0'],
+    "Armenian CV acoustic model v2_0_0": ['Common Voice Armenian v7_0'],
+    "Bashkir CV acoustic model v2_0_0": ['Common Voice Bashkir v7_0'],
+    "Basque CV acoustic model v2_0_0": ['Common Voice Basque v7_0'],
+    "Belarusian CV acoustic model v2_0_0": ['Common Voice Belarusian v7_0'],
+    "Bulgarian CV acoustic model v2_0_0": ['Common Voice Bulgarian v7_0'],
+    "Chuvash CV acoustic model v2_0_0": ['Common Voice Chuvash v7_0'],
+    "Czech CV acoustic model v2_0_0": ['Common Voice Czech v7_0'],
+    "Dutch CV acoustic model v2_0_0": ['Common Voice Dutch v7_0'],
+    "Georgian CV acoustic model v2_0_0": ['Common Voice Georgian v7_0'],
+    "Greek CV acoustic model v2_0_0": ['Common Voice Greek v7_0'],
+    "Guarani CV acoustic model v2_0_0": ['Common Voice Guarani v7_0'],
+    "Hausa CV acoustic model v2_0_0": ['Common Voice Hausa v7_0'],
+    "Hungarian CV acoustic model v2_0_0": ['Common Voice Hungarian v7_0'],
+    "Italian CV acoustic model v2_0_0": ['Common Voice Italian v7_0'],
+    "Kazakh CV acoustic model v2_0_0": ['Common Voice Kazakh v7_0'],
+    "Kurmanji CV acoustic model v2_0_0": ['Common Voice Kurmanji v7_0'],
+    "Kyrgyz CV acoustic model v2_0_0": ['Common Voice Kyrgyz v7_0'],
+    "Polish CV acoustic model v2_0_0": ['Common Voice Polish v7_0'],
+    "Portuguese CV acoustic model v2_0_0": ['Common Voice Portuguese v7_0'],
+    "Romanian CV acoustic model v2_0_0": ['Common Voice Romanian v7_0'],
+    "Russian CV acoustic model v2_0_0": ['Common Voice Russian v7_0'],
+    "Sorbian (Upper) CV acoustic model v2_0_0": ['Common Voice Sorbian Upper v7_0'],
+    "Swedish CV acoustic model v2_0_0": ['Common Voice Swedish v7_0'],
+    "Tamil CV acoustic model v2_0_0": ['Common Voice Tamil v7_0'],
+    "Tatar CV acoustic model v2_0_0": ['Common Voice Tatar v7_0'],
+    "Thai CV acoustic model v2_0_0": ['Common Voice Thai v7_0'],
+    "Turkish CV acoustic model v2_0_0": ['Common Voice Turkish v7_0'],
+    "Ukrainian CV acoustic model v2_0_0": ['Common Voice Ukrainian v7_0'],
+    "Uyghur CV acoustic model v2_0_0": ['Common Voice Uyghur v7_0'],
+    "Uzbek CV acoustic model v2_0_0": ['Common Voice Uzbek v7_0'],
+    "Vietnamese CV acoustic model v2_0_0": ['Common Voice Vietnamese v7_0'],
+    "English (US) ARPA acoustic model v2_0_0": ['LibriSpeech English'],
+    "English (US) ARPA acoustic model v2_0_0a": ['LibriSpeech English'],
+    "English (US) ARPA acoustic model v3_0_0": ['LibriSpeech English'],
+    "English MFA acoustic model v2_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus"],
+    "English MFA acoustic model v2_0_0a": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus"],
+    "English MFA acoustic model v2_2_1": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
+    "English MFA acoustic model v3_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
+    "English MFA ivector extractor v2_1_0": current_corpora['english'],
+    "Multilingual MFA ivector extractor v2_1_0": [x for k in ['english', 'czech', 'hausa', 'swahili', 'thai', 'vietnamese', 'japanese', 'mandarin'] for x in current_corpora[k]],
+    "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
+                                         'African-accented French'],
+    "French MFA acoustic model v2_0_0a": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
+                                         'African-accented French'],
+    "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
+    "German MFA acoustic model v2_0_0a": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
+    "Japanese MFA acoustic model v2_0_1a": ['Common Voice Japanese v12_0', 'GlobalPhone Japanese v3_1',
+                                           'Microsoft Speech Language Translation Japanese',
+                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
+    "Japanese MFA acoustic model v3_0_0": ['Common Voice Japanese v12_0', 'GlobalPhone Japanese v3_1',
+                                           'Microsoft Speech Language Translation Japanese',
+                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
+    "Hausa MFA acoustic model v2_0_0": ['Common Voice Hausa v8_0', 'GlobalPhone Hausa v3_1'],
+    "Hausa MFA acoustic model v2_0_0a": ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
+    "Hausa MFA acoustic model v3_0_0": ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
+    "Mandarin MFA acoustic model v2_0_0": ['Common Voice Chinese (China) v8_0', 'Common Voice Chinese (Taiwan) v8_0',
+                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30'],
+    "Mandarin MFA acoustic model v2_0_0a": ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
+                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
+                                           'GlobalPhone Chinese-Mandarin v3_1'],
+    "Korean MFA acoustic model v2_0_0": ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
+    "Korean MFA acoustic model v2_0_0a": ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
+    "Korean MFA acoustic model v3_0_0": ['GlobalPhone Korean v3_1',
+                                         'Deeply Korean read speech corpus public sample',
+                                         'Pansori TEDxKR', 'Zeroth Korean',
+                                          "ASR-KCSC A Korean Conversational Speech Corpus",
+                                        "ASR-SKDuSC A Scripted Korean Daily-use Speech Corpus",
+                                        "Korean Single Speaker Speech Dataset",
+                                        "Common Voice Korean v16_1",],
+    "Polish MFA acoustic model v2_0_0": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
+    "Polish MFA acoustic model v2_0_0a": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
+    "Portuguese MFA acoustic model v2_0_0": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
+                                             'GlobalPhone Portuguese (Brazilian) v3_1'],
+    "Portuguese MFA acoustic model v2_0_0a": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
+                                             'GlobalPhone Portuguese (Brazilian) v3_1'],
+    "Russian MFA acoustic model v2_0_0": ['Common Voice Russian v8_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
+    "Russian MFA acoustic model v2_0_0a": ['Common Voice Russian v9_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
+    "Spanish MFA acoustic model v2_0_0": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
+                                          "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
+                                          "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
+    "Spanish MFA acoustic model v2_0_0a": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
+                                          "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
+                                          "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
+    "Swahili MFA acoustic model v2_0_0": ['Common Voice Swahili v8_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
+    "Swahili MFA acoustic model v2_0_0a": ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
+    "Swedish MFA acoustic model v2_0_0": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
+    "Swedish MFA acoustic model v2_0_0a": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
+    "Thai MFA acoustic model v2_0_0": ['Common Voice Thai v8_0', 'GlobalPhone Thai v3_1'],
+    "Thai MFA acoustic model v2_0_0a": ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
+    "Thai MFA acoustic model v3_0_0": ['Common Voice Thai v16_1', 'GlobalPhone Thai v3_1',
+                                       "Lotus Corpus v1_0", "Gowajee Corpus v0_9_3",
+                                       "Thai Elderly Speech dataset by Data Wow and VISAI v1_0_0",],
+    "Bulgarian MFA acoustic model v2_0_0": ['Common Voice Bulgarian v8_0', 'GlobalPhone Bulgarian v3_1'],
+    "Bulgarian MFA acoustic model v2_0_0a": ['Common Voice Bulgarian v9_0', 'GlobalPhone Bulgarian v3_1'],
+    "Croatian MFA acoustic model v2_0_0": ['Common Voice Serbian v8_0', 'GlobalPhone Croatian v3_1'],
+    "Croatian MFA acoustic model v2_0_0a": ['Common Voice Serbian v9_0', 'GlobalPhone Croatian v3_1'],
+    "Czech MFA acoustic model v2_0_0": ['Common Voice Czech v8_0', 'GlobalPhone Czech v3_1',
+                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+    "Czech MFA acoustic model v2_0_0a": ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
+                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+    "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
+    "Turkish MFA acoustic model v2_0_0a": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
+    "Ukrainian MFA acoustic model v2_0_0": ['Common Voice Ukrainian v8_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
+    "Ukrainian MFA acoustic model v2_0_0a": ['Common Voice Ukrainian v9_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
+    "Vietnamese MFA acoustic model v2_0_0": ['Common Voice Vietnamese v8_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+    "Vietnamese MFA acoustic model v2_0_0a": ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+}
+
+model_dictionary_mapping = {
+    "English MFA acoustic model v2_0_0": ["English (US) MFA dictionary v2_0_0",
+                                      "English (UK) MFA dictionary v2_0_0",
+                                          "English (Nigeria) MFA dictionary v2_0_0"],
+    "English MFA acoustic model v3_0_0": ["English (US) MFA dictionary v3_0_0",
+                                      "English (UK) MFA dictionary v3_0_0",
+                                          "English (Nigeria) MFA dictionary v3_0_0",
+                                          "English (India) MFA dictionary v3_0_0"],
+    "Vietnamese MFA acoustic model v2_0_0": ["Vietnamese (Hanoi) MFA dictionary v2_0_0",
+                                         "Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0",
+                                         "Vietnamese (Hue) MFA dictionary v2_0_0",
+                                         "Vietnamese MFA dictionary v2_0_0"],
+    "Spanish MFA acoustic model v2_0_0": ["Spanish (Latin America) MFA dictionary v2_0_0",
+                                         "Spanish (Spain) MFA dictionary v2_0_0",
+                                         "Spanish MFA dictionary v2_0_0"],
+    "Portuguese MFA acoustic model v2_0_0": ["Portuguese (Brazil) MFA dictionary v2_0_0",
+                                         "Portuguese (Portugal) MFA dictionary v2_0_0",
+                                         "Portuguese MFA dictionary v2_0_0"],
+    "Mandarin MFA acoustic model v2_0_0": ["Mandarin (China) MFA dictionary v2_0_0",
+                                         "Mandarin (Erhua) MFA dictionary v2_0_0",
+                                         "Mandarin (Taiwan) MFA dictionary v2_0_0"],
+}
 
 def make_path_safe(string):
     s = re.sub(r"[- .:()]+", '_', string.lower())
@@ -88,6 +272,7 @@ license_links = {
     'CC-0': 'https://creativecommons.org/publicdomain/zero/1.0/',
     'CC BY 4.0': 'https://creativecommons.org/licenses/by/4.0/',
     'CC BY 3.0': 'https://creativecommons.org/licenses/by/3.0/',
+    'CC BY-SA-NC 3.0': 'https://creativecommons.org/licenses/by-nc-sa/3.0/',
     'CC BY-NC-SA 4.0': 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
     'CC BY-NC-SA 3.0': 'https://creativecommons.org/licenses/by-nc-sa/3.0/',
     'CC BY-NC 4.0': 'https://creativecommons.org/licenses/by-nc/4.0/',
@@ -97,6 +282,7 @@ license_links = {
     'CC BY-NC-ND 3.0': 'https://creativecommons.org/licenses/by-nc-nd/3.0/',
     'Microsoft Research Data License': 'https://msropendata-web-api.azurewebsites.net/licenses/2f933be3-284d-500b-7ea3-2aa2fd0f1bb2/view',
     'Apache 2.0': 'https://www.apache.org/licenses/LICENSE-2.0',
+    'O-UDA v1.0': 'https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view',
     'MIT': 'https://opensource.org/licenses/MIT',
     'Public domain in the USA': 'https://creativecommons.org/share-your-work/public-domain/cc0/',
     'M-AILABS License': 'https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/',
@@ -204,6 +390,7 @@ language_links = {
     'Uyghur': ('Uyghur', 'https://en.wikipedia.org/wiki/Uyghur_language'),
     'Punjabi': ('Punjabi', 'https://en.wikipedia.org/wiki/Punjabi_language'),
     'Hindi': ('Hindi', 'https://en.wikipedia.org/wiki/Hindi_language'),
+    'Hindi-Urdu': ('Hindi-Urdu', 'https://en.wikipedia.org/wiki/Hindustani_language'),
     'Japanese': ('Japanese', 'https://en.wikipedia.org/wiki/Japanese_language'),
     'Korean': ('Korean', 'https://en.wikipedia.org/wiki/Korean_language'),
     'Polish': ('Polish', 'https://en.wikipedia.org/wiki/Polish_language'),
@@ -405,8 +592,7 @@ def generate_meta_data(model, model_type, language, dialect, version, phone_set)
             except KeyError:
                 dictionary_phone_set = 'UNKNOWN'
         dictionary = load_dict(model.path, model.name, phone_set_type=dictionary_phone_set)
-        with dictionary.session() as session:
-            word_count = len(dictionary.actual_words(session))
+        word_count = len(dictionary.actual_words)
         data = {
             'name': model.name,
             'language': language.title(),
@@ -592,7 +778,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'features': meta_data['features'],
                 'architecture': meta_data['architecture'],
-                'mfa_version': '2.1.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'license_link': meta_data['license_link'],
@@ -633,7 +819,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'features': meta_data.get('features','MFCC'),
                 'architecture': meta_data.get('architecture', 'ivector'),
-                'mfa_version': '2.1.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'license_link': meta_data['license_link'],
@@ -681,7 +867,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'version': meta_data['version'],
                 'maintainer': meta_data['maintainer'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.1.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'phone_set': meta_data['phone_set'],
@@ -689,7 +875,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'word_count': meta_data['word_count'],
                 'phone_set_link': phone_set_link,
             }
-        if meta_data['phone_set'] == 'MFA':
+        if meta_data['phone_set'] in {'MFA', 'ARPA'}:
             data['plain_link'] = f'https://raw.githubusercontent.com/MontrealCorpusTools/mfa-models/main/dictionary/{language.lower()}/mfa/{model_name}.dict'
         return data
     if model_type == 'g2p':
@@ -707,7 +893,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'version': meta_data['version'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.1.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'phone_set': meta_data['phone_set'],
@@ -729,7 +915,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'version': meta_data['version'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.2.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'training_details': training_details,
@@ -750,7 +936,7 @@ def extract_model_card_fields(meta_data, model_type):
                 'maintainer': meta_data['maintainer'],
                 'version': meta_data['version'],
                 'license_link': meta_data['license_link'],
-                'mfa_version': '2.1.0',
+                'mfa_version': CURRENT_MODEL_VERSION,
                 'date': meta_data['train_date'],
                 'citation': meta_data['citation'],
                 'training_details': training_details,
@@ -1093,6 +1279,7 @@ def check_phone(phone, feature_set, phone_set_type):
     else:
         return any(x in phone for x in feature_set)
 
+@profile
 def analyze_dictionary(dictionary_path, name, phone_set_type):
     d = load_dict(dictionary_path, name, phone_set_type=phone_set_type)
     dictionary_mapping = collections.defaultdict(set)
@@ -1168,19 +1355,19 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
         "pharyngeal": d.phone_set_type.pharyngeal,
         "epiglottal": d.phone_set_type.epiglottal,
         "glottal": d.phone_set_type.glottal,
-            "close":d.phone_set_type.close_vowels,
-            "close-mid":d.phone_set_type.close_mid_vowels,
-            "open-mid":d.phone_set_type.open_mid_vowels,
-            "open":d.phone_set_type.open_vowels,
-            "front":d.phone_set_type.front_vowels - {'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
-            "near-front":{'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
-            "central":d.phone_set_type.central_vowels,
-            "back":d.phone_set_type.back_vowels - {'ʊ', 'ɔ̈'},
-            "near-back":{'ʊ', 'ɔ̈'},
+            "close": d.phone_set_type.close_vowels,
+            "close-mid": d.phone_set_type.close_mid_vowels,
+            "open-mid": d.phone_set_type.open_mid_vowels,
+            "open": d.phone_set_type.open_vowels,
+            "front": d.phone_set_type.front_vowels - {'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
+            "near-front": {'ɪ', 'ʏ', 'ɛ̈', 'ʏ̈'},
+            "central": d.phone_set_type.central_vowels,
+            "back": d.phone_set_type.back_vowels - {'ʊ', 'ɔ̈'},
+            "near-back": {'ʊ', 'ɔ̈'},
             "rounded": d.phone_set_type.rounded_vowels,
-            "unrounded":d.phone_set_type.unrounded_vowels,
-            "lax":{'ɪ', 'ʏ', 'ʊ', 'ə', 'ɐ', 'æ', 'ɚ'},
-            "nasalized":{'ã', 'õ', 'ĩ', 'ũ', 'ẽ'},
+            "unrounded": d.phone_set_type.unrounded_vowels,
+            "lax": {'ɪ', 'ʏ', 'ʊ', 'ə', 'ɐ', 'æ', 'ɚ'},
+            "nasalized": {'ã', 'õ', 'ĩ', 'ũ', 'ẽ'},
             "other": {'kp', 'ɧ', 'ŋm'}
         }
         super_segmentals = {'tones': re.compile(r'[˩˨˧˦˥ˀ]+')}
@@ -1195,10 +1382,6 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
             ipa_mapping[k] = mod_phones | v
     extra_data = {}
     with d.session() as session:
-        words = session.query(Word).options(
-            subqueryload(Word.pronunciations)
-        ).filter(sqlalchemy.func.length(Word.word)> 2).filter(sqlalchemy.func.length(Word.word)< 6)
-        words = words.order_by(sqlalchemy.func.random())
         phones = session.query(Phone).filter(Phone.phone_type == PhoneType.non_silence)
         phone_counts = collections.Counter()
         pronunciations = session.query(Pronunciation.pronunciation)
@@ -1207,42 +1390,43 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
             phone_counts.update(p)
 
     total_phones = set()
+    triphthongs = d.phone_set_type.triphthong_phones
+    diphthongs = d.phone_set_type.diphthong_phones
     for phone in phones:
+        words = session.query(
+            Word.word, Pronunciation.pronunciation
+        ).join(
+            Word.pronunciations
+        ).filter(
+            sqlalchemy.func.length(Word.word) > 2,
+            sqlalchemy.func.length(Word.word) < 6,
+            Pronunciation.probability != None,  # noqa
+            Pronunciation.pronunciation.regexp_match(rf'\b{phone.phone}(?=\s|$)')
+        ).distinct().order_by(sqlalchemy.func.random()).limit(4)
         for super_seg, pattern in super_segmentals.items():
             phone_m = pattern.search(phone.phone)
             if phone_m:
                 dictionary_mapping[super_seg].add(phone_m.group(0))
                 counts = phone_counts[phone.phone]
                 examples = {}
-                for w in words:
-                    if w in examples:
-                        continue
-                    for pron in w.pronunciations:
-                        pron = pron.pronunciation
-                        if re.search(rf'\b{phone.phone}\b',pron):
-                            examples[w.word] = f"[{pron}]"
-                            break
-                    if len(examples) >= 4:
-                        break
+                for w, pron in words:
+                    examples[w] = f"[{pron}]"
                 phone = phone.phone.replace(phone_m.group(0), '')
                 if phone not in extra_data:
                     extra_data[phone] = {'Occurrences': 0, 'Examples': {}}
+                if isinstance(extra_data[phone]['Occurrences'], str):
+                    try:
+                        extra_data[phone]['Occurrences'] = int(extra_data[phone]['Occurrences'])
+                    except ValueError:
+                        extra_data[phone]['Occurrences'] = 0
                 extra_data[phone]['Occurrences'] += counts
                 extra_data[phone]['Examples'].update(examples)
                 break
         else:
-            extra_data[phone.phone] = {'Occurrences': f'{phone_counts[phone.phone]:,}', 'Examples': {}}
+            extra_data[phone.phone] = {'Occurrences': phone_counts[phone.phone], 'Examples': {}}
             phone = phone.phone
-            for w in words:
-                if w in extra_data[phone]['Examples']:
-                    continue
-                for pron in w.pronunciations:
-                    pron = pron.pronunciation
-                    if re.search(rf'\b{phone}\b',pron):
-                        extra_data[phone]['Examples'][w.word] = f"[{pron}]"
-                        break
-                if len(extra_data[phone]['Examples']) >= 4:
-                    break
+            for w, pron in words:
+                extra_data[phone]['Examples'][w] = f"[{pron}]"
         base_phone = d.get_base_phone(phone)
         query_set = {phone, base_phone}
         if base_phone in ipa_mapping['other']:
@@ -1255,6 +1439,9 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
         if '̃' in phone:
             dictionary_mapping["nasalized"].add(phone)
             base_phone = base_phone.replace('̃', '')
+        if '͈' in phone:
+            dictionary_mapping["tense"].add(phone)
+            dictionary_mapping["voiceless"].add(phone)
         if '̪' in phone:
             dictionary_mapping["dental"].add(phone)
         if any(x in phone for x in ['ⁿ', 'ᵑ', 'ᵐ']):
@@ -1271,9 +1458,6 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
         elif 'ʰ' in phone:
             dictionary_mapping["aspirated"].add(phone)
             dictionary_mapping["voiceless"].add(phone)
-        elif '͈' in phone:
-            dictionary_mapping["tense"].add(phone)
-            dictionary_mapping["voiceless"].add(phone)
         elif 'ʼ' in phone:
             dictionary_mapping["ejective"].add(phone)
             dictionary_mapping["voiceless"].add(phone)
@@ -1281,9 +1465,9 @@ def analyze_dictionary(dictionary_path, name, phone_set_type):
             dictionary_mapping["voiceless"].add(phone)
         if '̚' in phone:
             dictionary_mapping["unreleased"].add(phone)
-        if any(x in d.phone_set_type.diphthong_phones for x in query_set):
+        if any(x in diphthongs for x in query_set):
             dictionary_mapping["diphthong"].add(phone)
-        elif any(x in d.phone_set_type.triphthong_phones for x in query_set):
+        elif any(x in triphthongs for x in query_set):
             dictionary_mapping["triphthong"].add(phone)
         elif any(x in d.phone_set_type.affricates for x in query_set):
             dictionary_mapping["affricate"].add(phone)
@@ -1507,7 +1691,7 @@ for model_type, model_class in MODEL_TYPES.items():
             version = model.meta['version']
         except KeyError:
             version = montreal_forced_aligner.utils.get_mfa_version()
-        if version.startswith('2.'):
+        if version.startswith('2.') or version.startswith('3.'):
             version = CURRENT_MODEL_VERSION
         language = language.title()
         if len(dialect) == 2:
@@ -1531,7 +1715,7 @@ for model_type, model_class in MODEL_TYPES.items():
         if OVERWRITE_METADATA or not os.path.exists(meta_path):
             meta_data = generate_meta_data(model, model_type, language, dialect, version, phone_set)
             with open(meta_path, 'w', encoding='utf8') as f:
-                json.dump(meta_data, f, indent=4)
+                json.dump(meta_data, f, indent=4, ensure_ascii=False)
         else:
             with open(meta_path, 'r', encoding='utf8') as f:
                 meta_data = json.load(f)
@@ -1615,158 +1799,7 @@ for model_type, model_class in MODEL_TYPES.items():
                             model_mappings[model_type][key] = []
                         model_mappings[model_type][key].append(generate_id(meta_data, model_type))
 
-# Get corpus information
 
-current_corpora = {'english': ['Common Voice English v8_0', 'LibriSpeech English',
-                                          'Corpus of Regional African American Language v2021_07',
-                                          "Google Nigerian English", "Google UK and Ireland English",
-                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
-                               "A Scripted Pakistani English Daily-use Speech Corpus",
-                               "L2-ARCTIC"],
-                   'czech': ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
-                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
-                   'hausa': ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
-                   'swahili': ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
-                   'korean': ['GlobalPhone Korean v3_1',
-                                         'Deeply Korean read speech corpus public sample',
-                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
-                   'mandarin': ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
-                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
-                                           'GlobalPhone Chinese-Mandarin v3_1'],
-                   'japanese': ['Common Voice Japanese v9_0', 'GlobalPhone Japanese v3_1',
-                                           'Microsoft Speech Language Translation Japanese',
-                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
-                   'thai': ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
-                   'vietnamese': ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
-                   }
-
-model_corpus_mapping = {
-    "Abkhaz CV acoustic model v2_0_0": ['Common Voice Abkhaz v7_0'],
-    "Armenian CV acoustic model v2_0_0": ['Common Voice Armenian v7_0'],
-    "Bashkir CV acoustic model v2_0_0": ['Common Voice Bashkir v7_0'],
-    "Basque CV acoustic model v2_0_0": ['Common Voice Basque v7_0'],
-    "Belarusian CV acoustic model v2_0_0": ['Common Voice Belarusian v7_0'],
-    "Bulgarian CV acoustic model v2_0_0": ['Common Voice Bulgarian v7_0'],
-    "Chuvash CV acoustic model v2_0_0": ['Common Voice Chuvash v7_0'],
-    "Czech CV acoustic model v2_0_0": ['Common Voice Czech v7_0'],
-    "Dutch CV acoustic model v2_0_0": ['Common Voice Dutch v7_0'],
-    "Georgian CV acoustic model v2_0_0": ['Common Voice Georgian v7_0'],
-    "Greek CV acoustic model v2_0_0": ['Common Voice Greek v7_0'],
-    "Guarani CV acoustic model v2_0_0": ['Common Voice Guarani v7_0'],
-    "Hausa CV acoustic model v2_0_0": ['Common Voice Hausa v7_0'],
-    "Hungarian CV acoustic model v2_0_0": ['Common Voice Hungarian v7_0'],
-    "Italian CV acoustic model v2_0_0": ['Common Voice Italian v7_0'],
-    "Kazakh CV acoustic model v2_0_0": ['Common Voice Kazakh v7_0'],
-    "Kurmanji CV acoustic model v2_0_0": ['Common Voice Kurmanji v7_0'],
-    "Kyrgyz CV acoustic model v2_0_0": ['Common Voice Kyrgyz v7_0'],
-    "Polish CV acoustic model v2_0_0": ['Common Voice Polish v7_0'],
-    "Portuguese CV acoustic model v2_0_0": ['Common Voice Portuguese v7_0'],
-    "Romanian CV acoustic model v2_0_0": ['Common Voice Romanian v7_0'],
-    "Russian CV acoustic model v2_0_0": ['Common Voice Russian v7_0'],
-    "Sorbian (Upper) CV acoustic model v2_0_0": ['Common Voice Sorbian Upper v7_0'],
-    "Swedish CV acoustic model v2_0_0": ['Common Voice Swedish v7_0'],
-    "Tamil CV acoustic model v2_0_0": ['Common Voice Tamil v7_0'],
-    "Tatar CV acoustic model v2_0_0": ['Common Voice Tatar v7_0'],
-    "Thai CV acoustic model v2_0_0": ['Common Voice Thai v7_0'],
-    "Turkish CV acoustic model v2_0_0": ['Common Voice Turkish v7_0'],
-    "Ukrainian CV acoustic model v2_0_0": ['Common Voice Ukrainian v7_0'],
-    "Uyghur CV acoustic model v2_0_0": ['Common Voice Uyghur v7_0'],
-    "Uzbek CV acoustic model v2_0_0": ['Common Voice Uzbek v7_0'],
-    "Vietnamese CV acoustic model v2_0_0": ['Common Voice Vietnamese v7_0'],
-    "English (US) ARPA acoustic model v2_0_0": ['LibriSpeech English'],
-    "English (US) ARPA acoustic model v2_0_0a": ['LibriSpeech English'],
-    "English MFA acoustic model v2_0_0": ['Common Voice English v8_0', 'LibriSpeech English',
-                                          'Corpus of Regional African American Language v2021_07',
-                                          "Google Nigerian English", "Google UK and Ireland English",
-                                          "NCHLT English", "ARU English corpus"],
-    "English MFA acoustic model v2_0_0a": ['Common Voice English v8_0', 'LibriSpeech English',
-                                          'Corpus of Regional African American Language v2021_07',
-                                          "Google Nigerian English", "Google UK and Ireland English",
-                                          "NCHLT English", "ARU English corpus"],
-    "English MFA acoustic model v2_2_1": ['Common Voice English v8_0', 'LibriSpeech English',
-                                          'Corpus of Regional African American Language v2021_07',
-                                          "Google Nigerian English", "Google UK and Ireland English",
-                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
-                               "A Scripted Pakistani English Daily-use Speech Corpus",
-                               "L2-ARCTIC"],
-    "English MFA ivector extractor v2_1_0": current_corpora['english'],
-    "Multilingual MFA ivector extractor v2_1_0": [x for k in ['english', 'czech', 'hausa', 'swahili', 'thai', 'vietnamese', 'japanese', 'mandarin'] for x in current_corpora[k]],
-    "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
-                                         'African-accented French'],
-    "French MFA acoustic model v2_0_0a": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
-                                         'African-accented French'],
-    "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
-    "German MFA acoustic model v2_0_0a": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
-    "Japanese MFA acoustic model v2_0_1a": ['Common Voice Japanese v12_0', 'GlobalPhone Japanese v3_1',
-                                           'Microsoft Speech Language Translation Japanese',
-                                            'Japanese Versatile Speech', 'TEDxJP-10K v1_1'],
-    "Hausa MFA acoustic model v2_0_0": ['Common Voice Hausa v8_0', 'GlobalPhone Hausa v3_1'],
-    "Hausa MFA acoustic model v2_0_0a": ['Common Voice Hausa v9_0', 'GlobalPhone Hausa v3_1'],
-    "Mandarin MFA acoustic model v2_0_0": ['Common Voice Chinese (China) v8_0', 'Common Voice Chinese (Taiwan) v8_0',
-                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30'],
-    "Mandarin MFA acoustic model v2_0_0a": ['Common Voice Chinese (China) v9_0', 'Common Voice Chinese (Taiwan) v9_0',
-                                           'AI-DataTang Corpus', 'AISHELL-3', 'THCHS-30',
-                                           'GlobalPhone Chinese-Mandarin v3_1'],
-    "Korean MFA acoustic model v2_0_0": ['GlobalPhone Korean v3_1',
-                                         'Deeply Korean read speech corpus public sample',
-                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
-    "Korean MFA acoustic model v2_0_0a": ['GlobalPhone Korean v3_1',
-                                         'Deeply Korean read speech corpus public sample',
-                                         'Pansori TEDxKR', 'Zeroth Korean', 'Seoul Corpus'],
-    "Polish MFA acoustic model v2_0_0": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
-    "Polish MFA acoustic model v2_0_0a": ['Common Voice Polish v8_0', 'Multilingual LibriSpeech Polish', 'M-AILABS Polish', 'GlobalPhone Polish v3_1'],
-    "Portuguese MFA acoustic model v2_0_0": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
-                                             'GlobalPhone Portuguese (Brazilian) v3_1'],
-    "Portuguese MFA acoustic model v2_0_0a": ['Common Voice Portuguese v8_0', 'Multilingual LibriSpeech Portuguese',
-                                             'GlobalPhone Portuguese (Brazilian) v3_1'],
-    "Russian MFA acoustic model v2_0_0": ['Common Voice Russian v8_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
-    "Russian MFA acoustic model v2_0_0a": ['Common Voice Russian v9_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
-    "Spanish MFA acoustic model v2_0_0": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
-                                          "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
-                                          "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
-    "Spanish MFA acoustic model v2_0_0a": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
-                                          "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
-                                          "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
-    "Swahili MFA acoustic model v2_0_0": ['Common Voice Swahili v8_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
-    "Swahili MFA acoustic model v2_0_0a": ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
-    "Swedish MFA acoustic model v2_0_0": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
-    "Swedish MFA acoustic model v2_0_0a": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
-    "Thai MFA acoustic model v2_0_0": ['Common Voice Thai v8_0', 'GlobalPhone Thai v3_1'],
-    "Thai MFA acoustic model v2_0_0a": ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
-    "Bulgarian MFA acoustic model v2_0_0": ['Common Voice Bulgarian v8_0', 'GlobalPhone Bulgarian v3_1'],
-    "Bulgarian MFA acoustic model v2_0_0a": ['Common Voice Bulgarian v9_0', 'GlobalPhone Bulgarian v3_1'],
-    "Croatian MFA acoustic model v2_0_0": ['Common Voice Serbian v8_0', 'GlobalPhone Croatian v3_1'],
-    "Croatian MFA acoustic model v2_0_0a": ['Common Voice Serbian v9_0', 'GlobalPhone Croatian v3_1'],
-    "Czech MFA acoustic model v2_0_0": ['Common Voice Czech v8_0', 'GlobalPhone Czech v3_1',
-                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
-    "Czech MFA acoustic model v2_0_0a": ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
-                                        "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
-    "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
-    "Turkish MFA acoustic model v2_0_0a": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
-    "Ukrainian MFA acoustic model v2_0_0": ['Common Voice Ukrainian v8_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
-    "Ukrainian MFA acoustic model v2_0_0a": ['Common Voice Ukrainian v9_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
-    "Vietnamese MFA acoustic model v2_0_0": ['Common Voice Vietnamese v8_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
-    "Vietnamese MFA acoustic model v2_0_0a": ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
-}
-
-model_dictionary_mapping = {
-    "English MFA acoustic model v2_0_0": ["English (US) MFA dictionary v2_0_0",
-                                      "English (UK) MFA dictionary v2_0_0",
-                                          "English (Nigeria) MFA dictionary v2_0_0"],
-    "Vietnamese MFA acoustic model v2_0_0": ["Vietnamese (Hanoi) MFA dictionary v2_0_0",
-                                         "Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0",
-                                         "Vietnamese (Hue) MFA dictionary v2_0_0",
-                                         "Vietnamese MFA dictionary v2_0_0"],
-    "Spanish MFA acoustic model v2_0_0": ["Spanish (Latin America) MFA dictionary v2_0_0",
-                                         "Spanish (Spain) MFA dictionary v2_0_0",
-                                         "Spanish MFA dictionary v2_0_0"],
-    "Portuguese MFA acoustic model v2_0_0": ["Portuguese (Brazil) MFA dictionary v2_0_0",
-                                         "Portuguese (Portugal) MFA dictionary v2_0_0",
-                                         "Portuguese MFA dictionary v2_0_0"],
-    "Mandarin MFA acoustic model v2_0_0": ["Mandarin (China) MFA dictionary v2_0_0",
-                                         "Mandarin (Erhua) MFA dictionary v2_0_0",
-                                         "Mandarin (Taiwan) MFA dictionary v2_0_0"],
-}
 
 if 'dictionary' in meta_datas:
     for k in model_corpus_mapping.keys():
@@ -1803,6 +1836,8 @@ if os.path.exists(corpus_metadata_file):
     with open(corpus_metadata_file, 'r', encoding='utf8') as f:
         data = json.load(f)
     for language, c_list in data.items():
+        if language == "Hindi-Urdu":
+            continue
         for c in c_list:
             name = c['name']
             if 'version' in c:

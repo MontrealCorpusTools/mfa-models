@@ -1,0 +1,16 @@
+{
+    "name": "korean_mfa",
+    "language": "Korean",
+    "dialect": "",
+    "phone_set": "MFA",
+    "version": "3.0.0",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "citation": "@techreport{mfa_korean_mfa_acoustic_2024,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Korean MFA acoustic model v3.0.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Korean/Korean MFA acoustic model v3_0_0.html}},\n\tyear={2024},\n\tmonth={Feb},\n}",
+    "license": "CC BY 4.0",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/korean/mfa/v3.0.0/LICENSE)",
+    "architecture": "gmm-hmm",
+    "features": "MFCC",
+    "evaluation": {},
+    "decode": {},
+    "train_date": "2024-02-17"
+}

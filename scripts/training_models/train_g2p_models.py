@@ -2,11 +2,14 @@ import os.path
 import re
 
 from montreal_forced_aligner.command_line.mfa import mfa_cli
+from montreal_forced_aligner.config import TEMPORARY_DIRECTORY
+
+MODEL_VERSION = '3.0.0'
 
 root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 dictionary_dir = os.path.join(root_dir, 'dictionary', 'training')
 output_dir = os.path.join(root_dir, 'g2p', 'staging')
-temp_dir = os.path.join(root_dir, 'scripts', 'temp')
+temp_dir = TEMPORARY_DIRECTORY
 os.makedirs(output_dir, exist_ok=True)
 
 class DefaultArgs:
@@ -34,6 +37,7 @@ lang_codes = ['czech', 'russian',
               'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_ho_chi_minh_city',
                'ukrainian', 'polish', 'croatian', 'bulgarian',
               'japanese',
+              'japanese_katakana',
                 #'mandarin_china', 'mandarin_erhua', 'mandarin_taiwan'
               'tamil',
               'hindi',
@@ -42,13 +46,8 @@ lang_codes = ['czech', 'russian',
               ]
 
 lang_codes = [
-              'english_nigeria',
-    'english_india', 'english_us','english_uk',
-              #'japanese',
-              #'tamil',
-              #'hindi',
-              #'urdu',
-                #'mandarin_china', 'mandarin_erhua', 'mandarin_taiwan'
+              'mandarin_china', 'mandarin_taiwan',
+              'mandarin_china_pinyin', 'mandarin_taiwan_pinyin'
               ]
 
 
@@ -86,10 +85,40 @@ if __name__ == '__main__':
         print(model_path)
         if os.path.exists(model_path):
             error_metrics[lang] = get_error_rates(lang)
+            if lang == 'korean':
+                error_metrics[lang + '_jamo'] = get_error_rates(lang + '_jamo')
             continue
         unknown= []
         if not os.path.exists(dictionary_path):
             continue
+
+        if lang == 'korean':
+            import jamo
+            jamo_dict_path = os.path.join(dictionary_dir, lang + '_jamo_mfa.dict')
+            jamo_model_path = os.path.join(output_dir, lang + '_jamo_mfa.zip')
+            with open(dictionary_path, 'r', encoding='utf8') as inf, open(jamo_dict_path, 'w', encoding='utf8') as outf:
+                for line in inf:
+                    word, pron = line.split('\t')
+                    if re.search(r'[a-zA-Z]+', word):
+                        continue
+                    jamoed_word = jamo.h2j(word)
+                    outf.write(f"{jamoed_word}\t{pron}")
+            command = ['train_g2p',
+                       jamo_dict_path,
+                       jamo_model_path,
+                       '--clean',
+                       '-j', '10',
+                       '--use_mp',
+                       '--evaluate',
+                       '--num_pronunciations', '2',
+                       '--phonetisaurus',
+                       '--model_version', MODEL_VERSION,
+                       ]
+            if lang in {'mandarin_china', 'mandarin_taiwan'}:
+                command += ['--phone_order', '4']
+            mfa_cli(command, standalone_mode=False)
+
+            error_metrics[lang + '_jamo'] = get_error_rates(lang + '_jamo')
         command = ['train_g2p',
                    dictionary_path,
                    model_path,
@@ -99,6 +128,7 @@ if __name__ == '__main__':
                    '--evaluate',
                    '--num_pronunciations', '2',
                    '--phonetisaurus',
+                   '--model_version', MODEL_VERSION,
                    ]
         mfa_cli(command, standalone_mode=False)
 

@@ -1,6 +1,6 @@
 # MFA IPA phone set
 
-For its IPA models, MFA uses an opinionated IPA phone set.  This page will cataloge the way that phones are represented across languages (and note any deviations from them).  The guiding principle is to have general consistency in phones across languages, but allow for phonetic specification where it A) matters for the language and B) aids the aligner in assigning HMM states to phones.
+For its IPA models, MFA uses an opinionated IPA phone set.  This page will catalog the way that phones are represented across languages (and note any deviations from them).  The guiding principle is to have general consistency in phones across languages, but allow for phonetic specification where it A) matters for the language and B) aids the aligner in assigning HMM states to phones.
 
 For most languages, dictionaries were constructed from the [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape) scraped dictionaries.  However, given that they are crowd-sourced transcriptions from [Wiktionary](https://en.wiktionary.org/), there was a fair bit of noise to clean up.
 
@@ -47,7 +47,7 @@ I am unfamiliar with many of the languages and dialects below, and have largely 
 ```
 ## Consonants
 
-* **Palatalized consonants:** If a language has palatalized consonants, these have been replaced by palatal consonats:
+* **Palatalized consonants:** If a language has palatalized consonants, these have been replaced by palatal consonants:
   * {ipa_inline}`[lʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[ʎ]`
   * {ipa_inline}`[nʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɲ]`
   * {ipa_inline}`[kʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[c]`
@@ -110,7 +110,7 @@ Unchanged from their representation in [Wikipron](https://github.com/CUNY-CL/wik
 The primary deviations from standard symbols have been to bring English more in line with other languages.
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`english_(nigeria)_mfa_dictionary_v2_0_0`, {ref}`english_(uk)_mfa_dictionary_v2_0_0`, and {ref}`english_(us)_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`english_(india)_mfa_dictionary_v3_0_0`, {ref}`english_(nigeria)_mfa_dictionary_v3_0_0`, {ref}`english_(uk)_mfa_dictionary_v3_0_0`, and {ref}`english_(us)_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### English consonants
@@ -129,7 +129,7 @@ The primary deviations from standard symbols have been to bring English more in 
   * {ipa_inline}`[k]` {ipa_icon}`right-arrow` {ipa_inline}`[kʰ]`
 * **Flapping (US only):** Changed {ipa_inline}`[t d]` tokens to {ipa_inline}`[ɾ]` in unstressed syllables, except after nasals
   * {ipa_inline}`rapidity [ɹ ə pʰ ɪ ɾ ɪ ɾ i]`
-* **Intervocalic {ipa_inline}`/t/` glottalization (UK only):** Added pronunciation variants for {ipa_inline}`[t]` {ipa_icon}`right-arrow`  {ipa_inline}`[ʔ]` in unstressed syllables, except after nasals and obstrucents
+* **Intervocalic {ipa_inline}`/t/` glottalization (UK only):** Added pronunciation variants for {ipa_inline}`[t]` {ipa_icon}`right-arrow`  {ipa_inline}`[ʔ]` in unstressed syllables, except after nasals and obstruents
   * {ipa_inline}`butter [b ɐ t ə] ~ [b ɐ ʔ ə]`
 * **Word-final {ipa_inline}`/t/` glottalization (all dialects):** Added pronunciation variants for word-final {ipa_inline}`[ʔ]` after vowels and liquids
   * {ipa_inline}`right [ɹ aj t] ~ [ɹ aj ʔ]`
@@ -161,13 +161,16 @@ The primary deviations from standard symbols have been to bring English more in 
 The Nigerian English was based on the UK dictionary, with some significant modifications. I have tried to largely follow Ulrike B. Gut's book chapter on Nigerian English phonology[^Gut_2008], as that is what is predominately cited in other resources like the [OED](https://public.oed.com/how-to-use-the-oed/key-to-pronunciation/pronunciations-for-world-englishes/pronunciation-model-west-african-english/).
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`english_(nigeria)_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`english_(nigeria)_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Nigerian English consonants
 
 * **Silent consonants:** Silent consonants in words like {ipa_inline}`bomb`, {ipa_inline}`numb`, etc are realized, i.e. {ipa_inline}`[b ɔ m b]`
 * **Realization of unstressed {ipa_inline}`[t]`:** Realized as {ipa_inline}`[t]` rather than {ipa_inline}`[ʔ]` in the UK dictionary
+* Borrowed labial-velar stops (As of 3.0.0)
+  * {ipa_inline}`ogbomosho [ɔ ɡb o m o ʃ o]`
+  * {ipa_inline}`ukpabi [ʊ kp a bʲ i]`
 
 ##### Nigerian English vowels
 
@@ -204,12 +207,53 @@ The Nigerian English was based on the UK dictionary, with some significant modif
   * {ipa_inline}`wonderful  [w ɔ n d a f ʊ ɫ]`
   * {ipa_inline}`legible [l ɛ dʒ i b ʊ ɫ]`
 
+#### Indian English
+
+The Indian English dictionary is largely based on the UK dictionary with modifications following the [Wikipedia page on Indian English phonology](https://en.wikipedia.org/wiki/Indian_English#Phonology).
+
+```{admonition} Pronunciation dictionaries
+   See {ref}`english_(india)_mfa_dictionary_v3_0_0` for full IPA charts.
+```
+
+#### Indian English consonants
+
+* **Retroflex alveolar stops:**
+  * {ipa_inline}`[t]` {ipa_icon}`right-arrow` {ipa_inline}`[ʈ]`
+  * {ipa_inline}`[d]` {ipa_icon}`right-arrow` {ipa_inline}`[ɖ]`
+* Labiodental realization of {ipa_inline}`[w]`
+  * {ipa_inline}`whale [w eː l]` {ipa_icon}`right-arrow` {ipa_inline}`[ʋ eː l]`
+* Stopped realization of dental fricatives
+  * {ipa_inline}`other [ə ð ə]` {ipa_icon}`right-arrow` {ipa_inline}`[ə d̪ ə]`
+  * {ipa_inline}`think [θ ɪ ŋ k]` {ipa_icon}`right-arrow` {ipa_inline}`[t̪ ɪ ŋ k]`
+
+##### Indian English vowels
+
+* {lexical_set}`face`: {ipa_inline}`[eː]`
+* {lexical_set}`goat`: {ipa_inline}`[oː]`
+* {lexical_set}`trap`: {ipa_inline}`[a]`
+* {lexical_set}`strut`: {ipa_inline}`[ə]`
+* Added pronunciation variants for flapping of final rhotic schwa
+  * {ipa_inline}`never [n ɛ ʋ ə]` {ipa_icon}`right-arrow` {ipa_inline}`[n ɛ ʋ ə ɾ]`
+
+#### English phone groups
+
+```{admonition} Phone group configuration
+   See [English phone group configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/phone_groups/english.yaml) for exact specification.
+```
+
+
+#### English phonological rules
+
+```{admonition} Phonological rule configuration
+   See [English phonological rule configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/rules/english.yaml) for exact specification.
+```
+
 ### Hausa
 
 Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_language#Phonology).
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`hausa_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`hausa_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Hausa vowels
@@ -220,7 +264,11 @@ Largely followed the [Hausa phonology wiki](https://en.wikipedia.org/wiki/Hausa_
 
 ### Japanese
 
-Japanese does not represent word breaks in text, and is a heavily aggultinative language, so a pronunciation dictionary with discrete pronunciations isn't the best model for it.  As such for the purposes of building a lexicon and acoustic model, I used the {xref}`nagisa` morphological analyzer to split text for all corpora, even ones where there was some word break information to be consistent. However some postprocessing of the nagisa-split transcripts was necessary:
+```{admonition} Tokenization
+  The {ref}`japanese_mfa_acoustic_model_v3_0_0` tokenizes transcripts automatically using sudachipy rather than relying on pre-tokenized transcripts.  The changes below are implemented in [montreal_forced_aligner.tokenization.japanese](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/blob/main/montreal_forced_aligner/tokenization/japanese.py).
+```
+
+Japanese does not represent word breaks in text, and is a heavily agglutinative language, so a pronunciation dictionary with discrete pronunciations isn't the best model for it.  As such for the purposes of building a lexicon and acoustic model, I used the {xref}`nagisa` morphological analyzer to split text for all corpora, even ones where there was some word break information to be consistent. However some postprocessing of the nagisa-split transcripts was necessary:
 
 * If a "word" ended in {ipa_inline}`っ` (chisai-tsu), then the following "word" was appended
   * {ipa_inline}`行っ て` {ipa_icon}`right-arrow` {ipa_inline}`行って`
@@ -229,11 +277,11 @@ Japanese does not represent word breaks in text, and is a heavily aggultinative 
   * {ipa_inline}`一 つ` {ipa_icon}`right-arrow` {ipa_inline}`一つ`
   * Native counters with {ipa_inline}`つ` result in wholesale changes to the pronunciation, e.g. {ipa_inline}`一 [i tɕ i]` {ipa_inline}`一つ [ç i̥ t o ts ɨ]`
 * Any roman numerals were converted to Kanji
-  * {ipa_inline}`2010年` {ipa_icon}`right-arrow` {ipa_inline}`二千 二十 年`
+  * {ipa_inline}`2010年` {ipa_icon}`right-arrow` {ipa_inline}`二千二十年`
 * Kanji pronunciations try to include all onyomi and kunyomi variants in case there's an issue with the morphological parse
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`japanese_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`japanese_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Japanese consonants
@@ -274,17 +322,60 @@ Japanese does not represent word breaks in text, and is a heavily aggultinative 
   * {ipa_inline}`すき [s ɨ̥ c i]`
   * High frequency words like {ipa_inline}`です`, {ipa_inline}`ます`, etc. have a pronunciation variant with devoiced final vowel {ipa_inline}`です [d e s ɨ̥] ~ [d e s ɨ]`
 
+#### Japanese phone groups
+
+```{admonition} Phone group configuration
+   See [Japanese phone group configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/phone_groups/japanese.yaml) for exact specification.
+```
+
+#### Japanese phonological rules
+
+```{admonition} Phonological rule configuration
+   See [Japanese phonological rule configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/rules/japanese.yaml) for exact specification.
+```
+
+* High vowel devoicing between voiceless obstruents
+  * {ipa_inline}`好き [s ɨ c i]` {ipa_icon}`right-arrow` {ipa_inline}`[s ɨ̥ c i]`
+  * {ipa_inline}`しかし [ɕ i k a ɕ i]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ i̥ k a ɕ i]`
+  * {ipa_inline}`ふたつ [ɸ ɯ t a ts ɨ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɸ ɯ̥ t a ts ɨ]`
+* High vowel deletion between voiceless obstruents
+  * {ipa_inline}`好き [s ɨ c i]` {ipa_icon}`right-arrow` {ipa_inline}`[s c i]`
+  * {ipa_inline}`しかし [ɕ i k a ɕ i]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ k a ɕ i]`
+  * {ipa_inline}`ふたつ [ɸ ɯ t a ts ɨ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɸ t a ts ɨ]`
+* High vowel devoicing word-finally
+  * {ipa_inline}`しかし [ɕ k a ɕ i]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ k a ɕ i̥]`
+  * {ipa_inline}`です [d e s ɨ]` {ipa_icon}`right-arrow` {ipa_inline}`[d e s ɨ̥]`
+  * {ipa_inline}`とにかく [t o ɲ i k a k ɯ]` {ipa_icon}`right-arrow` {ipa_inline}`[t o ɲ i k a k ɯ̥]`
+* High vowel deletion word-finally
+  * {ipa_inline}`しかし [ɕ k a ɕ i]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ k a ɕ]`
+  * {ipa_inline}`です [d e s ɨ]` {ipa_icon}`right-arrow` {ipa_inline}`[d e s]`
+  * {ipa_inline}`とにかく [t o ɲ i k a k ɯ]` {ipa_icon}`right-arrow` {ipa_inline}`[t o ɲ i k a k]`
+
 ### Korean
+
+```{admonition} Tokenization
+  The {ref}`korean_mfa_acoustic_model_v3_0_0` tokenizes transcripts automatically using python-mecab-ko rather than relying on pre-tokenized transcripts.  There are some additional rules implemented in [montreal_forced_aligner.tokenization.korean](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/blob/main/montreal_forced_aligner/tokenization/korean.py).
+```
 
 I have largely followed the [Korean Phonology Wikipedia page](https://en.wikipedia.org/wiki/Korean_phonology). Given the agglutinative nature of Korean, I have standardized text in corpora by processing them through the {xref}`mecab_ko` morphological parser using the {xref}`konlpy` package.  Additionally,  I have included G2P pronunciations of  the phonological transcriptions in :need:`Seoul Corpus`.
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`korean_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`korean_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Korean consonants
 
-* **Palatalization:** {ipa_inline}`ㅅ [s sʰ]` and {ipa_inline}`ㅆ [s͈]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ ɕʰ]` and {ipa_inline}`[ɕ͈ ]` before {ipa_inline}`[i j]`
+* **Palatalization:**
+  * {ipa_inline}`ㅅ [s sʰ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɕ ɕʰ]` and {ipa_inline}`ㅆ [s͈]`{ipa_icon}`right-arrow` {ipa_inline}`[ɕ ɕʰ]` {ipa_inline}`[ɕ͈ ]` before {ipa_inline}`[i j]`
+  * Diphthongs with onglides ({ipa_inline}`ㅖ ㅒ ㅑ ㅛ ㅠ ㅕ ㅟ ㅞ ㅙ ㅘ ㅝ`) are realized as palatalization or labialization on the preceding segment rather than separate glide (As of version 3.0.0)
+    * {ipa_inline}`려 [ɾ j ʌ]` {ipa_icon}`right-arrow` {ipa_inline}`[ɾʲ ʌ]`
+    * {ipa_inline}`쇠사슬 [sʰ w e sʰ ɐ sʰ ɨ ɭ]` {ipa_icon}`right-arrow` {ipa_inline}`[sʷ e sʰ ɐ sʰ ɨ ɭ]`
+  * Segments preceding {ipa_inline}`[i j]` are realized as palatalized (As of version 3.0.0)
+    * {ipa_inline}`기업 [k i ʌ p̚]` {ipa_icon}`right-arrow` {ipa_inline}`[c i ʌ p̚]`
+    * {ipa_inline}`미터 [m i tʰ ʌ]` {ipa_icon}`right-arrow` {ipa_inline}`[mʲ i tʰ ʌ]`
+* **Gemination**
+  * Sequences of unreleased stops following by same place obstruents are realized as long consonants (As of version 3.0.0)
+    * {ipa_inline}`체육관 [tɕʰ e j u k̚ kʷ ɐ n]` {ipa_icon}`right-arrow` {ipa_inline}`[tɕʰ e j u kʷː ɐ n]`
 * **Realizations of {ipa_inline}`ㅎ /h/`**:
   * {ipa_inline}`[ç]` word-initially before {ipa_inline}`[i j]`
   * {ipa_inline}`[ʝ]` intervocalically before {ipa_inline}`[i j]`
@@ -303,7 +394,6 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
 
 * **{ipa_inline}`[a]`-raising:** Open vowels are transcribed with as {ipa_inline}`[ɐ]`
 * **{ipa_inline}`/ɯ/`-fronting:** {ipa_inline}`/ɯ/` is transcribed as {ipa_inline}`/ɨ/`
-* **{ipa_inline}`/e/`-{ipa_inline}`/ɛ/` merger:** Instances of {ipa_inline}`[e]` and {ipa_inline}`[ɛ]` have been merged to {ipa_inline}`[e]`
 * **Vowel length:** Vowel length marking is retained as sourced from [Wikipron](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/kor_hang_narrow_filtered.tsv); however, it seems like it's completely neutralized in modern Korean
 * **Diphthongs:** Diphthongs are transcribed as sequences of independent glide + vowel combinations
   * {ipa_inline}`가격의 [k ɐ ɡ j ʌ ɡ ɰ i]`
@@ -311,16 +401,47 @@ I have largely followed the [Korean Phonology Wikipedia page](https://en.wikiped
   * {ipa_inline}`가두녀성 [k ɐ d u ɲ j ʌ sʰ ʌ ŋ]`
   * {ipa_inline}`가시화될 [k ɐ ɕʰ i β w ɐ d w e ɭ]`
 
+#### Korean Phone groups
+
+```{admonition} Phone group configuration
+   See [Korean phone group configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/phone_groups/korean.yaml) for exact specification.
+```
+
+#### Korean phonological rules
+
+```{admonition} Phonological rule configuration
+   See [Korean phonological rule configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/rules/korean.yaml) for exact specification.
+```
+
+* Deletion of unreleased stops word-finally
+  * {ipa_inline}`기획 [c i βʷ e k̚]` {ipa_icon}`right-arrow` {ipa_inline}`[c i βʷ e]`
+* Deletion of unreleased stops before obstruents with other places
+  * {ipa_inline}`낙찰 [n ɐ k̚ tɕʰ ɐ ɭ]` {ipa_icon}`right-arrow` {ipa_inline}`[n ɐ tɕʰ ɐ ɭ]`
+* Deletion of {ipa_inline}`/h/` after {ipa_inline}`/n/`
+  * {ipa_inline}`뻔히 [p͈ ʌ n ʝ i]` {ipa_icon}`right-arrow` {ipa_inline}`[p͈ ʌ ɲ i]`
+  * {ipa_inline}`분할 [p u n h ɐ ɭ]` {ipa_icon}`right-arrow` {ipa_inline}`[p u n ɐ ɭ]`
+* Denasalization of {ipa_inline}`m n` word-initially
+  * {ipa_inline}`낙찰 [n ɐ k̚ tɕʰ ɐ ɭ]` {ipa_icon}`right-arrow` {ipa_inline}`[d ɐ k̚ tɕʰ ɐ ɭ]`]
+  * {ipa_inline}`밑 [mʲ i t̚]` {ipa_icon}`right-arrow` {ipa_inline}`[bʲ i t̚]`
+* Affrication of palatalized alveolar stops
+  * {ipa_inline}`버팀목 [p ʌ tʲ i mː o k̚]` {ipa_icon}`right-arrow` {ipa_inline}`[p ʌ tɕʰ i mː o k̚]`
+  * {ipa_inline}`부디 [p u dʲ i]` {ipa_icon}`right-arrow` {ipa_inline}`[p u dʑ i]`
+
 ### Mandarin
 
-Orthographic text transcriptions for Manadarin were segmented with the {xref}`spacy_pkuseg` package. Orthographic texts for Mainland Chinese corpora, {ref}`mandarin_(china)_mfa_dictionary_v2_0_0`, and {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0`  use simplified characters, while corpora for Taiwanese Mandarin and {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0` use traditional characters (converted where necessary with {xref}`hanziconv`. Roman numerals were converted to Chinese characters via {xref}`num2chinese`.
+```{admonition} Tokenization
+  The {ref}`mandarin_mfa_acoustic_model_v3_0_0` tokenizes transcripts automatically using spacy-pkuseg rather than relying on pre-tokenized transcripts. There are some additional rules implemented in [montreal_forced_aligner.tokenization.chinese](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/blob/main/montreal_forced_aligner/tokenization/chinese.py).
+```
 
-Building the Mandarin dictionaries followed a slightly different process than the other dictionaries.  The base [Wikipron dictionary](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/cmn_hani_broad.tsv) contains forms collapsed across various dialects of Mandarin, as "Mandarin" itself functions as the dialect of Chinese on Wiktionary. I wrote a custom scraping script that funneled pronunciations into three dictionaries. If a pronunciation was marked with "Taiwan" or "Erhua", then it is present only in those respective dictionaries. Any pronunciation marked with just "Standard Chinese" was added to all dictionaries.
+
+Orthographic text transcriptions for Mandarin were segmented with the {xref}`spacy_pkuseg` package. Orthographic texts for Mainland Chinese corpora, {ref}`mandarin_(china)_mfa_dictionary_v2_0_0`, and {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0`  use simplified characters, while corpora for Taiwanese Mandarin and {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0` use traditional characters (converted where necessary with {xref}`hanziconv`). Roman numerals were converted to Chinese characters via {xref}`num2chinese`.  As of 3.0, erhua pronunciations have been combined into {ref}`mandarin_(china)_mfa_dictionary_v3_0_0`.
+
+Building the Mandarin dictionaries followed a slightly different process than the other dictionaries.  The base [Wikipron dictionary](https://github.com/CUNY-CL/wikipron/blob/master/data/scrape/tsv/cmn_hani_broad.tsv) contains forms collapsed across various dialects of Mandarin, as "Mandarin" itself functions as the dialect of Chinese on Wiktionary. I wrote a custom scraping script that funneled pronunciations into three dictionaries. Prior to 3.0 models, if a pronunciation was marked with "Taiwan" or "Erhua", then it is present only in those respective dictionaries. In 3.0 models, erhua pronunciations are included in {ref}`mandarin_(china)_mfa_dictionary_v3_0_0` without a separate dictionary. Any pronunciation marked with just "Standard Chinese" was added to all dictionaries.
 
 For generating new pronunciations, the standard G2P process used for other languages does not work well (single characters correspond to multiple phones in a non-decomposable way). To get around this, I wrote a  custom script that assigns syllables to characters and compiles frequency representations of each character and all sequences of characters. Pronunciations generated for a novel compound is the combination of the longest matched subsequences. There are likely errors from tone sandhi or other phonological effects, but they should be represented by at least one combination of pronunciations, and by reusing common longer sequences, but it's definitely not perfect.
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`mandarin_(china)_mfa_dictionary_v2_0_0`, {ref}`mandarin_(erhua)_mfa_dictionary_v2_0_0`, and {ref}`mandarin_(taiwan)_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`mandarin_(china)_mfa_dictionary_v3_0_0`,and {ref}`mandarin_(taiwan)_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Mandarin consonants
@@ -332,6 +453,22 @@ For generating new pronunciations, the standard G2P process used for other langu
   * {ipa_inline}`㑿 [ʈʂ aw˥˩]`
   * {ipa_inline}`㒟 [n j aw˨˩˦]`
   * {ipa_inline}`㑼 [l ɥ e˥˩]`
+
+#### Mandarin Phone groups
+
+```{admonition} Phone group configuration
+   See [Mandarin phone group configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/phone_groups/mandarin.yaml) for exact specification.
+```
+
+#### Mandarin phonological rules
+
+```{admonition} Phonological rule configuration
+   See [Mandarin phonological rule configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/rules/mandarin.yaml) for exact specification.
+```
+* Deletion of glottal stops
+  * {ipa_inline}` []` {ipa_icon}`right-arrow` {ipa_inline}`[]`
+* Deletion of erhua {ipa_inline}`ɻ`
+  * {ipa_inline}` []` {ipa_icon}`right-arrow` {ipa_inline}`[]`
 
 ### Polish
 
@@ -428,7 +565,7 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 #### Swedish consonants
 
-* **Dental consonants:** Alevolar obstruents and nasals are represented as dental {ipa_inline}`[t̪ d̪ s̪ n̪]`
+* **Dental consonants:** Alveolar obstruents and nasals are represented as dental {ipa_inline}`[t̪ d̪ s̪ n̪]`
 
 #### Swedish vowels
 
@@ -439,10 +576,12 @@ Unedited from [Wikipron](https://github.com/CUNY-CL/wikipron/tree/master/data/sc
 
 ### Thai
 
-The Thai script does not use spaces to mark word boundaries[^Rikker], so corpus transcripts were parsed with the {xref}`thai_word_segmentation` package.
+```{admonition} Tokenization
+  The {ref}`thai_mfa_acoustic_model_v3_0_0` tokenizes transcripts automatically using pythainlp rather than relying on pre-tokenized transcripts. There are some additional rules implemented in [montreal_forced_aligner.tokenization.thai](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/blob/main/montreal_forced_aligner/tokenization/thai.py).
+```
 
 ```{admonition} Pronunciation dictionaries
-   See {ref}`thai_mfa_dictionary_v2_0_0` for full IPA charts.
+   See {ref}`thai_mfa_dictionary_v3_0_0` for full IPA charts.
 ```
 
 #### Thai consonants
@@ -457,6 +596,23 @@ The Thai script does not use spaces to mark word boundaries[^Rikker], so corpus 
 * **Diphthongs:** Glides have been analyzed as separate segments
   * {ipa_inline}`กบไสไม้ [k o˨˩ p̚ s a˩˩˦ j m aː˦˥ j]`
   * {ipa_inline}`จุดไข่ปลา [tɕ u˨˩ t̚ kʰ a˨˩ j p l aː˧]`
+
+#### Thai phone groups
+
+```{admonition} Phone group configuration
+   See [Thai phone group configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/phone_groups/thai.yaml) for exact specification.
+```
+
+#### Thai phonological rules
+
+```{admonition} Phonological rule configuration
+   See [Thai phonological rule configruation](https://github.com/MontrealCorpusTools/mfa-models/blob/main/config/acoustic/rules/thai.yaml) for exact specification.
+```
+
+* Deletion of unreleased stops
+  * {ipa_inline}`เกรด [k r eː˨˩ t̚]` {ipa_icon}`right-arrow` {ipa_inline}`[k r eː˨˩]`
+* Deletion of glottal stops
+  * {ipa_inline}`เกาะ [k ɔ˨˩ ʔ]` {ipa_icon}`right-arrow` {ipa_inline}`[k ɔ˨˩]`
 
 ### Turkish
 
@@ -492,7 +648,7 @@ Largely followed the [Turkish phonology Wikipedia page](https://en.wikipedia.org
 
 #### Ukrainian consonants
 
-* **Palatalization:** Velar and aleovlar soft consonants are represented as palatal
+* **Palatalization:** Velar and alveolar soft consonants are represented as palatal
   * {ipa_inline}`[kʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[c]`
   * {ipa_inline}`[ɦʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[ç]`
   * {ipa_inline}`[xʲ]` {ipa_icon}`right-arrow` {ipa_inline}`[ʝ]`
@@ -520,7 +676,7 @@ Generally I have followed James Kirby's [vPhon](https://github.com/kirbyj/vPhon)
   * {ipa_inline}`thạch [tʰ a˨˩ ʲk]` {ipa_icon}`right-arrow` {ipa_inline}`[tʰ a˨˩ c]`
 * Changing final consonants to be unreleased
   * {ipa_inline}`bạc [ɓ aː˨˩ k]` {fas}`long-arrow-alt-right` {ipa_inline}`[ɓ aː˨˩ k̚]`
-* **IPA cleanup:** Removed ligatures in diphones and normalized bilabial onglides
+* **IPA cleanup:** Removed ligatures and normalized bilabial onglides
   * {ipa_inline}`hóc [h ɔ˦˥ k͡p]` {ipa_icon}`right-arrow` {ipa_inline}`[h ɔ˦˥ kp]`
   * {ipa_inline}`đông [ɗ o˨˨ ŋ͡m]` {ipa_icon}`right-arrow` {ipa_inline}`[ɗ o˨˨ ŋm]`
   * {ipa_inline}`hoan [h ʷ aː˨˨ n]` {ipa_icon}`right-arrow` {ipa_inline}`[h w aː˨˨ n]`

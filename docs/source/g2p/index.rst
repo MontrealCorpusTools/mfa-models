@@ -24,6 +24,7 @@ G2P models
    Hausa/index.rst
    Japanese/index.rst
    Korean/index.rst
+   Mandarin/index.rst
    Polish/index.rst
    Portuguese/index.rst
    Russian/index.rst

@@ -16,4 +16,5 @@ Japanese
 .. toctree::
    :hidden:
 
+   Japanese MFA acoustic model v3_0_0.md
    Japanese MFA acoustic model v2_0_1a.md

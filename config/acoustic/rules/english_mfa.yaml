@@ -136,7 +136,7 @@ dialects:
     replacement: ɾʲ
     segment: '[td]ʲ'
   - following_context: (ɪ|ə|ɚ|i)  # t/d flapping
-    preceding_context: ɫ
+    preceding_context: '(ɫ|ɫ̩)'
     replacement: ɾʲ
     segment: '[td]ʲ'
   - following_context: (ɪ|ə|ɚ|i)  # nasal flapping
@@ -360,6 +360,10 @@ rules:
   preceding_context: ''
   replacement: ʃ
   segment: s
+- following_context: 'ɹ'
+  preceding_context: ''
+  replacement: tʃ
+  segment: '[tʈ][ʲʷ]?'
 - following_context: ''
   preceding_context: ''
   replacement: tʃ
@@ -368,6 +372,10 @@ rules:
   preceding_context: ''
   replacement: dʒ
   segment: '[dɖ][ʲʷ]? ɹ'
+- following_context: 'ɹ'
+  preceding_context: ''
+  replacement: dʒ
+  segment: '[dɖ][ʲʷ]?'
 - following_context: ə n
   preceding_context: ''
   replacement: ʔ
@@ -376,7 +384,7 @@ rules:
   preceding_context: ɪ
   replacement: 'n'
   segment: ŋ
-- following_context: z $  # ing/in' variation
+- following_context: z$  # ing/in' variation
   preceding_context: ɪ
   replacement: 'n'
   segment: ŋ

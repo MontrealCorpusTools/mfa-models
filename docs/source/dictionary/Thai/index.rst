@@ -16,6 +16,7 @@ Thai
 .. toctree::
    :hidden:
 
+   Thai MFA dictionary v3_0_0.md
    Thai CV dictionary v2_0_0.md
    Thai MFA dictionary v2_0_0.md
    Thai MFA dictionary v2_0_0a.md

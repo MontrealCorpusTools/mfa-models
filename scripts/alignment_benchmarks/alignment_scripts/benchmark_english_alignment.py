@@ -8,12 +8,14 @@ mfa20_dir = r"D:\Data\models\2.0_archived"
 mfa20a_dir = r"D:\Data\models\2.0.0a_archived"
 mfa21_dir = r"D:\Data\models\2.1_trained"
 mfa22_dir = r"D:\Data\models\2.2_trained"
+mfa30_dir = r"D:\Data\models\3.0_trained"
 trained22_dir = r"D:\Data\models\2.2_trained\buckeye"
+trained30_dir = r"D:\Data\models\3.0_trained\buckeye"
 mapping_directory = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'mapping_files')
 
 corpus_directories = {
+    'timit': r'D:\Data\speech\benchmark_datasets\timit',
     'buckeye': r'D:\Data\speech\Buckeye',
-    'timit': r'D:\Data\speech\benchmark_datasets\timit'
 }
 
 conditions = {
@@ -24,7 +26,10 @@ conditions = {
     'mfa_2.0a': (os.path.join(mfa20a_dir, 'english_us_mfa.dict'), os.path.join(mfa20a_dir, "english_mfa.zip")),
     'mfa_2.1': (os.path.join(mfa21_dir, 'english_us_mfa.dict'), os.path.join(mfa21_dir, "english_mfa.zip")),
     'mfa_2.2': (os.path.join(mfa22_dir, 'english_us_mfa.dict'), os.path.join(mfa22_dir, "english_mfa.zip")),
+    'mfa_3.0': (os.path.join(mfa30_dir, 'english_us_mfa.dict'), os.path.join(mfa30_dir, "english_mfa.zip")),
+    'arpa_3.0': (os.path.join(mfa30_dir, 'english_us_arpa.dict'), os.path.join(mfa30_dir, "english_us_arpa.zip")),
     'trained_2.2': (os.path.join(trained22_dir, 'english_us_mfa.dict'), os.path.join(trained22_dir, "english_mfa.zip")),
+    'trained_3.0': (os.path.join(trained30_dir, 'english_us_mfa.dict'), os.path.join(trained30_dir, "english_mfa.zip")),
     'arpa_2.2': (os.path.join(mfa20a_dir, 'english_us_arpa.dict'), os.path.join(mfa20a_dir, "english_us_arpa.zip")),
 }
 mapping_files = {}
@@ -50,7 +55,10 @@ if __name__ == '__main__':
                        '-j', '10',
                        '--clean',
                        '--debug',
-                        '--use_cutoff_model',
+                       '--use_mp',
+                       '--use_cutoff_model',
+                       '--use_postgres',
+                       '--cleanup_textgrids',
                        '--reference_directory',
                        os.path.join(root, 'reference'),
                        '--custom_mapping_path',

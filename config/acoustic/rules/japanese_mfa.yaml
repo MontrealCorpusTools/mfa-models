@@ -12,14 +12,6 @@ rules:
   replacement: 'i̥'
   segment: i
 - following_context: '$'
-  preceding_context: ''
-  replacement: 'eː'
-  segment: 'a i'
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'nː a i'
-  segment: 'ɾ a n a i'
-- following_context: '$'
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: ''
   segment: i
@@ -55,31 +47,3 @@ rules:
   preceding_context: '[skctɕɸçhp][ʲsɕ]?ː?'
   replacement: ''
   segment: ɨ
-- following_context: ''
-  preceding_context: '^'
-  replacement: 'z'
-  segment: dz
-- following_context: ''
-  preceding_context: '^'
-  replacement: 'ʑ'
-  segment: dʑ
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'm'
-  segment: ɴ
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'n'
-  segment: ɴ
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'ɲ'
-  segment: ɴ
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'ŋ'
-  segment: ɴ
-- following_context: '$'
-  preceding_context: ''
-  replacement: 'ɰ̃'
-  segment: ɴ

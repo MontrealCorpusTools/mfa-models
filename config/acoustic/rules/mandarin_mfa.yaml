@@ -1,0 +1,9 @@
+rules:
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: ʔ
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: ɻ

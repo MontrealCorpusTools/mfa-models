@@ -1,0 +1,49 @@
+rules:
+- following_context: '$'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA1'
+  segment: 'AO1'
+- following_context: '[^R]'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA1'
+  segment: 'AO1'
+- following_context: '$'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA2'
+  segment: 'AO2'
+- following_context: '[^R]'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA2'
+  segment: 'AO2'
+- following_context: '$'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA0'
+  segment: 'AO0'
+- following_context: '[^R]'  # caught-cot merger
+  preceding_context: ''
+  replacement: 'AA0'
+  segment: 'AO0'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: 'R AH0'
+  segment: 'AH0 R AH0'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: 'L AH0'
+  segment: 'AH0 L AH0'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: 'N AH0'
+  segment: 'AH0 N AH0'
+- following_context: ''  # schwa deletion
+  preceding_context: ''
+  replacement: 'M AH0'
+  segment: 'AH0 M AH0'
+- following_context: '$'  # final t deletion/glottalization
+  preceding_context: '[A-Z]{2}[0-2]'
+  replacement: ''
+  segment: 'T'
+- following_context: '$'  # final d deletion
+  preceding_context: '[A-Z]{2}[0-2]'
+  replacement: ''
+  segment: 'D'
