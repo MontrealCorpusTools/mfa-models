@@ -73,6 +73,7 @@ for model_type, model_class in MODEL_TYPES.items():
                                             'https://github.com/MontrealCorpusTools/mfa-models/tree/main/corpus/')
                 existing_releases= manager.remote_models[model_type]
                 if model_name in existing_releases:
+                    continue
                     existing = existing_releases[model_name]
                     if existing.version.replace('v', '') == version:
                         if UPDATE:
@@ -120,7 +121,7 @@ for model_type, model_class in MODEL_TYPES.items():
                 versions = os.listdir(phone_set_dir)
                 for v in versions:
                     version_dir = os.path.join(phone_set_dir, v)
-                    if v == 'v2.0.0':
+                    if v != 'v3.0.0':
                         continue
                     if not os.path.isdir(version_dir):
                         continue
@@ -145,8 +146,8 @@ for model_type, model_class in MODEL_TYPES.items():
                     elif '../../../corpus/' in readme:
                         readme = readme.replace('../../../corpus/',
                                                 'https://github.com/MontrealCorpusTools/mfa-models/tree/main/corpus/')
-                    existing_releases= manager.remote_models[model_type]
-                    if model_name in existing_releases:
+                    existing_releases = manager.remote_models[model_type]
+                    if False and model_name in existing_releases:
                         existing = existing_releases[model_name]
                         if existing.version.replace('v', '') == version:
                             if UPDATE:

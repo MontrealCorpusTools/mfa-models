@@ -1,12 +1,12 @@
 
 
-.. _acoustic_mandarin:
+.. _g2p_mandarin:
 
 Mandarin
 ========
 
 .. needtable::
-   :types: acoustic
+   :types: g2p
    :filter: language == "Mandarin"
    :style: datatable
    :columns: ID;language;dialect;phoneset;license
@@ -16,6 +16,7 @@ Mandarin
 .. toctree::
    :hidden:
 
-   Mandarin MFA acoustic model v3_0_0.md
-   Mandarin MFA acoustic model v2_0_0.md
-   Mandarin MFA acoustic model v2_0_0a.md
+   Mandarin (China) MFA G2P model v3_0_0.md
+   Mandarin (China Pinyin) MFA G2P model v3_0_0.md
+   Mandarin (Taiwan) MFA G2P model v3_0_0.md
+   Mandarin (Taiwan Pinyin) MFA G2P model v3_0_0.md
