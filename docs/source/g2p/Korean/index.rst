@@ -16,9 +16,9 @@ Korean
 .. toctree::
    :hidden:
 
-   Korean (Jamo) MFA G2P model v3_0_0.md
-   Korean MFA G2P model v3_0_0.md
    Korean (Jamo) MFA G2P model v2_0_0.md
    Korean (Jamo) MFA G2P model v2_0_0a.md
+   Korean (Jamo) MFA G2P model v3_0_0.md
    Korean MFA G2P model v2_0_0.md
    Korean MFA G2P model v2_0_0a.md
+   Korean MFA G2P model v3_0_0.md

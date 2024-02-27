@@ -16,6 +16,7 @@ Bulgarian
 .. toctree::
    :hidden:
 
+   Bulgarian MFA acoustic model v3_0_0.md
    Bulgarian CV acoustic model v2_0_0.md
    Bulgarian MFA acoustic model v2_0_0.md
    Bulgarian MFA acoustic model v2_0_0a.md

@@ -178,6 +178,7 @@ model_corpus_mapping = {
                                        "Thai Elderly Speech dataset by Data Wow and VISAI v1_0_0",],
     "Bulgarian MFA acoustic model v2_0_0": ['Common Voice Bulgarian v8_0', 'GlobalPhone Bulgarian v3_1'],
     "Bulgarian MFA acoustic model v2_0_0a": ['Common Voice Bulgarian v9_0', 'GlobalPhone Bulgarian v3_1'],
+    "Bulgarian MFA acoustic model v3_0_0": ['Common Voice Bulgarian v16_1', 'GlobalPhone Bulgarian v3_1'],
     "Croatian MFA acoustic model v2_0_0": ['Common Voice Serbian v8_0', 'GlobalPhone Croatian v3_1'],
     "Croatian MFA acoustic model v2_0_0a": ['Common Voice Serbian v9_0', 'GlobalPhone Croatian v3_1'],
     "Czech MFA acoustic model v2_0_0": ['Common Voice Czech v8_0', 'GlobalPhone Czech v3_1',
