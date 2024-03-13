@@ -21,5 +21,13 @@ rules:
   segment: pʰ
 - following_context: ''
   preceding_context: ''
+  replacement: 'x'
+  segment: kʰ
+- following_context: ''
+  preceding_context: ''
   replacement: 'ɛ ɦ ɛ'
   segment: 'ə ɦ ə'
+- following_context: '$'
+  preceding_context: ''
+  replacement: ''
+  segment: ɦ

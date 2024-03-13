@@ -18,5 +18,6 @@ German
 
    Common Voice German v7_0.md
    Common Voice German v8_0.md
+   Common Voice German v16_1.md
    Multilingual LibriSpeech German.md
    GlobalPhone German v3_1.md

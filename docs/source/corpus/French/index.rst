@@ -18,6 +18,7 @@ French
 
    Common Voice French v7_0.md
    Common Voice French v8_0.md
+   Common Voice French v16_1.md
    GlobalPhone French v3_1.md
    Multilingual LibriSpeech French.md
    African-accented French.md

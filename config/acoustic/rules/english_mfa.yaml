@@ -1,4 +1,13 @@
 dialects:
+  nonnative:
+  - following_context: ''
+    preceding_context: ''
+    replacement: z
+    segment: 'ð'
+  - following_context: ''
+    preceding_context: ''
+    replacement: s
+    segment: 'θ'
   nigeria:
   - following_context: $
     preceding_context: ''
@@ -388,14 +397,6 @@ rules:
   preceding_context: ɪ
   replacement: 'n'
   segment: ŋ
-- following_context: ''  # non-native accents
-  preceding_context: ''
-  replacement: z
-  segment: 'ð'
-- following_context: ''  # non-native accents
-  preceding_context: ''
-  replacement: s
-  segment: 'θ'
 - following_context: ''  # schwa deletion
   preceding_context: ''
   replacement: l ə

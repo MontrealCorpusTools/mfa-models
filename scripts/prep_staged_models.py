@@ -121,7 +121,10 @@ model_corpus_mapping = {
                                          'African-accented French'],
     "French MFA acoustic model v2_0_0a": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
                                          'African-accented French'],
+    "French MFA acoustic model v3_0_0": ['Common Voice French v16_1', 'GlobalPhone French v3_1',
+                                         'African-accented French'],
     "German MFA acoustic model v2_0_0": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
+    "German MFA acoustic model v3_0_0": ['Common Voice German v16_1', 'GlobalPhone German v3_1'],
     "German MFA acoustic model v2_0_0a": ['Common Voice German v8_0', 'Multilingual LibriSpeech German', 'GlobalPhone German v3_1'],
     "Japanese MFA acoustic model v2_0_1a": ['Common Voice Japanese v12_0', 'GlobalPhone Japanese v3_1',
                                            'Microsoft Speech Language Translation Japanese',
@@ -1658,6 +1661,8 @@ for model_type, model_class in MODEL_TYPES.items():
 
     models_to_stage = os.listdir(staging_directory)
     for file_name in models_to_stage:
+        if not os.path.isfile(os.path.join(staging_directory, file_name)):
+            continue
         if model_type == 'dictionary' and not file_name.endswith('.dict'):
             continue
         print(file_name)

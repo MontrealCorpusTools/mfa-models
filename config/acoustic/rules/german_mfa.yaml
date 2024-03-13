@@ -1,0 +1,33 @@
+rules:
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'n̩'
+  segment: ə n
+- following_context: '[^aɔɪeiɐouyœɐəøʊʏɛ]'
+  preceding_context: ''
+  replacement: 'n̩'
+  segment: ə n
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'l̩'
+  segment: ə l
+- following_context: '[^aɔɪeiɐouyœɐəøʊʏɛ]'
+  preceding_context: ''
+  replacement: 'l̩'
+  segment: ə l
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'm̩'
+  segment: ə m
+- following_context: '[^aɔɪeiɐouyœɐəøʊʏɛ]'
+  preceding_context: ''
+  replacement: 'm̩'
+  segment: ə m
+- following_context: '[^aɔɪeiɐouyœɐəøʊʏɛ]'
+  preceding_context: '[aɔɪeiɐouyœɐəøʊʏɛ]+[wj]?ː?'
+  replacement: 'ɐ'
+  segment: ʁ
+- following_context: '[^aɔɪeiɐouyœɐəøʊʏɛ]'
+  preceding_context: '[aɔɪeiɐouyœɐəøʊʏɛ]+[wj]?ː?'
+  replacement: ''
+  segment: ʁ

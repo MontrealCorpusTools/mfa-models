@@ -1,0 +1,9 @@
+rules:
+- following_context: '$'
+  preceding_context: '[^aeiouyøœɑɔəɛ̃]+'
+  replacement: 'ʁ ə'
+  segment: ʁ
+- following_context: '[^i]'
+  preceding_context: ''
+  replacement: 'n j'
+  segment: ɲ
