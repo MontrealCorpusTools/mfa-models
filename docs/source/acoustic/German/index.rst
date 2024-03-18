@@ -16,6 +16,6 @@ German
 .. toctree::
    :hidden:
 
-   German MFA acoustic model v3_0_0.md
    German MFA acoustic model v2_0_0.md
    German MFA acoustic model v2_0_0a.md
+   German MFA acoustic model v3_0_0.md

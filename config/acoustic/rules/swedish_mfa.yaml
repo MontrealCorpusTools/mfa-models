@@ -1,0 +1,9 @@
+rules:
+- following_context: '$'
+  preceding_context: ''
+  replacement: 't̪'
+  segment: k t̪
+- following_context: ''
+  preceding_context: ''
+  replacement: 'r l̪'
+  segment: ɭ

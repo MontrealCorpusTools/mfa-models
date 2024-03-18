@@ -16,5 +16,6 @@ Turkish
 .. toctree::
    :hidden:
 
+   Turkish MFA G2P model v3_0_0.md
    Turkish MFA G2P model v2_0_0.md
    Turkish MFA G2P model v2_0_0a.md

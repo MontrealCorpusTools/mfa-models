@@ -1,0 +1,37 @@
+rules:
+- following_context: ''
+  preceding_context: ''
+  replacement: 'iː'
+  segment: i j i
+- following_context: ''
+  preceding_context: ''
+  replacement: 'eː'
+  segment: e j e
+- following_context: ''
+  preceding_context: ''
+  replacement: 'eː'
+  segment: a j a
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ɪ'
+  segment: i
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ɛ'
+  segment: e
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ʏ'
+  segment: 'y'
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'œ'
+  segment: 'ø'
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ɨ'
+  segment: 'ɯ'
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ʊ'
+  segment: 'u'

@@ -16,7 +16,7 @@ German
 .. toctree::
    :hidden:
 
-   German MFA dictionary v3_0_0.md
    German MFA dictionary v2_0_0.md
    German MFA dictionary v2_0_0a.md
+   German MFA dictionary v3_0_0.md
    German PROSODYLAB dictionary v2_0_0.md

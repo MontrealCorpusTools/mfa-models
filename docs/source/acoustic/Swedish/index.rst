@@ -16,6 +16,7 @@ Swedish
 .. toctree::
    :hidden:
 
+   Swedish MFA acoustic model v3_0_0.md
    Swedish CV acoustic model v2_0_0.md
    Swedish MFA acoustic model v2_0_0.md
    Swedish MFA acoustic model v2_0_0a.md

@@ -16,7 +16,7 @@ French
 .. toctree::
    :hidden:
 
-   French MFA dictionary v3_0_0.md
    French MFA dictionary v2_0_0.md
    French MFA dictionary v2_0_0a.md
+   French MFA dictionary v3_0_0.md
    French PROSODYLAB dictionary v2_0_0.md
