@@ -16,7 +16,7 @@ Swedish
 .. toctree::
    :hidden:
 
-   Swedish MFA dictionary v3_0_0.md
    Swedish CV dictionary v2_0_0.md
    Swedish MFA dictionary v2_0_0.md
    Swedish MFA dictionary v2_0_0a.md
+   Swedish MFA dictionary v3_0_0.md

@@ -16,5 +16,6 @@ Ukrainian
 .. toctree::
    :hidden:
 
+   Ukrainian MFA G2P model v3_0_0.md
    Ukrainian MFA G2P model v2_0_0.md
    Ukrainian MFA G2P model v2_0_0a.md
