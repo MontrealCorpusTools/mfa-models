@@ -1,0 +1,17 @@
+rules:
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: k̚
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: p̚
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: t̚
+- following_context: ''
+  preceding_context: ''
+  replacement: ''
+  segment: ʔ

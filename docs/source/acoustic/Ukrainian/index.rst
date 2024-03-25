@@ -16,7 +16,7 @@ Ukrainian
 .. toctree::
    :hidden:
 
-   Ukrainian MFA acoustic model v3_0_0.md
    Ukrainian CV acoustic model v2_0_0.md
    Ukrainian MFA acoustic model v2_0_0.md
    Ukrainian MFA acoustic model v2_0_0a.md
+   Ukrainian MFA acoustic model v3_0_0.md
