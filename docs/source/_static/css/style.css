@@ -1,106 +1,4 @@
 
-/* use Gentium Plus - Regular in .woff format */
-@font-face {
-  font-family: GentiumPlusW;
-  src: url(../fonts/GentiumPlus-Regular.woff2);
-}
-/* use Gentium Plus - Italic in .woff2 format */
-@font-face {
-  font-family: GentiumPlusW;
-  font-style: italic;
-  src: url(../fonts/GentiumPlus-Italic.woff2);
-}
-/* use Gentium Plus - Bold in .woff2 format */
-@font-face {
-	font-family: GentiumPlusW;
-	font-weight: bold;
-	src: url(../fonts/GentiumPlus-Bold.woff2);
-}
-/* use Gentium Plus - Bold Italic in .woff2 format */
-@font-face {
-	font-family: GentiumPlusW;
-	font-weight: bold;
-	font-style: italic;
-	src: url(../fonts/GentiumPlus-BoldItalic.woff2);
-}
-
-
-:root {
-  --base-blue: #003566;
-  --dark-blue: #001D3D;
-  --very-dark-blue: #000814;
-  --light-blue: #0E63B3;
-  --very-light-blue: #7AB5E6;
-  --base-yellow: #FFC300;
-  --dark-yellow: #E3930D;
-  --light-yellow: #FFD60A;
-}
-
-html[data-theme="light"] {
-  --sd-color-primary: var(--base-blue);
-  --mfa-admonition-text-color: #cecece;
-  --sd-color-dark: var(--base-blue);
-  --sd-color-primary-text: #FFC300;
-  --sd-color-primary-highlight: #FFC300;
-  --pst-color-primary: var(--base-blue);
-  --pst-color-warning: var(--light-yellow);
-  --pst-color-info: var(--light-blue);
-  --pst-color-admonition-default: var(--light-blue);
-
- --pst-color-link: var(--light-blue);
- --pst-color-link-hover: var(--dark-blue);
-
- --pst-color-active-navigation: var(--dark-blue);
- --pst-color-hover-navigation: var(--base-yellow);
-
- --pst-color-navbar-link: var(--base-blue);
- --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
- --pst-color-navbar-link-active: var(--pst-color-active-navigation);
-
- --pst-color-sidebar-link: var(--base-blue);
- --pst-color-sidebar-caption: var(--base-blue);
- --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
- --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
-
- --pst-color-toc-link: var(--base-blue);
- --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
- --pst-color-toc-link-active: var(--pst-color-active-navigation);
-}
-/*******************************************************************************
-* dark theme
-*
-* all the variables used for dark theme coloring
-*/
-html[data-theme="dark"] {
-  --sd-color-primary: var(--base-blue);
-  --sd-color-card-text: var(--base-yellow);
-  --sd-color-dark: var(--base-blue);
-  --sd-color-primary-text: var(--base-yellow);
-  --sd-color-primary-highlight: var(--base-yellow);
-  --pst-color-primary: var(--base-yellow);
-  --pst-color-warning: var(--light-yellow);
-  --pst-color-info: var(--light-blue);
---mfa-admonition-text-color: var(--pst-color-text-base);
-    --pst-color-link: var(--very-light-blue);
-    --pst-color-link-hover: var(--light-yellow);
-
-    --pst-color-active-navigation: var(--base-yellow);
-    --pst-color-hover-navigation: var(--very-light-blue);
-
-    --pst-color-navbar-link: var(--light-blue);
-    --pst-color-navbar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-navbar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-sidebar-link: var(--base-yellow);
-    --pst-color-sidebar-caption: var(--base-yellow);
-    --pst-color-sidebar-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-sidebar-link-active: var(--pst-color-active-navigation);
-
-    --pst-color-toc-link: var(--base-yellow);
-    --pst-color-toc-link-hover: var(--pst-color-hover-navigation);
-    --pst-color-toc-link-active: var(--pst-color-active-navigation);
-}
-
 
 .container, .bd-page-width, .container-xl, .container-lg {
     max-width: 2400px !important;
@@ -218,7 +116,7 @@ margin-left:10px;
  }
 
 table.need code.docutils.literal span.pre {
-margin: 0em 0.2em
+margin: 0em 0.2em;
 color: #7AB5E6;
 }
 
@@ -428,7 +326,7 @@ html[data-theme="dark"] .i-navigation{
     color: var(--sd-color-primary-text);
 }
 
-.navbar-light .navbar-nav li a.nav-link:{
+.navbar-light .navbar-nav li a.nav-link{
    font-size: 1.15em;
 }
 

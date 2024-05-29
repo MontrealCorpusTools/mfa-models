@@ -427,7 +427,7 @@ table.dataTable td {
 .dataTables_wrapper .dataTables_length {
   float: left;
 }
-.dataTables_wrapper .dataTables_length select, {
+.dataTables_wrapper .dataTables_length select {
   border: 1px solid var(--pst-color-primary);
   border-radius: 3px;
   padding: 5px;

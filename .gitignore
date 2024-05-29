@@ -21,3 +21,8 @@ scripts/temp/
 *.pyc
 
 *.pclprof
+.Rproj.user
+
+*.Rproj
+
+scripts/corpus_prep/temp/

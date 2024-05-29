@@ -70,7 +70,9 @@ needs_layouts = {
     'mfa': {
         'grid': 'content_side_right',
         'layout': {
-            'side': ['<<image("_static/full_logo_yellow.svg")>>']
+            'side': [
+                '<<image("https://montreal-forced-aligner.readthedocs.io/en/latest/_static/logo_stacked_light.svg")>>'
+            ]
         }
     }
 }
@@ -127,9 +129,21 @@ xref_links = {
     "spacy_pkuseg": ("spacy-pkuseg", "https://github.com/explosion/spacy-pkuseg/"),
     "num2chinese": ("num2chinese.py", "https://gist.github.com/gumblex/0d65cad2ba607fd14de7"),
     "hanziconv": ("hanziconv", "https://github.com/berniey/hanziconv"),
-    "num2words": ("hanziconv", "https://github.com/savoirfairelinux/num2words"),
+    "num2words": ("num2words", "https://github.com/savoirfairelinux/num2words"),
     "thai_word_segmentation": ("thai-word-segmentation", "https://github.com/sertiscorp/thai-word-segmentation"),
     "mecab_ko": ("Mecab-KO", "https://bitbucket.org/eunjeon/mecab-ko/src/master/"),
+    "whisperx": (
+        "WhisperX",
+        "https://github.com/m-bain/whisperX",
+    ),
+    "nemo": (
+        "NeMo Forced Aligner",
+        "https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tools/nemo_forced_aligner.html",
+    ),
+    "wav2vec2": (
+        "Wav2Vec2",
+        "https://pytorch.org/audio/stable/tutorials/ctc_forced_alignment_api_tutorial.html",
+    ),
 }
 
 needs_extra_links = [
@@ -154,7 +168,7 @@ exclude_patterns = []
 #
 html_theme = 'pydata_sphinx_theme'
 
-html_logo = "_static/logo.svg"
+html_logo = "https://montreal-forced-aligner.readthedocs.io/en/latest/_static/logo.svg"
 html_favicon = "_static/favicon.ico"
 
 
@@ -174,7 +188,7 @@ html_theme_options = {
     ],
     "logo": {
         "text": "Montreal Forced Aligner",
-        # "image_dark": "logo-dark.svg",
+        "image_dark": "https://montreal-forced-aligner.readthedocs.io/en/latest/_static/logo_dark.svg",
     },
     "analytics":{
 
@@ -199,6 +213,7 @@ html_context = {
 html_static_path = ['_static']
 html_css_files = [
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css",
+    "https://montreal-forced-aligner.readthedocs.io/en/latest/_static/css/mfa.css",
     "css/style.css",
     "css/datatables.css",
 ]

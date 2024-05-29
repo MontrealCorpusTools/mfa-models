@@ -1,0 +1,13 @@
+Evaluation,Corpus,Error
+ARPA 1.0,Buckeye,28.8
+ARPA 1.0,TIMIT,25.2
+ARPA 3.0,Buckeye,23.2
+ARPA 3.0,TIMIT,19.1
+MFA 3.0,Buckeye,26.9
+MFA 3.0,TIMIT,21
+NeMo,Buckeye,95.5
+NeMo,TIMIT,77.1
+Wav2Vec2,Buckeye,47.6
+Wav2Vec2,TIMIT,37
+WhisperX,Buckeye,58.7
+WhisperX,TIMIT,46.2

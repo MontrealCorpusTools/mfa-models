@@ -13,7 +13,7 @@ The first dataset used for this benchmark is the {need}`Buckeye Corpus`.  The Bu
 No details on the race of participants are reported anywhere in the Buckeye Corpus literature, suggesting that all participants are white. As this corpus is tailored to an extremely specific variation of American English, please use caution in interpreting the results as they may relate to other languages.
 ```
 
-The Buckeye Corpus can be obtained through [their website](https://buckeyecorpus.osu.edu/) once you agree to their license.  The state that is downloadable has a number of transcription errors and formatting issues. A {download}`git patch <../_static/benchmarks/buckeye.patch>` addresses these, which fixes inconsistencies in their transcription (the occasional ``nx``, ``h`` phones, lines missing phone/word entries, etc), removing any transcriptions beyond the end of the sound file, and some reannotations of gross errors (i.e., transcripts appearing more than a second before they are said in the audio, words annotated as laughter or vocnoise even though they're largely intelligible and have phones annotated).  Once the transcription files are patched, you can use [the scripts on Github](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks).
+The Buckeye Corpus can be obtained through [their website](https://buckeyecorpus.osu.edu/) once you agree to their license.  The state that is downloadable has a number of transcription errors and formatting issues. A {download}`git patch <../_static/benchmarks/buckeye.patch>` addresses these, which fixes inconsistencies in their transcription (the occasional ``nx``, ``h`` phones, lines missing phone/word entries, etc), removing any transcriptions beyond the end of the sound file, and some re-annotations of gross errors (i.e., transcripts appearing more than a second before they are said in the audio, words annotated as "laughter" or "vocnoise" even though they're largely intelligible and have phones annotated).  Once the transcription files are patched, you can use [the scripts on Github](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks).
 
 The phoneset mapping files for the Buckeye phoneset are available for [ARPA](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_brtenchmarks/mapping_files/arpa_buckeye_mapping.yaml) and [MFA](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files/mfa_buckeye_mapping.yaml).
 
@@ -54,13 +54,13 @@ For more details, please see the [docs for the aligner's evaluation mode](https:
 ```
 
 ```{image} ../_static/benchmarks/mfa2_english_alignment_score.svg
-:alt: English alignment scores across model versions. The MFA 1.0 model using the ARPA lexicon has a mean error of 20.7 ms on Buckeye and 17.8 ms on TIMIT.  English ARPA 2.0 model has a mean error of 21.5 ms on Buckeye and 18.7 ms on TIMIT, which improves using the 2.0a models to 19.9 ms on Buckeye and 17.0 ms on TIMIT. Finally, English MFA 2.0 model using the US MFA dictionary has a mean error of 20.6 ms on Buckeye and 19.2 ms on TIMIT, whihch improves using the 2.0a models to  19.4 ms on Buckeye and 17.6 ms on TIMIT.
+:alt: English alignment scores across model versions. The MFA 1.0 model using the ARPA lexicon has a mean error of 20.7 ms on Buckeye and 17.8 ms on TIMIT.  English ARPA 2.0 model has a mean error of 21.5 ms on Buckeye and 18.7 ms on TIMIT, which improves using the 2.0a models to 19.9 ms on Buckeye and 17.0 ms on TIMIT. Finally, English MFA 2.0 model using the US MFA dictionary has a mean error of 20.6 ms on Buckeye and 19.2 ms on TIMIT, whihch improves using the 2.0a models to 19.4 ms on Buckeye and 17.6 ms on TIMIT.
 :align: center
 ```
 
 ### Phone error rate
 
-Phone error rate uses the alignment bewteen reference phones and the aligner's phone output from the [BioPython's pairwise2 module](https://biopython.org/docs/1.75/api/Bio.pairwise2.html) using the [mapping files](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files) to establish "identical" phones across the different phone sets.  Phone error rate for an utterance is the number of "identical" phones aligned divided by the number of phones in the reference alignment.
+Phone error rate uses the alignment between reference phones and the aligner's phone output from the [BioPython's pairwise2 module](https://biopython.org/docs/1.75/api/Bio.pairwise2.html) using the [mapping files](https://github.com/MontrealCorpusTools/mfa-models/tree/main/scripts/alignment_benchmarks/mapping_files) to establish "identical" phones across the different phone sets.  Phone error rate for an utterance is the number of "identical" phones aligned divided by the number of phones in the reference alignment.
 
 ```{seealso}
 
@@ -73,3 +73,45 @@ In general, phone error rate is higher on the Buckeye Corpus than TIMIT, due to 
 :alt: English phone error rates across model versions. The MFA 1.0 model using the ARPA lexicon has a phone error rate of 37.9% on Buckeye and 26.8% on TIMIT.  English ARPA 2.0 model has a phone error rate of 38.2% on Buckeye and 27.3% on TIMIT, which stays consistent using the 2.0a models to 38.1% on Buckeye and 27.3% on TIMIT. Finally, English MFA 2.0 model using the US MFA dictionary has a phone error rate of 37.0% on Buckeye and 25.7% on TIMIT, which likewise stays consistent using the 2.0a models to 37.2% on Buckeye and 25.5% on TIMIT.
 :align: center
 ```
+
+### Word alignment comparison with SOTA ASR models
+
+There are several state of the art ASR models that support generating word-level alignments:
+
+1. {xref}`whisperx`
+   * Model used in alignment is [WAV2VEC2_ASR_BASE_960H](https://pytorch.org/audio/stable/generated/torchaudio.pipelines.WAV2VEC2_ASR_BASE_960H.html)
+2. {xref}`nemo`
+    * Model used in alignment is [stt_en_fastconformer_hybrid_large](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_fastconformer_hybrid_large_streaming_1040ms)
+3. {xref}`wav2vec2`
+   * Model used in alignment is [MMS_FA](https://pytorch.org/audio/main/generated/torchaudio.pipelines.MMS_FA.html#torchaudio.pipelines.MMS_FA)
+
+As WhisperX uses a Wav2Vec2 model for alignments and we're evaluating based on ground truth transcripts rather than the transcription output of Whisper, technically "WhisperX" will refer to the performance of the English Wav2Vec2 model.  The Wav2Vec2 model that WhisperX uses was trained on {need}`Librispeech English`, whereas the {xref}`wav2vec2` model was trained on a large multilingual dataset.
+
+The MFA conditions being compared are:
+
+1. [ARPA 1.0](https://github.com/MontrealCorpusTools/mfa-models/releases/download/acoustic-archive-v1.0/english.zip) with {need}`English (US) ARPA dictionary v3_0_0`
+   * Trained on {need}`Librispeech English` like WhisperX's alignment model
+2. {need}`English (US) ARPA acoustic model v3_0_0` with {need}`English (US) ARPA dictionary v3_0_0`
+   * Trained on {need}`Librispeech English` like WhisperX's alignment model
+3. {need}`English MFA acoustic model v3_0_0` with {need}`English (US) MFA dictionary v3_0_0`
+   * Trained on a larger multi-dialectal English dataset
+
+All MFA evaluations were run using MFA 3.1.0.
+
+```{image} ../_static/benchmarks/word_alignment.svg
+:alt: English word-level alignment scores across multiple SOTA ASR systems compared to MFA.
+:align: center
+```
+
+The following table has the mean word boundary errors in milliseconds from the plot above.
+
+```{csv-table} Average word boundary error (ms)
+:file: ../_static/benchmarks/word_alignment.csv
+:header-rows: 1
+:stub-columns: 2
+:align: center
+```
+
+Recent ASR models are not particularly accurate for alignment, even at the word level.  Any conformer architecture is going to introduce more time alignment errors as it is less anchored to linear time than Wav2Vec2/RNN-based architectures.  Additionally, all SOTA models are end-to-end models that generate English orthography which does not map transparently to pronounced sounds (i.e., "gh" characters in "cough" vs "though" or "through"). ASR models in general are trained to optimize word error rate (WER), however the transcripts they are trained on are often not particularly accurate from a signal perspective, with hesitations, filler words, and restarts removed, so generally the better WER performance by conformer models in recent years is likely due to being better able to predict the inaccurate transcripts.
+
+All these factors lead to better alignment accuracy by MFA models, even those trained in version 1.0.  The ARPA 3.0 model shows the best performance across both corpora, as it was trained solely on the same dialects as both corpora.  All models show better performance on TIMIT over Buckeye, owing to TIMIT's more constructed utterances.
