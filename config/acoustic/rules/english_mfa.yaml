@@ -8,6 +8,34 @@ dialects:
     preceding_context: ''
     replacement: s
     segment: 'θ'
+  - following_context: '$'
+    preceding_context: ''
+    replacement: s
+    segment: 'z'
+  - following_context: '$'
+    preceding_context: ''
+    replacement: f
+    segment: 'v'
+  - following_context: ''
+    preceding_context: ''
+    replacement: ʋ
+    segment: '[vw]ʲ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: i
+    segment: 'ɪ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: u
+    segment: 'ʊ'
+  - following_context: ''
+    preceding_context: '^'
+    replacement: ''
+    segment: '[hç]'
+  - following_context: ''
+    preceding_context: ''
+    replacement: 'ɹ'
+    segment: '[ʎɫl]'
   nigeria:
   - following_context: $
     preceding_context: ''
@@ -176,38 +204,6 @@ dialects:
     preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ɜ|a|u|o|ow|æ|aw|əw|aj|ɐ|ɪ|ə|ɔ|e|ɚ|ɑ|ʉ|ɒ|i)ː?
     replacement: ɾ
     segment: d
-  - following_context: '[nmŋɱɲ]ʲ?'  # pin-pen merger
-    preceding_context: ''
-    replacement: ɪ
-    segment: ɛ
-  - following_context: '(ɫ|ɫ̩)'  # fill-feal merger
-    preceding_context: ''
-    replacement: ɪ
-    segment: iː?
-  - following_context: '(ɫ|ɫ̩)'  # fail-fell merger
-    preceding_context: ''
-    replacement: ɛ
-    segment: ej
-  - following_context: '(ɫ|ɫ̩)'  # boil-ball merger
-    preceding_context: ''
-    replacement: ɒː
-    segment: ɔj
-  - following_context: 'n'  # z-stopping
-    preceding_context: ''
-    replacement: d
-    segment: z
-  - following_context: '[tpkcsʃf][ʲʷ]?'  # price monophthongization
-    preceding_context: ''
-    replacement: aː
-    segment: aj
-  - following_context: ɡ  # bag raising
-    preceding_context: ''
-    replacement: ej
-    segment: æ
-  - following_context: ɡ  # beg raising
-    preceding_context: ''
-    replacement: ej
-    segment: ɛ
   - following_context: ''  # mitten glottalized syllabic
     preceding_context: ''
     replacement: ʔ n̩
@@ -273,10 +269,6 @@ rules:
   preceding_context: ''
   replacement: d̪
   segment: 'ð [ɖd]'
-- following_context: $  # t glottalization
-  preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ɜ|a|u|o|ow|æ|aw|əw|aj|ɐ|ɪ|ə|ɔ|e|ɚ|ɑ|ʉ|ɒ|i)ː?
-  replacement: ʔ
-  segment: '[tʈ]'
 - following_context: $  # t deletion
   preceding_context: (ʊ|ɔj|ɝ|ɛ|ej|ɜ|a|u|o|ow|æ|aw|əw|aj|ɐ|ɪ|ə|ɔ|e|ɚ|ɑ|ʉ|ɒ|i)ː?
   replacement: ''

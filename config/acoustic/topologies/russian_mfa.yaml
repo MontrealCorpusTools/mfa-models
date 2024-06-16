@@ -1,0 +1,33 @@
+tsʲ:
+  min_states: 3
+  max_states: 5
+dzʲː:
+  min_states: 3
+  max_states: 5
+d̪z̪ː:
+  min_states: 3
+  max_states: 5
+d̪z̪:
+  min_states: 3
+  max_states: 5
+t̪s̪ː:
+  min_states: 3
+  max_states: 5
+t̪s̪:
+  min_states: 3
+  max_states: 5
+dʐː:
+  min_states: 3
+  max_states: 5
+tʂː:
+  min_states: 3
+  max_states: 5
+tʂ:
+  min_states: 3
+  max_states: 5
+tɕː:
+  min_states: 3
+  max_states: 5
+tɕ:
+  min_states: 3
+  max_states: 5

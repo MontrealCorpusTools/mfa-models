@@ -59,6 +59,9 @@ if __name__ == '__main__':
                    '--custom_mapping_path',
                     mapping_files[condition.split('_')[0]],
                    '--beam', '10', '--retry_beam', '40',
-        '--g2p_model_path', os.path.join(g2p_staging_dir, "korean_jamo_mfa.zip"),
                    ]
+        if condition == 'mfa_3.0':
+            command.extend([
+                '--g2p_model_path', os.path.join(mfa30_dir, "korean_jamo_mfa.zip"),
+            ])
         mfa_cli(command, standalone_mode=False)

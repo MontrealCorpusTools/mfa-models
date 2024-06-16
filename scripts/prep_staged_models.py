@@ -6,11 +6,9 @@ import shutil
 import re
 import pathlib
 import typing
-from line_profiler_pycharm import profile
 from datetime import datetime
 import numpy as np
 import sqlalchemy
-from sqlalchemy.orm import subqueryload
 from montreal_forced_aligner import config
 
 config.TEMPORARY_DIRECTORY = pathlib.Path(os.path.dirname(os.path.abspath(__file__)))
@@ -27,7 +25,7 @@ random.seed(1234)
 root_dir = pathlib.Path(__file__).resolve().parent
 template_dir = root_dir.joinpath('templates')
 
-CURRENT_MODEL_VERSION = '3.0.0'
+CURRENT_MODEL_VERSION = '3.1.0'
 
 # Get corpus information
 
@@ -115,6 +113,12 @@ model_corpus_mapping = {
                                           "NCHLT English", "ARU English corpus", "ICE-Nigeria",
                                "A Scripted Pakistani English Daily-use Speech Corpus",
                                "L2-ARCTIC"],
+    "English MFA acoustic model v3_1_0": ['Common Voice English v17_0', 'LibriSpeech English',
+                                          'Corpus of Regional African American Language v2021_07',
+                                          "Google Nigerian English", "Google UK and Ireland English",
+                                          "NCHLT English", "ARU English corpus", "ICE-Nigeria",
+                               "A Scripted Pakistani English Daily-use Speech Corpus",
+                               "L2-ARCTIC"],
     "English MFA ivector extractor v2_1_0": current_corpora['english'],
     "Multilingual MFA ivector extractor v2_1_0": [x for k in ['english', 'czech', 'hausa', 'swahili', 'thai', 'vietnamese', 'japanese', 'mandarin'] for x in current_corpora[k]],
     "French MFA acoustic model v2_0_0": ['Common Voice French v8_0', 'Multilingual LibriSpeech French', 'GlobalPhone French v3_1',
@@ -164,6 +168,13 @@ model_corpus_mapping = {
                                              'GlobalPhone Portuguese (Brazilian) v3_1'],
     "Russian MFA acoustic model v2_0_0": ['Common Voice Russian v8_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
     "Russian MFA acoustic model v2_0_0a": ['Common Voice Russian v9_0', 'Russian LibriSpeech', 'M-AILABS Russian', 'GlobalPhone Russian v3_1'],
+    "Russian MFA acoustic model v3_1_0": [
+        'Common Voice Russian v17_0',
+        'Russian LibriSpeech',
+        'M-AILABS Russian',
+        'Multilingual TEDx Russian',
+        'GlobalPhone Russian v3_1'
+    ],
     "Spanish MFA acoustic model v2_0_0": ['Common Voice Spanish v8_0', 'Multilingual LibriSpeech Spanish',
                                           "Google i18n Chile","Google i18n Columbia","Google i18n Peru","Google i18n Puerto Rico","Google i18n Venezuela",
                                           "M-AILABS Spanish", 'GlobalPhone Spanish (Latin American) v3_1'],
@@ -174,6 +185,7 @@ model_corpus_mapping = {
     "Swahili MFA acoustic model v2_0_0a": ['Common Voice Swahili v9_0', 'ALFFA Swahili', 'GlobalPhone Swahili v3_1'],
     "Swedish MFA acoustic model v2_0_0": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
     "Swedish MFA acoustic model v2_0_0a": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
+    "Swedish MFA acoustic model v3_0_0": ['Common Voice Swedish v8_0', 'NST Swedish', 'GlobalPhone Swedish v3_1'],
     "Thai MFA acoustic model v2_0_0": ['Common Voice Thai v8_0', 'GlobalPhone Thai v3_1'],
     "Thai MFA acoustic model v2_0_0a": ['Common Voice Thai v9_0', 'GlobalPhone Thai v3_1'],
     "Thai MFA acoustic model v3_0_0": ['Common Voice Thai v16_1', 'GlobalPhone Thai v3_1',
@@ -188,12 +200,15 @@ model_corpus_mapping = {
                                         "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
     "Czech MFA acoustic model v2_0_0a": ['Common Voice Czech v9_0', 'GlobalPhone Czech v3_1',
                                         "Large Corpus of Czech Parliament Plenary Hearings", "Czech Parliament Meetings"],
+    "Turkish MFA acoustic model v3_0_0": ['Common Voice Turkish v16_1', 'GlobalPhone Turkish v3_1'],
     "Turkish MFA acoustic model v2_0_0": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
     "Turkish MFA acoustic model v2_0_0a": ['Common Voice Turkish v8_0', 'MediaSpeech Turkish v1_1', 'GlobalPhone Turkish v3_1'],
     "Ukrainian MFA acoustic model v2_0_0": ['Common Voice Ukrainian v8_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
     "Ukrainian MFA acoustic model v2_0_0a": ['Common Voice Ukrainian v9_0', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
+    "Ukrainian MFA acoustic model v3_0_0": ['Common Voice Ukrainian v16_1', 'M-AILABS Ukrainian', 'GlobalPhone Ukrainian v3_1'],
     "Vietnamese MFA acoustic model v2_0_0": ['Common Voice Vietnamese v8_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
     "Vietnamese MFA acoustic model v2_0_0a": ['Common Voice Vietnamese v9_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
+    "Vietnamese MFA acoustic model v3_0_0": ['Common Voice Vietnamese v17_0', 'VIVOS', 'GlobalPhone Vietnamese v3_1'],
 }
 
 model_dictionary_mapping = {
@@ -204,6 +219,10 @@ model_dictionary_mapping = {
                                       "English (UK) MFA dictionary v3_0_0",
                                           "English (Nigeria) MFA dictionary v3_0_0",
                                           "English (India) MFA dictionary v3_0_0"],
+    "English MFA acoustic model v3_1_0": ["English (US) MFA dictionary v3_1_0",
+                                      "English (UK) MFA dictionary v3_1_0",
+                                          "English (Nigeria) MFA dictionary v3_1_0",
+                                          "English (India) MFA dictionary v3_1_0"],
     "Vietnamese MFA acoustic model v2_0_0": ["Vietnamese (Hanoi) MFA dictionary v2_0_0",
                                          "Vietnamese (Ho Chi Minh City) MFA dictionary v2_0_0",
                                          "Vietnamese (Hue) MFA dictionary v2_0_0",
@@ -1286,7 +1305,7 @@ def check_phone(phone, feature_set, phone_set_type):
     else:
         return any(x in phone for x in feature_set)
 
-@profile
+
 def analyze_dictionary(dictionary_path, name, phone_set_type):
     d = load_dict(dictionary_path, name, phone_set_type=phone_set_type)
     dictionary_mapping = collections.defaultdict(set)

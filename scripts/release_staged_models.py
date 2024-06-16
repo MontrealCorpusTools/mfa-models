@@ -147,13 +147,17 @@ for model_type, model_class in MODEL_TYPES.items():
                         readme = readme.replace('../../../corpus/',
                                                 'https://github.com/MontrealCorpusTools/mfa-models/tree/main/corpus/')
                     existing_releases = manager.remote_models[model_type]
-                    if False and model_name in existing_releases:
+                    if model_name in existing_releases:
                         existing = existing_releases[model_name]
-                        if existing.version.replace('v', '') == version:
-                            if UPDATE:
-                                print("UPDATING", existing.release_link)
-                                r = requests.patch(existing.release_link, json={'body': readme})
-                                time.sleep(5)
+                        found_existing = False
+                        for existing_version, model in existing.items():
+                            if existing_version.replace('v', '') == version:
+                                if UPDATE:
+                                    print("UPDATING", existing.release_link)
+                                    r = requests.patch(existing.release_link, json={'body': readme})
+                                    time.sleep(5)
+                                found_existing = True
+                        if found_existing:
                             continue
                     release = ModelRelease(model_name,tag, version, '','')
                     if model_type == 'dictionary':

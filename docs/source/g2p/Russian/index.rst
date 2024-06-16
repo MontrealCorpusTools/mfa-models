@@ -16,5 +16,6 @@ Russian
 .. toctree::
    :hidden:
 
+   Russian MFA G2P model v3_1_0.md
    Russian MFA G2P model v2_0_0.md
    Russian MFA G2P model v2_0_0a.md

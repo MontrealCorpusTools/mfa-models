@@ -26,3 +26,5 @@ scripts/temp/
 *.Rproj
 
 scripts/corpus_prep/temp/
+
+.Rhistory

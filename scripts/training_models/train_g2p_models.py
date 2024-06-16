@@ -12,17 +12,6 @@ output_dir = os.path.join(root_dir, 'g2p', 'staging')
 temp_dir = TEMPORARY_DIRECTORY
 os.makedirs(output_dir, exist_ok=True)
 
-class DefaultArgs:
-    def __init__(self, dictionary_path, output_model_path, temporary_directory):
-        self.dictionary_path = dictionary_path
-        self.output_model_path = output_model_path
-        self.temporary_directory = temporary_directory
-        self.config_path = None
-        self.evaluation_mode = True
-        self.num_jobs = 10
-        self.debug = True
-        self.clean = True
-
 
 lang_codes = ['czech', 'russian',
               'french', 'german',
@@ -46,8 +35,10 @@ lang_codes = ['czech', 'russian',
               ]
 
 lang_codes = [
-              'mandarin_china', 'mandarin_taiwan',
-              'mandarin_china_pinyin', 'mandarin_taiwan_pinyin'
+              'hindi',
+    'urdu',
+    'russian',
+              #'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_ho_chi_minh_city',
               ]
 
 

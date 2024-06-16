@@ -15,6 +15,9 @@ for (e in evals){
     print(e)
     print(c)
     path = file.path(root_dir, e, c, "alignment_reference_evaluation.csv")
+    if (!file.exists(path)){
+      next
+    }
     print(path)
     d = read_csv(path, show_col_types = F, lazy=F)
     d$alignment_score <- as.numeric(d$alignment_score)
@@ -35,7 +38,8 @@ data[str_detect(data$evaluation, '_2.0a'),]$version = "2.0a"
 data[str_detect(data$evaluation, '_2.1'),]$version = "2.1"
 data[str_detect(data$evaluation, '_2.2'),]$version = "2.2"
 data[str_detect(data$evaluation, '_3.0'),]$version = "3.0"
-data[str_detect(data$evaluation, 'trained_2.2'),]$version = "trained_2.2"
+data[str_detect(data$evaluation, '_3.1'),]$version = "3.1"
+#data[str_detect(data$evaluation, 'trained_2.2'),]$version = "trained_2.2"
 data[str_detect(data$evaluation, 'trained_3.0'),]$version = "trained_3.0"
 data$version <- factor(data$version)
 

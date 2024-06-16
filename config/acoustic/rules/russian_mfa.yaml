@@ -1,0 +1,33 @@
+rules:
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ɪ'
+  segment: ə j
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'i'
+  segment: ɪ j
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'i'
+  segment: e j
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'ɪ'
+  segment: ɨ j
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'e'
+  segment: ə j ə
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'e'
+  segment: ɪ j ə
+- following_context: '$'
+  preceding_context: ''
+  replacement: 'i ə'
+  segment: i j e
+- following_context: ''
+  preceding_context: ''
+  replacement: 'e'
+  segment: e j e

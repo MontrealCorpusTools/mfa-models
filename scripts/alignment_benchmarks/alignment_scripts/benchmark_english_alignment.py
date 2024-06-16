@@ -9,6 +9,7 @@ mfa20a_dir = r"D:\Data\models\2.0.0a_archived"
 mfa21_dir = r"D:\Data\models\2.1_trained"
 mfa22_dir = r"D:\Data\models\2.2_trained"
 mfa30_dir = r"D:\Data\models\3.0_trained"
+mfa31_dir = r"D:\Data\models\3.1_trained"
 trained22_dir = r"D:\Data\models\2.2_trained\buckeye"
 trained30_dir = r"D:\Data\models\3.0_trained\buckeye"
 mapping_directory = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'mapping_files')
@@ -27,6 +28,7 @@ conditions = {
     'mfa_2.1': (os.path.join(mfa21_dir, 'english_us_mfa.dict'), os.path.join(mfa21_dir, "english_mfa.zip")),
     'mfa_2.2': (os.path.join(mfa22_dir, 'english_us_mfa.dict'), os.path.join(mfa22_dir, "english_mfa.zip")),
     'mfa_3.0': (os.path.join(mfa30_dir, 'english_us_mfa.dict'), os.path.join(mfa30_dir, "english_mfa.zip")),
+    'mfa_3.1': (os.path.join(mfa31_dir, 'english_us_mfa.dict'), os.path.join(mfa31_dir, "english_mfa.zip")),
     'arpa_3.0': (os.path.join(mfa30_dir, 'english_us_arpa.dict'), os.path.join(mfa30_dir, "english_us_arpa.zip")),
     'trained_2.2': (os.path.join(trained22_dir, 'english_us_mfa.dict'), os.path.join(trained22_dir, "english_mfa.zip")),
     'trained_3.0': (os.path.join(trained30_dir, 'english_us_mfa.dict'), os.path.join(trained30_dir, "english_mfa.zip")),
@@ -43,9 +45,14 @@ for k in conditions.keys():
 
 if __name__ == '__main__':
     for condition, (dictionary_path, model_path) in conditions.items():
+        print(condition)
         for corpus, root in corpus_directories.items():
             output_directory = os.path.join(root_dir, 'alignments', condition, corpus)
             if os.path.exists(output_directory):
+                continue
+            if not os.path.exists(model_path):
+                continue
+            if not os.path.exists(dictionary_path):
                 continue
             command = ['align',
                        os.path.join(root, 'benchmark'),
@@ -54,7 +61,7 @@ if __name__ == '__main__':
                        output_directory,
                        '-j', '10',
                        '--clean',
-                       '--debug',
+                       '--no_debug',
                        '--use_mp',
                        '--use_cutoff_model',
                        '--use_postgres',

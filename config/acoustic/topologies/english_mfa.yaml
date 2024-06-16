@@ -1,0 +1,24 @@
+ɾ:
+  min_states: 1
+  max_states: 1
+ɾʲ:
+  min_states: 1
+  max_states: 1
+ɾ̃:
+  min_states: 1
+  max_states: 1
+ʔ:
+  min_states: 1
+  max_states: 1
+tʃ:
+  min_states: 3
+  max_states: 5
+dʒ:
+  min_states: 3
+  max_states: 5
+aj:
+  max_states: 5
+aw:
+  max_states: 5
+ɔj:
+  max_states: 5

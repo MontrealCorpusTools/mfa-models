@@ -16,6 +16,7 @@ English
 .. toctree::
    :hidden:
 
+   English MFA acoustic model v3_1_0.md
    English MFA acoustic model v2_0_0.md
    English MFA acoustic model v2_0_0a.md
    English MFA acoustic model v2_2_1.md
