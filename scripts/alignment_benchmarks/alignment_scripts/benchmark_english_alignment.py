@@ -28,6 +28,7 @@ conditions = {
     'mfa_2.1': (os.path.join(mfa21_dir, 'english_us_mfa.dict'), os.path.join(mfa21_dir, "english_mfa.zip")),
     'mfa_2.2': (os.path.join(mfa22_dir, 'english_us_mfa.dict'), os.path.join(mfa22_dir, "english_mfa.zip")),
     'mfa_3.0': (os.path.join(mfa30_dir, 'english_us_mfa.dict'), os.path.join(mfa30_dir, "english_mfa.zip")),
+    'mfa_3.0_finetune': (os.path.join(mfa30_dir, 'english_us_mfa.dict'), os.path.join(mfa30_dir, "english_mfa.zip")),
     'mfa_3.1': (os.path.join(mfa31_dir, 'english_us_mfa.dict'), os.path.join(mfa31_dir, "english_mfa.zip")),
     'arpa_3.0': (os.path.join(mfa30_dir, 'english_us_arpa.dict'), os.path.join(mfa30_dir, "english_us_arpa.zip")),
     'trained_2.2': (os.path.join(trained22_dir, 'english_us_mfa.dict'), os.path.join(trained22_dir, "english_mfa.zip")),
@@ -72,5 +73,7 @@ if __name__ == '__main__':
                         mapping_files[(condition, corpus)],
                        '--beam', '10', '--retry_beam', '40'
                        ]
+            if 'finetune' in condition:
+                command += ['--fine_tune']
             print(command)
             mfa_cli(command, standalone_mode=False)

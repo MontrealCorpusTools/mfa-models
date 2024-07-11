@@ -47,23 +47,23 @@ OW2: [ow, own]
 OY2: [oy, oyn]
 UH2: [uh, uhn]
 UW2: [uw, uwn, ux]
-B: [b, bcl]
-P: [p, pcl]
-T: [t, q, dx, tcl]
-D: [d, dx, dcl]
+B: [b, bcl, "bcl b"]
+P: [p, pcl, "pcl p"]
+T: [t, q, dx, tcl, "tcl t", "tcl q"]
+D: [d, dx, dcl, "dcl d"]
 TH: th
 DH: dh
 F: f
 V: v
-K: [k, kcl]
-G: [g, gcl]
+K: [k, kcl, "kcl k"]
+G: [g, gcl, "gcl g"]
 Z: z
 ZH: zh
 SH: sh
 S: s
 R: [er, ern, r]
 Y: y
-CH: ch
-JH: jh
+CH: [ch, "tcl ch"]
+JH: [jh, "dcl jh"]
 HH: [hh, hv]
 W: w

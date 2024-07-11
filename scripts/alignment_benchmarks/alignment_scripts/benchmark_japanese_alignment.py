@@ -2,7 +2,7 @@ import os
 
 from montreal_forced_aligner.command_line.mfa import mfa_cli
 
-root_dir = r'D:\Data\experiments\alignments'
+root_dir = r'D:\Data\experiments\alignment_benchmarking\alignments'
 mfa10_dir = r"D:\Data\models\1.0_archived"
 mfa20_dir = r"D:\Data\models\2.0_archived"
 mfa20a_dir = r"D:\Data\models\final_training"
