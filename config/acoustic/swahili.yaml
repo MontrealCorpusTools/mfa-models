@@ -1,2 +1,4 @@
 use_pitch: false
 use_voicing: false
+clitic_markers:
+quote_markers: "“„\"”〝〟″「」『』‚ʻʿ‘′"

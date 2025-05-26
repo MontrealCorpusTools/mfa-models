@@ -2,8 +2,39 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.0.1  # Use the ref you want to point at
     hooks:
+      - id: check-ast
+      - id: check-builtin-literals
+      - id: check-docstring-first
+      - id: check-merge-conflict
+      - id: check-yaml
+      - id: check-toml
       - id: file-contents-sorter
         files: ^(dictionary/.*.txt|dictionary/.*.dict|acoustic/index.txt|g2p/index.txt|ivector/index.txt)$
       - id: end-of-file-fixer
       - id: trailing-whitespace
+      - id: debug-statements
       - id: mixed-line-ending
+      - id: check-added-large-files
+        args: ['--maxkb=2000']
+  - repo: https://github.com/psf/black
+    rev: 23.9.1
+    hooks:
+      - id: black
+  #- repo: https://github.com/pycqa/flake8
+  #  rev: 7.0.0
+  #  hooks:
+  #    - id: flake8
+  #      additional_dependencies:
+  #        - pyproject-flake8
+  - repo: https://github.com/pre-commit/mirrors-isort
+    rev: v5.10.1
+    hooks:
+      - id: isort
+        additional_dependencies: [toml]
+  - repo: https://github.com/asottile/setup-cfg-fmt
+    rev: v2.2.0
+    hooks:
+      - id: setup-cfg-fmt
+        args:
+          - --min-py3-version
+          - "3.8"

@@ -33,7 +33,7 @@ data$evaluation = factor(data$evaluation)
 
 data$utt_id <- paste(as.character(data$file), as.character(data$begin), sep='_')
 
-data.subset <- subset(data, evaluation %in% c("torchaudio_mms_fa", "nemo_forced_aligner", "mfa_3.0", "arpa_1.0", "whisperx"))
+data.subset <- subset(data, evaluation %in% c("torchaudio_mms_fa", "nemo_forced_aligner", "mfa_3.0", "whisperx"))
 
 plotData <- summarySE(data=data.subset, measurevar = 'alignment_score', groupvars=c('evaluation', 'corpus'))
 
@@ -46,15 +46,15 @@ ggplot(aes(x=evaluation_label(evaluation), y=mean * 1000), data=plotData) + geom
   theme_memcauliffe() +
   scale_x_discrete(guide = guide_axis(n.dodge = 2)) + facet_trelliscope(~corpus_label(corpus), ncol = 2, scales="free_x")
 
-ggplot(aes(x=evaluation, y=mean * 1000, color=corpus), data=plotData) + geom_point(size = 2.5) +
+ggplot(aes(x=evaluation, y=mean * 1000, color=corpus), data=plotData) + geom_point(size = 4) +
   ylab('Word boundary error (ms)') + xlab('Aligner') +ggtitle('Word boundary errors') +
   theme_memcauliffe() +
-  scale_x_discrete(labels=c("MFA 1.0", "MFA 3.0", "NeMo", "Wav2Vec2.0", "WhisperX"))  +
+  scale_x_discrete(labels=c("MFA 3.0", "NeMo", "Wav2Vec2.0", "WhisperX"))  +
   scale_color_manual(values=c("#FB5607", "#FFBE0B"), labels=c('Buckeye', "TIMIT"), name='Corpus')
 
 ggsave("docs/source/_static/benchmarks/word_alignment.svg", width=blog_width, height=blog_height, units="px", dpi=blog_dpi)
 
-ggsave("docs/source/_static/benchmarks/word_alignment.png", width=1500, height=800, units="px", dpi=200)
+ggsave("docs/source/_static/benchmarks/word_alignment.png", width=1500, height=800, units="px", dpi=150)
 
 plotData %>% mutate(Evaluation = recode_factor(evaluation, torchaudio_mms_fa = "Wav2Vec2", nemo_forced_aligner = "NeMo", mfa_3.0 = "MFA 3.0", arpa_3.0 = 'ARPA 3.0', arpa_1.0 = "ARPA 1.0", whisperx = "WhisperX"), Corpus = recode_factor(corpus, buckeye="Buckeye", timit="TIMIT"), Error = round(mean*1000,1)) %>% group_by(Evaluation, Corpus) %>% select(Evaluation, Corpus, Error) %>% write_csv("docs/source/_static/benchmarks/word_alignment.csv")
 

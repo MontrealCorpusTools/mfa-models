@@ -79,7 +79,6 @@ labphon_data$evaluation <- factor(labphon_data$evaluation)
 plotData <- summarySE(data=labphon_data, measurevar = 'alignment_score', groupvars=c('evaluation', 'corpus'))
 
 
-
 ggplot(aes(x=evaluation, y=mean * 1000, color=corpus, group=corpus), data=plotData) +geom_path() + geom_point(size = 2.5)  +
   ylab('Phone boundary error (ms)') + xlab('MFA version') +ggtitle('Phone boundary errors') +
   theme_memcauliffe() +
@@ -87,6 +86,21 @@ ggplot(aes(x=evaluation, y=mean * 1000, color=corpus, group=corpus), data=plotDa
   scale_color_manual(values=cbbPalette, labels=c('Buckeye', 'CSJ', "Seoul", "TIMIT"), name='Corpus')
 
 ggsave("docs/source/_static/benchmarks/phone_alignment.png", width=1000, height=800, units="px", dpi=200)
+
+
+uw_colloquium_data <- subset(data, corpus %in% c('timit', 'buckeye', 'csj', 'seoul') & evaluation %in% c('mfa_3.0'))
+uw_colloquium_data$corpus <- factor(uw_colloquium_data$corpu, levels=c('timit', 'buckeye', 'csj', 'seoul'))
+
+
+plotData <- summarySE(data=uw_colloquium_data, measurevar = 'alignment_score', groupvars=c('corpus'))
+
+
+ggplot(aes(x=corpus, y=mean * 1000), data=plotData) + geom_point(size = 6, color='#FB5607')  +
+  ylab('Phone boundary error (ms)') + xlab('Corpus') +ggtitle('Phone boundary errors') +
+  theme_memcauliffe() +
+  scale_x_discrete(labels=c("English-TIMIT", 'English-Buckeye', 'Japanese-CSJ', "Korean-Seoul"))
+
+ggsave("docs/source/_static/benchmarks/uw_phone_alignment.png", width=1500, height=800, units="px", dpi=150)
 
 
 

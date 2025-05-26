@@ -1,0 +1,9 @@
+rules:
+  - following_context: ''
+    preceding_context: ''
+    replacement: 'tʃ'
+    segment: 'tɕ'
+  - following_context: ''
+    preceding_context: ''
+    replacement: 'dʒ'
+    segment: 'dʑ'

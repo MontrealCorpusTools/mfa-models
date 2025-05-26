@@ -1,8 +1,6 @@
 Evaluation,Corpus,Error
 ARPA 1.0,Buckeye,28.8
 ARPA 1.0,TIMIT,25.2
-ARPA 3.0,Buckeye,23.2
-ARPA 3.0,TIMIT,19.1
 MFA 3.0,Buckeye,26.9
 MFA 3.0,TIMIT,21
 NeMo,Buckeye,95.5

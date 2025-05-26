@@ -1,18 +1,13 @@
-use_pitch: false
-use_voicing: false
+use_pitch: true
+use_voicing: true
 
 training:
   - monophone:
-      subset_folders:
-        - globalphone_czech
       subset: 10000
       num_iterations: 40
       max_gaussians: 1000
 
   - triphone:
-      subset_folders:
-        - globalphone_czech
-        - snemovna
       subset: 20000
       num_iterations: 35
       num_leaves: 2000
@@ -21,18 +16,12 @@ training:
       power: 0.25
 
   - lda:
-      subset_folders:
-        - globalphone_czech
-        - snemovna
       subset: 20000
       num_leaves: 2500
       max_gaussians: 15000
       num_iterations: 35
 
   - sat:
-      subset_folders:
-        - globalphone_czech
-        - snemovna
       subset: 20000
       num_leaves: 2500
       max_gaussians: 15000
@@ -41,9 +30,6 @@ training:
       fmllr_update_type: "full"
 
   - sat:
-      subset_folders:
-        - globalphone_czech
-        - snemovna
       subset: 50000
       num_leaves: 4200
       max_gaussians: 40000
@@ -56,10 +42,6 @@ training:
       silence_probabilities: true
 
   - sat:
-      subset_folders:
-        - globalphone_czech
-        - snemovna
-        - czech_parliament
       subset: 150000
       num_leaves: 5000
       max_gaussians: 100000
