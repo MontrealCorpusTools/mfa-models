@@ -114,6 +114,13 @@ def load_file(path: Path, max_time):
                 continue
             if label in {"<LAUGH>"} and data and data[-1].label == label:
                 data[-1] = Interval(data[-1].start, end, label)
+            elif (
+                line_type == "words"
+                and label.lower() == "right"
+                and data
+                and data[-1].label.lower() == "all"
+            ):
+                data[-1] = Interval(data[-1].start, end, "alright")
             else:
                 data.append(Interval(begin, end, label))
             if data[-1].label == "<LAUGH>" and data[-1].end - data[-1].start > 1:

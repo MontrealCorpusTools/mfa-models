@@ -9424,7 +9424,7 @@ index b687ef5..38e3300 100644
     67.371946  122 VOCNOISE
     67.466313  122 m
 diff --git a/s1301a.words b/s1301a.words
-index 7693b4e..900d186 100644
+index 7693b4e..c56ecf7 100644
 --- a/s1301a.words
 +++ b/s1301a.words
 @@ -11,13 +11,11 @@ nfields 3
@@ -9500,7 +9500,7 @@ index 7693b4e..900d186 100644
     575.936000 122 that's; dh ae t s; ae t s; DT_VBZ
     576.538000 122 native; n ey t ih v; n ey dx ih v; JJ
 -   577.279000 122 <LAUGH-american>; U; U; null
-+   577.279000 122american; U; U; null
++   577.279000 122 american; U; U; null
     577.473000 122 or; ow r; er; CC
     577.669000 122 say; s ey; s ey; VB
     577.945000 122 that's; dh ae t s; dh ae t s; DT_VBZ
@@ -46375,7 +46375,7 @@ index ebddaed..be84292 100644
    598.577874  122 n
    598.604565  122 d
 diff --git a/s3801a.words b/s3801a.words
-index e70dafc..0b4d19d 100644
+index e70dafc..69f3932 100644
 --- a/s3801a.words
 +++ b/s3801a.words
 @@ -29,6 +29,7 @@ nfields 1
@@ -46417,7 +46417,7 @@ index e70dafc..0b4d19d 100644
     63.544500 122 graduates; g r ae d y uw ey t s; g r ae jh uw ih t s; NNS
 +   63.662224 122 <SIL>; U; U; null
     63.815115 122 my; m ay; m ay; PRP$
-+   63.918756122 <SIL>; U; U; null
++   63.918756 122 <SIL>; U; U; null
     64.314500 122 father; f aa dh er; f aa dh er; NN
     64.490667 122 was; w ah z; w ah z; VBD
     64.555005 122 a; ey; ih; DT
