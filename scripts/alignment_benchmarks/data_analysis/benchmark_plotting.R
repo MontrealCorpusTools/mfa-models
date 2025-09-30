@@ -43,6 +43,13 @@ data[str_detect(data$evaluation, '_3.1'),]$version = "3.1"
 data[str_detect(data$evaluation, 'trained_3.0'),]$version = "trained_3.0"
 data$version <- factor(data$version)
 
+data$adapted = "Not adapted"
+data[str_detect(data$evaluation, '_adapt'),]$adapted = "Adapted"
+data$adapted <- factor(data$adapted)
+
+data$finetuned = "Not finetuned"
+data[str_detect(data$evaluation, '_finetune'),]$finetuned = "Finetuned"
+data$finetuned <- factor(data$finetuned)
 
 data$phone_set = "mfa"
 data[str_detect(data$evaluation, 'arpa'),]$phone_set = "arpa"
@@ -53,13 +60,16 @@ data <- subset(data, !is.na(data$alignment_score))
 data = subset(data, word_count > 1)
 data = subset(data, !(word_count == 2 & reference_phone_count == 2))
 
-plotData <- summarySE(data=data, measurevar = 'alignment_score', groupvars=c('evaluation', 'corpus','phone_set'))
+
+data <- subset(data, version %in% c("3.0", "3.1"))
+
+plotData <- summarySE(data=data, measurevar = 'alignment_score', groupvars=c('evaluation', 'adapted', 'finetuned', 'corpus','phone_set'))
 
 ggplot(aes(x=evaluation, y=mean * 1000), data=plotData) + geom_point(size = 5, color='#FB5607') +
   geom_errorbar(aes(ymin = (mean - ci) * 1000, ymax = (mean + ci)* 1000),size=2, width=0.5, color='#FB5607') +
   ylab('Phone boundary error (ms)') + xlab('Alignment condition') +ggtitle('Phone boundary errors') +
   theme_memcauliffe() +
-  scale_x_discrete(guide = guide_axis(n.dodge = 2)) + facet_trelliscope(phone_set~corpus, ncol = 2, scales="free_x")
+  scale_x_discrete(guide = guide_axis(n.dodge = 2)) + facet_trelliscope(phone_set~corpus*adapted, ncol = 2, scales="free_x")
 
 plotData <- summarySE(data=data, measurevar = 'phone_error_rate', groupvars=c('version', 'corpus','phone_set'))
 

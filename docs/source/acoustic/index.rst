@@ -44,6 +44,7 @@ Acoustic models
    Portuguese/index.rst
    Romanian/index.rst
    Russian/index.rst
+   Serbo-Croatian/index.rst
    Sorbian/index.rst
    Spanish/index.rst
    Swahili/index.rst

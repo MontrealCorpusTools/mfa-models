@@ -15,7 +15,7 @@ repos:
       - id: debug-statements
       - id: mixed-line-ending
       - id: check-added-large-files
-        args: ['--maxkb=2000']
+        args: ['--maxkb=3000']
   - repo: https://github.com/psf/black
     rev: 23.9.1
     hooks:

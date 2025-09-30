@@ -356,18 +356,20 @@ def parse_files(
     phone_intervals = load_file(phones_file, duration)
     utterances = construct_phrases(word_intervals, duration)
     utterance_path = os.path.join(benchmark_speaker_directory, f"{file_name}.TextGrid")
+    phone_intervals = correct_phones(word_intervals, phone_intervals)
+
+    word_tier = tgio.IntervalTier(f"{speaker} - words", word_intervals, minT=0, maxT=duration)
+    phone_tier = tgio.IntervalTier(f"{speaker} - phones", phone_intervals, minT=0, maxT=duration)
     tg = tgio.Textgrid(maxTimestamp=duration)
     tier = tgio.IntervalTier(speaker, utterances, minT=0, maxT=duration)
 
     tg.addTier(tier)
+    tg.addTier(word_tier)
+    tg.addTier(phone_tier)
     tg.save(utterance_path, includeBlankSpaces=True, format="long_textgrid", reportingMode="error")
 
     aligned_path = os.path.join(aligned_speaker_directory, f"{file_name}.TextGrid")
     tg = tgio.Textgrid(maxTimestamp=duration)
-    phone_intervals = correct_phones(word_intervals, phone_intervals)
-
-    word_tier = tgio.IntervalTier("words", word_intervals, minT=0, maxT=duration)
-    phone_tier = tgio.IntervalTier("phones", phone_intervals, minT=0, maxT=duration)
     tg.addTier(word_tier)
     tg.addTier(phone_tier)
 

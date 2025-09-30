@@ -1,0 +1,16 @@
+{
+    "name": "czech_mfa",
+    "language": "Czech",
+    "dialect": "",
+    "phone_set": "MFA",
+    "version": "3.3.0",
+    "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
+    "citation": "@techreport{mfa_czech_mfa_acoustic_2025,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Czech MFA acoustic model v3.3.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/acoustic/Czech/Czech MFA acoustic model v3_3_0.html}},\n\tyear={2025},\n\tmonth={May},\n}",
+    "license": "CC BY 4.0",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/acoustic/czech/mfa/v3.3.0/LICENSE)",
+    "architecture": "gmm-hmm",
+    "features": "MFCC",
+    "evaluation": {},
+    "decode": {},
+    "train_date": "2025-05-05"
+}

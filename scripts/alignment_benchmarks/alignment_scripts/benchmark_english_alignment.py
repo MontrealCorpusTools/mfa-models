@@ -10,6 +10,7 @@ mfa21_dir = r"D:\Data\models\2.1_trained"
 mfa22_dir = r"D:\Data\models\2.2_trained"
 mfa30_dir = r"D:\Data\models\3.0_trained"
 mfa31_dir = r"D:\Data\models\3.1_trained"
+adapted_dir = r"D:\Data\models\adapted"
 trained22_dir = r"D:\Data\models\2.2_trained\buckeye"
 trained30_dir = r"D:\Data\models\3.0_trained\buckeye"
 mapping_directory = os.path.join(
@@ -28,6 +29,18 @@ reference_directories = {
 
 conditions = {
     "arpa_1.0": (os.path.join(mfa10_dir, "english.dict"), os.path.join(mfa10_dir, "english.zip")),
+    "arpa_1.0_finetune": (
+        os.path.join(mfa10_dir, "english.dict"),
+        os.path.join(mfa10_dir, "english.zip"),
+    ),
+    "arpa_1.0_adapted": (
+        os.path.join(mfa10_dir, "english.dict"),
+        os.path.join(mfa10_dir, "english.zip"),
+    ),
+    "arpa_1.0_adapted_finetune": (
+        os.path.join(mfa10_dir, "english.dict"),
+        os.path.join(mfa10_dir, "english.zip"),
+    ),
     "arpa_2.0": (
         os.path.join(mfa20_dir, "english_us_arpa.dict"),
         os.path.join(mfa20_dir, "english_us_arpa.zip"),
@@ -64,7 +77,31 @@ conditions = {
         os.path.join(mfa31_dir, "english_us_mfa.dict"),
         os.path.join(mfa31_dir, "english_mfa.zip"),
     ),
+    "mfa_3.1_finetune": (
+        os.path.join(mfa31_dir, "english_us_mfa.dict"),
+        os.path.join(mfa31_dir, "english_mfa.zip"),
+    ),
+    "mfa_3.1_adapted": (
+        os.path.join(mfa31_dir, "english_us_mfa.dict"),
+        os.path.join(mfa31_dir, "english_mfa.zip"),
+    ),
+    "mfa_3.1_adapted_finetune": (
+        os.path.join(mfa31_dir, "english_us_mfa.dict"),
+        os.path.join(mfa31_dir, "english_mfa.zip"),
+    ),
     "arpa_3.0": (
+        os.path.join(mfa30_dir, "english_us_arpa.dict"),
+        os.path.join(mfa30_dir, "english_us_arpa.zip"),
+    ),
+    "arpa_3.0_finetune": (
+        os.path.join(mfa30_dir, "english_us_arpa.dict"),
+        os.path.join(mfa30_dir, "english_us_arpa.zip"),
+    ),
+    "arpa_3.0_adapted": (
+        os.path.join(mfa30_dir, "english_us_arpa.dict"),
+        os.path.join(mfa30_dir, "english_us_arpa.zip"),
+    ),
+    "arpa_3.0_adapted_finetune": (
         os.path.join(mfa30_dir, "english_us_arpa.dict"),
         os.path.join(mfa30_dir, "english_us_arpa.zip"),
     ),
@@ -77,6 +114,14 @@ conditions = {
         os.path.join(trained30_dir, "english_mfa.zip"),
     ),
     "arpa_2.2": (
+        os.path.join(mfa20a_dir, "english_us_arpa.dict"),
+        os.path.join(mfa20a_dir, "english_us_arpa.zip"),
+    ),
+    "arpa_2.2_adapted": (
+        os.path.join(mfa20a_dir, "english_us_arpa.dict"),
+        os.path.join(mfa20a_dir, "english_us_arpa.zip"),
+    ),
+    "arpa_2.2_adapted_finetune": (
         os.path.join(mfa20a_dir, "english_us_arpa.dict"),
         os.path.join(mfa20a_dir, "english_us_arpa.zip"),
     ),
@@ -103,6 +148,33 @@ if __name__ == "__main__":
                 continue
             if not os.path.exists(dictionary_path):
                 continue
+            if "adapt" in condition:
+                os.makedirs(adapted_dir, exist_ok=True)
+                output_model_path = os.path.join(
+                    adapted_dir, f"{condition.replace('_finetune', '')}.zip"
+                )
+                if not os.path.exists(output_model_path):
+                    command = [
+                        "adapt",
+                        root,
+                        str(dictionary_path),
+                        str(model_path),
+                        str(output_model_path),
+                        "-j",
+                        "10",
+                        "--clean",
+                        "--no_debug",
+                        "--use_mp",
+                        "--use_cutoff_model",
+                        "--use_postgres",
+                        "--beam",
+                        "10",
+                        "--retry_beam",
+                        "40",
+                    ]
+                    print(command)
+                    mfa_cli(command, standalone_mode=False)
+                model_path = output_model_path
             command = [
                 "align",
                 root,

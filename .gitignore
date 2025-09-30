@@ -28,3 +28,5 @@ scripts/temp/
 scripts/corpus_prep/temp/
 
 .Rhistory
+
+.RData

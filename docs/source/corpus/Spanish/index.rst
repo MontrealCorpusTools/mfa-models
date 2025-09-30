@@ -20,6 +20,7 @@ Spanish
    Common Voice Spanish v8_0.md
    Multilingual LibriSpeech Spanish.md
    M-AILABS Spanish.md
+   Multilingual TEDx Spanish.md
    Google i18n Chile.md
    Google i18n Columbia.md
    Google i18n Peru.md
