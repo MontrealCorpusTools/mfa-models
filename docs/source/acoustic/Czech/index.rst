@@ -16,7 +16,7 @@ Czech
 .. toctree::
    :hidden:
 
-   Czech MFA acoustic model v3_3_0.md
    Czech CV acoustic model v2_0_0.md
    Czech MFA acoustic model v2_0_0.md
    Czech MFA acoustic model v2_0_0a.md
+   Czech MFA acoustic model v3_3_0.md

@@ -16,9 +16,9 @@ Spanish
 .. toctree::
    :hidden:
 
-   Spanish (Latin America) MFA G2P model v3_3_0.md
-   Spanish (Spain) MFA G2P model v3_3_0.md
    Spanish (Latin America) MFA G2P model v2_0_0.md
    Spanish (Latin America) MFA G2P model v2_0_0a.md
+   Spanish (Latin America) MFA G2P model v3_3_0.md
    Spanish (Spain) MFA G2P model v2_0_0.md
    Spanish (Spain) MFA G2P model v2_0_0a.md
+   Spanish (Spain) MFA G2P model v3_3_0.md

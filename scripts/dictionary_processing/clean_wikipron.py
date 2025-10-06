@@ -18,7 +18,7 @@ LANG_PATHS = {"french": "fra_latn_broad_filtered.tsv"}
 #             'portuguese_portugal', 'russian', 'spanish_spain', 'spanish_latin_america', 'swedish',
 #              'tamil', 'thai', 'turkish', 'ukrainian', 'mandarin_hani_beijing', 'mandarin_hani_taiwan', 'mandarin_hani_standard',
 #              'korean_hangul', 'hausa', 'japanese', 'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_hochiminhcity',
-#              'serbo-croatian_croatian', 'serbo-croatian_serbian']
+#              'serbocroatian_croatian', 'serbocroatian_serbian']
 LANG_CODES = ["czech"]
 
 BAD_GRAPHEMES = {
@@ -490,7 +490,7 @@ LANG_MAPPING = {
         "ɔ": "o",
         "ɔː": "oː",
     },
-    "serbo-croatian_croatian": {
+    "serbocroatian_croatian": {
         "ʋ": "v",
         "ɕ": "ʃ",
         "ʑ": "ʒ",
@@ -519,7 +519,7 @@ LANG_MAPPING = {
         "ǔː": "uː˨˦",
         "ǔ": "u˨˦",
     },
-    "serbo-croatian_serbian": {
+    "serbocroatian_serbian": {
         "ʋ": "v",
         "ɕ": "ʃ",
         "ʑ": "ʒ",
@@ -1236,7 +1236,7 @@ def convert_language_specific(word, phones, lang):
                 p = "u"
             elif p == "e":
                 p = "ɛ"
-        elif lang.startswith("serbo-croatian"):
+        elif lang.startswith("serbocroatian"):
             if p in {"ɕ", "ʂ", "ʃ"} and len(new_pron) and new_pron[-1] == "t":
                 new_pron[-1] += p
                 continue

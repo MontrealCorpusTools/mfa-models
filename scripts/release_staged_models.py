@@ -13,7 +13,7 @@ UPDATE = False
 with open(os.path.join(mfa_model_root, "scripts", "token"), "r") as f:
     token = f.read()
 
-CURRENT_VERSION = "v3.1.0"
+CURRENT_VERSION = "v3.3.0"
 
 tag_template = "{model_type}-{model_name}-v{version}"
 

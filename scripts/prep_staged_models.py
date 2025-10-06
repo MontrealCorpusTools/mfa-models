@@ -703,7 +703,7 @@ language_links = {
     "Bulgarian": ("Bulgarian", "https://en.wikipedia.org/wiki/Bulgarian_language"),
     "Chuvash": ("Chuvash", "https://en.wikipedia.org/wiki/Chuvash_language"),
     "Croatian": ("Serbo-Croatian", "https://en.wikipedia.org/wiki/Serbo-Croatian"),
-    "Serbo-Croatian": ("Serbo-Croatian", "https://en.wikipedia.org/wiki/Serbo-Croatian"),
+    "Serbocroatian": ("Serbo-Croatian", "https://en.wikipedia.org/wiki/Serbo-Croatian"),
     "Czech": ("Czech", "https://en.wikipedia.org/wiki/Czech_language"),
     "Dutch": ("Dutch", "https://en.wikipedia.org/wiki/Dutch_language"),
     "English": ("English", "https://en.wikipedia.org/wiki/English_language"),

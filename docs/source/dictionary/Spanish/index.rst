@@ -16,11 +16,11 @@ Spanish
 .. toctree::
    :hidden:
 
-   Spanish (Latin America) MFA dictionary v3_3_0.md
-   Spanish (Spain) MFA dictionary v3_3_0.md
    Spanish (Latin America) MFA dictionary v2_0_0.md
    Spanish (Latin America) MFA dictionary v2_0_0a.md
+   Spanish (Latin America) MFA dictionary v3_3_0.md
    Spanish MFA dictionary v2_0_0.md
    Spanish MFA dictionary v2_0_0a.md
    Spanish (Spain) MFA dictionary v2_0_0.md
    Spanish (Spain) MFA dictionary v2_0_0a.md
+   Spanish (Spain) MFA dictionary v3_3_0.md

@@ -1,9 +1,9 @@
 {
-    "name": "serbo-croatian_mfa",
-    "language": "Serbo-Croatian",
+    "name": "serbocroatian_mfa",
+    "language": "Serbocroatian",
     "dialect": "",
     "maintainer": "[Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)",
-    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/serbo-croatian/mfa/v3.3.0/LICENSE)",
+    "license_link": "[CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/dictionary/serbocroatian/mfa/v3.3.0/LICENSE)",
     "license": "CC BY 4.0",
     "phone_set": "MFA",
     "phones": [
@@ -70,7 +70,7 @@
         "ʒ"
     ],
     "word_count": 69307,
-    "train_date": "2025-09-30",
+    "train_date": "2025-10-06",
     "version": "3.3.0",
-    "citation": "@techreport{mfa_serbo-croatian_mfa_dictionary_2025,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Serbo-Croatian MFA dictionary v3.3.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Serbo-Croatian/Serbo-Croatian MFA dictionary v3_3_0.html}},\n\tyear={2025},\n\tmonth={Sep},\n}"
+    "citation": "@techreport{mfa_serbocroatian_mfa_dictionary_2025,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Serbocroatian MFA dictionary v3.3.0},\n\taddress={\\url{https://mfa-models.readthedocs.io/pronunciation dictionary/Serbocroatian/Serbocroatian MFA dictionary v3_3_0.html}},\n\tyear={2025},\n\tmonth={Oct},\n}"
 }

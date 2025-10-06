@@ -44,7 +44,7 @@ languages = [
 languages = [
     "spanish",
     #'swahili',
-    #'serbo-croatian',
+    #'serbocroatian',
     #'czech',
     #'hindi',
     #'urdu',
@@ -106,7 +106,7 @@ if __name__ == "__main__":
         if not os.path.exists(dictionary_path):
             dictionary_path = os.path.join(dictionary_dir, f"{lang}_mfa.dict")
         oov_count_threshold = "1"
-        if lang in {"serbo-croatian"}:
+        if lang in {"serbocroatian"}:
             oov_count_threshold = "0"
         command = [
             "train",

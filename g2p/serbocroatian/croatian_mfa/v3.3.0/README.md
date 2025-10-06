@@ -1,6 +1,6 @@
-# Serbo-Croatian (Croatian) MFA G2P model v3.3.0
+# Serbocroatian (Croatian) MFA G2P model v3.3.0
 
-[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/serbo-croatian_croatian_mfa.html)
+[Link to documentation on mfa-models](https://mfa-models.readthedocs.io/en/main/g2p/serbocroatian_croatian_mfa.html)
 
 Jump to section:
 
@@ -18,42 +18,42 @@ Jump to section:
 - **Maintainer:** [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/)
 - **Language:** [Serbo-Croatian](https://en.wikipedia.org/wiki/Serbo-Croatian)
 - **Dialect:** N/A
-- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#serbo-croatian)
+- **Phone set:** [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#serbocroatian)
 - **Model type:** `G2P model`
 - **Architecture:** `phonetisaurus`
 - **Model version:** `v3.3.0`
 - **Trained date:** `2024-10-25`
 - **Compatible MFA version:** `v3.3.0`
-- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/serbo-croatian/croatian_mfa/v3.3.0/LICENSE)
+- **License:** [CC BY 4.0](https://github.com/MontrealCorpusTools/mfa-models/tree/main/g2p/serbocroatian/croatian_mfa/v3.3.0/LICENSE)
 - **Citation:**
 
 ```bibtex
-@techreport{mfa_serbo-croatian_croatian_mfa_g2p_2024,
+@techreport{mfa_serbocroatian_croatian_mfa_g2p_2024,
 	author={McAuliffe, Michael and Sonderegger, Morgan},
-	title={Serbo-Croatian (Croatian) MFA G2P model v3.3.0},
-	address={\url{https://mfa-models.readthedocs.io/G2P model/Serbo-Croatian/Serbo-Croatian (Croatian) MFA G2P model v3_3_0.html}},
+	title={Serbocroatian (Croatian) MFA G2P model v3.3.0},
+	address={\url{https://mfa-models.readthedocs.io/G2P model/Serbocroatian/Serbocroatian (Croatian) MFA G2P model v3_3_0.html}},
 	year={2024},
 	month={Oct},
 }
 ```
 
-- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Serbo-Croatian+Croatian+MFA+G2P+model+v3.3.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
+- If you have comments or questions about this model, you can check [previous MFA model discussion posts](https://github.com/MontrealCorpusTools/mfa-models/discussions?discussions_q=Serbocroatian+Croatian+MFA+G2P+model+v3.3.0) or create [a new one](https://github.com/MontrealCorpusTools/mfa-models/discussions/new).
 
 ## Installation
 
 Install from the [MFA command line](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/models/index.html):
 
 ```
-mfa model download g2p serbo-croatian_croatian_mfa
+mfa model download g2p serbocroatian_croatian_mfa
 ```
 
-Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-serbo-croatian_croatian_mfa-v3.3.0).
+Or download from [the release page](https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-serbocroatian_croatian_mfa-v3.3.0).
 
 ## Intended use
 
 This model is intended for generating pronunciations of [Serbo-Croatian](https://en.wikipedia.org/wiki/Serbo-Croatian) transcripts.
 
-This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#serbo-croatian) phone set for Serbo-Croatian, and was trained from the pronunciation dictionaries above. Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
+This model uses the [MFA](https://mfa-models.readthedocs.io/en/refactor/mfa_phone_set.html#serbocroatian) phone set for Serbocroatian, and was trained from the pronunciation dictionaries above. Pronunciations generated with this G2P model can be appended and used when aligning or transcribing.
 
 ## Performance Factors
 

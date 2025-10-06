@@ -28,7 +28,7 @@ G2P models
    Polish/index.rst
    Portuguese/index.rst
    Russian/index.rst
-   Serbo-Croatian/index.rst
+   Serbocroatian/index.rst
    Spanish/index.rst
    Swahili/index.rst
    Swedish/index.rst

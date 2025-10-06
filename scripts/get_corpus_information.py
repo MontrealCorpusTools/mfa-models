@@ -19,7 +19,7 @@ languages = [
     "korean",
     "bulgarian",
     "vietnamese",
-    "serbo-croatian",
+    "serbocroatian",
     "hausa",
     "ukrainian",
     "thai",
