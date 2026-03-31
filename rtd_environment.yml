@@ -9,7 +9,6 @@ dependencies:
   - numpydoc
   - pydata-sphinx-theme
   - sphinx-design
-  - kaldi
   - pip:
       - sphinx-needs
       - sphinxcontrib-plantuml
