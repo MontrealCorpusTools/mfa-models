@@ -1,17 +1,26 @@
 import collections
 import itertools
 import os
+import pathlib
 import re
+import unicodedata
+
+import segments
 
 try:
     import jamo
 except ImportError:
     jamo = None
 
-WIKIPRON_DIR = r"C:\Users\micha\Documents\Dev\wikipron\data\scrape\tsv"
-OUTPUT_DIR = r""
+ROOT_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
+SCRAPE_DIR = ROOT_DIR.joinpath("dictionary", "training", "scraped")
+OUTPUT_DIR = ROOT_DIR.joinpath("dictionary", "training", "cleaned")
 
-LANG_PATHS = {"french": "fra_latn_broad_filtered.tsv"}
+LANG_PATHS = {
+    "french": "fra_latn_broad_filtered.tsv",
+    "portuguese_brazil": "Portuguese.tsv",
+    "portuguese_portugal": "Portuguese.tsv",
+}
 
 # Full list of languages
 # LANG_CODES = ['bulgarian', 'czech', 'french', 'german', 'mandarin_hani', 'polish', 'portuguese_brazil',
@@ -19,7 +28,7 @@ LANG_PATHS = {"french": "fra_latn_broad_filtered.tsv"}
 #              'tamil', 'thai', 'turkish', 'ukrainian', 'mandarin_hani_beijing', 'mandarin_hani_taiwan', 'mandarin_hani_standard',
 #              'korean_hangul', 'hausa', 'japanese', 'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_hochiminhcity',
 #              'serbocroatian_croatian', 'serbocroatian_serbian']
-LANG_CODES = ["czech"]
+LANG_CODES = ["portuguese_brazil", "portuguese_portugal"]
 
 BAD_GRAPHEMES = {
     "english_us": {
@@ -243,8 +252,8 @@ BAD_GRAPHEMES = {
         "𫇦",
     },
     "german": {"'", ".", "@", "à", "á", "ç", "è", "é", "ê", "ó", "ø", "œ", "í", "ë"},
-    "portuguese_brazil": {"'", "."},
-    "portuguese_portugal": {"'", "."},
+    "portuguese_brazil": {".", "🆒"},
+    "portuguese_portugal": {".", "🆒"},
     "russian": {"'", ".", "/", "ѳ"},
     "spanish_spain": {"'", ".", "ö", "ꝇ", "î", "ç"},
     "spanish_latin_america": {"'", ".", "ö", "ꝇ", "î", "ç"},
@@ -279,6 +288,8 @@ BAD_PHONES = {
     "mandarin_hani_taiwan": {"ai", "a", "ei", "o", "ə", "z̩", "ʐ̩"},
     "mandarin_hani_standard": {"ai", "a", "ei", "o", "ə", "z̩", "ʐ̩"},
     "mandarin_hani_beijing": {"ai", "a", "ei", "o", "ə", "z̩", "ʐ̩"},
+    "portuguese_brazil": {"ɜ", "ǀ", "ɱ", "ə̃", "ə", "y", "ɹ", "dz", "ɐ̃̃", "o̝"},
+    "portuguese_portugal": {"ɜ", "ǀ", "ɱ", "ə̃", "ə", "y", "ɹ", "dz", "ɐ̃̃", "o̝"},
 }
 
 VOWELS = {
@@ -371,6 +382,48 @@ VOWELS = {
         "ʊ",
         "ɪ",
     },
+    "portuguese_portugal": {
+        "a",
+        "e",
+        "o",
+        "i",
+        "u",
+        "i",
+        "ɛ",
+        "ɐ",
+        "ɔ",
+        "ĩ",
+        "õ",
+        "ɐ̃",
+        "ẽ",
+        "ẽ",
+        "ũ",
+        "ũ",
+        "õ",
+        "ĩ",
+        "ɨ",
+    },
+    "portuguese_brazil": {
+        "a",
+        "e",
+        "o",
+        "i",
+        "u",
+        "i",
+        "ɛ",
+        "ɐ",
+        "ɔ",
+        "ĩ",
+        "õ",
+        "ɐ̃",
+        "ẽ",
+        "ẽ",
+        "ũ",
+        "ũ",
+        "õ",
+        "ĩ",
+        "ɨ",
+    },
     "mandarin_hani": {"a", "e", "o", "i", "u", "y", "ə", "ɚ", "ɤ̃", "ʊ̃"},
     "mandarin_hani_standard": {"a", "e", "o", "i", "u", "y", "ə", "ɚ", "ɤ̃", "ʊ̃"},
     "mandarin_hani_taiwan": {"a", "e", "o", "i", "u", "y", "ə", "ɚ", "ɤ̃", "ʊ̃"},
@@ -453,7 +506,9 @@ VOWELS = {
     },
 }
 
-VOWEL_PATTERNS = {"swedish": re.compile(r"^[aeiɛøæuoʊêɔɪœɑʉɵɶ̂œ̞ː˧˩ɒyʏʉ̟ː˧˩əː˧˩˥]+$")}
+VOWEL_PATTERNS = {
+    "swedish": re.compile(r"^[aeiɛøæuoʊêɔɪœɑʉɵɶ̂œ̞ː˧˩ɒyʏʉ̟ː˧˩əː˧˩˥]+$"),
+}
 
 
 LANG_MAPPING = {
@@ -691,21 +746,38 @@ LANG_MAPPING = {
     },
     "portuguese_brazil": {
         "ã": "ɐ̃",
+        "uː": "u",
+        "ɔ̃": "õ",
+        "ɛ̃": "ẽ",
+        "ø": "e",
         "ɫ": "l",
-        "ʁ": "x",
-        "ɹ": "x",
-        "ɻ": "x",
-        "χ": "x",
+        # "ɹ": "ɾ",
+        "ɻ": "ɾ",
+        # "χ": "ɾ",
+        "ɣ": "ɡ",
+        "ð": "d",
+        "β": "b",
         "ɦ": "x",
         "h": "x",
-        "r": "x",
+        "r": "ʁ",
         "ɪ": "i",
         "ʊ": "u",
+        "ɲ": "j̃",
+        "ɪ̯̃": "j̃",
     },
     "portuguese_portugal": {
         "ã": "ɐ̃",
-        "ɫ": "l",
-        "r": "ʁ",
+        "uː": "u",
+        "ɔ̃": "õ",
+        "ɛ̃": "ẽ",
+        "ɣ": "ɡ",
+        "ð": "d",
+        "β": "b",
+        "ø": "e",
+        "l": "ɫ",
+        # "r": "ʁ",
+        "ɻ": "ɾ",
+        "h": "x",
     },
     "swedish": {
         "ɛ̄": "ɛ̂",
@@ -959,11 +1031,46 @@ GLOBAL_REMAPPING = {
 }
 
 
+def _skip_word(word, lang):
+    if lang in BAD_GRAPHEMES:
+        if any(x in BAD_GRAPHEMES[lang] for x in word):
+            return True
+    if word.startswith("-"):
+        return True
+    # Skips examples containing digits.
+    if re.search(r"\d", word):
+        return True
+    return False
+
+
+def _process_wiki_pron(phones):
+    tokenizer = segments.Tokenizer()
+    phones = unicodedata.normalize("NFD", phones)
+    phones = re.sub(r"[-ˈˌ.()#]", "", phones)
+    phones = tokenizer(phones, ipa=True).split()
+    new_phones = []
+    for p in phones:
+        new_phones.append(p)
+    new_pron = " ".join(new_phones)
+    new_pron = unicodedata.normalize("NFC", new_pron)
+    new_pron = re.sub(r"[-ˈˌ.()#]", "", new_pron)
+    return new_pron.split()
+
+
+def _check_dialect(lang, dialect):
+    if not dialect:
+        return True
+    d = lang.split("_")[-1]
+    if dialect.lower() == d:
+        return True
+    return False
+
+
 def read_source(lang):
     graphemes = set()
     phones = set()
     dictionary = []
-    path = os.path.join(WIKIPRON_DIR, LANG_PATHS[lang])
+    path = os.path.join(SCRAPE_DIR, LANG_PATHS[lang])
     with open(path, "r", encoding="utf8") as f:
         for line in f:
             line = line.strip()
@@ -972,16 +1079,17 @@ def read_source(lang):
             if "\t" in line:
                 line = line.split("\t")
                 word = line[0]
-                pronunciation = line[1].split()
+                dialect = line[1]
+                pronunciation = line[2]
             else:
                 line = line.split()
                 word = line[0]
                 pronunciation = line[1:]
-            word = word.lower()
-            if lang in BAD_GRAPHEMES:
-                if any(x in BAD_GRAPHEMES[lang] for x in word):
-                    print(word)
-                    continue
+            if not _check_dialect(lang, dialect):
+                continue
+            if _skip_word(word, lang):
+                continue
+            pronunciation = _process_wiki_pron(pronunciation)
             graphemes.update(word)
             phones.update(pronunciation)
             dictionary.append((word, pronunciation))
@@ -1332,39 +1440,25 @@ def convert_language_specific(word, phones, lang):
                 if p == k:
                     p = v
                     break
-            if p == "w̃" and len(new_pron) and new_pron[-1] in {"ɐ̃", "õ"}:
-                new_pron[-1] += p
+            if p.startswith("i") and len(new_pron) and new_pron[-1] == "l":
+                new_pron[-1] = "ʎ"
+            elif p == "w" and len(new_pron) and new_pron[-1] in {"k", "ɡ"}:
+                new_pron[-1] += "ʷ"
                 continue
-            elif p == "j̃" and len(new_pron) and new_pron[-1] in {"ɐ̃", "õ", "ẽ", "ũ"}:
-                new_pron[-1] += p
-                continue
-            elif (
-                p == "j" and len(new_pron) and new_pron[-1] in {"a", "ɛ", "e", "ɐ", "ɔ", "o", "u"}
-            ):
-                new_pron[-1] += p
-                continue
-            elif p == "w" and len(new_pron) and new_pron[-1] in {"a", "ɛ", "e", "ɐ", "i"}:
-                new_pron[-1] += p
-                continue
+            elif p in {"m", "n"} and len(new_pron) and "̃" in new_pron[-1]:
+                new_pron[-1] = new_pron[-1].replace("̃", "")
         elif lang == "portuguese_portugal":
             for k, v in LANG_MAPPING[lang].items():
                 if p == k:
                     p = v
                     break
-            if p == "w̃" and len(new_pron) and new_pron[-1] in {"ɐ̃", "õ"}:
-                new_pron[-1] += p
+            if p == "w" and len(new_pron) and new_pron[-1] in {"k", "ɡ"}:
+                new_pron[-1] += "ʷ"
                 continue
-            elif p == "j̃" and len(new_pron) and new_pron[-1] in {"ɐ̃", "õ", "ẽ", "ũ"}:
-                new_pron[-1] += p
-                continue
-            elif (
-                p == "j" and len(new_pron) and new_pron[-1] in {"a", "ɛ", "e", "ɐ", "ɔ", "o", "u"}
-            ):
-                new_pron[-1] += p
-                continue
-            elif p == "w" and len(new_pron) and new_pron[-1] in {"a", "ɛ", "e", "ɐ", "i"}:
-                new_pron[-1] += p
-                continue
+            elif p in {"m", "n"} and len(new_pron) and "̃" in new_pron[-1]:
+                new_pron[-1] = new_pron[-1].replace("̃", "")
+            elif p == "o" and i == len(phones) - 1:
+                p = "o w"
         elif lang == "swedish":
             if p == "ʒ" and len(new_pron) and new_pron[-1] == "d":
                 new_pron[-1] += p
@@ -1432,7 +1526,6 @@ def convert_language_specific(word, phones, lang):
                 and len(new_pron)
                 and new_pron[-1] in {"tʰ", "kʰ", "pʰ", "ʈʰ"}
             ):
-                print(new_pron[-1], p)
                 new_pron[-1] = new_pron[-1][0]
             elif (
                 p in {"tʰ", "kʰ", "pʰ", "ʈʰ"}
@@ -1515,13 +1608,6 @@ def convert_language_specific(word, phones, lang):
                 new_pron[-1] = "ɫ"
             elif p in {"i", "e", "œ", "y"} and len(new_pron) and new_pron[-1] in {"ɫ"}:
                 new_pron[-1] = "l"
-        elif lang == "portuguese_brazil":
-            if p == "ʃ" and len(new_pron) and new_pron[-1] in {"t"}:
-                new_pron[-1] += p
-                continue
-            elif p == "ʒ" and len(new_pron) and new_pron[-1] in {"d"}:
-                new_pron[-1] += p
-                continue
         elif lang == "russian":
             voiced_set = {
                 "v",
@@ -2162,6 +2248,13 @@ def convert_second_round(word, phones, lang):
                 and phones[i + 1] in stressed_vowels
             ):
                 p += "ʰ"
+        elif lang == "portuguese_brazil":
+            if p == "i" and new_pron and new_pron[-1] == "d":
+                new_pron[-1] = "dʒ"
+            elif p == "i" and new_pron and new_pron[-1] == "t":
+                new_pron[-1] = "tʃ"
+            elif p == "i" and new_pron and new_pron[-1] == "l":
+                new_pron[-1] = "ʎ"
         new_pron.append(p)
     return new_pron
 
@@ -2187,6 +2280,9 @@ def fix_pronunciations(dictionary, lang):
                 pronunciation[i] = p.replace("͜", "")
             elif "g" in p:
                 pronunciation[i] = p.replace("g", "ɡ")
+        pronunciation = [x for x in pronunciation if x not in {"‿", ""}]
+        if lang in BAD_PHONES and any(x in BAD_PHONES[lang] for x in pronunciation):
+            continue
         # Language specific conversions
         new_pron = convert_language_specific(word, pronunciation, lang)
         new_pron = convert_second_round(word, new_pron, lang)
@@ -2221,5 +2317,6 @@ def process_language(lang):
 
 
 if __name__ == "__main__":
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     for code in LANG_CODES:
         process_language(code)

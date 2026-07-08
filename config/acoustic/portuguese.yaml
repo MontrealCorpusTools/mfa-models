@@ -1,2 +1,101 @@
 use_pitch: false
 use_voicing: false
+
+subcorpora:
+  common_voice_portuguese:
+      boost_silence: 1.5
+      surrounding_silence: true
+  CORAA:
+      boost_silence: 1.5
+
+training:
+  - monophone:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+      subset: 10000
+      num_iterations: 40
+      max_gaussians: 1000
+
+  - triphone:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+      subset: 20000
+      num_iterations: 35
+      num_leaves: 2000
+      max_gaussians: 10000
+      cluster_threshold: -1
+      power: 0.25
+
+  - lda:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+      subset: 20000
+      num_leaves: 2500
+      max_gaussians: 15000
+      num_iterations: 35
+
+  - sat:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+      subset: 20000
+      num_leaves: 2500
+      max_gaussians: 15000
+      power: 0.2
+      silence_weight: 0.0
+      fmllr_update_type: "full"
+
+  - sat:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+        - mtedx_portuguese
+      subset: 50000
+      num_leaves: 4200
+      max_gaussians: 40000
+      power: 0.2
+      silence_weight: 0.0
+      fmllr_update_type: "full"
+
+  - pronunciation_probabilities:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+        - mtedx_portuguese
+      subset: 50000
+      silence_probabilities: true
+
+  - sat:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+        - mtedx_portuguese
+      subset: 150000
+      num_leaves: 5000
+      max_gaussians: 100000
+      power: 0.2
+      silence_weight: 0.0
+      fmllr_update_type: "full"
+
+  - pronunciation_probabilities:
+      subset_folders:
+        - globalphone_portuguese
+        - mls_portuguese
+        - mtedx_portuguese
+      subset: 150000
+      silence_probabilities: true
+      optional: true # Skipped if the corpus is smaller than the subset
+
+  - sat:
+      subset: 0
+      quick: true # Performs fewer fMLLR estimation
+      num_iterations: 20
+      num_leaves: 7000
+      max_gaussians: 150000
+      power: 0.2
+      silence_weight: 0.0
+      fmllr_update_type: "full"
+      optional: true # Skipped if the corpus is smaller than the previous subset

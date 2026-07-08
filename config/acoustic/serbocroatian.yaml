@@ -1,6 +1,12 @@
 use_pitch: true
 use_voicing: true
 
+
+subcorpora:
+  common_voice_serbian:
+      boost_silence: 1.5
+      surrounding_silence: true
+
 training:
   - monophone:
       subset: 10000

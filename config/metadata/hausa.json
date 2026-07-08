@@ -1,0 +1,22 @@
+{
+  "model_id": "hausa_mfa",
+  "model_summary": "This MFA model is for aligning Hausa speech.",
+  "developers": "Michael McAuliffe",
+  "funded_by": "N/A",
+  "language": "Hausa",
+  "language_code": "ha",
+  "orthography": "Latin",
+  "phone_set": "MFA",
+  "preprocessing": "Preprocessing include fixes and orthographic standardization to various corpora.",
+  "testing_data": "N/A",
+  "testing_factors": "N/A",
+  "testing_metrics": "N/A",
+  "results": "N/A",
+  "direct_use": "This model is intended to be used for forced alignment of Hausa speech.  Please see https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/troubleshooting.html for details on common fixes.",
+  "out_of_scope_use": "This model cannot provide accurate assessments of goodness of pronunciations or provide transcripts as it is trained to be accepting of variation in pronunciation to provide a reasonable alignment for Hausa speech.",
+  "bias_risks_limitations": "This model will perform best on the variety of speech that it was trained on.  The speakers in the training data are all adult speakers, so child speech alignment may not be accurate.",
+  "bias_recommendations": "When using this model on a variety that it was not trained on, better results can be attained by adapting the model to the data to be aligned first.  See https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html and https://github.com/mmcauliffe/mfa-adaptation for example usage and scripts.",
+  "citation_bibtex": "@techreport{mfa_hausa_mfa_acoustic_2026,\n\tauthor={McAuliffe, Michael and Sonderegger, Morgan},\n\ttitle={Hausa MFA acoustic model v3.3.0},\n\taddress={\\url{https://huggingface.co/MontrealCorpusTools/hausa_mfa}},\n\tyear={2026},\n\tmonth={Jun},\n}",
+  "citation_apa": "McAuliffe, M. & Sonderegger, M. (2026). Hausa MFA acoustic model v3.3.0. Available at https://huggingface.co/MontrealCorpusTools/hausa_mfa.",
+  "contact_details": "For questions and issues, please file an issue either for this model at https://huggingface.co/MontrealCorpusTools/hausa_mfa/discussions or for larger MFA issues at https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/issues."
+}

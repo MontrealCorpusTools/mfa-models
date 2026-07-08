@@ -9,11 +9,11 @@ config.TEMPORARY_DIRECTORY = Path(__file__).parent.joinpath("temp")
 
 from montreal_forced_aligner.command_line.mfa import mfa_cli
 
-root_dir = Path(r"D:\Data\speech\model_training_corpora")
+root_dir = Path(r"C:\Users\micha\Documents\Data\model_training_corpora")
 
 
 languages = [
-    #'english',
+    "english",
     "korean",
     "bulgarian",
     "vietnamese",
@@ -38,7 +38,7 @@ languages = [
 ]
 
 languages = [
-    "spanish",
+    "portuguese",
 ]
 
 dictionary_mapping = {

@@ -4,3 +4,4 @@ punctuation:
 word_break_markers:
 use_pitch: true
 use_voicing: true
+language: thai

@@ -1,6 +1,11 @@
 use_pitch: false
 use_voicing: false
 
+subcorpora:
+  common_voice_spanish:
+      boost_silence: 1.5
+      surrounding_silence: true
+
 training:
   - monophone:
       subset_folders:

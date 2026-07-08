@@ -48,12 +48,26 @@ lang_codes = [
 ]
 
 lang_codes = [
-    "spanish_spain",
-    "spanish_latin_america",
-    "hindi",
-    "urdu",
+    # "spanish_spain",
+    # "spanish_latin_america",
+    # "hindi",
+    # "urdu",
     #'russian',
     #'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_ho_chi_minh_city',
+    # "korean"
+    # "russian",
+    "polish",
+    "bulgarian",
+    "english_us_arpa",
+    "thai",
+    "turkish",
+    "ukrainian",
+    "swahili",
+    "german",
+    "swahili",
+    "swedish",
+    "mandarin_china",
+    "mandarin_taiwan",
 ]
 
 unicode_decomposition_languages = ["korean"]
