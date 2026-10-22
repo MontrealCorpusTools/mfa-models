@@ -20,6 +20,18 @@ LANG_PATHS = {
     "french": "fra_latn_broad_filtered.tsv",
     "portuguese_brazil": "Portuguese.tsv",
     "portuguese_portugal": "Portuguese.tsv",
+    "english_us": "English.tsv",
+    "english_uk": "English.tsv",
+    "english_australian": "English.tsv",
+    "english_nz": "English.tsv",
+}
+
+DIALECTS = {
+    "english_us": {"General American", "US"},
+    "english_uk": {"Received Pronunciation", "UK"},
+    "english_australian": {"Australian"},
+    "english_nz": {"New Zealand"},
+    "english_india": {"India"},
 }
 
 # Full list of languages
@@ -28,7 +40,7 @@ LANG_PATHS = {
 #              'tamil', 'thai', 'turkish', 'ukrainian', 'mandarin_hani_beijing', 'mandarin_hani_taiwan', 'mandarin_hani_standard',
 #              'korean_hangul', 'hausa', 'japanese', 'vietnamese_hanoi', 'vietnamese_hue', 'vietnamese_hochiminhcity',
 #              'serbocroatian_croatian', 'serbocroatian_serbian']
-LANG_CODES = ["portuguese_brazil", "portuguese_portugal"]
+LANG_CODES = ["english_us"]
 
 BAD_GRAPHEMES = {
     "english_us": {
@@ -1058,6 +1070,9 @@ def _process_wiki_pron(phones):
 
 
 def _check_dialect(lang, dialect):
+    if lang in DIALECTS:
+        dialect = [x.strip() for x in dialect.split(",")]
+        return any(x in dialect for x in DIALECTS[lang])
     if not dialect:
         return True
     d = lang.split("_")[-1]
@@ -1085,9 +1100,9 @@ def read_source(lang):
                 line = line.split()
                 word = line[0]
                 pronunciation = line[1:]
-            if not _check_dialect(lang, dialect):
-                continue
             if _skip_word(word, lang):
+                continue
+            if not _check_dialect(lang, dialect):
                 continue
             pronunciation = _process_wiki_pron(pronunciation)
             graphemes.update(word)

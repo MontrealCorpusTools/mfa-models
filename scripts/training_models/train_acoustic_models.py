@@ -3,7 +3,7 @@ import sys
 
 from montreal_forced_aligner.command_line.mfa import mfa_cli
 
-MODEL_VERSION = "3.3.0"
+MODEL_VERSION = "3.4.3"
 
 root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 dictionary_dir = os.path.join(root_dir, "dictionary", "training")

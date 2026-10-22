@@ -7,27 +7,6 @@ staging_dir = os.path.join(root_dir, "staging")
 
 languages = [
     "english",
-    "korean",
-    "bulgarian",
-    "vietnamese",
-    "croatian",
-    "hausa",
-    "ukrainian",
-    "thai",
-    "swahili",
-    "turkish",
-    "spanish",
-    "swedish",
-    "portuguese",
-    "polish",
-    "french",
-    "czech",  #'japanese',
-    "russian",
-    "german",
-    "mandarin",  #'tamil',
-]
-languages = [
-    # "english",
     "english_us_arpa",
     "korean",
     "bulgarian",
@@ -50,6 +29,7 @@ languages = [
     "mandarin",  #'tamil',
     #'hindi',
     #'urdu',
+    "italian",
 ]
 
 if __name__ == "__main__":
@@ -67,7 +47,7 @@ if __name__ == "__main__":
             str(model_path),
             f"MontrealCorpusTools/{lang}",
             "--version",
-            "v3.3.0",
+            "v3.4.3",
         ]
         print(command)
         mfa_cli(command, standalone_mode=False)

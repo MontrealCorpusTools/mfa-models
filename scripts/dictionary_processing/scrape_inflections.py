@@ -14,20 +14,25 @@ HTTP_HEADERS = {
 }
 _PAGE_TEMPLATE = "https://en.wiktionary.org/wiki/{word}"
 
-LANGUAGE = "Portuguese"
+LANGUAGE = "Italian"
 
 CODES = {
     "Czech": "cs",
     "Spanish": "es",
     "Serbo-Croatian": "sh",
     "Portuguese": "pt",
+    "Italian": "it",
 }
 
 ROOT_DIR = pathlib.Path(__file__).resolve().parent.parent.parent
+training_directory = ROOT_DIR.joinpath("dictionary", "training")
 cleaned_directory = ROOT_DIR.joinpath("dictionary", "training", "cleaned")
 OUTPUT_DIR = ROOT_DIR.joinpath("dictionary", "training", "word_forms")
 
-WORD_PATHS = {"Portuguese": cleaned_directory.joinpath("portuguese_portugal_mfa.dict")}
+WORD_PATHS = {
+    "Portuguese": cleaned_directory.joinpath("portuguese_portugal_mfa.dict"),
+    "Italian": training_directory.joinpath("italian_mfa.dict"),
+}
 
 LANGUAGE_CODE = CODES[LANGUAGE]
 
@@ -60,12 +65,21 @@ def detect_shortening(title):
         "prop": "categories",
     }
     while True:
-        data = requests.get(
-            "https://en.wiktionary.org/w/api.php?",
-            params=requests_params,
-            headers=HTTP_HEADERS,
-        ).json()
         try:
+            response = requests.get(
+                "https://en.wiktionary.org/w/api.php?",
+                params=requests_params,
+                headers=HTTP_HEADERS,
+            )
+            if response.status_code == 429:
+                time.sleep(int(response.headers["retry-after"]))
+                continue
+            try:
+                data = response.json()
+            except requests.exceptions.JSONDecodeError:
+                print(response.text)
+                print(response.headers)
+                raise
             for category in data["parse"]["categories"]:
                 category = category["*"]
                 if category in {
@@ -124,11 +138,20 @@ def scrape(lemmas=False):
     is_skipping = LAST_WORD is not None
     with open(OUTPUT_DIR.joinpath(f"{LANGUAGE.lower()}_forms.txt"), "a", encoding="utf8") as out_f:
         while True:
-            data = requests.get(
+            response = requests.get(
                 "https://en.wiktionary.org/w/api.php?",
                 params=requests_params,
                 headers=HTTP_HEADERS,
-            ).json()
+            )
+            if response.status_code == 429:
+                time.sleep(int(response.headers["retry-after"]))
+                continue
+            try:
+                data = response.json()
+            except requests.exceptions.JSONDecodeError:
+                print(response.text)
+                print(response.headers)
+                raise
             try:
                 for member in data["query"]["categorymembers"]:
                     title = member["title"]
@@ -245,16 +268,27 @@ def scrape_verb_conjugations():
         "cmlimit": "500",
         "cmprop": "ids|title|timestamp|sortkey",
     }
+    if RESTART_KEY is not None:
+        requests_params.update({"cmstarthexsortkey": RESTART_KEY})
     current = 0
     with open(
         OUTPUT_DIR.joinpath(f"{LANGUAGE.lower()}_inflections.txt"), "a", encoding="utf8"
     ) as out_f:
         while True:
-            data = requests.get(
+            response = requests.get(
                 "https://en.wiktionary.org/w/api.php?",
                 params=requests_params,
                 headers=HTTP_HEADERS,
-            ).json()
+            )
+            if response.status_code == 429:
+                time.sleep(int(response.headers["retry-after"]))
+                continue
+            try:
+                data = response.json()
+            except requests.exceptions.JSONDecodeError:
+                print(response.text)
+                print(response.headers)
+                raise
             try:
                 for member in data["query"]["categorymembers"]:
                     title = member["title"]
@@ -322,12 +356,23 @@ def scrape_declensions():
                 "cmlimit": "500",
                 "cmprop": "ids|title|timestamp|sortkey",
             }
+            if RESTART_KEY is not None:
+                requests_params.update({"cmstarthexsortkey": RESTART_KEY})
             while True:
-                data = requests.get(
+                response = requests.get(
                     "https://en.wiktionary.org/w/api.php?",
                     params=requests_params,
                     headers=HTTP_HEADERS,
-                ).json()
+                )
+                if response.status_code == 429:
+                    time.sleep(int(response.headers["retry-after"]))
+                    continue
+                try:
+                    data = response.json()
+                except requests.exceptions.JSONDecodeError:
+                    print(response.text)
+                    print(response.headers)
+                    raise
                 try:
                     for member in data["query"]["categorymembers"]:
                         title = member["title"]
@@ -397,16 +442,22 @@ def scrape_related():
                 "cmlimit": "500",
                 "cmprop": "ids|title|timestamp|sortkey",
             }
+            if RESTART_KEY is not None:
+                requests_params.update({"cmstarthexsortkey": RESTART_KEY})
             while True:
+                response = requests.get(
+                    "https://en.wiktionary.org/w/api.php?",
+                    params=requests_params,
+                    headers=HTTP_HEADERS,
+                )
+                if response.status_code == 429:
+                    time.sleep(int(response.headers["retry-after"]))
+                    continue
                 try:
-                    d = requests.get(
-                        "https://en.wiktionary.org/w/api.php?",
-                        params=requests_params,
-                        headers=HTTP_HEADERS,
-                    )
-                    data = d.json()
+                    data = response.json()
                 except requests.exceptions.JSONDecodeError:
-                    print(d)
+                    print(response.text)
+                    print(response.headers)
                     raise
                 try:
                     for member in data["query"]["categorymembers"]:
@@ -473,11 +524,20 @@ def scrape_suffixes():
                 "cmprop": "ids|title|timestamp|sortkey",
             }
             while True:
-                data = requests.get(
+                response = requests.get(
                     "https://en.wiktionary.org/w/api.php?",
                     params=requests_params,
                     headers=HTTP_HEADERS,
-                ).json()
+                )
+                if response.status_code == 429:
+                    time.sleep(int(response.headers["retry-after"]))
+                    continue
+                try:
+                    data = response.json()
+                except requests.exceptions.JSONDecodeError:
+                    print(response.text)
+                    print(response.headers)
+                    raise
                 try:
                     for member in data["query"]["categorymembers"]:
                         title = member["title"]
@@ -538,11 +598,20 @@ def scrape_prefixes():
                 "cmprop": "ids|title|timestamp|sortkey",
             }
             while True:
-                data = requests.get(
+                response = requests.get(
                     "https://en.wiktionary.org/w/api.php?",
                     params=requests_params,
                     headers=HTTP_HEADERS,
-                ).json()
+                )
+                if response.status_code == 429:
+                    time.sleep(int(response.headers["retry-after"]))
+                    continue
+                try:
+                    data = response.json()
+                except requests.exceptions.JSONDecodeError:
+                    print(response.text)
+                    print(response.headers)
+                    raise
                 try:
                     for member in data["query"]["categorymembers"]:
                         title = member["title"]
@@ -584,11 +653,11 @@ def scrape_prefixes():
 
 if __name__ == "__main__":
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    RESTART_KEY = None
+    RESTART_KEY = "414343415250494f4e4552414e4e4f0a414343415250494f4e4552414e4e4f"
     LAST_WORD = None
     # scrape(lemmas=True)
-    # scrape(lemmas=False)
-    # scrape_verb_conjugations()
+    scrape(lemmas=False)
+    scrape_verb_conjugations()
     scrape_declensions()
 
     # scrape_related()

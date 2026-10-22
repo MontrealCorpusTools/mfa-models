@@ -38,7 +38,7 @@ languages = [
 ]
 
 languages = [
-    "portuguese",
+    "italian",
 ]
 
 dictionary_mapping = {
